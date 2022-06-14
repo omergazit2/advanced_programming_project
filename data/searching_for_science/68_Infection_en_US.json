@@ -1,0 +1,559 @@
+{
+    "search_metadata": {
+        "id": "627cfeda58762b6e1598df10",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d12c4815d5b22350/627cfeda58762b6e1598df10.json",
+        "created_at": "2022-05-12 12:34:34 UTC",
+        "processed_at": "2022-05-12 12:34:34 UTC",
+        "google_url": "https://www.google.com/search?q=Infection&oq=Infection&uule=w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz&hl=en&gl=US&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d12c4815d5b22350/627cfeda58762b6e1598df10.html",
+        "total_time_taken": 3.58
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Infection",
+        "uule": "w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "US",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Infection",
+        "total_results": 4560000000,
+        "time_taken_displayed": 0.59
+    },
+    "knowledge_graph": {
+        "title": "Infection",
+        "see_results_about": [
+            {
+                "name": "Infection",
+                "extensions": [
+                    "Peer‑reviewed journal"
+                ]
+            }
+        ]
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=Infection&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=X5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253BqYxpHtdv5UrztM%252Cb51ZA9hKYb6OaM%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253B-3q9JzhJVOYr8M%252C3XmscXi845XrIM%252C_%253BuPA_-6IbTY9pnM%252CnHXtLYX9V9CidM%252C_%253BOt1qVQwIj7LSMM%252CmRj8KUDcgTal2M%252C_%253B4Zd8Yfn2JZZAlM%252CzqWBR7VMdnuN1M%252C_%253B5Wgy8JRhVKsWUM%252C6-YI1hu7i51yFM%252C_%253BleBAsr9GBIBvlM%252CzYfUYRJlL9clVM%252C_%253BWi1DHbCJ9C5clM%252ClRLWxU6vfJ5w5M%252C_&usg=AI4_-kQXAXLf_yDB2Iwrza_pXXCfFhxBWw&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ9QF6BAgXEAE#imgrc=X5zGJIfh42j8MM",
+            "source": "https://www.verywellhealth.com/infection-5096014",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLfw4utLRBl54Jfc5FiE84_gzjeLYZmI6AHjsDaCzxQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=X5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253BqYxpHtdv5UrztM%252Cb51ZA9hKYb6OaM%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253B-3q9JzhJVOYr8M%252C3XmscXi845XrIM%252C_%253BuPA_-6IbTY9pnM%252CnHXtLYX9V9CidM%252C_%253BOt1qVQwIj7LSMM%252CmRj8KUDcgTal2M%252C_%253B4Zd8Yfn2JZZAlM%252CzqWBR7VMdnuN1M%252C_%253B5Wgy8JRhVKsWUM%252C6-YI1hu7i51yFM%252C_%253BleBAsr9GBIBvlM%252CzYfUYRJlL9clVM%252C_%253BWi1DHbCJ9C5clM%252ClRLWxU6vfJ5w5M%252C_&usg=AI4_-kQXAXLf_yDB2Iwrza_pXXCfFhxBWw&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ9QF6BAhPEAE#imgrc=qYxpHtdv5UrztM",
+            "source": "https://www.verywellhealth.com/what-is-a-bacterial-infection-770565",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusfZterQUcU68V5Tnu0Bci-qKP_idRI9Lquv1tOYTcw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=X5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253BqYxpHtdv5UrztM%252Cb51ZA9hKYb6OaM%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253B-3q9JzhJVOYr8M%252C3XmscXi845XrIM%252C_%253BuPA_-6IbTY9pnM%252CnHXtLYX9V9CidM%252C_%253BOt1qVQwIj7LSMM%252CmRj8KUDcgTal2M%252C_%253B4Zd8Yfn2JZZAlM%252CzqWBR7VMdnuN1M%252C_%253B5Wgy8JRhVKsWUM%252C6-YI1hu7i51yFM%252C_%253BleBAsr9GBIBvlM%252CzYfUYRJlL9clVM%252C_%253BWi1DHbCJ9C5clM%252ClRLWxU6vfJ5w5M%252C_&usg=AI4_-kQXAXLf_yDB2Iwrza_pXXCfFhxBWw&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ9QF6BAhcEAE#imgrc=rrfUmFIh3GX1aM",
+            "source": "https://www.timeshighereducation.com/cn/hub/qatar-university/p/investigating-infection",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSD8v-z5DXzUvYbcng2S6bdh_09FLnYlRzlkSMswDR3A&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=X5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253BqYxpHtdv5UrztM%252Cb51ZA9hKYb6OaM%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253B-3q9JzhJVOYr8M%252C3XmscXi845XrIM%252C_%253BuPA_-6IbTY9pnM%252CnHXtLYX9V9CidM%252C_%253BOt1qVQwIj7LSMM%252CmRj8KUDcgTal2M%252C_%253B4Zd8Yfn2JZZAlM%252CzqWBR7VMdnuN1M%252C_%253B5Wgy8JRhVKsWUM%252C6-YI1hu7i51yFM%252C_%253BleBAsr9GBIBvlM%252CzYfUYRJlL9clVM%252C_%253BWi1DHbCJ9C5clM%252ClRLWxU6vfJ5w5M%252C_&usg=AI4_-kQXAXLf_yDB2Iwrza_pXXCfFhxBWw&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ9QF6BAhaEAE#imgrc=-3q9JzhJVOYr8M",
+            "source": "https://www.spineuniverse.com/conditions/spinal-infection/infections-spine",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTcEYF-_7U0dIW9XFyOWIqleEtrMqtv2Sqn5pl0N-&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=X5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253BqYxpHtdv5UrztM%252Cb51ZA9hKYb6OaM%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253B-3q9JzhJVOYr8M%252C3XmscXi845XrIM%252C_%253BuPA_-6IbTY9pnM%252CnHXtLYX9V9CidM%252C_%253BOt1qVQwIj7LSMM%252CmRj8KUDcgTal2M%252C_%253B4Zd8Yfn2JZZAlM%252CzqWBR7VMdnuN1M%252C_%253B5Wgy8JRhVKsWUM%252C6-YI1hu7i51yFM%252C_%253BleBAsr9GBIBvlM%252CzYfUYRJlL9clVM%252C_%253BWi1DHbCJ9C5clM%252ClRLWxU6vfJ5w5M%252C_&usg=AI4_-kQXAXLf_yDB2Iwrza_pXXCfFhxBWw&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ9QF6BAheEAE#imgrc=uPA_-6IbTY9pnM",
+            "source": "https://www.preventcancerinfections.org/health-tip-sheet/what-infection",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNclwNscxcum0pNd4MAEFe2SJFo9HJo6S9Y67uXNE&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=X5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253BqYxpHtdv5UrztM%252Cb51ZA9hKYb6OaM%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253B-3q9JzhJVOYr8M%252C3XmscXi845XrIM%252C_%253BuPA_-6IbTY9pnM%252CnHXtLYX9V9CidM%252C_%253BOt1qVQwIj7LSMM%252CmRj8KUDcgTal2M%252C_%253B4Zd8Yfn2JZZAlM%252CzqWBR7VMdnuN1M%252C_%253B5Wgy8JRhVKsWUM%252C6-YI1hu7i51yFM%252C_%253BleBAsr9GBIBvlM%252CzYfUYRJlL9clVM%252C_%253BWi1DHbCJ9C5clM%252ClRLWxU6vfJ5w5M%252C_&usg=AI4_-kQXAXLf_yDB2Iwrza_pXXCfFhxBWw&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ9QF6BAhhEAE#imgrc=Ot1qVQwIj7LSMM",
+            "source": "https://www.merck.com/research-and-products/infectious-diseases/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0YB4Pm7SPtgJuu_QuY4hGTN_oHVRK_bzdNWrQZa7WWw&s=0"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=X5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253BqYxpHtdv5UrztM%252Cb51ZA9hKYb6OaM%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253B-3q9JzhJVOYr8M%252C3XmscXi845XrIM%252C_%253BuPA_-6IbTY9pnM%252CnHXtLYX9V9CidM%252C_%253BOt1qVQwIj7LSMM%252CmRj8KUDcgTal2M%252C_%253B4Zd8Yfn2JZZAlM%252CzqWBR7VMdnuN1M%252C_%253B5Wgy8JRhVKsWUM%252C6-YI1hu7i51yFM%252C_%253BleBAsr9GBIBvlM%252CzYfUYRJlL9clVM%252C_%253BWi1DHbCJ9C5clM%252ClRLWxU6vfJ5w5M%252C_&usg=AI4_-kQXAXLf_yDB2Iwrza_pXXCfFhxBWw&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ9QF6BAhgEAE#imgrc=4Zd8Yfn2JZZAlM",
+            "source": "https://magazine.zhermack.com/en/hygiene-en/sources-of-infection-in-surgery-pathogen-micro-organisms-that-cause-infections-in-dentistry/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nhx1X8xOsUMvsOzl0W-Or3PwJ70C3Z3_K4B5tF_RAg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=X5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253BqYxpHtdv5UrztM%252Cb51ZA9hKYb6OaM%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253B-3q9JzhJVOYr8M%252C3XmscXi845XrIM%252C_%253BuPA_-6IbTY9pnM%252CnHXtLYX9V9CidM%252C_%253BOt1qVQwIj7LSMM%252CmRj8KUDcgTal2M%252C_%253B4Zd8Yfn2JZZAlM%252CzqWBR7VMdnuN1M%252C_%253B5Wgy8JRhVKsWUM%252C6-YI1hu7i51yFM%252C_%253BleBAsr9GBIBvlM%252CzYfUYRJlL9clVM%252C_%253BWi1DHbCJ9C5clM%252ClRLWxU6vfJ5w5M%252C_&usg=AI4_-kQXAXLf_yDB2Iwrza_pXXCfFhxBWw&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ9QF6BAhHEAE#imgrc=5Wgy8JRhVKsWUM",
+            "source": "https://www.ernesthealth.com/2019/07/23/infection-prevention-in-hospitals/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPi0rZ2lt3_Z97zhdkh3HUGLOQVdFymYW91dWyWUXwEA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=X5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253BqYxpHtdv5UrztM%252Cb51ZA9hKYb6OaM%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253B-3q9JzhJVOYr8M%252C3XmscXi845XrIM%252C_%253BuPA_-6IbTY9pnM%252CnHXtLYX9V9CidM%252C_%253BOt1qVQwIj7LSMM%252CmRj8KUDcgTal2M%252C_%253B4Zd8Yfn2JZZAlM%252CzqWBR7VMdnuN1M%252C_%253B5Wgy8JRhVKsWUM%252C6-YI1hu7i51yFM%252C_%253BleBAsr9GBIBvlM%252CzYfUYRJlL9clVM%252C_%253BWi1DHbCJ9C5clM%252ClRLWxU6vfJ5w5M%252C_&usg=AI4_-kQXAXLf_yDB2Iwrza_pXXCfFhxBWw&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ9QF6BAhDEAE#imgrc=leBAsr9GBIBvlM",
+            "source": "https://www.infectioncontroltoday.com/view/path-sepsis-varies-bacterial-infection",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTAw0z42HOmtsox4NEzWR-XbJbzhgzVbMvv4ExUPJdg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=X5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253BqYxpHtdv5UrztM%252Cb51ZA9hKYb6OaM%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253B-3q9JzhJVOYr8M%252C3XmscXi845XrIM%252C_%253BuPA_-6IbTY9pnM%252CnHXtLYX9V9CidM%252C_%253BOt1qVQwIj7LSMM%252CmRj8KUDcgTal2M%252C_%253B4Zd8Yfn2JZZAlM%252CzqWBR7VMdnuN1M%252C_%253B5Wgy8JRhVKsWUM%252C6-YI1hu7i51yFM%252C_%253BleBAsr9GBIBvlM%252CzYfUYRJlL9clVM%252C_%253BWi1DHbCJ9C5clM%252ClRLWxU6vfJ5w5M%252C_&usg=AI4_-kQXAXLf_yDB2Iwrza_pXXCfFhxBWw&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ9QF6BAgxEAE#imgrc=Wi1DHbCJ9C5clM",
+            "source": "https://www.webmd.com/a-to-z-guides/bacterial-and-viral-infections",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2nUa4foFR7AWEeY6rFSd10iA6eenE1NmIlsADSKfUzA&s"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Half Of Covid Survivors Show 1 Symptom Even 2 Years After: Lancet Journal",
+            "link": "https://www.ndtv.com/world-news/half-of-covid-survivors-have-1-symptom-2-years-after-infection-lancet-2968213",
+            "source": "NDTV.com",
+            "date": "6 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVJ8BQ--MPolCvdurZQMNMuOsWPSz8NFC4CXEEQWzZr41RMBEIo6xlyGZ1Q&usqp=CAI&s=10"
+        },
+        {
+            "title": "Shanghai posts falling Covid-19 infections and deaths",
+            "link": "https://www.scmp.com/business/china-business/article/3177426/coronavirus-shanghai-posts-falling-covid-19-infections",
+            "source": "South China Morning Post",
+            "date": "41 mins ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0D-ddctFYrQYRGK4nisjGjcAYNQ3qAp-h2nCMhud2PwayZdwko37ZCsQ&usqp=CAI&s"
+        },
+        {
+            "title": "Kim declares 'most serious emergency' as North Korea reports first Covid cases",
+            "link": "https://www.nbcnews.com/news/world/north-korea-reports-first-coronavirus-infection-rcna28451",
+            "source": "NBC News",
+            "date": "11 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqojSCF11-HDvySLBSNb9c3Jzs-WCeTJ2lk5kbi1Mqo2dVXiUrv-d0RPo&usqp=CAI&s"
+        },
+        {
+            "title": "Coronavirus 'ghosts' found lingering in the gut",
+            "link": "https://www.nature.com/articles/d41586-022-01280-3",
+            "source": "Nature",
+            "date": "19 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoh_h49TxT_6GFJSID42dksaXb8tHuajipwPkM0y4wRd61MWwW4AxNdDc&usqp=CAI&s"
+        },
+        {
+            "title": "Most COVID transmission is still asymptomatic",
+            "link": "https://abcnews.go.com/Health/covid-transmission-asymptomatic/story?id=84599810",
+            "source": "ABC News",
+            "date": "22 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz5mBbceU5soX7wRsCGiZoxbxn4OH8OLIiscS5-yARy9mh-8wlF7cZ_K0&usqp=CAI&s"
+        },
+        {
+            "title": "Outlook on the Urinary Tract Infection Treatment Global Market to 2027 - Featuring Novartis, Allergan and GlaxoSmithKline Among Others",
+            "link": "https://finance.yahoo.com/news/outlook-urinary-tract-infection-treatment-104800162.html",
+            "source": "Yahoo Finance",
+            "date": "1 hour ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPBnYNSjAubOIfiBbPjJHojWb3QZ7HZ87yHaSJ1dEUg0W5jRR1pqMMgloM3g&s"
+        },
+        {
+            "title": "Safety, immunogenicity, and reactogenicity of BNT162b2 and mRNA-1273 COVID-19 vaccines given as fourth-dose ...",
+            "link": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00271-7/fulltext",
+            "source": "The Lancet",
+            "date": "2 days ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIuqy3c_YMGPSX8AKTi42rJBReIUCl-9ZWWtOb8x3sjCigOw3pqbrL6Vc&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=US&hl=en&q=Infection&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQt8YBegQIRRAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&tbm=nws&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+    "related_questions": [
+        {
+            "question": "What are the 4 types of infections?",
+            "snippet": "The four different categories of infectious agents are bacteria, viruses, fungi, and parasites. When studying these agents, researchers isolate them using certain characteristics: Size of the infectious agent.Jun 18, 2020",
+            "title": "Different Types of Infectious Diseases | Nanocellect",
+            "link": "https://nanocellect.com/blog/different-types-of-infectious-diseases/",
+            "displayed_link": "https://nanocellect.com › blog › different-types-of-infecti..."
+        },
+        {
+            "question": "What are the five signs of an infection?",
+            "title": "Signs of Infection",
+            "link": "https://physicianoneurgentcare.com/blog/signs-of-infection/",
+            "list": [
+                "Increased pain or swelling.",
+                "A foul smell from the wound.",
+                "Pus-like drainage, fever or chills.",
+                "Increasing redness around the wound.",
+                "Red streaks moving away from the wound."
+            ],
+            "displayed_link": "https://physicianoneurgentcare.com › blog › signs-of-infe..."
+        },
+        {
+            "question": "What causes infection?",
+            "snippet": "An infection occurs when germs enter the body, increase in number, and cause a reaction of the body. Three things are necessary for an infection to occur: Source: Places where infectious agents (germs) live (e.g., sinks, surfaces, human skin) Susceptible Person with a way for germs to enter the body.",
+            "title": "How Infections Spread | Infection Control | CDC",
+            "link": "https://www.cdc.gov/infectioncontrol/spread/index.html",
+            "displayed_link": "https://www.cdc.gov › infectioncontrol › spread"
+        },
+        {
+            "question": "What is an example of an infection?",
+            "snippet": "Infectious diseases are diseases caused by living organisms like viruses and bacteria. Described as contagious, they can be passed from person to person through body secretions, insects or other means. Examples are SARS, influenza, the common cold, tuberculosis (TB), Hepatitis A and B.",
+            "title": "Infectious Diseases - HealthHub",
+            "link": "https://www.healthhub.sg/a-z/diseases-and-conditions/500/examplesofinfectiousdiseases_pdf",
+            "displayed_link": "https://www.healthhub.sg › diseases-and-conditions › exa..."
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "in·fec·tion",
+        "word_type": "noun",
+        "definitions": [
+            "the process of infecting or the state of being infected.",
+            "an infectious disease.",
+            "the presence of a virus in, or its introduction into, a computer system."
+        ],
+        "extras": [
+            "contamination",
+            "poison",
+            "septicemia",
+            "inflammation",
+            "germs",
+            "bacteria",
+            "microbes",
+            "sepsis",
+            "disease",
+            "virus",
+            "contagion",
+            "disorder",
+            "condition",
+            "affliction",
+            "problem",
+            "complaint",
+            "illness",
+            "ailment",
+            "sickness",
+            "infirmity",
+            "indisposition",
+            "bug"
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Infection: Types, causes, and differences - Medical News Today",
+            "link": "https://www.medicalnewstoday.com/articles/196271",
+            "displayed_link": "https://www.medicalnewstoday.com › articles",
+            "snippet": "Infection refers to an invasion of the body by harmful microorganisms or parasites. The severity can range from mild to fatal. Treatment depends on the type ...",
+            "snippet_highlighted_words": [
+                "Infection"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Pus",
+                        "link": "https://www.medicalnewstoday.com/articles/249182"
+                    },
+                    {
+                        "title": "Communicable diseases",
+                        "link": "https://www.medicalnewstoday.com/articles/communicable-diseases"
+                    },
+                    {
+                        "title": "Airborne diseases",
+                        "link": "https://www.medicalnewstoday.com/articles/317632"
+                    },
+                    {
+                        "title": "Pathogens",
+                        "link": "https://www.medicalnewstoday.com/articles/pathogens-definition"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Medical News Today is a web-based outlet for medical information and news, targeted at both the general public and physicians. All posted content is available online, and the earliest available article dates from May 2003.\nThe website has been owned by Healthline Media since 2016.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Medical_News_Today",
+                    "icon": "https://serpapi.com/searches/627cfeda58762b6e1598df10/images/9012e98b293982fe34d1cfe24aefab46d25b614857a45ebb6e04a609d776aafb90e3f63e371a5e15c56777605fb277db.png"
+                },
+                "keywords": [
+                    "infection"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.medicalnewstoday.com/articles/196271&tbm=ilp&ilps=ADNMCi1ipNBWKFwiAWyQvfy6zZZlgqxQjg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4nWWkRFdf3gJ:https://www.medicalnewstoday.com/articles/196271+&cd=11&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Infection - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Infection",
+            "displayed_link": "https://en.wikipedia.org › wiki › Infection",
+            "snippet": "An infection is the invasion of an organism's body tissues by pathogens, their multiplication, and the reaction of host tissues to the infectious agents and ...",
+            "snippet_highlighted_words": [
+                "infection",
+                "infectious"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Skin infection",
+                        "link": "https://en.wikipedia.org/wiki/Skin_infection"
+                    },
+                    {
+                        "title": "Opportunistic infection",
+                        "link": "https://en.wikipedia.org/wiki/Opportunistic_infection"
+                    },
+                    {
+                        "title": "Infection (disambiguation)",
+                        "link": "https://en.wikipedia.org/wiki/Infection_(disambiguation)"
+                    },
+                    {
+                        "title": "Infection rate",
+                        "link": "https://en.wikipedia.org/wiki/Infection_rate"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "icon": "https://serpapi.com/searches/627cfeda58762b6e1598df10/images/9012e98b293982fe34d1cfe24aefab46310a8d6be34c16518fbe23f5813e51e37cb2d775fda4326180ffd09f4a81bc5b.png"
+                },
+                "keywords": [
+                    "infection"
+                ],
+                "related_keywords": [
+                    "infectious"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Infection&tbm=ilp&ilps=ADNMCi2NGVZtDPlZRb3lxsN02VE0THvThA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:C-UmyRs8HG8J:https://en.wikipedia.org/wiki/Infection+&cd=12&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://en.wikipedia.org/wiki/Infection+Infection"
+        },
+        {
+            "position": 3,
+            "title": "How Infections Spread | Infection Control | CDC",
+            "link": "https://www.cdc.gov/infectioncontrol/spread/index.html",
+            "displayed_link": "https://www.cdc.gov › infectioncontrol › spread",
+            "snippet": "An infection occurs when germs enter the body, increase in number, and cause a reaction of the body. Three things are necessary for an infection to occur:.",
+            "snippet_highlighted_words": [
+                "infection",
+                "infection"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Centers for Disease Control and Prevention is the national public health agency of the United States. It is a United States federal agency, under the Department of Health and Human Services, and is headquartered in Atlanta, Georgia.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention",
+                    "icon": "https://serpapi.com/searches/627cfeda58762b6e1598df10/images/9012e98b293982fe34d1cfe24aefab46ea79f169beda7fc8d48cc558c6277fe0f729a64681b99b576bc1c1e117d1ebab.png"
+                },
+                "keywords": [
+                    "infection"
+                ],
+                "related_keywords": [
+                    "infections"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cdc.gov/infectioncontrol/spread/index.html&tbm=ilp&ilps=ADNMCi0bMjLx-IdEAhHknseXc1ob-FkScQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_Y6X-qi45DMJ:https://www.cdc.gov/infectioncontrol/spread/index.html+&cd=13&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Definition of infection - NCI Dictionary of Cancer Terms",
+            "link": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/infection",
+            "displayed_link": "https://www.cancer.gov › cancer-terms › def › infection",
+            "snippet": "The invasion and growth of germs in the body. The germs may be bacteria, viruses, yeast, fungi, or other microorganisms. Infections can begin anywhere in the ...",
+            "snippet_highlighted_words": [
+                "Infections"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "cancer.gov was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfeda58762b6e1598df10/images/9012e98b293982fe34d1cfe24aefab4690a9879754debba06d774854ff614391bb6b5388a907b7cd13b2f6500a4170cb.png"
+                },
+                "keywords": [
+                    "infection"
+                ],
+                "related_keywords": [
+                    "infections"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cancer.gov/publications/dictionaries/cancer-terms/def/infection&tbm=ilp&ilps=ADNMCi11Nrb_8xhfJvfkSmVR3g8oTLdm8A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nbF2BHoEdUgJ:https://www.cancer.gov/publications/dictionaries/cancer-terms/def/infection+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Medical Definition of Infection - RxList",
+            "link": "https://www.rxlist.com/infection/definition.htm",
+            "displayed_link": "https://www.rxlist.com › infection › definition",
+            "snippet": "Infection: The invasion and multiplication of microorganisms such as bacteria, viruses, and parasites that are not normally present within the body.",
+            "snippet_highlighted_words": [
+                "Infection"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "RxList is an online medical resource of US prescription medications providing full prescribing information and patient education. It was founded in 1995 by Neil Sandow, Pharm.D..\nRxList is an owned and operated site in the WebMD Consumer Network and was acquired by WebMD in December 2004.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/RxList",
+                    "icon": "https://serpapi.com/searches/627cfeda58762b6e1598df10/images/9012e98b293982fe34d1cfe24aefab46ade69486dbe26f6cb579d8de52f411f29e66e767d04b979d719b54cbe5fc6b0b.png"
+                },
+                "keywords": [
+                    "infection"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.rxlist.com/infection/definition.htm&tbm=ilp&ilps=ADNMCi2cOiY-1IEUIxWoHMxeAmGKJgTucA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oM8mym33EFYJ:https://www.rxlist.com/infection/definition.htm+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Bacterial vs. Viral Infections: The Differences Explained",
+            "link": "https://www.webmd.com/a-to-z-guides/bacterial-and-viral-infections",
+            "displayed_link": "https://www.webmd.com › A to Z Guides › Reference",
+            "date": "Apr 17, 2021",
+            "snippet": "Bacterial and viral infections have many things in common. Both types of infections are caused by microbes -- bacteria and viruses, respectively ...",
+            "snippet_highlighted_words": [
+                "infections",
+                "infections"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "WebMD is an American corporation known primarily as an online publisher of news and information pertaining to human health and well-being. The site includes information pertaining to drugs. It is one of the top healthcare websites.\nIt was founded in 1998 by internet entrepreneur Jeff Arnold.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/WebMD",
+                    "icon": "https://serpapi.com/searches/627cfeda58762b6e1598df10/images/9012e98b293982fe34d1cfe24aefab4655f86f4c6f4835db6a1af60acc1d982810db27fce33e00dcd8d1cf41e3d3af08.png"
+                },
+                "keywords": [
+                    "infection"
+                ],
+                "related_keywords": [
+                    "infections"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.webmd.com/a-to-z-guides/bacterial-and-viral-infections&tbm=ilp&ilps=ADNMCi0zGvkqBAlEig-SEDsIKk4VADShFA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lRLWxU6vfJ4J:https://www.webmd.com/a-to-z-guides/bacterial-and-viral-infections+&cd=23&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Infection | Home - Springer",
+            "link": "https://www.springer.com/journal/15010",
+            "displayed_link": "https://www.springer.com › journal",
+            "snippet": "The journal Infection is a peer-reviewed forum for the presentation and discussion of clinically relevant information on infectious diseases for readers and ...",
+            "snippet_highlighted_words": [
+                "Infection",
+                "infectious"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "springer.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfeda58762b6e1598df10/images/9012e98b293982fe34d1cfe24aefab4681523e7e89d03da81f228697ad800870a3347bed3131ceb785af5a34fbd18b74.png"
+                },
+                "keywords": [
+                    "infection"
+                ],
+                "related_keywords": [
+                    "infectious"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.springer.com/journal/15010&tbm=ilp&ilps=ADNMCi2cisN4SaZSt_0jNDK37pj3lM-leA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QkAj6dShuq8J:https://www.springer.com/journal/15010+&cd=24&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "Infectious diseases - Symptoms and causes - Mayo Clinic",
+            "link": "https://www.mayoclinic.org/diseases-conditions/infectious-diseases/symptoms-causes/syc-20351173",
+            "displayed_link": "https://www.mayoclinic.org › syc-20351173",
+            "date": "Feb 18, 2022",
+            "snippet": "Viruses, bacteria, fungi and parasites can all cause infection. Find out more about how to prevent and treat these conditions.",
+            "snippet_highlighted_words": [
+                "infection"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Mayo Clinic is a nonprofit American academic medical center focused on integrated health care, education, and research.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Mayo_Clinic",
+                    "icon": "https://serpapi.com/searches/627cfeda58762b6e1598df10/images/9012e98b293982fe34d1cfe24aefab462b65832832fcde9ec5589922d109cfd748695e15600c146710b77e287172b3a2.png"
+                },
+                "keywords": [
+                    "infection"
+                ],
+                "related_keywords": [
+                    "infectious"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mayoclinic.org/diseases-conditions/infectious-diseases/symptoms-causes/syc-20351173&tbm=ilp&ilps=ADNMCi2vJnFjgnEIyl6C6-PkNMPnU6VwuA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:l6esaHBYqhoJ:https://www.mayoclinic.org/diseases-conditions/infectious-diseases/symptoms-causes/syc-20351173+&cd=35&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "infection symptoms",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Infection+symptoms&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "types of infections",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Types+of+infections&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "4 types of infections",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=4+types+of+infections&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "bacterial infection",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Bacterial+infection&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "infection definition medical",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Infection+definition+medical&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "what causes infection",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=What+causes+infection&sa=X&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ1QJ6BAg0EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Infection&gl=US&hl=en&ei=3P58YrfWG4X5tAakvLSICQ&start=10&sa=N&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Infection&gl=US&hl=en&ei=3P58YrfWG4X5tAakvLSICQ&start=10&sa=N&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Infection&gl=US&hl=en&ei=3P58YrfWG4X5tAakvLSICQ&start=20&sa=N&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Infection&gl=US&hl=en&ei=3P58YrfWG4X5tAakvLSICQ&start=30&sa=N&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Infection&gl=US&hl=en&ei=3P58YrfWG4X5tAakvLSICQ&start=40&sa=N&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Infection&gl=US&hl=en&ei=3P58YrfWG4X5tAakvLSICQ&start=50&sa=N&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Infection&gl=US&hl=en&ei=3P58YrfWG4X5tAakvLSICQ&start=60&sa=N&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Infection&gl=US&hl=en&ei=3P58YrfWG4X5tAakvLSICQ&start=70&sa=N&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Infection&gl=US&hl=en&ei=3P58YrfWG4X5tAakvLSICQ&start=80&sa=N&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Infection&gl=US&hl=en&ei=3P58YrfWG4X5tAakvLSICQ&start=90&sa=N&ved=2ahUKEwi3tP2-_Nn3AhWFPM0KHSQeDZEQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=20&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=30&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=40&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=50&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=60&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=70&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=80&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Infection&start=90&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        }
+    }
+}

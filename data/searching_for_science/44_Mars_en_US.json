@@ -1,0 +1,660 @@
+{
+    "search_metadata": {
+        "id": "629e3cebdefa13f511d7ab2a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/abcedf2452ed951a/629e3cebdefa13f511d7ab2a.json",
+        "created_at": "2022-06-06 17:44:11 UTC",
+        "processed_at": "2022-06-06 17:44:11 UTC",
+        "google_url": "https://www.google.com/search?q=Mars&oq=Mars&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/abcedf2452ed951a/629e3cebdefa13f511d7ab2a.html",
+        "total_time_taken": 1.03
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Mars",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Mars",
+        "total_results": 1900000000,
+        "time_taken_displayed": 0.76
+    },
+    "knowledge_graph": {
+        "title": "Mars",
+        "type": "Planet",
+        "header_images": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Mars"
+            },
+            {
+                "source": "https://starwalk.space/en/news/mars-the-ultimate-guide"
+            },
+            {
+                "source": "https://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html"
+            },
+            {
+                "source": "https://mars.nasa.gov/mars-exploration/missions/mars-sample-return/"
+            },
+            {
+                "source": "https://slate.com/technology/2022/04/end-of-astronauts-excerpt-mars-robots-humans.html"
+            }
+        ],
+        "description": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Mars"
+        },
+        "view_on_maps": "google.com/maps/space/mars",
+        "view_on_maps_links": [
+            {
+                "text": "View on Maps",
+                "link": "https://www.google.com/search?q=mars+view+on+maps&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9aSzU620s8uiM8p1y_IScxLLYnPTSywAuL4nMy87EWsgrmJRcUKZZmp5Qr5eQpA8WIAvFiUlj8AAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ6BMoAHoFCIABEAI"
+            },
+            {
+                "text": "google.com/maps/space/mars",
+                "link": "http://www.google.com/maps/space/mars"
+            }
+        ],
+        "distance_from_sun": "141.6 million mi",
+        "distance_from_sun_links": [
+            {
+                "text": "Distance from Sun",
+                "link": "https://www.google.com/search?q=mars+distance+from+sun&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSy0620k8sLinKz8vPrdQvyEnMSy2xSsksLknMS05VSCvKz1UoLs1bxCqWm1hUrIAhAQApfrmqTQAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ6BMoAHoFCIQBEAI"
+            }
+        ],
+        "orbital_period": "687 days",
+        "orbital_period_links": [
+            {
+                "text": "Orbital period",
+                "link": "https://www.google.com/search?q=mars+orbital+period&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9YyzE620k8sLinKz8vPrdTPL0rKLEnMiS9KzUksyczPK87ILLCCCioUpBZl5qcsYhXOTSwqVkAVBQAWeQLCVQAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ6BMoAHoECH4QAg"
+            }
+        ],
+        "surface_area": "55.91 million mi²",
+        "surface_area_links": [
+            {
+                "text": "Surface area",
+                "link": "https://www.google.com/search?q=mars+surface+area&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9aSzE620k8sLinKz8vPrdQvyEnMSy2xSixKTVzEKpibWFSsUFxalJaYnKoAEgMAUlvXXzsAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ6BMoAHoFCIEBEAI"
+            }
+        ],
+        "length_of_day": "1d 0h 37m",
+        "length_of_day_links": [
+            {
+                "text": "Length of day",
+                "link": "https://www.google.com/search?q=mars+length+of+day&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSyk620k8sLinKz8vPrdQvyEnMSy2xyknNSy_JUMhPU0hJrFzEKpSbWFSsgCIIAFRqHUFFAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ6BMoAHoFCIIBEAI"
+            }
+        ],
+        "gravity": "3.721 m/s²",
+        "gravity_links": [
+            {
+                "text": "Gravity",
+                "link": "https://www.google.com/search?q=mars+gravity&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSy0620k8sLinKz8vPrdRPTs1JLS7JTMyJz0_KSk0usUovSizLLKlcxMqTm1hUrADlAgCCHDlqQwAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ6BMoAHoFCIMBEAI"
+            }
+        ],
+        "moons": "Phobos, Deimos",
+        "moons_links": [
+            {
+                "text": "Moons",
+                "link": "https://www.google.com/search?q=mars+moons&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSz0620k8sLinKz8vPrdTPL0rKLEnMiS9KzUksyczPK87ILLDKzc_PW8TKlZtYVKwAYhcDAG9_V5JCAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ6BMoAHoFCIUBEAI"
+            },
+            {
+                "text": "Phobos",
+                "link": "https://www.google.com/search?q=Phobos+(moon)&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL1YCs1IqCrO01LOTrfQTi0uK8vPycyv184uSMksSc-KLUnMSSzLz84ozMguscvPz8xax8gZk5CflFytogLiaO1gZd7EzcTACAEry38lXAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQmxMoAXoFCIUBEAM"
+            },
+            {
+                "text": "Deimos",
+                "link": "https://www.google.com/search?q=Deimos+(moon)&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL1YCszKKTY211LOTrfQTi0uK8vPycyv184uSMksSc-KLUnMSSzLz84ozMguscvPz8xax8rqkZubmFytogLiaO1gZd7EzcTACAHcHkrNXAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQmxMoAnoFCIUBEAQ"
+            }
+        ],
+        "spacecraft_on_mars": [
+            {
+                "name": "Perseverance",
+                "link": "https://www.google.com/search?q=Perseverance+rover&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1bi1U_XNzRMMi20NE8pz9ESyU620k_Oz83Nz7NKyS_PK08sSilexcgVXJCYnJpclJhWsohVKCC1qDi1LLUoMS85VaEoH8jawcoIAD2qVdlWAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhiEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Perseverance+rover&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1bi1U_XNzRMMi20NE8pz9ESyU620k_Oz83Nz7NKyS_PK08sSilexcgVXJCYnJpclJhWsohVKCC1qDi1LLUoMS85VaEoH8jawcoIAD2qVdlWAAAA",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff559620b5054fe930f3206fdd9ed65174e60f4dc9f96bb11f270d936ec284395315fe.jpeg"
+            },
+            {
+                "name": "Mars Reconn...",
+                "link": "https://www.google.com/search?q=Mars+Reconnaissance+Orbiter&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biBLGMkpIzzLVEspOt9JPzc3Pz86xS8svzyhOLUopXMXIFFyQmpyYXJaaVLGKV9k0sKlYISk3Oz8tLzCwuTsxLTlXwL0rKLEkt2sHKCACCUHUnWwAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhiEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars+Reconnaissance+Orbiter&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biBLGMkpIzzLVEspOt9JPzc3Pz86xS8svzyhOLUopXMXIFFyQmpyYXJaaVLGKV9k0sKlYISk3Oz8tLzCwuTsxLTlXwL0rKLEkt2sHKCACCUHUnWwAAAA",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff559620b5054fe930f3206fdd9ed65174e60f6da33eed99fcde285816e350170cb33d.jpeg"
+            },
+            {
+                "name": "Curiosity",
+                "link": "https://www.google.com/search?q=Curiosity+rover&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biArGy89IMCo20RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyBRckJqcmFyWmlSxi5XcuLcrML84sqVQoyi9LLdrByggA4gouSVAAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhiEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Curiosity+rover&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biArGy89IMCo20RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyBRckJqcmFyWmlSxi5XcuLcrML84sqVQoyi9LLdrByggA4gouSVAAAAA",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff559620b5054fe930f3206fdd9ed65174e60f9201a1a6876ed96c3599651c69f2e95c.jpeg"
+            },
+            {
+                "name": "InSight",
+                "link": "https://www.google.com/search?q=InSight+Lander&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biArEy8ixz49O0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyBRckJqcmFyWmlSxi5fPMC85MzyhR8EnMS0kt2sHKCAAxom4sTwAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhiEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=InSight+Lander&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biArEy8ixz49O0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyBRckJqcmFyWmlSxi5fPMC85MzyhR8EnMS0kt2sHKCAAxom4sTwAAAA",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff559620b5054fe930f3206fdd9ed65174e60fbf49dd93944335472aecfc6044e79d29.jpeg"
+            }
+        ],
+        "spacecraft_on_mars_link": "https://www.google.com/search?q=Spacecraft+On+Mars&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMXIFFyQmpyYXJaaVLGIVQnAU_PMUfBOLinewMgIA__yFfFEAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQMSgAegQIYhAB",
+        "spacecraft_on_mars_stick": "H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMXIFFyQmpyYXJaaVLGIVQnAU_PMUfBOLinewMgIA__yFfFEAAAA",
+        "mars_craters": [
+            {
+                "name": "Antoniadi",
+                "link": "https://www.google.com/search?q=Antoniadi&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biArGMigzKjMq1RLKTrfST83Nz8_OsUvLL88oTi1KKVzHyeuYWJCaXOBcllqQWFS9i5XTMK8nPy0xMydzByggA_CkOME0AAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhkEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Antoniadi&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biArGMigzKjMq1RLKTrfST83Nz8_OsUvLL88oTi1KKVzHyeuYWJCaXOBcllqQWFS9i5XTMK8nPy0xMydzByggA_CkOME0AAAA",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff5596265ae48e6ac19aceb3b8183d5fc1f7cefdadf723ac68246a.jpeg"
+            },
+            {
+                "name": "Huygens",
+                "link": "https://www.google.com/search?q=Huygens+(crater)&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biArGMLIxzypO1RLKTrfST83Nz8_OsUvLL88oTi1KKVzHyeuYWJCaXOBcllqQWFS9iFfAorUxPzStW0EgGC2nuYGUEAARGvRNUAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhkEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Huygens+%28crater%29&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biArGMLIxzypO1RLKTrfST83Nz8_OsUvLL88oTi1KKVzHyeuYWJCaXOBcllqQWFS9iFfAorUxPzStW0EgGC2nuYGUEAARGvRNUAAAA",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff5596265ae48e6ac19aceb2d1ec0e83cdb7a310ea2bff31a07fc3.jpeg"
+            },
+            {
+                "name": "Newton",
+                "link": "https://www.google.com/search?q=Newton+(Martian+crater)&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biBLHSssuTirVEspOt9JPzc3Pz86xS8svzyhOLUopXMfJ65hYkJpc4FyWWpBYVL2IV90stL8nPU9DwTSwqyUzMU0gGy2juYGUEAGnhrZNaAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhkEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Newton+%28Martian+crater%29&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biBLHSssuTirVEspOt9JPzc3Pz86xS8svzyhOLUopXMfJ65hYkJpc4FyWWpBYVL2IV90stL8nPU9DwTSwqyUzMU0gGy2juYGUEAGnhrZNaAAAA",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff5596265ae48e6ac19ace547fa12d3ea42d7d3399e0e4e0d0872b.jpeg"
+            },
+            {
+                "name": "Herschel",
+                "link": "https://www.google.com/search?q=Herschel+(Martian+crater)&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biBLFMUkzSKrREspOt9JPzc3Pz86xS8svzyhOLUopXMfJ65hYkJpc4FyWWpBYVL2KV9ABSyRmpOQoavolFJZmJeQrJYDnNHayMAITC2chcAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhkEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Herschel+%28Martian+crater%29&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1biBLFMUkzSKrREspOt9JPzc3Pz86xS8svzyhOLUopXMfJ65hYkJpc4FyWWpBYVL2KV9ABSyRmpOQoavolFJZmJeQrJYDnNHayMAITC2chcAAAA",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff5596265ae48e6ac19ace693a95a0e72f016e35af47b655d6b12d.jpeg"
+            }
+        ],
+        "mars_craters_link": "https://www.google.com/search?q=Mars+Craters&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMfJ65hYkJpc4FyWWpBYVL2Ll8U0sKlaAcnewMgIApa2e004AAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQMSgAegQIZBAB",
+        "mars_craters_stick": "H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMfJ65hYkJpc4FyWWpBYVL2Ll8U0sKlaAcnewMgIApa2e004AAAA",
+        "people_also_search_for": [
+            {
+                "name": "Jupiter",
+                "link": "https://www.google.com/search?q=Jupiter&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXbvPaMrpO4tBby_CxdKAp3lHwdldRuEnsDNqa9s_EcaZWOQu_KwRHebYAdx1m5bfcendICXb7oFsh5CkUrO-7oj39HRkb_TplmwMqGayR6Fr6MGDDLnGWJOsJdGoJdXfXipEv2YpXfQ7SAy7C8Gmu_Oht4YFAcQK2_mSY_j6zTtavQXMYZCVavYO7-Ake9rz8G5mWzOdjhlIXlqU9HsDnchyf8XbVfBHiK45CuY9BJw-jyZ4Q%3D%3D&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhjEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jupiter&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXbvPaMrpO4tBby_CxdKAp3lHwdldRuEnsDNqa9s_EcaZWOQu_KwRHebYAdx1m5bfcendICXb7oFsh5CkUrO-7oj39HRkb_TplmwMqGayR6Fr6MGDDLnGWJOsJdGoJdXfXipEv2YpXfQ7SAy7C8Gmu_Oht4YFAcQK2_mSY_j6zTtavQXMYZCVavYO7-Ake9rz8G5mWzOdjhlIXlqU9HsDnchyf8XbVfBHiK45CuY9BJw-jyZ4Q%3D%3D",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff55962d648380728cfeecb7070fa53678aebd053e279e74fd7de665db2262a7eb4b60.jpeg"
+            },
+            {
+                "name": "Venus",
+                "link": "https://www.google.com/search?q=venus+planet&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddXlaE7U9RD3Xsupx7wAr29wBVrKgPYCPkl0Z7eGTJJx3tBaWgaekzpzQ5kMunoGWbjEnx-uoc8Ovw3rP2cGop9_JWKgm5nCrro20OeVKT1iBoxKyVF0LHMtN6tK71tODpJsdhFpSY4GtA6znFs_EnIaD3eD87E_7RISg3F8jbLiXBKXlDWK4I5I5NwD54qMnxVhbA75ZrbP_YgqaA3ChJPq2nSEC42E5QL_rIdN5AgzSWDqRTCaiaze2uWUV9soeouaDJ4%3D&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhjEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=venus+planet&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddXlaE7U9RD3Xsupx7wAr29wBVrKgPYCPkl0Z7eGTJJx3tBaWgaekzpzQ5kMunoGWbjEnx-uoc8Ovw3rP2cGop9_JWKgm5nCrro20OeVKT1iBoxKyVF0LHMtN6tK71tODpJsdhFpSY4GtA6znFs_EnIaD3eD87E_7RISg3F8jbLiXBKXlDWK4I5I5NwD54qMnxVhbA75ZrbP_YgqaA3ChJPq2nSEC42E5QL_rIdN5AgzSWDqRTCaiaze2uWUV9soeouaDJ4%3D",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff55962d648380728cfeecb7070fa53678aebd6bab3237a0ad5b220539a0aa8b283b6c.jpeg"
+            },
+            {
+                "name": "Earth",
+                "link": "https://www.google.com/search?q=Earth&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfg5n8NVlLLXb6c-sSHwyk9fZ7ZkXRUUvXmLaVNPHYhvg0nu9gpoWVUaFmehtEdSTnrdd2cywmvO1PYnRPHtBabooB8_BHMtS4MFWNyGYYrUcr_tfyHko4StrrqaykZEsq_YTQBQAf0ZrEaln8xeemc6VNIJcL6UvvZ4jdjFXSad_MvzpVGXa2H6axAZsmDbfIJPlEU1qNeOpOM35sNr1ufFKW-EJgGRlOc84yZBFRrkil7R4w%3D%3D&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhjEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Earth&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfg5n8NVlLLXb6c-sSHwyk9fZ7ZkXRUUvXmLaVNPHYhvg0nu9gpoWVUaFmehtEdSTnrdd2cywmvO1PYnRPHtBabooB8_BHMtS4MFWNyGYYrUcr_tfyHko4StrrqaykZEsq_YTQBQAf0ZrEaln8xeemc6VNIJcL6UvvZ4jdjFXSad_MvzpVGXa2H6axAZsmDbfIJPlEU1qNeOpOM35sNr1ufFKW-EJgGRlOc84yZBFRrkil7R4w%3D%3D",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff55962d648380728cfeecb7070fa53678aebd21181961f10424363c5ef62a44604a48.jpeg"
+            },
+            {
+                "name": "Mercury",
+                "link": "https://www.google.com/search?q=Mercury+(planet)&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWHqDjrJHbaA8J2U0CVOtgWhJj6d-vUI6byQIuxC-IpoiaxfrPc6NYeDlvwShOK-MdMXWU6Ym0mkGY_xEvytgLc8OGsqXMDhndS4mD6vR_-INVzdBHfiLQsNV41bYAzC0OLXain2qyR31-2ququMiGw8HDzNyvgiaWPVSkqOlFwWbwnBVJdD86Q502Ufb744N8kY-oa4l7rK8H5mmyjNZdH-yJVz_SQfL1fPRLUZtCgX7ytL6mzC_iQPpfjaDBVlzESXlOg%3D&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQxA16BAhjEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercury+%28planet%29&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWHqDjrJHbaA8J2U0CVOtgWhJj6d-vUI6byQIuxC-IpoiaxfrPc6NYeDlvwShOK-MdMXWU6Ym0mkGY_xEvytgLc8OGsqXMDhndS4mD6vR_-INVzdBHfiLQsNV41bYAzC0OLXain2qyR31-2ququMiGw8HDzNyvgiaWPVSkqOlFwWbwnBVJdD86Q502Ufb744N8kY-oa4l7rK8H5mmyjNZdH-yJVz_SQfL1fPRLUZtCgX7ytL6mzC_iQPpfjaDBVlzESXlOg%3D",
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff55962d648380728cfeecb7070fa53678aebdd78b42974d448136ea7460f88f310ed3.jpeg"
+            }
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?q=Mars&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7QEgzNTUssTK4v9UitKgktSC4oXsbL4JhYV72BlBACm6tMgMwAAAA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQMSgAegQIYxAB",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7QEgzNTUssTK4v9UitKgktSC4oXsbL4JhYV72BlBACm6tMgMwAAAA",
+        "see_results_about": [
+            {
+                "name": "Mars, Incorporated",
+                "extensions": [
+                    "Food company"
+                ],
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff5596e98d191850e714d29ba3592ad321e784d59f7bc7446ce7554619beccde614422.png"
+            },
+            {
+                "name": "Mars",
+                "extensions": [
+                    "Chocolate bar"
+                ],
+                "image": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/1ea104ea1a7a1ce4356950c540ff5596e98d191850e714d29ba3592ad321e784c3879fc7698781dfeebd8e313dfae359.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Watch NASA's Perseverance Rover Land on Mars!",
+            "link": "https://www.youtube.com/watch?v=gm0b_ijaYMQ",
+            "thumbnail": "https://i.ytimg.com/vi/gm0b_ijaYMQ/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3l8_fZwI5j3zhMF7gyJdOsWiWvUfw",
+            "channel": "NASA",
+            "duration": "2:11:44",
+            "platform": "YouTube",
+            "date": "Feb 18, 2021"
+        },
+        {
+            "position": 2,
+            "title": "New: Mars In 4K",
+            "link": "https://www.youtube.com/watch?v=ZEyAs3NWH4A",
+            "thumbnail": "https://i.ytimg.com/vi/ZEyAs3NWH4A/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kNHI3kMCA8gWIws7rohRiSc3eKgg",
+            "channel": "ElderFox Documentaries",
+            "duration": "10:09",
+            "platform": "YouTube",
+            "date": "Jul 17, 2020"
+        },
+        {
+            "position": 3,
+            "title": "Looking for Life on Mars | Full Episode I NOVA | PBS",
+            "link": "https://www.youtube.com/watch?v=fhtw7Dpntb4",
+            "thumbnail": "https://i.ytimg.com/vi/fhtw7Dpntb4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mOMlMZjaO0qb1YRiErD_gpWiR4cQ",
+            "channel": "NOVA PBS Official",
+            "duration": "54:03",
+            "platform": "YouTube",
+            "date": "Feb 24, 2021"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Mars Ingenuity helicopter is on borrowed time as it endures winter",
+            "link": "https://www.cnn.com/2022/06/06/world/ingenuity-helicopter-mars-winter-scn/index.html",
+            "source": "CNN",
+            "date": "51 mins ago",
+            "thumbnail": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/4fc325de7d590c5181d17b6876c488dfa82f4bd7c9607977.jpeg"
+        },
+        {
+            "title": "You can see Mercury, Venus, Mars, Jupiter and Saturn all in the early morning sky this June",
+            "link": "https://www.usatoday.com/story/news/nation/2022/06/06/planet-alignment-mercury-venus-mars-jupiter-saturn/7524305001/",
+            "source": "USA Today",
+            "date": "6 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/4fc325de7d590c514292af42e389b4fc1e5d8e39709a2aea.jpeg"
+        },
+        {
+            "title": "China's plans to go to the Moon, Mars and beyond",
+            "link": "https://www.bbc.com/news/world-asia-china-61511546",
+            "source": "BBC",
+            "date": "18 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/4fc325de7d590c519a8f6314665dc5b6a9df4c3f1174c3fa.jpeg"
+        },
+        {
+            "title": "Scientists announce a breakthrough in determining life's origin on Earth—and maybe Mars",
+            "link": "https://phys.org/news/2022-06-scientists-breakthrough-life-earthand-mars.html",
+            "source": "Phys.org",
+            "date": "3 days ago",
+            "thumbnail": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/4fc325de7d590c5195379b3f97efca9d0044315baa1f942f.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?q=Mars&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQt8YBegQIPxAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&tbm=nws",
+    "related_questions": [
+        {
+            "question": "Can we live on Mars?",
+            "snippet": "Human survival on Mars would require living in artificial Mars habitats with complex life-support systems. One key aspect of this would be water processing systems. Being made mainly of water, a human being would die in a matter of days without it.",
+            "title": "Colonization of Mars - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Colonization_of_Mars",
+            "displayed_link": "https://en.wikipedia.org › wiki › Colonization_of_Mars"
+        },
+        {
+            "question": "Is Mars cold or hot?",
+            "snippet": "cold",
+            "title": "cold",
+            "link": "https://www.jpl.nasa.gov/edu/learn/video/mars-in-a-minute-is-mars-red-hot/",
+            "displayed_link": "https://www.jpl.nasa.gov › edu › learn › mars-in-a-minute..."
+        },
+        {
+            "question": "What are 5 facts about Mars?",
+            "title": "Impress your family and friends with these 20 fascinating and fun facts about Mars.",
+            "link": "https://www.littlehouseofscience.com/20_fascinating__fun_science_facts_planet_mars",
+            "list": [
+                "Mars is also known as the Red Planet. ... ",
+                "Mars is named after the Roman god of war.",
+                "Mars has 2 moons called Deimos and Phobos. ... ",
+                "Mars is the 4th planet from the sun. ... ",
+                "Mars is smaller than Earth with a diameter of 4217 miles."
+            ],
+            "displayed_link": "https://www.littlehouseofscience.com › 20_fascinating__f..."
+        },
+        {
+            "question": "Can you breathe in Mars?",
+            "snippet": "Meanwhile, Mars has almost no oxygen; it's only one-tenth of 1% of the air, not nearly enough for humans to survive. If you tried to breathe on the surface of Mars without a spacesuit supplying your oxygen — bad idea — you would die in an instant.May 23, 2022",
+            "title": "Could people breathe the air on Mars? - Space.com",
+            "link": "https://www.space.com/could-people-breathe-air-on-mars",
+            "displayed_link": "https://www.space.com › could-people-breathe-air-on-mars"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "NASA Mars Exploration",
+            "link": "https://mars.nasa.gov/",
+            "displayed_link": "https://mars.nasa.gov",
+            "thumbnail": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35ef75705ed4a923827af7820ac151619844.jpeg",
+            "snippet": "NASA's real-time portal for Mars exploration, featuring the latest news, images, and discoveries from the Red Planet.",
+            "snippet_highlighted_words": [
+                "Mars"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research.",
+                    "icon": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35ef222e9d0efdcb9487bf680020de89490e7325421f86173e2aa4fe65313941c8a1.jpeg"
+                },
+                "keywords": [
+                    "mars"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://mars.nasa.gov/&tbm=ilp&ilps=ADNMCi1MCr1xBqOjeU0po4JInaYUsw6kpQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4kamyawz2NwJ:https://mars.nasa.gov/+&cd=1&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://mars.nasa.gov/+Mars",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Overview | Mars – NASA Solar System Exploration",
+                    "link": "https://solarsystem.nasa.gov/planets/mars/overview/",
+                    "displayed_link": "https://solarsystem.nasa.gov › planets › mars › overview",
+                    "thumbnail": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35ef71f9fdb6cd0a2f65bf7012206f295b79692c7190686d13911b4998791cd2b79d.jpeg",
+                    "snippet": "​Mars is the fourth planet from the Sun – a dusty, cold, desert world with a very thin atmosphere. Mars is also a dynamic planet with seasons, ...",
+                    "snippet_highlighted_words": [
+                        "Mars",
+                        "Mars"
+                    ],
+                    "about_this_result": {
+                        "source": {
+                            "description": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research.",
+                            "icon": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35ef71f9fdb6cd0a2f65bf7012206f295b79cfb28f1f1e9facca4d5f73325a081a0a66892f6560924a6b5d7239101c17936adc89f2cbad470a9a.png"
+                        },
+                        "keywords": [
+                            "mars"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://solarsystem.nasa.gov/planets/mars/overview/&tbm=ilp&ilps=ADNMCi0kmLQKdh-af42epP7ncoloPhpbjw",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jQTrZbVfmGgJ:https://solarsystem.nasa.gov/planets/mars/overview/+&cd=2&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Global Petcare, Food, Mars Wrigley and Edge Brands",
+            "link": "https://www.mars.com/",
+            "displayed_link": "https://www.mars.com",
+            "thumbnail": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35eff59e8ea9282047ec36ead0b522408338.jpeg",
+            "snippet": "Mars proudly makes the treats, nutritious meals, & many of your favorite products for over 100 years. Learn why we're ready to become a part of your family.",
+            "snippet_highlighted_words": [
+                "Mars"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Made by Mars",
+                        "link": "https://www.mars.com/made-by-mars"
+                    },
+                    {
+                        "title": "All About Mars",
+                        "link": "https://www.mars.com/about"
+                    },
+                    {
+                        "title": "Sustainability Plan",
+                        "link": "https://www.mars.com/sustainability-plan"
+                    },
+                    {
+                        "title": "News & Stories",
+                        "link": "https://www.mars.com/news-and-stories"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Mars, Incorporated is an American multinational manufacturer of confectionery, pet food, and other food products and a provider of animal care services, with US$40 billion in annual sales in 2020.\nMars was ranked as the sixth-largest privately held company in the United States by Forbes.",
+                    "icon": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35ef6ddc23fde899b0abbaa483f4aaf957771a02cf82009d1cc442f54124e6c6bec3.png"
+                },
+                "keywords": [
+                    "mars"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mars.com/&tbm=ilp&ilps=ADNMCi1rnbstrtlMgfAueOZueV87mC2yTw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KPgbGv1lb6wJ:https://www.mars.com/+&cd=13&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Mars - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Mars",
+            "displayed_link": "https://en.wikipedia.org › wiki › Mars",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DxkE7fsjtK028aRfc093IuOLzzZdljqEQTgqxR-4x2LUHC7JsUBd&usqp=CAE&s",
+            "snippet": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name ...",
+            "snippet_highlighted_words": [
+                "Mars",
+                "Mars"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "surface_equivalent_dose_rate_μsv_h": 27,
+                        "equatorial_rotation_velocity_m_s_km_h": 241,
+                        "surface_absorbed_dose_rate_μgy_h": 8.8,
+                        "equatorial_radius_±_km_±": 3396.2
+                    },
+                    "extensions": [
+                        "Surface equivalent dose rate: 27 μSv/h",
+                        "Equatorial rotation velocity: 241 m/s; (870 km/h; ...",
+                        "Surface absorbed dose rate: 8.8 μGy/h",
+                        "Equatorial radius: 3396.2 ± 0.1 km; (2110.3 ± ...",
+                        "Greek equivalent: Ares",
+                        "Other names: Mavors, Mavorte (archaic, poetic)",
+                        "Children: Romulus and Remus, ‎Cupid‎",
+                        "Symbols: Spear, shield"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35ef74517da0465f3ae79c0278865997d1f29a1f8360e2431a38a148b6da8706a6a8.png"
+                },
+                "keywords": [
+                    "mars"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Mars&tbm=ilp&ilps=ADNMCi0ybHMfvFkxaobGa24kZXAi7PQ6FA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2MaOREgBqn4J:https://en.wikipedia.org/wiki/Mars+&cd=18&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Mars+Mars",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Mars (mythology) - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+                    "displayed_link": "https://en.wikipedia.org › wiki › Mars_(mythology)",
+                    "snippet": "In ancient Roman religion and myth, Mars (Latin: Mārs, pronounced [maːrs]) was the god of war and also an agricultural guardian, a combination ...",
+                    "snippet_highlighted_words": [
+                        "Mars",
+                        "Mārs",
+                        "maːrs"
+                    ],
+                    "rich_snippet": {
+                        "bottom": {
+                            "extensions": [
+                                "Greek equivalent: Ares",
+                                "Other names: Mavors, Mavorte (archaic, poetic)",
+                                "Children: Romulus and Remus, ‎Cupid‎",
+                                "Symbols: Spear, shield"
+                            ]
+                        }
+                    },
+                    "about_this_result": {
+                        "source": {
+                            "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                            "icon": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35ef90edf8f59da7adced30cd2c08b2d2794929c7e88d1869d2648204f11cb72af3349dd33e1b9beaa47e05d1af332a2da33e63daf3d72002858.png"
+                        },
+                        "keywords": [
+                            "mars"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Mars_(mythology)&tbm=ilp&ilps=ADNMCi0hAk_KMW0a1WMQD0HBsfZC4UanHQ",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KHQxUifB7QwJ:https://en.wikipedia.org/wiki/Mars_(mythology)+&cd=19&hl=en&ct=clnk&gl=us",
+                    "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Mars_(mythology)+Mars"
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Mars, the red planet: Facts and information - National ...",
+            "link": "https://www.nationalgeographic.com/science/article/mars-1",
+            "displayed_link": "https://www.nationalgeographic.com › article › mars-1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIkr1myTSuNzfDZJ-FDNsGRSaK6fPBo6IAl0QqD8vBgH27RzBcVGL&usqp=CAE&s",
+            "snippet": "With a radius of 2,106 miles, Mars is the seventh largest planet in our solar system and about half the diameter of Earth. Its surface gravity is 37.5 percent ...",
+            "snippet_highlighted_words": [
+                "Mars"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "National Geographic is a popular American monthly magazine published by the National Geographic Society. Known for its photojournalism, it is one of the most widely read magazines of all time.",
+                    "icon": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35ef947c5fbd8a6987f446692a90b48c64e1640ac6ea0fbe509516e639369567ee7c.png"
+                },
+                "keywords": [
+                    "mars"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nationalgeographic.com/science/article/mars-1&tbm=ilp&ilps=ADNMCi3CNwzOZf9uGHDMMEKS0ov0J36yow",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZL8qDAW1Y8YJ:https://www.nationalgeographic.com/science/article/mars-1+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Mars: What we know about the Red Planet - Space.com",
+            "link": "https://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html",
+            "displayed_link": "https://www.space.com › 47-mars-the-red-planet-fourth...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9XTliHXCQTnRywxFtlItfxFyPgBwpjvp24aFTdaPmnH7vKrAZjts&usqp=CAE&s",
+            "date": "Oct 1, 2021",
+            "snippet": "Mars is the fourth planet from the sun. Befitting the Red Planet's bloody color, the Romans named it after their god of war.",
+            "snippet_highlighted_words": [
+                "Mars"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Space.com is a space and astronomy news website owned by Future. Its stories are often syndicated to other media outlets, including CNN, MSNBC, Yahoo!, and USA Today.\nSpace.com was founded by former CNN anchor Lou Dobbs and Rich Zahradnik, in July 1999.",
+                    "icon": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35ef6d02fd2486451aaaa83686f5b474305856b1edb70a9d6339c5429888c680c44e.png"
+                },
+                "keywords": [
+                    "mars"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html&tbm=ilp&ilps=ADNMCi3u7gJHKAEY5Q8TmFxJ1dsopUQYNg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:99X3JsajMjoJ:https://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html+&cd=21&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Mars | LinkedIn",
+            "link": "https://www.linkedin.com/company/mars",
+            "displayed_link": "https://www.linkedin.com › company › mars",
+            "snippet": "Mars. Manufacturing. McLean, Virginia 1,047,067 followers. Family-owned. Future-facing. Purpose-driven. 140,000+ Associates building ...",
+            "snippet_highlighted_words": [
+                "Mars"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the platform is primarily used for professional networking and career development, and allows job seekers to post their CVs and employers to post jobs.",
+                    "icon": "https://serpapi.com/searches/629e3cebdefa13f511d7ab2a/images/391ff880e796241b643983bc537c35ef917e40d7d53ec0af61af75535b337607a7bfaf8b9028b19848019c1e55c3ec42.png"
+                },
+                "keywords": [
+                    "mars"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/company/mars&tbm=ilp&ilps=ADNMCi2IIXBLE3QleV-M_kM3d8A5_tRRxA",
+            "cached_page_link": "/search?q=related:https://www.linkedin.com/company/mars+Mars"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "mars chocolate",
+            "link": "https://www.google.com/search?q=Mars+chocolate&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ1QJ6BAhUEAE"
+        },
+        {
+            "query": "mars facts",
+            "link": "https://www.google.com/search?q=Mars+Facts&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ1QJ6BAhVEAE"
+        },
+        {
+            "query": "mars god",
+            "link": "https://www.google.com/search?q=Mars+god&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ1QJ6BAhWEAE"
+        },
+        {
+            "query": "mars food",
+            "link": "https://www.google.com/search?q=Mars+Food&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ1QJ6BAhQEAE"
+        },
+        {
+            "query": "mars nasa",
+            "link": "https://www.google.com/search?q=Mars+NASA&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ1QJ6BAhOEAE"
+        },
+        {
+            "query": "mars movie",
+            "link": "https://www.google.com/search?q=Mars+movie&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ1QJ6BAhNEAE"
+        },
+        {
+            "query": "mars rover",
+            "link": "https://www.google.com/search?q=Mars+rover&sa=X&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ1QJ6BAhTEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Mars&ei=6zyeYsy5GZWsqtsPqOO-oAM&start=10&sa=N&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Mars&ei=6zyeYsy5GZWsqtsPqOO-oAM&start=10&sa=N&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Mars&ei=6zyeYsy5GZWsqtsPqOO-oAM&start=20&sa=N&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Mars&ei=6zyeYsy5GZWsqtsPqOO-oAM&start=30&sa=N&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Mars&ei=6zyeYsy5GZWsqtsPqOO-oAM&start=40&sa=N&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Mars&ei=6zyeYsy5GZWsqtsPqOO-oAM&start=50&sa=N&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Mars&ei=6zyeYsy5GZWsqtsPqOO-oAM&start=60&sa=N&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Mars&ei=6zyeYsy5GZWsqtsPqOO-oAM&start=70&sa=N&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Mars&ei=6zyeYsy5GZWsqtsPqOO-oAM&start=80&sa=N&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Mars&ei=6zyeYsy5GZWsqtsPqOO-oAM&start=90&sa=N&ved=2ahUKEwiM27yosJn4AhUVlmoFHaixDzQQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mars&start=90"
+        }
+    }
+}

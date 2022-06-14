@@ -1,0 +1,294 @@
+{
+    "search_metadata": {
+        "id": "627d002c3c3fb23cf43281fb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f7dc88c75a2b0580/627d002c3c3fb23cf43281fb.json",
+        "created_at": "2022-05-12 12:40:12 UTC",
+        "processed_at": "2022-05-12 12:40:12 UTC",
+        "google_url": "https://www.google.com/search?q=Sequ%C3%ADa&oq=Sequ%C3%ADa&uule=w+CAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE=&hl=es&gl=AR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f7dc88c75a2b0580/627d002c3c3fb23cf43281fb.html",
+        "total_time_taken": 1.87
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Sequía",
+        "uule": "w+CAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "AR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Sequía",
+        "total_results": 31700000,
+        "time_taken_displayed": 0.53
+    },
+    "knowledge_graph": {
+        "title": "Sequía",
+        "description": "La sequía es una anomalía climatológica transitoria en la que la disponibilidad de agua se sitúa por debajo de lo habitual de un área geográfica. El agua no es suficiente para abastecer las necesidades de las plantas, los animales y los humanos que viven en dicho lugar.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://es.wikipedia.org/wiki/Sequ%C3%ADa"
+        },
+        "también_se_buscó": [
+            {
+                "name": "Desastre natural",
+                "link": "https://www.google.com/search?gl=AR&hl=es&q=Desastre+natural&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQFcAPhnZOLOpzm99jjgiSHKHTXFJDxS6dmA1ai7Snacrx7GquOhy1iwFD3lTDF2oDCwMFOIHb_XKuOHCbNxQ-R01E30ERAVdgf75P9WfdONNtnD-smPn_0cWS4kmODoj1TzaWc3YzHQ0jla37gDb5dCQTa18I47Xx_8rk1mLIWN0GLsYC-vl_kn5DErXtzT4InoCNhqz6uG54sLGmOD32gDNl9Z7YTqylG5MyurZHVxrK-AXzT3zEear4lUtGDqYsxxs0w%3D&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQxA16BAhdEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Desastre+natural&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQFcAPhnZOLOpzm99jjgiSHKHTXFJDxS6dmA1ai7Snacrx7GquOhy1iwFD3lTDF2oDCwMFOIHb_XKuOHCbNxQ-R01E30ERAVdgf75P9WfdONNtnD-smPn_0cWS4kmODoj1TzaWc3YzHQ0jla37gDb5dCQTa18I47Xx_8rk1mLIWN0GLsYC-vl_kn5DErXtzT4InoCNhqz6uG54sLGmOD32gDNl9Z7YTqylG5MyurZHVxrK-AXzT3zEear4lUtGDqYsxxs0w%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d002c3c3fb23cf43281fb/images/b4b230aa1b3f9bf29fb47257df27b76e14ddd127f7e867e90fa83b46e37cd2e58d8188419bc604d31de992b016cc7369.jpeg"
+            },
+            {
+                "name": "Tornado",
+                "link": "https://www.google.com/search?gl=AR&hl=es&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZkjlLYe6kNulPXOng-CadzwSqsCs5l0ZLImNod-llW_F74JLxM8UMG4_cIuT8-d_2fQB0IEnKn2o3miy6dGBvQgqUtZeCRvOTlCTU29UlQJIrVB-_XfIpzfd4VpM_in14up95GDw%3D%3D&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQxA16BAhdEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZkjlLYe6kNulPXOng-CadzwSqsCs5l0ZLImNod-llW_F74JLxM8UMG4_cIuT8-d_2fQB0IEnKn2o3miy6dGBvQgqUtZeCRvOTlCTU29UlQJIrVB-_XfIpzfd4VpM_in14up95GDw%3D%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d002c3c3fb23cf43281fb/images/b4b230aa1b3f9bf29fb47257df27b76e14ddd127f7e867e90fa83b46e37cd2e536eae696182304c720a28b01fea59086.jpeg"
+            },
+            {
+                "name": "Ola de calor",
+                "link": "https://www.google.com/search?gl=AR&hl=es&q=Ola+de+calor&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgIek-4I9AhWTB8re96VrhLQ50JjmgHEXDaFzgoR5VtZw-sa43sDZ4agy1jrMTsBtzLjVjziGn_dbMRco5c6PUHQ6kssvN4x7qgTruHB_zfTDFs61jFDt9S6U6sCzg3uQuc7AS2yVjSNy96QueChol96AHMZ3I5OME1olxhokiVZCWtsHAx8DIGLybuN2E9VY0X69HuefeNa9B1MivweZlTQH-FfDFH8fcK-hfcxnzPJBqN-jMg2CBtljTzL37Dqdj12LPLQ%3D&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQxA16BAhdEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Ola+de+calor&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgIek-4I9AhWTB8re96VrhLQ50JjmgHEXDaFzgoR5VtZw-sa43sDZ4agy1jrMTsBtzLjVjziGn_dbMRco5c6PUHQ6kssvN4x7qgTruHB_zfTDFs61jFDt9S6U6sCzg3uQuc7AS2yVjSNy96QueChol96AHMZ3I5OME1olxhokiVZCWtsHAx8DIGLybuN2E9VY0X69HuefeNa9B1MivweZlTQH-FfDFH8fcK-hfcxnzPJBqN-jMg2CBtljTzL37Dqdj12LPLQ%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d002c3c3fb23cf43281fb/images/b4b230aa1b3f9bf29fb47257df27b76e14ddd127f7e867e90fa83b46e37cd2e5cc38653e13924bf6e1d3ea452fd2d344.jpeg"
+            },
+            {
+                "name": "Incendio forestal",
+                "link": "https://www.google.com/search?gl=AR&hl=es&q=Incendio+forestal&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVCuMNo6BOnVrgzK3lU5Rt2p2pRGFOvuHkKCImMv7AdsVnwDHNZjD5utdxscsvK1_pA73Fhykx2kDGAqY-zSCNMm3c3ea0csQYiSYy2_0OxAJHGJjhwy8qNUIEEWdmV9vJdhxhOLuiToph1SV-uekgSEcpbdYAZbvv9UKWgWiGWRcOoUrNEPDGaEv2fNMbmN5qburm9zp6LowpEbcRvdbIAjdJoVPjl-dEOdEZzGQKhrl91psg-oo-sRWgCIECw6i7Erw0Y%3D&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQxA16BAhdEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Incendio+forestal&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVCuMNo6BOnVrgzK3lU5Rt2p2pRGFOvuHkKCImMv7AdsVnwDHNZjD5utdxscsvK1_pA73Fhykx2kDGAqY-zSCNMm3c3ea0csQYiSYy2_0OxAJHGJjhwy8qNUIEEWdmV9vJdhxhOLuiToph1SV-uekgSEcpbdYAZbvv9UKWgWiGWRcOoUrNEPDGaEv2fNMbmN5qburm9zp6LowpEbcRvdbIAjdJoVPjl-dEOdEZzGQKhrl91psg-oo-sRWgCIECw6i7Erw0Y%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d002c3c3fb23cf43281fb/images/b4b230aa1b3f9bf29fb47257df27b76e14ddd127f7e867e90fa83b46e37cd2e5c5da5a59cd7defe87fffc9d6325ebce7.jpeg"
+            }
+        ],
+        "también_se_buscó_link": "https://www.google.com/search?gl=AR&hl=es&q=Sequ%C3%ADa&stick=H4sIAAAAAAAAAONgFuLQz9U3sLTMKVCCs7QEgzNTUssTK4v9UitKgktSC4oXsbIHpxaWHl6buIOVEQC0XWc3NgAAAA&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQMSgAegQIXRAB",
+        "también_se_buscó_stick": "H4sIAAAAAAAAAONgFuLQz9U3sLTMKVCCs7QEgzNTUssTK4v9UitKgktSC4oXsbIHpxaWHl6buIOVEQC0XWc3NgAAAA",
+        "ver_resultados_de": [
+            {
+                "name": "sequía",
+                "extensions": [
+                    "Definición del diccionario"
+                ]
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "El reto de la SEQUÍA en ARGENTINA | Desastre en las ...",
+            "link": "https://www.youtube.com/watch?v=cPQjqsupPz4",
+            "thumbnail": "https://serpapi.com/searches/627d002c3c3fb23cf43281fb/images/32c6c938fe7a40822cee26be574c1e8a3361598c127b6d0b2bddb4981188a683.jpeg",
+            "channel": "euronews (en español)",
+            "duration": "2:17",
+            "platform": "YouTube",
+            "date": "Hace 1 mes"
+        },
+        {
+            "position": 2,
+            "title": "México atraviesa una intensa ola de calor mientras la sequía ...",
+            "link": "https://cnnespanol.cnn.com/video/ola-calor-sequia-conagua-clima-pkg-belen-zapata-redaccion-mexico/",
+            "thumbnail": "https://serpapi.com/searches/627d002c3c3fb23cf43281fb/images/32c6c938fe7a40825d493443535812ac20b4a268900f4732980064d9edbc0d51.jpeg",
+            "platform": "CNN en Español",
+            "date": "hace 14 horas"
+        },
+        {
+            "position": 3,
+            "title": "La fuerte sequía que atraviesa el río Paraná enciende las ...",
+            "link": "https://www.youtube.com/watch?v=PpKcpIeZ1ZY",
+            "thumbnail": "https://serpapi.com/searches/627d002c3c3fb23cf43281fb/images/32c6c938fe7a408278ee1f4b04d14673beca9f70e1a3f6a0f7081120cb6a030e.jpeg",
+            "channel": "FRANCE 24 Español",
+            "duration": "4:24",
+            "platform": "YouTube",
+            "date": "4 nov 2021"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "¿Qué es lo que provoca la sequía?",
+            "snippet": "La causa principal de la sequía es la falta de lluvias, sin embargo existen factores que contribuyen a ello como alteraciones en la circulación general del sistema océano - atmósfera vinculadas a cambios en la temperatura de la superficie de los océanos, cambios de la presión atmosférica, incrementos en las ...",
+            "title": "La causa principal de la sequía es la falta de lluvias, sin embargo",
+            "link": "http://atlasclimatico.unam.mx/ACM/files/assets/common/downloads/page0133.pdf",
+            "displayed_link": "http://atlasclimatico.unam.mx › downloads › page0133"
+        },
+        {
+            "question": "¿Qué es la sequía en Argentina?",
+            "snippet": "Entendemos por sequía a un periodo de tiempo donde las precipitaciones son escasas o bien los caudales naturales de los ríos o volúmenes embalsados están debajo de lo normal.",
+            "title": "¿Qué es la sequía? | Argentina.gob.ar",
+            "link": "https://www.argentina.gob.ar/sinagir/riesgos-frecuentes/sequia",
+            "displayed_link": "https://www.argentina.gob.ar › sinagir › sequia"
+        },
+        {
+            "question": "¿Qué efectos causa la sequía en un ecosistema?",
+            "snippet": "Daño a los ecosistemas. Erosión y pérdida de suelos. Degradación de la calidad del agua y del aire. Degradación del paisaje.",
+            "title": "Sequía, un problema de perspectiva y gestión - SciELO México",
+            "link": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-39252005000300002",
+            "displayed_link": "http://www.scielo.org.mx › scielo"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Las sequías son periodos prolongados de tiempo seco causado por la falta de lluvia, lo que produce escasez de agua. Los periodos de sequía pueden causar desabastecimiento de agua y problemas de salud pública.",
+        "link": "https://www.cdc.gov/spanish/nceh/especiales/sequias/index.html",
+        "displayed_link": "https://www.cdc.gov › spanish › nceh › especiales › sequias",
+        "snippet": "Las sequías son periodos prolongados de tiempo seco causado por la falta de lluvia, lo que produce escasez de agua. Los periodos de sequía pueden causar desabastecimiento de agua y problemas de salud pública.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Sequía - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Sequ%C3%ADa",
+            "displayed_link": "https://es.wikipedia.org › wiki › Sequía",
+            "snippet": "La sequía es una anomalía climatológica transitoria en la que la disponibilidad de agua se sitúa por debajo de lo habitual de un área geográfica.",
+            "snippet_highlighted_words": [
+                "sequía"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Consecuencias",
+                        "link": "https://es.wikipedia.org/wiki/Sequ%C3%ADa#Consecuencias"
+                    },
+                    {
+                        "title": "Regiones afectadas",
+                        "link": "https://es.wikipedia.org/wiki/Sequ%C3%ADa#Regiones_afectadas"
+                    },
+                    {
+                        "title": "Causas",
+                        "link": "https://es.wikipedia.org/wiki/Sequ%C3%ADa#Causas"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Sequía : FAO in Emergencies",
+            "link": "https://www.fao.org/emergencies/tipos-de-peligros-y-de-emergencias/sequia/es/",
+            "displayed_link": "https://www.fao.org › emergencies › sequia",
+            "snippet": "La sequía es uno de los peligros naturales más devastadores que paraliza la producción de alimentos, agota los pastizales, perturba los mercados y, ...",
+            "snippet_highlighted_words": [
+                "sequía"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "¿Qué es la sequía? | Argentina.gob.ar",
+            "link": "https://www.argentina.gob.ar/sinagir/riesgos-frecuentes/sequia",
+            "displayed_link": "https://www.argentina.gob.ar › sinagir › sequia",
+            "snippet": "Entendemos por sequía a un periodo de tiempo donde las precipitaciones son escasas o bien los caudales naturales de los ríos o volúmenes embalsados están ...",
+            "snippet_highlighted_words": [
+                "sequía"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "¿Qué es la sequía? | iAgua",
+            "link": "https://www.iagua.es/respuestas/que-es-sequia",
+            "displayed_link": "https://www.iagua.es › iAgua Respuestas › Sequía",
+            "snippet": "La sequía es una anomalía transitoria que se caracteriza por la escasez temporal de agua, en comparación con el suministro normal, en un período de tiempo ...",
+            "snippet_highlighted_words": [
+                "sequía"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Sequía en EL PAÍS",
+            "link": "https://elpais.com/noticias/sequia/",
+            "displayed_link": "https://elpais.com › noticias › sequia",
+            "snippet": "Todas las noticias sobre Sequía publicadas en EL PAÍS. Información, novedades y última hora sobre Sequía.",
+            "snippet_highlighted_words": [
+                "Sequía",
+                "Sequía"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "sequía - Infocampo",
+            "link": "https://www.infocampo.com.ar/tag/sequia/",
+            "displayed_link": "https://www.infocampo.com.ar › tag › sequia",
+            "snippet": "La Niña dejó un impacto negativo en más del 60% de las empresas agropecuarias · MIles de productores entrerrianos se adhirieron a la emergencia por sequía · Un ...",
+            "snippet_highlighted_words": [
+                "sequía"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "¿Qué es la sequía?",
+            "link": "https://www.miteco.gob.es/es/agua/temas/observatorio-nacional-de-la-sequia/que-es-la-sequia/",
+            "displayed_link": "https://www.miteco.gob.es › temas › que-es-la-sequia",
+            "snippet": "La sequía supone una anomalía transitoria, más o menos prolongada, caracterizada por un periodo de tiempo con valores de las precipitaciones inferiores a ...",
+            "snippet_highlighted_words": [
+                "sequía"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "La sequía golpea a las cosechas y a la economía ... - ReliefWeb",
+            "link": "https://reliefweb.int/report/argentina/la-sequ-golpea-las-cosechas-y-la-econom-de-sudam-rica",
+            "displayed_link": "https://reliefweb.int › report › argentina › la-sequ-golpe...",
+            "date": "26 ene 2022",
+            "snippet": "BUENOS AIRES -- Brasil, Argentina y Paraguay, los tres grandes países productores agrícolas de Sudamérica, atraviesan un prolongado período ..."
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "Sequía cerca de provincia de buenos aires",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=sequ%C3%ADa+cerca+de+provincia+de+buenos+aires&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "Sequía cerca de buenos aires, caba",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=sequ%C3%ADa+cerca+de+buenos+aires,+caba&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "causas de las sequías",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Causas+de+las+sequ%C3%ADas&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "ejemplo de sequía",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Ejemplo+de+sequ%C3%ADa&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "consecuencias de la sequía",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Consecuencias+de+la+sequ%C3%ADa&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "sequía de agua",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Sequ%C3%ADa+de+agua&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "características de la sequía",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Caracter%C3%ADsticas+de+la+sequ%C3%ADa&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "sequía para niños de primaria",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Sequ%C3%ADa+para+ni%C3%B1os+de+Primaria&sa=X&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ1QJ6BAgtEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Sequ%C3%ADa&gl=AR&hl=es&ei=LQB9YrP2L-HD_Qa536q4Dg&start=10&sa=N&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ8NMDegQIAhBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Sequ%C3%ADa&gl=AR&hl=es&ei=LQB9YrP2L-HD_Qa536q4Dg&start=10&sa=N&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ8tMDegQIAhA_",
+            "3": "https://www.google.com/search?q=Sequ%C3%ADa&gl=AR&hl=es&ei=LQB9YrP2L-HD_Qa536q4Dg&start=20&sa=N&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ8tMDegQIAhBB",
+            "4": "https://www.google.com/search?q=Sequ%C3%ADa&gl=AR&hl=es&ei=LQB9YrP2L-HD_Qa536q4Dg&start=30&sa=N&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ8tMDegQIAhBD",
+            "5": "https://www.google.com/search?q=Sequ%C3%ADa&gl=AR&hl=es&ei=LQB9YrP2L-HD_Qa536q4Dg&start=40&sa=N&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ8tMDegQIAhBF",
+            "6": "https://www.google.com/search?q=Sequ%C3%ADa&gl=AR&hl=es&ei=LQB9YrP2L-HD_Qa536q4Dg&start=50&sa=N&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ8tMDegQIAhBH",
+            "7": "https://www.google.com/search?q=Sequ%C3%ADa&gl=AR&hl=es&ei=LQB9YrP2L-HD_Qa536q4Dg&start=60&sa=N&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ8tMDegQIAhBJ",
+            "8": "https://www.google.com/search?q=Sequ%C3%ADa&gl=AR&hl=es&ei=LQB9YrP2L-HD_Qa536q4Dg&start=70&sa=N&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ8tMDegQIAhBL",
+            "9": "https://www.google.com/search?q=Sequ%C3%ADa&gl=AR&hl=es&ei=LQB9YrP2L-HD_Qa536q4Dg&start=80&sa=N&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ8tMDegQIAhBN",
+            "10": "https://www.google.com/search?q=Sequ%C3%ADa&gl=AR&hl=es&ei=LQB9YrP2L-HD_Qa536q4Dg&start=90&sa=N&ved=2ahUKEwjzwOrf_dn3AhXhYd8KHbmvCucQ8tMDegQIAhBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=20&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=30&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=40&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=50&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=60&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=70&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=80&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=90&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D"
+        }
+    }
+}

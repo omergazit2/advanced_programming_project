@@ -1,0 +1,297 @@
+{
+    "search_metadata": {
+        "id": "629e3d2bdc02f19db86c8a5d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b43a529a6ab723ee/629e3d2bdc02f19db86c8a5d.json",
+        "created_at": "2022-06-06 17:45:15 UTC",
+        "processed_at": "2022-06-06 17:45:15 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&oq=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/b43a529a6ab723ee/629e3d2bdc02f19db86c8a5d.html",
+        "total_time_taken": 2.66
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "אבולוציה",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "אבולוציה",
+        "total_results": 502000,
+        "time_taken_displayed": 0.4
+    },
+    "knowledge_graph": {
+        "title": "אבולוציה",
+        "header_images": [
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94"
+            },
+            {
+                "source": "https://www.hiloni.org.il/blog/18118"
+            },
+            {
+                "source": "https://www.mako.co.il/hix-science/Article-74ac60af3ebfa51006.htm"
+            },
+            {
+                "source": "https://davidson.weizmann.ac.il/online/maagarmada/life_sci/%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94-%D7%90%D7%A9%D7%9B%D7%95%D7%9C-%D7%9B%D7%AA%D7%91%D7%95%D7%AA-%D7%95%D7%A1%D7%A8%D7%98%D7%95%D7%A0%D7%99%D7%9D"
+            },
+            {
+                "source": "https://www.hidabroot.org/article/1130452"
+            }
+        ],
+        "description": "אֵבוֹלוּצְיָה בִּיּוֹלוֹגִית היא תהליך השינוי הגנטי באוכלוסייה של אורגניזמים לאורך דורות.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94"
+        },
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "אבולוציה של האדם",
+                "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94+%D7%A9%D7%9C+%D7%94%D7%90%D7%93%D7%9D&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUnTKzsL-LpYp64S47MCf2Uu97O_2zj4AIwgkvezJBLqtkoUm2rGvjYo9bgSpgOY3zlYYtQkjnqZWi9AQodKClB1iUsZ8NEGjKLw7c1rLisO_nVv1fS3kE71H8wvwA5g39YoDmTZ3R5No2S5LUNjtZGu2UcjB253MkM02zFQEwup_sZii83AVzHNsQDzj9vN_eWsgNwP3vGjHi6psS4O18RKY5iMpaACZcoGsnzV_6ELbx8c6YqmNyin_T6hc1DKf4-pD0vwiGjNMxi3rcHBguaGUoc1&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQxA16BAhIEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94+%D7%A9%D7%9C+%D7%94%D7%90%D7%93%D7%9D&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUnTKzsL-LpYp64S47MCf2Uu97O_2zj4AIwgkvezJBLqtkoUm2rGvjYo9bgSpgOY3zlYYtQkjnqZWi9AQodKClB1iUsZ8NEGjKLw7c1rLisO_nVv1fS3kE71H8wvwA5g39YoDmTZ3R5No2S5LUNjtZGu2UcjB253MkM02zFQEwup_sZii83AVzHNsQDzj9vN_eWsgNwP3vGjHi6psS4O18RKY5iMpaACZcoGsnzV_6ELbx8c6YqmNyin_T6hc1DKf4-pD0vwiGjNMxi3rcHBguaGUoc1",
+                "image": "https://serpapi.com/searches/629e3d2bdc02f19db86c8a5d/images/7feaec7af23cf20f3434ed96869c898334f42193300afd16622746bab5b21c15983f11b1cacabe162167a680d5542c7b5ee220ba52f5b32d.jpeg"
+            },
+            {
+                "name": "גנטיקה",
+                "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%92%D7%A0%D7%98%D7%99%D7%A7%D7%94&si=AC1wQDC0KliLIoeyh35S2UVSh9d0at62ormA4JRB9xLdTgvleQszmVJBA7_j0DLz1PQJL54HsgwIylhv3jSHsTRe2Ym8_3jl1ILmD7DJbgwQmp2psFAdbHh_x1O-eIA4VHDgKeby6tmc0kseUOijN-KSroTsyV2WfBtxWq5rp8j87D6AlIRlwuNBBbEgAIsGEI76WRfoh0T-AeHUZPMbyqfBhq5eUDZpjupmSpyxoo395iK1gBjDJhm3q2j3KGrnedKC-bqxlotk2exKnGs5zxDNmIBnEbFggRuFlqm7Qa2GwfBiF6WEyfw%3D&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQxA16BAhIEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%98%D7%99%D7%A7%D7%94&si=AC1wQDC0KliLIoeyh35S2UVSh9d0at62ormA4JRB9xLdTgvleQszmVJBA7_j0DLz1PQJL54HsgwIylhv3jSHsTRe2Ym8_3jl1ILmD7DJbgwQmp2psFAdbHh_x1O-eIA4VHDgKeby6tmc0kseUOijN-KSroTsyV2WfBtxWq5rp8j87D6AlIRlwuNBBbEgAIsGEI76WRfoh0T-AeHUZPMbyqfBhq5eUDZpjupmSpyxoo395iK1gBjDJhm3q2j3KGrnedKC-bqxlotk2exKnGs5zxDNmIBnEbFggRuFlqm7Qa2GwfBiF6WEyfw%3D",
+                "image": "https://serpapi.com/searches/629e3d2bdc02f19db86c8a5d/images/7feaec7af23cf20f3434ed96869c898334f42193300afd16622746bab5b21c15983f11b1cacabe167bb15e458e8293d444f6b6f7c9ef35e2.jpeg"
+            },
+            {
+                "name": "מגוון ביולוגי",
+                "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%9E%D7%92%D7%95%D7%95%D7%9F+%D7%91%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbXPI8kN76jW5BuyAf0hcmpqCEfJFXIoeXYI74_h27zv7fG2qY96unxHRJnPa0FpzAnrHIEq4MVn9VfcZaDZSMRJgvGXevyhqy6uDrVMuLz29a_Zu57YHw8ajF_1DSwF0byCBSnfjEBEeD13JFQKw_NkvRzbiSoV8mGpJKNQXbrZepJlNWGiY-ZixBBJPahpDcaIkvNfjaXhdgzrMbkZwfnK-VL8PpJXCO05lwzObeJS6mv2Cc8tq2UIaJfPb15dvTgNjfWczhj5r-aZ4OYbVI7t4d9u&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQxA16BAhIEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%92%D7%95%D7%95%D7%9F+%D7%91%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbXPI8kN76jW5BuyAf0hcmpqCEfJFXIoeXYI74_h27zv7fG2qY96unxHRJnPa0FpzAnrHIEq4MVn9VfcZaDZSMRJgvGXevyhqy6uDrVMuLz29a_Zu57YHw8ajF_1DSwF0byCBSnfjEBEeD13JFQKw_NkvRzbiSoV8mGpJKNQXbrZepJlNWGiY-ZixBBJPahpDcaIkvNfjaXhdgzrMbkZwfnK-VL8PpJXCO05lwzObeJS6mv2Cc8tq2UIaJfPb15dvTgNjfWczhj5r-aZ4OYbVI7t4d9u",
+                "image": "https://serpapi.com/searches/629e3d2bdc02f19db86c8a5d/images/7feaec7af23cf20f3434ed96869c898334f42193300afd16622746bab5b21c15983f11b1cacabe16d0dc8bae874bdcbbca980c3bfd9f7855.jpeg"
+            },
+            {
+                "name": "אמבריולוגיה",
+                "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%90%D7%9E%D7%91%D7%A8%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgEk9Au1CJ81mxsVo2-652y8ba8XMqEKAPc9Pe-UDZGfi6MvK2jOKJvZzc-jBdVcY8O24yRIQnCQjP0XYsC5sjuEjbG3JV9JAxzArZajKaE76aDi06Y84cZayEBUKqOskB_MHlgYEudMcOrR2UbUgJmIeYSkAMa89cfElNZH6qggJ4t25mwpcng_722ZDHW54DbHp_DWO_FcDNuzk2MKWQOSXYCB8g7bc3O7qmBJgy5xMYi9dDmr-Lrh6K-eDsBKO1WPa3FZsbwhws3dZCwG0QfE2oHXq&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQxA16BAhIEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%9E%D7%91%D7%A8%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgEk9Au1CJ81mxsVo2-652y8ba8XMqEKAPc9Pe-UDZGfi6MvK2jOKJvZzc-jBdVcY8O24yRIQnCQjP0XYsC5sjuEjbG3JV9JAxzArZajKaE76aDi06Y84cZayEBUKqOskB_MHlgYEudMcOrR2UbUgJmIeYSkAMa89cfElNZH6qggJ4t25mwpcng_722ZDHW54DbHp_DWO_FcDNuzk2MKWQOSXYCB8g7bc3O7qmBJgy5xMYi9dDmr-Lrh6K-eDsBKO1WPa3FZsbwhws3dZCwG0QfE2oHXq",
+                "image": "https://serpapi.com/searches/629e3d2bdc02f19db86c8a5d/images/7feaec7af23cf20f3434ed96869c898334f42193300afd16622746bab5b21c15983f11b1cacabe16440ecb7ed3b5d71c87012b446b5795fb.jpeg"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&stick=H4sIAAAAAAAAAONgFuLQz9U3MMqyqFKCs7QEgzNTUssTK4v9UitKgktSC4oXsQpcn3B94vWp1-cA8bLrM69P2cHKCADn-gxXPwAAAA&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQMSgAegQISBAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMqyqFKCs7QEgzNTUssTK4v9UitKgktSC4oXsQpcn3B94vWp1-cA8bLrM69P2cHKCADn-gxXPwAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "אבולוציה מוסברת בפשטות",
+            "link": "https://www.youtube.com/watch?v=YvTFXPHhtFU",
+            "thumbnail": "https://serpapi.com/searches/629e3d2bdc02f19db86c8a5d/images/78975e2581b4148b75716753a63c9b0af8aa8eacf96156f5bd8ba694d017e631.jpeg",
+            "channel": "ScienceReasonIsrael",
+            "duration": "8:16",
+            "platform": "YouTube",
+            "date": "10 באוג׳ 2013"
+        },
+        {
+            "position": 2,
+            "title": "תורת האבולוציה על רגל אחת - 1",
+            "link": "https://www.youtube.com/watch?v=cpuepyVvWkA",
+            "thumbnail": "https://serpapi.com/searches/629e3d2bdc02f19db86c8a5d/images/78975e2581b4148b0014eeca31e0e6f0e0991d55d21dd3c8b78392e4f216f02f.jpeg",
+            "channel": "ScienceReasonIsrael",
+            "duration": "17:44",
+            "platform": "YouTube",
+            "date": "21 בינו׳ 2013"
+        },
+        {
+            "position": 3,
+            "title": "אבולוציה, מראשית החיים ובמהרה בימינו",
+            "link": "https://www.youtube.com/watch?v=uqU9KxytGDQ",
+            "thumbnail": "https://serpapi.com/searches/629e3d2bdc02f19db86c8a5d/images/78975e2581b4148bf960b6935a654d03a110224331eed47c1dfce5a684612d57.jpeg",
+            "channel": "Weizmann Institute of Science",
+            "duration": "37:38",
+            "platform": "YouTube",
+            "date": "10 במרץ 2016"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "אבולוציה - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94",
+            "displayed_link": "https://he.wikipedia.org › wiki › אבולוציה",
+            "snippet": "תורת האבולוציה הודגמה בניסויים רבים ומקובלת כיום על ידי רובם המכריע של הביולוגים, והיא כוללת בבסיסה ידע בדבר מנגנוני הורשה וגנטיקה, את תורתו של צ'ארלס דרווין על ...",
+            "snippet_highlighted_words": [
+                "האבולוציה"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "אבולוציה של האדם",
+                        "link": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94_%D7%A9%D7%9C_%D7%94%D7%90%D7%93%D7%9D"
+                    },
+                    {
+                        "title": "התנגדויות לתורת האבולוציה",
+                        "link": "https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A0%D7%92%D7%93%D7%95%D7%99%D7%95%D7%AA_%D7%9C%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94"
+                    },
+                    {
+                        "title": "קטגוריה:אבולוציה",
+                        "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94"
+                    },
+                    {
+                        "title": "אבולוציה ניסויית",
+                        "link": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94_%D7%A0%D7%99%D7%A1%D7%95%D7%99%D7%99%D7%AA"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "אבולוציה - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/maagarmada/life_sci/%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94",
+            "displayed_link": "https://davidson.weizmann.ac.il › maagarmada › life_sci",
+            "date": "25 באוג׳ 2009",
+            "snippet": "צ'רלס דרווין (1882-1809) הגה את תורת האבולוציה, שטוענת שכל המינים התפתחו מאב קדמון משותף. ההתפתחות הזו נעשתה על ידי תהליכים של התאמה הדרגתית ...",
+            "snippet_highlighted_words": [
+                "האבולוציה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "אבולוציה – אשכול כתבות וסרטונים - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/maagarmada/life_sci/%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94-%D7%90%D7%A9%D7%9B%D7%95%D7%9C-%D7%9B%D7%AA%D7%91%D7%95%D7%AA-%D7%95%D7%A1%D7%A8%D7%98%D7%95%D7%A0%D7%99%D7%9D",
+            "displayed_link": "https://davidson.weizmann.ac.il › maagarmada › life_sci",
+            "date": "30 באפר׳ 2014",
+            "snippet": "בבסיס תורת האבולוציה עומדים כמה עקרונות יסוד שמאפשרים התפתחות מינים חדשים: הורשה עם שינוי (מוטציה), הנטייה הטבעית לשרוד (כיוון שמי שלא שרד ...",
+            "snippet_highlighted_words": [
+                "האבולוציה"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "אבולוציה | תהליכי המחקר של תיאוריית האבולוציה | מוזיאון הטבע ע ...",
+            "link": "https://smnh.tau.ac.il/learn_cat/%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94/",
+            "displayed_link": "https://smnh.tau.ac.il › learn_cat › אבולוציה",
+            "snippet": "אבולוציה היא אחת מהתיאוריות המרכזיות והחשובות של המדע. היא מסבירה כיצד מינים משתנים ונוצרים. לכאורה, זו שאלת מחקר מדעית שנמצאת בחזית המדע כבר 200 שנים.",
+            "snippet_highlighted_words": [
+                "אבולוציה"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "מהי אבולוציה? | שער לאבולוציה",
+            "link": "http://evolution.campusteva.tau.ac.il/content/hqdmh",
+            "displayed_link": "http://evolution.campusteva.tau.ac.il › content › hqdmh",
+            "snippet": "אבולוציה היא שינוי בתכונות של יצורים חיים מדור לדור. המושג אבולוציה מתייחס גם לאבולוציה בקנה מידה קטן (השינוי בשכיחות גנים באוכלוסייה בין דור לדור) וגם ...",
+            "snippet_highlighted_words": [
+                "אבולוציה",
+                "אבולוציה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "תהליכים אבולוציוניים | ביולוגיה חטיבה עליונה | מרחב פדגוגי",
+            "link": "http://pop.education.gov.il/tchumey_daat/biologya/chativa-elyona/noseem-nilmadim/evulutzia/",
+            "displayed_link": "http://pop.education.gov.il › chativa-elyona › evulutzia",
+            "snippet": "תהליכים אבולוציוניים משפיעים על שכיחותן של תכונות המאפיינות את המין ועל מגוון המינים. ... סרטון אינטראקטיבי- מנגנוני אבולוציה- ברירה טבעית, סחף גנטי ...",
+            "snippet_highlighted_words": [
+                "אבולוציוניים",
+                "אבולוציה"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "אבולוציה - פורטל עובדי הוראה | מרחב פדגוגי",
+            "link": "https://pop.education.gov.il/tchumey_daat/mada-tehnologia/chativat-beynayim/noseem_nilmadim/evolution/",
+            "displayed_link": "https://pop.education.gov.il › tchumey_daat › evolution",
+            "snippet": "אבולוציה. אבולוציה. תהליכים אבולוציוניים משפיעים על שכיחות של תכונות המאפיינות את המין ועל מגוון המינים. בכל אוכלוסייה קיימת שונות שחלקה תורשתית.",
+            "snippet_highlighted_words": [
+                "אבולוציה",
+                "אבולוציה",
+                "אבולוציוניים"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "כל מה שרציתם לדעת על אבולוציה - הפורום החילוני",
+            "link": "https://www.hiloni.org.il/blog/18118",
+            "displayed_link": "https://www.hiloni.org.il › blog",
+            "date": "12 בפבר׳ 2019",
+            "snippet": "האבולוציה כמעט לא קיימת בחומר הלימוד בבתי הספר הממלכתיים. היום, 12 בפברואר, יצויינו 210 שנים להולדתו של צ'רלס דרווין, וזו הזדמנות מצוינת ...",
+            "snippet_highlighted_words": [
+                "האבולוציה"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "אבולוציה - ויקימילון",
+            "link": "https://he.wiktionary.org/wiki/%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94",
+            "displayed_link": "https://he.wiktionary.org › wiki › אבולוציה",
+            "snippet": "כתיב מלא, אבולוציה ... שלדי פרימאטים, המדגימים את הדמיון ואת השוני בין המינים שנוצרו באבולוציה (2) ... ניתן להתחקות אחר האבולוציה של רמת הבטיחות של מכוניות.",
+            "snippet_highlighted_words": [
+                "אבולוציה",
+                "באבולוציה",
+                "האבולוציה"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "דוגמאות לאבולוציה",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%93%D7%95%D7%92%D7%9E%D7%90%D7%95%D7%AA+%D7%9C%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "תורת האבולוציה",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%AA%D7%95%D7%A8%D7%AA+%D7%94%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "אבולוציה ודת",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94+%D7%95%D7%93%D7%AA&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "תורת האבולוציה על רגל אחת",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%AA%D7%95%D7%A8%D7%AA+%D7%94%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94+%D7%A2%D7%9C+%D7%A8%D7%92%D7%9C+%D7%90%D7%97%D7%AA&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ1QJ6BAghEAE"
+        },
+        {
+            "query": "אבולוציה ויקיפדיה",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94+%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ1QJ6BAggEAE"
+        },
+        {
+            "query": "אבולוציה סרט",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94+%D7%A1%D7%A8%D7%98&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "אבולוציה מצגת",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94+%D7%9E%D7%A6%D7%92%D7%AA&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ1QJ6BAgdEAE"
+        },
+        {
+            "query": "אבולוציה לילדים",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94+%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ1QJ6BAgaEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&ucbcb=1&gl=il&hl=iw&ei=LT2eYtzDA76CytMPgK2r0Ac&start=10&sa=N&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&ucbcb=1&gl=il&hl=iw&ei=LT2eYtzDA76CytMPgK2r0Ac&start=10&sa=N&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&ucbcb=1&gl=il&hl=iw&ei=LT2eYtzDA76CytMPgK2r0Ac&start=20&sa=N&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&ucbcb=1&gl=il&hl=iw&ei=LT2eYtzDA76CytMPgK2r0Ac&start=30&sa=N&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&ucbcb=1&gl=il&hl=iw&ei=LT2eYtzDA76CytMPgK2r0Ac&start=40&sa=N&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&ucbcb=1&gl=il&hl=iw&ei=LT2eYtzDA76CytMPgK2r0Ac&start=50&sa=N&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&ucbcb=1&gl=il&hl=iw&ei=LT2eYtzDA76CytMPgK2r0Ac&start=60&sa=N&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&ucbcb=1&gl=il&hl=iw&ei=LT2eYtzDA76CytMPgK2r0Ac&start=70&sa=N&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&ucbcb=1&gl=il&hl=iw&ei=LT2eYtzDA76CytMPgK2r0Ac&start=80&sa=N&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&ucbcb=1&gl=il&hl=iw&ei=LT2eYtzDA76CytMPgK2r0Ac&start=90&sa=N&ved=2ahUKEwicjuPHsJn4AhU-gXIEHYDWCnoQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%91%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%94&start=90"
+        }
+    }
+}

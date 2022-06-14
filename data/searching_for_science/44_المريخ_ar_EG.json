@@ -1,0 +1,453 @@
+{
+    "search_metadata": {
+        "id": "629e3d59c90e0aeb4c4d2fa6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ab24640f96d6bb27/629e3d59c90e0aeb4c4d2fa6.json",
+        "created_at": "2022-06-06 17:46:01 UTC",
+        "processed_at": "2022-06-06 17:46:01 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&oq=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ab24640f96d6bb27/629e3d59c90e0aeb4c4d2fa6.html",
+        "total_time_taken": 1.14
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "المريخ",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "المريخ",
+        "total_results": 6640000,
+        "time_taken_displayed": 0.57
+    },
+    "knowledge_graph": {
+        "title": "المريخ",
+        "type": "كوكب",
+        "header_images": [
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE"
+            },
+            {
+                "source": "https://mawdoo3.com/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA_%D8%B9%D9%86_%D9%83%D9%88%D9%83%D8%A8_%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE"
+            },
+            {
+                "source": "https://www.alittihad.ae/news/%D8%AF%D9%86%D9%8A%D8%A7/4118740/%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE---%D8%A8%D8%B1%D8%AF-%D9%88%D9%84%D9%8A%D8%B3-%D8%B3%D9%84%D8%A7%D9%85%D8%A7"
+            },
+            {
+                "source": "https://www.aljazeera.net/midan/miscellaneous/science/2022/5/1/%D9%87%D9%84-%D9%8A%D8%B5%D8%A8%D8%AD-%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE-%D8%A3%D8%B1%D8%B6-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%8A%D9%88%D9%85%D9%8B%D8%A7"
+            },
+            {
+                "source": "https://geolougy.com/k/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%B5%D8%AE%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE"
+            }
+        ],
+        "description": "المِرِّيخ أو الكوكب الأحمر هو الكوكب الرابع من حيث البعد عن الشمس في النظام الشمسي وهو الجار الخارجي للأرض ويصنف كوكبا صخريا، من مجموعة الكواكب الأرضية.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE"
+        },
+        "الكتلة": "6.39E23 kg (0.107 M⊕)",
+        "الكتلة_links": [
+            {
+                "text": "الكتلة",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D8%A7%D9%84%D9%83%D8%AA%D9%84%D8%A9&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9aSzE620k8sLinKz8vPrdQvyEnMSy2xyk0sLl7EKnlj-c2Wm603Nt7surFOAcxpvrHqZsuNlQCRTJ0JQwAAAA&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q6BMoAHoECHIQAg"
+            }
+        ],
+        "الجاذبية": "3.721 م\\ث²",
+        "الجاذبية_links": [
+            {
+                "text": "الجاذبية",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D8%A7%D9%84%D8%AC%D8%A7%D8%B0%D8%A8%D9%8A%D8%A9&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSy0620k8sLinKz8vPrdRPTs1JLS7JTMyJz0_KSk0usUovSizLLKlcxCp7Y_nNlputNzbe7LqxTgHEubHmxvIbG26sAAqsBAA8JICyVAAAAA&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q6BMoAHoECHMQAg"
+            }
+        ],
+        "مساحة_السطح": "144,800,000 كم²",
+        "مساحة_السطح_links": [
+            {
+                "text": "مساحة السطح",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D9%85%D8%B3%D8%A7%D8%AD%D8%A9+%D8%A7%D9%84%D8%B3%D8%B7%D8%AD&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9aSzE620k8sLinKz8vPrdQvyEnMSy2xSixKTVzEqnRj-c2Wm603Nt7surFOAcjYfGP5jbU3ViqAxIGc7TfWAgANwHV2TAAAAA&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q6BMoAHoECHQQAg"
+            }
+        ],
+        "طول_اليوم": "1 يوم 0 ساعة 37 دقيقة",
+        "طول_اليوم_links": [
+            {
+                "text": "طول اليوم",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D8%B7%D9%88%D9%84+%D8%A7%D9%84%D9%8A%D9%88%D9%85&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSyk620k8sLinKz8vPrdQvyEnMSy2xyknNSy_JUMhPU0hJrFzEKndj-c2Wm603Nt7surFO4cb2mx03WxTAYl1AZisAbGzKhVEAAAA&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q6BMoAHoECHUQAg"
+            }
+        ],
+        "نصف_القطر": "3389.50 كيلومتر، و3396.19 كيلومتر، و3396.19 كيلومتر",
+        "نصف_القطر_links": [
+            {
+                "text": "نصف القطر",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D9%86%D8%B5%D9%81+%D8%A7%D9%84%D9%82%D8%B7%D8%B1&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q6BMoAHoECHYQAg"
+            }
+        ],
+        "الحرارة": "-63 درجة حرارة مئوية، و-143 درجة حرارة مئوية، و35 درجة حرارة مئوية",
+        "الحرارة_links": [
+            {
+                "text": "الحرارة",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q6BMoAHoECHcQAg"
+            }
+        ],
+        "الأقمار": "فوبوس، ديموس",
+        "الأقمار_links": [
+            {
+                "text": "الأقمار",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSz0620k8sLinKz8vPrdTPL0rKLEnMiS9KzUksyczPK87ILLDKzc_PW8QqfWP5zZabrTc23uy6sU4BxLmx-GYTUGD5jY0A-uWwQFMAAAA&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q6BMoAHoECHgQAg"
+            },
+            {
+                "text": "فوبوس",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%81%D9%88%D8%A8%D9%88%D8%B3&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL1YCs1IqCrO01LOTrfQTi0uK8vPycyv184uSMksSc-KLUnMSSzLz84ozMguscvPz8xaxct1svNlxYwUQb97ByriLnYmDEQBpW0isVAAAAA&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54QmxMoAXoECHgQAw"
+            },
+            {
+                "text": "ديموس",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AF%D9%8A%D9%85%D9%88%D8%B3&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL1YCszKKTY211LOTrfQTi0uK8vPycyv184uSMksSc-KLUnMSSzLz84ozMguscvPz8xaxct1Yf7PrZuvNjhubd7Ay7mJn4mAEAJfpQ25UAAAA&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54QmxMoAnoECHgQBA"
+            }
+        ],
+        "بحوث_ذات_صلة": [
+            {
+                "name": "المشتري",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%89&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZkHB4Ii2Lz_xMUWcSS2nXKqF73ziE1eDMkjxSSS5aZK9pyHgeH5GQS2Ug0YINYovEcXd4e0Ln8tfDvAHrct7nS9N1ePjarsPFhiRZpHlRc2aPKPI-lVitG2vE-80-C5utBIap3sC30OOR_FuoNvQxLK_OIJ0vy4zqwoy2pEXR3y06i0b2NhDzSrXNIJmD3uRIG0-UeNIzmkzXUI26DuvI1eSUDEETfIuMd9MVaudQamIt7GGww35p1iUg2DV5vSxheYbHA%3D&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54QxA16BAh7EAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%89&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZkHB4Ii2Lz_xMUWcSS2nXKqF73ziE1eDMkjxSSS5aZK9pyHgeH5GQS2Ug0YINYovEcXd4e0Ln8tfDvAHrct7nS9N1ePjarsPFhiRZpHlRc2aPKPI-lVitG2vE-80-C5utBIap3sC30OOR_FuoNvQxLK_OIJ0vy4zqwoy2pEXR3y06i0b2NhDzSrXNIJmD3uRIG0-UeNIzmkzXUI26DuvI1eSUDEETfIuMd9MVaudQamIt7GGww35p1iUg2DV5vSxheYbHA%3D",
+                "image": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/b39d7e7a28cd08d86d2021e716a95f99ddde8931a7e7b53673a8b242d93b991129c2913cd8f01f1c1ca391cc9919ecc8.jpeg"
+            },
+            {
+                "name": "الزهرة",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSsjTqBiluQGGzA3JtiDKXeBa-2aZ_dMDBaLeGfxcnPDBqiblG9T3OF2VRFIdHK_UaN4X-fAga6j-5HcJ9xcRrZtevlyVZFDrwPC-JuLJKlLZDYYzh9l18m0jaTIjDA89ZvjEv72t5R782gV1lYuoQJ5siA19cFStgXKNlPY8kG04e_R7T-ZY2CiGMqoxtHDdV7T2IPFLa7SpHyRhtrat28kr67lDzO15MmapVqsaiZoCjofPlYcKkNyP87iA3scfXeKECA%3D&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54QxA16BAh7EAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSsjTqBiluQGGzA3JtiDKXeBa-2aZ_dMDBaLeGfxcnPDBqiblG9T3OF2VRFIdHK_UaN4X-fAga6j-5HcJ9xcRrZtevlyVZFDrwPC-JuLJKlLZDYYzh9l18m0jaTIjDA89ZvjEv72t5R782gV1lYuoQJ5siA19cFStgXKNlPY8kG04e_R7T-ZY2CiGMqoxtHDdV7T2IPFLa7SpHyRhtrat28kr67lDzO15MmapVqsaiZoCjofPlYcKkNyP87iA3scfXeKECA%3D",
+                "image": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/b39d7e7a28cd08d86d2021e716a95f99ddde8931a7e7b53673a8b242d93b99117de471fd4ebb9c2f60bd059cadbc883c.jpeg"
+            },
+            {
+                "name": "الأرض",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%A3%D8%B1%D8%B6&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWIoZJid8r5udcE0MteyQBW2A1YEeoKSNSuvo6hhFFUThnchkLm6oqUVOvPhtHtJcpQzeK9p3_Z20HIUZ8rvt4xZsMqqr3lOm5Z7B-Fl7jTku5B_-XszwIWo0F-HJ7LXzBQ-6lENzPtfxtrdWxfb2n4WP_biuvxu5jxr1IgzE9cvsGlHNpdVQQVsxwZ_LFbS2y-YlRYts0eYUqLiAWdLRPZ7c1BPhFMGN5ewhKAi8Gy7tjnPSRptys8mmFmLPD1A-VWACR0%3D&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54QxA16BAh7EAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A3%D8%B1%D8%B6&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWIoZJid8r5udcE0MteyQBW2A1YEeoKSNSuvo6hhFFUThnchkLm6oqUVOvPhtHtJcpQzeK9p3_Z20HIUZ8rvt4xZsMqqr3lOm5Z7B-Fl7jTku5B_-XszwIWo0F-HJ7LXzBQ-6lENzPtfxtrdWxfb2n4WP_biuvxu5jxr1IgzE9cvsGlHNpdVQQVsxwZ_LFbS2y-YlRYts0eYUqLiAWdLRPZ7c1BPhFMGN5ewhKAi8Gy7tjnPSRptys8mmFmLPD1A-VWACR0%3D",
+                "image": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/b39d7e7a28cd08d86d2021e716a95f99ddde8931a7e7b53673a8b242d93b9911bfc5af923e9030e988dcb9bf6c0333ba.jpeg"
+            },
+            {
+                "name": "عطارد",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B9%D8%B7%D8%A7%D8%B1%D8%AF&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZCvwB5gWzk_PbVMMP0O8E4B6t1uNCTS_-qiO6-oPtOpggcpuUZvTuhcZsW0Jk1N6VG100XjhlSWQeDgsGwXtV_M42l71roIHpjovjef4TFUnLwJ-lSC7h0_LUNJhUbsBVnZzd3pZtVM5DwqBzeRdMTMZg2_iUlgvn4pJkc08JaZHMhZPmzqKzy7nBOe5lsgyQ2l2I8g1See3dPHVeupOfszLYIIXWQLRG_krJxPKGwKrYQVuFQZRRo3-vNCP0_DrA7qg1c%3D&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54QxA16BAh7EAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D8%B7%D8%A7%D8%B1%D8%AF&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZCvwB5gWzk_PbVMMP0O8E4B6t1uNCTS_-qiO6-oPtOpggcpuUZvTuhcZsW0Jk1N6VG100XjhlSWQeDgsGwXtV_M42l71roIHpjovjef4TFUnLwJ-lSC7h0_LUNJhUbsBVnZzd3pZtVM5DwqBzeRdMTMZg2_iUlgvn4pJkc08JaZHMhZPmzqKzy7nBOe5lsgyQ2l2I8g1See3dPHVeupOfszLYIIXWQLRG_krJxPKGwKrYQVuFQZRRo3-vNCP0_DrA7qg1c%3D",
+                "image": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/b39d7e7a28cd08d86d2021e716a95f99ddde8931a7e7b53673a8b242d93b9911f51f081446dd9831df7857810533ab43.jpeg"
+            }
+        ],
+        "بحوث_ذات_صلة_link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7QEgzNTUssTK4v9UitKgktSC4oXsfLcWH6z5WbrjY03u26s28HKCACuY9HOOwAAAA&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54QMSgAegQIexAB",
+        "بحوث_ذات_صلة_stick": "H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7QEgzNTUssTK4v9UitKgktSC4oXsfLcWH6z5WbrjY03u26s28HKCACuY9HOOwAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "باب غامض في المريخ.. ما قصته؟",
+            "link": "https://www.youtube.com/watch?v=RmaqBhl-P9o",
+            "thumbnail": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/127b8be7bb6a36b69e5551e54f3f8f457badbc1f50e6d2f3453a5b03a4a893ec.jpeg",
+            "channel": "AlArabiya العربية",
+            "duration": "1:25",
+            "platform": "YouTube",
+            "date": "قبل 3 أسابيع"
+        },
+        {
+            "position": 2,
+            "title": "لغز غامض.. صورة \"البوابة المنحوتة\" على كوكب المريخ تثير ضجة",
+            "link": "https://www.youtube.com/watch?v=IERYGE00_ro",
+            "thumbnail": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/127b8be7bb6a36b693ed4d3326e6d0674a718d9cf38bba4e25150c99d8d64537.jpeg",
+            "channel": "AlArabiya العربية",
+            "duration": "1:39",
+            "platform": "YouTube",
+            "date": "قبل 3 أسابيع"
+        },
+        {
+            "position": 3,
+            "title": "شاهد: المريخ يخرج عن صمته... كوكب هادئ بسرعتَي صوت",
+            "link": "https://www.youtube.com/watch?v=U71_R8rqsHg",
+            "thumbnail": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/127b8be7bb6a36b6d8e5dd507b93bca8c0948fd34f404762fe51524523783cc5.jpeg",
+            "channel": "euronews (عــربي)",
+            "duration": "2:00",
+            "platform": "YouTube",
+            "date": "04‏/04‏/2022"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "استكشاف ما وراء المريخ والقمر.. مخططات مثيرة للصين قبل نهاية 2023",
+            "link": "https://www.elbalad.news/5308588",
+            "source": "صدى البلد",
+            "date": "قبل ساعتين (2)",
+            "thumbnail": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/4d7556044654f503f09b04ee79e6e08c617a54bfd95aefa6.jpeg"
+        },
+        {
+            "title": "روفر Perseverance يتتبع ولادة سحب كبيرة من الغبار على سطح المريخ",
+            "link": "https://akhbarak.net/news/2022/06/06/24812091/articles/44157779",
+            "source": "‪Akhbarak‬‏",
+            "date": "قبل 18 ساعة",
+            "thumbnail": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/4d7556044654f5032f83dd381aac141d621510447c4cbb11.jpeg"
+        },
+        {
+            "title": "المريخ يبوح بـ\"أسرار جديدة\".. عمرها 700 مليون عام",
+            "link": "https://www.skynewsarabia.com/technology/1521977-%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE-%D9%8A%D8%A8%D9%88%D8%AD-%D8%A8%D9%80%D8%A7%D9%94%D8%B3%D8%B1%D8%A7%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%85%D8%B1%D9%87%D8%A7-700-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%85",
+            "source": "سكاي نيوز عربية",
+            "date": "قبل 3 أسابيع",
+            "thumbnail": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/4d7556044654f5036522e6dc70b2f800a969bb03025a609a.jpeg"
+        },
+        {
+            "title": "لغز صورة \"بوابة\" منحوتة بكوكب المريخ نشرتها ناسا تشعل ضجة",
+            "link": "https://arabic.cnn.com/business/article/2022/05/15/nasa-mars-photo-social-reactions",
+            "source": "‪CNN Arabic‬‏",
+            "date": "قبل 3 أسابيع",
+            "thumbnail": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/4d7556044654f503295d3ba1c17a701a841080f953b3a2d8.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Qt8YBegQIBRAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&tbm=nws",
+    "related_questions": [
+        {
+            "question": "أين المريخ؟",
+            "snippet": "المريخ هو رابع الكواكب بعداً عن الشمس. وأول كوكب له مدار خارج مدار الأرض ويبعد عن الشمس حوالي 230 مليون كلم بالمتوسط (143 مليون ميل).",
+            "title": "المريخ - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE",
+            "displayed_link": "https://ar.wikipedia.org › wiki › المريخ"
+        },
+        {
+            "question": "هل يستطيع الانسان ان يعيش في كوكب المريخ؟",
+            "snippet": "لا يمكن العيش على المريخ، لأن الهواء حول هذا الكوكب لا يحتوي على ما يكفي من الأوكسيجين للإنسان.07‏/05‏/2021",
+            "title": "كوكب المريخ.. أسرار وحقائق | الميادين",
+            "link": "https://www.almayadeen.net/news/technology/1475600/%D9%83%D9%88%D9%83%D8%A8-%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D9%88%D8%AD%D9%82%D8%A7%D8%A6%D9%82",
+            "displayed_link": "https://www.almayadeen.net › news › technology › كوكب..."
+        },
+        {
+            "question": "هل يوجد بحر في كوكب المريخ؟",
+            "snippet": "توجد المياه على سطح كوكب المريخ في صورة جليد غالبا، ويمثل الغطاءان الجليديان في القطب الشمالي والجنوبي للكوكب معظم الجليد الموجود على السطح، ويوجد أيضا بعض الجليد في صخور القشرة المريخية، كما توجد نسبة ضئيلة من بخار الماء في الغلاف الجوي للكوكب، وفي يوم 29 سبتمبر 2015 أعلنت وكالة ناسا للفضاء رسميا عن وجود مياه سائلة ...",
+            "title": "المياه على المريخ - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE",
+            "displayed_link": "https://ar.wikipedia.org › wiki › المياه_على_المريخ"
+        },
+        {
+            "question": "هل كوكب المريخ بارد ام حار؟",
+            "snippet": "يعد المِرِّيخ أبرد بكثير من الأرض، وذلك بسبب بعده عن الشمس، حيث يبلغ متوسط درجة الحرارة حوالي 80 درجة فهرنهايت تحت الصفر 60 درجة مئوية تحت الصفر و195 فهرنهايت تحت الصفر (-125 درجة مئوية) بالقرب من القطبين في الشتاء، و70 درجة فهرنهايت (20 درجة مئوية) في منتصف النهار بالقرب من خط الاستواء.",
+            "title": "كوكب المريخ | الكوكب الأحمر والتركيب الفيزيائي لكوكب ...",
+            "link": "https://www.twinkl.co.uk/teaching-wiki/kwkb-almrykh",
+            "displayed_link": "https://www.twinkl.co.uk › teaching-wiki › kwkb-almrykh"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "المريخ - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE",
+            "displayed_link": "https://ar.wikipedia.org › wiki › المريخ",
+            "thumbnail": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/547f65f5140afca294307f5690368d0bd8e2d955b74b3a782af976c1f775b2f6.jpeg",
+            "snippet": "المِرِّيخ أو الكوكب الأحمر هو الكوكب الرابع من حيث البعد عن الشمس في النظام الشمسي وهو الجار الخارجي للأرض ويصنف كوكبا صخريا، من مجموعة الكواكب الأرضية ...",
+            "snippet_highlighted_words": [
+                "المِرِّيخ"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "استكشاف المريخ",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81_%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE"
+                    },
+                    {
+                        "title": "استعمار المريخ",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE"
+                    },
+                    {
+                        "title": "المياه على المريخ",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE"
+                    },
+                    {
+                        "title": "مناخ المريخ",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%85%D9%86%D8%A7%D8%AE_%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "المسافة_من_الأرض_كيلومتر_و": 54600000,
+                        "نصف_المحور_الرئيسي_كيلومتر_و": 227936637
+                    },
+                    "extensions": [
+                        "المسافة من الأرض: 54600000 كيلومتر، و401000...",
+                        "تابع إلى: الشمس",
+                        "سمي باسم: مارس، وآريز",
+                        "نصف المحور الرئيسي: 227936637 كيلومتر، و1...."
+                    ]
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "مريخ - ويكيبيديا",
+            "link": "https://arz.wikipedia.org/wiki/%D9%85%D8%B1%D9%8A%D8%AE",
+            "displayed_link": "https://arz.wikipedia.org › wiki › مريخ",
+            "snippet": ") هو كوكب من كواكب المجموعه الشمسيه و ترتيبه الرابع من ناحية الشمس.المريخ كمان مشهور باسم الكوكب الاحمر بسبب لونه المايل للحمار، اللون دا سببه اوكسيد الحديد ( ...",
+            "snippet_highlighted_words": [
+                "المريخ"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "على اسم: مارس، واريس",
+                        "التفلطح: 0.00589",
+                        "تابع إلى: شمس",
+                        "نصف المحور الرئيسي: 227936637 كيلومتر، و1...."
+                    ],
+                    "detected_extensions": {
+                        "التفلطح": 0.00589,
+                        "نصف_المحور_الرئيسي_كيلومتر_و": 227936637
+                    }
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "المريخ | علوم وتكنولوجيا | آخر الاكتشافات والدراسات من DW ...",
+            "link": "https://www.dw.com/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE/t-18900921",
+            "displayed_link": "https://www.dw.com › المريخ",
+            "thumbnail": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/547f65f5140afca294307f5690368d0bc355b8ebd33b58d6f246e6e000697db3.jpeg",
+            "snippet": "يبلغ قطر المريخ حوالي 6800 كلم، وهو بذلك مساو لنصف قطر الأرض، وثاني أصغر كواكب النظام الشمسي بعد عطارد. تقدر مساحته بربع مساحة الأرض ويدور حول ...",
+            "snippet_highlighted_words": [
+                "المريخ"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٧‏/٠٤‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "المريخ - Mars - المعرفة",
+            "link": "https://www.marefa.org/%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE/simplified",
+            "displayed_link": "https://www.marefa.org › المريخ › simplified",
+            "thumbnail": "https://serpapi.com/searches/629e3d59c90e0aeb4c4d2fa6/images/547f65f5140afca294307f5690368d0b09c283acf1830f7a4dacb04d6530d894.jpeg",
+            "snippet": "والمريخ رابع كوكب من حيث بُعْده عن الشمس، بعد الأرض مباشرة. ويبلغ بعده المتوسط عن الشمس 227,900,000كم، بينما تبعد الأرض عن الشمس 150,000,000كم.",
+            "snippet_highlighted_words": [
+                "والمريخ"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "كوكب المريخ - CNN Arabic",
+            "link": "https://arabic.cnn.com/tag/kwkb-almrykh",
+            "displayed_link": "https://arabic.cnn.com › tag › kwkb-almrykh",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGHdklEGA-RU8evsmmm3pIU8sdEtTJvnNCT7olkp4FCD-fLzNLm2K&usqp=CAE&s",
+            "snippet": "أشعلت وكالة الفضاء والملاحة الأمريكية أو ما يُعرف بـ\"ناسا\" ضجة واسعة بين نشطاء على مواقع التواصل الاجتماعي بعد نشر صورة من على سطح كوكب المريخ.",
+            "snippet_highlighted_words": [
+                "المريخ"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "هيكل غامض على المريخ يبدو كأنه \"بوابة إلى عالم آخر\"",
+            "link": "https://arabic.rt.com/space/1353226-%D9%87%D9%8A%D9%83%D9%84-%D8%BA%D8%A7%D9%85%D8%B6-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE-%D9%8A%D8%A8%D8%AF%D9%88-%D8%AA%D9%85%D8%A7%D9%85%D8%A7-%D9%85%D8%AB%D9%84-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A5%D9%84%D9%89-%D8%B9%D8%A7%D9%84%D9%85-%D8%A2%D8%AE%D8%B1/",
+            "displayed_link": "https://arabic.rt.com › space › 1353226-هيكل-غامض-عل...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjblIXA6sTXzDaO4aspD0tIPfjDBYH2jZzZ-MCGPXIcDj8SYn34Vbj&usqp=CAE&s",
+            "snippet": "وأظهرت صورة لمسبار كيوريوسيتي الأخيرة تشكيلا صخريا غريب الأطوار على الكوكب الأحمر، يبدو أنه مدخل محفور بشكل مثالي في المناظر الطبيعية للمريخ، ...",
+            "snippet_highlighted_words": [
+                "للمريخ"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٣‏/٠٥‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "علماء يعلنون عن اختراق في تحديد أصل الحياة على الأرض وربما ...",
+            "link": "https://arabic.rt.com/space/1361248-%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D8%B9%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A3%D8%B5%D9%84-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D9%88%D8%B1%D8%A8%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE-%D8%A3%D9%8A%D8%B6%D8%A7/",
+            "displayed_link": "https://arabic.rt.com › space › 1361248-علماء-يعلنون-ع...",
+            "snippet": "وجد فريق من العلماء مسارا ربما نشأت من خلاله الحياة على الأرض والمريخ، من خلال تكوين الحمض النووي الريبوزي على زجاج الحمم البازلتية.",
+            "snippet_highlighted_words": [
+                "والمريخ"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "قبل ٩ ساعات —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "كوكب المريخ | سكاي نيوز عربية",
+            "link": "https://www.skynewsarabia.com/tag?s=%D9%83%D9%88%D9%83%D8%A8+%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE",
+            "displayed_link": "https://www.skynewsarabia.com › tag › s=كوكب+المريخ",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2YQH1_7tTvfUnPgFTMGvmnTTfC6UmEbqPbTf4IXrELdWDoO9CAujw&usqp=CAE&s",
+            "snippet": "مروحية المريخ في مأزق.. ومسؤول في \"ناسا\" يشرح ما وقع. l 11 ديسمبر 2021 · الصورة التي نشرها الشيخ محمد بن راشد آل مكتوم.",
+            "snippet_highlighted_words": [
+                "المريخ"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "المريخ السوداني",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q1QJ6BAgyEAE"
+        },
+        {
+            "query": "سكان كوكب المريخ",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B3%D9%83%D8%A7%D9%86+%D9%83%D9%88%D9%83%D8%A8+%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q1QJ6BAg3EAE"
+        },
+        {
+            "query": "كوكب المريخ من الداخل",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%83%D9%88%D9%83%D8%A8+%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D9%85%D9%86+%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q1QJ6BAg7EAE"
+        },
+        {
+            "query": "كوكب المريخ الآن",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%83%D9%88%D9%83%D8%A8+%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D8%A7%D9%84%D8%A2%D9%86&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q1QJ6BAg-EAE"
+        },
+        {
+            "query": "شكل كوكب المريخ",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B4%D9%83%D9%84+%D9%83%D9%88%D9%83%D8%A8+%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q1QJ6BAhAEAE"
+        },
+        {
+            "query": "ماذا يوجد في كوكب المريخ",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%A7%D8%B0%D8%A7+%D9%8A%D9%88%D8%AC%D8%AF+%D9%81%D9%8A+%D9%83%D9%88%D9%83%D8%A8+%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q1QJ6BAhHEAE"
+        },
+        {
+            "query": "أول شخص وصل المريخ",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D9%88%D9%84+%D8%B4%D8%AE%D8%B5+%D9%88%D8%B5%D9%84+%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q1QJ6BAhKEAE"
+        },
+        {
+            "query": "صخور المريخ",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B5%D8%AE%D9%88%D8%B1+%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&sa=X&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q1QJ6BAhMEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&gl=eg&hl=ar&ei=Wj2eYqSxApKZptQP0vS88Ak&start=10&sa=N&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&gl=eg&hl=ar&ei=Wj2eYqSxApKZptQP0vS88Ak&start=10&sa=N&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&gl=eg&hl=ar&ei=Wj2eYqSxApKZptQP0vS88Ak&start=20&sa=N&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&gl=eg&hl=ar&ei=Wj2eYqSxApKZptQP0vS88Ak&start=30&sa=N&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&gl=eg&hl=ar&ei=Wj2eYqSxApKZptQP0vS88Ak&start=40&sa=N&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&gl=eg&hl=ar&ei=Wj2eYqSxApKZptQP0vS88Ak&start=50&sa=N&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&gl=eg&hl=ar&ei=Wj2eYqSxApKZptQP0vS88Ak&start=60&sa=N&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&gl=eg&hl=ar&ei=Wj2eYqSxApKZptQP0vS88Ak&start=70&sa=N&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&gl=eg&hl=ar&ei=Wj2eYqSxApKZptQP0vS88Ak&start=80&sa=N&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&gl=eg&hl=ar&ei=Wj2eYqSxApKZptQP0vS88Ak&start=90&sa=N&ved=2ahUKEwikxpzdsJn4AhWSjIkEHVI6D54Q8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&start=90"
+        }
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "search_metadata": {
+        "id": "627cfffbe135084884e0abb4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cccfdf7a82caaa26/627cfffbe135084884e0abb4.json",
+        "created_at": "2022-05-12 12:39:23 UTC",
+        "processed_at": "2022-05-12 12:39:23 UTC",
+        "google_url": "https://www.google.com/search?q=Infection&oq=Infection&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=&hl=fr&gl=FR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/cccfdf7a82caaa26/627cfffbe135084884e0abb4.html",
+        "total_time_taken": 2.23
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Infection",
+        "uule": "w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=",
+        "google_domain": "google.com",
+        "hl": "fr",
+        "gl": "FR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Infection",
+        "total_results": 5030000000,
+        "time_taken_displayed": 0.64
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&tbm=isch&source=iu&ictx=1&vet=1&fir=VULiV9Ypvy_fEM%252C7Crixijp5zzAOM%252C_%253BDwTEHQyuWYGfNM%252CYa6d_pP0uUHX5M%252C_%253B9-MxwgL8Hr7bYM%252CY4sbPzaK-km1dM%252C_%253Ba1KDdKcmn6nRqM%252CSw2iqlTHs90PvM%252C_%253B-ZgtGO1rxSX9zM%252Cj5SBvl_xdZ0lRM%252C_%253BX5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253Bx-OCMkefZd5mkM%252CBHTbscTh-srg7M%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253BBA8herCS23pPnM%252ClzoMNA82JVawbM%252C_%253Bus2paZ9UB_OKAM%252Cn85KQPQP4B7AnM%252C_&usg=AI4_-kSgSnIuUFlOqzX-iggdbZVbgPFamA&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q9QF6BAg0EAE#imgrc=VULiV9Ypvy_fEM",
+            "source": "https://sante.journaldesfemmes.fr/fiches-sante-du-quotidien/2646159-infection-definition-differents-types-traitement-antiobiotiques/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9qbH3MjwL3RJuoqeJvp4PUxqeKiIIBULO0xZ0nRsMQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&tbm=isch&source=iu&ictx=1&vet=1&fir=VULiV9Ypvy_fEM%252C7Crixijp5zzAOM%252C_%253BDwTEHQyuWYGfNM%252CYa6d_pP0uUHX5M%252C_%253B9-MxwgL8Hr7bYM%252CY4sbPzaK-km1dM%252C_%253Ba1KDdKcmn6nRqM%252CSw2iqlTHs90PvM%252C_%253B-ZgtGO1rxSX9zM%252Cj5SBvl_xdZ0lRM%252C_%253BX5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253Bx-OCMkefZd5mkM%252CBHTbscTh-srg7M%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253BBA8herCS23pPnM%252ClzoMNA82JVawbM%252C_%253Bus2paZ9UB_OKAM%252Cn85KQPQP4B7AnM%252C_&usg=AI4_-kSgSnIuUFlOqzX-iggdbZVbgPFamA&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q9QF6BAhPEAE#imgrc=DwTEHQyuWYGfNM",
+            "source": "https://www.docteurclic.com/encyclopedie/infection.aspx",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNAOui7O94ZhZyejlHQbRVKg6x6P5LWSd5YJf4YIV&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&tbm=isch&source=iu&ictx=1&vet=1&fir=VULiV9Ypvy_fEM%252C7Crixijp5zzAOM%252C_%253BDwTEHQyuWYGfNM%252CYa6d_pP0uUHX5M%252C_%253B9-MxwgL8Hr7bYM%252CY4sbPzaK-km1dM%252C_%253Ba1KDdKcmn6nRqM%252CSw2iqlTHs90PvM%252C_%253B-ZgtGO1rxSX9zM%252Cj5SBvl_xdZ0lRM%252C_%253BX5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253Bx-OCMkefZd5mkM%252CBHTbscTh-srg7M%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253BBA8herCS23pPnM%252ClzoMNA82JVawbM%252C_%253Bus2paZ9UB_OKAM%252Cn85KQPQP4B7AnM%252C_&usg=AI4_-kSgSnIuUFlOqzX-iggdbZVbgPFamA&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q9QF6BAhQEAE#imgrc=9-MxwgL8Hr7bYM",
+            "source": "https://www.futura-sciences.com/sante/questions-reponses/medecine-diagnostic-bacteriologique-depister-infection-9131/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKQ-KyFit4439SiyOEUuxQr2El_8765Rf2FTaq1UPSg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&tbm=isch&source=iu&ictx=1&vet=1&fir=VULiV9Ypvy_fEM%252C7Crixijp5zzAOM%252C_%253BDwTEHQyuWYGfNM%252CYa6d_pP0uUHX5M%252C_%253B9-MxwgL8Hr7bYM%252CY4sbPzaK-km1dM%252C_%253Ba1KDdKcmn6nRqM%252CSw2iqlTHs90PvM%252C_%253B-ZgtGO1rxSX9zM%252Cj5SBvl_xdZ0lRM%252C_%253BX5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253Bx-OCMkefZd5mkM%252CBHTbscTh-srg7M%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253BBA8herCS23pPnM%252ClzoMNA82JVawbM%252C_%253Bus2paZ9UB_OKAM%252Cn85KQPQP4B7AnM%252C_&usg=AI4_-kSgSnIuUFlOqzX-iggdbZVbgPFamA&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q9QF6BAhMEAE#imgrc=a1KDdKcmn6nRqM",
+            "source": "https://sante.journaldesfemmes.fr/fiches-maladies/2468034-infection-urinaire-symptomes-cause-traitement/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOjoUM_lgKTX4cDip-XrFx4dE91G-k2sc2AlaG3FD1g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&tbm=isch&source=iu&ictx=1&vet=1&fir=VULiV9Ypvy_fEM%252C7Crixijp5zzAOM%252C_%253BDwTEHQyuWYGfNM%252CYa6d_pP0uUHX5M%252C_%253B9-MxwgL8Hr7bYM%252CY4sbPzaK-km1dM%252C_%253Ba1KDdKcmn6nRqM%252CSw2iqlTHs90PvM%252C_%253B-ZgtGO1rxSX9zM%252Cj5SBvl_xdZ0lRM%252C_%253BX5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253Bx-OCMkefZd5mkM%252CBHTbscTh-srg7M%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253BBA8herCS23pPnM%252ClzoMNA82JVawbM%252C_%253Bus2paZ9UB_OKAM%252Cn85KQPQP4B7AnM%252C_&usg=AI4_-kSgSnIuUFlOqzX-iggdbZVbgPFamA&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q9QF6BAhOEAE#imgrc=-ZgtGO1rxSX9zM",
+            "source": "https://www.familiprix.com/fr/articles/infections-bacteriennes-et-virales",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpIjvkdFVDg0sSeYhugEvgV1RdmQ-98ThziDyKeTkG1g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&tbm=isch&source=iu&ictx=1&vet=1&fir=VULiV9Ypvy_fEM%252C7Crixijp5zzAOM%252C_%253BDwTEHQyuWYGfNM%252CYa6d_pP0uUHX5M%252C_%253B9-MxwgL8Hr7bYM%252CY4sbPzaK-km1dM%252C_%253Ba1KDdKcmn6nRqM%252CSw2iqlTHs90PvM%252C_%253B-ZgtGO1rxSX9zM%252Cj5SBvl_xdZ0lRM%252C_%253BX5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253Bx-OCMkefZd5mkM%252CBHTbscTh-srg7M%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253BBA8herCS23pPnM%252ClzoMNA82JVawbM%252C_%253Bus2paZ9UB_OKAM%252Cn85KQPQP4B7AnM%252C_&usg=AI4_-kSgSnIuUFlOqzX-iggdbZVbgPFamA&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q9QF6BAhCEAE#imgrc=X5zGJIfh42j8MM",
+            "source": "https://www.verywellhealth.com/infection-5096014",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLfw4utLRBl54Jfc5FiE84_gzjeLYZmI6AHjsDaCzxQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&tbm=isch&source=iu&ictx=1&vet=1&fir=VULiV9Ypvy_fEM%252C7Crixijp5zzAOM%252C_%253BDwTEHQyuWYGfNM%252CYa6d_pP0uUHX5M%252C_%253B9-MxwgL8Hr7bYM%252CY4sbPzaK-km1dM%252C_%253Ba1KDdKcmn6nRqM%252CSw2iqlTHs90PvM%252C_%253B-ZgtGO1rxSX9zM%252Cj5SBvl_xdZ0lRM%252C_%253BX5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253Bx-OCMkefZd5mkM%252CBHTbscTh-srg7M%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253BBA8herCS23pPnM%252ClzoMNA82JVawbM%252C_%253Bus2paZ9UB_OKAM%252Cn85KQPQP4B7AnM%252C_&usg=AI4_-kSgSnIuUFlOqzX-iggdbZVbgPFamA&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q9QF6BAhSEAE#imgrc=x-OCMkefZd5mkM",
+            "source": "https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=infection_urinaire_pm",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqjTWx5G6wSJoxqIMAs5DrOGVXyJ3RrszWFNq_ECvZQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&tbm=isch&source=iu&ictx=1&vet=1&fir=VULiV9Ypvy_fEM%252C7Crixijp5zzAOM%252C_%253BDwTEHQyuWYGfNM%252CYa6d_pP0uUHX5M%252C_%253B9-MxwgL8Hr7bYM%252CY4sbPzaK-km1dM%252C_%253Ba1KDdKcmn6nRqM%252CSw2iqlTHs90PvM%252C_%253B-ZgtGO1rxSX9zM%252Cj5SBvl_xdZ0lRM%252C_%253BX5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253Bx-OCMkefZd5mkM%252CBHTbscTh-srg7M%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253BBA8herCS23pPnM%252ClzoMNA82JVawbM%252C_%253Bus2paZ9UB_OKAM%252Cn85KQPQP4B7AnM%252C_&usg=AI4_-kSgSnIuUFlOqzX-iggdbZVbgPFamA&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q9QF6BAg7EAE#imgrc=rrfUmFIh3GX1aM",
+            "source": "https://www.timeshighereducation.com/cn/hub/qatar-university/p/investigating-infection",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSD8v-z5DXzUvYbcng2S6bdh_09FLnYlRzlkSMswDR3A&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&tbm=isch&source=iu&ictx=1&vet=1&fir=VULiV9Ypvy_fEM%252C7Crixijp5zzAOM%252C_%253BDwTEHQyuWYGfNM%252CYa6d_pP0uUHX5M%252C_%253B9-MxwgL8Hr7bYM%252CY4sbPzaK-km1dM%252C_%253Ba1KDdKcmn6nRqM%252CSw2iqlTHs90PvM%252C_%253B-ZgtGO1rxSX9zM%252Cj5SBvl_xdZ0lRM%252C_%253BX5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253Bx-OCMkefZd5mkM%252CBHTbscTh-srg7M%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253BBA8herCS23pPnM%252ClzoMNA82JVawbM%252C_%253Bus2paZ9UB_OKAM%252Cn85KQPQP4B7AnM%252C_&usg=AI4_-kSgSnIuUFlOqzX-iggdbZVbgPFamA&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q9QF6BAhNEAE#imgrc=BA8herCS23pPnM",
+            "source": "https://www.frm.org/recherches-maladies-infectieuses/infections-nosocomiales/focus-les-infections-nosocomiales",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Hl0IY1SHB1hoE9P1WJBPMG59tj5Nz5KkUbYy6fN1Jw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&tbm=isch&source=iu&ictx=1&vet=1&fir=VULiV9Ypvy_fEM%252C7Crixijp5zzAOM%252C_%253BDwTEHQyuWYGfNM%252CYa6d_pP0uUHX5M%252C_%253B9-MxwgL8Hr7bYM%252CY4sbPzaK-km1dM%252C_%253Ba1KDdKcmn6nRqM%252CSw2iqlTHs90PvM%252C_%253B-ZgtGO1rxSX9zM%252Cj5SBvl_xdZ0lRM%252C_%253BX5zGJIfh42j8MM%252CAlk2FnSCPFl9lM%252C_%253Bx-OCMkefZd5mkM%252CBHTbscTh-srg7M%252C_%253BrrfUmFIh3GX1aM%252CZMWwYRMWZ3ShxM%252C_%253BBA8herCS23pPnM%252ClzoMNA82JVawbM%252C_%253Bus2paZ9UB_OKAM%252Cn85KQPQP4B7AnM%252C_&usg=AI4_-kSgSnIuUFlOqzX-iggdbZVbgPFamA&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q9QF6BAhREAE#imgrc=us2paZ9UB_OKAM",
+            "source": "https://www.youtube.com/watch?v=5FkDkRNDLmE",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtYzghbTQzwTpudSeepA2sZCvBSKiXMHlkO7ViDu3Dw&s"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Infection urinaire : voici la raison pour laquelle certaines femmes en ont à répétition",
+            "link": "https://www.femmeactuelle.fr/sante/news-sante/infection-urinaire-voici-la-raison-pour-laquelle-certaines-femmes-en-ont-a-repetition-2134249",
+            "source": "Femme Actuelle",
+            "date": "Il y a 23 heures",
+            "thumbnail": "https://serpapi.com/searches/627cfffbe135084884e0abb4/images/c4680bca0cd3180e6d66491cd8d8955455b793e9ef006db9.jpeg"
+        },
+        {
+            "title": "Qu'est-ce que la maladie du renard, à la fois rare et dangereuse ?",
+            "link": "https://www.cnews.fr/sante/2022-05-12/quest-ce-que-la-maladie-du-renard-la-fois-rare-et-dangereuse-1214085",
+            "source": "CNEWS",
+            "date": "Il y a 6 heures",
+            "thumbnail": "https://serpapi.com/searches/627cfffbe135084884e0abb4/images/c4680bca0cd3180e4c33e5ae9985085c435080e0469f6f14.jpeg"
+        },
+        {
+            "title": "Covid : à la recherche de personnes jamais infectées par le virus pour étudier leur mystérieuse résistance",
+            "link": "https://www.midilibre.fr/2022/05/11/covid-a-la-recherche-de-personnes-jamais-infectees-par-le-virus-pour-etudier-leur-mysterieuse-resistance-10288424.php",
+            "source": "Midi Libre",
+            "date": "Il y a 1 jour",
+            "thumbnail": "https://serpapi.com/searches/627cfffbe135084884e0abb4/images/c4680bca0cd3180e5ef1bb5432b2dc41f31be4cfb02bd253.jpeg"
+        },
+        {
+            "title": "Contagion Covid : ce nouveau traitement peut bloquer le processus à l'origine des infections",
+            "link": "https://www.science-et-vie.com/corps-et-sante/contagion-covid-nouveau-traitement-bloquer-processus-a-lorigine-infections-85975.html",
+            "source": "Science & Vie",
+            "date": "Il y a 18 heures",
+            "thumbnail": "https://serpapi.com/searches/627cfffbe135084884e0abb4/images/c4680bca0cd3180e0099993b3c4339c898a4624fac798e14.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=fr&gl=FR&q=Infection&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Qt8YBegQINRAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&tbm=nws&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+    "related_questions": [
+        {
+            "question": "Quels sont les symptômes d'une infection ?",
+            "snippet": "\"Lorsqu'une infection bactérienne est suffisamment importante elle se signale toujours par de la fièvre plus ou moins élevée et entraîne des douleurs et autres symptômes qui dépendent de l'organe en cause : il peut s'agir de douleur pharyngée, de toux, de gêne respiratoire, de douleurs abdominales, diarrhée ou ...15 juin 2020",
+            "title": "Infection bactérienne : symptômes, exemples, comment lutter contre ?",
+            "link": "https://sante.journaldesfemmes.fr/fiches-maladies/2640597-infection-bacterienne-symptomes-exemples-liste-diagnostic-traitement/",
+            "displayed_link": "https://sante.journaldesfemmes.fr › fiches-maladies › 2640..."
+        },
+        {
+            "question": "Qu'est-ce q une infection ?",
+            "snippet": "1. Pénétration et développement dans un être vivant de micro-organismes qui peuvent provoquer des lésions en se multipliant, et éventuellement en sécrétant des toxines ou en se propageant par voie sanguine.",
+            "title": "Définitions : infection - Dictionnaire de français Larousse",
+            "link": "https://www.larousse.fr/dictionnaires/francais/infection/42901",
+            "displayed_link": "https://www.larousse.fr › dictionnaires › francais › infec..."
+        },
+        {
+            "question": "Quels sont les différents types d'infection ?",
+            "snippet": "Les infections bactériennes peuvent être des otites, angines, infections de la peau (panaris, abcès…), diarrhées, infections urinaires et génitales. La prescription d'antibiotiques peut être nécessaire pour lutter efficacement contre la bactérie impliquée.",
+            "title": "Les maladies d'origine bactériennes - Antibio-responsable.fr",
+            "link": "https://www.antibio-responsable.fr/maladies/maladies",
+            "displayed_link": "https://www.antibio-responsable.fr › maladies › maladies"
+        },
+        {
+            "question": "Comment savoir si l'on a un staphylocoque ?",
+            "snippet": "Les symptômes d'une infection à staphylocoques Infection cutanée : furoncles, folliculites, impétigo, peu rouge, gonflée, douloureuse, boutons. Infection alimentaire : douleurs abdominales, crampes d'estomac, nausées, vomissements, diarrhée. En cas de septicémie : forte fièvre, maux de tête, douleurs musculaires.18 août 2014",
+            "title": "Le staphylocoque, une bactérie potentiellement mortelle - Doctissimo",
+            "link": "https://www.doctissimo.fr/sante/maladie-infectieuse/staphylocoque",
+            "displayed_link": "https://www.doctissimo.fr › sante › maladie-infectieuse › s..."
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "infection",
+        "word_type": "nom féminin",
+        "definitions": [
+            "Grande puanteur.",
+            "Chose qui suscite le dégoût."
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Infection : définition, les différents types, traitements - Journal ...",
+            "link": "https://sante.journaldesfemmes.fr/fiches-sante-du-quotidien/2646159-infection-definition-differents-types-traitement-antiobiotiques/",
+            "displayed_link": "https://sante.journaldesfemmes.fr › 2646159-infection-...",
+            "date": "3 juil. 2020",
+            "snippet": "Une infection est due à la pénétration d'un agent pathogène dans l'organisme. Il peut s'agir d'une bactérie, d'un virus, d'un champignon, d'un ...",
+            "snippet_highlighted_words": [
+                "infection"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Définition",
+                        "link": "https://sante.journaldesfemmes.fr/fiches-sante-du-quotidien/2646159-infection-definition-differents-types-traitement-antiobiotiques/#infection-definition"
+                    },
+                    {
+                        "title": "Types d'infection",
+                        "link": "https://sante.journaldesfemmes.fr/fiches-sante-du-quotidien/2646159-infection-definition-differents-types-traitement-antiobiotiques/#infection-types"
+                    },
+                    {
+                        "title": "Causes",
+                        "link": "https://sante.journaldesfemmes.fr/fiches-sante-du-quotidien/2646159-infection-definition-differents-types-traitement-antiobiotiques/#infection-causes"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Définitions : infection - Dictionnaire de français Larousse",
+            "link": "https://www.larousse.fr/dictionnaires/francais/infection/42901",
+            "displayed_link": "https://www.larousse.fr › dictionnaires › francais › infec...",
+            "snippet": "infection · 1. Pénétration et développement dans un être vivant de micro-organismes qui peuvent provoquer des lésions en se multipliant, et éventuellement en ...",
+            "snippet_highlighted_words": [
+                "infection"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Définition infection - Institut National Du Cancer",
+            "link": "https://www.e-cancer.fr/Dictionnaire/I/infection",
+            "displayed_link": "https://www.e-cancer.fr › I",
+            "snippet": "Pénétration et prolifération dans le corps d'un micro-organisme invisible à l'œil nu (bactérie, virus), susceptible de provoquer un problème de santé. Une ..."
+        },
+        {
+            "position": 4,
+            "title": "Infection : Définition simple et facile du dictionnaire - L'Internaute",
+            "link": "https://www.linternaute.fr/dictionnaire/fr/definition/infection/",
+            "displayed_link": "https://www.linternaute.fr › Dictionnaire",
+            "date": "8 mars 2021",
+            "snippet": "Définition · Sens 1. Médecine · Développement de germes pathogènes dans l'organisme, entraînant des troubles. Synonyme : empoisonnement, ..."
+        },
+        {
+            "position": 5,
+            "title": "Les infections les plus courantes - Santé.fr",
+            "link": "https://www.sante.fr/les-infections-les-plus-courantes",
+            "displayed_link": "https://www.sante.fr › les-infections-les-plus-courantes",
+            "date": "1 mars 2022",
+            "snippet": "Abcès dentaire. L'abcès dentaire est une infection bactérienne douloureuse survenant généralement sur une dent cariée et non soignée. · Angine.",
+            "snippet_highlighted_words": [
+                "infection"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Définition du mot Infection - Doctissimo",
+            "link": "https://www.doctissimo.fr/sante/dictionnaire-medical/infection",
+            "displayed_link": "https://www.doctissimo.fr › Santé › Dictionnaire médical",
+            "snippet": "Une infection est une invasion de l'organisme par un agent étranger, comme une bactérie ou un virus, provoquant un état pathologique par lésion des cellules ...",
+            "snippet_highlighted_words": [
+                "infection"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Maladie infectieuse - Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/Maladie_infectieuse",
+            "displayed_link": "https://fr.wikipedia.org › wiki › Maladie_infectieuse",
+            "snippet": "Les infections sexuellement transmissibles (ou encore MST pour maladies sexuellement transmissibles) se transmettent à l'occasion de rapports sexuels ou par le ...",
+            "snippet_highlighted_words": [
+                "infections"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Développement d'une infection - MSD Manuals",
+            "link": "https://www.msdmanuals.com/fr/accueil/infections/biologie-des-maladies-infectieuses/d%C3%A9veloppement-d-une-infection",
+            "displayed_link": "https://www.msdmanuals.com › accueil › infections › d...",
+            "snippet": "Un état d'équilibre est atteint, provoquant une infection chronique. L'organisme de l'hôte, avec ou sans traitement médical, détruit et élimine les micro- ...",
+            "snippet_highlighted_words": [
+                "infection"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "infection urinaire",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Infection+urinaire&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q1QJ6BAgyEAE"
+        },
+        {
+            "query": "infection synonyme",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Infection+Synonyme&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q1QJ6BAguEAE"
+        },
+        {
+            "query": "infection def",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Infection+def&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q1QJ6BAgnEAE"
+        },
+        {
+            "query": "infection symptômes",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Infection+sympt%C3%B4mes&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q1QJ6BAgjEAE"
+        },
+        {
+            "query": "les différents types d'infection",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=les+diff%C3%A9rents+types+d%27infection&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q1QJ6BAgiEAE"
+        },
+        {
+            "query": "infection femme",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Infection+femme&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q1QJ6BAghEAE"
+        },
+        {
+            "query": "infection bactérienne",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Infection+bact%C3%A9rienne&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q1QJ6BAggEAE"
+        },
+        {
+            "query": "infection médicale",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Infection+m%C3%A9dicale&sa=X&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q1QJ6BAgfEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&ei=_P98YoTgIa2E9PwPjPuz-AE&start=10&sa=N&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&ei=_P98YoTgIa2E9PwPjPuz-AE&start=10&sa=N&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&ei=_P98YoTgIa2E9PwPjPuz-AE&start=20&sa=N&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&ei=_P98YoTgIa2E9PwPjPuz-AE&start=30&sa=N&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&ei=_P98YoTgIa2E9PwPjPuz-AE&start=40&sa=N&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&ei=_P98YoTgIa2E9PwPjPuz-AE&start=50&sa=N&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&ei=_P98YoTgIa2E9PwPjPuz-AE&start=60&sa=N&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&ei=_P98YoTgIa2E9PwPjPuz-AE&start=70&sa=N&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&ei=_P98YoTgIa2E9PwPjPuz-AE&start=80&sa=N&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=Infection&hl=fr&gl=FR&ei=_P98YoTgIa2E9PwPjPuz-AE&start=90&sa=N&ved=2ahUKEwiEzq3I_dn3AhUtAp0JHYz9DB8Q8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=20&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=30&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=40&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=50&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=60&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=70&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=80&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Infection&start=90&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D"
+        }
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "search_metadata": {
+        "id": "627d0010f636ffb48a05a88f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9e6141a9e6a6e776/627d0010f636ffb48a05a88f.json",
+        "created_at": "2022-05-12 12:39:44 UTC",
+        "processed_at": "2022-05-12 12:39:44 UTC",
+        "google_url": "https://www.google.com/search?q=Calentamiento+global&oq=Calentamiento+global&uule=w+CAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE=&hl=es&gl=AR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/9e6141a9e6a6e776/627d0010f636ffb48a05a88f.html",
+        "total_time_taken": 0.98
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Calentamiento global",
+        "uule": "w+CAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "AR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Calentamiento global",
+        "total_results": 25300000,
+        "time_taken_displayed": 0.75
+    },
+    "ads": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "Cambio Climático Información - Cambio Climático",
+            "link": "https://ecohouse.org.ar/talleres/",
+            "displayed_link": "https://www.ecohouse.org.ar/talleres",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAEGgJxdQ&ae=2&sig=AOD64_28b64dEVlKlga_eCHc3P9soOx0-A&q&adurl",
+            "description": "Información y talleres sobre cambio climático. ¡Actuemos entre todos! Los talleres son dinámicos, entretenidos y prácticos. ¡Sumate ahora! Justicia Ambiental. Desarrollo sustentable. Compromiso Verde. Educación."
+        },
+        {
+            "position": 2,
+            "block_position": "top",
+            "title": "Problema climatico - Lucha contra cambio climático",
+            "link": "https://donar.fundacionacnur.org/cambio-climatico",
+            "displayed_link": "https://donar.fundacionacnur.org/acnur/argentina",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAAGgJxdQ&ae=2&sig=AOD64_1k6SAQy1ezFmFwx3jD5TJyq3SqAQ&q&adurl",
+            "description": "En ACNUR trabajamos para darles albergue, alimento y educación a millones de refugiados. En ACNUR trabajamos para darles hogar, alimento y educación a millones de refugiados. Salvaguardamos Derechos. Envía ayuda urgente. Brindamos Refugio Seguro."
+        },
+        {
+            "position": 3,
+            "block_position": "bottom",
+            "title": "Calentamiento Global - Greenpeace hoy sos vos",
+            "link": "https://unite.greenpeace.org.ar/sk/regular/",
+            "displayed_link": "https://unite.greenpeace.org.ar/donar",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABACGgJxdQ&ae=2&sig=AOD64_0XYcunPcw0PWjpO8l8yA7u7W_nOQ&q&adurl",
+            "extensions": [
+                "‎Sobre Nosotros · ‎Dona Ahora A Greenpeace"
+            ],
+            "description": "Los peligros que enfrentan nuestros mares y océanos son cada día más graves. Greenpeace hoy sos vos. Con tu aporte nos ayudás un montón. Cuidemos la naturaleza.",
+            "sitelinks": [
+                {
+                    "title": "Sobre Nosotros",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAHGgJxdQ&ae=2&sig=AOD64_09sIv5qY_HeqkDV-N7-qgoDpgD0A&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoAHoECAIQBQ&adurl="
+                },
+                {
+                    "title": "Dona Ahora A Greenpeace",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAMGgJxdQ&ae=2&sig=AOD64_09ZlMdsadeUScfjxWsjMGMqXKwrA&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoAXoECAIQBg&adurl="
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "block_position": "bottom",
+            "title": "Calentamiento Global - Crisis climática",
+            "link": "https://futuroverde.org/",
+            "displayed_link": "https://www.futuroverde.org/",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABADGgJxdQ&ae=2&sig=AOD64_2FUSrzbAX5G3ndD82jmhFYSCGGpw&q&adurl",
+            "extensions": [
+                "‎Causas · ‎Soluciones · ‎Quiénes Somos · ‎Suscríbete · ‎Contáctanos · ‎Oceanos"
+            ],
+            "description": "Entérate de las últimas noticias ambientales. Conoce e inspírate para unirte a la acción climática y cuidar nuestro medio ambiente. Áreas De Interés: Tras El Lente, Aprender, Noticias.",
+            "sitelinks": [
+                {
+                    "title": "Causas",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAIGgJxdQ&ae=2&sig=AOD64_0fkWllDPPrN2kPWOhddms_m_a7iw&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoAHoECAYQBQ&adurl="
+                },
+                {
+                    "title": "Soluciones",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABALGgJxdQ&ae=2&sig=AOD64_25YkPo56oRa2DhwKvvk7SYnuKwZQ&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoAXoECAYQBg&adurl="
+                },
+                {
+                    "title": "Quiénes Somos",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAOGgJxdQ&ae=2&sig=AOD64_258Bh66gPh62aLxgYsp2fl3lHLnA&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoAnoECAYQBw&adurl="
+                },
+                {
+                    "title": "Suscríbete",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAPGgJxdQ&ae=2&sig=AOD64_1_kNj8OmJxfko0mDNGlMMpIQuqnw&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoA3oECAYQCA&adurl="
+                },
+                {
+                    "title": "Contáctanos",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABARGgJxdQ&ae=2&sig=AOD64_0L532DaiDfAo7PDv4SjqDLdne-cA&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoBHoECAYQCQ&adurl="
+                },
+                {
+                    "title": "Oceanos",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABATGgJxdQ&ae=2&sig=AOD64_33kbaiQODcYXDpG_CcZ6_YLgJ7eA&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoBXoECAYQCg&adurl="
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "block_position": "bottom",
+            "title": "Calentamiento global - cambio climático",
+            "link": "https://nabolom.org/hotel-na-bolom/",
+            "displayed_link": "https://www.nabolom.org/",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABABGgJxdQ&ae=2&sig=AOD64_2zyZuDbe4VXOQ0NLgkthQrRY6nJw&q&adurl",
+            "extensions": [
+                "‎Dona Ahora · ‎Contacta Con Nosotros · ‎Noticias · ‎Fototeca · ‎Biblioteca · ‎Museo"
+            ],
+            "description": "Hagamos bosques. Viveros escolares para contrarrestar el cambio climático global. Apoya con tu donativo. Ayudemos a contrarrestar el cambio climático. viveros comunitarios. apoyo. Reforestación. especies endémicas. Types: reforestation, trees nurseries, endemic species.",
+            "sitelinks": [
+                {
+                    "title": "Dona Ahora",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAFGgJxdQ&ae=2&sig=AOD64_3QOdP0axpHAnA-Wqg21VWXSgL-cA&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoAHoECAUQBQ&adurl="
+                },
+                {
+                    "title": "Contacta Con Nosotros",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAJGgJxdQ&ae=2&sig=AOD64_1YD8nKXU1A7PxF4zsOd65mtBTiFQ&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoAXoECAUQBg&adurl="
+                },
+                {
+                    "title": "Noticias",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABANGgJxdQ&ae=2&sig=AOD64_1uKCQLr4z-qXNLXr0k631DGREjGA&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoAnoECAUQBw&adurl="
+                },
+                {
+                    "title": "Fototeca",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAQGgJxdQ&ae=2&sig=AOD64_2oNOPwGOad35-Q0Ktn5IESHndSlQ&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoA3oECAUQCA&adurl="
+                },
+                {
+                    "title": "Biblioteca",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABASGgJxdQ&ae=2&sig=AOD64_29Qasu-NnE9Y9wmWPsOD_JNFSjgA&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoBHoECAUQCQ&adurl="
+                },
+                {
+                    "title": "Museo",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwij-4vS_dn3AhUE-MgKHSEzC4IYABAUGgJxdQ&ae=2&sig=AOD64_0tdDkAjv2QLoJFDXdhf-7fzdmWCQ&q=&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4QpigoBXoECAUQCg&adurl="
+                }
+            ]
+        }
+    ],
+    "knowledge_graph": {
+        "title": "Cambio climático",
+        "cite_name": "Calentamiento global - Wikipedia, la enciclopedia libre",
+        "cite_link": "https://es.wikipedia.org/wiki/Calentamiento_global",
+        "header_images": [
+            {
+                "source": "https://es.wikipedia.org/wiki/Calentamiento_global"
+            },
+            {
+                "source": "https://unamglobal.unam.mx/impulsa-calentamiento-global-crisis-ambiental/"
+            },
+            {
+                "source": "https://gacetamedica.com/politica/la-influencia-humana-es-la-principal-culpable-del-calentamiento-global-y-los-fenomenos-extremos/"
+            }
+        ],
+        "también_se_buscó": [
+            {
+                "name": "Globalización",
+                "link": "https://www.google.com/search?hl=es&gl=AR&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWh1f_CVvTaPjSeU9b4SkKnNO59aCyH6sZnB68Gu5e0eyOEncfzAyiMu1YlcakuHEt7PKvVMe6EEJ4khsUkXDnNZtmhi2fTGLFvoC8N0DCnJdMwQV88nJart7zaDJ89W0ZMMf1S6pEdZJrYb6-hznxFNDr2m7v5p5KkEwJU7TwZ9J2HxrqoKXzfhfuMrYGZShsnfBg_9dsYyeglbXK2ix62zCfOuZFXW6Tlwdj2pDDKWDkjbeoqZtLfE6T8IqOXyCubyPEc%3D&q=Globalizaci%C3%B3n&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Qs9oBKAB6BAg9EAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Globalizaci%C3%B3n&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWh1f_CVvTaPjSeU9b4SkKnNO59aCyH6sZnB68Gu5e0eyOEncfzAyiMu1YlcakuHEt7PKvVMe6EEJ4khsUkXDnNZtmhi2fTGLFvoC8N0DCnJdMwQV88nJart7zaDJ89W0ZMMf1S6pEdZJrYb6-hznxFNDr2m7v5p5KkEwJU7TwZ9J2HxrqoKXzfhfuMrYGZShsnfBg_9dsYyeglbXK2ix62zCfOuZFXW6Tlwdj2pDDKWDkjbeoqZtLfE6T8IqOXyCubyPEc%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d0010f636ffb48a05a88f/images/1c3a2e285270cb8ca7ea9fb01956308c42f44db4ad7bbcafc645b2667885a377be12b17c255d7ceff3ca78c5453239b5.jpeg"
+            },
+            {
+                "name": "Variabilidad y cambio climático",
+                "link": "https://www.google.com/search?hl=es&gl=AR&si=AC1wQDAucy7H-VMlAQxLR0kUB4oSPiLoG226A20xOQCOsxIwA-Eg3FWC8Wrq2DCvGi4csm1yManhl29LWZi4ff7plVX4qscC8zyeKBz1CdINaWHOpWipm2epvt-0Fp8ABkNCs7j_9KzO1WPEnv9NDTNO_NeUX0ERNZdV7mwAkbi6UrqHiTY0b1c5tWB8kL5YtSPqV19hLhtrh8o2XKvyQuvSJ32PXbbaWCFYK7bIljVTBTErNFUKTrCmzErhZtWszfFJnKZj7A0wc544SSM-gSOCvfPM2GlgW_VHb7qHgCMkVCvf0yYxOuiGSxQdivjHcM-tEetUMlft7Wh9_00HM2ZedCL6rO88bQ%3D%3D&q=Variabilidad+y+cambio+clim%C3%A1tico&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Qs9oBKAF6BAg9EAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Variabilidad+y+cambio+clim%C3%A1tico&si=AC1wQDAucy7H-VMlAQxLR0kUB4oSPiLoG226A20xOQCOsxIwA-Eg3FWC8Wrq2DCvGi4csm1yManhl29LWZi4ff7plVX4qscC8zyeKBz1CdINaWHOpWipm2epvt-0Fp8ABkNCs7j_9KzO1WPEnv9NDTNO_NeUX0ERNZdV7mwAkbi6UrqHiTY0b1c5tWB8kL5YtSPqV19hLhtrh8o2XKvyQuvSJ32PXbbaWCFYK7bIljVTBTErNFUKTrCmzErhZtWszfFJnKZj7A0wc544SSM-gSOCvfPM2GlgW_VHb7qHgCMkVCvf0yYxOuiGSxQdivjHcM-tEetUMlft7Wh9_00HM2ZedCL6rO88bQ%3D%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d0010f636ffb48a05a88f/images/1c3a2e285270cb8ca7ea9fb01956308c42f44db4ad7bbcafc645b2667885a377f2700f947507d53a05a1848d0a3b1315.jpeg"
+            },
+            {
+                "name": "Sostenibilidad",
+                "link": "https://www.google.com/search?hl=es&gl=AR&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdU2q8NlT4yUitRH9kltF8rJys75Kzbri4wlUq2NGwF5dpB8mtC32ymBXYQcbzKzZqCp59HKjePJegdvPNm50YnPNA8ANLYpi5gdycoZ7paE0GLjPVz2O3JLq5kiHqc1_rbgMQhMDm6od-z_kRcHg2c_PTGQ_SGAH72Eh-i6UOj5b7j-aD0o7iQjVs_aPCcI2juvIVXB8JC90svC8jS7ULD7o9cKwiq6xpGOkP_BYag6LWlr_znMk4o8WFtmAvTvy0foonlI%3D&q=Sostenibilidad&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Qs9oBKAJ6BAg9EAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sostenibilidad&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdU2q8NlT4yUitRH9kltF8rJys75Kzbri4wlUq2NGwF5dpB8mtC32ymBXYQcbzKzZqCp59HKjePJegdvPNm50YnPNA8ANLYpi5gdycoZ7paE0GLjPVz2O3JLq5kiHqc1_rbgMQhMDm6od-z_kRcHg2c_PTGQ_SGAH72Eh-i6UOj5b7j-aD0o7iQjVs_aPCcI2juvIVXB8JC90svC8jS7ULD7o9cKwiq6xpGOkP_BYag6LWlr_znMk4o8WFtmAvTvy0foonlI%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d0010f636ffb48a05a88f/images/1c3a2e285270cb8ca7ea9fb01956308c42f44db4ad7bbcafc645b2667885a3776c854ff03597ea1b9462a2cfd2382a82.jpeg"
+            },
+            {
+                "name": "Biodiversidad",
+                "link": "https://www.google.com/search?hl=es&gl=AR&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRLuVvEWnywiLpL_sxJD4VDbS1DCpQYQeYEFfFcGwmQaU_94NwLdef5EATbtbdpFMAbDG56hMgQze6UCxirvzzXWTtXz53VG7bERgSH_OhaDU_kDGC40Jgcx3eMbtbA-uK0z-aqfMIsdXzBon2tG3ivckYlCy9kGRcc75oLOb4rdV_zuWiDGiJK3_s8H1CduZNm34vfyxOiFrSMjJzgguDZxWjmH9KppDQ7Q9F-0ksDMgQ1lHwcG2vaVTH5EaLVmMagq_bk%3D&q=Biodiversidad&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Qs9oBKAN6BAg9EAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Biodiversidad&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRLuVvEWnywiLpL_sxJD4VDbS1DCpQYQeYEFfFcGwmQaU_94NwLdef5EATbtbdpFMAbDG56hMgQze6UCxirvzzXWTtXz53VG7bERgSH_OhaDU_kDGC40Jgcx3eMbtbA-uK0z-aqfMIsdXzBon2tG3ivckYlCy9kGRcc75oLOb4rdV_zuWiDGiJK3_s8H1CduZNm34vfyxOiFrSMjJzgguDZxWjmH9KppDQ7Q9F-0ksDMgQ1lHwcG2vaVTH5EaLVmMagq_bk%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d0010f636ffb48a05a88f/images/1c3a2e285270cb8ca7ea9fb01956308c42f44db4ad7bbcafc645b2667885a37745e88ed1876753a61ec77b84fab9d4a5.jpeg"
+            }
+        ],
+        "también_se_buscó_link": "https://www.google.com/search?hl=es&gl=AR&q=Cambio+clim%C3%A1tico&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzEKhSTmJmUeXpmnUJyqkFRanHx48yJWQWeQYL5Cck5m7uGFJZnJ-TtYGW-xSTKYfmxlOmcSphPp883pRrvCKhaF8wHB5QJ-AE7I8B9zAAAA&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q4qYDegQIPRAG",
+        "también_se_buscó_stick": "H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzEKhSTmJmUeXpmnUJyqkFRanHx48yJWQWeQYL5Cck5m7uGFJZnJ-TtYGW-xSTKYfmxlOmcSphPp883pRrvCKhaF8wHB5QJ-AE7I8B9zAAAA",
+        "ver_resultados_de": [
+            {
+                "name": "Variabilidad y cambio climático",
+                "extensions": [
+                    "El calentamiento global o calentamiento mundial es el ..."
+                ],
+                "image": "https://serpapi.com/searches/627d0010f636ffb48a05a88f/images/1c3a2e285270cb8ca7ea9fb01956308c0cceb14e867d7fa0db182ce55287800a35c7c43001459dcb3dd51730489b360e.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "¿Cómo se puede enfriar el planeta y frenar el calentamiento ...",
+            "link": "https://www.youtube.com/watch?v=2zHpbpjUUY4",
+            "thumbnail": "https://i.ytimg.com/vi/2zHpbpjUUY4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3l5QpnCM-FRdrJigLl3n5uNyoGjTA",
+            "channel": "BBC News Mundo",
+            "duration": "7:04",
+            "platform": "YouTube",
+            "date": "1 nov 2021"
+        },
+        {
+            "position": 2,
+            "title": "CALENTAMIENTO GLOBAL: CAUSAS y CONSECUENCIAS",
+            "link": "https://www.youtube.com/watch?v=umAGi80FsPM",
+            "thumbnail": "https://i.ytimg.com/vi/umAGi80FsPM/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lTnbGPnnAdBUhpDTpKsCp4sx6P1g",
+            "channel": "EcologíaVerde",
+            "duration": "4:51",
+            "platform": "YouTube",
+            "date": "18 jul 2019"
+        },
+        {
+            "position": 3,
+            "title": "Anomalías climáticas y preocupantes efectos del ...",
+            "link": "https://www.youtube.com/watch?v=CfRd1uaVgEQ",
+            "thumbnail": "https://i.ytimg.com/vi/CfRd1uaVgEQ/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nvZZOnIAPyZGdx0r3rCEzIB3KIJw",
+            "channel": "euronews (en español)",
+            "duration": "5:01",
+            "platform": "YouTube",
+            "date": "Hace 3 semanas"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Hay un 50% de probabilidades de que el calentamiento global supere los 1,5ºC en los próximos cinco años",
+            "link": "https://news.un.org/es/story/2022/05/1508392",
+            "source": "UN News",
+            "date": "hace 2 días",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ERqxi4Hv-qbso-yLn6Kf5coLEbMcj_zU9hphwupvCypoKsNj7SNFYjJmrQ&usqp=CAI&s=10"
+        },
+        {
+            "title": "Existe una probabilidad de 50/50 de que el mundo sobrepase el umbral crítico de calentamiento global en los próximos cinco años",
+            "link": "https://cnnespanol.cnn.com/2022/05/10/estudio-aumento-temperatura-calentamiento-trax/",
+            "source": "CNN Español",
+            "date": "hace 1 día",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCa8DnN47_H0znMtcmLhf8ruGq5btWzsnIjA3CD2jredRp5T0Lrl-5GBs&usqp=CAI&s"
+        },
+        {
+            "title": "Alarmante: la Tierra llegó al límite de aumento no deseado de la temperatura",
+            "link": "https://www.ambito.com/informacion-general/cambio-climatico/alarmante-la-tierra-llego-al-limite-aumento-no-deseado-la-temperatura-n5436329",
+            "source": "Ámbito",
+            "date": "hace 1 día",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1oIQiJ3VRnNMsH-XhvyTlTFnXuWXZxqnOWt9i81w&usqp=CAI&s"
+        },
+        {
+            "title": "Nuevas predicciones corroboran el calentamiento global",
+            "link": "https://www.laizquierdadiario.com/Nuevas-predicciones-corroboran-el-calentamiento-global",
+            "source": "La Izquierda Diario",
+            "date": "hace 20 horas",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZjkkHcEwBoripOZ1r6lXJePa_qxnUvW4v713rBPh_BXoL6GHrXNjlQfd&usqp=CAI&s"
+        },
+        {
+            "title": "Aumenta drásticamente la probabilidad de alcanzar la barrera de 1,5 °C",
+            "link": "https://www.meteored.com.ar/noticias/actualidad/aumenta-la-probabilidad-de-alcanzar-la-barrera-de-1-5-c-cambio-climatico-omm.html",
+            "source": "Meteored",
+            "date": "hace 1 día",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTos8F3me0KPl5FY9aSrNitz29kof_6F78_pnKHD-1o_wlKrD4YvTpa4K0&usqp=CAI&s"
+        },
+        {
+            "title": "Calentamiento global: aseguran que los glaciares flotantes no pueden recuperarse",
+            "link": "https://www.ambito.com/informacion-general/cambio-climatico/calentamiento-global-aseguran-que-los-glaciares-flotantes-no-pueden-recuperarse-n5436208",
+            "source": "Ámbito",
+            "date": "hace 1 día",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYNluJVDZwwXByaevZ3-h4S7c42fayR4Rg2pM1vuf-nw7W9Gp6F7gPmU&usqp=CAI&s"
+        },
+        {
+            "title": "El calentamiento global provoca que los océanos pierdan la memoria y suba la temperatura",
+            "link": "https://www.infobae.com/america/medio-ambiente/2022/05/09/el-calentamiento-global-provoca-que-los-oceanos-pierdan-la-memoria-y-suba-la-temperatura/",
+            "source": "Infobae",
+            "date": "hace 2 días",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIxQj0Ne70suDc_zpJhw9YOCojIZAYoIhTm0Rmj0Y5te7Yut1oHwNlbM&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=es&gl=AR&q=Calentamiento+global&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Qt8YBegUIkAEQAg",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&tbm=nws&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+    "related_questions": [
+        {
+            "question": "¿Qué es el l calentamiento global?",
+            "snippet": "El calentamiento global es un fenómeno que afecta a todos los seres vivos de nuestro planeta y cuyas consecuencias pueden ser desastrosas. Consiste en el aumento de la temperatura del sistema climático de La Tierra a largo plazo. Es la consecuencia más preocupante del cambio climático a la que nos enfrentamos.27 dic 2021",
+            "title": "¿Qué es el calentamiento global? - CEUPE",
+            "link": "https://www.ceupe.mx/blog/que-es-el-calentamiento-global.html",
+            "displayed_link": "https://www.ceupe.mx › blog › que-es-el-calentamiento-gl..."
+        },
+        {
+            "question": "¿Cuáles son las causas y consecuencias del calentamiento global?",
+            "snippet": "El calentamiento global y el cambio climático tienen coincidencia en la principal de sus causas, la emisión masiva de los diferentes gases de efecto invernadero o GEI que retienen el calor dentro de la atmósfera y sobre la superficie terrestre a través del denominado efecto invernadero.",
+            "title": "Causas y consecuencias del calentamiento global - UNLP",
+            "link": "https://unlp.edu.ar/frontend/media/89/27589/1d9aa068f3cd179c49096f2b8d9e9125.pdf",
+            "displayed_link": "https://unlp.edu.ar › frontend › media"
+        },
+        {
+            "question": "¿Cómo afecta el calentamiento global en el planeta tierra?",
+            "snippet": "El cambio climático nos afecta a todos. El impacto potencial es enorme, con predicciones de falta de agua potable, grandes cambios en las condiciones para la producción de alimentos y un aumento en los índices de mortalidad debido a inundaciones, tormentas, sequías y olas de calor.",
+            "title": "Qué es el cambio climático y cómo nos afecta",
+            "link": "https://www.miteco.gob.es/ca/cambio-climatico/temas/que-es-el-cambio-climatico-y-como-nos-afecta/que-es-el-cambio-climatico.aspx",
+            "displayed_link": "https://www.miteco.gob.es › que-es-el-cambio-climatico"
+        },
+        {
+            "question": "¿Cuáles son las actividades humanas que provocan el calentamiento global?",
+            "title": "Calentamiento global: conoce las 5 principales causas",
+            "link": "https://blog.oxfamintermon.org/por-que-se-produce-el-calentamiento-global/",
+            "list": [
+                "Aumento de los gases de efecto invernadero. ... ",
+                "Quema de combustibles fósiles. ... ",
+                "Deforestación de selvas y bosques. ... ",
+                "Excesivo uso de fertilizantes. ... ",
+                "Alta producción de residuos."
+            ],
+            "displayed_link": "https://blog.oxfamintermon.org › por-que-se-produce-el-c..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Calentamiento global - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Calentamiento_global",
+            "displayed_link": "https://es.wikipedia.org › wiki › Calentamiento_global",
+            "snippet": "El calentamiento global o calentamiento mundial es el aumento a largo plazo de la temperatura media del sistema climático de la Tierra.",
+            "snippet_highlighted_words": [
+                "calentamiento global"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Cambio climático",
+                        "link": "https://es.wikipedia.org/wiki/Cambio_clim%C3%A1tico"
+                    },
+                    {
+                        "title": "Efectos del calentamiento...",
+                        "link": "https://es.wikipedia.org/wiki/Efectos_del_calentamiento_global"
+                    },
+                    {
+                        "title": "Causas del calentamiento...",
+                        "link": "https://es.wikipedia.org/wiki/Causas_del_calentamiento_global"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "¿Qué es el calentamiento global? | National Geographic",
+            "link": "https://www.nationalgeographic.es/medio-ambiente/que-es-el-calentamiento-global",
+            "displayed_link": "https://www.nationalgeographic.es › medio-ambiente",
+            "snippet": "Un aumento general de las temperaturas, fenómenos meteorológicos extremos, olas de calor e inundaciones, falta de cosechas, migrantes climáticos y un largo ..."
+        },
+        {
+            "position": 3,
+            "title": "¿Qué es el calentamiento global y cuáles son las causas?",
+            "link": "https://www.bbva.com/es/sostenibilidad/que-es-el-calentamiento-global/",
+            "displayed_link": "https://www.bbva.com › sostenibilidad › que-es-el-cale...",
+            "snippet": "El calentamiento global resulta del aumento del efecto invernadero, un proceso en el que la radiación térmica emitida por la Tierra queda atrapada en la ...",
+            "snippet_highlighted_words": [
+                "calentamiento global"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "mar": 1
+                    },
+                    "extensions": [
+                        "1 mar 2021",
+                        "Subido por Alexandra Rojas Rodríguez"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "¿Qué es el cambio climático? | Naciones Unidas - the United ...",
+            "link": "https://www.un.org/es/climatechange/what-is-climate-change",
+            "displayed_link": "https://www.un.org › what-is-climate-change",
+            "snippet": "Cada aumento del calentamiento global es importante. Según los últimos informes de la ONU, miles de científicos y revisores gubernamentales coincidieron en que ...",
+            "snippet_highlighted_words": [
+                "calentamiento global"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Calentamiento Global: Qué es, definición, causas ...",
+            "link": "https://responsabilidadsocial.net/calentamiento-global-que-es-definicion-causas-consecuencias-y-combate/?amp",
+            "displayed_link": "https://responsabilidadsocial.net › calentamiento-global-...",
+            "snippet": "El calentamiento global consiste en el aumento de la temperatura de la tierra, mismo que se refleja en los océanos y la atmósfera principalmente causado por la ...",
+            "snippet_highlighted_words": [
+                "calentamiento global"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "¿Qué es el Cambio Climático y cómo nos afecta? | ACCIONA",
+            "link": "https://www.acciona.com/es/cambio-climatico/",
+            "displayed_link": "https://www.acciona.com › cambio-climatico",
+            "snippet": "El cambio climático es un reto global que no tiene fronteras y que para combatirlo requiere del trabajo ... CAUSAS QUE PROVOCAN EL CALENTAMIENTO GLOBAL ...",
+            "snippet_highlighted_words": [
+                "CALENTAMIENTO GLOBAL"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Las causas del cambio climático",
+            "link": "https://climate.nasa.gov/causas/",
+            "displayed_link": "https://climate.nasa.gov › causas",
+            "date": "24 sept 2019",
+            "snippet": "Los científicos atribuyen la tendencia al calentamiento global observada desde mediados del siglo XX a la extensión humana del “efecto invernadero”, ...",
+            "snippet_highlighted_words": [
+                "calentamiento global"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Calentamiento global en EL PAÍS",
+            "link": "https://elpais.com/noticias/calentamiento-global/",
+            "displayed_link": "https://elpais.com › noticias › calentamiento-global",
+            "snippet": "Todas las noticias sobre Calentamiento global publicadas en EL PAÍS. Información, novedades y última hora sobre Calentamiento global.",
+            "snippet_highlighted_words": [
+                "Calentamiento global",
+                "Calentamiento global"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "Calentamiento global | ONG Manos Unidas",
+            "link": "https://www.manosunidas.org/observatorio/cambio-climatico/calentamiento-global",
+            "displayed_link": "https://www.manosunidas.org › cambio-climatico › cale...",
+            "snippet": "El calentamiento global se constituye por la absorción de la energía solar por parte de la tierra. La tierra al calentarse desprende calor a la atmósfera en ...",
+            "snippet_highlighted_words": [
+                "calentamiento global"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "que es el calentamiento global para niños",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Que+es+el+calentamiento+global+para+ni%C3%B1os&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q1QJ6BAhUEAE"
+        },
+        {
+            "query": "calentamiento global pdf",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Calentamiento+global+pdf&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q1QJ6BAhSEAE"
+        },
+        {
+            "query": "10 causas del calentamiento global",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=10+causas+del+calentamiento+global&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q1QJ6BAhREAE"
+        },
+        {
+            "query": "como evitar el calentamiento global",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Como+evitar+el+calentamiento+global&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q1QJ6BAhQEAE"
+        },
+        {
+            "query": "calentamiento global dibujos",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Calentamiento+global+Dibujos&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q1QJ6BAhPEAE"
+        },
+        {
+            "query": "calentamiento global - wikipedia",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Calentamiento+global+-+wikipedia&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q1QJ6BAhOEAE"
+        },
+        {
+            "query": "calentamiento global y cambio climático",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Calentamiento+global+y+cambio+clim%C3%A1tico&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q1QJ6BAhNEAE"
+        },
+        {
+            "query": "calentamiento global 2021",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Calentamiento+global+2021&sa=X&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q1QJ6BAhJEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Calentamiento+global&hl=es&gl=AR&ei=EAB9YrffNI6Hggf6tpLwAw&start=10&sa=N&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q8NMDegQIARBU",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Calentamiento+global&hl=es&gl=AR&ei=EAB9YrffNI6Hggf6tpLwAw&start=10&sa=N&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q8tMDegQIARBC",
+            "3": "https://www.google.com/search?q=Calentamiento+global&hl=es&gl=AR&ei=EAB9YrffNI6Hggf6tpLwAw&start=20&sa=N&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q8tMDegQIARBE",
+            "4": "https://www.google.com/search?q=Calentamiento+global&hl=es&gl=AR&ei=EAB9YrffNI6Hggf6tpLwAw&start=30&sa=N&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q8tMDegQIARBG",
+            "5": "https://www.google.com/search?q=Calentamiento+global&hl=es&gl=AR&ei=EAB9YrffNI6Hggf6tpLwAw&start=40&sa=N&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q8tMDegQIARBI",
+            "6": "https://www.google.com/search?q=Calentamiento+global&hl=es&gl=AR&ei=EAB9YrffNI6Hggf6tpLwAw&start=50&sa=N&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q8tMDegQIARBK",
+            "7": "https://www.google.com/search?q=Calentamiento+global&hl=es&gl=AR&ei=EAB9YrffNI6Hggf6tpLwAw&start=60&sa=N&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q8tMDegQIARBM",
+            "8": "https://www.google.com/search?q=Calentamiento+global&hl=es&gl=AR&ei=EAB9YrffNI6Hggf6tpLwAw&start=70&sa=N&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q8tMDegQIARBO",
+            "9": "https://www.google.com/search?q=Calentamiento+global&hl=es&gl=AR&ei=EAB9YrffNI6Hggf6tpLwAw&start=80&sa=N&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q8tMDegQIARBQ",
+            "10": "https://www.google.com/search?q=Calentamiento+global&hl=es&gl=AR&ei=EAB9YrffNI6Hggf6tpLwAw&start=90&sa=N&ved=2ahUKEwi3p4XS_dn3AhWOg-AKHXqbBD4Q8tMDegQIARBS"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=20&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=30&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=40&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=50&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=60&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=70&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=80&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Calentamiento+global&start=90&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D"
+        }
+    }
+}

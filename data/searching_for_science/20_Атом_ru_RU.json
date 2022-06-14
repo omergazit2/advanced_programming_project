@@ -1,0 +1,278 @@
+{
+    "search_metadata": {
+        "id": "629e3d480ead413452115160",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9186304e952eaeed/629e3d480ead413452115160.json",
+        "created_at": "2022-06-06 17:45:44 UTC",
+        "processed_at": "2022-06-06 17:45:44 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&oq=%D0%90%D1%82%D0%BE%D0%BC&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/9186304e952eaeed/629e3d480ead413452115160.html",
+        "total_time_taken": 0.76
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Атом",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Атом",
+        "total_results": 9090000,
+        "time_taken_displayed": 0.55
+    },
+    "knowledge_graph": {
+        "Возможно_вы_искали": [
+            {
+                "name": "Атом",
+                "extensions": [
+                    "А́том — частица вещества микроскопических размеров ..."
+                ],
+                "image": "https://serpapi.com/searches/629e3d480ead413452115160/images/da1a771ce37d5e2e77f5889a951f1aa64e173794a3f340fb493162d7592e0b3c0d1d5e0bd041b0fac4bcff56e06b969ff015ee0ab7e48b7837012f2454fa978c.jpeg"
+            },
+            {
+                "name": "Atom",
+                "extensions": [
+                    "Программное обеспечение"
+                ],
+                "image": "https://serpapi.com/searches/629e3d480ead413452115160/images/da1a771ce37d5e2e77f5889a951f1aa64e173794a3f340fb493162d7592e0b3c0d1d5e0bd041b0fac4bcff56e06b969f8693d65e019a29de16f8beadf8c96770.png"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Что такое атом ?",
+            "link": "https://www.youtube.com/watch?v=9t2EIQhPc54",
+            "thumbnail": "https://i.ytimg.com/vi/9t2EIQhPc54/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mraUKVZ23AgV7-uQD6P9ymohB1rg",
+            "channel": "NEKEREK",
+            "duration": "3:32",
+            "platform": "YouTube",
+            "date": "22 нояб. 2016 г."
+        },
+        {
+            "position": 2,
+            "title": "Русский атом. Новая жизнь",
+            "link": "https://www.youtube.com/watch?v=4gMy8nErEeI",
+            "thumbnail": "https://i.ytimg.com/vi/4gMy8nErEeI/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kvhw6pyYq_f5rL7Zy6jETy-aYo5g",
+            "channel": "Росатом",
+            "duration": "58:56",
+            "platform": "YouTube",
+            "date": "13 мар. 2018 г."
+        },
+        {
+            "position": 3,
+            "title": "Атомы: что внутри?",
+            "link": "https://www.youtube.com/watch?v=PJBnT_BQQQk",
+            "thumbnail": "https://i.ytimg.com/vi/PJBnT_BQQQk/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mM5DzKBueOFqC359HM0imlOC90wQ",
+            "channel": "ПостНаука",
+            "duration": "3:47",
+            "platform": "YouTube",
+            "date": "20 февр. 2021 г."
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Что такое атом своими словами?",
+            "snippet": "А́том (от др. -греч. ἄτομος «неделимый, не разрезаемый») — частица вещества микроскопических размеров и массы, наименьшая часть химического элемента, являющаяся носителем его свойств.",
+            "title": "Атом - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BE%D0%BC",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Атом"
+        },
+        {
+            "question": "Что такое атом и из чего он состоит?",
+            "snippet": "Атом - наименьшая частица вещества, обладающая его химическими свойствами. Атом состоит из протонов, нейтронов и электронов. Нейтроны и протоны находятся внутри и составляют ядро. В свою очередь протоны и нейтроны состоят из элементарных частиц кварков связанных глюонами.14 нояб. 2020 г.",
+            "title": "«Что такое атом, из чего он состоит?» — Яндекс Кью",
+            "link": "https://yandex.ru/q/question/chto_takoe_atom_iz_chego_on_sostoit_90419567/",
+            "displayed_link": "https://yandex.ru › question › chto_takoe_atom_iz_chego..."
+        },
+        {
+            "question": "Как перевести атом на русский?",
+            "snippet": "Для этого установите пакет atom-i18n. Это не просто русификатор Atom, пакет содержит поддержку огромного количества языков. Когда пакет будет установлен, нажмите кнопку Settings под именем пакета и в поле Language выберите Русский: Затем вам останется перезагрузить редактор.1 окт. 2021 г.",
+            "title": "Как пользоваться Atom - Losst",
+            "link": "https://losst.ru/kak-polzovatsya-atom",
+            "displayed_link": "https://losst.ru › kak-polzovatsya-atom"
+        },
+        {
+            "question": "Как установить браузер атом на компьютер?",
+            "snippet": "Чтобы установить браузер Atom, загрузите установочный файл. Браузер обновляется до следующей версии автоматически. Новая версия браузера установится поверх старой, что позволит сохранить все настройки и авторизации.",
+            "title": "Браузер Atom - Помощь Mail.ru",
+            "link": "https://help.mail.ru/atom/atom",
+            "displayed_link": "https://help.mail.ru › atom › atom"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Атом — химически неделимая, электронейтральная частица, состоящая из ядра и электронов. Ядро заряжено положительно и состоит из протонов и нейтронов. Оно определяет массу атома и радиоактивные свойства. Электроны заряжены отрицательно и определяют химические свойства атома.",
+        "link": "https://postnauka.ru/themes/atomic#:~:text=%D0%90%D1%82%D0%BE%D0%BC%20%E2%80%94%20%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D0%BC%D0%B0%D1%8F%2C%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B5%D0%B9%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%86%D0%B0,%D0%B8%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%D1%8E%D1%82%20%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20%D0%B0%D1%82%D0%BE%D0%BC%D0%B0.",
+        "displayed_link": "https://postnauka.ru › themes › atomic",
+        "snippet": "Атом — химически неделимая, электронейтральная частица, состоящая из ядра и электронов. Ядро заряжено положительно и состоит из протонов и нейтронов. Оно определяет массу атома и радиоактивные свойства. Электроны заряжены отрицательно и определяют химические свойства атома.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Атом - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BE%D0%BC",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Атом",
+            "snippet": "А́том (от др.-греч. ἄτομος «неделимый, не разрезаемый») — частица вещества микроскопических размеров и массы, наименьшая часть химического элемента, ...",
+            "snippet_highlighted_words": [
+                "А́том"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Экзотический атом",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B7%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D1%82%D0%BE%D0%BC"
+                    },
+                    {
+                        "title": "Пионий (атом)",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BE%D0%BD%D0%B8%D0%B9_(%D0%B0%D1%82%D0%BE%D0%BC)"
+                    },
+                    {
+                        "title": "Атом водорода",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BE%D0%BC_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4%D0%B0"
+                    },
+                    {
+                        "title": "Атом (значения)",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BE%D0%BC_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Браузер Atom",
+            "link": "https://browser.ru/",
+            "displayed_link": "https://browser.ru",
+            "snippet": "Atom - это браузер с новым подходом к безопасности и приватности. Важные настройки вынесены на видное место: предусмотрен запрет навязчивых уведомлений, ..."
+        },
+        {
+            "position": 3,
+            "title": "Атом — все статьи и новости - Индикатор - Indicator.Ru",
+            "link": "https://indicator.ru/label/atom",
+            "displayed_link": "https://indicator.ru › label › atom",
+            "snippet": "Атом — мельчайшая частица любого химического элемента, обладающая всеми его свойствами. Название этой частице дал философ Демокрит, который полагал, ...",
+            "snippet_highlighted_words": [
+                "Атом"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Atom",
+            "link": "https://atom.io/",
+            "displayed_link": "https://atom.io",
+            "snippet": "Atom is a desktop application built with HTML, JavaScript, CSS, and Node.js integration. It runs on Electron, a framework for building cross platform apps using ..."
+        },
+        {
+            "position": 5,
+            "title": "АТОМ • Большая российская энциклопедия - электронная ...",
+            "link": "https://bigenc.ru/physics/text/1839003",
+            "displayed_link": "https://bigenc.ru › physics › text",
+            "snippet": "А́ТОМ [франц. atome, от лат. atomus, от греч. ἄτομος (οσία) – неделимая (сущность)], частица вещества, наименьшая часть химич. элемента, ...",
+            "snippet_highlighted_words": [
+                "А́ТОМ"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Атом - Ядерная физика в интернете",
+            "link": "http://nuclphys.sinp.msu.ru/enc/e009.htm",
+            "displayed_link": "http://nuclphys.sinp.msu.ru › enc",
+            "snippet": "Атом Atom. Атом - наименьшая составная часть вещества, сохраняющая его химические свойства. Атом состоит из тяжелого положительно заряженного ядра, ...",
+            "snippet_highlighted_words": [
+                "Атом",
+                "Атом",
+                "Атом"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "это... Что такое Атом? - Словари и энциклопедии на ...",
+            "link": "https://dic.academic.ru/dic.nsf/ruwiki/376",
+            "displayed_link": "https://dic.academic.ru › dic.nsf › ruwiki",
+            "snippet": "А́том (от др.-греч. ἄτομος — неделимый) — наименьшая, химически неделимая часть химического элемента, являющаяся носителем его свойств.",
+            "snippet_highlighted_words": [
+                "А́том"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "атом - Викисловарь",
+            "link": "https://ru.wiktionary.org/wiki/%D0%B0%D1%82%D0%BE%D0%BC",
+            "displayed_link": "https://ru.wiktionary.org › wiki › атом",
+            "snippet": "физ., хим. атом (аналогично русскому слову) ◇ Всі речовини складаються з атомів. Атом у свою чергу складається з ядра, зарядженого позитивно ...",
+            "snippet_highlighted_words": [
+                "атом",
+                "Атом"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "атом браузер",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC+%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80&sa=X&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q1QJ6BAhEEAE"
+        },
+        {
+            "query": "атом деген не",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC+%D0%B4%D0%B5%D0%B3%D0%B5%D0%BD+%D0%BD%D0%B5&sa=X&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q1QJ6BAhBEAE"
+        },
+        {
+            "query": "атом робот",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC+%D1%80%D0%BE%D0%B1%D0%BE%D1%82&sa=X&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q1QJ6BAhAEAE"
+        },
+        {
+            "query": "атом строение",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC+%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5&sa=X&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q1QJ6BAg_EAE"
+        },
+        {
+            "query": "атом заряджений",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC+%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9&sa=X&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q1QJ6BAg-EAE"
+        },
+        {
+            "query": "атом скачать",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&sa=X&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q1QJ6BAg9EAE"
+        },
+        {
+            "query": "атом состоит из",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC+%D1%81%D0%BE%D1%81%D1%82%D0%BE%D0%B8%D1%82+%D0%B8%D0%B7&sa=X&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q1QJ6BAg7EAE"
+        },
+        {
+            "query": "атом водорода",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC+%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4%D0%B0&sa=X&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q1QJ6BAg5EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&gl=ru&hl=ru&ei=SD2eYvfbILaAqtsPrraG8Ag&start=10&sa=N&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q8NMDegQIAhBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&gl=ru&hl=ru&ei=SD2eYvfbILaAqtsPrraG8Ag&start=10&sa=N&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q8tMDegQIAhA_",
+            "3": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&gl=ru&hl=ru&ei=SD2eYvfbILaAqtsPrraG8Ag&start=20&sa=N&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q8tMDegQIAhBB",
+            "4": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&gl=ru&hl=ru&ei=SD2eYvfbILaAqtsPrraG8Ag&start=30&sa=N&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q8tMDegQIAhBD",
+            "5": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&gl=ru&hl=ru&ei=SD2eYvfbILaAqtsPrraG8Ag&start=40&sa=N&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q8tMDegQIAhBF",
+            "6": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&gl=ru&hl=ru&ei=SD2eYvfbILaAqtsPrraG8Ag&start=50&sa=N&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q8tMDegQIAhBH",
+            "7": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&gl=ru&hl=ru&ei=SD2eYvfbILaAqtsPrraG8Ag&start=60&sa=N&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q8tMDegQIAhBJ",
+            "8": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&gl=ru&hl=ru&ei=SD2eYvfbILaAqtsPrraG8Ag&start=70&sa=N&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q8tMDegQIAhBL",
+            "9": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&gl=ru&hl=ru&ei=SD2eYvfbILaAqtsPrraG8Ag&start=80&sa=N&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q8tMDegQIAhBN",
+            "10": "https://www.google.com/search?q=%D0%90%D1%82%D0%BE%D0%BC&gl=ru&hl=ru&ei=SD2eYvfbILaAqtsPrraG8Ag&start=90&sa=N&ved=2ahUKEwj3n_DUsJn4AhU2gGoFHS6bAY4Q8tMDegQIAhBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D1%82%D0%BE%D0%BC&start=90"
+        }
+    }
+}

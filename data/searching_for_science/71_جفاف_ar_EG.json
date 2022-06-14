@@ -1,0 +1,319 @@
+{
+    "search_metadata": {
+        "id": "627cff965b54ef20a59cee88",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d726d9c81d965ff5/627cff965b54ef20a59cee88.json",
+        "created_at": "2022-05-12 12:37:42 UTC",
+        "processed_at": "2022-05-12 12:37:42 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&oq=%D8%AC%D9%81%D8%A7%D9%81&uule=w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=&hl=ar&gl=EG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d726d9c81d965ff5/627cff965b54ef20a59cee88.html",
+        "total_time_taken": 3.62
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "جفاف",
+        "uule": "w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "EG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "جفاف",
+        "total_results": 17700000,
+        "time_taken_displayed": 0.36
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=zAK59IBsyeY9fM%252CenZ3HRhJR4VTpM%252C_%253BSn22JFGFyvJmLM%252Cy8m7inycDF8BgM%252C_%253Bs9OxSKwMbL3DKM%252Cz9mLEtLyZgbxPM%252C_%253BL8RxWNv1Lm-qBM%252CVenKBikRXXjqhM%252C_%253BvXMXHTVfq7A1gM%252CUyMzVbzppg57kM%252C_%253BoyE0xInEDCATAM%252COf9_5jI1jdP4_M%252C_%253BYns9nXfvR1JuWM%252CX4J31gVsW093dM%252C_%253BHACNWGzNyaM1NM%252CpzLRzhtLtI7YOM%252C_%253Blwb4MvClDk2Q3M%252Ct4Kt_LoAEkCzPM%252C_%253Ba7qTuaHfZqY-eM%252CNL36WW2HGt24vM%252C_&usg=AI4_-kRIS5_YORkB2BzrQiqrpAD5iYfT_Q&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ9QF6BAgGEAE#imgrc=zAK59IBsyeY9fM",
+            "source": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81",
+            "thumbnail": "https://serpapi.com/searches/627cff965b54ef20a59cee88/images/ad74248180786fadbdd27fa907fc86582de5bce8c38ca73e538c3279bd760a21.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=zAK59IBsyeY9fM%252CenZ3HRhJR4VTpM%252C_%253BSn22JFGFyvJmLM%252Cy8m7inycDF8BgM%252C_%253Bs9OxSKwMbL3DKM%252Cz9mLEtLyZgbxPM%252C_%253BL8RxWNv1Lm-qBM%252CVenKBikRXXjqhM%252C_%253BvXMXHTVfq7A1gM%252CUyMzVbzppg57kM%252C_%253BoyE0xInEDCATAM%252COf9_5jI1jdP4_M%252C_%253BYns9nXfvR1JuWM%252CX4J31gVsW093dM%252C_%253BHACNWGzNyaM1NM%252CpzLRzhtLtI7YOM%252C_%253Blwb4MvClDk2Q3M%252Ct4Kt_LoAEkCzPM%252C_%253Ba7qTuaHfZqY-eM%252CNL36WW2HGt24vM%252C_&usg=AI4_-kRIS5_YORkB2BzrQiqrpAD5iYfT_Q&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ9QF6BAgbEAE#imgrc=Sn22JFGFyvJmLM",
+            "source": "https://al-ain.com/article/drought-animals-africa-anthrax",
+            "thumbnail": "https://serpapi.com/searches/627cff965b54ef20a59cee88/images/ad74248180786fad6a55763d9a9c4157b3a51fc0886d6cca09e7ddc8394c598b.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=zAK59IBsyeY9fM%252CenZ3HRhJR4VTpM%252C_%253BSn22JFGFyvJmLM%252Cy8m7inycDF8BgM%252C_%253Bs9OxSKwMbL3DKM%252Cz9mLEtLyZgbxPM%252C_%253BL8RxWNv1Lm-qBM%252CVenKBikRXXjqhM%252C_%253BvXMXHTVfq7A1gM%252CUyMzVbzppg57kM%252C_%253BoyE0xInEDCATAM%252COf9_5jI1jdP4_M%252C_%253BYns9nXfvR1JuWM%252CX4J31gVsW093dM%252C_%253BHACNWGzNyaM1NM%252CpzLRzhtLtI7YOM%252C_%253Blwb4MvClDk2Q3M%252Ct4Kt_LoAEkCzPM%252C_%253Ba7qTuaHfZqY-eM%252CNL36WW2HGt24vM%252C_&usg=AI4_-kRIS5_YORkB2BzrQiqrpAD5iYfT_Q&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ9QF6BAgZEAE#imgrc=s9OxSKwMbL3DKM",
+            "source": "https://www.edarabia.com/ar/4-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%85%D9%81%D8%B5%D9%84%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81/",
+            "thumbnail": "https://serpapi.com/searches/627cff965b54ef20a59cee88/images/ad74248180786fad1e61d3bd1b49cfaaf727f22c90451e971fd42d3f46fad490.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=zAK59IBsyeY9fM%252CenZ3HRhJR4VTpM%252C_%253BSn22JFGFyvJmLM%252Cy8m7inycDF8BgM%252C_%253Bs9OxSKwMbL3DKM%252Cz9mLEtLyZgbxPM%252C_%253BL8RxWNv1Lm-qBM%252CVenKBikRXXjqhM%252C_%253BvXMXHTVfq7A1gM%252CUyMzVbzppg57kM%252C_%253BoyE0xInEDCATAM%252COf9_5jI1jdP4_M%252C_%253BYns9nXfvR1JuWM%252CX4J31gVsW093dM%252C_%253BHACNWGzNyaM1NM%252CpzLRzhtLtI7YOM%252C_%253Blwb4MvClDk2Q3M%252Ct4Kt_LoAEkCzPM%252C_%253Ba7qTuaHfZqY-eM%252CNL36WW2HGt24vM%252C_&usg=AI4_-kRIS5_YORkB2BzrQiqrpAD5iYfT_Q&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ9QF6BAgcEAE#imgrc=L8RxWNv1Lm-qBM",
+            "source": "https://www.almrsal.com/post/1101369",
+            "thumbnail": "https://serpapi.com/searches/627cff965b54ef20a59cee88/images/ad74248180786fad8aeb0aa1dd88780a9813b85f1cd02caef5c2d1a1a0c1870b.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=zAK59IBsyeY9fM%252CenZ3HRhJR4VTpM%252C_%253BSn22JFGFyvJmLM%252Cy8m7inycDF8BgM%252C_%253Bs9OxSKwMbL3DKM%252Cz9mLEtLyZgbxPM%252C_%253BL8RxWNv1Lm-qBM%252CVenKBikRXXjqhM%252C_%253BvXMXHTVfq7A1gM%252CUyMzVbzppg57kM%252C_%253BoyE0xInEDCATAM%252COf9_5jI1jdP4_M%252C_%253BYns9nXfvR1JuWM%252CX4J31gVsW093dM%252C_%253BHACNWGzNyaM1NM%252CpzLRzhtLtI7YOM%252C_%253Blwb4MvClDk2Q3M%252Ct4Kt_LoAEkCzPM%252C_%253Ba7qTuaHfZqY-eM%252CNL36WW2HGt24vM%252C_&usg=AI4_-kRIS5_YORkB2BzrQiqrpAD5iYfT_Q&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ9QF6BAghEAE#imgrc=vXMXHTVfq7A1gM",
+            "source": "https://www.masrawy.com/news/news_publicaffairs/details/2019/12/14/1688472/%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81-%D9%81%D9%8A-%D8%AC%D9%86%D9%88%D8%A8-%D9%82%D8%A7%D8%B1%D8%A9-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A8%D8%A5%D8%AA%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B5%D9%8A%D9%84-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D8%B4%D9%8A%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBLLGA4zSFMtw1EcNq-amnHJNmMpDvSD9nJvmYEGxgw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=zAK59IBsyeY9fM%252CenZ3HRhJR4VTpM%252C_%253BSn22JFGFyvJmLM%252Cy8m7inycDF8BgM%252C_%253Bs9OxSKwMbL3DKM%252Cz9mLEtLyZgbxPM%252C_%253BL8RxWNv1Lm-qBM%252CVenKBikRXXjqhM%252C_%253BvXMXHTVfq7A1gM%252CUyMzVbzppg57kM%252C_%253BoyE0xInEDCATAM%252COf9_5jI1jdP4_M%252C_%253BYns9nXfvR1JuWM%252CX4J31gVsW093dM%252C_%253BHACNWGzNyaM1NM%252CpzLRzhtLtI7YOM%252C_%253Blwb4MvClDk2Q3M%252Ct4Kt_LoAEkCzPM%252C_%253Ba7qTuaHfZqY-eM%252CNL36WW2HGt24vM%252C_&usg=AI4_-kRIS5_YORkB2BzrQiqrpAD5iYfT_Q&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ9QF6BAgeEAE#imgrc=oyE0xInEDCATAM",
+            "source": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D8%B4%D8%A8%D8%AD-%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81-%D8%A8%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D8%A7-%D9%87%D9%8A-%D8%A5%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-/2512070",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPhBlFQmZwOa6hWsIW-Yn1mPbXMaDNCqHWroDdmUL4OQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=zAK59IBsyeY9fM%252CenZ3HRhJR4VTpM%252C_%253BSn22JFGFyvJmLM%252Cy8m7inycDF8BgM%252C_%253Bs9OxSKwMbL3DKM%252Cz9mLEtLyZgbxPM%252C_%253BL8RxWNv1Lm-qBM%252CVenKBikRXXjqhM%252C_%253BvXMXHTVfq7A1gM%252CUyMzVbzppg57kM%252C_%253BoyE0xInEDCATAM%252COf9_5jI1jdP4_M%252C_%253BYns9nXfvR1JuWM%252CX4J31gVsW093dM%252C_%253BHACNWGzNyaM1NM%252CpzLRzhtLtI7YOM%252C_%253Blwb4MvClDk2Q3M%252Ct4Kt_LoAEkCzPM%252C_%253Ba7qTuaHfZqY-eM%252CNL36WW2HGt24vM%252C_&usg=AI4_-kRIS5_YORkB2BzrQiqrpAD5iYfT_Q&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ9QF6BAgaEAE#imgrc=Yns9nXfvR1JuWM",
+            "source": "https://al-ain.com/article/brazil-drought-scarcity-rain",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDcFp13b_S6pqjefLzJV62Uz56QCCMzEK-DPLCOlQZxA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=zAK59IBsyeY9fM%252CenZ3HRhJR4VTpM%252C_%253BSn22JFGFyvJmLM%252Cy8m7inycDF8BgM%252C_%253Bs9OxSKwMbL3DKM%252Cz9mLEtLyZgbxPM%252C_%253BL8RxWNv1Lm-qBM%252CVenKBikRXXjqhM%252C_%253BvXMXHTVfq7A1gM%252CUyMzVbzppg57kM%252C_%253BoyE0xInEDCATAM%252COf9_5jI1jdP4_M%252C_%253BYns9nXfvR1JuWM%252CX4J31gVsW093dM%252C_%253BHACNWGzNyaM1NM%252CpzLRzhtLtI7YOM%252C_%253Blwb4MvClDk2Q3M%252Ct4Kt_LoAEkCzPM%252C_%253Ba7qTuaHfZqY-eM%252CNL36WW2HGt24vM%252C_&usg=AI4_-kRIS5_YORkB2BzrQiqrpAD5iYfT_Q&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ9QF6BAgWEAE#imgrc=HACNWGzNyaM1NM",
+            "source": "https://www.alquds.co.uk/%D8%AC%D9%81%D8%A7%D9%81/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl_TQ_grtxwdveROPirjvbCKbcLaBl7tUVVpa3h9ee8A&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=zAK59IBsyeY9fM%252CenZ3HRhJR4VTpM%252C_%253BSn22JFGFyvJmLM%252Cy8m7inycDF8BgM%252C_%253Bs9OxSKwMbL3DKM%252Cz9mLEtLyZgbxPM%252C_%253BL8RxWNv1Lm-qBM%252CVenKBikRXXjqhM%252C_%253BvXMXHTVfq7A1gM%252CUyMzVbzppg57kM%252C_%253BoyE0xInEDCATAM%252COf9_5jI1jdP4_M%252C_%253BYns9nXfvR1JuWM%252CX4J31gVsW093dM%252C_%253BHACNWGzNyaM1NM%252CpzLRzhtLtI7YOM%252C_%253Blwb4MvClDk2Q3M%252Ct4Kt_LoAEkCzPM%252C_%253Ba7qTuaHfZqY-eM%252CNL36WW2HGt24vM%252C_&usg=AI4_-kRIS5_YORkB2BzrQiqrpAD5iYfT_Q&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ9QF6BAgLEAE#imgrc=lwb4MvClDk2Q3M",
+            "source": "https://www.bbc.com/arabic/worldnews/2014/02/140201_california_drought",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROPdZjyxNtO49WwzkZA_HiD0lEqCDi4ps0ChEo5VcAOQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=zAK59IBsyeY9fM%252CenZ3HRhJR4VTpM%252C_%253BSn22JFGFyvJmLM%252Cy8m7inycDF8BgM%252C_%253Bs9OxSKwMbL3DKM%252Cz9mLEtLyZgbxPM%252C_%253BL8RxWNv1Lm-qBM%252CVenKBikRXXjqhM%252C_%253BvXMXHTVfq7A1gM%252CUyMzVbzppg57kM%252C_%253BoyE0xInEDCATAM%252COf9_5jI1jdP4_M%252C_%253BYns9nXfvR1JuWM%252CX4J31gVsW093dM%252C_%253BHACNWGzNyaM1NM%252CpzLRzhtLtI7YOM%252C_%253Blwb4MvClDk2Q3M%252Ct4Kt_LoAEkCzPM%252C_%253Ba7qTuaHfZqY-eM%252CNL36WW2HGt24vM%252C_&usg=AI4_-kRIS5_YORkB2BzrQiqrpAD5iYfT_Q&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ9QF6BAgFEAE#imgrc=a7qTuaHfZqY-eM",
+            "source": "https://www.skynewsarabia.com/middle-east/1459771-%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81-%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D8%B1-%D9%8A%D8%B6%D8%B1%D8%A8%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AE%D8%B7%D8%B1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4qF1rRn66AHG7DLoZkXz9ls10jbbiI8sUQjTGuuBnA&s"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ماذا يعني جفاف الجسم؟",
+            "snippet": "يحدث الجفاف عندما تستخدم أو تفقد سوائل أكثر من التي تتناولها ولا يوجد ماء كافٍ أو سوائل أخرى كافية في جسدك لأداء وظائفه الطبيعية. إذا لم تعوض السوائل المفقودة، فستُصاب بالجفاف. أي شخص مُعرض للإصابة بالجفاف، ولكن لا تكون الحالة خطيرة إلا لدى الأطفال الصغار وكبار السن.14‏/10‏/2021",
+            "title": "الجفاف - الأعراض والأسباب - Mayo Clinic (مايو كلينك)",
+            "link": "https://www.mayoclinic.org/ar/diseases-conditions/dehydration/symptoms-causes/syc-20354086",
+            "displayed_link": "https://www.mayoclinic.org › syc-20354086"
+        },
+        {
+            "question": "ما هو علاج الجفاف؟",
+            "snippet": "العلاج الفعال الوحيد للجفاف هو استبدال السوائل والكهارل المفقودة. أفضل طريقة لعلاج الجفاف تعتمد على العمر وشدة الجفاف وسببه. بالنسبة إلى الرُّضع والأطفال الذين أصيبوا بالجفاف بسبب الإسهال أو القيء أو الحُمّى، استخدِم محلولَ معالجة الجفاف الفموي بدون وصفة طبية.14‏/10‏/2021",
+            "title": "الجفاف - التشخيص والعلاج - Mayo Clinic (مايو كلينك)",
+            "link": "https://www.mayoclinic.org/ar/diseases-conditions/dehydration/diagnosis-treatment/drc-20354092",
+            "displayed_link": "https://www.mayoclinic.org › drc-20354092"
+        },
+        {
+            "question": "كيف اعرف ان الطفل يعاني من الجفاف؟",
+            "snippet": "أعراض الجفاف عند الرضع عدم القدرة على اللعب بالشكل المعتاد. قلة الدموع عند البكاء. تغيير أقل من 6 حفاضات رطبة خلال اليوم. إذا كان الجفاف ناتج عن الإصابة بالإسهال فستلاحظ أن البراز يكون رخوا.26‏/10‏/2020",
+            "title": "الجفاف عند الرضع.. الأعراض والأسباب - العين الإخبارية",
+            "link": "https://al-ain.com/article/dehydration-infants-symptoms-causes",
+            "displayed_link": "https://al-ain.com › dehydration-infants-symptoms-causes"
+        },
+        {
+            "question": "هل الجفاف يسبب الاسهال؟",
+            "snippet": "متى يجب تلقي المساعدة عند الإصابة بالجفاف يُوصى بالتوجه إلى الطبيب إذا استمر التقيؤ والإسهال أكثر من يومين، كما يُوصى التوجه إلى الطبيب حتى قبل ذلك إذا رافق الجفاف كل من الأعراض الآتية: الحمى.22‏/09‏/2017",
+            "title": "تعرف على طرق الوقاية من الجفاف عند الإصابة بالإسهال - ويب طب",
+            "link": "https://www.webteb.com/articles/%D8%A7%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D9%87%D8%A7%D9%84_16807",
+            "displayed_link": "https://www.webteb.com › articles › الوقاية-من-الجفاف-ب..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "الجفاف - الأعراض والأسباب - Mayo Clinic (مايو كلينك)",
+            "link": "https://www.mayoclinic.org/ar/diseases-conditions/dehydration/symptoms-causes/syc-20354086",
+            "displayed_link": "https://www.mayoclinic.org › syc-20354086",
+            "snippet": "يحدث الجفاف عندما تستخدم أو تفقد سوائل أكثر من التي تتناولها ولا يوجد ماء كافٍ أو سوائل أخرى كافية في جسدك لأداء وظائفه الطبيعية.",
+            "snippet_highlighted_words": [
+                "الجفاف"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٤‏/١٠‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "الجفاف - التشخيص والعلاج - Mayo Clinic (مايو كلينك)",
+            "link": "https://www.mayoclinic.org/ar/diseases-conditions/dehydration/diagnosis-treatment/drc-20354092",
+            "displayed_link": "https://www.mayoclinic.org › drc-20354092",
+            "snippet": "الجفاف · التشخيص. يمكن لطبيبك غالبًا تشخيص الجفاف على أساس العلامات والأعراض البدنية. · العلاج. العلاج الفعال الوحيد للجفاف هو استبدال السوائل ...",
+            "snippet_highlighted_words": [
+                "الجفاف",
+                "الجفاف",
+                "للجفاف"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٤‏/١٠‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "أعراض جفاف الجسم الشديد - ويب طب",
+            "link": "https://www.webteb.com/articles/%D8%A7%D8%B9%D8%B1%D8%A7%D8%B6-%D8%AC%D9%81%D8%A7%D9%81-%D8%A7%D9%84%D8%AC%D8%B3%D9%85-%D8%A7%D9%84%D8%B4%D8%AF%D9%8A%D8%AF_28866",
+            "displayed_link": "https://www.webteb.com › articles › اعراض-جفاف-الجسم...",
+            "snippet": "يحدث الجفاف عند فقدان سوائل الجسم دون تعويضها بالشكل الكافي، ما يؤدي لشعور الشخص بعدد من الأعراض أبرزها الشعور بالعطش الشديد، وجفاف الفم، ونقصان ...",
+            "snippet_highlighted_words": [
+                "الجفاف",
+                "وجفاف"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٣١‏/٠٣‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "أعراض الجفاف القائمة الكاملة - ويب طب",
+            "link": "https://www.webteb.com/articles/%D8%A7%D8%B9%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81_22019",
+            "displayed_link": "https://www.webteb.com › اعراض-الجفاف_22019",
+            "snippet": "2. أعراض الجفاف الحاد لدى البالغين · إخراج كميات قليلة من البول الداكن جدًا، أو العجز عن إخراج البول تمامًا. · توقف الجسم عن التعرق بشكل تام حتى ...",
+            "snippet_highlighted_words": [
+                "الجفاف"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٣‏/٠٣‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "تجفاف - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%AC%D9%81%D8%A7%D9%81",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تجفاف",
+            "snippet": "التَجفاف هو عدم احتواء الجسم على كمية المياه والسوائل الواجب توافرها. التَجفاف جفاف. Dehydration. ممرضات يشجعن مريضاً على تناول سوائل تعويض الجفاف لتخفيف ...",
+            "snippet_highlighted_words": [
+                "جفاف",
+                "Dehydration",
+                "الجفاف"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "جفاف (توضيح) - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AC%D9%81%D8%A7%D9%81_(%D8%AA%D9%88%D8%B6%D9%8A%D8%AD)",
+            "displayed_link": "https://ar.wikipedia.org › wiki › جفاف_(توضيح)",
+            "snippet": "قد يُقصَد بـ«جفاف» ما يلي: مجفاف (وعاء) · مجفف (مادة) · تجفف (كيمياء) · جفاف (جغرافيا) · تجفاف (طب). انظر أيضًاعدل.",
+            "snippet_highlighted_words": [
+                "جفاف",
+                "جفاف"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "أعراض الجفاف عند البالغين منها جفاف الفم والشعور بالتعب ...",
+            "link": "https://www.youm7.com/story/2021/3/5/%D8%A3%D8%B9%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%84%D8%BA%D9%8A%D9%86-%D9%85%D9%86%D9%87%D8%A7-%D8%AC%D9%81%D8%A7%D9%81-%D8%A7%D9%84%D9%81%D9%85-%D9%88%D8%A7%D9%84%D8%B4%D8%B9%D9%88%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A8-%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D9%82/5231437",
+            "displayed_link": "https://www.youm7.com › story › أعراض-الجفاف-عند-ال...",
+            "snippet": "الجفاف هو حالة يمكن أن تحدث عندما يتجاوز فقدان سوائل الجسم، معظمها الماء ، الكمية التي يتم تناولها مع الجفاف ، ينتقل المزيد من الماء من الخلايا ...",
+            "snippet_highlighted_words": [
+                "الجفاف",
+                "الجفاف"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٥‏/٠٣‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "5 علامات لا تتوقعها لجفاف الجسم | الشرق الأوسط",
+            "link": "https://aawsat.com/home/article/2959561/5-%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D9%84%D8%A7-%D8%AA%D8%AA%D9%88%D9%82%D8%B9%D9%87%D8%A7-%D9%84%D8%AC%D9%81%D8%A7%D9%81-%D8%A7%D9%84%D8%AC%D8%B3%D9%85",
+            "displayed_link": "https://aawsat.com › home › article › 5-علامات-لا-تتوق...",
+            "snippet": "الجفاف هو سبب أساسي وشائع لأنواع عدة من الصداع. وحتى الجفاف الخفيف يمكن أن يسبب ما يُعرف بـ«صداع الجفاف»Dehydration Headache. وصداع الجفاف أحد ...",
+            "snippet_highlighted_words": [
+                "الجفاف",
+                "الجفاف",
+                "الجفاف",
+                "Dehydration",
+                "الجفاف"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٦‏/٠٥‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "الجفاف,تَجْفاف ( Dehydration ) | اسباب اعراض علاج | الطبي",
+            "link": "https://altibbi.com/%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%A9/%D8%B5%D8%AD%D8%A9-%D8%B9%D8%A7%D9%85%D8%A9/%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81",
+            "displayed_link": "https://altibbi.com › مصطلحات طبية › صحة عامة",
+            "snippet": "الجفاف أو التجفاف هو حالة تحدث عندما تكون كمية الماء التي يفقدها الجسم (عن طريق الزفير, التعرق, التبول, و الاخراج) اكثر من الكمية التي يتناولها الشخص.",
+            "snippet_highlighted_words": [
+                "الجفاف"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "علاج جفاف الجسم الشديد",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D8%AC%D9%81%D8%A7%D9%81+%D8%A7%D9%84%D8%AC%D8%B3%D9%85+%D8%A7%D9%84%D8%B4%D8%AF%D9%8A%D8%AF&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "علاج الجفاف عند الكبار في المنزل",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81+%D8%B9%D9%86%D8%AF+%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1+%D9%81%D9%8A+%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "سبب جفاف الجسم رغم شرب الماء",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%B3%D8%A8%D8%A8+%D8%AC%D9%81%D8%A7%D9%81+%D8%A7%D9%84%D8%AC%D8%B3%D9%85+%D8%B1%D8%BA%D9%85+%D8%B4%D8%B1%D8%A8+%D8%A7%D9%84%D9%85%D8%A7%D8%A1&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "مشروبات لعلاج الجفاف",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D9%85%D8%B4%D8%B1%D9%88%D8%A8%D8%A7%D8%AA+%D9%84%D8%B9%D9%84%D8%A7%D8%AC+%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "أعراض جفاف الجسم من الماء",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%A3%D8%B9%D8%B1%D8%A7%D8%B6+%D8%AC%D9%81%D8%A7%D9%81+%D8%A7%D9%84%D8%AC%D8%B3%D9%85+%D9%85%D9%86+%D8%A7%D9%84%D9%85%D8%A7%D8%A1&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "جفاف الجلد",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81+%D8%A7%D9%84%D8%AC%D9%84%D8%AF&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "طريقة التخلص من جفاف الجسم",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%B7%D8%B1%D9%8A%D9%82%D8%A9+%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D8%B5+%D9%85%D9%86+%D8%AC%D9%81%D8%A7%D9%81+%D8%A7%D9%84%D8%AC%D8%B3%D9%85&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "محلول معالجة الجفاف للكبار",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84+%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9+%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81+%D9%84%D9%84%D9%83%D8%A8%D8%A7%D8%B1&sa=X&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ1QJ6BAgpEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&ei=mf98YtmSDKTUkPIPnYWqGA&start=10&sa=N&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&ei=mf98YtmSDKTUkPIPnYWqGA&start=10&sa=N&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&ei=mf98YtmSDKTUkPIPnYWqGA&start=20&sa=N&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&ei=mf98YtmSDKTUkPIPnYWqGA&start=30&sa=N&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&ei=mf98YtmSDKTUkPIPnYWqGA&start=40&sa=N&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&ei=mf98YtmSDKTUkPIPnYWqGA&start=50&sa=N&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&ei=mf98YtmSDKTUkPIPnYWqGA&start=60&sa=N&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&ei=mf98YtmSDKTUkPIPnYWqGA&start=70&sa=N&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&ei=mf98YtmSDKTUkPIPnYWqGA&start=80&sa=N&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D8%AC%D9%81%D8%A7%D9%81&gl=EG&hl=ar&ei=mf98YtmSDKTUkPIPnYWqGA&start=90&sa=N&ved=2ahUKEwiZw_2Y_dn3AhUkKkQIHZ2CCgMQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=20&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=30&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=40&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=50&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=60&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=70&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=80&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AC%D9%81%D8%A7%D9%81&start=90&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D"
+        }
+    }
+}

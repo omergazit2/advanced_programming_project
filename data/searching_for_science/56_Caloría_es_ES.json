@@ -1,0 +1,324 @@
+{
+    "search_metadata": {
+        "id": "627cffab9bddf70078c2144b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9d4cba5e32a4b60f/627cffab9bddf70078c2144b.json",
+        "created_at": "2022-05-12 12:38:03 UTC",
+        "processed_at": "2022-05-12 12:38:03 UTC",
+        "google_url": "https://www.google.com/search?q=Calor%C3%ADa&oq=Calor%C3%ADa&uule=w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=&hl=es&gl=ES&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/9d4cba5e32a4b60f/627cffab9bddf70078c2144b.html",
+        "total_time_taken": 7.13
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Caloría",
+        "uule": "w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "ES",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Caloría",
+        "total_results": 1560000,
+        "time_taken_displayed": 0.49
+    },
+    "knowledge_graph": {
+        "title": "Caloría",
+        "header_images": [
+            {
+                "source": "https://www.biencomer.com.mx/dudas-frecuentes/2017/6/27/qu-es-una-calora"
+            },
+            {
+                "source": "https://concepto.de/caloria/"
+            },
+            {
+                "source": "https://www.tiendaculturista.com/blog/calorias-que-son/"
+            },
+            {
+                "source": "https://www.clinicalascondes.cl/CENTROS-Y-ESPECIALIDADES/Centros/Centro-de-Nutricion/Nutricion/Calorias"
+            },
+            {
+                "source": "https://www.youtube.com/watch?v=LBh5WREe9QU"
+            },
+            {
+                "source": "https://www.divinacocina.es/tabla-de-calorias/"
+            }
+        ],
+        "description": "El término caloría es el nombre de varias unidades de energía basadas en la capacidad térmica específica del agua. Como existen varias unidades con el nombre caloría, expresar una magnitud como «X calorías» deja ambigua la unidad empleada.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://es.wikipedia.org/wiki/Calor%C3%ADa"
+        },
+        "también_se_buscó": [
+            {
+                "name": "Grasa",
+                "link": "https://www.google.com/search?gl=ES&hl=es&q=Grasa&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXCHdN2NJVRBHFXCbPeENG3KyVH5n9gL2OWC8KDiNa1Ygxk7cXyuQFTBDREcZONDj7f64pqWPellm-o9G6zhBJvQTwFtJOdENTw9vT7cUrLpLhbfadmLrJAM7YwA9Va7yNECKZV0hkZfX1hhrTSf6RjCAkRHWKFCgJgWA0NWHvyY85hxejEN6hsn-5566pjDptOe-4SH6hLbz5cu9O3Zi5AJ8fKPwpUCq6IAgT6TJlXKuLBosg%3D%3D&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQxA16BAhaEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Grasa&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXCHdN2NJVRBHFXCbPeENG3KyVH5n9gL2OWC8KDiNa1Ygxk7cXyuQFTBDREcZONDj7f64pqWPellm-o9G6zhBJvQTwFtJOdENTw9vT7cUrLpLhbfadmLrJAM7YwA9Va7yNECKZV0hkZfX1hhrTSf6RjCAkRHWKFCgJgWA0NWHvyY85hxejEN6hsn-5566pjDptOe-4SH6hLbz5cu9O3Zi5AJ8fKPwpUCq6IAgT6TJlXKuLBosg%3D%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffab9bddf70078c2144b/images/54c6d59e84b9c79104665aa22131cbfff734d6d86ee56f6f9cc8bee782e1c709285209aa45dccabf9944e285cf1ba244.jpeg"
+            },
+            {
+                "name": "Colesterol",
+                "link": "https://www.google.com/search?gl=ES&hl=es&q=Colesterol&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNde0u8hwa2OU4tViCZwTW95NUDzdhWB1myYjoNFtx0UODA-tSDx5IlguZpqhAfkobyeesEuyju9C1nuNMrJ_2MhnQ9uFZSGzl6rZC_ZO6W154tTs-B7udvts5yFa-n83PVCn_z8CRbdwuJkU-zwHDoSq9K2n56WQXgFUTkHM9Q6BeXCOnjn9bLh2HiQbFhbVqBtFFFVGdwKLTAWaSmwQ_nYCsUhTRnNuSrP1-A7Tfknjx_F4dRxm5c8YSDZP4Eq3bsvDYW8U%3D&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQxA16BAhaEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Colesterol&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNde0u8hwa2OU4tViCZwTW95NUDzdhWB1myYjoNFtx0UODA-tSDx5IlguZpqhAfkobyeesEuyju9C1nuNMrJ_2MhnQ9uFZSGzl6rZC_ZO6W154tTs-B7udvts5yFa-n83PVCn_z8CRbdwuJkU-zwHDoSq9K2n56WQXgFUTkHM9Q6BeXCOnjn9bLh2HiQbFhbVqBtFFFVGdwKLTAWaSmwQ_nYCsUhTRnNuSrP1-A7Tfknjx_F4dRxm5c8YSDZP4Eq3bsvDYW8U%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffab9bddf70078c2144b/images/54c6d59e84b9c79104665aa22131cbfff734d6d86ee56f6f9cc8bee782e1c709edfddcff37f20a07f00d19842111281b.png"
+            },
+            {
+                "name": "Energía",
+                "link": "https://www.google.com/search?gl=ES&hl=es&q=Energ%C3%ADa&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdR0bao-HbIFWkNNJeX6pxa9fa3sLO6rXWLxnYj4JEO_lLvSIAImQR5ETTA83wIugiRBY8zo5XH5EtlxDrZLvFA78Eg7mb1uSKI8GboZIcF2uG1fGXjhpZ2ZaiU1_dxpde7DSP7GtoBzKBHsDh4XegzuW7etB540VDx_Pzfqf1t3z8kVLyzQEo5ZMWLky5Fz9_gIlRbx37WuWox8EwU2hCGTkUbelRObgMvEx0E5YeVmyvaNFPeYL8LN-OwEiFLDjAHtXl5I%3D&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQxA16BAhaEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Energ%C3%ADa&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdR0bao-HbIFWkNNJeX6pxa9fa3sLO6rXWLxnYj4JEO_lLvSIAImQR5ETTA83wIugiRBY8zo5XH5EtlxDrZLvFA78Eg7mb1uSKI8GboZIcF2uG1fGXjhpZ2ZaiU1_dxpde7DSP7GtoBzKBHsDh4XegzuW7etB540VDx_Pzfqf1t3z8kVLyzQEo5ZMWLky5Fz9_gIlRbx37WuWox8EwU2hCGTkUbelRObgMvEx0E5YeVmyvaNFPeYL8LN-OwEiFLDjAHtXl5I%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffab9bddf70078c2144b/images/54c6d59e84b9c79104665aa22131cbfff734d6d86ee56f6f9cc8bee782e1c709fdbcec1e3067f5f8625676ebe5478988.jpeg"
+            },
+            {
+                "name": "Grasas saturadas",
+                "link": "https://www.google.com/search?gl=ES&hl=es&q=Grasas+saturadas&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgDVxkimT5BNh2_i02wuauDoESGenaO_Yyvv3e9sGOLSm7XofoAEKQJNgwDbvAc5z34Qlua1k314cusjgGQ1YH-xVX0ng8rRjO7LqgxfTh1nwfnDyTT47z0bwpwzLnDhb9GYv4jgm4yPYRK27rra2Z5FlxCYd8YhydelezboGTca-dsTd3GN5NmVTYCbR3RD6TAW7yguNP1hlW91nByUmfNwM3r8pwlLQU-_po2Qy6nDZ0Gx0CD4Ok3mXAheV_XIYoMU6Tts%3D&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQxA16BAhaEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Grasas+saturadas&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgDVxkimT5BNh2_i02wuauDoESGenaO_Yyvv3e9sGOLSm7XofoAEKQJNgwDbvAc5z34Qlua1k314cusjgGQ1YH-xVX0ng8rRjO7LqgxfTh1nwfnDyTT47z0bwpwzLnDhb9GYv4jgm4yPYRK27rra2Z5FlxCYd8YhydelezboGTca-dsTd3GN5NmVTYCbR3RD6TAW7yguNP1hlW91nByUmfNwM3r8pwlLQU-_po2Qy6nDZ0Gx0CD4Ok3mXAheV_XIYoMU6Tts%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffab9bddf70078c2144b/images/54c6d59e84b9c79104665aa22131cbfff734d6d86ee56f6f9cc8bee782e1c709d1daecdc4a06bf4cee06dd179d438db6.jpeg"
+            }
+        ],
+        "también_se_buscó_link": "https://www.google.com/search?gl=ES&hl=es&q=Calor%C3%ADa&stick=H4sIAAAAAAAAAONgFuLQz9U3MCwvM1KCs7QEgzNTUssTK4v9UitKgktSC4oXsXI4J-bkFx1em7iDlREANRLBDzcAAAA&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQMSgAegQIWhAB",
+        "también_se_buscó_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCwvM1KCs7QEgzNTUssTK4v9UitKgktSC4oXsXI4J-bkFx1em7iDlREANRLBDzcAAAA",
+        "ver_resultados_relacionados": [
+            {
+                "name": "caloría",
+                "extensions": [
+                    "Definición del diccionario"
+                ]
+            }
+        ]
+    },
+    "related_questions": [
+        {
+            "question": "¿Cuántas calorías de debe consumir al día?",
+            "snippet": "Hombres: entre 2000 kcal y 2500 kcal. Mujeres: 2000 kcal.11 jun 2021",
+            "title": "Cuántas calorías debo consumir al día - Según SEXO y EDAD | Welthy",
+            "link": "https://www.welthy.es/magazine/cuantas-calorias-debo-consumir-al-dia/",
+            "displayed_link": "https://www.welthy.es › magazine › cuantas-calorias-debo..."
+        },
+        {
+            "question": "¿Qué es una caloría en nutrición?",
+            "snippet": "Una caloría es una unidad de medida, pero esta no mide peso ni longitud. Una caloría es una unidad de energía. Cuando escuchas que algo contiene calorías, es una manera de describir la cantidad de energía que podría recibir tu cuerpo al consumir eso.",
+            "title": "Aprendamos sobre las calorías (para Niños ) - Kids Health",
+            "link": "https://kidshealth.org/es/kids/calorie.html",
+            "displayed_link": "https://kidshealth.org › kids › calorie"
+        },
+        {
+            "question": "¿Qué es la caloría y cómo se mide?",
+            "snippet": "Pero, ¿sabes qué son exactamente las calorías? Pues una caloría es la cantidad de calor necesaria para elevar la temperatura de 1 gramo de agua de 14,5 a 15,5 grados centígrados a la presión normal.21 ene 2018",
+            "title": "¿Qué son y cómo se miden las calorías que tanto nos obsesionan?",
+            "link": "https://www.bbc.com/mundo/noticias-42709263",
+            "displayed_link": "https://www.bbc.com › mundo › noticias-42709263"
+        },
+        {
+            "question": "¿Qué comida tiene calorías?",
+            "title": "5 alimentos ricos en calorías, pero saludables",
+            "link": "https://www.clikisalud.net/5-alimentos-saludables-calorias/",
+            "list": [
+                "Frutos secos. Son saludables para el corazón, sobre todo las almendras, las nueces y las avellanas. ... ",
+                "Papas. Son una gran fuente de vitamina A y otros nutrientes. ... ",
+                "Aceite de oliva. Aunque es una grasa, es monoinsaturada. ... ",
+                "Plátanos. ... ",
+                "Aguacate."
+            ],
+            "displayed_link": "https://www.clikisalud.net › 5-alimentos-saludables-calorias"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "La definición técnica de caloría corresponde a una unidad de energía basada en el calor específico del agua. Así, se define caloría como la cantidad de energía calorífica necesaria para elevar un grado centígrado la temperatura de un gramo de agua pura, desde 14,5 °C a 15,5 °C, a una presión normal de una atmósfera.",
+        "link": "https://www.clinicalascondes.cl/CENTROS-Y-ESPECIALIDADES/Centros/Centro-de-Nutricion/Nutricion/Calorias#:~:text=La%20definici%C3%B3n%20t%C3%A9cnica%20de%20calor%C3%ADa,presi%C3%B3n%20normal%20de%20una%20atm%C3%B3sfera.",
+        "displayed_link": "https://www.clinicalascondes.cl › Nutricion › Calorias",
+        "snippet": "La definición técnica de caloría corresponde a una unidad de energía basada en el calor específico del agua. Así, se define caloría como la cantidad de energía calorífica necesaria para elevar un grado centígrado la temperatura de un gramo de agua pura, desde 14,5 °C a 15,5 °C, a una presión normal de una atmósfera.",
+        "thumbnail": "https://serpapi.com/searches/627cffab9bddf70078c2144b/images/e3d9ef384a9c073d429e15b7b560a8cda9ffe3ee6020b830.jpeg",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Caloría - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Calor%C3%ADa",
+            "displayed_link": "https://es.wikipedia.org › wiki › Caloría",
+            "snippet": "​​ La gran caloría, caloría alimentaria o kilocaloría ( Cal, Caloría o kcal ), más utilizada en nutrición,​ es la cantidad de calor necesaria para provocar el ...",
+            "snippet_highlighted_words": [
+                "caloría",
+                "caloría",
+                "Caloría"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Aprendamos sobre las calorías (para Niños ) - Kids Health",
+            "link": "https://kidshealth.org/es/kids/calorie.html",
+            "displayed_link": "https://kidshealth.org › kids › calorie",
+            "snippet": "Cuando la gente habla de las calorías en la comida, ¿a qué se refiere? Una caloría es una unidad de medida, pero esta no mide peso ni longitud.",
+            "snippet_highlighted_words": [
+                "calorías",
+                "caloría"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "¿Qué Cantidad de Calorías es Necesaria? - CuidatePlus",
+            "link": "https://cuidateplus.marca.com/alimentacion/diccionario/calorias.html",
+            "displayed_link": "https://cuidateplus.marca.com › diccionario › calorias",
+            "date": "3 feb 2021",
+            "snippet": "Las calorías son la cantidad de calor necesaria para elevar la temperatura de un gramo de agua pura un grado centígrado a una presión de una ...",
+            "snippet_highlighted_words": [
+                "calorías"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "¿Qué es una caloría? - Bien Comer",
+            "link": "https://www.biencomer.com.mx/dudas-frecuentes/2017/6/27/qu-es-una-calora",
+            "displayed_link": "https://www.biencomer.com.mx › qu-es-una-calora",
+            "date": "4 nov 2017",
+            "snippet": "Una caloría es la cantidad de energía necesaria para elevar la temperatura de 1 gramo de agua hasta 1ºC. · Una kilocaloría es la cantidad de ...",
+            "snippet_highlighted_words": [
+                "caloría"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Calculador de calorías - IMSS",
+            "link": "http://www.imss.gob.mx/salud-en-linea/apps-sano/calculadora-calorias",
+            "displayed_link": "http://www.imss.gob.mx › calculadora-calorias",
+            "snippet": "Ingresa tus datos para obtener un estimado de las calorías que tu cuerpo necesita para mantener un peso ideal.",
+            "snippet_highlighted_words": [
+                "calorías"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "huevos_kcal": 2,
+                        "total_kcal": 179,
+                        "jitomate_kcal": 1,
+                        "cebolla_kcal": 1
+                    },
+                    "extensions": [
+                        "2 huevos: 140 kcal",
+                        "Total: 179 kcal",
+                        "1/2 jitomate: 23 kcal",
+                        "1/4 cebolla: 12 kcal"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "Tabla calórica de alimentos: frutas, verduras y más (pdf incluído)",
+            "link": "https://www.foodspring.es/magazine/tabla-calorica",
+            "displayed_link": "https://www.foodspring.es › magazine › tabla-calorica",
+            "date": "9 mar 2022",
+            "snippet": "Tabla de calorías ▷ Valor calórico de frutas, verduras y más | Además explicamos qué son las calorías y alguos aspectos que deberías tener ...",
+            "snippet_highlighted_words": [
+                "calorías",
+                "calorías"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Qué son las calorías | Cuántas calorías debo consumir al día",
+            "link": "https://quaker.lat/pe/articulos/calorias-en-los-alimentos-cuantas-calorias-debo-consumir-al-dia/",
+            "displayed_link": "https://quaker.lat › Home › Nutrición y Salud",
+            "snippet": "Las calorías miden la energía que nos proporciona un alimento o una bebida a partir de los carbohidratos, las grasas, las proteínas y el alcohol que ...",
+            "snippet_highlighted_words": [
+                "calorías"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "Moderada: Personas que practican actividades ...",
+                        "Alta: Personas que diariamente andan largas ...",
+                        "Ligera: Personas que pasan varias horas al día ..."
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Hablar de calorías: tan absurdo como anticuado",
+            "link": "https://elcomidista.elpais.com/elcomidista/2021/03/04/articulo/1614847626_952592.html",
+            "displayed_link": "https://elcomidista.elpais.com › 2021/03/04 › articulo",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdsrlirO9s9T6TWOfvuI5JE3SZXfblPI2g5FP9M0e63oPA3UiaCr0&usqp=CAE&s",
+            "date": "16 mar 2021",
+            "snippet": "En él, un hombre hacía gala de un extraordinario don: calcular ipso facto el número exacto de calorías que tenía aquello que se le ponía delante ...",
+            "snippet_highlighted_words": [
+                "calorías"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "Caloría - Quimipedia",
+            "link": "https://www.vadequimica.com/quimipedia/c/caloria/",
+            "displayed_link": "https://www.vadequimica.com › quimipedia › caloria",
+            "snippet": "Cantidad de calor necesaria para elevar la temperatura de un gramo de agua pura en un grado centígrado a presion atmosférica."
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "caloría unidad",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Calor%C3%ADa+unidad&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ1QJ6BAg8EAE"
+        },
+        {
+            "query": "calorías diarias",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Calor%C3%ADas+diarias&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "caloría a julio",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Calor%C3%ADa+a+Julio&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "las calorías engordan",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Las+calor%C3%ADas+engordan&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "alimentos con muchas calorías malas",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Alimentos+con+muchas+calor%C3%ADas+malas&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "qué es una caloría y una kilocaloría",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Qu%C3%A9+es+una+calor%C3%ADa+y+una+kilocalor%C3%ADa&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "beneficios de las calorías",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Beneficios+de+las+calor%C3%ADas&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "que son las calorías y para que sirven",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Que+son+las+calor%C3%ADas+y+para+que+sirven&sa=X&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ1QJ6BAgpEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Calor%C3%ADa&gl=ES&hl=es&ei=sv98YpW4F8Kk_QbOv4KwDw&start=10&sa=N&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Calor%C3%ADa&gl=ES&hl=es&ei=sv98YpW4F8Kk_QbOv4KwDw&start=10&sa=N&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=Calor%C3%ADa&gl=ES&hl=es&ei=sv98YpW4F8Kk_QbOv4KwDw&start=20&sa=N&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=Calor%C3%ADa&gl=ES&hl=es&ei=sv98YpW4F8Kk_QbOv4KwDw&start=30&sa=N&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=Calor%C3%ADa&gl=ES&hl=es&ei=sv98YpW4F8Kk_QbOv4KwDw&start=40&sa=N&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=Calor%C3%ADa&gl=ES&hl=es&ei=sv98YpW4F8Kk_QbOv4KwDw&start=50&sa=N&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=Calor%C3%ADa&gl=ES&hl=es&ei=sv98YpW4F8Kk_QbOv4KwDw&start=60&sa=N&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=Calor%C3%ADa&gl=ES&hl=es&ei=sv98YpW4F8Kk_QbOv4KwDw&start=70&sa=N&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=Calor%C3%ADa&gl=ES&hl=es&ei=sv98YpW4F8Kk_QbOv4KwDw&start=80&sa=N&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=Calor%C3%ADa&gl=ES&hl=es&ei=sv98YpW4F8Kk_QbOv4KwDw&start=90&sa=N&ved=2ahUKEwiV2f6k_dn3AhVCUt8KHc6fAPYQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=20&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=30&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=40&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=50&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=60&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=70&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=80&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Calor%C3%ADa&start=90&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D"
+        }
+    }
+}

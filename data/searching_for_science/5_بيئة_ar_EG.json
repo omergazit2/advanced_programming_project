@@ -1,0 +1,332 @@
+{
+    "search_metadata": {
+        "id": "629e3d838cd8781729b5c1bf",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/553fe8242256e3c1/629e3d838cd8781729b5c1bf.json",
+        "created_at": "2022-06-06 17:46:43 UTC",
+        "processed_at": "2022-06-06 17:46:43 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&oq=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/553fe8242256e3c1/629e3d838cd8781729b5c1bf.html",
+        "total_time_taken": 1.04
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "بيئة",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "بيئة",
+        "total_results": 38700000,
+        "time_taken_displayed": 0.52
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=MmvlbGVrw_NwnM%252C1rHyoaYGun45aM%252C_%253BjsWBnjZmeAdAOM%252CIPF90ra1XhS0gM%252C_%253BbAnyrNiVW_gcyM%252CvAMHvMC4bKIWpM%252C_%253BGV2IKhGcOYe4bM%252C6dNONxBAsT0HmM%252C_%253BZ85NKe1CF7nRHM%252CQA_k3Li4dEhpIM%252C_%253Bo1EGdaflXrtdeM%252Cx95EVrI1J2UX2M%252C_%253BS53-iS7pgmYYmM%252Ciip-w6j6VqELsM%252C_%253BkXN1sSSf20gaFM%252CfQ5VfP0hFhfCRM%252C_%253B9ovKHiemqZCzoM%252CqVhaKHbOJXihxM%252C_%253BVfCuFC8rjgtbxM%252CGx3t8yVusnpg-M%252C_&usg=AI4_-kRcpCF7-pchQN-EmXE0g2p0bo7wLg&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ9QF6BAhCEAE#imgrc=MmvlbGVrw_NwnM",
+            "source": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpA7wXZuqJW832gPMc567Cgw8I-5m76TT-Y5W3JKtrOQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=MmvlbGVrw_NwnM%252C1rHyoaYGun45aM%252C_%253BjsWBnjZmeAdAOM%252CIPF90ra1XhS0gM%252C_%253BbAnyrNiVW_gcyM%252CvAMHvMC4bKIWpM%252C_%253BGV2IKhGcOYe4bM%252C6dNONxBAsT0HmM%252C_%253BZ85NKe1CF7nRHM%252CQA_k3Li4dEhpIM%252C_%253Bo1EGdaflXrtdeM%252Cx95EVrI1J2UX2M%252C_%253BS53-iS7pgmYYmM%252Ciip-w6j6VqELsM%252C_%253BkXN1sSSf20gaFM%252CfQ5VfP0hFhfCRM%252C_%253B9ovKHiemqZCzoM%252CqVhaKHbOJXihxM%252C_%253BVfCuFC8rjgtbxM%252CGx3t8yVusnpg-M%252C_&usg=AI4_-kRcpCF7-pchQN-EmXE0g2p0bo7wLg&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ9QF6BAhHEAE#imgrc=jsWBnjZmeAdAOM",
+            "source": "https://www.edarabia.com/ar/7-%D9%85%D9%86-%D8%A7%D9%87%D9%85-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AD%D9%81%D8%A7%D8%B8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%8A%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D8%AC%D9%84-%D8%A8%D9%8A%D8%A6%D8%A9-%D9%86%D8%B8%D9%8A%D9%81%D8%A9/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj3XJTp5bXy5yUwtTWL1tgUs4jo8DtZ_84A4h297hR9Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=MmvlbGVrw_NwnM%252C1rHyoaYGun45aM%252C_%253BjsWBnjZmeAdAOM%252CIPF90ra1XhS0gM%252C_%253BbAnyrNiVW_gcyM%252CvAMHvMC4bKIWpM%252C_%253BGV2IKhGcOYe4bM%252C6dNONxBAsT0HmM%252C_%253BZ85NKe1CF7nRHM%252CQA_k3Li4dEhpIM%252C_%253Bo1EGdaflXrtdeM%252Cx95EVrI1J2UX2M%252C_%253BS53-iS7pgmYYmM%252Ciip-w6j6VqELsM%252C_%253BkXN1sSSf20gaFM%252CfQ5VfP0hFhfCRM%252C_%253B9ovKHiemqZCzoM%252CqVhaKHbOJXihxM%252C_%253BVfCuFC8rjgtbxM%252CGx3t8yVusnpg-M%252C_&usg=AI4_-kRcpCF7-pchQN-EmXE0g2p0bo7wLg&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ9QF6BAhOEAE#imgrc=bAnyrNiVW_gcyM",
+            "source": "https://mawdoo3.com/%D9%83%D9%8A%D9%81_%D9%86%D8%AD%D8%A7%D9%81%D8%B8_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJUn1fmIno-v5Ql2YUuqg0PQHvHWScxkiQLUMp5ESiA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=MmvlbGVrw_NwnM%252C1rHyoaYGun45aM%252C_%253BjsWBnjZmeAdAOM%252CIPF90ra1XhS0gM%252C_%253BbAnyrNiVW_gcyM%252CvAMHvMC4bKIWpM%252C_%253BGV2IKhGcOYe4bM%252C6dNONxBAsT0HmM%252C_%253BZ85NKe1CF7nRHM%252CQA_k3Li4dEhpIM%252C_%253Bo1EGdaflXrtdeM%252Cx95EVrI1J2UX2M%252C_%253BS53-iS7pgmYYmM%252Ciip-w6j6VqELsM%252C_%253BkXN1sSSf20gaFM%252CfQ5VfP0hFhfCRM%252C_%253B9ovKHiemqZCzoM%252CqVhaKHbOJXihxM%252C_%253BVfCuFC8rjgtbxM%252CGx3t8yVusnpg-M%252C_&usg=AI4_-kRcpCF7-pchQN-EmXE0g2p0bo7wLg&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ9QF6BAhVEAE#imgrc=GV2IKhGcOYe4bM",
+            "source": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwDJOqItyb6Z7NihzFPL8qHTVpzxR8u-1gVydb1XR0og&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=MmvlbGVrw_NwnM%252C1rHyoaYGun45aM%252C_%253BjsWBnjZmeAdAOM%252CIPF90ra1XhS0gM%252C_%253BbAnyrNiVW_gcyM%252CvAMHvMC4bKIWpM%252C_%253BGV2IKhGcOYe4bM%252C6dNONxBAsT0HmM%252C_%253BZ85NKe1CF7nRHM%252CQA_k3Li4dEhpIM%252C_%253Bo1EGdaflXrtdeM%252Cx95EVrI1J2UX2M%252C_%253BS53-iS7pgmYYmM%252Ciip-w6j6VqELsM%252C_%253BkXN1sSSf20gaFM%252CfQ5VfP0hFhfCRM%252C_%253B9ovKHiemqZCzoM%252CqVhaKHbOJXihxM%252C_%253BVfCuFC8rjgtbxM%252CGx3t8yVusnpg-M%252C_&usg=AI4_-kRcpCF7-pchQN-EmXE0g2p0bo7wLg&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ9QF6BAhaEAE#imgrc=Z85NKe1CF7nRHM",
+            "source": "https://m.annabaa.org/arabic/rights/6358",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS21eEuOcgmicjRX9oZyX_4QSmuDEVz8ODBN-x0xx6M1A&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=MmvlbGVrw_NwnM%252C1rHyoaYGun45aM%252C_%253BjsWBnjZmeAdAOM%252CIPF90ra1XhS0gM%252C_%253BbAnyrNiVW_gcyM%252CvAMHvMC4bKIWpM%252C_%253BGV2IKhGcOYe4bM%252C6dNONxBAsT0HmM%252C_%253BZ85NKe1CF7nRHM%252CQA_k3Li4dEhpIM%252C_%253Bo1EGdaflXrtdeM%252Cx95EVrI1J2UX2M%252C_%253BS53-iS7pgmYYmM%252Ciip-w6j6VqELsM%252C_%253BkXN1sSSf20gaFM%252CfQ5VfP0hFhfCRM%252C_%253B9ovKHiemqZCzoM%252CqVhaKHbOJXihxM%252C_%253BVfCuFC8rjgtbxM%252CGx3t8yVusnpg-M%252C_&usg=AI4_-kRcpCF7-pchQN-EmXE0g2p0bo7wLg&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ9QF6BAheEAE#imgrc=o1EGdaflXrtdeM",
+            "source": "https://www.almrsal.com/post/737588",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYBgmJXXgAXwIJhfoQr72usaVtTAmHc1bmBoEBWUnmg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=MmvlbGVrw_NwnM%252C1rHyoaYGun45aM%252C_%253BjsWBnjZmeAdAOM%252CIPF90ra1XhS0gM%252C_%253BbAnyrNiVW_gcyM%252CvAMHvMC4bKIWpM%252C_%253BGV2IKhGcOYe4bM%252C6dNONxBAsT0HmM%252C_%253BZ85NKe1CF7nRHM%252CQA_k3Li4dEhpIM%252C_%253Bo1EGdaflXrtdeM%252Cx95EVrI1J2UX2M%252C_%253BS53-iS7pgmYYmM%252Ciip-w6j6VqELsM%252C_%253BkXN1sSSf20gaFM%252CfQ5VfP0hFhfCRM%252C_%253B9ovKHiemqZCzoM%252CqVhaKHbOJXihxM%252C_%253BVfCuFC8rjgtbxM%252CGx3t8yVusnpg-M%252C_&usg=AI4_-kRcpCF7-pchQN-EmXE0g2p0bo7wLg&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ9QF6BAhgEAE#imgrc=S53-iS7pgmYYmM",
+            "source": "https://alanbatnews.net/article/282477",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcb7pC8-0ONAbPXwZMkIJWmBCXxNr584-Qjkmt8JkJWQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=MmvlbGVrw_NwnM%252C1rHyoaYGun45aM%252C_%253BjsWBnjZmeAdAOM%252CIPF90ra1XhS0gM%252C_%253BbAnyrNiVW_gcyM%252CvAMHvMC4bKIWpM%252C_%253BGV2IKhGcOYe4bM%252C6dNONxBAsT0HmM%252C_%253BZ85NKe1CF7nRHM%252CQA_k3Li4dEhpIM%252C_%253Bo1EGdaflXrtdeM%252Cx95EVrI1J2UX2M%252C_%253BS53-iS7pgmYYmM%252Ciip-w6j6VqELsM%252C_%253BkXN1sSSf20gaFM%252CfQ5VfP0hFhfCRM%252C_%253B9ovKHiemqZCzoM%252CqVhaKHbOJXihxM%252C_%253BVfCuFC8rjgtbxM%252CGx3t8yVusnpg-M%252C_&usg=AI4_-kRcpCF7-pchQN-EmXE0g2p0bo7wLg&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ9QF6BAhhEAE#imgrc=kXN1sSSf20gaFM",
+            "source": "https://www.edarabia.com/ar/5-%D8%A3%D9%85%D9%88%D8%B1-%D9%87%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%AD%D9%81%D8%A7%D8%B8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjWdP9Fxmrdqrl9CyJkRJT0eQWf3R_9ERZt_Y2LZOUzg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=MmvlbGVrw_NwnM%252C1rHyoaYGun45aM%252C_%253BjsWBnjZmeAdAOM%252CIPF90ra1XhS0gM%252C_%253BbAnyrNiVW_gcyM%252CvAMHvMC4bKIWpM%252C_%253BGV2IKhGcOYe4bM%252C6dNONxBAsT0HmM%252C_%253BZ85NKe1CF7nRHM%252CQA_k3Li4dEhpIM%252C_%253Bo1EGdaflXrtdeM%252Cx95EVrI1J2UX2M%252C_%253BS53-iS7pgmYYmM%252Ciip-w6j6VqELsM%252C_%253BkXN1sSSf20gaFM%252CfQ5VfP0hFhfCRM%252C_%253B9ovKHiemqZCzoM%252CqVhaKHbOJXihxM%252C_%253BVfCuFC8rjgtbxM%252CGx3t8yVusnpg-M%252C_&usg=AI4_-kRcpCF7-pchQN-EmXE0g2p0bo7wLg&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ9QF6BAhiEAE#imgrc=9ovKHiemqZCzoM",
+            "source": "https://sst5.com/readArticle.aspx?ArtID=1497&SecID=76",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpzA6HAtt4EwAvKAopSw3fCUFpjUb4BP9Jo2iUt65C2Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=MmvlbGVrw_NwnM%252C1rHyoaYGun45aM%252C_%253BjsWBnjZmeAdAOM%252CIPF90ra1XhS0gM%252C_%253BbAnyrNiVW_gcyM%252CvAMHvMC4bKIWpM%252C_%253BGV2IKhGcOYe4bM%252C6dNONxBAsT0HmM%252C_%253BZ85NKe1CF7nRHM%252CQA_k3Li4dEhpIM%252C_%253Bo1EGdaflXrtdeM%252Cx95EVrI1J2UX2M%252C_%253BS53-iS7pgmYYmM%252Ciip-w6j6VqELsM%252C_%253BkXN1sSSf20gaFM%252CfQ5VfP0hFhfCRM%252C_%253B9ovKHiemqZCzoM%252CqVhaKHbOJXihxM%252C_%253BVfCuFC8rjgtbxM%252CGx3t8yVusnpg-M%252C_&usg=AI4_-kRcpCF7-pchQN-EmXE0g2p0bo7wLg&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ9QF6BAhjEAE#imgrc=VfCuFC8rjgtbxM",
+            "source": "https://mqaall.com/a-title-for-an-environmental-search/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0WWazU5P7jvMK2x0iOHu2THK-Eyzx0TMZ01wD8uH8Jg&s"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "يوم البيئة العالمي محطة كبرى في برامج وفعاليات وأنشطة \"بيئة ومحميات الشارقة\"",
+            "link": "https://www.albawaba.com/ar/%D8%A3%D8%B9%D9%85%D8%A7%D9%84/pr/%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%85%D8%AD%D8%B7%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%81%D9%8A-%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D9%88%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D8%A3%D9%86%D8%B4%D8%B7%D8%A9-%D8%A8%D9%8A%D8%A6%D8%A9-%D9%88%D9%85%D8%AD%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9-1479500",
+            "source": "‪Al Bawaba‬‏",
+            "date": "قبل 10 ساعات",
+            "thumbnail": "https://serpapi.com/searches/629e3d838cd8781729b5c1bf/images/844b6eca8f487990c20892b8b6912bff5eab7fa2ef846616.jpeg"
+        },
+        {
+            "title": "الرئيس التنفيذي لمجموعة إمداد يدعو لنشر ثقافة الاحتفاء بيوم البيئة العالمي",
+            "link": "https://www.albawaba.com/ar/%D8%A3%D8%B9%D9%85%D8%A7%D9%84/pr/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A5%D9%85%D8%AF%D8%A7%D8%AF-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D9%86%D8%B4%D8%B1-%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D8%A1-%D8%A8%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-1479546",
+            "source": "‪Al Bawaba‬‏",
+            "date": "قبل 9 ساعات",
+            "thumbnail": "https://serpapi.com/searches/629e3d838cd8781729b5c1bf/images/844b6eca8f4879905526182f12aa7ce648561b7ab7600df5.jpeg"
+        },
+        {
+            "title": "هل السيارات الكهربائية أفضل للبيئة؟ الأرقام تجيب",
+            "link": "https://www.dw.com/ar/%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A3%D9%81%D8%B6%D9%84-%D9%84%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%AA%D8%AC%D9%8A%D8%A8/a-62032641",
+            "source": "‪DW‬‏",
+            "date": "قبل 12 ساعة",
+            "thumbnail": "https://serpapi.com/searches/629e3d838cd8781729b5c1bf/images/844b6eca8f487990479e633fa046e7b1e9a1e3be56a57ad7.jpeg"
+        },
+        {
+            "title": "تقرير يرصد أبرز الجهود الوطنية لحماية الحق فى بيئة صحية وسليمة",
+            "link": "https://www.youm7.com/story/2022/6/4/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D8%B1%D8%B5%D8%AF-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%82-%D9%81%D9%89-%D8%A8%D9%8A%D8%A6%D8%A9-%D8%B5%D8%AD%D9%8A%D8%A9/5788348",
+            "source": "اليوم السابع",
+            "date": "قبل يوم واحد",
+            "thumbnail": "https://serpapi.com/searches/629e3d838cd8781729b5c1bf/images/844b6eca8f487990a3058a6f854eadc56b948ac3c535dae1.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQt8YBegQIBxAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&tbm=nws",
+    "related_questions": [
+        {
+            "question": "ما هو المقصود بالبيئة؟",
+            "snippet": "هو إجمالي الأشياء التي تحيط بنا وتؤثر علي وجود الكائنات الحية على سطح الأرض متضمنة الماء والهواء والتربة والمعادن والمناخ والكائنات أنفسهم، كما يمكن وصفها بأنها مجموعة من الأنظمة المتشابكة مع بعضها البعض لدرجة التعقيد والتي تؤثر وتحدد بقائنا في هذا العالم الصغير والتي نتعامل معها بشكل دوري\".",
+            "title": "تعريف البيئة - محافظة القاهرة",
+            "link": "http://www.cairo.gov.eg/ar/Imp%20Information/The_Environment/Pages/disb.aspx?ID=5",
+            "displayed_link": "http://www.cairo.gov.eg › Pages › disb"
+        },
+        {
+            "question": "ما هي أنواع البيئة؟",
+            "snippet": "يوجد نوعان من البيئة: 1- بيئة مادية (الهواء - الماء - الأرض). 2- بيئة بيولوجية (النباتات - الحيوانات - الإنسان).",
+            "title": "تعريف البيئة .. ضرورة للحفاظ عليها - Feedo.net",
+            "link": "https://www.feedo.net/Environment/Ecology/DefinitionOfEnvironment.htm",
+            "displayed_link": "https://www.feedo.net › DefinitionOfEnvironment"
+        },
+        {
+            "question": "هل البيئة هي الطبيعة؟",
+            "snippet": "البيئة هي الطبيعة ،بما فيها من أحياء وغير أحياء أي العالم من حولنا فوق الأرض.",
+            "title": "بيئة - المعرفة",
+            "link": "https://www.marefa.org/%D8%A8%D9%8A%D8%A6%D8%A9/simplified",
+            "displayed_link": "https://www.marefa.org › بيئة › simplified"
+        },
+        {
+            "question": "ما معنى بيئة طبيعية؟",
+            "snippet": "– البيئة الطبيعية: – وهي عبارة عن المظاهر التي لا دخل للإنسان في وجودها أو استخدامها ومن مظاهرها: الصحراء، البحار، المناخ، التضاريس، والماء السطحي، والجوفي والحياة النباتية والحيوانية. والبيئة الطبيعية ذات تأثير مباشر أو غير مباشر في حياة أية جماعة حية Population من نبات أو حيوان أو إنسان.",
+            "title": "البيئة ومفهومها وعلاقتها بالإنسان - دراسات وأبحاث",
+            "link": "https://www.env-news.com/in-depth/studies-researches/36/%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D9%88%D9%85%D9%81%D9%87%D9%88%D9%85%D9%87%D8%A7-%D9%88%D8%B9%D9%84%D8%A7%D9%82%D8%AA%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86.html",
+            "displayed_link": "https://www.env-news.com › in-depth › studies-researches"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "بيئة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A6%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › بيئة",
+            "thumbnail": "https://serpapi.com/searches/629e3d838cd8781729b5c1bf/images/ea81e6456ea853a43e4dd028876343feb08bc802bacc018c99f4d9f319bbd4c8.jpeg",
+            "snippet": "البيئة لغة: المنزل والحال، وهي لفظة شائعة الاستخدام يرتبط مدلولها بنمط العلاقة بينها وبين مستخدمها فنقول:- البيئة الزراعية، والبيئة الصناعية، والبيئة ...",
+            "snippet_highlighted_words": [
+                "البيئة",
+                "البيئة",
+                "والبيئة",
+                "والبيئة"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "بيئة طبيعية",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A6%D8%A9_%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9"
+                    },
+                    {
+                        "title": "علم البيئة",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9"
+                    },
+                    {
+                        "title": "بيئة (فيزياء حيوية)",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A6%D8%A9_(%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1_%D8%AD%D9%8A%D9%88%D9%8A%D8%A9)"
+                    },
+                    {
+                        "title": "بيئة حضرية",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A6%D8%A9_%D8%AD%D8%B6%D8%B1%D9%8A%D8%A9"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "بيئة طبيعية - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A6%D8%A9_%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › بيئة_طبيعية",
+            "thumbnail": "https://serpapi.com/searches/629e3d838cd8781729b5c1bf/images/ea81e6456ea853a43e4dd028876343fea2593d2c248d007614f51128113a7c9c.jpeg",
+            "snippet": "البيئة الطبيعية تشمل جميع الكائنات الحية، والعناصر غير الحية، التي توجد على كوكب الأرض بشكل طبيعي، ويمكن تمييز البيئة الطبيعية/ من خلال احتوائها على العناصر ...",
+            "snippet_highlighted_words": [
+                "البيئة",
+                "البيئة"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Home - BEEAH Group | UAE",
+            "link": "https://www.beeahgroup.com/ar/",
+            "displayed_link": "https://www.beeahgroup.com › ...",
+            "thumbnail": "https://serpapi.com/searches/629e3d838cd8781729b5c1bf/images/ea81e6456ea853a43e4dd028876343feb87da040f0a5d821b46b35c3459a5a48.jpeg",
+            "snippet": "هي مجموعة رائدة مقرها بالشارقة تأسست عام 2007 بنظام الشراكة ما بين القطاعين العام والخاص وتُعنى بطرح حلول مبتكرة في قطاع الاستدامة. تطورت “بيئة” كثيراً حتى ...",
+            "snippet_highlighted_words": [
+                "بيئة"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "تواصل معنا",
+                        "link": "https://www.beeahgroup.com/ar/contact-us/"
+                    },
+                    {
+                        "title": "من نحن",
+                        "link": "https://www.beeahgroup.com/ar/about-us/"
+                    },
+                    {
+                        "title": "بيئة للطاقة",
+                        "link": "https://www.beeahgroup.com/ar/services/beeah-energy/"
+                    },
+                    {
+                        "title": "بيئة لإعادة التدوير",
+                        "link": "https://www.beeahgroup.com/ar/services/beeah-recycling/"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "عن مجموعة بيئة - BEEAH Group",
+            "link": "https://www.beeahgroup.com/ar/about-us/",
+            "displayed_link": "https://www.beeahgroup.com › about-us",
+            "snippet": "تعتبر “بيئة”، هي المجموعة الرائدة في مجال الاستدامة بالمنطقة ولديها عدد من الشركات التابعة المعروفة بابتكاراتها البيئية وحلولها الذكية لمدن المستقبل.",
+            "snippet_highlighted_words": [
+                "بيئة"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "وزارة البيئة - جهاز شئون البيئة > الرئيسية",
+            "link": "https://www.eeaa.gov.eg/",
+            "displayed_link": "https://www.eeaa.gov.eg",
+            "snippet": "توجهت اليوم الدكتورة ياسمين فؤاد وزيرة البيئة إلى محافظة الوادي الجديد لاعلان مدينة الخارجة مدينة صديقة للبيئة والمناخ ضمن احتفالات يوم البيئة العالمى ...",
+            "snippet_highlighted_words": [
+                "البيئة",
+                "للبيئة",
+                "البيئة"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "تعريف البيئة .. ضرورة للحفاظ عليها - Feedo.net",
+            "link": "https://www.feedo.net/Environment/Ecology/DefinitionOfEnvironment.htm",
+            "displayed_link": "https://www.feedo.net › DefinitionOfEnvironment",
+            "snippet": "مصطلح البيئة \"Environment\" جاء من المصطلح الفرنسي \"Environia\" ومعناه \"يحيط\".. ومصطلح البيئة يشمل كل ما هو حى وغير حى وكلمة البيئة تعنى \"ما يحيط\". البيئة ...",
+            "snippet_highlighted_words": [
+                "البيئة",
+                "Environment",
+                "البيئة",
+                "البيئة",
+                "البيئة"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "تعريف البيئة - محافظة القاهرة",
+            "link": "http://www.cairo.gov.eg/ar/Imp%20Information/The_Environment/Pages/disb.aspx?ID=5",
+            "displayed_link": "http://www.cairo.gov.eg › Pages › disb",
+            "snippet": "هل يمكننا تصنيف أنواع البيئة؟ يوجد نوعان من البيئة: 1- بيئة مادية (الهواء - الماء - الأرض). 2- ...",
+            "snippet_highlighted_words": [
+                "البيئة",
+                "البيئة",
+                "بيئة"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "بيئة بالانجليزي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A8%D9%8A%D8%A6%D8%A9+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "أهمية البيئة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A3%D9%87%D9%85%D9%8A%D8%A9+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "البيئة الطبيعية",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9+%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ1QJ6BAguEAE"
+        },
+        {
+            "query": "البيئة pdf",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9+pdf&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "معلومات عن البيئة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA+%D8%B9%D9%86+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "أنواع البيئة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "مكونات البيئة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ1QJ6BAg8EAE"
+        },
+        {
+            "query": "مفهوم البيئة للأطفال",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D9%81%D9%87%D9%88%D9%85+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9+%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84&sa=X&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ1QJ6BAg-EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&ei=gz2eYq-mC4jcqtsP0-20uAI&start=10&sa=N&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ8NMDegQIAxBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&ei=gz2eYq-mC4jcqtsP0-20uAI&start=10&sa=N&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ8tMDegQIAxA_",
+            "3": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&ei=gz2eYq-mC4jcqtsP0-20uAI&start=20&sa=N&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ8tMDegQIAxBB",
+            "4": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&ei=gz2eYq-mC4jcqtsP0-20uAI&start=30&sa=N&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ8tMDegQIAxBD",
+            "5": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&ei=gz2eYq-mC4jcqtsP0-20uAI&start=40&sa=N&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ8tMDegQIAxBF",
+            "6": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&ei=gz2eYq-mC4jcqtsP0-20uAI&start=50&sa=N&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ8tMDegQIAxBH",
+            "7": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&ei=gz2eYq-mC4jcqtsP0-20uAI&start=60&sa=N&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ8tMDegQIAxBJ",
+            "8": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&ei=gz2eYq-mC4jcqtsP0-20uAI&start=70&sa=N&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ8tMDegQIAxBL",
+            "9": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&ei=gz2eYq-mC4jcqtsP0-20uAI&start=80&sa=N&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ8tMDegQIAxBN",
+            "10": "https://www.google.com/search?q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&hl=ar&gl=eg&ei=gz2eYq-mC4jcqtsP0-20uAI&start=90&sa=N&ved=2ahUKEwjv8-vwsJn4AhUIrmoFHdM2DScQ8tMDegQIAxBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D9%8A%D9%94%D8%A9&start=90"
+        }
+    }
+}

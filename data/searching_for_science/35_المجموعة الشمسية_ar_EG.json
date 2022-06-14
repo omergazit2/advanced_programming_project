@@ -1,0 +1,344 @@
+{
+    "search_metadata": {
+        "id": "629e3cfe351764276b28bfad",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/06f9c0b40a4e8e98/629e3cfe351764276b28bfad.json",
+        "created_at": "2022-06-06 17:44:30 UTC",
+        "processed_at": "2022-06-06 17:44:30 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&oq=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/06f9c0b40a4e8e98/629e3cfe351764276b28bfad.html",
+        "total_time_taken": 0.81
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "المجموعة الشمسية",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "المجموعة الشمسية",
+        "total_results": 3550000,
+        "time_taken_displayed": 0.56
+    },
+    "knowledge_graph": {
+        "title": "المجموعة الشمسية",
+        "type": "نظام نجمي",
+        "header_images": [
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9"
+            },
+            {
+                "source": "https://www.youtube.com/watch?v=NKEljw1hSFc"
+            },
+            {
+                "source": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9"
+            },
+            {
+                "source": "https://www.twinkl.co.uk/resource/-ar-sc-114"
+            },
+            {
+                "source": "https://lilazkia.com/%D9%83%D9%88%D8%A7%D9%83%D8%A8-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B3%D8%B9%D8%A9/"
+            },
+            {
+                "source": "https://doc.aljazeera.net/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%B3%D8%A8/"
+            }
+        ],
+        "description": "النظام الشمسي أو المجموعة الشمسية أو المنظومة الشمسية هي النظام الكوكبي الذي يتكون من الشمس وجميع ما يَدور حولها من أجرام بما في ذلك الأرض والكواكب الأخرى. يَشمل النظام الشمسي أجراماً أخرى أصغر حجماً هي الكواكب القزمة والكويكبات والنيازك والمذنبات، إضافة إلى سحابة رقيقة من الغاز والغبار تعرف بالوسط بين الكوكبي.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9"
+        },
+        "العمر": "4.571E9 من السنوات",
+        "العمر_links": [
+            {
+                "text": "العمر",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9+%D8%A7%D9%84%D8%B9%D9%85%D8%B1&stick=H4sIAAAAAAAAAOPgE-LQz9U3MCswTddSyk620k8sLinKz8vPrdRPTs1JLS7JTMyJz0_KSk0usUpMT13EqnVj-c2Wm6031txsvdlxY-eNlQoggRtbgEKbb3bBuDuB3I0AIyhKjV0AAAA&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ6BMoAHoECEcQAg"
+            }
+        ],
+        "بحوث_ذات_صلة": [
+            {
+                "name": "المشتري",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%89&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZkHB4Ii2Lz_xMUWcSS2nXKqF73ziE1eDMkjxSSS5aZK9pyHgeH5GQS2Ug0YINYovEcXd4e0Ln8tfDvAHrct7nS9N1ePjarsPFhiRZpHlRc2ZslCebjBV7Wa8pEhbqXQxY0wAkbWR16kAi9sKOpqZRz-F0I_XSDpUn0nMLmG2lPBlLbT1jdaNosjI_ulhWh6hJrLh_f-6grlh82DZd3p6x0boRdem2SqhG9JrFXlUMcqy_1lfgLCUHtiuSq2agZogOXl3qw%3D&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQxA16BAhOEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%89&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZkHB4Ii2Lz_xMUWcSS2nXKqF73ziE1eDMkjxSSS5aZK9pyHgeH5GQS2Ug0YINYovEcXd4e0Ln8tfDvAHrct7nS9N1ePjarsPFhiRZpHlRc2ZslCebjBV7Wa8pEhbqXQxY0wAkbWR16kAi9sKOpqZRz-F0I_XSDpUn0nMLmG2lPBlLbT1jdaNosjI_ulhWh6hJrLh_f-6grlh82DZd3p6x0boRdem2SqhG9JrFXlUMcqy_1lfgLCUHtiuSq2agZogOXl3qw%3D",
+                "image": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/75c43dfdfd3f35fb62896a73e151bd8828d61a32113fe5d2b2c80dbd9189594b2c40a7384cdd85333e26fc632d7d79d0.jpeg"
+            },
+            {
+                "name": "الشمس",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%B4%D9%85%D8%B3&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdf-t2qMyA0Jcyq9KU_UnhN-8r6MxRpPoIGQMguTiPwa5NpVWokHTZyfJpdyKAfOUt9LPL0CesOIF3RpBwZ20sEkghedNR92ONeuNueZS64drMTgnU0UWbAL_VOttUYeO5awIehXu6MRlXMrvmHUQUpw17e3aWQPYep9ZWipCGuUZsu-O1U_YkV3OCBerfRrleq6q9PGBxQlWQJqzyanV0Tfo9xroZBviB0LQDaGAhwIPjuB3hiiJjQfbFtxZLAiJSdylO3g%3D&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQxA16BAhOEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%B4%D9%85%D8%B3&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdf-t2qMyA0Jcyq9KU_UnhN-8r6MxRpPoIGQMguTiPwa5NpVWokHTZyfJpdyKAfOUt9LPL0CesOIF3RpBwZ20sEkghedNR92ONeuNueZS64drMTgnU0UWbAL_VOttUYeO5awIehXu6MRlXMrvmHUQUpw17e3aWQPYep9ZWipCGuUZsu-O1U_YkV3OCBerfRrleq6q9PGBxQlWQJqzyanV0Tfo9xroZBviB0LQDaGAhwIPjuB3hiiJjQfbFtxZLAiJSdylO3g%3D",
+                "image": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/75c43dfdfd3f35fb62896a73e151bd8828d61a32113fe5d2b2c80dbd9189594ba2c2a032de97db9bdf244fe01e02f1fe.jpeg"
+            },
+            {
+                "name": "عطارد",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B9%D8%B7%D8%A7%D8%B1%D8%AF&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZCvwB5gWzk_PbVMMP0O8E4B6t1uNCTS_-qiO6-oPtOpggcpuUZvTuhcZsW0Jk1N6VG100XjhlSWQeDgsGwXtV_M42l71roIHpjovjef4TFUSy91fwNbnSDYh2sTl-KGzTK1W7ldctBCr-o63HNiR_g5WfvIt42iD_YENUAi7PA7Nf5Bb8XIy8Y1F24PLmp9p7SqAS-DhgZywjAN9f_NpQWoL28XWerfkFPfvUyivBGXjNkFanZFqDpZ8OfOmq0sX2L5XNY%3D&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQxA16BAhOEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D8%B7%D8%A7%D8%B1%D8%AF&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZCvwB5gWzk_PbVMMP0O8E4B6t1uNCTS_-qiO6-oPtOpggcpuUZvTuhcZsW0Jk1N6VG100XjhlSWQeDgsGwXtV_M42l71roIHpjovjef4TFUSy91fwNbnSDYh2sTl-KGzTK1W7ldctBCr-o63HNiR_g5WfvIt42iD_YENUAi7PA7Nf5Bb8XIy8Y1F24PLmp9p7SqAS-DhgZywjAN9f_NpQWoL28XWerfkFPfvUyivBGXjNkFanZFqDpZ8OfOmq0sX2L5XNY%3D",
+                "image": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/75c43dfdfd3f35fb62896a73e151bd8828d61a32113fe5d2b2c80dbd9189594ba73fa6dc96f547acbb696c36f84b0c11.jpeg"
+            },
+            {
+                "name": "بلوتو",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A8%D9%84%D9%88%D8%AA%D9%88&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddNHXSW_98BSmGGmFXCW9aZaekxZ4HOZ3oXnXpVOcCe5IItdWN5-WQW9Kjax2o2T2QXPyQwl2giVdh-zs974VquBA_tf5mthnB8BUJItdrxt7B9zemek1v26cGQzQKoi3mX_n5sP26gog8bUzNZq-tkFKiAbjpwB8lm6w9_V1OnxmREFUDQDck-j7j8BxQhOpwvB7ilSGltjc-H7A4NAtHZ6CkuZpw5dtiMZVuqwT2UmNSjQ1uQHbj_orb-Ykk2mn1g1Ng4%3D&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQxA16BAhOEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D9%84%D9%88%D8%AA%D9%88&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddNHXSW_98BSmGGmFXCW9aZaekxZ4HOZ3oXnXpVOcCe5IItdWN5-WQW9Kjax2o2T2QXPyQwl2giVdh-zs974VquBA_tf5mthnB8BUJItdrxt7B9zemek1v26cGQzQKoi3mX_n5sP26gog8bUzNZq-tkFKiAbjpwB8lm6w9_V1OnxmREFUDQDck-j7j8BxQhOpwvB7ilSGltjc-H7A4NAtHZ6CkuZpw5dtiMZVuqwT2UmNSjQ1uQHbj_orb-Ykk2mn1g1Ng4%3D",
+                "image": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/75c43dfdfd3f35fb62896a73e151bd8828d61a32113fe5d2b2c80dbd9189594bfabbfcb2ba58bfa7582d08d5da982d25.jpeg"
+            }
+        ],
+        "بحوث_ذات_صلة_link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7QEgzNTUssTK4v9UitKgktSC4oXscrfWH6z5WbrjTU3W2923Nh5Y6UCSODGFqDQ5ptdN1buYGUEANImgwNOAAAA&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQMSgAegQIThAB",
+        "بحوث_ذات_صلة_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7QEgzNTUssTK4v9UitKgktSC4oXscrfWH6z5WbrjTU3W2923Nh5Y6UCSODGFqDQ5ptdN1buYGUEANImgwNOAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "حقائق مذهلة عن المجموعة الشمسية",
+            "link": "https://www.youtube.com/watch?v=8_TVVIxib0k",
+            "thumbnail": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/7f07bdb780fdc5a7664337293f1702dc4c9066c9030851b82b4eb8ad46192093.jpeg",
+            "channel": "عشوائيات",
+            "duration": "10:30",
+            "platform": "YouTube",
+            "date": "06‏/09‏/2020"
+        },
+        {
+            "position": 2,
+            "title": "المجموعة الشمسية",
+            "link": "https://www.youtube.com/watch?v=BIZTeHkHntY",
+            "thumbnail": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/7f07bdb780fdc5a7f52fd803f353f2e90cabf5befb056f4419985ea5f48bc23f.jpeg",
+            "channel": "عشوائيات",
+            "duration": "4:43",
+            "platform": "YouTube",
+            "date": "24‏/08‏/2016"
+        },
+        {
+            "position": 3,
+            "title": "تعليم كواكب المجموعة الشمسية للأطفال - النظام الشمسي مع الصور ...",
+            "link": "https://www.youtube.com/watch?v=NKEljw1hSFc",
+            "thumbnail": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/7f07bdb780fdc5a7d852adcc86baca71a867807d8d389f52452ea3e60027ba6f.jpeg",
+            "channel": "رياض الأطفال",
+            "duration": "6:24",
+            "platform": "YouTube",
+            "date": "16‏/01‏/2019"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "خطر جديد.. الأرض يمكن أن تخرج من المجموعة الشمسية بسبب نجم شارد",
+            "link": "https://alwan.elwatannews.com/news/details/6126748/%D8%AE%D8%B7%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D8%AA%D8%AE%D8%B1%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%86%D8%AC%D9%85-%D8%B4%D8%A7%D8%B1%D8%AF",
+            "source": "ألوان",
+            "date": "قبل 15 ساعة",
+            "thumbnail": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/34b05bb33b78a2d4d11823ff5783050ac5801da7ce6f6b2b.jpeg"
+        },
+        {
+            "title": "لقبوه بـ «الأرض الفائقة».. اكتشاف كوكب خارج المجموعة الشمسية بمنطقة صالحة للسكن - المصري لايت",
+            "link": "https://lite.almasryalyoum.com/box/275616/",
+            "source": "المصري لايت",
+            "date": "قبل 22 ساعة",
+            "thumbnail": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/34b05bb33b78a2d4168a316e45389171ebcc0f22fcd9eb23.jpeg"
+        },
+        {
+            "title": "دراسة 18 نيزكا حديديا تكشف عن التاريخ السحيق للمجموعة الشمسية",
+            "link": "https://www.aljazeera.net/news/science/2022/6/3/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-18-%D9%86%D9%8A%D8%B2%D9%83-%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A-%D8%AA%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE",
+            "source": "الجزيرة نت",
+            "date": "قبل 3 أيام",
+            "thumbnail": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/34b05bb33b78a2d44663176d9463b2f34623c59c51d14569.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQt8YBegQIIhAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&tbm=nws",
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "المجموعة الشمسية - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › المجموعة_الشمسية",
+            "thumbnail": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/97b1d12d65153dde86385a9ef19fc4d236039a5df5539b6389f85de49a4239d0.jpeg",
+            "snippet": "النظام الشمسي أو المجموعة الشمسية أو المنظومة الشمسية هي النظام الكوكبي الذي يتكون من الشمس وجميع ما يَدور حولها من أجرام بما في ذلك الأرض والكواكب الأخرى.",
+            "snippet_highlighted_words": [
+                "المجموعة الشمسية"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "كوكب",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%83%D8%A8"
+                    },
+                    {
+                        "title": "تشكل وتطور المجموعة الشمسية",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D9%83%D9%84_%D9%88%D8%AA%D8%B7%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9"
+                    },
+                    {
+                        "title": "كوكب خارج المجموعة الشمسية",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%83%D8%A8_%D8%AE%D8%A7%D8%B1%D8%AC_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9"
+                    },
+                    {
+                        "title": "عملاق غازي",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%84%D8%A7%D9%82_%D8%BA%D8%A7%D8%B2%D9%8A"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "بوابة:المجموعة الشمسية - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › بوابة:المجموعة_الشمسية",
+            "thumbnail": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/97b1d12d65153dde86385a9ef19fc4d28b13f1a40e2f91d8fd04a0464e9d2709.jpeg",
+            "snippet": "النظام الشمسي أو المجموعة الشمسية هي النظام الكوكبي الذي يتكون من الشمس وجميع ما يَدور حولها من أجرام بما في ذلك الأرض والكواكب الأخرى.",
+            "snippet_highlighted_words": [
+                "المجموعة الشمسية"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "ما هي كواكب المجموعة الشمسية - موضوع",
+            "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9",
+            "displayed_link": "https://mawdoo3.com › تعليم › المجموعة الشمسية",
+            "snippet": "كواكب المجموعة الشمسية · كوكب عطارد · كوكب الزُّهرة · كوكب الأرض · كوكب المريخ · كوكب المشتري · كوكب زحل · كوكب أورانوس · كوكب نبتون.",
+            "snippet_highlighted_words": [
+                "المجموعة الشمسية"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "١ كواكب المجموعة الشمسية",
+                        "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9#.D9.83.D9.88.D8.A7.D9.83.D8.A8_.D8.A7.D9.84.D9.85.D8.AC.D9.85.D9.88.D8.B9.D8.A9_.D8.A7.D9.84.D8.B4.D9.85.D8.B3.D9.8A.D8.A9"
+                    },
+                    {
+                        "title": "١.٥ كوكب المشتري",
+                        "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9#.D9.83.D9.88.D9.83.D8.A8_.D8.A7.D9.84.D9.85.D8.B4.D8.AA.D8.B1.D9.8A"
+                    },
+                    {
+                        "title": "١.٦ كوكب زحل",
+                        "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9#.D9.83.D9.88.D9.83.D8.A8_.D8.B2.D8.AD.D9.84"
+                    },
+                    {
+                        "title": "٢ الكواكب القزمة",
+                        "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9#.D8.A7.D9.84.D9.83.D9.88.D8.A7.D9.83.D8.A8_.D8.A7.D9.84.D9.82.D8.B2.D9.85.D8.A9"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "المجموعة الشمسية | منوعات | DW | 09.12.2021 - DW",
+            "link": "https://www.dw.com/ar/%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9/t-38079020",
+            "displayed_link": "https://www.dw.com › المجموعة-الشمسية",
+            "thumbnail": "https://serpapi.com/searches/629e3cfe351764276b28bfad/images/97b1d12d65153dde86385a9ef19fc4d2ee5991a851e7cc10e84d966f999a616a.jpeg",
+            "snippet": "تشكل المجموعة الشمسية النظام الكوكبي الذي يتكون من الشمس وجميع ما يَدور حولها من أجرام بما في ذلك الأرض. ويَشمل النظام الشمسي أجراماً أخرى ...",
+            "snippet_highlighted_words": [
+                "المجموعة الشمسية"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٩‏/١٢‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "مجموعة شمسية - المعرفة",
+            "link": "https://www.marefa.org/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%B4%D9%85%D8%B3%D9%8A%D8%A9/simplified",
+            "displayed_link": "https://www.marefa.org › مجموعة_شمسية › simplified",
+            "snippet": "وتتكون المجموعة الشمسية من نجم واحد وهو الشمس، ويدور حولها 8 كواكب حيث يدور حولها أكثر من مائة قمر، وعدد لاحصر له من الأجسام الصغيرة كالكويبات والمذنبات. وتوجد ...",
+            "snippet_highlighted_words": [
+                "المجموعة الشمسية"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "لماذا توجد جميع كواكب المجموعة الشمسية في المستوي نفسه؟ | علوم",
+            "link": "https://www.aljazeera.net/news/science/2021/9/27/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%88%D8%AC%D8%AF-%D8%AC%D9%85%D9%8A%D8%B9-%D9%83%D9%88%D8%A7%D9%83%D8%A8-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9",
+            "displayed_link": "https://www.aljazeera.net › news › science › لماذا-توجد-...",
+            "snippet": "إذا سبق لك النظر إلى النظام الشمسي، فربما لاحظت أن الشمس والكواكب والأقمار والكويكبات تقع تقريبا على نفس المستوى رغم أن الكون الذي حولنا ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "‏‏": 27
+                    },
+                    "extensions": [
+                        "27‏/09‏/2021",
+                        "تم التحديث بواسطة minutephysics"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "المجموعة الشمسية - اليوم السابع",
+            "link": "https://www.youm7.com/Tags/index?id=23896&tag=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9%20%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9",
+            "displayed_link": "https://www.youm7.com › Tags › tag=المجموعة الشمسية",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTeJbRhMjf4quHiP-zfRdcU3Fap-JkeDWGVgtZB4hkffRjQJ0x_70u&usqp=CAE&s",
+            "snippet": "المجموعة الشمسية. العلماء يكتشفون كوكبًا خارج المجموعة الشمسية أكبر بأربع مرات من كوكبنا الإثنين، 06 يونيو 2022 04:00 ص ...",
+            "snippet_highlighted_words": [
+                "المجموعة الشمسية",
+                "المجموعة الشمسية"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "المجموعة الشمسية بالترتيب",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "المجموعة الشمسية pdf",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9+pdf&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "تتكون المجموعة الشمسية من",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%AA%D9%83%D9%88%D9%86+%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9+%D9%85%D9%86&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "درس المجموعة الشمسية",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AF%D8%B1%D8%B3+%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "المجموعة الشمسية للاطفال",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9+%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "عدد كواكب المجموعة الشمسية",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B9%D8%AF%D8%AF+%D9%83%D9%88%D8%A7%D9%83%D8%A8+%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ1QJ6BAglEAE"
+        },
+        {
+            "query": "مقارنة بين كواكب المجموعة الشمسية",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9+%D8%A8%D9%8A%D9%86+%D9%83%D9%88%D8%A7%D9%83%D8%A8+%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "بحث عن المجموعة الشمسية للصف الاول متوسط",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A8%D8%AD%D8%AB+%D8%B9%D9%86+%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9+%D9%84%D9%84%D8%B5%D9%81+%D8%A7%D9%84%D8%A7%D9%88%D9%84+%D9%85%D8%AA%D9%88%D8%B3%D8%B7&sa=X&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ1QJ6BAgjEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&gl=eg&hl=ar&ei=_jyeYqeGELuuqtsP8c-A4AI&start=10&sa=N&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&gl=eg&hl=ar&ei=_jyeYqeGELuuqtsP8c-A4AI&start=10&sa=N&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&gl=eg&hl=ar&ei=_jyeYqeGELuuqtsP8c-A4AI&start=20&sa=N&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&gl=eg&hl=ar&ei=_jyeYqeGELuuqtsP8c-A4AI&start=30&sa=N&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&gl=eg&hl=ar&ei=_jyeYqeGELuuqtsP8c-A4AI&start=40&sa=N&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&gl=eg&hl=ar&ei=_jyeYqeGELuuqtsP8c-A4AI&start=50&sa=N&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&gl=eg&hl=ar&ei=_jyeYqeGELuuqtsP8c-A4AI&start=60&sa=N&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&gl=eg&hl=ar&ei=_jyeYqeGELuuqtsP8c-A4AI&start=70&sa=N&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&gl=eg&hl=ar&ei=_jyeYqeGELuuqtsP8c-A4AI&start=80&sa=N&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&gl=eg&hl=ar&ei=_jyeYqeGELuuqtsP8c-A4AI&start=90&sa=N&ved=2ahUKEwin_bqxsJn4AhU7l2oFHfEnACwQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&start=90"
+        }
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "search_metadata": {
+        "id": "629e3da010d744ab164973b5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/dcb28a22fb8705fd/629e3da010d744ab164973b5.json",
+        "created_at": "2022-06-06 17:47:12 UTC",
+        "processed_at": "2022-06-06 17:47:12 UTC",
+        "google_url": "https://www.google.com/search?q=PCR&oq=PCR&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/dcb28a22fb8705fd/629e3da010d744ab164973b5.html",
+        "total_time_taken": 0.58
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "PCR",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "PCR",
+        "total_results": 1430000000,
+        "time_taken_displayed": 0.42
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "PCR (Polymerase Chain Reaction)",
+            "link": "https://www.youtube.com/watch?v=a5jmdh9AnS4",
+            "thumbnail": "https://i.ytimg.com/vi/a5jmdh9AnS4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3ny_0to4Jq_wpic-qdg-0VFs9eDUA",
+            "channel": "Amoeba Sisters",
+            "duration": "7:54",
+            "platform": "YouTube",
+            "date": "1 באוק׳ 2020"
+        },
+        {
+            "position": 2,
+            "title": "PCR - Polymerase Chain Reaction (IQOG-CSIC)",
+            "link": "https://www.youtube.com/watch?v=iQsu3Kz9NYo",
+            "thumbnail": "https://i.ytimg.com/vi/iQsu3Kz9NYo/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mp0LzOCWcDXpXbk8GcC1nXSkKP2Q",
+            "channel": "CanalDivulgación",
+            "duration": "3:56",
+            "platform": "YouTube",
+            "date": "20 באפר׳ 2014"
+        },
+        {
+            "position": 3,
+            "title": "What is PCR? Polymerase Chain Reaction | miniPCR bio™",
+            "link": "https://www.youtube.com/watch?v=c07_5BfIDTw",
+            "thumbnail": "https://i.ytimg.com/vi/c07_5BfIDTw/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kB6m2Ce7TlvbuXuOHagoFZpbTwnw",
+            "channel": "miniPCR bio",
+            "duration": "8:25",
+            "platform": "YouTube",
+            "date": "5 בפבר׳ 2020"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "איך ואיפה עושים בדיקות - מרכז המידע לקורונה של משרד הבריאות",
+            "link": "https://corona.health.gov.il/testing-lobby/how-to-test/",
+            "displayed_link": "https://corona.health.gov.il › testing-lobby › how-to-test",
+            "snippet": "איך עושים בדיקת קורונה. בדיקות PCR ובדיקות אנטיגן נעשות באותו האופן: הכנסת מטוש (מקל שבקצה שלו יש צמר גפן) סטרילי לחלל הפה ולנחיר האף, כדי לאסוף דגימה.",
+            "snippet_highlighted_words": [
+                "PCR"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "מתי צריך לעשות בדיקת קורונה - מרכז המידע לקורונה של משרד ...",
+            "link": "https://corona.health.gov.il/testing-lobby/when-to-be-tested/",
+            "displayed_link": "https://corona.health.gov.il › when-to-be-tested",
+            "snippet": "עד 30.5.2022 נעשות בדיקות PCR פעם בשבוע לתלמידים ותלמידות במוסדות החינוך שמשתתפים בתוכנית 'מגן חינוך'. מתי מומלץ לעשות בדיקה. בנוסף למקרים שבהם צריך לעשות בדיקת ...",
+            "snippet_highlighted_words": [
+                "PCR"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Polymerase Chain Reaction (PCR) - National Human ...",
+            "link": "https://www.genome.gov/genetics-glossary/Polymerase-Chain-Reaction",
+            "displayed_link": "https://www.genome.gov › genetics-glossary",
+            "snippet": "Polymerase chain reaction (abbreviated PCR) is a laboratory technique for rapidly producing (amplifying) millions to billions of copies of a ...",
+            "snippet_highlighted_words": [
+                "Polymerase chain reaction",
+                "PCR"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "DNA Replication",
+                        "link": "https://www.genome.gov/genetics-glossary/DNA-Replication"
+                    },
+                    {
+                        "title": "Primer",
+                        "link": "https://www.genome.gov/genetics-glossary/Primer"
+                    },
+                    {
+                        "title": "Enzyme",
+                        "link": "https://www.genome.gov/genetics-glossary/Enzyme"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "לפני_ימים": 3
+                    },
+                    "extensions": [
+                        "לפני 3 ימים",
+                        "הועלה על",
+                        "ידי National Human Genome Research Institute"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "PCR - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/PCR",
+            "displayed_link": "https://he.wikipedia.org › wiki › PCR",
+            "thumbnail": "https://serpapi.com/searches/629e3da010d744ab164973b5/images/dfad3d1a176f11437b025bb662cee3d44bc1563c545b481d6e57382b519df749.jpeg",
+            "snippet": "PCR (ראשי תיבות באנגלית של Polymerase Chain Reaction, \"תגובת שרשרת של פולימראז\") היא שיטה מעבדתית המשמשת לשכפול מזורז (\"הגברה\", או \"אמפליפיקציה\", ...",
+            "snippet_highlighted_words": [
+                "PCR",
+                "Polymerase Chain Reaction"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Polymerase chain reaction - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Polymerase_chain_reaction",
+            "displayed_link": "https://en.wikipedia.org › wiki › Polymerase...",
+            "thumbnail": "https://serpapi.com/searches/629e3da010d744ab164973b5/images/dfad3d1a176f11437b025bb662cee3d4257b613dc9aacf5f136fd2b58bee1eaa.jpeg",
+            "snippet": "Polymerase chain reaction (PCR) is a method widely used to rapidly make millions to billions of copies (complete or partial) of a specific DNA sample, ...",
+            "snippet_highlighted_words": [
+                "Polymerase chain reaction",
+                "PCR"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "AIDG: בדיקות קורונה לפני טיסה, בדיקות קורונה PCR, בדיקות ...",
+            "link": "https://aidg.co.il/",
+            "displayed_link": "https://aidg.co.il",
+            "snippet": "בדיקת קורונה PCR ואנטיגן מוסדי לפני טיסה ולכל מטרה עושים עם AID Genomics. המעבדה הגדולה והמתקדמת בישראל לבדיקות קורונה.",
+            "snippet_highlighted_words": [
+                "PCR"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "COVID-19 and PCR Testing - Cleveland Clinic",
+            "link": "https://my.clevelandclinic.org/health/diagnostics/21462-covid-19-and-pcr-testing",
+            "displayed_link": "https://my.clevelandclinic.org › diagnostics",
+            "date": "24 באוג׳ 2021",
+            "snippet": "PCR means polymerase chain reaction. It's a test to detect genetic material from a specific organism, such as a virus. The test detects the ...",
+            "snippet_highlighted_words": [
+                "PCR",
+                "polymerase chain reaction"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Covid-19 testing service at Ben Gurion Airport in Israel",
+            "link": "https://testngo.femi.com/en/sign-in",
+            "displayed_link": "https://testngo.femi.com › sign-in",
+            "snippet": "Covid-19 PCR tests in Israel for passengers landing at Ben Gurion Airport. Approved service by the Israeli Ministry of Health.",
+            "snippet_highlighted_words": [
+                "PCR"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "מתחמי בדיקות קורונה (PCR) - פורטל חירום לאומי",
+            "link": "https://www.oref.org.il/12610-17882-he/Pakar.aspx",
+            "displayed_link": "https://www.oref.org.il › Pakar",
+            "snippet": "מספר מתחמי בדיקות PCR של פיקוד העורף מצטמצם ושעות הפעילות משתנות. היכן פועלים המתחמים ובאילו שעות?",
+            "snippet_highlighted_words": [
+                "PCR"
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=PCR&gl=il&hl=iw&ei=oD2eYr75IdzEqtsPnYOqIA&start=10&sa=N&ved=2ahUKEwi-yez-sJn4AhVcomoFHZ2BCgQQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=PCR&gl=il&hl=iw&ei=oD2eYr75IdzEqtsPnYOqIA&start=10&sa=N&ved=2ahUKEwi-yez-sJn4AhVcomoFHZ2BCgQQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=PCR&gl=il&hl=iw&ei=oD2eYr75IdzEqtsPnYOqIA&start=20&sa=N&ved=2ahUKEwi-yez-sJn4AhVcomoFHZ2BCgQQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=PCR&gl=il&hl=iw&ei=oD2eYr75IdzEqtsPnYOqIA&start=30&sa=N&ved=2ahUKEwi-yez-sJn4AhVcomoFHZ2BCgQQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=PCR&gl=il&hl=iw&ei=oD2eYr75IdzEqtsPnYOqIA&start=40&sa=N&ved=2ahUKEwi-yez-sJn4AhVcomoFHZ2BCgQQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=PCR&gl=il&hl=iw&ei=oD2eYr75IdzEqtsPnYOqIA&start=50&sa=N&ved=2ahUKEwi-yez-sJn4AhVcomoFHZ2BCgQQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=PCR&gl=il&hl=iw&ei=oD2eYr75IdzEqtsPnYOqIA&start=60&sa=N&ved=2ahUKEwi-yez-sJn4AhVcomoFHZ2BCgQQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=PCR&gl=il&hl=iw&ei=oD2eYr75IdzEqtsPnYOqIA&start=70&sa=N&ved=2ahUKEwi-yez-sJn4AhVcomoFHZ2BCgQQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=PCR&gl=il&hl=iw&ei=oD2eYr75IdzEqtsPnYOqIA&start=80&sa=N&ved=2ahUKEwi-yez-sJn4AhVcomoFHZ2BCgQQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=PCR&gl=il&hl=iw&ei=oD2eYr75IdzEqtsPnYOqIA&start=90&sa=N&ved=2ahUKEwi-yez-sJn4AhVcomoFHZ2BCgQQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=PCR&start=90"
+        }
+    }
+}

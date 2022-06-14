@@ -1,0 +1,331 @@
+{
+    "search_metadata": {
+        "id": "627cfff22ff421d0610e8854",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e3ca6c237566d662/627cfff22ff421d0610e8854.json",
+        "created_at": "2022-05-12 12:39:14 UTC",
+        "processed_at": "2022-05-12 12:39:14 UTC",
+        "google_url": "https://www.google.com/search?q=Changement+climatique&oq=Changement+climatique&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=&hl=fr&gl=FR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/e3ca6c237566d662/627cfff22ff421d0610e8854.html",
+        "total_time_taken": 0.81
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Changement climatique",
+        "uule": "w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=",
+        "google_domain": "google.com",
+        "hl": "fr",
+        "gl": "FR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Changement climatique",
+        "total_results": 68700000,
+        "time_taken_displayed": 0.58
+    },
+    "knowledge_graph": {
+        "title": " Changement climatique ",
+        "header_images": [
+            {
+                "source": "https://www.euractiv.fr/section/climat/news/three-years-left-to-stop-dangerous-climate-change-experts-warn/"
+            },
+            {
+                "source": "https://lejournal.cnrs.fr/articles/le-changement-climatique-nous-touche-deja-de-plein-fouet"
+            },
+            {
+                "source": "https://www.echosciences-bfc.fr/articles/changement-climatique-ou-en-sommes-nous"
+            },
+            {
+                "source": "https://www.bbc.com/afrique/monde-55147167"
+            },
+            {
+                "source": "https://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique"
+            },
+            {
+                "source": "https://www.sciencesetavenir.fr/nature-environnement/climat/7-consequences-recentes-du-rechauffement-climatique_135657"
+            }
+        ],
+        "afficher_les_résultats_pour": [
+            {
+                "name": "Variabilité et changement climatique",
+                "extensions": [
+                    "On appelle réchauffement climatique l'augmentation de ..."
+                ],
+                "image": "https://serpapi.com/searches/627cfff22ff421d0610e8854/images/7693c2d0ee71eac7cf0db724713839a897b99d49e8e95749a2e4ab6d93e8fe18ce247b9ee21b39ef831837c138f4afe57c5ad3a0b1187511.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Comment le réchauffement climatique va bouleverser l ...",
+            "link": "https://www.youtube.com/watch?v=8nzRXxPnlPQ",
+            "thumbnail": "https://serpapi.com/searches/627cfff22ff421d0610e8854/images/d8769919744e08ce9469e6dddce4e0b2723207806e9b1019d7a51af7e0e96f6c.jpeg",
+            "channel": "Le Monde",
+            "duration": "15:26",
+            "platform": "YouTube",
+            "date": "11 juil. 2021"
+        },
+        {
+            "position": 2,
+            "title": "Vidéo. Comment le changement climatique va bouleverser l ...",
+            "link": "https://www.lemonde.fr/planete/video/2021/07/11/comment-le-changement-climatique-va-bouleverser-l-humanite_6087906_3244.html",
+            "thumbnail": "https://serpapi.com/searches/627cfff22ff421d0610e8854/images/d8769919744e08cebe8b46f6ae706721fab6c398263ad6b8605744dc63765995.jpeg",
+            "channel": "Le Monde",
+            "platform": "Le Monde",
+            "date": "11 juil. 2021"
+        },
+        {
+            "position": 3,
+            "title": "Vivre avec le changement climatique - L'eau - Regarder le ...",
+            "link": "https://www.arte.tv/fr/videos/106121-001-A/vivre-avec-le-changement-climatique/",
+            "thumbnail": "https://serpapi.com/searches/627cfff22ff421d0610e8854/images/d8769919744e08cec4181af20335cdd8816408960d1b4c002e9f698a950e1103.jpeg",
+            "platform": "Arte.tv",
+            "date": "Il y a 3 jours"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Allergies aux pollens : pourquoi le réchauffement climatique a un impact sur leur gravité et leur durée",
+            "link": "https://www.francetvinfo.fr/monde/environnement/crise-climatique/allergies-aux-pollens-pourquoi-le-rechauffement-climatique-a-un-impact-sur-leur-gravite-et-leur-duree_5129362.html",
+            "source": "Franceinfo",
+            "date": "Il y a 7 heures",
+            "thumbnail": "https://serpapi.com/searches/627cfff22ff421d0610e8854/images/cc6e67c5a1a4c5fd57c0971c18098381f458d70b80687812.jpeg"
+        },
+        {
+            "title": "Sécheresse : la France est dans une \"phase critique\" du réchauffement climatique",
+            "link": "https://www.france24.com/fr/france/20220510-s%C3%A9cheresse-la-france-est-entr%C3%A9e-dans-une-phase-critique-du-r%C3%A9chauffement-climatique",
+            "source": "France 24",
+            "date": "Il y a 1 jour",
+            "thumbnail": "https://serpapi.com/searches/627cfff22ff421d0610e8854/images/cc6e67c5a1a4c5fde0e1215b67bf3fb7c3502157c7a5c0a2.jpeg"
+        },
+        {
+            "title": "Le réchauffement climatique, enjeu croissant pour la disponibilité du parc nucléaire",
+            "link": "https://www.lemonde.fr/economie/article/2022/05/12/le-rechauffement-climatique-enjeu-croissant-pour-la-disponibilite-du-parc-nucleaire_6125753_3234.html",
+            "source": "Le Monde",
+            "date": "Il y a 4 heures",
+            "thumbnail": "https://serpapi.com/searches/627cfff22ff421d0610e8854/images/cc6e67c5a1a4c5fdc3d13008606ada11b727b0095b57aab0.jpeg"
+        },
+        {
+            "title": "Changement climatique : BlackRock fait un pas en arrière",
+            "link": "https://www.lemonde.fr/economie/article/2022/05/12/changement-climatique-blackrock-fait-un-pas-en-arriere_6125754_3234.html",
+            "source": "Le Monde",
+            "date": "Il y a 4 heures",
+            "thumbnail": "https://serpapi.com/searches/627cfff22ff421d0610e8854/images/cc6e67c5a1a4c5fdf71e9c21693d7974c486b2f825d7951a.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=fr&gl=FR&q=Changement+climatique&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQt8YBegQIAxAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&tbm=nws&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+    "related_questions": [
+        {
+            "question": "Qu'est-ce qui explique le changement climatique ?",
+            "snippet": "Ce phénomène est dû aux gaz à effet de serre, tels que le dioxyde de carbone (CO2), qui sont rejetés dans l'atmosphère lors de la combustion des énergies fossiles comme le charbon, le pétrole et le gaz, ainsi que lors de l'utilisation des sols, par exemple avec le déboisement des forêts tropicales.",
+            "title": "Qu'est-ce que le changement climatique? | myclimate",
+            "link": "https://www.myclimate.org/fr/sinformer/faq/faq-detail/quest-ce-que-le-changement-climatique/",
+            "displayed_link": "https://www.myclimate.org › sinformer › faq › faq-detail"
+        },
+        {
+            "question": "Quelle sont les conséquence changement climatique ?",
+            "snippet": "hausse du niveau de la mer. hausse de la température des océans. intensification des précipitations (fortes pluies et grêle) augmentation des cyclones tropicaux violents.",
+            "title": "Quelles sont les conséquences du changement climatique et du ...",
+            "link": "https://www.myclimate.org/fr/sinformer/faq/faq-detail/quelles-sont-les-consequences-du-changement-climatique/",
+            "displayed_link": "https://www.myclimate.org › sinformer › faq › faq-detail"
+        },
+        {
+            "question": "Quels sont les types de changement climatique ?",
+            "snippet": "De manière générale, les changements climatiques peuvent être divisés en deux groupes : Changement climatique passé : une série d'altérations du climat marquées par des périodes froides et des périodes chaudes. Changement climatique actuel : caractérisé par une augmentation de la température moyenne mondiale.31 déc. 2021",
+            "title": "Changement climatique : Définition, types, nature, causes et ...",
+            "link": "https://www.projetecolo.com/changement-climatique-definition-types-nature-causes-et-consequences-442.html",
+            "displayed_link": "https://www.projetecolo.com › changement-climatique-de..."
+        },
+        {
+            "question": "Quels sont les avantages du changement climatique ?",
+            "snippet": "L'élévation de la température et de la concentration atmosphérique en CO2 favorise le métabolisme des végétaux et leur photosynthèse. Si les autres ressources nécessaires à la croissance végétale sont présentes, la productivité végétale devrait augmenter.",
+            "title": "Le réchauffement climatique a-t-il des avantages ? - Futura-Sciences",
+            "link": "https://www.futura-sciences.com/planete/questions-reponses/rechauffement-climatique-rechauffement-climatique-t-il-avantages-1126/",
+            "displayed_link": "https://www.futura-sciences.com › questions-reponses › re..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Changements climatiques | Nations Unies",
+            "link": "https://www.un.org/fr/global-issues/climate-change",
+            "displayed_link": "https://www.un.org › global-issues › climate-change",
+            "snippet": "Les changements climatiques constituent un problème complexe, qui, bien qu'étant de nature environnementale, a des conséquences sur beaucoup d'issues globales ...",
+            "snippet_highlighted_words": [
+                "changements climatiques"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "déc": 11
+                    },
+                    "extensions": [
+                        "11 déc. 2020",
+                        "Ajouté par United Nations"
+                    ]
+                }
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "En quoi consistent les changements climatiques - the United ...",
+                    "link": "https://www.un.org/fr/climatechange/what-is-climate-change",
+                    "displayed_link": "https://www.un.org › what-is-climate-change",
+                    "snippet": "Les changements climatiques désignent les variations à long terme de la température et des modèles météorologiques. Il peut s'agir de variations naturelles, ...",
+                    "snippet_highlighted_words": [
+                        "changements climatiques"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Réchauffement climatique - Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique",
+            "displayed_link": "https://fr.wikipedia.org › wiki › Réchauffement_climati...",
+            "snippet": "On appelle réchauffement climatique l'augmentation de la température moyenne de la surface terrestre en cours aux XX e et XXI e siècles mais aussi, ...",
+            "snippet_highlighted_words": [
+                "climatique"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Terminologie",
+                        "link": "https://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique#Terminologie"
+                    },
+                    {
+                        "title": "Impact",
+                        "link": "https://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique#Impact"
+                    },
+                    {
+                        "title": "Politiques et mesures politiques",
+                        "link": "https://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique#Politiques_et_mesures_politiques"
+                    },
+                    {
+                        "title": "Annexes",
+                        "link": "https://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique#Annexes"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "Avec le changement climatique, où faut-il habiter en France ?",
+            "link": "https://www.geo.fr/environnement/avec-le-changement-climatique-ou-faut-il-habiter-en-france-209359",
+            "displayed_link": "https://www.geo.fr › Environnement",
+            "date": "19 avr. 2022",
+            "snippet": "Épisodes caniculaires, inondations, sécheresses, montée des eaux… Le changement climatique modifie l'intensité et la fréquence des...",
+            "snippet_highlighted_words": [
+                "changement climatique"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Changement climatique | Données et études statistiques",
+            "link": "https://www.statistiques.developpement-durable.gouv.fr/changement-climatique",
+            "displayed_link": "https://www.statistiques.developpement-durable.gouv.fr › ...",
+            "snippet": "Changement climatique. Les gaz à effet de serre (GES) ont un rôle essentiel dans la régulation du climat. Sans eux, la température moyenne sur Terre serait ...",
+            "snippet_highlighted_words": [
+                "Changement climatique"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Le changement climatique | Eaufrance",
+            "link": "https://www.eaufrance.fr/le-changement-climatique",
+            "displayed_link": "https://www.eaufrance.fr › le-changement-climatique",
+            "snippet": "Le réchauffement climatique correspond à l'augmentation des températures moyennes à la surface du globe. L'augmentation de la quantité de gaz à effet de serre ( ...",
+            "snippet_highlighted_words": [
+                "climatique"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Changement climatique",
+            "link": "https://www.novethic.fr/lexique/detail/changement-climatique.html",
+            "displayed_link": "https://www.novethic.fr › lexique › detail › changement...",
+            "snippet": "Le changement climatique correspond à une modification durable du climat au niveau planétaire due à une augmentation des concentrations de gaz à effet de ...",
+            "snippet_highlighted_words": [
+                "changement climatique"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Comprendre le changement climatique - Ministère de la ...",
+            "link": "https://www.ecologie.gouv.fr/politiques/comprendre-changement-climatique",
+            "displayed_link": "https://www.ecologie.gouv.fr › politiques › comprendre...",
+            "snippet": "Causes, effets et enjeux du changement climatique.",
+            "snippet_highlighted_words": [
+                "changement climatique"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "changement climatique def",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Changement+climatique+def&sa=X&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "changement climatique 2022",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Changement+climatique+2022&sa=X&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "changement climatique giec",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Changement+climatique+GIEC&sa=X&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "changement climatique pdf",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Changement+climatique+pdf&sa=X&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "changement climatique exposé",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Changement+climatique+expos%C3%A9&sa=X&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "changement climatique synonyme",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Changement+climatique+synonyme&sa=X&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "changement climatique définition larousse",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Changement+climatique+d%C3%A9finition+Larousse&sa=X&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ1QJ6BAglEAE"
+        },
+        {
+            "query": "changement climatique dans le monde",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Changement+climatique+dans+le+monde&sa=X&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ1QJ6BAghEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Changement+climatique&hl=fr&gl=FR&ei=8v98Ys_TDuWH_QbG-oeoBw&start=10&sa=N&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Changement+climatique&hl=fr&gl=FR&ei=8v98Ys_TDuWH_QbG-oeoBw&start=10&sa=N&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=Changement+climatique&hl=fr&gl=FR&ei=8v98Ys_TDuWH_QbG-oeoBw&start=20&sa=N&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=Changement+climatique&hl=fr&gl=FR&ei=8v98Ys_TDuWH_QbG-oeoBw&start=30&sa=N&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=Changement+climatique&hl=fr&gl=FR&ei=8v98Ys_TDuWH_QbG-oeoBw&start=40&sa=N&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=Changement+climatique&hl=fr&gl=FR&ei=8v98Ys_TDuWH_QbG-oeoBw&start=50&sa=N&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=Changement+climatique&hl=fr&gl=FR&ei=8v98Ys_TDuWH_QbG-oeoBw&start=60&sa=N&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=Changement+climatique&hl=fr&gl=FR&ei=8v98Ys_TDuWH_QbG-oeoBw&start=70&sa=N&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=Changement+climatique&hl=fr&gl=FR&ei=8v98Ys_TDuWH_QbG-oeoBw&start=80&sa=N&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=Changement+climatique&hl=fr&gl=FR&ei=8v98Ys_TDuWH_QbG-oeoBw&start=90&sa=N&ved=2ahUKEwjPlLjD_dn3AhXlQ98KHUb9AXUQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=20&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=30&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=40&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=50&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=60&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=70&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=80&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Changement+climatique&start=90&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D"
+        }
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "search_metadata": {
+        "id": "627cff7aaef264ab799a7982",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5d1e7a04da55d064/627cff7aaef264ab799a7982.json",
+        "created_at": "2022-05-12 12:37:14 UTC",
+        "processed_at": "2022-05-12 12:37:14 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&oq=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&uule=w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=&hl=ar&gl=EG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/5d1e7a04da55d064/627cff7aaef264ab799a7982.html",
+        "total_time_taken": 1.19
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "تلوث التربة",
+        "uule": "w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "EG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "تلوث التربة",
+        "total_results": 1390000,
+        "time_taken_displayed": 0.51
+    },
+    "knowledge_graph": {
+        "title": "تلوث التربة",
+        "header_images": [
+            {
+                "source": "https://www.fao.org/news/story/ar/item/1127347/icode/"
+            },
+            {
+                "source": "https://mawdoo3.com/%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9"
+            },
+            {
+                "source": "https://www.feedo.net/Environment/EnvironmentalProblems/Problems/SoilPollution.htm"
+            },
+            {
+                "source": "https://geolougy.com/k/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9"
+            },
+            {
+                "source": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%B9%D9%86_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9"
+            },
+            {
+                "source": "https://www.edarabia.com/ar/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9-6-%D9%85%D9%86-%D8%A7%D9%87%D9%85-%D8%A7%D8%B3%D8%A8%D8%A7%D8%A8-%D9%88%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9/"
+            }
+        ],
+        "description": "تلعب التربة دوراً هاماً في نمو النباتات وحياتها، وتعد الأساس الذي تقوم عليه عمليات الإنتاج الزراعي والحياة الحيوانية، كما تحوي التربة على كثير من الكائنات الحية الدقيقة، و الديدان، و الحشرات.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "تلوث التربة",
+            "link": "https://www.youtube.com/watch?v=FxhAsPyD6os",
+            "thumbnail": "https://i.ytimg.com/vi/FxhAsPyD6os/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kmsCo5Ea0wGvaaIvCd1QlvCe7cWg",
+            "channel": "قناة العلوم",
+            "duration": "4:00",
+            "platform": "YouTube",
+            "date": "26‏/01‏/2019"
+        },
+        {
+            "position": 2,
+            "title": "7 أشياء يمكنك القيام بها لوقف تلوث التربة",
+            "link": "https://www.youtube.com/watch?v=EURfzuiTmrA",
+            "thumbnail": "https://i.ytimg.com/vi/EURfzuiTmrA/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3m8CQCcHxNWzGrxD3mrfaLyhWedew",
+            "channel": "Food and Agriculture Organization of the United Nations",
+            "duration": "0:49",
+            "platform": "YouTube",
+            "date": "18‏/12‏/2019"
+        },
+        {
+            "position": 3,
+            "title": "تلوث الماء",
+            "link": "https://www.youtube.com/watch?v=N7SwQJNd5Nk",
+            "thumbnail": "https://i.ytimg.com/vi/N7SwQJNd5Nk/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3m36R-DwTfFwAigecKQ2QXcA-_KPQ",
+            "channel": "قناة العلوم",
+            "duration": "4:35",
+            "platform": "YouTube",
+            "date": "26‏/01‏/2019"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ما هي الحلول لتلوث التربة؟",
+            "snippet": "حلول تلوّث التربة بناء السدود حتى تخفف قوة الإنجراف، وقوة سيول المياه. زراعة الكثبان الرملية من خلال بقايا النباتات، أو من خلال رشها بالمواد المطاطيّة، وذلك حتّى نقلّل من انتقالها وتحركها. توقّف قطع الأشجار. حماية الغابات الطبيعية والكثيفة من الحرائق، ومن الرعي الجائر، ومن التحطيب.",
+            "title": "حلول تلوث التربة - موسوعة - كله لك",
+            "link": "https://wiki.kololk.com/wiki28025-oloom-alard-%D8%AD%D9%84%D9%88%D9%84_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9",
+            "displayed_link": "https://wiki.kololk.com › wiki28025-oloom-alard-حلول_ت..."
+        },
+        {
+            "question": "ما هي انواع تلوث التربة؟",
+            "title": "مصادر تلوث التربة:",
+            "link": "https://www.annajah.net/7-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%AE%D8%B7%D9%8A%D8%B1%D8%A9-%D9%84%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9-article-22668",
+            "list": [
+                "الملوثات الطبيعية: ... ",
+                "التلوث بالمخلفات الصناعية: ... ",
+                "التلوّث بالمخلفات السائلة: ... ",
+                "التلوّث بالمبيدات الكيميائية: ... ",
+                "التلوث بالأسمدة الكيميائية: ... ",
+                "التلوث بالأمطار الحمضية: ... ",
+                "التلوث الإشعاعي:"
+            ],
+            "displayed_link": "https://www.annajah.net › 7-مصادر-خطيرة-لتلوث-التربة..."
+        },
+        {
+            "question": "ما سبب تلوث التربة؟",
+            "snippet": "تصاب التربة بتلوث المعادن الثقيلة كالرصاص والزئبق والكادميوم ، التي تصل إلى التربة مع النفايات التي يتم دفنها في التربة ، أو مع مياه الري الملوثة ، أو نتيجة لتساقط المركبات العالقة في الهواء لهذه المعادن ، وهي معادن شديدة السمية ، وتتركز بصورة كبيرة في أنسجة النباتات والثمار ، حيث تنتقل بدورها عبر السلسلة الغذائية ...",
+            "title": "تلوث التربة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تلوث_التربة"
+        },
+        {
+            "question": "ما هي نتائج تلوث التربه؟",
+            "snippet": "ويؤدي ذلك إلى فقدان التنوع البيولوجي، وبالتالي إلى فقدان الكربون في التربة وإلى تقليل ثبات مجاميع التربة، مما يزيد من قابلية التربة للتآكل وسرعة تآكلها. ولا يؤثر تلوث التربة على إنتاج الأغذية فحسب، بل يؤثر أيضا على نوعية المياه الجوفية ويعرض خدمات النظم الإيكولوجية التي توفرها التربة للخطر.",
+            "title": "الندوة العالمية حول تلوث التربة | منظمة الأغذية والزراعة للأمم ...",
+            "link": "https://www.fao.org/about/meetings/global-symposium-on-soil-pollution/about-the-symposium/ar/",
+            "displayed_link": "https://www.fao.org › meetings › about-the-symposium"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "تلوث التربة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تلوث_التربة",
+            "snippet": "وتلوث التربة يعني دخول مواد غريبة في التربة أو زيادة في تركيز إحدى مكوناتها الطبيعية، الأمر الذي يؤدي إلى تغير في التركيب الكيميائي والفيزيائي للتربة، وهذه ...",
+            "snippet_highlighted_words": [
+                "وتلوث التربة"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "بحث عن تلوث التربة - موضوع",
+            "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%B9%D9%86_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9",
+            "displayed_link": "https://mawdoo3.com › التلوث البيئي",
+            "snippet": "تعريف تلوث التربة · تسرّب النفايات من المكبّات الخاصة بها إلى التربة. · تفريغ نفايات المصانع في التربة. · نفاذ المياه الملوّثة إلى التربة. · انفجار صهاريج التخزين ...",
+            "snippet_highlighted_words": [
+                "تلوث التربة"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "١ تعريف تلوث التربة",
+                        "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%B9%D9%86_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9#.D8.AA.D8.B9.D8.B1.D9.8A.D9.81_.D8.AA.D9.84.D9.88.D8.AB_.D8.A7.D9.84.D8.AA.D8.B1.D8.A8.D8.A9"
+                    },
+                    {
+                        "title": "٣ مصادر تلوث التربة",
+                        "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%B9%D9%86_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9#.D9.85.D8.B5.D8.A7.D8.AF.D8.B1_.D8.AA.D9.84.D9.88.D8.AB_.D8.A7.D9.84.D8.AA.D8.B1.D8.A8.D8.A9"
+                    },
+                    {
+                        "title": "٤ أهمّ أنواع ملوثات التربة",
+                        "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%B9%D9%86_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9#.D8.A3.D9.87.D9.85.D9.91_.D8.A3.D9.86.D9.88.D8.A7.D8.B9_.D9.85.D9.84.D9.88.D8.AB.D8.A7.D8.AA_.D8.A7.D9.84.D8.AA.D8.B1.D8.A8.D8.A9"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "أسباب تلوث التربة - موضوع",
+            "link": "https://mawdoo3.com/%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9",
+            "displayed_link": "https://mawdoo3.com › التلوث البيئي",
+            "snippet": "أسباب تلوث التربة. تحتوي التربة بشكل عام في تركيبها الطبيعي، سواء أكانت ملوثة أم لا، على مجموعة من المركبات -التي يُمكن اعتبارها ملوثات-، مثل: المعادن، ...",
+            "snippet_highlighted_words": [
+                "تلوث التربة"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "١ أسباب تلوث التربة",
+                        "link": "https://mawdoo3.com/%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9#.D8.A3.D8.B3.D8.A8.D8.A7.D8.A8_.D8.AA.D9.84.D9.88.D8.AB_.D8.A7.D9.84.D8.AA.D8.B1.D8.A8.D8.A9"
+                    },
+                    {
+                        "title": "١.١ الأسباب البشرية لتلوث...",
+                        "link": "https://mawdoo3.com/%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9#.D8.A7.D9.84.D8.A3.D8.B3.D8.A8.D8.A7.D8.A8_.D8.A7.D9.84.D8.A8.D8.B4.D8.B1.D9.8A.D8.A9_.D9.84.D8.AA.D9.84.D9.88.D8.AB_.D8.A7.D9.84.D8.AA.D8.B1.D8.A8.D8.A9"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "تلوث التربة وأسباب تدهورها - Feedo.net",
+            "link": "https://www.feedo.net/Environment/EnvironmentalProblems/Problems/SoilPollution.htm",
+            "displayed_link": "https://www.feedo.net › Problems › SoilPollution",
+            "snippet": "وتلوث التربة يؤدى إلى تدهورها بشكل كبير، والمواد الملوثة فى البيئة التى تتواجد بكميات كبيرة تؤدى بشكل مباشر أو غير مباشر وبتفاعلها مع غيرها من المواد الأخرى إلى ...",
+            "snippet_highlighted_words": [
+                "وتلوث التربة"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "تلوث التربة.",
+                        "link": "https://www.feedo.net/Environment/EnvironmentalProblems/Problems/SoilPollution.htm#1"
+                    },
+                    {
+                        "title": "أسباب تلوث التربة.",
+                        "link": "https://www.feedo.net/Environment/EnvironmentalProblems/Problems/SoilPollution.htm#2"
+                    },
+                    {
+                        "title": "أنواع الخلل الذى يصيب التربة.",
+                        "link": "https://www.feedo.net/Environment/EnvironmentalProblems/Problems/SoilPollution.htm#4"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 5,
+            "title": "تلوث التربة - المعرفة",
+            "link": "https://www.marefa.org/%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9/simplified",
+            "displayed_link": "https://www.marefa.org › تلوث_التربة › simplified",
+            "snippet": "تلوث التربة: تعتبر التربة ملوثة بإحتوائها على مادة أو مواد بكميات أو تركيزات على غير العادة فتسبب خطر على صحة الانسان والحيوان والنبات أو المنشآت الهندسية ...",
+            "snippet_highlighted_words": [
+                "تلوث التربة"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "تلوث التربة الزراعية",
+            "link": "http://www.vercon.sci.eg/indexUI/uploaded/landpolution2/landpolution.htm",
+            "displayed_link": "http://www.vercon.sci.eg › landpolution2 › landpolution",
+            "snippet": "مصادر تلوث التربة الزراعيه فى مصر. أولا: الهواء الجوى. - يعتبر تلوث الهواء من أخطر أنواع التلوث البيئى وأكثرها شيوعاً فى المدن ...",
+            "snippet_highlighted_words": [
+                "تلوث التربة"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "بحث عن تلوث التربة .. 6 من أهم أسباب ومصادر تدمير التربة ...",
+            "link": "https://www.edarabia.com/ar/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9-6-%D9%85%D9%86-%D8%A7%D9%87%D9%85-%D8%A7%D8%B3%D8%A8%D8%A7%D8%A8-%D9%88%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9/",
+            "displayed_link": "https://www.edarabia.com › بحث-عن-تلوث-التربة-6-م...",
+            "snippet": "هناك ما يعرف بتلوث التربة، وهي حالة من تعرض التربة لبعض الملوثات الصناعية السامة التي تزيد من تدهور المركبات العضوية المختلفة والتي تؤثر في نمو النباتات ...",
+            "snippet_highlighted_words": [
+                "بتلوث التربة"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "وقف تلوث التربة هو أمر أساسي لأمن وسلامة الغذاء",
+            "link": "https://www.fao.org/neareast/news/view/ar/c/1173383/",
+            "displayed_link": "https://www.fao.org › neareast › news › view",
+            "snippet": "اليوم العالمي للتربة: كن الحل لتلوث التربة ... للأمم المتحدة (الفاو) في مصر، إن تلوث التربة يساهم بشكل كبير في تدهور التربة، مما يقلل من غلة ...",
+            "snippet_highlighted_words": [
+                "لتلوث التربة",
+                "تلوث التربة"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٤‏/١٢‏/٢٠١٨ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "تلوث الهواء المحيط (الهواء الخارجي) - WHO | World Health ...",
+            "link": "https://www.who.int/ar/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+            "displayed_link": "https://www.who.int › ... › صحائف الوقائع › Detail",
+            "snippet": "يشكّل تلوث الهواء أحد المخاطر البيئية الكبرى على الصحة. ومن خلال خفض مستويات تلوث الهواء يمكن للبلدان أن تحد من عبء المرض المترتب عليه ...",
+            "snippet_highlighted_words": [
+                "تلوث",
+                "تلوث"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٢‏/٠٩‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "تلوث التربة PDF",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9+PDF&sa=X&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q1QJ6BAg1EAE"
+        },
+        {
+            "query": "أسباب تلوث التربة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8+%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&sa=X&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q1QJ6BAg0EAE"
+        },
+        {
+            "query": "تلوث التربة في مصر",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9+%D9%81%D9%8A+%D9%85%D8%B5%D8%B1&sa=X&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q1QJ6BAgyEAE"
+        },
+        {
+            "query": "أضرار تلوث التربة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1+%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&sa=X&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q1QJ6BAgwEAE"
+        },
+        {
+            "query": "اسباب تلوث التربة الإجابة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A7%D8%B3%D8%A8%D8%A7%D8%A8+%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9+%D8%A7%D9%84%D8%A5%D8%AC%D8%A7%D8%A8%D8%A9&sa=X&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q1QJ6BAguEAE"
+        },
+        {
+            "query": "طرق الوقاية من تلوث التربة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%B7%D8%B1%D9%82+%D8%A7%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9+%D9%85%D9%86+%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&sa=X&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q1QJ6BAgtEAE"
+        },
+        {
+            "query": "حلول تلوث التربة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%AD%D9%84%D9%88%D9%84+%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&sa=X&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q1QJ6BAgrEAE"
+        },
+        {
+            "query": "طرق معالجة تلوث التربة PDF",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%B7%D8%B1%D9%82+%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9+%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9+PDF&sa=X&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q1QJ6BAgoEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&hl=ar&gl=EG&ei=ev98Yo3rMeG0qtsPksKz6AQ&start=10&sa=N&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&hl=ar&gl=EG&ei=ev98Yo3rMeG0qtsPksKz6AQ&start=10&sa=N&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&hl=ar&gl=EG&ei=ev98Yo3rMeG0qtsPksKz6AQ&start=20&sa=N&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&hl=ar&gl=EG&ei=ev98Yo3rMeG0qtsPksKz6AQ&start=30&sa=N&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&hl=ar&gl=EG&ei=ev98Yo3rMeG0qtsPksKz6AQ&start=40&sa=N&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&hl=ar&gl=EG&ei=ev98Yo3rMeG0qtsPksKz6AQ&start=50&sa=N&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&hl=ar&gl=EG&ei=ev98Yo3rMeG0qtsPksKz6AQ&start=60&sa=N&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&hl=ar&gl=EG&ei=ev98Yo3rMeG0qtsPksKz6AQ&start=70&sa=N&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&hl=ar&gl=EG&ei=ev98Yo3rMeG0qtsPksKz6AQ&start=80&sa=N&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&hl=ar&gl=EG&ei=ev98Yo3rMeG0qtsPksKz6AQ&start=90&sa=N&ved=2ahUKEwiNkL-K_dn3AhVhmmoFHRLhDE0Q8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=20&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=30&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=40&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=50&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=60&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=70&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=80&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9&start=90&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D"
+        }
+    }
+}

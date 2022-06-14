@@ -1,0 +1,280 @@
+{
+    "search_metadata": {
+        "id": "627cff422c0844449ab0573d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f7c8189b52b54b55/627cff422c0844449ab0573d.json",
+        "created_at": "2022-05-12 12:36:18 UTC",
+        "processed_at": "2022-05-12 12:36:18 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&oq=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&uule=w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=&hl=iw&gl=IL&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f7c8189b52b54b55/627cff422c0844449ab0573d.html",
+        "total_time_taken": 0.71
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "בצורת",
+        "uule": "w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "IL",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "בצורת",
+        "total_results": 6940000,
+        "time_taken_displayed": 0.5
+    },
+    "knowledge_graph": {
+        "title": "בצורת",
+        "header_images": [
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%91%D7%A6%D7%95%D7%A8%D7%AA"
+            },
+            {
+                "source": "https://www.mako.co.il/spirituality-popular_culture/weekly-answer/Article-c5c71c421994441006.htm"
+            },
+            {
+                "source": "https://eureka.org.il/item/41558/%D7%9E%D7%94%D7%99-%D7%91%D7%A6%D7%95%D7%A8%D7%AA"
+            },
+            {
+                "source": "https://www.globes.co.il/news/article.aspx?did=1001241693"
+            },
+            {
+                "source": "https://www.israelhayom.co.il/article/710931"
+            },
+            {
+                "source": "https://13tv.co.il/tags/drought/"
+            },
+            {
+                "source": "https://www.calcalist.co.il/world/articles/0,7340,L-3809074,00.html"
+            }
+        ],
+        "description": "בצורת היא מצב שבו זמינות המים במקום מסוים יורדת במידה ניכרת מתחת לממוצע הרב-שנתי לתקופת הגשמים. היא אינה נחשבת לתופעת טבע, משום שהיא מתרחשת כאשר זמינות המים לא מספקת את צורכי האדם. במקומות בהם ישנה עונה יבשה לחלוטין ועונה גשומה, שנת בצורת היא שנה שבה העונה הגשומה אינה מניבה את כמות המשקעים הממוצעת.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%91%D7%A6%D7%95%D7%A8%D7%AA"
+        },
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "אסון טבע",
+                "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%90%D7%A1%D7%95%D7%9F+%D7%98%D7%91%D7%A2&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZ2WWVvZaR5uUioG346qq6-2y5BC1SMolZ6Jzz4c5-FzWQSzRlrD5KQ1VwEIgr2EuoUItIMMHjqq93CU4H8wrStyBgErFghvaCSLKVnrvC0Rsg5c8b0RADtqTKT8RkA4rwTNUjAjsItvyP5K7oxut-AmrL6fOfBU_hTj6UrBMVZB1MrapFW-ikSVhdvcEGXV29QzRyNDh53vsKXZtZpPwZTgyRTZYxB0fECA7IHzcdE0HKYOGbb8UENL8cOE2e37MjhZKfw%3D&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQxA16BAhCEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A1%D7%95%D7%9F+%D7%98%D7%91%D7%A2&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZ2WWVvZaR5uUioG346qq6-2y5BC1SMolZ6Jzz4c5-FzWQSzRlrD5KQ1VwEIgr2EuoUItIMMHjqq93CU4H8wrStyBgErFghvaCSLKVnrvC0Rsg5c8b0RADtqTKT8RkA4rwTNUjAjsItvyP5K7oxut-AmrL6fOfBU_hTj6UrBMVZB1MrapFW-ikSVhdvcEGXV29QzRyNDh53vsKXZtZpPwZTgyRTZYxB0fECA7IHzcdE0HKYOGbb8UENL8cOE2e37MjhZKfw%3D&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+                "image": "https://serpapi.com/searches/627cff422c0844449ab0573d/images/4493fdb69afd1a5390a7d49ce7950a508b3e44f42aeed6264c1c459b5df36343a603ac70dec720e46df4a8dd75dfde4473d430f4b1814964.jpeg"
+            },
+            {
+                "name": "טורנדו",
+                "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%98%D7%95%D7%A8%D7%A0%D7%93%D7%95&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdf5pnNE1is6aUHBVBIaGua8dZaaMyQTymDi2QKpNAeHX6RkVtWzZBUrnBXdsxn_Hmx-TeBmqrfhxoud3rHJ-LPAuDTMaocmpPIoJJKd0kxAuULD_qoWeQ3-e2vXzymBd753XKxYY3b54mGlds-LIlM4pDWKaGc2odaMpSwvepdZvZF8Mad4pIR269zoPXre14gBizwUhCuTjLRQTo-bhTQufXjMLxjHV-VOsckPv9BdRaYMTsQiPX3PX0pHubaXCK9Wg4GI%3D&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQxA16BAhCEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%98%D7%95%D7%A8%D7%A0%D7%93%D7%95&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdf5pnNE1is6aUHBVBIaGua8dZaaMyQTymDi2QKpNAeHX6RkVtWzZBUrnBXdsxn_Hmx-TeBmqrfhxoud3rHJ-LPAuDTMaocmpPIoJJKd0kxAuULD_qoWeQ3-e2vXzymBd753XKxYY3b54mGlds-LIlM4pDWKaGc2odaMpSwvepdZvZF8Mad4pIR269zoPXre14gBizwUhCuTjLRQTo-bhTQufXjMLxjHV-VOsckPv9BdRaYMTsQiPX3PX0pHubaXCK9Wg4GI%3D&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+                "image": "https://serpapi.com/searches/627cff422c0844449ab0573d/images/4493fdb69afd1a5390a7d49ce7950a508b3e44f42aeed6264c1c459b5df36343a603ac70dec720e42bb8e9f486e77210ca7a4f924ac50b94.jpeg"
+            },
+            {
+                "name": "גל חום",
+                "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%92%D7%9C+%D7%97%D7%95%D7%9D&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgFL5zRX9OkhN2vjs4qwVWopd5Cn1CTV_ZjxTCXUOBktSj7zd5MG6JLLYifzUZyk4UcfBADe3f4kOiv3DRYkBHQ_L8OHmOcSzOiciRD_o6WG9eWL4x3IF64yyHQ9fATyM875-a1-PjZ6cFnct9YrX4JTG1KJRSnTaaBALtvRApaUhfXnz_YFamP6ZFFzBtnoeMkUDxChjzvFGYF1v-pmt7xFcoomp0vtQCTq-gzf5t6pzjUkfMVgYvDrueuvSCIY3cE8e1ok%3D&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQxA16BAhCEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%9C+%D7%97%D7%95%D7%9D&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgFL5zRX9OkhN2vjs4qwVWopd5Cn1CTV_ZjxTCXUOBktSj7zd5MG6JLLYifzUZyk4UcfBADe3f4kOiv3DRYkBHQ_L8OHmOcSzOiciRD_o6WG9eWL4x3IF64yyHQ9fATyM875-a1-PjZ6cFnct9YrX4JTG1KJRSnTaaBALtvRApaUhfXnz_YFamP6ZFFzBtnoeMkUDxChjzvFGYF1v-pmt7xFcoomp0vtQCTq-gzf5t6pzjUkfMVgYvDrueuvSCIY3cE8e1ok%3D&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+                "image": "https://serpapi.com/searches/627cff422c0844449ab0573d/images/4493fdb69afd1a5390a7d49ce7950a508b3e44f42aeed6264c1c459b5df36343a603ac70dec720e437499999cc8537f609f95b8a2c3aaf37.jpeg"
+            },
+            {
+                "name": "שרפת יער",
+                "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%A9%D7%A8%D7%A4%D7%AA+%D7%99%D7%A2%D7%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSm0oRoovZ33YXbJaNNt610fA-vInmncT03DKuQk2omx1skTapYpeZa3MZhzcOslyJKzfYHucVPEjjXZii6vOSoXfE2qTJuC2vOYAujnnuI8Jutx-LKwfpVlOS4ftMq5YDNpajl-d9QYQ_z0Y6HszCBub7wZNu0ntEJGgoHXaveYqBnw35oJV4ggudlmdD-iI96uNVzycBVf0zz7W-3aninMlOvDD8Dfn83dAHvFNS5rFJTn7wcA8041iscHAfISytZULKw%3D&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQxA16BAhCEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%A8%D7%A4%D7%AA+%D7%99%D7%A2%D7%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSm0oRoovZ33YXbJaNNt610fA-vInmncT03DKuQk2omx1skTapYpeZa3MZhzcOslyJKzfYHucVPEjjXZii6vOSoXfE2qTJuC2vOYAujnnuI8Jutx-LKwfpVlOS4ftMq5YDNpajl-d9QYQ_z0Y6HszCBub7wZNu0ntEJGgoHXaveYqBnw35oJV4ggudlmdD-iI96uNVzycBVf0zz7W-3aninMlOvDD8Dfn83dAHvFNS5rFJTn7wcA8041iscHAfISytZULKw%3D&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+                "image": "https://serpapi.com/searches/627cff422c0844449ab0573d/images/4493fdb69afd1a5390a7d49ce7950a508b3e44f42aeed6264c1c459b5df36343a603ac70dec720e42b1b7cf5f792cb7a16ec871ff31cc099.jpeg"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&stick=H4sIAAAAAAAAAONgFuLQz9U3sLTMKVCCs7QEgzNTUssTK4v9UitKgktSC4oXsXJdn3h92fWp11dcX7WDlREACQyMkzkAAAA&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQMSgAegQIQhAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFuLQz9U3sLTMKVCCs7QEgzNTUssTK4v9UitKgktSC4oXsXJdn3h92fWp11dcX7WDlREACQyMkzkAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "אביב גפן | אברהם פריד - בצורת",
+            "link": "https://www.youtube.com/watch?v=TrI6wnq0kYE",
+            "thumbnail": "https://serpapi.com/searches/627cff422c0844449ab0573d/images/ae79f09e0347e522b6d0d604fc84c717c6d3be0ad3b0058c1f7c651e6fe3d073.jpeg",
+            "channel": "Aviv Geffen Official אביב גפן",
+            "duration": "3:18",
+            "platform": "YouTube",
+            "date": "20 בדצמ׳ 2020"
+        },
+        {
+            "position": 2,
+            "title": "בצורת (Live) - אברהם פריד ואביב גפן",
+            "link": "https://www.youtube.com/watch?v=qqRP6S72iw0",
+            "thumbnail": "https://serpapi.com/searches/627cff422c0844449ab0573d/images/ae79f09e0347e52249356311037d34f2fae210ffa4253fcb9b41706a887ab1d5.jpeg",
+            "channel": "Avraham Fried אברהם פריד",
+            "duration": "3:25",
+            "platform": "YouTube",
+            "date": "5 באוג׳ 2021"
+        },
+        {
+            "position": 3,
+            "title": "כאן גימל - אביב גפן / אברהם פריד – \"בצורת\" | Facebook",
+            "link": "https://he-il.facebook.com/KANGIMMEL/videos/%D7%90%D7%91%D7%99%D7%91-%D7%92%D7%A4%D7%9F-%D7%90%D7%91%D7%A8%D7%94%D7%9D-%D7%A4%D7%A8%D7%99%D7%93-%D7%91%D7%A6%D7%95%D7%A8%D7%AA/705035236824374/",
+            "thumbnail": "https://serpapi.com/searches/627cff422c0844449ab0573d/images/ae79f09e0347e522a409e2c0bb08bdef0a6819d8c5fc2918592b7df3b749dc33.jpeg",
+            "channel": "כאן גימל",
+            "duration": "3:18",
+            "platform": "פייסבוק",
+            "date": "20 בדצמ׳ 2020"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "בצורת - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%91%D7%A6%D7%95%D7%A8%D7%AA",
+            "displayed_link": "https://he.wikipedia.org › wiki › בצורת",
+            "thumbnail": "https://serpapi.com/searches/627cff422c0844449ab0573d/images/b8af5df8e8b633037a3d7f7a86cd836f0727dccf2ef849229a067f3fda9ad4dc.jpeg",
+            "snippet": "בצורת היא מצב שבו זמינות המים במקום מסוים יורדת במידה ניכרת מתחת לממוצע הרב-שנתי לתקופת הגשמים. היא אינה נחשבת לתופעת טבע, משום שהיא מתרחשת כאשר זמינות המים לא ...",
+            "snippet_highlighted_words": [
+                "בצורת"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "מהי בצורת? - אנציקלופדיית אאוריקה",
+            "link": "https://eureka.org.il/item/41558/%D7%9E%D7%94%D7%99-%D7%91%D7%A6%D7%95%D7%A8%D7%AA",
+            "displayed_link": "https://eureka.org.il › item › מהי-בצורת",
+            "thumbnail": "https://serpapi.com/searches/627cff422c0844449ab0573d/images/b8af5df8e8b633037a3d7f7a86cd836f3f08bdd650e96f6947c372293ba3e984.jpeg",
+            "snippet": "מה זה בצורת? בצורת היא ירידה של גשמים מועטים במיוחד או הפסקה של הגשמים באזור מסוים. בכל שנה יש ממוצע של גשמים שיורדים, אך בשנה שבה יורדים מעט מאד גשמים ישנה ...",
+            "snippet_highlighted_words": [
+                "בצורת",
+                "בצורת"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "מה זה בצורת - מילון עברי עברי - מילוג",
+            "link": "https://milog.co.il/%D7%91%D7%A6%D7%95%D7%A8%D7%AA",
+            "displayed_link": "https://milog.co.il › בצורת",
+            "snippet": "בצורת היא מצב שבו זמינות המים במקום מסוים יורדת במידה ניכרת מתחת לממוצע הרב⁻שנתי לתקופת הגשמים. בצורת אינה נחשבת לתופעה טבעית, משום שבצורת מתרחשת כאשר ...",
+            "snippet_highlighted_words": [
+                "בצורת",
+                "בצורת",
+                "שבצורת"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "בצורת - – המכלול",
+            "link": "https://www.hamichlol.org.il/%D7%91%D7%A6%D7%95%D7%A8%D7%AA",
+            "displayed_link": "https://www.hamichlol.org.il › בצורת",
+            "date": "20 בדצמ׳ 2020",
+            "snippet": "ההגדרה של המילה בצורת עשויה להשתנות בהתאם לנקודת ההשקפה. יש ארבעה סוגים של בצורות \"מקובלות\": בצורת מטאורולוגית - כאשר אזור מסוים חווה תקופה יבשה ...",
+            "snippet_highlighted_words": [
+                "בצורת",
+                "בצורות",
+                "בצורת"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "בצורת - Ynet",
+            "link": "http://www.ynet.co.il/tags/%D7%91%D7%A6%D7%95%D7%A8%D7%AA",
+            "displayed_link": "http://www.ynet.co.il › tags › בצורת",
+            "snippet": "בצורת - מגוון כתבות אודות בצורת באתר ynet. כנסו וקראו על כל הנושאים שהכי מעניינים אתכם. חדשות חמות, עדכונים ומבזקים.",
+            "snippet_highlighted_words": [
+                "בצורת",
+                "בצורת"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "בצורת בישראל",
+            "link": "https://meyda.education.gov.il/files/Pop/0files/geography_adam_sviva/Chativa-Elyona/bagroyut/bazoretbeishraelnirran52.pdf",
+            "displayed_link": "https://meyda.education.gov.il › Pop › bagroyut",
+            "date": "9 דפים",
+            "snippet": "זוהי הסיבה לכך שאירועי בצורת ... לא קיימת הגדרה כמותית אוניברסאלית של המושג בצורת ... כאשר נגרמים נזקים לחקלאות עקב בצורת אקלימית או עקב חלוקה גרועה של.",
+            "snippet_highlighted_words": [
+                "בצורת",
+                "בצורת",
+                "בצורת"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "‏בצורת - תרגום לאנגלית - דוגמאות עברית | Reverso Context",
+            "link": "https://context.reverso.net/%D7%AA%D7%A8%D7%92%D7%95%D7%9D/%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA/%D7%91%D7%A6%D7%95%D7%A8%D7%AA",
+            "displayed_link": "https://context.reverso.net › תרגום › עברית-אנגלית › בצורת",
+            "snippet": "אתה חושב שהבאתי בצורת ורעב על אנשיי? You think I'd bring drought and famine upon my own people? יש כתם על התקרה שלך בצורת ארנב.",
+            "snippet_highlighted_words": [
+                "בצורת",
+                "drought",
+                "בצורת"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "פירוש המילה בצורת ,פרוש, הסבר, משמעות והגדרה - מילון אבניאון",
+            "link": "https://www.milononline.net/do_search.php?Q=%E1%F6%E5%F8%FA",
+            "displayed_link": "https://www.milononline.net › do_search › Q=בצורת",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR5TCJO6-Rqv6VOxLrAseBnsEguzU8xU95s9WNIbwGCEwVp59x4Rzc&usqp=CAE&s",
+            "snippet": "פירוש המילה בצורת לפי מילון אבניאון \\ ספיר, מילון עברי עברי בעריכתו של איתן אבניאון. דקדוק, ניבים ומילים נרדפות לבצורת. משמעות המילה ופתגמים.",
+            "snippet_highlighted_words": [
+                "בצורת"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "מהי בצורת",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%9E%D7%94%D7%99+%D7%91%D7%A6%D7%95%D7%A8%D7%AA&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "בצורת אקורדים",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA+%D7%90%D7%A7%D7%95%D7%A8%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ1QJ6BAglEAE"
+        },
+        {
+            "query": "באילו שנים הייתה בצורת בישראל",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%91%D7%90%D7%99%D7%9C%D7%95+%D7%A9%D7%A0%D7%99%D7%9D+%D7%94%D7%99%D7%99%D7%AA%D7%94+%D7%91%D7%A6%D7%95%D7%A8%D7%AA+%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "בצורת בארץ ישראל",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA+%D7%91%D7%90%D7%A8%D7%A5+%D7%99%D7%A9%D7%A8%D7%90%D7%9C&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "בצורת אברהם פריד",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA+%D7%90%D7%91%D7%A8%D7%94%D7%9D+%D7%A4%D7%A8%D7%99%D7%93&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "בצורת חקלאית",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA+%D7%97%D7%A7%D7%9C%D7%90%D7%99%D7%AA&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ1QJ6BAggEAE"
+        },
+        {
+            "query": "בצורת באנגלית",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA+%D7%91%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "שנת בצורת",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%A9%D7%A0%D7%AA+%D7%91%D7%A6%D7%95%D7%A8%D7%AA&sa=X&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ1QJ6BAgbEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&hl=iw&gl=IL&ei=Qv98YpP-OqG7gge6-6WYDw&start=10&sa=N&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&hl=iw&gl=IL&ei=Qv98YpP-OqG7gge6-6WYDw&start=10&sa=N&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&hl=iw&gl=IL&ei=Qv98YpP-OqG7gge6-6WYDw&start=20&sa=N&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&hl=iw&gl=IL&ei=Qv98YpP-OqG7gge6-6WYDw&start=30&sa=N&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&hl=iw&gl=IL&ei=Qv98YpP-OqG7gge6-6WYDw&start=40&sa=N&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&hl=iw&gl=IL&ei=Qv98YpP-OqG7gge6-6WYDw&start=50&sa=N&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&hl=iw&gl=IL&ei=Qv98YpP-OqG7gge6-6WYDw&start=60&sa=N&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&hl=iw&gl=IL&ei=Qv98YpP-OqG7gge6-6WYDw&start=70&sa=N&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&hl=iw&gl=IL&ei=Qv98YpP-OqG7gge6-6WYDw&start=80&sa=N&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&hl=iw&gl=IL&ei=Qv98YpP-OqG7gge6-6WYDw&start=90&sa=N&ved=2ahUKEwiTp-7v_Nn3AhWhneAKHbp9CfMQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=20&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=30&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=40&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=50&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=60&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=70&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=80&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%91%D7%A6%D7%95%D7%A8%D7%AA&start=90&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D"
+        }
+    }
+}

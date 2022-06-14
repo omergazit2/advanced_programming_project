@@ -1,0 +1,385 @@
+{
+    "search_metadata": {
+        "id": "629e3dbb87a0eed0e9f7b8ea",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/257d1dfd00d74f49/629e3dbb87a0eed0e9f7b8ea.json",
+        "created_at": "2022-06-06 17:47:39 UTC",
+        "processed_at": "2022-06-06 17:47:39 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&oq=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/257d1dfd00d74f49/629e3dbb87a0eed0e9f7b8ea.html",
+        "total_time_taken": 0.95
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Млекопитающие",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Млекопитающие",
+        "total_results": 7200000,
+        "time_taken_displayed": 0.52
+    },
+    "knowledge_graph": {
+        "title": "Млекопитающие",
+        "type": "Животное",
+        "header_images": [
+            {
+                "source": "https://bigenc.ru/biology/text/2220123"
+            },
+            {
+                "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5"
+            },
+            {
+                "source": "https://www.ozon.ru/product/mlekopitayushchie-plakat-34004572/"
+            },
+            {
+                "source": "https://www.yaklass.ru/p/biologia/7-klass/znakomimsia-s-khordovymi-15494/mlekopitaiushchie-15481/re-d1d873e5-81fb-4a20-bf7c-990c2239580d"
+            },
+            {
+                "source": "https://www.calc.ru/Klass-Mlekopitayushchiye-Osnovnyye-Priznaki.html"
+            },
+            {
+                "source": "https://bigenc.ru/biology/text/2220123"
+            },
+            {
+                "source": "http://ecosystema.ru/ecoshop/opredelitelnye-tablicy/mlekopitayushie"
+            },
+            {
+                "source": "https://studarium.ru/article/75"
+            }
+        ],
+        "description": "Млекопита́ющие — класс позвоночных животных, основной отличительной особенностью которых является вскармливание детёнышей молоком. Класс входит в кладу синапсид надкласса четвероногих.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5"
+        },
+        "Научное_название": "Mammalia",
+        "Научное_название_links": [
+            {
+                "text": "Научное название",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B5+%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&stick=H4sIAAAAAAAAAOPgE-LQz9U3MCnKrtQyzk620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zKk7OTM0rAfEV8hJzUxexWl3Yc2H3ha0Xdl3Yd2H_hR0Xmy5suNh3sfPCjgtbFS7sBXKaL7YD6X1Q7oXtFzYByb0geQBc7FX-fgAAAA&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ6BMoAHoECG4QAg"
+            }
+        ],
+        "Ранг": "Класс",
+        "Ранг_links": [
+            {
+                "text": "Ранг",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D1%80%D0%B0%D0%BD%D0%B3&stick=H4sIAAAAAAAAAAFcAKP_CA4SCC9tLzA0cmt5KihrYzovYmlvbG9neS9vcmdhbmlzbV9jbGFzc2lmaWNhdGlvbjpyYW5rogUj0LzQu9C10LrQvtC_0LjRgtCw0Y7RidC40LUg0YDQsNC90LMExFDgXAAAAA&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ6BMoAHoECFMQAg"
+            }
+        ],
+        "Высшая_классификация": "Маммалиаформы",
+        "Высшая_классификация_links": [
+            {
+                "text": "Высшая классификация",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D0%B2%D1%8B%D1%81%D1%88%D0%B0%D1%8F+%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F&stick=H4sIAAAAAAAAAOPgE-LQz9U3MCnKrtSyzE620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zyshMz0gtUkAVXcTqdGHPhd0Xtl7YdWHfhf0XdlxsurDhYt_Fzgs7LmxVuLDpYvfFxosdQKF-BaCK3UBG48VGoKoWoPwuIK8NyO4HACJPLbGMAAAA&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ6BMoAHoECFQQAg"
+            },
+            {
+                "text": "Маммалиаформы",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D0%B8%D0%B0%D1%84%D0%BE%D1%80%D0%BC%D1%8B&stick=H4sIAAAAAAAAAOPgE-LQz9U3MCnKrlTiBLGS8krysrUss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OsMjLTM1KLFFBFF7FKXZhzYcOFPUC44cLuCzsubLjYcmHfxYYLey5272Bl3MXOxMEAAKnQ6Ip3AAAA&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQmxMoAXoECFQQAw"
+            }
+        ],
+        "Низшие_классификации": [
+            {
+                "name": "Собака",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlTiBLGSSixzirQss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyXFh4Yd-FjRc2XNh1YcMOVkYAhuhJ4GQAAAA&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQxA16BAhZEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlTiBLGSSixzirQss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyXFh4Yd-FjRc2XNh1YcMOVkYAhuhJ4GQAAAA",
+                "image": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/cd04d95d6f931b102a4ae7e491f3d0abf23e6807b62bd0fb7f9dcd41296d1befe2dd5c805ab318e6a8e438674a7b6a5f04fc741267ae9ff448815f1e21565c04.jpeg"
+            },
+            {
+                "name": "Человек",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlTiBLFS0ssti7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyXVh-YeuF3Rf2XdgEpHftYGUEACD0YRdmAAAA&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQxA16BAhZEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlTiBLFS0ssti7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyXVh-YeuF3Rf2XdgEpHftYGUEACD0YRdmAAAA",
+                "image": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/cd04d95d6f931b102a4ae7e491f3d0abf23e6807b62bd0fb7f9dcd41296d1befe2dd5c805ab318e6a8e438674a7b6a5f04fc741267ae9ff4b628ac5ee16c69d6.jpeg"
+            },
+            {
+                "name": "Хищные",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A5%D0%B8%D1%89%D0%BD%D1%8B%D0%B5&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlQCswxzinK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8lxYemHHxc4Ley92X9i6g5URAOB9sR1jAAAA&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQxA16BAhZEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A5%D0%B8%D1%89%D0%BD%D1%8B%D0%B5&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlQCswxzinK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8lxYemHHxc4Ley92X9i6g5URAOB9sR1jAAAA",
+                "image": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/cd04d95d6f931b102a4ae7e491f3d0abf23e6807b62bd0fb7f9dcd41296d1befe2dd5c805ab318e6a8e438674a7b6a5f04fc741267ae9ff4da0c7f78487dc87c.jpeg"
+            },
+            {
+                "name": "Домашняя коза",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F+%D0%BA%D0%BE%D0%B7%D0%B0&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlQCs4zTynO0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexSl6YcmHfhT0XNlzsuLD3Yv_FfoULu4AC2y9s2MHKCAAMTOJgcAAAAA&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQxA16BAhZEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F+%D0%BA%D0%BE%D0%B7%D0%B0&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlQCs4zTynO0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexSl6YcmHfhT0XNlzsuLD3Yv_FfoULu4AC2y9s2MHKCAAMTOJgcAAAAA",
+                "image": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/cd04d95d6f931b102a4ae7e491f3d0abf23e6807b62bd0fb7f9dcd41296d1befe2dd5c805ab318e6a8e438674a7b6a5f04fc741267ae9ff4c2aab7c3d7919ef0.jpeg"
+            }
+        ],
+        "Низшие_классификации_link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D0%BD%D0%B8%D0%B7%D1%88%D0%B8%D0%B5+%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlSCs7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7E6XdhzYfeFrRd2Xdh3Yf-FHRebLmy42Hex88KOC1sVLuwFUtsvdkA4u4DqNlxsvNgIVNUCFNoF5LUB6R07WBkBHQBAqZkAAAA&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQMSgAegQIWRAB",
+        "Низшие_классификации_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCnKrlSCs7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7E6XdhzYfeFrRd2Xdh3Yf-FHRebLmy42Hex88KOC1sVLuwFUtsvdkA4u4DqNlxsvNgIVNUCFNoF5LUB6R07WBkBHQBAqZkAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "16. Млекопитающие. Часть 1",
+            "link": "https://www.youtube.com/watch?v=wKDrSj-qNHU",
+            "thumbnail": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/931df1b4fe1a12f42e80accc808c6ad20a2282c93440022103d2f592d8dcf0f5.jpeg",
+            "channel": "Дети и Наука",
+            "duration": "7:54",
+            "platform": "YouTube",
+            "date": "28 июн. 2016 г."
+        },
+        {
+            "position": 2,
+            "title": "Млекопитающие. Видеоурок по окружающему миру 1 класс",
+            "link": "https://www.youtube.com/watch?v=APC8-ICmXNM",
+            "thumbnail": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/931df1b4fe1a12f40259baaf79fe8b04076c58c3a3c97a1b7ca58241c9bd09d2.jpeg",
+            "channel": "InternetUrok.ru",
+            "duration": "7:23",
+            "platform": "YouTube",
+            "date": "22 июл. 2016 г."
+        },
+        {
+            "position": 3,
+            "title": "Класс Млекопитающие Общая характеристика",
+            "link": "https://www.youtube.com/watch?v=EJ9bbDa79rQ",
+            "thumbnail": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/931df1b4fe1a12f43db01bd8ab812ebe1be20412d5f42771c6c60665e066b9b8.jpeg",
+            "channel": "Biology",
+            "duration": "10:19",
+            "platform": "YouTube",
+            "date": "16 февр. 2017 г."
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Кто относится к классу млекопитающих?",
+            "title": "Содержание",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D1%85_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+            "list": [
+                "3.1 Семейство Бобровые (Castoridae)",
+                "3.2 Семейство Мышовковые (Sminthidae)",
+                "3.3 Семейство Тушканчиковые (Dipodidae)",
+                "3.4 Семейство Слепышовые (Spalacidae)",
+                "3.5 Семейство Хомяковые (Cricetidae)",
+                "3.6 Семейство Мышиные (Muridae)",
+                "3.7 Семейство Беличьи (Sciuridae)",
+                "3.8 Семейство Соневые (Gliridae)"
+            ],
+            "displayed_link": "https://ru.wikipedia.org › wiki › Список_млекопитаю..."
+        },
+        {
+            "question": "Кто такие млекопитающие и кто к ним относится?",
+            "snippet": "звери (Mammalia), класс позвоночных, наиболее известная группа животных, включающая более чем 4600 видов мировой фауны. В нее входят кошки, собаки, коровы, слоны, мыши, киты, люди и т.",
+            "title": "это... Что такое МЛЕКОПИТАЮЩИЕ? - Словари и ...",
+            "link": "https://dic.academic.ru/dic.nsf/enc_colier/2458/%D0%9C%D0%9B%D0%95%D0%9A%D0%9E%D0%9F%D0%98%D0%A2%D0%90%D0%AE%D0%A9%D0%98%D0%95",
+            "displayed_link": "https://dic.academic.ru › dic.nsf › enc_colier › МЛЕКОП..."
+        },
+        {
+            "question": "Какое животное обитает в Норвегии?",
+            "snippet": "В животном мире Норвегии — представители лесных и тундровых видов. В тундрах севера водятся северные олени, лемминги — норвежские мыши, белые и голубые песцы. В лесах обитают благородные олени, лоси, куницы и рыси, ласки и горностаи, бобры, бурундуки, белки. Повсеместно — лисицы и зайцы.",
+            "title": "Природа, растения и животные Норвегии - Сезоны года",
+            "link": "https://xn----8sbiecm6bhdx8i.xn--p1ai/%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0%20%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8.html",
+            "displayed_link": "https://сезоны-года.рф › ..."
+        },
+        {
+            "question": "Какие есть млекопитающие животные?",
+            "title": "Млекопитающие",
+            "link": "https://moscowzoo.ru/animals/mlekopitayushchie/",
+            "list": [
+                "Сумчатые",
+                "Насекомоядные",
+                "Приматы",
+                "Рукокрылые",
+                "Грызуны",
+                "Ластоногие",
+                "Прыгунчики",
+                "Даманы"
+            ],
+            "displayed_link": "https://moscowzoo.ru › animals › mlekopitayushchie"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Млекопитающие - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Млекопитающие",
+            "thumbnail": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/9d8f736511b8ce4631354f5a5f2e11d63f74f39a64e3d3b6066681aae3f3ced4.jpeg",
+            "snippet": "Млекопита́ющие (лат. Mammalia) — класс позвоночных животных, основной отличительной особенностью которых является вскармливание детёнышей молоком.",
+            "snippet_highlighted_words": [
+                "Млекопита́ющие"
+            ],
+            "images": [
+                "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/9d8f736511b8ce4631354f5a5f2e11d66af75c66f4562ea55aec924446107660.jpeg",
+                "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/9d8f736511b8ce4631354f5a5f2e11d66af75c66f4562ea5670e937ceb354cb3.jpeg",
+                "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/9d8f736511b8ce4631354f5a5f2e11d66af75c66f4562ea522c553a2ee8b2257.jpeg",
+                "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/9d8f736511b8ce4631354f5a5f2e11d66af75c66f4562ea5a6bf52105c9e8564.jpeg"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Категория:Млекопитающие",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5"
+                    },
+                    {
+                        "title": "Классификация",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D1%85"
+                    },
+                    {
+                        "title": "Сирены (млекопитающие)",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D1%8B_(%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5)"
+                    },
+                    {
+                        "title": "Звери",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D0%B5%D1%80%D0%B8"
+                    }
+                ]
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Список млекопитающих России - Википедия",
+                    "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D1%85_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+                    "displayed_link": "https://ru.wikipedia.org › wiki › Список_млекопитаю...",
+                    "snippet": "Список млекопитающих России включает около 300 видов класса Млекопитающие, обитающих, или обитавших в историческое время на территории России, а также виды, ...",
+                    "snippet_highlighted_words": [
+                        "млекопитающих",
+                        "Млекопитающие"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Млекопитающие - Пензенский зоопарк",
+            "link": "https://www.zoo-penza.ru/animals/mlekopitayushchie/",
+            "displayed_link": "https://www.zoo-penza.ru › animals › mlekopitayushchie",
+            "thumbnail": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/9d8f736511b8ce4631354f5a5f2e11d68b86713d422ea828d5b90d51671698ed.jpeg",
+            "snippet": "Млекопитающие (лат.. Mammalia) — класс позвоночных, наиболее известная группа животных, включающая более чем 4600 видов мировой фауны. В нее входят кошки, ...",
+            "snippet_highlighted_words": [
+                "Млекопитающие"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "млекопита́ющие - Большая российская энциклопедия",
+            "link": "https://bigenc.ru/biology/text/2220123",
+            "displayed_link": "https://bigenc.ru › biology › text",
+            "thumbnail": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/9d8f736511b8ce4631354f5a5f2e11d6915f4f226e53567b5c4ddfafdd171edb.jpeg",
+            "snippet": "МЛЕКОПИТА́ЮЩИЕ, звери (Mammalia), класс наиболее высоко организованных позвоночных животных типа хордовых, к которому относится и человек.",
+            "snippet_highlighted_words": [
+                "МЛЕКОПИТА́ЮЩИЕ"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Млекопитающие - Калининградский Зоопарк",
+            "link": "https://kldzoo.ru/nashi-zhivotnye/mlekopitayushchie/",
+            "displayed_link": "https://kldzoo.ru › Наши животные",
+            "snippet": "Млекопита́ющие (лат. Mammalia) — класс позвоночных животных, основной отличительной особенностью которых является вскармливание детёнышей молоком.",
+            "snippet_highlighted_words": [
+                "Млекопита́ющие"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "МЛЕКОПИТАЮЩИЕ · Животные - Челябинского зоопарка",
+            "link": "http://chelzoo.ru/animals/",
+            "displayed_link": "http://chelzoo.ru › animals",
+            "thumbnail": "https://serpapi.com/searches/629e3dbb87a0eed0e9f7b8ea/images/9d8f736511b8ce4631354f5a5f2e11d614b4ba3028a26a9cc37d65d69993bc4e.jpeg",
+            "snippet": "Млекопитающие (лат. mammalia) - класс позвоночных животных, основной отличительной особенностью которых является вскармливание детёнышей молоком.",
+            "snippet_highlighted_words": [
+                "Млекопитающие"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Млекопитающие | izi.TRAVEL",
+            "link": "https://izi.travel/ru/d044-mlekopitayushchie/ru",
+            "displayed_link": "https://izi.travel › d044-mlekopitayushchie",
+            "snippet": "Млекопита́ющие — класс позвоночных животных, основной отличительной особенностью которых является вскармливание детёнышей молоком.",
+            "snippet_highlighted_words": [
+                "Млекопита́ющие"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Ученые выяснили, какими были первые млекопитающие",
+            "link": "https://ria.ru/20201012/mlekopitayuschie-1579403286.html",
+            "displayed_link": "https://ria.ru › Новости",
+            "date": "12 окт. 2020 г.",
+            "snippet": "Результаты исследования опубликованы в журнале Nature Communications. Первые млекопитающие появились в конце триасового периода, 220-210 ...",
+            "snippet_highlighted_words": [
+                "млекопитающие"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "млекопитающее - Викисловарь",
+            "link": "https://ru.wiktionary.org/wiki/%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B5%D0%B5",
+            "displayed_link": "https://ru.wiktionary.org › wiki › млекопитающее",
+            "snippet": "[НКРЯ] ◇ Прежде всякий свободно мог учить, что кит есть рыба; но с тех пор, как совершенно точно установлено, что животное это ― млекопитающее, ...",
+            "snippet_highlighted_words": [
+                "млекопитающее"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "млекопитающие рыбы",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D1%80%D1%8B%D0%B1%D1%8B&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ1QJ6BAhMEAE"
+        },
+        {
+            "query": "млекопитающие животные",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ1QJ6BAhKEAE"
+        },
+        {
+            "query": "млекопитающие лебедь",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ1QJ6BAhHEAE"
+        },
+        {
+            "query": "млекопитающие птицы",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D0%BF%D1%82%D0%B8%D1%86%D1%8B&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ1QJ6BAhGEAE"
+        },
+        {
+            "query": "млекопитающие человек",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ1QJ6BAhCEAE"
+        },
+        {
+            "query": "млекопитающие утка",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D1%83%D1%82%D0%BA%D0%B0&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ1QJ6BAg_EAE"
+        },
+        {
+            "query": "млекопитающие что едят",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5+%D1%87%D1%82%D0%BE+%D0%B5%D0%B4%D1%8F%D1%82&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "интересные млекопитающие",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B5+%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&sa=X&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ1QJ6BAg3EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&ei=uz2eYs68Oc7FqtsP2O-lmAI&start=10&sa=N&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&ei=uz2eYs68Oc7FqtsP2O-lmAI&start=10&sa=N&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&ei=uz2eYs68Oc7FqtsP2O-lmAI&start=20&sa=N&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&ei=uz2eYs68Oc7FqtsP2O-lmAI&start=30&sa=N&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&ei=uz2eYs68Oc7FqtsP2O-lmAI&start=40&sa=N&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&ei=uz2eYs68Oc7FqtsP2O-lmAI&start=50&sa=N&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&ei=uz2eYs68Oc7FqtsP2O-lmAI&start=60&sa=N&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&ei=uz2eYs68Oc7FqtsP2O-lmAI&start=70&sa=N&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&ei=uz2eYs68Oc7FqtsP2O-lmAI&start=80&sa=N&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&hl=ru&gl=ru&ei=uz2eYs68Oc7FqtsP2O-lmAI&start=90&sa=N&ved=2ahUKEwiOhvSLsZn4AhXOomoFHdh3CSMQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5&start=90"
+        }
+    }
+}

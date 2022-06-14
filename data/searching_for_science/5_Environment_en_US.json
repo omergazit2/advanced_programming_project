@@ -1,0 +1,558 @@
+{
+    "search_metadata": {
+        "id": "629e3d43c90e0aebdfc0bf96",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5b3d3b9faaa5413a/629e3d43c90e0aebdfc0bf96.json",
+        "created_at": "2022-06-06 17:45:39 UTC",
+        "processed_at": "2022-06-06 17:45:39 UTC",
+        "google_url": "https://www.google.com/search?q=Environment&oq=Environment&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/5b3d3b9faaa5413a/629e3d43c90e0aebdfc0bf96.html",
+        "total_time_taken": 3.81
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Environment",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Environment",
+        "total_results": 4820000000,
+        "time_taken_displayed": 0.92
+    },
+    "knowledge_graph": {
+        "see_results_about": [
+            {
+                "name": "Natural environment",
+                "extensions": [
+                    "The natural environment or natural world encompasses all ..."
+                ],
+                "image": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/77223902061189a30be64aae47f0ee222dd2d2263a89534730ce31f2286d2f952dd936b024e567ae49a0c2936f13352e.jpeg"
+            },
+            {
+                "name": "Biophysical environment",
+                "extensions": [
+                    "A biophysical environment is a biotic and abiotic surrounding ..."
+                ],
+                "image": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/77223902061189a30be64aae47f0ee222dd2d2263a89534730ce31f2286d2f954a672d328914999e56797c7e99865789.jpeg"
+            }
+        ]
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=bsAkEjZ2ehoHvM%252CZx9nP9qMsUNq7M%252C_%253BxjURym2wgro59M%252CN69FY78afZyxSM%252C_%253BoEehUxlFSRZQRM%252CtMIIE14Q-soZCM%252C_%253BOlqrKFapGVbfjM%252CZy0GNc2pQn7vzM%252C_%253Bl2PD117xqy6gaM%252CI-MqYDmsiaW4iM%252C_%253BY88ftMZ8Pg2FCM%252Ci02KGMneCdvAUM%252C_%253Bj2dftIX1Ye01yM%252CCpdx86ztVRiDkM%252C_%253BxQGn8t1sr80RUM%252Cf7T7oUt6Bq_IwM%252C_%253BcFIH2q-1hstf9M%252CCuqpERl7NPyPfM%252C_%253BQzwtM1U1a_tRwM%252CtBdfMKsiZJklnM%252C_&usg=AI4_-kQ7ca2AwVQV5GoXUR5QYtbVe_fNoQ&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ9QF6BAgXEAE#imgrc=bsAkEjZ2ehoHvM",
+            "source": "https://www.voicesofyouth.org/blog/what-about-environment",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_00SokdHVCO1V_m5o7W1HAJkpClOG_J1gk7J2eskesQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=bsAkEjZ2ehoHvM%252CZx9nP9qMsUNq7M%252C_%253BxjURym2wgro59M%252CN69FY78afZyxSM%252C_%253BoEehUxlFSRZQRM%252CtMIIE14Q-soZCM%252C_%253BOlqrKFapGVbfjM%252CZy0GNc2pQn7vzM%252C_%253Bl2PD117xqy6gaM%252CI-MqYDmsiaW4iM%252C_%253BY88ftMZ8Pg2FCM%252Ci02KGMneCdvAUM%252C_%253Bj2dftIX1Ye01yM%252CCpdx86ztVRiDkM%252C_%253BxQGn8t1sr80RUM%252Cf7T7oUt6Bq_IwM%252C_%253BcFIH2q-1hstf9M%252CCuqpERl7NPyPfM%252C_%253BQzwtM1U1a_tRwM%252CtBdfMKsiZJklnM%252C_&usg=AI4_-kQ7ca2AwVQV5GoXUR5QYtbVe_fNoQ&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ9QF6BAhOEAE#imgrc=xjURym2wgro59M",
+            "source": "https://www.openaccessgovernment.org/the-environment-clean-water-is-life-health-food-leisure-and-energy/53926/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWRKPAYIugdBaUQAEzZtL36KSc5IPBxBLwT9Wy5F2tw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=bsAkEjZ2ehoHvM%252CZx9nP9qMsUNq7M%252C_%253BxjURym2wgro59M%252CN69FY78afZyxSM%252C_%253BoEehUxlFSRZQRM%252CtMIIE14Q-soZCM%252C_%253BOlqrKFapGVbfjM%252CZy0GNc2pQn7vzM%252C_%253Bl2PD117xqy6gaM%252CI-MqYDmsiaW4iM%252C_%253BY88ftMZ8Pg2FCM%252Ci02KGMneCdvAUM%252C_%253Bj2dftIX1Ye01yM%252CCpdx86ztVRiDkM%252C_%253BxQGn8t1sr80RUM%252Cf7T7oUt6Bq_IwM%252C_%253BcFIH2q-1hstf9M%252CCuqpERl7NPyPfM%252C_%253BQzwtM1U1a_tRwM%252CtBdfMKsiZJklnM%252C_&usg=AI4_-kQ7ca2AwVQV5GoXUR5QYtbVe_fNoQ&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ9QF6BAhPEAE#imgrc=oEehUxlFSRZQRM",
+            "source": "https://www.keysight.com/us/en/about/corporate-social-responsibility/the-environment.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZ7t2x5uuOy_8pfOH5aa14vL4vVMDXUOoKSI2IAp12g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=bsAkEjZ2ehoHvM%252CZx9nP9qMsUNq7M%252C_%253BxjURym2wgro59M%252CN69FY78afZyxSM%252C_%253BoEehUxlFSRZQRM%252CtMIIE14Q-soZCM%252C_%253BOlqrKFapGVbfjM%252CZy0GNc2pQn7vzM%252C_%253Bl2PD117xqy6gaM%252CI-MqYDmsiaW4iM%252C_%253BY88ftMZ8Pg2FCM%252Ci02KGMneCdvAUM%252C_%253Bj2dftIX1Ye01yM%252CCpdx86ztVRiDkM%252C_%253BxQGn8t1sr80RUM%252Cf7T7oUt6Bq_IwM%252C_%253BcFIH2q-1hstf9M%252CCuqpERl7NPyPfM%252C_%253BQzwtM1U1a_tRwM%252CtBdfMKsiZJklnM%252C_&usg=AI4_-kQ7ca2AwVQV5GoXUR5QYtbVe_fNoQ&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ9QF6BAhKEAE#imgrc=OlqrKFapGVbfjM",
+            "source": "https://en.wikipedia.org/wiki/Natural_environment",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-AVpjItxWrQzVAJfcIufDluWUH483cpd_btGjRW63jg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=bsAkEjZ2ehoHvM%252CZx9nP9qMsUNq7M%252C_%253BxjURym2wgro59M%252CN69FY78afZyxSM%252C_%253BoEehUxlFSRZQRM%252CtMIIE14Q-soZCM%252C_%253BOlqrKFapGVbfjM%252CZy0GNc2pQn7vzM%252C_%253Bl2PD117xqy6gaM%252CI-MqYDmsiaW4iM%252C_%253BY88ftMZ8Pg2FCM%252Ci02KGMneCdvAUM%252C_%253Bj2dftIX1Ye01yM%252CCpdx86ztVRiDkM%252C_%253BxQGn8t1sr80RUM%252Cf7T7oUt6Bq_IwM%252C_%253BcFIH2q-1hstf9M%252CCuqpERl7NPyPfM%252C_%253BQzwtM1U1a_tRwM%252CtBdfMKsiZJklnM%252C_&usg=AI4_-kQ7ca2AwVQV5GoXUR5QYtbVe_fNoQ&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ9QF6BAhQEAE#imgrc=l2PD117xqy6gaM",
+            "source": "https://goodera.com/blog/sustainability/business-functions-and-environment-are-quite-interlinked-we-are-here-to-detail-you-about-the-most-common-environmental-risks-and-their-economic-implications/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAjjsCRWKSVGaZdNEVUmaE8lAX6ZhvPE10hrU2VsOifQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=bsAkEjZ2ehoHvM%252CZx9nP9qMsUNq7M%252C_%253BxjURym2wgro59M%252CN69FY78afZyxSM%252C_%253BoEehUxlFSRZQRM%252CtMIIE14Q-soZCM%252C_%253BOlqrKFapGVbfjM%252CZy0GNc2pQn7vzM%252C_%253Bl2PD117xqy6gaM%252CI-MqYDmsiaW4iM%252C_%253BY88ftMZ8Pg2FCM%252Ci02KGMneCdvAUM%252C_%253Bj2dftIX1Ye01yM%252CCpdx86ztVRiDkM%252C_%253BxQGn8t1sr80RUM%252Cf7T7oUt6Bq_IwM%252C_%253BcFIH2q-1hstf9M%252CCuqpERl7NPyPfM%252C_%253BQzwtM1U1a_tRwM%252CtBdfMKsiZJklnM%252C_&usg=AI4_-kQ7ca2AwVQV5GoXUR5QYtbVe_fNoQ&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ9QF6BAhSEAE#imgrc=Y88ftMZ8Pg2FCM",
+            "source": "https://theconversation.com/how-the-new-human-right-to-a-healthy-environment-could-accelerate-new-zealands-action-on-climate-change-170187",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkQBUSHk4bDqzjYxpQGU50QmWvMhVusyAOemveAKxVKw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=bsAkEjZ2ehoHvM%252CZx9nP9qMsUNq7M%252C_%253BxjURym2wgro59M%252CN69FY78afZyxSM%252C_%253BoEehUxlFSRZQRM%252CtMIIE14Q-soZCM%252C_%253BOlqrKFapGVbfjM%252CZy0GNc2pQn7vzM%252C_%253Bl2PD117xqy6gaM%252CI-MqYDmsiaW4iM%252C_%253BY88ftMZ8Pg2FCM%252Ci02KGMneCdvAUM%252C_%253Bj2dftIX1Ye01yM%252CCpdx86ztVRiDkM%252C_%253BxQGn8t1sr80RUM%252Cf7T7oUt6Bq_IwM%252C_%253BcFIH2q-1hstf9M%252CCuqpERl7NPyPfM%252C_%253BQzwtM1U1a_tRwM%252CtBdfMKsiZJklnM%252C_&usg=AI4_-kQ7ca2AwVQV5GoXUR5QYtbVe_fNoQ&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ9QF6BAhMEAE#imgrc=j2dftIX1Ye01yM",
+            "source": "https://eige.europa.eu/gender-mainstreaming/policy-areas/environment-and-climate-change",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwvHUnhdAXlvf8FTSYUkPhNFzcC0Fxt51jwn5mljSjQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=bsAkEjZ2ehoHvM%252CZx9nP9qMsUNq7M%252C_%253BxjURym2wgro59M%252CN69FY78afZyxSM%252C_%253BoEehUxlFSRZQRM%252CtMIIE14Q-soZCM%252C_%253BOlqrKFapGVbfjM%252CZy0GNc2pQn7vzM%252C_%253Bl2PD117xqy6gaM%252CI-MqYDmsiaW4iM%252C_%253BY88ftMZ8Pg2FCM%252Ci02KGMneCdvAUM%252C_%253Bj2dftIX1Ye01yM%252CCpdx86ztVRiDkM%252C_%253BxQGn8t1sr80RUM%252Cf7T7oUt6Bq_IwM%252C_%253BcFIH2q-1hstf9M%252CCuqpERl7NPyPfM%252C_%253BQzwtM1U1a_tRwM%252CtBdfMKsiZJklnM%252C_&usg=AI4_-kQ7ca2AwVQV5GoXUR5QYtbVe_fNoQ&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ9QF6BAhLEAE#imgrc=xQGn8t1sr80RUM",
+            "source": "https://www.brother.is/blog/environment/2019/10-easy-ways-to-help-the-environment",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5qT9Bdk35kI1DmcUAk-8pRY5afV4V7VNGrArPkbNqg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=bsAkEjZ2ehoHvM%252CZx9nP9qMsUNq7M%252C_%253BxjURym2wgro59M%252CN69FY78afZyxSM%252C_%253BoEehUxlFSRZQRM%252CtMIIE14Q-soZCM%252C_%253BOlqrKFapGVbfjM%252CZy0GNc2pQn7vzM%252C_%253Bl2PD117xqy6gaM%252CI-MqYDmsiaW4iM%252C_%253BY88ftMZ8Pg2FCM%252Ci02KGMneCdvAUM%252C_%253Bj2dftIX1Ye01yM%252CCpdx86ztVRiDkM%252C_%253BxQGn8t1sr80RUM%252Cf7T7oUt6Bq_IwM%252C_%253BcFIH2q-1hstf9M%252CCuqpERl7NPyPfM%252C_%253BQzwtM1U1a_tRwM%252CtBdfMKsiZJklnM%252C_&usg=AI4_-kQ7ca2AwVQV5GoXUR5QYtbVe_fNoQ&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ9QF6BAhJEAE#imgrc=cFIH2q-1hstf9M",
+            "source": "https://www.business-standard.com/article/current-affairs/world-environment-day-2021-theme-images-importance-of-ecosystem-restoration-june-5-environment-crisis-121060500082_1.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgL1ajOeYlgIJIjcoC7QgYUN4IqOKSWVL7ciJSNEf5OQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=bsAkEjZ2ehoHvM%252CZx9nP9qMsUNq7M%252C_%253BxjURym2wgro59M%252CN69FY78afZyxSM%252C_%253BoEehUxlFSRZQRM%252CtMIIE14Q-soZCM%252C_%253BOlqrKFapGVbfjM%252CZy0GNc2pQn7vzM%252C_%253Bl2PD117xqy6gaM%252CI-MqYDmsiaW4iM%252C_%253BY88ftMZ8Pg2FCM%252Ci02KGMneCdvAUM%252C_%253Bj2dftIX1Ye01yM%252CCpdx86ztVRiDkM%252C_%253BxQGn8t1sr80RUM%252Cf7T7oUt6Bq_IwM%252C_%253BcFIH2q-1hstf9M%252CCuqpERl7NPyPfM%252C_%253BQzwtM1U1a_tRwM%252CtBdfMKsiZJklnM%252C_&usg=AI4_-kQ7ca2AwVQV5GoXUR5QYtbVe_fNoQ&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ9QF6BAhBEAE#imgrc=QzwtM1U1a_tRwM",
+            "source": "https://www.state.gov/environment/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOziLqDszBeRIKid0YPxt_SkSQ0hXBdgZbRMhdZ9tNA&s"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "'There is hope': Prince William in rallying cry for the environment",
+            "link": "https://www.cnbc.com/2022/06/06/there-is-hope-prince-william-in-rallying-cry-for-the-environment.html",
+            "source": "CNBC",
+            "date": "7 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/fee44cfc628960c85c21cc3686c72077570b8feac904d446.jpeg"
+        },
+        {
+            "title": "Global actions on World Environment Day underscore urgent need to protect the planet",
+            "link": "https://www.unep.org/news-and-stories/press-release/global-actions-world-environment-day-underscore-urgent-need-protect",
+            "source": "UNEP",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/fee44cfc628960c848478152af565c15b499564ca0af7476.jpeg"
+        },
+        {
+            "title": "Take ELLE's Green Survey for World Environment Day",
+            "link": "https://www.elle.com/culture/career-politics/a40178908/elle-green-survey-environment/",
+            "source": "ELLE",
+            "date": "44 mins ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/fee44cfc628960c8205e6952fc83ab1791bb9419147b3e51.jpeg"
+        },
+        {
+            "title": "India ranks lowest in global environment performance index by US researchers",
+            "link": "https://www.hindustantimes.com/india-news/india-ranks-lowest-in-global-environment-performance-index-by-us-researchers-101654522252514.html",
+            "source": "Hindustan Times",
+            "date": "4 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/fee44cfc628960c8db0bd6c6c301b50f02ab9f00317ef8a6.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Environment&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQt8YBegQILxAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&tbm=nws",
+    "related_questions": [
+        {
+            "question": "What is a simple definition for environment?",
+            "snippet": "Definition of environment 1 : the circumstances, objects, or conditions by which one is surrounded. 2a : the complex of physical, chemical, and biotic factors (such as climate, soil, and living things) that act upon an organism or an ecological community and ultimately determine its form and survival.May 24, 2022",
+            "title": "Environment Definition & Meaning - Merriam-Webster",
+            "link": "https://www.merriam-webster.com/dictionary/environment",
+            "displayed_link": "https://www.merriam-webster.com › dictionary › enviro..."
+        },
+        {
+            "question": "What are 3 types of environments?",
+            "snippet": "The three types of environment are the physical environment, social environment, and culture.",
+            "title": "Define environment. Identify three types of environment. | Quizlet",
+            "link": "https://quizlet.com/explanations/questions/define-environment-identify-three-types-of-environment-22e6aae2-1f7f-4807-9153-723c352aee77",
+            "displayed_link": "https://quizlet.com › explanations › questions › define-en..."
+        },
+        {
+            "question": "What is environment the answer?",
+            "snippet": "Environment can be defined as a sum total of all the living and non-living elements and their effects that influence human life. While all living or biotic elements are animals, plants, forests, fisheries, and birds, non-living or abiotic elements include water, land, sunlight, rocks, and air.Dec 30, 2020",
+            "title": "Environment- Meaning, Definition, Function, Example - Byju's",
+            "link": "https://byjus.com/commerce/meaning-and-functions-of-environment/",
+            "displayed_link": "https://byjus.com › commerce › meaning-and-functions-o..."
+        },
+        {
+            "question": "What are the 4 types of environment?",
+            "snippet": "The four major components of environment include lithosphere, hydrosphere, atmosphere and biosphere, corresponding to rocks, water, air and life respectively.",
+            "title": "Components of Environment SEMESTER I - Government Degree ...",
+            "link": "http://gdckulgam.edu.in/Files/f07ef270-7e91-4716-8825-2966f17cc0f7/Custom/1st%20Sem%20EVS.pdf",
+            "displayed_link": "http://gdckulgam.edu.in › Files › Custom"
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "en·vi·ron·ment",
+        "word_type": "noun",
+        "definitions": [
+            "the surroundings or conditions in which a person, animal, or plant lives or operates.",
+            "the natural world, as a whole or in a particular geographical area, especially as affected by human activity."
+        ],
+        "extras": [
+            "habitat",
+            "territory",
+            "domain",
+            "home",
+            "abode",
+            "surroundings",
+            "conditions",
+            "environs",
+            "circumstances",
+            "nature",
+            "the world",
+            "the earth",
+            "Mother Nature",
+            "wildlife"
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Environment Definition & Meaning - Merriam-Webster",
+            "link": "https://www.merriam-webster.com/dictionary/environment",
+            "displayed_link": "https://www.merriam-webster.com › dictionary › enviro...",
+            "snippet": "1 : a person's physical surroundings He lives in a comfortable rural environment. · 2 : the surrounding conditions or forces (as soil, climate, and living things) ...",
+            "snippet_highlighted_words": [
+                "environment"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Merriam-Webster, Inc. is an American company that publishes reference books and is especially known for its dictionaries. It is the oldest dictionary publisher in the United States.\nIn 1831, George and Charles Merriam founded the company as G & C Merriam Co. in Springfield, Massachusetts.",
+                    "icon": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/3cfcbf14c420bb9bfbdafebe334688eddcde1ec926148aeca1c5daa498f63f8843ed23bcdf2b42326799819392f40375.png"
+                },
+                "keywords": [
+                    "environment"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.merriam-webster.com/dictionary/environment&tbm=ilp&ilps=ADNMCi3R1PNea6xoPjTRsk3EauJ5oZFcYg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dKF1N6Oj8SsJ:https://www.merriam-webster.com/dictionary/environment+&cd=10&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=related:https://www.merriam-webster.com/dictionary/environment+Environment"
+        },
+        {
+            "position": 2,
+            "title": "UNEP - UN Environment Programme",
+            "link": "https://www.unep.org/",
+            "displayed_link": "https://www.unep.org",
+            "snippet": "The global authority for the environment with programmes focusing on climate, nature, pollution, sustainable development and more.",
+            "snippet_highlighted_words": [
+                "environment"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The United Nations Environment Programme is responsible for coordinating responses to environmental issues within the United Nations system. It was established by Maurice Strong, its first director, after the United Nations Conference on the Human Environment in Stockholm in June 1972.",
+                    "icon": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/3cfcbf14c420bb9bfbdafebe334688ed169287f07564cb12fe3cfc836ba5a204e58096a161928534d48e1195d0cd8858.png"
+                },
+                "keywords": [
+                    "environment"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.unep.org/&tbm=ilp&ilps=ADNMCi0p2WbqEvbU9dCT_jWeylSnF5936w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:scVG34gV-HYJ:https://www.unep.org/+&cd=11&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=related:https://www.unep.org/+Environment"
+        },
+        {
+            "position": 3,
+            "title": "Environment - OECD",
+            "link": "https://www.oecd.org/environment/",
+            "displayed_link": "https://www.oecd.org › environment",
+            "snippet": "OECD work on environment helps countries design and implement effective policies to address environmental problems and sustainably manage natural resources.",
+            "snippet_highlighted_words": [
+                "environment",
+                "environmental"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "days_ago": 5
+                    },
+                    "extensions": [
+                        "5 days ago",
+                        "Uploaded by OECD Environment"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Organisation for Economic Co-operation and Development is an intergovernmental economic organisation with 38 member countries, founded in 1961 to stimulate economic progress and world trade.",
+                    "icon": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/3cfcbf14c420bb9bfbdafebe334688ed015a19f0aa500dff3e6283b79fffa09feefa943d621d94147d493df79b44fbfc.png"
+                },
+                "keywords": [
+                    "environment"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.oecd.org/environment/&tbm=ilp&ilps=ADNMCi0GvdNJZH8oczKIZJwD-tXUM5Wa_w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OtRARAqeXPkJ:https://www.oecd.org/environment/+&cd=12&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Environment - National Geographic",
+            "link": "https://www.nationalgeographic.com/environment",
+            "displayed_link": "https://www.nationalgeographic.com › environment",
+            "snippet": "Get the latest stories that inform, inspire, and enable you to live more lightly on the planet, plus updates from National Geographic and The Walt Disney ...",
+            "about_this_result": {
+                "source": {
+                    "description": "National Geographic is a popular American monthly magazine published by the National Geographic Society. Known for its photojournalism, it is one of the most widely read magazines of all time.",
+                    "icon": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/3cfcbf14c420bb9bfbdafebe334688eda2651b9b22162b314851bff0ab0dca4212c6182036e89525a321bf94af5b6e5a.png"
+                },
+                "keywords": [
+                    "environment"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nationalgeographic.com/environment&tbm=ilp&ilps=ADNMCi3ODunFHYG6agEVfzAh1ElnI4slBQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EjtBO6f8xgcJ:https://www.nationalgeographic.com/environment+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Natural environment - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Natural_environment",
+            "displayed_link": "https://en.wikipedia.org › wiki › Natural_environment",
+            "snippet": "The natural environment or natural world encompasses all living and non-living things occurring naturally, meaning in this case not artificial.",
+            "snippet_highlighted_words": [
+                "environment"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/3cfcbf14c420bb9bfbdafebe334688eda30301a4aeab61ab124b25d152019e24c7cd4723f06765daa0bb9ae9247a07d5.png"
+                },
+                "keywords": [
+                    "environment"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Natural_environment&tbm=ilp&ilps=ADNMCi1RGe8b-m8jtlJ3HndbW_GnrSg4ig",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Zy0GNc2pQn4J:https://en.wikipedia.org/wiki/Natural_environment+&cd=28&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=related:https://en.wikipedia.org/wiki/Natural_environment+Environment"
+        },
+        {
+            "position": 6,
+            "title": "Environment Definition & Meaning | Dictionary.com",
+            "link": "https://www.dictionary.com/browse/environment",
+            "displayed_link": "https://www.dictionary.com › browse › environment",
+            "snippet": "1. Environment, milieu, ambiance, setting, surroundings all refer to what makes up the atmosphere or background against which someone or something is seen.",
+            "snippet_highlighted_words": [
+                "Environment"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Dictionary.com is an online dictionary whose domain was first registered on May 14, 1995. The primary content on Dictionary.com is a proprietary dictionary based on Random House Unabridged Dictionary, with editors for the site providing new and updated definitions.",
+                    "icon": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/3cfcbf14c420bb9bfbdafebe334688edeb39796ced30f6b565d80a2a3d6dc57e6108887df394bc74983e2de175e076e1.png"
+                },
+                "keywords": [
+                    "environment"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.dictionary.com/browse/environment&tbm=ilp&ilps=ADNMCi18mBKpB4J1hRz53ocgXc1Pkt1YHw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XmL0L0iaQe8J:https://www.dictionary.com/browse/environment+&cd=29&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "World Environment Day - the United Nations",
+            "link": "https://www.un.org/en/observances/environment-day",
+            "displayed_link": "https://www.un.org › observances › environment-day",
+            "snippet": "World Environment Day aims to inspire more people than ever before to take action to prevent the growing strain on planet Earth's natural systems from ...",
+            "snippet_highlighted_words": [
+                "Environment"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "un.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/3cfcbf14c420bb9bfbdafebe334688ed8bb8a5c6fe9806abcfed6c04bebe4e4fec5e4fb44f59780d339f25b5c7d641e3.png"
+                },
+                "keywords": [
+                    "environment"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.un.org/en/observances/environment-day&tbm=ilp&ilps=ADNMCi0Iq_JRBgHJg35wzBRtBvQaFI2R2A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2S6ZCKGYWHkJ:https://www.un.org/en/observances/environment-day+&cd=30&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "ENVIRONMENT | definition in the Cambridge English Dictionary",
+            "link": "https://dictionary.cambridge.org/us/dictionary/english/environment",
+            "displayed_link": "https://dictionary.cambridge.org › dictionary › environ...",
+            "date": "5 days ago",
+            "snippet": "environment noun (NATURE) ... the air, water, and land in or on which people, animals, and plants live: We're trying to protect the environment ...",
+            "snippet_highlighted_words": [
+                "environment",
+                "environment"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Cambridge Advanced Learner's Dictionary was first published in 1995 under the name Cambridge International Dictionary of English, by the Cambridge University Press. The dictionary has over 140,000 words, phrases, and meanings. It is suitable for learners at CEF levels B2-C2.",
+                    "icon": "https://serpapi.com/searches/629e3d43c90e0aebdfc0bf96/images/3cfcbf14c420bb9bfbdafebe334688ed3d616b664445bc8d7e3485a14e0570e7e2a55c9140ffe4bcbc1a587a9552e4b2.png"
+                },
+                "keywords": [
+                    "environment"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://dictionary.cambridge.org/us/dictionary/english/environment&tbm=ilp&ilps=ADNMCi3W5pR_95Ymf_ik9PwvywsT5QXZYg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cxrqpMRLGoIJ:https://dictionary.cambridge.org/us/dictionary/english/environment+&cd=31&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_search_boxes": [
+        {
+            "position": 2,
+            "query": "Environmental issues",
+            "results": [
+                {
+                    "title": "Biodiversity",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Biodiversity&stick=H4sIAAAAAAAAAOOQUeLQz9U3SLZINzUSSc0ryyzKz8tNzStJzFHILC4uTS2O4nZFiJ5ihKuGMo0szGFMC2OLtFOMnCCmYUqFpQGUbWZekpUF02iYbPiLUcQViz2LWHmcMvNTMstSi4ozSypvsUkymH5sZZr16_PV-zGLJ3jPvcr_L_XjrOZlyusBoC21arUAAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgZEAM",
+                    "snippet": "Waste management",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKhv7FOTnRkZmOKqLUJLNXyJG__CoAWYZ4jU1hEollLOMcGKBYEgtK&s=0"
+                },
+                {
+                    "title": "Deforestation",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Deforestation&stick=H4sIAAAAAAAAAOOQUeLQz9U3MLIwNzUSSc0ryyzKz8tNzStJzFHILC4uTS2O4nZFiJ5iBKtOtkg3hTJBGqFMC2OLtFOMnCCmYUqFpQGUbWZekpUF02iYbPiLUcQViz2LWHldUtPyi1KLSxJLMvPzbrFJMph-bGWa9evz1fsxiyd4z73K_y_146zmZcrrAfuossS2AAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgZEAU",
+                    "snippet": "Waste management",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd83nYY7hIvlqnKQFOOdOkbZc8oV3l_pICub9oVYoexr5-U-_kgl-B&s=0"
+                },
+                {
+                    "title": "Water",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Water&stick=H4sIAAAAAAAAAOOQUeLQz9U3sDC2SDMSSc0ryyzKz8tNzStJzFHILC4uTS2O4nZFiJ5iBKtOtkg3hTKNLMxhTJAZpxg5QUzDlApLAyjbzLwkKwum0TDZ8BejiCsWexaxsoYnlqQW3WKTZDD92Mo069fnq_djFk_wnnuV_1_qx1nNy5TXAwCchY8yrgAAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgZEAc",
+                    "snippet": "Waste management",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AfZE564iwobDiMFe1kwqvSv7R_lV-67fQwb1kpdj_S1PXRHHogro&s=0"
+                },
+                {
+                    "title": "Waste management",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Waste+management&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEypsDQwEknNK8ssys_LTc0rScxRyCwuLk0tjuJ2RYieYuQAKU-2SDeFMo0szGFMC2OLtFOMCPOgbDPzkqwsmEbDZMNfjCKuWOxZxCoQnlhckqqQm5iXmJ4KkrvFJslg-rGVadavz1fvxyye4D33Kv-_1I-zmpcprwcAVTboAboAAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgZEAk",
+                    "snippet": "Waste management",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcuHKd8YnB3W7JM6U8gEL-Ec-eHXLyEIUKmZ2k&s=0"
+                },
+                {
+                    "title": "Air quality index",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Air+quality+index&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDMvycoyEknNK8ssys_LTc0rScxRyCwuLk0tjuJ2RYieYuQAKU-2SDeFMo0szGFMC2OLtFOMYPMMUyosDaBssNkwjYbJhr8YRVyx2LOIVdAxs0ihsDQxJ7OkUiEzLyW14habJIPpx1amWb8-X70fs3iC99yr_P9SP85qXqa8HgDmU9h1uwAAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgZEAs",
+                    "snippet": "Waste management",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExXd3ibRguqKwF318Bc9cMh3eURCL6RlTwvwBrvOjoOgf5FrRuHPR&s=0"
+                },
+                {
+                    "title": "Ozone depletion",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Ozone+depletion&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDZMNjQSSc0ryyzKz8tNzStJzFHILC4uTS2O4nZFiJ5ihKi2SDeFMo0szGFMC2OLtFOMnCCmYUqFpQGUbWZekpUF0wi05hejiCsWexax8vtX5eelKqSkFuSklmTm591ik2Qw_djKNOvX56v3YxZP8J57lf9f6sdZzcuU1wMAv8wUYLgAAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgZEA0",
+                    "snippet": "Waste management",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2MCgGpCjN8EUxloXC8cs6TPEe6HcePM6EJ8oS&s=0"
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "query": "Elements of environment",
+            "results": [
+                {
+                    "title": "Lead",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Lead&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDItijcoMRJJzSvLLMrPy03NK0nMUcgsLi5NLY7idkWInmLkAKlPtkg3hTKNLMxhTAtji7RTjJwgpmFKhaUBlG1mXpKVBdNomGz4i1HEFYs9i1hZfFITU26xSTKYfmxlmvXr89X7MYsneM-9yv8v9eOs5mXK6wEZy7yNrwAAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgYEAM",
+                    "snippet": "Vanadium",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPx382ERDImOJsgSCQW9PWsiATbiTizsCtowLHWz9XNzlEb36cYcpi&s=0"
+                },
+                {
+                    "title": "Cadmium",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Cadmium&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDItyS5OMRJJzSvLLMrPy03NK0nMUcgsLi5NLY7idkWInmLkAKlPtkg3hTKNLMxhTAtji7RTjJwgpmFKhaUBlG1mXpKVBdNomGz4i1HEFYs9i1jZnRNTcjNLc2-xSTKYfmxlmvXr89X7MYsneM-9yv8v9eOs5mXK6wFp9g_ksgAAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgYEAU",
+                    "snippet": "Vanadium",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLMblBX_xtGMaJsM6W0EtL3H0tt8-qPc0JlEwbv53bF5WA2wyvGMU&s=0"
+                },
+                {
+                    "title": "Mercury",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Mercury+(element)&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDItLjdNNxJJzSvLLMrPy03NK0nMUcgsLi5NLY7idkWInmLkAKlPtkg3hTKNLMxhTAtji7RTjJwgpmFKhaUBlG1mXpKVBdNomGz4i1HEFYs9i1gFfVOLkkuLKhU0UnNSQXKat9gkGUw_tjLN-vX56v2YxRO8517l_5f6cVbzMuX1AML2iL-8AAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgYEAc",
+                    "snippet": "Vanadium",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNn-y1J-b7TBiE1lV_AY37tBh4jYoH0RnfeVSwQTN5hrFV_j10fTL5&s=0"
+                },
+                {
+                    "title": "Vanadium",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Vanadium&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDItzksvNBJJzSvLLMrPy03NK0nMUcgsLi5NLY7idkWInmLkAKlPtkg3hTKNLMxhTAtji7RTjJwgpmFKhaUBlG1mXpKVBdNomGz4i1HEFYs9i1g5whLzElMyS3NvsUkymH5sZZr16_PV-zGLJ3jPvcr_L_XjrOZlyusB0SUzXrMAAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgYEAk",
+                    "snippet": "Vanadium",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7Fn9orr6fL4dYFmo6HNfHQ25fJNdR3T3TljStfxtrbbU_PpRadNr&s=0"
+                },
+                {
+                    "title": "Antimony",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Antimony&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDIvNqoqNBJJzSvLLMrPy03NK0nMUcgsLi5NLY7idkWInmLkAKlPtkg3hTKNLMxhTAtji7RTjJwgpmFKhaUBlG1mXpKVBdNomGz4i1HEFYs9i1g5HPNKMnPz8ypvsUkymH5sZZr16_PV-zGLJ3jPvcr_L_XjrOZlyusBGGr8JbMAAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgYEAs",
+                    "snippet": "Vanadium",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkl4S3NB92gSFPLPPPBihNXBCD9GjisXWkebNv&s=0"
+                },
+                {
+                    "title": "Uranium",
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Uranium&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDItzs3KMxJJzSvLLMrPy03NK0nMUcgsLi5NLY7idkWInmLkAKlPtkg3hTKNLMxhTAtji7RTjJwgpmFKhaUBlG1mXpKVBdNomGz4i1HEFYs9i1jZQ4sS8zJLc2-xSTKYfmxlmvXr89X7MYsneM-9yv8v9eOs5mXK6wHcLyxusgAAAA&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQxA16BAgYEA0",
+                    "snippet": "Vanadium",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQTAQlvvOL1APK8uvY5E75F7qdoQsmswOIRHCcVpzj8HTuAuLTXO8D&s=0"
+                }
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "environment - wikipedia",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=environment+-+wikipedia&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "types of environment",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Types+of+environment&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "how to pronounce environment",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=How+to+pronounce+environment&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ1QJ6BAguEAE"
+        },
+        {
+            "query": "environmental health",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Environmental+Health&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "environment examples",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Environment+examples&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "what is environment pdf",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=What+is+environment+PDF&sa=X&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ1QJ6BAgyEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&ei=Rj2eYvmXB5L0kgW9o57QCg&start=10&sa=N&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&ei=Rj2eYvmXB5L0kgW9o57QCg&start=10&sa=N&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&ei=Rj2eYvmXB5L0kgW9o57QCg&start=20&sa=N&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&ei=Rj2eYvmXB5L0kgW9o57QCg&start=30&sa=N&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&ei=Rj2eYvmXB5L0kgW9o57QCg&start=40&sa=N&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&ei=Rj2eYvmXB5L0kgW9o57QCg&start=50&sa=N&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&ei=Rj2eYvmXB5L0kgW9o57QCg&start=60&sa=N&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&ei=Rj2eYvmXB5L0kgW9o57QCg&start=70&sa=N&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&ei=Rj2eYvmXB5L0kgW9o57QCg&start=80&sa=N&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Environment&ucbcb=1&gl=us&hl=en&ei=Rj2eYvmXB5L0kgW9o57QCg&start=90&sa=N&ved=2ahUKEwj50tzTsJn4AhUSuqQKHb2RB6oQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Environment&start=90"
+        }
+    }
+}

@@ -1,0 +1,404 @@
+{
+    "search_metadata": {
+        "id": "627cfef39f55b30b2e4134cd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/428a69a669c0034c/627cfef39f55b30b2e4134cd.json",
+        "created_at": "2022-05-12 12:34:59 UTC",
+        "processed_at": "2022-05-12 12:34:59 UTC",
+        "google_url": "https://www.google.com/search?q=Renewable+Energy&oq=Renewable+Energy&uule=w+CAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh&hl=en&gl=NG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/428a69a669c0034c/627cfef39f55b30b2e4134cd.html",
+        "total_time_taken": 1.43
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Renewable Energy",
+        "uule": "w+CAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "NG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Renewable Energy",
+        "total_results": 308000000,
+        "time_taken_displayed": 0.67
+    },
+    "knowledge_graph": {
+        "title": "Renewable energy",
+        "description": "Renewable energy is energy that is collected from renewable resources that are naturally replenished on a human timescale. It includes sources such as sunlight, wind, rain, tides, waves, and geothermal heat. Although most renewable energy sources are sustainable, some are not.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Renewable_energy"
+        },
+        "people_also_search_for": [
+            {
+                "name": "Wind power",
+                "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Wind+power&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgNJmnJ6dqU-Gb5q6ElO-kbP5mKspPKyZ4WRsAgnyCY9WtFeeZiwQPPtw_V9TPhB8gnKekP6L5GNklz4txHxb3y3WVpyvEU85a1aHJJ3G7HIi5f8U2KAVcbWUzLUhYBG7nNwfQ5kQTTO1hm1GRD8l9z13JtKNWvmMUd-iSioD1AZrJncKK3YOmkk-KQwZSEu72_3l4WiAySQsgcEoNuhbXSJ-2IRKYI5QOG0fm7OP2eSDUXQ-jFooH-KHsLIt6LHugua8GCU%3D&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80QxA16BAhkEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Wind+power&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgNJmnJ6dqU-Gb5q6ElO-kbP5mKspPKyZ4WRsAgnyCY9WtFeeZiwQPPtw_V9TPhB8gnKekP6L5GNklz4txHxb3y3WVpyvEU85a1aHJJ3G7HIi5f8U2KAVcbWUzLUhYBG7nNwfQ5kQTTO1hm1GRD8l9z13JtKNWvmMUd-iSioD1AZrJncKK3YOmkk-KQwZSEu72_3l4WiAySQsgcEoNuhbXSJ-2IRKYI5QOG0fm7OP2eSDUXQ-jFooH-KHsLIt6LHugua8GCU%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/790aacca3b6663105b5bdf7b4291f53309c620b4064fddfccb7e36a4c3f692c82a853143e1fcc602715fdc53b4a8b156.jpeg"
+            },
+            {
+                "name": "Energy",
+                "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Energy&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXRhos246KBwV3lZ-liE-XxQPlzUvXBCb2hWc7d_lMktJpvSAHIVCGhdXHs0kmqb3_B7uuq1iwlykCePbs7lJfhdINA03wD6L6kocv2d6WDeUCOMMn4WODbHiwgu-0Bt9gYqv9DFpJ-9OQHmpeVjXIdFlMXZu14xqhodToG4koA3BP-sfZA4HTpZB_pplB92eYp4tI5OYyiZU6IvmR0rlHr0yqHaD6OKAQQ4O5LQ4Ydi_WTBcQ%3D%3D&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80QxA16BAhkEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Energy&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXRhos246KBwV3lZ-liE-XxQPlzUvXBCb2hWc7d_lMktJpvSAHIVCGhdXHs0kmqb3_B7uuq1iwlykCePbs7lJfhdINA03wD6L6kocv2d6WDeUCOMMn4WODbHiwgu-0Bt9gYqv9DFpJ-9OQHmpeVjXIdFlMXZu14xqhodToG4koA3BP-sfZA4HTpZB_pplB92eYp4tI5OYyiZU6IvmR0rlHr0yqHaD6OKAQQ4O5LQ4Ydi_WTBcQ%3D%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/790aacca3b6663105b5bdf7b4291f53309c620b4064fddfccb7e36a4c3f692c84907c41215ef02c8cf2583c246d45226.jpeg"
+            },
+            {
+                "name": "Solar energy",
+                "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Solar+energy&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfO7jhxW8r4LcCc0Csx8w6aDEwQ9q1KInYMNIaIg7a49SV3h2F4UqmMm7wJ0k_tYVOehBqFjta3rKrI-kLB_Jf1GqaqxLpwol40W_dd7qYJaKEZk-BRLZmGAWONWJ2hCJtWba3ZZIZ370cWkaUSk2dyNpjT2U6078l1LHczB2ZP80-obHK6q7kQWFUxeuXyk0Rzfd7CnqbX6_ehdESGkFY5mv3MBbTdKYtH26DI22gITTAuMcNcXp6Xcr1kgixw1s77Fs2o%3D&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80QxA16BAhkEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Solar+energy&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfO7jhxW8r4LcCc0Csx8w6aDEwQ9q1KInYMNIaIg7a49SV3h2F4UqmMm7wJ0k_tYVOehBqFjta3rKrI-kLB_Jf1GqaqxLpwol40W_dd7qYJaKEZk-BRLZmGAWONWJ2hCJtWba3ZZIZ370cWkaUSk2dyNpjT2U6078l1LHczB2ZP80-obHK6q7kQWFUxeuXyk0Rzfd7CnqbX6_ehdESGkFY5mv3MBbTdKYtH26DI22gITTAuMcNcXp6Xcr1kgixw1s77Fs2o%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/790aacca3b6663105b5bdf7b4291f53309c620b4064fddfccb7e36a4c3f692c8065494ae8dc6837262c674364fd3f65e.png"
+            },
+            {
+                "name": "Sustainability",
+                "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Sustainability&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVe_uCAmf4NvedTRuLgGgHnltbqtGje5WtWvC2EaZgltJqkRx8K-hopqFQgdBry3EIsQwh_jbg5TTt88QEzkS6v8FUNr2VNcBH7GKKG3C57hTzXlAMaLwY8TkUdZt-hv7VLolgoaCmCGc9yUpRyTgkHee1ZLwPWGRoCJLMPfHTPqeUUkXg0KiLfPj9N20bv4PRAXU0joYqGaSHjbMYieTuoWMp_rXEvMTzKbzvzSHEn2IUIz75HbVolgleafjJk_iD9toZ0%3D&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80QxA16BAhkEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Sustainability&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVe_uCAmf4NvedTRuLgGgHnltbqtGje5WtWvC2EaZgltJqkRx8K-hopqFQgdBry3EIsQwh_jbg5TTt88QEzkS6v8FUNr2VNcBH7GKKG3C57hTzXlAMaLwY8TkUdZt-hv7VLolgoaCmCGc9yUpRyTgkHee1ZLwPWGRoCJLMPfHTPqeUUkXg0KiLfPj9N20bv4PRAXU0joYqGaSHjbMYieTuoWMp_rXEvMTzKbzvzSHEn2IUIz75HbVolgleafjJk_iD9toZ0%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/790aacca3b6663105b5bdf7b4291f53309c620b4064fddfccb7e36a4c3f692c8153eb457e85d21060e027eb7adefb7de.jpeg"
+            }
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Renewable+energy&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCs7QEgzNTUssTK4v9UitKgktSC4oXsQoEpeYBxZJyUhWAjKL0yh2sjADUJhcqPwAAAA&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80QMSgAegQIZBAB",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCs7QEgzNTUssTK4v9UitKgktSC4oXsQoEpeYBxZJyUhWAjKL0yh2sjADUJhcqPwAAAA",
+        "see_results_about": [
+            {
+                "name": "Renewable resource",
+                "extensions": [
+                    "A renewable resource, also known as a flow resource, is a ..."
+                ],
+                "image": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/790aacca3b6663105b5bdf7b4291f53344007224c6bfbd6908dd99a46e2c902764c5ad2369aaf7cd7894516d30c85d99.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Renewable Energy 101 | National Geographic",
+            "link": "https://www.youtube.com/watch?v=1kUE0BZtTRc",
+            "thumbnail": "https://i.ytimg.com/vi/1kUE0BZtTRc/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3ldBN8BWDElxh8OeXr3NCYsgUYcow",
+            "channel": "National Geographic",
+            "duration": "3:17",
+            "platform": "YouTube",
+            "date": "21 Sept 2017"
+        },
+        {
+            "position": 2,
+            "title": "Renewable Energy Sources - Types of Energy for Kids",
+            "link": "https://www.youtube.com/watch?v=Giek094C_l4",
+            "thumbnail": "https://i.ytimg.com/vi/Giek094C_l4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kEH7UwCuGLKcJcmCX48x3cg52lRg",
+            "channel": "Smile and Learn - English",
+            "duration": "3:22",
+            "platform": "YouTube",
+            "date": "26 May 2020"
+        },
+        {
+            "position": 3,
+            "title": "Climate 101: Renewable Energy",
+            "link": "https://www.nationalgeographic.org/video/climate-101-renewable-energy/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLPVyfuZwKtVnkehMLhIQILWISdq7ET5_fyo1JkURod-0&s",
+            "duration": "2:07",
+            "platform": "National Geographic Society",
+            "date": "9 Sept 2019"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Renewable power is set to break another global record in 2022 despite headwinds from higher costs and supply chain ...",
+            "link": "https://www.iea.org/news/renewable-power-is-set-to-break-another-global-record-in-2022-despite-headwinds-from-higher-costs-and-supply-chain-bottlenecks",
+            "source": "IEA",
+            "date": "1 day ago"
+        },
+        {
+            "title": "Avoid using gas as ‘transition’ fuel in move to clean energy, study urges",
+            "link": "https://www.theguardian.com/environment/2022/may/10/avoid-using-gas-transition-fuel-move-clean-energy-study-urges",
+            "source": "The Guardian",
+            "date": "2 days ago",
+            "thumbnail": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/e54f3177b11375c09c91e95d0ef1cae79752d6445c1b8e9b.jpeg"
+        },
+        {
+            "title": "Renewable Energy Market Update - May 2022 - Event",
+            "link": "https://www.iea.org/events/renewable-energy-market-update-may-2022",
+            "source": "IEA",
+            "date": "1 day ago"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Renewable+Energy&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Qt8YBegQIAxAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&tbm=nws&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+    "related_questions": [
+        {
+            "question": "What are the 5 types of renewable energy?",
+            "title": "There are five major renewable energy sources",
+            "link": "https://www.eia.gov/energyexplained/what-is-energy/sources-of-energy.php",
+            "list": [
+                "Solar energy from the sun.",
+                "Geothermal energy from heat inside the earth.",
+                "Wind energy.",
+                "Biomass from plants.",
+                "Hydropower from flowing water."
+            ],
+            "displayed_link": "https://www.eia.gov › energyexplained › sources-of-energy"
+        },
+        {
+            "question": "What are the 7 types of renewable energy?",
+            "title": "What are 7 Types of Renewable Energy?",
+            "link": "https://www.igs.com/energy-resource-center/energy-101/types-of-renewable-energy",
+            "list": [
+                "Solar. By using photovoltaic cells to capture and convert the sun's rays into electricity, solar panels transform light into usable energy. ... ",
+                "Wind Energy. ... ",
+                "Hydroelectric. ... ",
+                "Ocean Energy. ... ",
+                "Geothermal Energy. ... ",
+                "Biomass. ... ",
+                "Hydrogen."
+            ],
+            "displayed_link": "https://www.igs.com › energy-resource-center › energy-101"
+        },
+        {
+            "question": "What means of renewable energy?",
+            "snippet": "Renewable energy is energy from sources that are naturally replenishing but flow-limited; renewable resources are virtually inexhaustible in duration but limited in the amount of energy that is available per unit of time. The major types of renewable energy sources are: Biomass. Wood and wood waste.",
+            "title": "Renewable energy explained - EIA",
+            "link": "https://www.eia.gov/energyexplained/renewable-sources/",
+            "displayed_link": "https://www.eia.gov › renewable-sources"
+        },
+        {
+            "question": "What is renewable energy and examples?",
+            "snippet": "Renewable energy sources are energy sources that are always being replenished. They can never be depleted. Some examples of renewable energy sources are solar energy, wind energy, hydropower, geothermal energy, and biomass energy.17 Sept 2021",
+            "title": "What Is a Renewable Energy Source? - Definition & Example",
+            "link": "https://study.com/academy/lesson/what-is-a-renewable-energy-source-definition-example-quiz.html",
+            "displayed_link": "https://study.com › academy › lesson › what-is-a-renewab..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Renewable energy is energy that is collected from renewable resources that are naturally replenished on a human timescale. It includes sources such as sunlight, wind, rain, tides, waves, and geothermal heat. Although most renewable energy sources are sustainable, some are not.",
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy#:~:text=Renewable%20energy%20is%20energy%20that,are%20sustainable%2C%20some%20are%20not.",
+        "displayed_link": "https://en.wikipedia.org › wiki › Renewable_energy",
+        "snippet": "Renewable energy is energy that is collected from renewable resources that are naturally replenished on a human timescale. It includes sources such as sunlight, wind, rain, tides, waves, and geothermal heat. Although most renewable energy sources are sustainable, some are not.",
+        "people_also_search_for": [],
+        "about_this_result": {
+            "source": {
+                "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                "icon": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/cd54d3fa98ddc59a47d45b537f82673ed9ab16e078bde53ac9db7a8a74377f54a127d1ec31ae439866e9e0785f52f9c1.png"
+            }
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Renewable_energy&tbm=ilp&ilps=ADNMCi2jEpaee-MBteuKRa4owChBVHwkWQ"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Renewable Energy: The Clean Facts - NRDC",
+            "link": "https://www.nrdc.org/stories/renewable-energy-clean-facts",
+            "displayed_link": "https://www.nrdc.org › stories › renewable-energy-clea...",
+            "date": "15 Jun 2018",
+            "snippet": "Renewable energy, often referred to as clean energy, comes from natural sources or processes that are constantly replenished.",
+            "snippet_highlighted_words": [
+                "Renewable energy"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Clean Energy",
+                        "link": "https://www.nrdc.org/issues/clean-energy"
+                    },
+                    {
+                        "title": "NRDC's Annual Energy Reports",
+                        "link": "https://www.nrdc.org/resources/nrdcs-annual-energy-reports"
+                    },
+                    {
+                        "title": "Lora Shinn",
+                        "link": "https://www.nrdc.org/authors/lora-shinn"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Natural Resources Defense Council is a United States-based 501 non-profit international environmental advocacy group, with its headquarters in New York City and offices in Washington D.C., San Francisco, Los Angeles, New Delhi, Chicago, Bozeman, and Beijing.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Natural_Resources_Defense_Council",
+                    "icon": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/d8ccc29e74f5112da8e1a8adfb440214e40be916f85e5d7831504f01da993a55529dfed7723cec7bcd9040349bd0db50.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nrdc.org/stories/renewable-energy-clean-facts&tbm=ilp&ilps=ADNMCi0TOVo2fl9hQoXVTnlf54t2fk4_Zg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hGZdgF3n0-oJ:https://www.nrdc.org/stories/renewable-energy-clean-facts+&cd=15&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 2,
+            "title": "What is Renewable Energy? - Definition, Types, Benefits and ...",
+            "link": "https://www.twi-global.com/technical-knowledge/faqs/renewable-energy",
+            "displayed_link": "https://www.twi-global.com › technical-knowledge › faqs",
+            "snippet": "Renewable energy comes from sources or processes that are constantly replenished. These sources of energy include solar energy, wind energy, ...",
+            "snippet_highlighted_words": [
+                "Renewable energy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Welding Institute is a research and technology organisation, with a specialty in welding. With headquarters six miles south of Cambridge, Cambridgeshire, England, since 1946, and with facilities across the UK and around the world.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/The_Welding_Institute",
+                    "icon": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/d8ccc29e74f5112da8e1a8adfb44021450a949053b20982995b1d32cc08258ca82296b3aae19071f58977048b6741c7c.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.twi-global.com/technical-knowledge/faqs/renewable-energy&tbm=ilp&ilps=ADNMCi0yjyJMsizquA81hXy7LP88zfDuaA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Wp71_dpFvagJ:https://www.twi-global.com/technical-knowledge/faqs/renewable-energy+&cd=16&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 3,
+            "title": "Renewable energy explained - EIA",
+            "link": "https://www.eia.gov/energyexplained/renewable-sources/",
+            "displayed_link": "https://www.eia.gov › renewable-sources",
+            "snippet": "Renewable energy is energy from sources that are naturally replenishing but flow-limited; renewable resources are virtually inexhaustible in duration but ...",
+            "snippet_highlighted_words": [
+                "Renewable energy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The U.S. Energy Information Administration is a principal agency of the U.S. Federal Statistical System responsible for collecting, analyzing, and disseminating energy information to promote sound ...",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Energy_Information_Administration",
+                    "icon": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/d8ccc29e74f5112da8e1a8adfb4402149f702d02278d58862714ad2f92fcff3beb86bca5bd2e0b471bba0a6873e22816.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.eia.gov/energyexplained/renewable-sources/&tbm=ilp&ilps=ADNMCi14WkJmN_yAZjOtqFc_UkDXhw8b3Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XYejKwT20p4J:https://www.eia.gov/energyexplained/renewable-sources/+&cd=20&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 4,
+            "title": "Renewable Energy - Journal - Elsevier",
+            "link": "https://www.journals.elsevier.com/renewable-energy",
+            "displayed_link": "https://www.journals.elsevier.com › Journals",
+            "snippet": "The journal, Renewable Energy, seeks to promote and disseminate knowledge on the various topics and technologies of renewable energy systems and components.",
+            "snippet_highlighted_words": [
+                "Renewable Energy",
+                "renewable energy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Elsevier is a Netherlands-based academic publishing company specializing in scientific, technical, and medical content.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Elsevier"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.journals.elsevier.com/renewable-energy&tbm=ilp&ilps=ADNMCi1RrBNm9KyrynFVls45OK8m-FrycA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pCYz3oV4N5kJ:https://www.journals.elsevier.com/renewable-energy+&cd=21&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 5,
+            "title": "Renewable Energy | Types, Forms & Sources | EDF",
+            "link": "https://www.edfenergy.com/for-home/energywise/renewable-energy-sources",
+            "displayed_link": "https://www.edfenergy.com › for-home › energywise",
+            "snippet": "The most popular renewable energy sources currently are: Solar energy; Wind energy; Hydro energy; Tidal energy; Geothermal energy; Biomass energy. How these ...",
+            "snippet_highlighted_words": [
+                "renewable energy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "EDF Energy is a British integrated energy company, wholly owned by the French state owned EDF, with operations spanning electricity generation and the sale of natural gas and electricity to homes and businesses throughout the United Kingdom.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/EDF_Energy",
+                    "icon": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/d8ccc29e74f5112da8e1a8adfb44021414a292e4d40d0371827610b8ccbf087d84c496156ea433fedbdc72167b2bac10.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.edfenergy.com/for-home/energywise/renewable-energy-sources&tbm=ilp&ilps=ADNMCi0uqPcp3hEZgkqnSvlCv1uf37zOpw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9UY1RDKadM8J:https://www.edfenergy.com/for-home/energywise/renewable-energy-sources+&cd=22&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 6,
+            "title": "renewable energy | Types, Advantages, & Facts | Britannica",
+            "link": "https://www.britannica.com/science/renewable-energy",
+            "displayed_link": "https://www.britannica.com › science › renewable-energy",
+            "snippet": "renewable energy, also called alternative energy, usable energy derived from replenishable sources such as the Sun (solar energy), wind (wind power), ...",
+            "snippet_highlighted_words": [
+                "renewable energy",
+                "alternative energy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/d8ccc29e74f5112da8e1a8adfb44021436fbcd9b1d21e521bba28e68eb6f3810f1396c194d99d253038864de5933dda5.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/renewable-energy&tbm=ilp&ilps=ADNMCi2aUvJblNUhWeMPYqeNJm4znj6YmA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2o4jSgksSoQJ:https://www.britannica.com/science/renewable-energy+&cd=23&hl=en&ct=clnk&gl=ng",
+            "related_pages_link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=related:https://www.britannica.com/science/renewable-energy+Renewable+Energy"
+        },
+        {
+            "position": 7,
+            "title": "7 Types of Renewable Energy: The Future of Energy",
+            "link": "https://justenergy.com/blog/7-types-renewable-energy-future-of-energy/",
+            "displayed_link": "https://justenergy.com › Blog",
+            "snippet": "Renewable energy is energy that has been derived from earth's natural resources that are not finite or exhaustible, such as wind and sunlight.",
+            "snippet_highlighted_words": [
+                "Renewable energy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Just Energy Group Inc. is a Canadian-based natural gas and electricity retailer operating in Canadian and American markets across North America, and in Germany, Ireland and Japan.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Just_Energy",
+                    "icon": "https://serpapi.com/searches/627cfef39f55b30b2e4134cd/images/d8ccc29e74f5112da8e1a8adfb440214775d8599e75b3e89f44e159acd4e66c07bb169cf50bac28e017f17d94ac9e54b.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://justenergy.com/blog/7-types-renewable-energy-future-of-energy/&tbm=ilp&ilps=ADNMCi1lyJ1Ylm04LQT04JFlB15cgFQRIQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oW2iul62qZMJ:https://justenergy.com/blog/7-types-renewable-energy-future-of-energy/+&cd=27&hl=en&ct=clnk&gl=ng"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "non renewable energy",
+            "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Non+renewable+energy&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q1QJ6BAhGEAE"
+        },
+        {
+            "query": "renewable energy examples",
+            "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Renewable+energy+examples&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q1QJ6BAhFEAE"
+        },
+        {
+            "query": "renewable and non-renewable energy",
+            "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Renewable+and+non-renewable+energy&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q1QJ6BAhEEAE"
+        },
+        {
+            "query": "advantages of renewable energy",
+            "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Advantages+of+renewable+energy&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q1QJ6BAhBEAE"
+        },
+        {
+            "query": "non renewable energy sources",
+            "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Non+renewable+energy+sources&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q1QJ6BAg-EAE"
+        },
+        {
+            "query": "renewable energy technology",
+            "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Renewable+energy+technology&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q1QJ6BAg7EAE"
+        },
+        {
+            "query": "uses of renewable energy",
+            "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Uses+of+renewable+energy&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q1QJ6BAg6EAE"
+        },
+        {
+            "query": "renewable energy summary",
+            "link": "https://www.google.com/search?ucbcb=1&gl=NG&hl=en&q=Renewable+energy+Summary&sa=X&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q1QJ6BAg4EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Renewable+Energy&ucbcb=1&gl=NG&hl=en&ei=8_58YvS8MYieqtsPxL-86Aw&start=10&sa=N&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q8NMDegQIAhBL",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Renewable+Energy&ucbcb=1&gl=NG&hl=en&ei=8_58YvS8MYieqtsPxL-86Aw&start=10&sa=N&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q8tMDegQIAhA5",
+            "3": "https://www.google.com/search?q=Renewable+Energy&ucbcb=1&gl=NG&hl=en&ei=8_58YvS8MYieqtsPxL-86Aw&start=20&sa=N&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q8tMDegQIAhA7",
+            "4": "https://www.google.com/search?q=Renewable+Energy&ucbcb=1&gl=NG&hl=en&ei=8_58YvS8MYieqtsPxL-86Aw&start=30&sa=N&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q8tMDegQIAhA9",
+            "5": "https://www.google.com/search?q=Renewable+Energy&ucbcb=1&gl=NG&hl=en&ei=8_58YvS8MYieqtsPxL-86Aw&start=40&sa=N&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q8tMDegQIAhA_",
+            "6": "https://www.google.com/search?q=Renewable+Energy&ucbcb=1&gl=NG&hl=en&ei=8_58YvS8MYieqtsPxL-86Aw&start=50&sa=N&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q8tMDegQIAhBB",
+            "7": "https://www.google.com/search?q=Renewable+Energy&ucbcb=1&gl=NG&hl=en&ei=8_58YvS8MYieqtsPxL-86Aw&start=60&sa=N&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q8tMDegQIAhBD",
+            "8": "https://www.google.com/search?q=Renewable+Energy&ucbcb=1&gl=NG&hl=en&ei=8_58YvS8MYieqtsPxL-86Aw&start=70&sa=N&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q8tMDegQIAhBF",
+            "9": "https://www.google.com/search?q=Renewable+Energy&ucbcb=1&gl=NG&hl=en&ei=8_58YvS8MYieqtsPxL-86Aw&start=80&sa=N&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q8tMDegQIAhBH",
+            "10": "https://www.google.com/search?q=Renewable+Energy&ucbcb=1&gl=NG&hl=en&ei=8_58YvS8MYieqtsPxL-86Aw&start=90&sa=N&ved=2ahUKEwi0go_K_Nn3AhUIj2oFHcQfD80Q8tMDegQIAhBJ"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=20&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=30&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=40&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=50&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=60&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=70&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=80&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Renewable+Energy&start=90&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh"
+        }
+    }
+}

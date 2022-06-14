@@ -1,0 +1,247 @@
+{
+    "search_metadata": {
+        "id": "627cff2c10d74489715b5210",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c30b3f91553acf02/627cff2c10d74489715b5210.json",
+        "created_at": "2022-05-12 12:35:56 UTC",
+        "processed_at": "2022-05-12 12:35:56 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&oq=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&uule=w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=&hl=iw&gl=IL&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c30b3f91553acf02/627cff2c10d74489715b5210.html",
+        "total_time_taken": 13.27
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "זיהום קרקע",
+        "uule": "w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "IL",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "זיהום קרקע",
+        "total_results": 697000,
+        "time_taken_displayed": 0.48
+    },
+    "ads": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "שיקום קרקע מזוהמת ומי תהום - וזה אקולוגיה - זיהום קרקע",
+            "link": "http://www.vasa-eco.co.il/service.asp?submenu=13&parent=8&navigate=3",
+            "displayed_link": "http://www.vasa-eco.co.il/זיהום_קרקע",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjfoo7r_Nn3AhUOwsIEHduLDP0YABAAGgJwdg&ae=2&sig=AOD64_1hSTe48sLk0sWDjQ3IikryMgNz_A&q&adurl",
+            "description": "מומחים לאיתור וטיפול בקרקע מזוהמת. באישור המשרד להגנת הסביבה - התקשרו! מוסמכת ע\"י הרשות הלאומית. טיפול בקרקעות מזוהמות. חברת ייעוץ סביבתי מקצועית. שירותים: סקר קרקע, סקר גז קרקע, סקר מי תהום."
+        }
+    ],
+    "knowledge_graph": {
+        "title": "זיהום קרקע",
+        "header_images": [
+            {
+                "source": "https://www.gov.il/he/departments/guides/what_is_contaminated_soil"
+            },
+            {
+                "source": "https://www.tashtiot.co.il/2011/08/04/%D7%97%D7%95%D7%A7-%D7%96%D7%99%D7%94%D7%95%D7%9D-%D7%A7%D7%A8%D7%A7%D7%A2%D7%95%D7%AA/"
+            },
+            {
+                "source": "http://infospot.co.il/n/9_%D7%9E%D7%99%D7%9C%D7%99%D7%90%D7%A8%D7%93_%D7%A2%D7%9C%D7%95%D7%AA_%D7%A9%D7%99%D7%A7%D7%95%D7%9D_%D7%94%D7%A7%D7%A8%D7%A7%D7%A2%D7%95%D7%AA_%D7%94%D7%9E%D7%96%D7%95%D7%94%D7%9E%D7%95%D7%AA_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C"
+            },
+            {
+                "source": "https://www.gov.il/he/departments/general/contaminated_soil_removal"
+            }
+        ],
+        "description": "זיהום קרקע נגרם על ידי הנוכחות של כימיקלים קסנוביוטיים או שינוי אחר בסביבת הקרקע הטבעית. מקורות זיהום הקרקע העיקריים הם תחנות דלק, תעשייה , תחבורה, מוסכים, פסולת בניין וזיהום מתעשיות ביטחוניות. הכימיקלים השכיחים ביותר המעורבים הם פחמימני נפט, פחמימנים ארומטיים, ממסים, חומרי הדברה, עופרת ומתכות כבדות אחרות.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%94%D7%95%D7%9D_%D7%A7%D7%A8%D7%A7%D7%A2"
+        }
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "זיהום קרקע - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%94%D7%95%D7%9D_%D7%A7%D7%A8%D7%A7%D7%A2",
+            "displayed_link": "https://he.wikipedia.org › wiki › זיהום_קרקע",
+            "snippet": "זיהום קרקע · סיכונים מזיהום קרקע · טיפול בקרקע מזוהמת · שיקום הקרקעות המזוהמות של משרד הביטחון · חוק קרקעות מזוהמות בישראל · טיפול ביולוגי בקרקעות מזוהמות · קישורים ...",
+            "snippet_highlighted_words": [
+                "זיהום קרקע",
+                "מזיהום קרקע",
+                "בקרקע",
+                "קרקעות"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "זיהום קרקע - info spot",
+            "link": "http://infospot.co.il/scp/%D7%96%D7%99%D7%94%D7%95%D7%9D_%D7%A7%D7%A8%D7%A7%D7%A2",
+            "displayed_link": "http://infospot.co.il › scp › זיהום_קרקע",
+            "snippet": "ללא חקיקה רשמית בישראל, מסמך מדיניות של המשרד להגנ\"ס מסדיר את התחום: על מי חלה חובה לבצע סקר לבירור חשדות לזיהום קרקע? איך מטפלים בקרקע מזוהמת?",
+            "snippet_highlighted_words": [
+                "לזיהום קרקע",
+                "בקרקע"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "זיהום קרקע בישראל – התופעה ודרכי הטיפול בה - אתר הכנסת",
+            "link": "https://fs.knesset.gov.il/globaldocs/MMM/1ebb8d55-f7f7-e411-80c8-00155d010977/2_1ebb8d55-f7f7-e411-80c8-00155d010977_11_7091.pdf",
+            "displayed_link": "https://fs.knesset.gov.il › globaldocs › MMM",
+            "snippet": "מקורות הזיהום. ;. •. טיפול בקרקע מזוהמת. ;. •. אתרים בישראל שבהם התגלה זיהום קרקע. ;. •. פעולות שנעשו לטיפול בקרקעות מזוהמות.",
+            "snippet_highlighted_words": [
+                "הזיהום",
+                "בקרקע",
+                "זיהום קרקע"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "מניעת זיהום קרקע ושיקום קרקעות מזוהמות | המשרד להגנת הסביבה",
+            "link": "https://www.gov.il/he/departments/guides/what_is_contaminated_soil",
+            "displayed_link": "https://www.gov.il › guides › what_is_contaminated_soil",
+            "snippet": "קרקע מזוהמת היא קרקע שבבדיקה התגלו בה חומרים מזהמים בריכוזים החורגים מערכי סף לקרקעות. כאשר מתגלה קרקע מזוהמת, על בעל הקרקע לבחון אם הזיהום מהווה סיכון לסביבה ...",
+            "snippet_highlighted_words": [
+                "קרקע",
+                "קרקע",
+                "קרקע",
+                "הזיהום"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "התשתית החוקית לנושא זיהום קרקע | המשרד להגנת הסביבה - gov ...",
+            "link": "https://www.gov.il/he/departments/legalInfo/rules_and_regulations_contaminated_land",
+            "displayed_link": "https://www.gov.il › departments › legalInfo › rules_an...",
+            "snippet": "חוקים ותקנות אלה עוסקים כולם בסילוק פסולת מסוכנת. קרקע מזוהמת בישראל נחשבת פסולת מסוכנת כל עוד מקורות הזיהום מוגדרים חומרים מסוכנים בהמלצות האו\"ם להובלת חומרים ...",
+            "snippet_highlighted_words": [
+                "קרקע",
+                "הזיהום"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "זיהום קרקע | איזיטופ - קרקעות מזוהמות",
+            "link": "https://easytop.co.il/%D7%96%D7%99%D7%94%D7%95%D7%9D-%D7%A7%D7%A8%D7%A7%D7%A2/",
+            "displayed_link": "https://easytop.co.il › זיהום-קרקע",
+            "snippet": "זיהום קרקע וקרקעות מזוהמות יכולים לגרום לנזקים רבים. חברתינו איזיטופ מספקת פתרונות מקיפים בטכנולוגיות מתקדמות לזיהומי קרקע - ביצוע סקרי קרקע כולל דיגום ...",
+            "snippet_highlighted_words": [
+                "זיהום קרקע",
+                "קרקע",
+                "קרקע"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "זיהום קרקע מחקלאות - אקולוגיה וסביבה",
+            "link": "https://magazine.isees.org.il/?cat=2334",
+            "displayed_link": "https://magazine.isees.org.il › מים, קרקע וחקלאות",
+            "snippet": "מים, קרקע וחקלאות > זיהום קרקע מחקלאות. חקלאות ומערכות אקולוגיות (74) מעיינות ונחלים (51) חקלאות בת-קיימא (46) שיקום נחלים (42) זיהום נחלים (35) הזרמת שפכים ...",
+            "snippet_highlighted_words": [
+                "קרקע",
+                "זיהום קרקע",
+                "זיהום"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "זיהום קרקע - לוינסון - דרור",
+            "link": "https://www.environment.co.il/%D7%AA%D7%97%D7%95%D7%9E%D7%99-%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%AA/%D7%93%D7%99%D7%A0%D7%99-%D7%A1%D7%91%D7%99%D7%91%D7%94/%D7%96%D7%99%D7%94%D7%95%D7%9D-%D7%A7%D7%A8%D7%A7%D7%A2/",
+            "displayed_link": "https://www.environment.co.il › תחומי-פעילות › דיני-סביבה",
+            "snippet": "בעיית זיהום הקרקעות היא אחת הבעיות הקשות ביותר לטיפול בתחום הסביבתי – הן מבחינת יכולת ... כך לדוגמא, פעמים רבות קשה לקבוע מי אחראי לזיהום קרקע בחלקת אדמה, ...",
+            "snippet_highlighted_words": [
+                "זיהום",
+                "לזיהום קרקע"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "זיהום קרקע בישראל - אקו-ויקי",
+            "link": "https://ecowiki.org.il/wiki/%D7%96%D7%99%D7%94%D7%95%D7%9D_%D7%A7%D7%A8%D7%A7%D7%A2_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C",
+            "displayed_link": "https://ecowiki.org.il › wiki › זיהום_קרקע_בישראל",
+            "snippet": "בישראל קיים זיהום קרקע קשה בעיקר באיזורים עירוניים וליד איזורי תעשייה. ... מודעות, חקיקה ואכיפה של נושאי איכות הסביבה ובפרט של נושא קרקעות מזוהמות ובמקביל ...",
+            "snippet_highlighted_words": [
+                "זיהום קרקע",
+                "קרקעות"
+            ]
+        },
+        {
+            "position": 10,
+            "title": "זיהום קרקע: משמעויות והשלכות - אדם טבע ודין",
+            "link": "https://www.adamteva.org.il/soil-pollution-meanings-and-implications/",
+            "displayed_link": "https://www.adamteva.org.il › soil-pollution-meanings-...",
+            "snippet": "זיהום הקרקע עלול לגרום, מעבר להשחתת הקרקע, לזיהום מקורות מי תהום (ולא מעט בארות באזור המרכז כבר נסגרו עקב זיהום), לזיהום אויר, עקב פליטתם של גזי קרקע שמסוכנים ...",
+            "snippet_highlighted_words": [
+                "זיהום",
+                "לזיהום",
+                "זיהום",
+                "לזיהום",
+                "קרקע"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "זיהום קרקע בישראל",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2+%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C&sa=X&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "זיהום קרקע המשרד להגנת הסביבה",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2+%D7%94%D7%9E%D7%A9%D7%A8%D7%93+%D7%9C%D7%94%D7%92%D7%A0%D7%AA+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&sa=X&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "עלות פינוי קרקע מזוהמת",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%A2%D7%9C%D7%95%D7%AA+%D7%A4%D7%99%D7%A0%D7%95%D7%99+%D7%A7%D7%A8%D7%A7%D7%A2+%D7%9E%D7%96%D7%95%D7%94%D7%9E%D7%AA&sa=X&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "חוק קרקעות מזוהמות",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%97%D7%95%D7%A7+%D7%A7%D7%A8%D7%A7%D7%A2%D7%95%D7%AA+%D7%9E%D7%96%D7%95%D7%94%D7%9E%D7%95%D7%AA&sa=X&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "טיפול בקרקע מזוהמת",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%98%D7%99%D7%A4%D7%95%D7%9C+%D7%91%D7%A7%D7%A8%D7%A7%D7%A2+%D7%9E%D7%96%D7%95%D7%94%D7%9E%D7%AA&sa=X&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "קורס קרקעות מזוהמות",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%A7%D7%95%D7%A8%D7%A1+%D7%A7%D7%A8%D7%A7%D7%A2%D7%95%D7%AA+%D7%9E%D7%96%D7%95%D7%94%D7%9E%D7%95%D7%AA&sa=X&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "זיהום מים",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%9E%D7%99%D7%9D&sa=X&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ1QJ6BAglEAE"
+        },
+        {
+            "query": "חוק זיהום קרקע",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%97%D7%95%D7%A7+%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&sa=X&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ1QJ6BAgkEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&ucbcb=1&hl=iw&gl=IL&ei=OP98YureM7-ekPIPgeelwAs&start=10&sa=N&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ8NMDegQIAxBQ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&ucbcb=1&hl=iw&gl=IL&ei=OP98YureM7-ekPIPgeelwAs&start=10&sa=N&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ8tMDegQIAxA-",
+            "3": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&ucbcb=1&hl=iw&gl=IL&ei=OP98YureM7-ekPIPgeelwAs&start=20&sa=N&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ8tMDegQIAxBA",
+            "4": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&ucbcb=1&hl=iw&gl=IL&ei=OP98YureM7-ekPIPgeelwAs&start=30&sa=N&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ8tMDegQIAxBC",
+            "5": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&ucbcb=1&hl=iw&gl=IL&ei=OP98YureM7-ekPIPgeelwAs&start=40&sa=N&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ8tMDegQIAxBE",
+            "6": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&ucbcb=1&hl=iw&gl=IL&ei=OP98YureM7-ekPIPgeelwAs&start=50&sa=N&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ8tMDegQIAxBG",
+            "7": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&ucbcb=1&hl=iw&gl=IL&ei=OP98YureM7-ekPIPgeelwAs&start=60&sa=N&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ8tMDegQIAxBI",
+            "8": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&ucbcb=1&hl=iw&gl=IL&ei=OP98YureM7-ekPIPgeelwAs&start=70&sa=N&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ8tMDegQIAxBK",
+            "9": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&ucbcb=1&hl=iw&gl=IL&ei=OP98YureM7-ekPIPgeelwAs&start=80&sa=N&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ8tMDegQIAxBM",
+            "10": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&ucbcb=1&hl=iw&gl=IL&ei=OP98YureM7-ekPIPgeelwAs&start=90&sa=N&ved=2ahUKEwjq2oTr_Nn3AhU_D0QIHYFzCbgQ8tMDegQIAxBO"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=20&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=30&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=40&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=50&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=60&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=70&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=80&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A7%D7%A8%D7%A7%D7%A2&start=90&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D"
+        }
+    }
+}

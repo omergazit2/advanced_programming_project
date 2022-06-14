@@ -1,0 +1,255 @@
+{
+    "search_metadata": {
+        "id": "629e3cffe13508ae4f6fd355",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f302340ca15414f3/629e3cffe13508ae4f6fd355.json",
+        "created_at": "2022-06-06 17:44:31 UTC",
+        "processed_at": "2022-06-06 17:44:31 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&oq=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f302340ca15414f3/629e3cffe13508ae4f6fd355.html",
+        "total_time_taken": 2.25
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "الحمض النووي الريبي المرسال",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "الحمض النووي الريبي المرسال",
+        "total_results": 26000,
+        "time_taken_displayed": 0.48
+    },
+    "knowledge_graph": {
+        "title": "حمض نووي ريبوزي رسول",
+        "image": "https://serpapi.com/searches/629e3cffe13508ae4f6fd355/images/d328bca75faada458be904ffeb3b7f0a38a8a0b10a3d99a2.jpeg",
+        "description": "الرنا المرسال أو الحمض النووي الريبوزي المرسال ‏ يرمز له بالرمز mRNA، هو عبارة عن جزيء رنا يحمل تسلسل نيوكليوتيدي يشكل الشيفرة الجينية التي على أساسها تتم صناعة جزيء ببتيد أو بروتين.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%B6_%D9%86%D9%88%D9%88%D9%8A_%D8%B1%D9%8A%D8%A8%D9%88%D8%B2%D9%8A_%D8%B1%D8%B3%D9%88%D9%84"
+        }
+    },
+    "related_questions": [
+        {
+            "question": "ما هي لقاحات كوفيد-19 المتوفرة في مصر؟",
+            "snippet": "وأشار \"عبدالغفار\" إلى أن مصر استطاعت في وقت وجيز توفير جميع اللقاحات المضادة لفيروس كورونا، والتي شملت \"سينوفاك، وسينوفارم، وأسترازنيكا، وسبوتنك، وجونسون آند جونسون، وفايزر، ومودرنا\"، وذلك ضمن خطة التنوع والتوسع في توفير اللقاحات المضادة لفيروس كورونا.05‏/02‏/2022",
+            "title": "Egypt Cares",
+            "link": "https://www.care.gov.eg/EgyptCare/News/Preview.aspx?id=16192",
+            "displayed_link": "https://www.care.gov.eg › EgyptCare › News › Preview"
+        },
+        {
+            "question": "ما مستجدات تلقي لقاحات كوفيد-19 في المحافظات؟",
+            "snippet": "ولفت إلى أن محافظات (البحيرة، الغربية، الجيزة) كانت الأعلى في نسب تطعيم الأطفال من سن 12 وحتى 18 عامًا، مشيراً إلى متابعة الوزير لسير العمل بمنظومة إمداد المحافظات باللقاحات المضادة لفيروس كورونا، سواء اللقاحات المخصصة لطلاب المدارس، أو المخصصة للمواطنين الأكبر من 18 عام.30‏/01‏/2022",
+            "title": "Egypt Cares",
+            "link": "https://www.care.gov.eg/EgyptCare/News/Preview.aspx?id=16182",
+            "displayed_link": "https://www.care.gov.eg › EgyptCare › News › Preview"
+        },
+        {
+            "question": "ما مستجدات تصنيع لقاح كوفيد-19 في مصر؟",
+            "snippet": "أعلن د. خالد عبدالغفار وزير التعليم العالي والبحث العلمي والسيد القصير وزير الزراعة واستصلاح الأراضي مساء اليوم الثلاثاء عن بدء التجارب السريرية للقاح المصري إيجي فاكس (Egyvax) المضاد لفيروس كورونا المستجد (كوفيد 19)،01‏/03‏/2022",
+            "title": "Egypt Cares",
+            "link": "https://www.care.gov.eg/EgyptCare/News/Preview.aspx?cid=1&id=16237",
+            "displayed_link": "https://www.care.gov.eg › EgyptCare › News › Preview"
+        },
+        {
+            "question": "ما أهمية الحصول على لقاح كوفيد-19 وهل اللقاح آمن؟",
+            "snippet": "ناشد الدكتور خالد عبدالغفار وزير التعليم العالي والبحث العلمي والقائم بعمل وزير الصحة والسكان، المواطنين بضرورة تلقي لقاحات فيروس كورونا حيث تساهم في حماية كافة أفراد الأسرة من الإصابات الشديدة بفيروس كورونا ومتحوراته، مؤكدًا في ذلك الصدد مأمونية كافة اللقاحات المتواجدة في مصر وحصولها على موافقة الاستخدام الطارئ.20‏/01‏/2022",
+            "title": "Egypt Cares",
+            "link": "https://www.care.gov.eg/EgyptCare/News/Preview.aspx?cid=1&id=16164",
+            "displayed_link": "https://www.care.gov.eg › EgyptCare › News › Preview"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "لقاحات الحمض النووي الريبي المرسال (mRNA) وعلاقتها بالمناعة",
+            "link": "https://www.mayoclinic.org/ar/mrna-vaccines-immunity/vid-20507649",
+            "displayed_link": "https://www.mayoclinic.org › vid-20507649",
+            "snippet": "الحمض النووي الريبي المرسال هو بمثابة وصفة صغيرة تحتوي تعليمات عن كيفية صنع ذلك البروتين الشوكي. عندما نأخذ هذه اللقاحات، فإن الجسم يصنع ذلك ...",
+            "snippet_highlighted_words": [
+                "الحمض النووي الريبي المرسال"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٠‏/٠٢‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "لقاحات الحمض النووي الريبي المرسال ضد «كوفيد-19» آمنة ...",
+            "link": "https://www.scientificamerican.com/arabic/articles/news/mrna-covid-19-vaccines-safe-for-people-with-cancer/",
+            "displayed_link": "https://www.scientificamerican.com › articles › news",
+            "snippet": "لقاحات، الحمض النووي الريبي المرسال، كوفيد-19، آمنة، مرضى، السرطان، طمأنة، تردد، mRNA، الأورام، السرطانية، لقاح فايزر-بيونتيك، خلايا، جسم، ...",
+            "snippet_highlighted_words": [
+                "الحمض النووي الريبي المرسال"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٧‏/٠٢‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "مُستقبَل تقنية الحمض النووي الريبي المرسال - للعِلم - ...",
+            "link": "https://www.scientificamerican.com/arabic/articles/news/the-future-of-mrna/",
+            "displayed_link": "https://www.scientificamerican.com › the-future-of-mrna",
+            "snippet": "يتطلع الباحثون أيضًا إلى إمكانية استخدام لقاحات الحمض النووي الريبي المرسال لعلاج أمراضٍ أخرى، مثل مرض الإيدز الذي يُسبِّبه فيروس نقص المناعة ...",
+            "snippet_highlighted_words": [
+                "الحمض النووي الريبي المرسال"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٩‏/٠٤‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "هل تجعلنا لقاحات \"الرنا المرسال\" بشرا خارقين؟ - BBC News ...",
+            "link": "https://www.bbc.com/arabic/vert-fut-59393774",
+            "displayed_link": "https://www.bbc.com › arabic › vert-fut-59393774",
+            "snippet": "الحمض النووي الريبوزي المرسال، أو الرنا المرسال، هو جُزيء يحمل الكود الجيني من الحمض النووي إلى آلية صنع البروتين في الخلية. وبدون الرنا المرسال ...",
+            "snippet_highlighted_words": [
+                "الحمض النووي",
+                "المرسال",
+                "المرسال",
+                "الحمض النووي",
+                "المرسال"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٤‏/١١‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "الحمض النووي الريبي المرسال | يورونيوز - أخبار دولية عن ...",
+            "link": "https://arabic.euronews.com/tag/mrna",
+            "displayed_link": "https://arabic.euronews.com › tag › mrna",
+            "snippet": "الحمض النووي الريبي المرسال | قائمة من الألف إلى الياء لكل التقارير المنشورة في يورونيوز عن الأخبار الدولية، التجارة، السياسة، العلوم ونمط الحياة.",
+            "snippet_highlighted_words": [
+                "الحمض النووي الريبي المرسال"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "دراسة فرنسية: اللقاحات بتقنية الحمض النووي الريبي المرسال ...",
+            "link": "https://arabic.rt.com/health/1291830-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D9%82%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A8%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%85%D8%B6-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84-%D8%AA%D8%B2%D9%8A%D8%AF-%D8%AE%D8%B7%D8%B1-%D8%A7%D9%84%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8%D9%80%D8%A7%D9%84%D8%AA%D8%A7%D9%85%D9%88%D8%B1/",
+            "displayed_link": "https://arabic.rt.com › health › 1291830-دراسة-فرنسية...",
+            "snippet": "أظهرت دراسة فرنسية معمقة أن اللقاحات العاملة بتقنية الحمض النووي الريبي المرسال المضادة لكوفيد-19، تزيد من خطر الإصابة بالتهابي عضلة القلب ...",
+            "snippet_highlighted_words": [
+                "الحمض النووي الريبي المرسال"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٨‏/١١‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "حمض نووي ريبوزي رسول - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%B6_%D9%86%D9%88%D9%88%D9%8A_%D8%B1%D9%8A%D8%A8%D9%88%D8%B2%D9%8A_%D8%B1%D8%B3%D9%88%D9%84",
+            "displayed_link": "https://ar.wikipedia.org › wiki › حمض_نووي_ريبوزي_ر...",
+            "snippet": "الرنا المرسال أو الحمض النووي الريبوزي المرسال (بالإنجليزية: Messenger RNA)‏ يرمز له بالرمز mRNA، هو عبارة عن جزيء رنا (حمض نووي ريبوزي) يحمل تسلسل ...",
+            "snippet_highlighted_words": [
+                "المرسال",
+                "الحمض النووي",
+                "المرسال",
+                "RNA",
+                "حمض نووي"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "هل يغير الحمض النووي الريبي حياتنا إلى الأبد؟ | علوم | ...",
+            "link": "https://www.aljazeera.net/news/science/2021/2/2/%D9%83%D9%8A%D9%81-%D8%B3%D9%8A%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%AD%D9%85%D8%B6-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A-%D8%AD%D9%8A%D8%A7%D8%AA%D9%86%D8%A7",
+            "displayed_link": "https://www.aljazeera.net › news › science › كيف-سيغ...",
+            "snippet": "الحمض النووي الريبي “آر إن إيه” نجم جديد صاعد في مجال الطب، فهو مصدر لقاحات جديدة قد تقضي على فيروس كورونا المدمر، وهو بداية ثورة في التطعيم ...",
+            "snippet_highlighted_words": [
+                "الحمض النووي الريبي"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٢‏/٠٢‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "دراسة تحذر من لقاحات بتقنية الحمض النووي الريبي المرسال",
+            "link": "https://www.alittihad.ae/news/%D8%AF%D9%86%D9%8A%D8%A7/4235742/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%84%D9%82%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A8%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%85%D8%B6-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84",
+            "displayed_link": "https://www.alittihad.ae › news › دنيا › دراسة-تحذر-من-ا...",
+            "snippet": "أظهرت دراسة فرنسية كبيرة، الاثنين، أن اللقاحات العاملة بتقنية الحمض النووي الريبي المرسال المضادة لـ«كوفيد-19» تزيد من خطر الإصابة بالتهابَي ...",
+            "snippet_highlighted_words": [
+                "الحمض النووي الريبي المرسال"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٨‏/١١‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 10,
+            "title": "لقاح كوفيد 19 الحمض النووي الريبي المرسال 1273 | الطبي",
+            "link": "https://altibbi.com/%D8%A7%D9%84%D8%A7%D8%AF%D9%88%D9%8A%D8%A9/%D9%84%D9%82%D8%A7%D8%AD-%D8%B3%D8%A7%D8%B1%D8%B3-%D9%83%D9%88%D9%81-2-%D9%83%D9%88%D9%81%D9%8A%D8%AF-19-%D8%A7%D9%84%D8%AD%D9%85%D8%B6-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84-1237-%D8%B9%D9%84%D9%85%D9%8A",
+            "displayed_link": "https://altibbi.com › الأدوية",
+            "snippet": "ما هو دواء لقاح سارس كوف 2 كوفيد 19 الحمض النووي الريبي المرسال 1273. هو لقاح ضد الإصابة بعدوى فيروس كورونا (سارس كوف-2) المسبب لمرض كوفيد-19، يستخدم في ...",
+            "snippet_highlighted_words": [
+                "الحمض النووي الريبي المرسال"
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&ei=AT2eYsbQH8iAqtsPgpK6gA8&start=10&sa=N&ved=2ahUKEwiG1YGzsJn4AhVIgGoFHQKJDvAQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&ei=AT2eYsbQH8iAqtsPgpK6gA8&start=10&sa=N&ved=2ahUKEwiG1YGzsJn4AhVIgGoFHQKJDvAQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&ei=AT2eYsbQH8iAqtsPgpK6gA8&start=20&sa=N&ved=2ahUKEwiG1YGzsJn4AhVIgGoFHQKJDvAQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&ei=AT2eYsbQH8iAqtsPgpK6gA8&start=30&sa=N&ved=2ahUKEwiG1YGzsJn4AhVIgGoFHQKJDvAQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&ei=AT2eYsbQH8iAqtsPgpK6gA8&start=40&sa=N&ved=2ahUKEwiG1YGzsJn4AhVIgGoFHQKJDvAQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&ei=AT2eYsbQH8iAqtsPgpK6gA8&start=50&sa=N&ved=2ahUKEwiG1YGzsJn4AhVIgGoFHQKJDvAQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&ei=AT2eYsbQH8iAqtsPgpK6gA8&start=60&sa=N&ved=2ahUKEwiG1YGzsJn4AhVIgGoFHQKJDvAQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&ei=AT2eYsbQH8iAqtsPgpK6gA8&start=70&sa=N&ved=2ahUKEwiG1YGzsJn4AhVIgGoFHQKJDvAQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&ei=AT2eYsbQH8iAqtsPgpK6gA8&start=80&sa=N&ved=2ahUKEwiG1YGzsJn4AhVIgGoFHQKJDvAQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&hl=ar&gl=eg&ei=AT2eYsbQH8iAqtsPgpK6gA8&start=90&sa=N&ved=2ahUKEwiG1YGzsJn4AhVIgGoFHQKJDvAQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AD%D9%85%D8%B6+%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A+%D8%A7%D9%84%D8%B1%D9%8A%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D8%A7%D9%84&start=90"
+        }
+    }
+}

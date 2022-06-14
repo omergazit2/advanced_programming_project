@@ -1,0 +1,311 @@
+{
+    "search_metadata": {
+        "id": "629e3d7b10d744ab164973a7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/da01a844e93d8d5e/629e3d7b10d744ab164973a7.json",
+        "created_at": "2022-06-06 17:46:35 UTC",
+        "processed_at": "2022-06-06 17:46:35 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&oq=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/da01a844e93d8d5e/629e3d7b10d744ab164973a7.html",
+        "total_time_taken": 0.64
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "אטום",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "אטום",
+        "total_results": 1570000,
+        "time_taken_displayed": 0.42
+    },
+    "knowledge_graph": {
+        "title": "אטום",
+        "header_images": [
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%90%D7%98%D7%95%D7%9D"
+            },
+            {
+                "source": "https://he.wiktionary.org/wiki/%D7%90%D7%98%D7%95%D7%9D"
+            },
+            {
+                "source": "https://sites.google.com/site/ortclassh4/sywr-10-mbnh-htwm"
+            },
+            {
+                "source": "https://www.liorshenhav.co.il/%D7%90%D7%98%D7%95%D7%9D-Atom.html"
+            },
+            {
+                "source": "https://www.zinman.org.il/224-2/"
+            },
+            {
+                "source": "http://www.damada.co.il/topics/physics/db/electricity_atom_structure/electricity_atom_structure.shtml"
+            },
+            {
+                "source": "https://eureka.org.il/item/17984/%D7%9E%D7%94-%D7%96%D7%94-%D7%90%D7%98%D7%95%D7%9D-%D7%95%D7%9B%D7%99%D7%A6%D7%93-%D7%94%D7%95%D7%90-%D7%94%D7%AA%D7%92%D7%9C%D7%94"
+            }
+        ],
+        "description": "האָטוֹם, שפירושו \"לא ניתן לחיתוך\" - \"א\" \"טומי\" הוא המערך החלקיקי הקטן ביותר שמטענו החשמלי הכולל הוא אפס, והמאפיין יסוד כימי ומבדיל אותו מיסודות כימיים אחרים. הוא מורכב מחלקיקים קטנים יותר שאינם מיוחדים לו אלא נמצאים במערכים שונים בכל היסודות הכימיים.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%98%D7%95%D7%9D"
+        },
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "חומר",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%97%D7%95%D7%9E%D7%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeAf404NrHwu4odf5_DPWy3gAHuVcneBVzK054_RV4e8wOPGO-0YuCRLw3FGYipSzYfAddOND-SwgGnamiwYcVo2jVogQlSSYz1L2-FCiejLbXYxBWjrfiGqVOGlm-wvW5Ar2hyuPuZWWDj2pbcafAk60Yg3i3irG4whcLwGw9zw9lX4-wwsNxIQQRBeytuLIAtnfKXAd8Gefwm5HBWyuTbrgdYZJg_yi6rhkAtoL0ISDCjdlw%3D%3D&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQxA16BAhNEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%9E%D7%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeAf404NrHwu4odf5_DPWy3gAHuVcneBVzK054_RV4e8wOPGO-0YuCRLw3FGYipSzYfAddOND-SwgGnamiwYcVo2jVogQlSSYz1L2-FCiejLbXYxBWjrfiGqVOGlm-wvW5Ar2hyuPuZWWDj2pbcafAk60Yg3i3irG4whcLwGw9zw9lX4-wwsNxIQQRBeytuLIAtnfKXAd8Gefwm5HBWyuTbrgdYZJg_yi6rhkAtoL0ISDCjdlw%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d7b10d744ab164973a7/images/e44d88188e9d2ddb217efc05a96757fed54cc9d81922c6d84663736f89297917cabb7dc575c228d5fd1e76d67966d54fad12c05c29d88227.jpeg"
+            },
+            {
+                "name": "גרעין האטום",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%92%D7%A8%D7%A2%D7%99%D7%9F+%D7%94%D7%90%D7%98%D7%95%D7%9D&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVsHsg2XYRBF-WvzicOX9kvdnDucbMirKRbRvpr_EyWv25D_1idj43KizB3InMKOb1cGbV9ezadWF4OlvByJ6RDAZSFq5y-4EQ7s9hi0qrgTZva4KSYEbpUGg70TwOtPJXFpcOnn4nrMxzoEWCJhCQB3JNlfJRRh3NaoHL_CZ06EdusVPzZ2bBML6LqmxwKIHD4Lsoxr8D5attBUGQDBEtpT_dEypP8uB-LBOFpfOzUJPbZIRlXXdRsDskxVY48VsAI4mrc%3D&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQxA16BAhNEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A8%D7%A2%D7%99%D7%9F+%D7%94%D7%90%D7%98%D7%95%D7%9D&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVsHsg2XYRBF-WvzicOX9kvdnDucbMirKRbRvpr_EyWv25D_1idj43KizB3InMKOb1cGbV9ezadWF4OlvByJ6RDAZSFq5y-4EQ7s9hi0qrgTZva4KSYEbpUGg70TwOtPJXFpcOnn4nrMxzoEWCJhCQB3JNlfJRRh3NaoHL_CZ06EdusVPzZ2bBML6LqmxwKIHD4Lsoxr8D5attBUGQDBEtpT_dEypP8uB-LBOFpfOzUJPbZIRlXXdRsDskxVY48VsAI4mrc%3D",
+                "image": "https://serpapi.com/searches/629e3d7b10d744ab164973a7/images/e44d88188e9d2ddb217efc05a96757fed54cc9d81922c6d84663736f89297917cabb7dc575c228d56cc1d45ee4ea7c8568e8971c4cfad005.jpeg"
+            },
+            {
+                "name": "כימיה",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9B%D7%99%D7%9E%D7%99%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdas8q74WvlAG-l7iX7hGROMoNqUjOSfKv9FdtrbR3rGkDgT21FAdlSHfc9GjAQRUJyid5Bm5KF0pKf-6iPz5YVsDW2Gt7grAMxe8P481ITYBLp9NHWzYifNh0VL7rH-FpDqAaTgKaiZ0dFr0xv828-1H58_Lr4VjWwbZhTR5YZY8TimAmEJQn0LfKs7wlK6EDvEG0rUeXAblRgWGnM5PS7LoxxFuoO0I_mUUlVZIHNrTxwZSTZf4aU_dHtb_FmYZp5nMrFc%3D&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQxA16BAhNEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9B%D7%99%D7%9E%D7%99%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdas8q74WvlAG-l7iX7hGROMoNqUjOSfKv9FdtrbR3rGkDgT21FAdlSHfc9GjAQRUJyid5Bm5KF0pKf-6iPz5YVsDW2Gt7grAMxe8P481ITYBLp9NHWzYifNh0VL7rH-FpDqAaTgKaiZ0dFr0xv828-1H58_Lr4VjWwbZhTR5YZY8TimAmEJQn0LfKs7wlK6EDvEG0rUeXAblRgWGnM5PS7LoxxFuoO0I_mUUlVZIHNrTxwZSTZf4aU_dHtb_FmYZp5nMrFc%3D",
+                "image": "https://serpapi.com/searches/629e3d7b10d744ab164973a7/images/e44d88188e9d2ddb217efc05a96757fed54cc9d81922c6d84663736f89297917cabb7dc575c228d50c235242a6daf7187643fdac0e375a2e.jpeg"
+            },
+            {
+                "name": "הטבלה המחזורית",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%94%D7%98%D7%91%D7%9C%D7%94+%D7%94%D7%9E%D7%97%D7%96%D7%95%D7%A8%D7%99%D7%AA&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVNazyFeqfwKVt_Jw7zyGA-pefHLH4mXfNFWu-Ip1FQ3E0nuv8fSqE36ZSSX-cD5yHeQoUibTXlXIH4fSi8YIOlwp7lWdJL4NH-AZN5-5kZv6E64CVTtjVjHpSKzj4beG72Bo2m9ed1ftqSLIKN12-Gb8acqMDbeK2ju1OZS-6rp0iLGjJJg2NUGrbIAlvZtnjqOrNH9w7MOpnECS9j9Rl-TMBOtewEBojQsi3O9Ex7KycE4SLiPodUSXs8ycOmP0SQdkVqn9luXM6JHdHd7DWODSAdJ&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQxA16BAhNEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%98%D7%91%D7%9C%D7%94+%D7%94%D7%9E%D7%97%D7%96%D7%95%D7%A8%D7%99%D7%AA&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVNazyFeqfwKVt_Jw7zyGA-pefHLH4mXfNFWu-Ip1FQ3E0nuv8fSqE36ZSSX-cD5yHeQoUibTXlXIH4fSi8YIOlwp7lWdJL4NH-AZN5-5kZv6E64CVTtjVjHpSKzj4beG72Bo2m9ed1ftqSLIKN12-Gb8acqMDbeK2ju1OZS-6rp0iLGjJJg2NUGrbIAlvZtnjqOrNH9w7MOpnECS9j9Rl-TMBOtewEBojQsi3O9Ex7KycE4SLiPodUSXs8ycOmP0SQdkVqn9luXM6JHdHd7DWODSAdJ",
+                "image": "https://serpapi.com/searches/629e3d7b10d744ab164973a7/images/e44d88188e9d2ddb217efc05a96757fed54cc9d81922c6d84663736f89297917cabb7dc575c228d5321793ac343f6f3ee58b2f0268dd55a9.png"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%98%D7%95%D7%9D&stick=H4sIAAAAAAAAAONgFmLXz9U3yC7JUYIxtASDM1NSyxMri_1SK0qCS1ILihexclyfcH3G9anX5-5gZQQA_1KsUTUAAAA&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQMSgAegQITRAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFmLXz9U3yC7JUYIxtASDM1NSyxMri_1SK0qCS1ILihexclyfcH3G9anX5-5gZQQA_1KsUTUAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "מה זה אטום?",
+            "link": "https://www.youtube.com/watch?v=1TDwfM2Gdgg",
+            "thumbnail": "https://serpapi.com/searches/629e3d7b10d744ab164973a7/images/81513db0b0e3a5720ec8f8dba4baf183b310a4c614efa5b03be8717a11fc89fc.jpeg",
+            "channel": "ComGeek",
+            "duration": "4:11",
+            "platform": "YouTube",
+            "date": "18 בספט׳ 2017"
+        },
+        {
+            "position": 2,
+            "title": "מבנה האטום - סקירה כללית",
+            "link": "https://www.youtube.com/watch?v=4H9fypaXccc",
+            "thumbnail": "https://serpapi.com/searches/629e3d7b10d744ab164973a7/images/81513db0b0e3a5722f6b2f331a658c9e0d91286287bb23f66d98bee4df07a1b2.jpeg",
+            "channel": "מכון דוידסון - סרטוני מדע",
+            "duration": "3:49",
+            "platform": "YouTube",
+            "date": "8 בדצמ׳ 2015"
+        },
+        {
+            "position": 3,
+            "title": "מבנה האטום: סקירה כללית",
+            "link": "https://www.youtube.com/watch?v=IcojnzG7eRM",
+            "thumbnail": "https://serpapi.com/searches/629e3d7b10d744ab164973a7/images/81513db0b0e3a572af075a33c6fce5221cb79b8f1442edbdf02c127d4a36f41f.jpeg",
+            "channel": "מכון דוידסון - סרטוני מדע",
+            "duration": "3:49",
+            "platform": "YouTube",
+            "date": "13 בינו׳ 2011"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "אטום - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%98%D7%95%D7%9D",
+            "displayed_link": "https://he.wikipedia.org › wiki › אטום",
+            "snippet": "המדע העוסק בתכונות מערכי האלקטרונים באטום נקרא פיזיקה אטומית. הכימיה עוסקת בקשרים שבין אטומים. פיזיקה גרעינית עוסקת במבנה גרעין האטום ובתגובות גרעיניות, כמו ...",
+            "snippet_highlighted_words": [
+                "באטום",
+                "אטומים",
+                "האטום"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "אטום (פירושונים)",
+                        "link": "https://he.wikipedia.org/wiki/%D7%90%D7%98%D7%95%D7%9D_(%D7%A4%D7%99%D7%A8%D7%95%D7%A9%D7%95%D7%A0%D7%99%D7%9D)"
+                    },
+                    {
+                        "title": "גרעין האטום",
+                        "link": "https://he.wikipedia.org/wiki/%D7%92%D7%A8%D7%A2%D7%99%D7%9F_%D7%94%D7%90%D7%98%D7%95%D7%9D"
+                    },
+                    {
+                        "title": "אלקטרון",
+                        "link": "https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%A7%D7%98%D7%A8%D7%95%D7%9F"
+                    },
+                    {
+                        "title": "מודל האטום של בוהר",
+                        "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%93%D7%9C_%D7%94%D7%90%D7%98%D7%95%D7%9D_%D7%A9%D7%9C_%D7%91%D7%95%D7%94%D7%A8"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "אטום (פירושונים) - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%98%D7%95%D7%9D_(%D7%A4%D7%99%D7%A8%D7%95%D7%A9%D7%95%D7%A0%D7%99%D7%9D)",
+            "displayed_link": "https://he.wikipedia.org › wiki › אטום_(פירושונים)",
+            "snippet": "אטום – המערך החלקיקי הקטן ביותר שמטענו החשמלי הכולל הוא אפס, והמאפיין יסוד כימי ..."
+        },
+        {
+            "position": 3,
+            "title": "אטום - מטח",
+            "link": "https://lib.cet.ac.il/pages/item.asp?item=7286",
+            "displayed_link": "https://lib.cet.ac.il › pages › item",
+            "snippet": "החלק הקטן ביותר של היסוד. כל אטום משקף את תכונות היסוד ומשתתף בתגובה כימית. האטום מורכב מהגרעין המכיל פרוטונים ונויטרונים. הגרעין עטוף בענן של אלקטרונים ...",
+            "snippet_highlighted_words": [
+                "אטום",
+                "האטום"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "אטומים - מטח",
+            "link": "https://lib.cet.ac.il/pages/sub.asp?kwd=686",
+            "displayed_link": "https://lib.cet.ac.il › pages › sub",
+            "snippet": "אטום. מילות המפתח: יסודות (כימיה), אטומים החלק הקטן ביותר של היסוד. כל אטום משקף את תכונות היסוד ומשתתף בתגובה כימית. /למידע מלא.",
+            "snippet_highlighted_words": [
+                "אטום",
+                "אטומים",
+                "אטום"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "מהו גודלו של האטום? - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/maagarmada/%D7%9E%D7%94%D7%95-%D7%92%D7%95%D7%93%D7%9C%D7%95-%D7%A9%D7%9C-%D7%94%D7%90%D7%98%D7%95%D7%9D",
+            "displayed_link": "https://davidson.weizmann.ac.il › online › maagarmada",
+            "date": "16 במרץ 2013",
+            "snippet": "בכל אטום יש אלקטרונים ויש גרעין שבו נמצאים פרוטונים ונויטרונים. ... לתת מידה מדויקת ביחידות מקובלות: מהו נפח האטום, מהי צפיפות הגרעין וכו'.",
+            "snippet_highlighted_words": [
+                "אטום",
+                "האטום"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "אטום - ויקימילון",
+            "link": "https://he.wiktionary.org/wiki/%D7%90%D7%98%D7%95%D7%9D",
+            "displayed_link": "https://he.wiktionary.org › wiki › אטום",
+            "snippet": "כתיב מלא, אטום. הגייה, atom. חלק דיבר, שם־עצם. מין, זכר. שורש. דרך תצורה. נטיות, ר׳ אָטוֹמִים; אָטוֹם־, ר׳ אָטוֹמֵי־ ...",
+            "snippet_highlighted_words": [
+                "אטום",
+                "atom",
+                "אָטוֹם"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "מבנה האטום",
+            "link": "https://mbakodesh.org.il/wp-content/uploads/2020/11/2%D7%9E%D7%91%D7%A0%D7%94-%D7%94%D7%90%D7%98%D7%95%D7%9D-%D7%9E%D7%A6%D7%92%D7%AA.pdf",
+            "displayed_link": "https://mbakodesh.org.il › uploads › 2020/11 › 2מ...",
+            "date": "19 דפים",
+            "snippet": "השונים שבונים את האטום ונכיר אטומים מסוגים שונים ... האטום הוא החלקיק הקטן ביותר שבו. נשמרות תכונות היסוד ... אטום. גרעין האטום ...",
+            "snippet_highlighted_words": [
+                "האטום",
+                "אטומים",
+                "האטום",
+                "אטום",
+                "האטום"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "מבנה האטום",
+            "link": "http://www.orianit.edu-negev.gov.il/kugelcln2/cp/homepage/3atom.htm",
+            "displayed_link": "http://www.orianit.edu-negev.gov.il › homepage › 3atom",
+            "snippet": "האטומים של היסודות השונים שונים זה מזה ובעלי תכונות שונות. ניתן להבדיל בין אטום חמצן לאטום מימן, או בין אטום ברזל לאטום של קסנון. ברגע שנפרק את האטום, כל אטום ...",
+            "snippet_highlighted_words": [
+                "אטום",
+                "לאטום",
+                "אטום",
+                "לאטום",
+                "האטום",
+                "אטום"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "אטום - Ynet",
+            "link": "https://www.ynet.co.il/topics/%D7%90%D7%98%D7%95%D7%9D",
+            "displayed_link": "https://www.ynet.co.il › תגיות › טופיקס",
+            "snippet": "כנסו וקראו על כל הנושאים שהכי מעניינים אתכם. חדשות חמות , עידכונים ומבזקים. ynet אטום – מגוון כתבות אודות אטום באתר.",
+            "snippet_highlighted_words": [
+                "אטום",
+                "אטום"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "אטום הגדרה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%98%D7%95%D7%9D+%D7%94%D7%92%D7%93%D7%A8%D7%94&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "מהו אטום",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%94%D7%95+%D7%90%D7%98%D7%95%D7%9D&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "אטום הסבר",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%98%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%A8&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "בן אדם אטום",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%91%D7%9F+%D7%90%D7%93%D7%9D+%D7%90%D7%98%D7%95%D7%9D&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "פצצת אטום",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%A6%D7%A6%D7%AA+%D7%90%D7%98%D7%95%D7%9D&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "מבנה אטום",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%91%D7%A0%D7%94+%D7%90%D7%98%D7%95%D7%9D&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "אטום ניטרלי",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%98%D7%95%D7%9D+%D7%A0%D7%99%D7%98%D7%A8%D7%9C%D7%99&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "ממה בנוי גרעין האטום סטיפס",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%9E%D7%94+%D7%91%D7%A0%D7%95%D7%99+%D7%92%D7%A8%D7%A2%D7%99%D7%9F+%D7%94%D7%90%D7%98%D7%95%D7%9D+%D7%A1%D7%98%D7%99%D7%A4%D7%A1&sa=X&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ1QJ6BAgzEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&ei=ez2eYrCPO_nFqtsPpcOe4A0&start=10&sa=N&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&ei=ez2eYrCPO_nFqtsPpcOe4A0&start=10&sa=N&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&ei=ez2eYrCPO_nFqtsPpcOe4A0&start=20&sa=N&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&ei=ez2eYrCPO_nFqtsPpcOe4A0&start=30&sa=N&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&ei=ez2eYrCPO_nFqtsPpcOe4A0&start=40&sa=N&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&ei=ez2eYrCPO_nFqtsPpcOe4A0&start=50&sa=N&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&ei=ez2eYrCPO_nFqtsPpcOe4A0&start=60&sa=N&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&ei=ez2eYrCPO_nFqtsPpcOe4A0&start=70&sa=N&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&ei=ez2eYrCPO_nFqtsPpcOe4A0&start=80&sa=N&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D7%90%D7%98%D7%95%D7%9D&hl=iw&gl=il&ei=ez2eYrCPO_nFqtsPpcOe4A0&start=90&sa=N&ved=2ahUKEwjwuLPtsJn4AhX5omoFHaWhB9wQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%98%D7%95%D7%9D&start=90"
+        }
+    }
+}

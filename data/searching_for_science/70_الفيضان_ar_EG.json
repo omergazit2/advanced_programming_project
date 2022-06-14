@@ -1,0 +1,323 @@
+{
+    "search_metadata": {
+        "id": "627cff85ca968f48efc649b9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/510a426377022c78/627cff85ca968f48efc649b9.json",
+        "created_at": "2022-05-12 12:37:25 UTC",
+        "processed_at": "2022-05-12 12:37:25 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&oq=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&uule=w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=&hl=ar&gl=EG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/510a426377022c78/627cff85ca968f48efc649b9.html",
+        "total_time_taken": 14.98
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "الفيضان",
+        "uule": "w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "EG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "الفيضان",
+        "total_results": 1140000,
+        "time_taken_displayed": 0.45
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=2KlsSsw7Fy5u9M%252C0lL3WSmc65vmDM%252C_%253BsugO9sxeEPBhsM%252ChlDYjoUooth4LM%252C_%253BUjn_8CcLCW-CrM%252Cs76Te3lMHo1GBM%252C_%253BPLQR2fQxp1R_CM%252CCsTkLR8QGiHq2M%252C_%253BfbrPjsaWa_8eXM%252CcnarGTusNLHXcM%252C_%253BQLCOm42mYKkiJM%252Cfvi61pm8RwcblM%252C_%253BylsqONZStjeBBM%252Cd-uy4HAExRJxHM%252C_%253BKsQPFAalCmgoHM%252CS4cu3ZXbLS3crM%252C_%253BMh8P4U7Be4YJuM%252CDjS2yanJNgImNM%252C_%253BaMw9rOHQ4Y1UPM%252C1swn2thr77bHyM%252C_&usg=AI4_-kTFeeNXWkSq8dDFHW-GvvJz0L358Q&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ9QF6BAg5EAE#imgrc=2KlsSsw7Fy5u9M",
+            "source": "https://www.dw.com/ar/%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%85%D8%A7-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A9-%D9%84%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7/a-58299538",
+            "thumbnail": "https://serpapi.com/searches/627cff85ca968f48efc649b9/images/ff3003a897b54bf93aabad62cb0d5c2b460f655fc73f930020282ca397b4bf79.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=2KlsSsw7Fy5u9M%252C0lL3WSmc65vmDM%252C_%253BsugO9sxeEPBhsM%252ChlDYjoUooth4LM%252C_%253BUjn_8CcLCW-CrM%252Cs76Te3lMHo1GBM%252C_%253BPLQR2fQxp1R_CM%252CCsTkLR8QGiHq2M%252C_%253BfbrPjsaWa_8eXM%252CcnarGTusNLHXcM%252C_%253BQLCOm42mYKkiJM%252Cfvi61pm8RwcblM%252C_%253BylsqONZStjeBBM%252Cd-uy4HAExRJxHM%252C_%253BKsQPFAalCmgoHM%252CS4cu3ZXbLS3crM%252C_%253BMh8P4U7Be4YJuM%252CDjS2yanJNgImNM%252C_%253BaMw9rOHQ4Y1UPM%252C1swn2thr77bHyM%252C_&usg=AI4_-kTFeeNXWkSq8dDFHW-GvvJz0L358Q&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ9QF6BAhIEAE#imgrc=sugO9sxeEPBhsM",
+            "source": "https://www.youtube.com/watch?v=64LqSX7GxdQ",
+            "thumbnail": "https://serpapi.com/searches/627cff85ca968f48efc649b9/images/ff3003a897b54bf97d084e1d7c4f49c8c33d66a7faa9bf1e8defd7233bc1ba8e.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=2KlsSsw7Fy5u9M%252C0lL3WSmc65vmDM%252C_%253BsugO9sxeEPBhsM%252ChlDYjoUooth4LM%252C_%253BUjn_8CcLCW-CrM%252Cs76Te3lMHo1GBM%252C_%253BPLQR2fQxp1R_CM%252CCsTkLR8QGiHq2M%252C_%253BfbrPjsaWa_8eXM%252CcnarGTusNLHXcM%252C_%253BQLCOm42mYKkiJM%252Cfvi61pm8RwcblM%252C_%253BylsqONZStjeBBM%252Cd-uy4HAExRJxHM%252C_%253BKsQPFAalCmgoHM%252CS4cu3ZXbLS3crM%252C_%253BMh8P4U7Be4YJuM%252CDjS2yanJNgImNM%252C_%253BaMw9rOHQ4Y1UPM%252C1swn2thr77bHyM%252C_&usg=AI4_-kTFeeNXWkSq8dDFHW-GvvJz0L358Q&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ9QF6BAhHEAE#imgrc=Ujn_8CcLCW-CrM",
+            "source": "https://www.bbc.com/arabic/trending-54077067",
+            "thumbnail": "https://serpapi.com/searches/627cff85ca968f48efc649b9/images/ff3003a897b54bf9e25e4f654e25309005dff63891475382b959f4de9251ada1.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=2KlsSsw7Fy5u9M%252C0lL3WSmc65vmDM%252C_%253BsugO9sxeEPBhsM%252ChlDYjoUooth4LM%252C_%253BUjn_8CcLCW-CrM%252Cs76Te3lMHo1GBM%252C_%253BPLQR2fQxp1R_CM%252CCsTkLR8QGiHq2M%252C_%253BfbrPjsaWa_8eXM%252CcnarGTusNLHXcM%252C_%253BQLCOm42mYKkiJM%252Cfvi61pm8RwcblM%252C_%253BylsqONZStjeBBM%252Cd-uy4HAExRJxHM%252C_%253BKsQPFAalCmgoHM%252CS4cu3ZXbLS3crM%252C_%253BMh8P4U7Be4YJuM%252CDjS2yanJNgImNM%252C_%253BaMw9rOHQ4Y1UPM%252C1swn2thr77bHyM%252C_&usg=AI4_-kTFeeNXWkSq8dDFHW-GvvJz0L358Q&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ9QF6BAhKEAE#imgrc=PLQR2fQxp1R_CM",
+            "source": "https://mawdoo3.com/%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
+            "thumbnail": "https://serpapi.com/searches/627cff85ca968f48efc649b9/images/ff3003a897b54bf98761592ee494c3487e771b5aeba48e8377e473a9856a8f0e.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=2KlsSsw7Fy5u9M%252C0lL3WSmc65vmDM%252C_%253BsugO9sxeEPBhsM%252ChlDYjoUooth4LM%252C_%253BUjn_8CcLCW-CrM%252Cs76Te3lMHo1GBM%252C_%253BPLQR2fQxp1R_CM%252CCsTkLR8QGiHq2M%252C_%253BfbrPjsaWa_8eXM%252CcnarGTusNLHXcM%252C_%253BQLCOm42mYKkiJM%252Cfvi61pm8RwcblM%252C_%253BylsqONZStjeBBM%252Cd-uy4HAExRJxHM%252C_%253BKsQPFAalCmgoHM%252CS4cu3ZXbLS3crM%252C_%253BMh8P4U7Be4YJuM%252CDjS2yanJNgImNM%252C_%253BaMw9rOHQ4Y1UPM%252C1swn2thr77bHyM%252C_&usg=AI4_-kTFeeNXWkSq8dDFHW-GvvJz0L358Q&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ9QF6BAhDEAE#imgrc=fbrPjsaWa_8eXM",
+            "source": "https://www.skynewsarabia.com/middle-east/1454682-%D9%85%D9%88%D9%94%D8%B4%D8%B1%D8%A7%D8%AA-%D9%85%D8%AE%D9%8A%D9%81%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL2zrUDB9sypaa9FydOYjFnxgJkLYwYaaYrvgt16nihg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=2KlsSsw7Fy5u9M%252C0lL3WSmc65vmDM%252C_%253BsugO9sxeEPBhsM%252ChlDYjoUooth4LM%252C_%253BUjn_8CcLCW-CrM%252Cs76Te3lMHo1GBM%252C_%253BPLQR2fQxp1R_CM%252CCsTkLR8QGiHq2M%252C_%253BfbrPjsaWa_8eXM%252CcnarGTusNLHXcM%252C_%253BQLCOm42mYKkiJM%252Cfvi61pm8RwcblM%252C_%253BylsqONZStjeBBM%252Cd-uy4HAExRJxHM%252C_%253BKsQPFAalCmgoHM%252CS4cu3ZXbLS3crM%252C_%253BMh8P4U7Be4YJuM%252CDjS2yanJNgImNM%252C_%253BaMw9rOHQ4Y1UPM%252C1swn2thr77bHyM%252C_&usg=AI4_-kTFeeNXWkSq8dDFHW-GvvJz0L358Q&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ9QF6BAhFEAE#imgrc=QLCOm42mYKkiJM",
+            "source": "https://www.scientificamerican.com/arabic/articles/news/satellite-imaging-reveals-increased-proportion-of-population-exposed-to-floods/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbToxPYu7zICMqhHE0GG0QOpJ-l1A6pOwkvCo-IDtS3w&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=2KlsSsw7Fy5u9M%252C0lL3WSmc65vmDM%252C_%253BsugO9sxeEPBhsM%252ChlDYjoUooth4LM%252C_%253BUjn_8CcLCW-CrM%252Cs76Te3lMHo1GBM%252C_%253BPLQR2fQxp1R_CM%252CCsTkLR8QGiHq2M%252C_%253BfbrPjsaWa_8eXM%252CcnarGTusNLHXcM%252C_%253BQLCOm42mYKkiJM%252Cfvi61pm8RwcblM%252C_%253BylsqONZStjeBBM%252Cd-uy4HAExRJxHM%252C_%253BKsQPFAalCmgoHM%252CS4cu3ZXbLS3crM%252C_%253BMh8P4U7Be4YJuM%252CDjS2yanJNgImNM%252C_%253BaMw9rOHQ4Y1UPM%252C1swn2thr77bHyM%252C_&usg=AI4_-kTFeeNXWkSq8dDFHW-GvvJz0L358Q&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ9QF6BAhAEAE#imgrc=ylsqONZStjeBBM",
+            "source": "https://mawdoo3.com/%D9%83%D9%8A%D9%81_%D8%AA%D8%AD%D8%AF%D8%AB_%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd4zMbPT8y_C0Fa38UvLRisBB36xyr3gSVerbM2t0ruA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=2KlsSsw7Fy5u9M%252C0lL3WSmc65vmDM%252C_%253BsugO9sxeEPBhsM%252ChlDYjoUooth4LM%252C_%253BUjn_8CcLCW-CrM%252Cs76Te3lMHo1GBM%252C_%253BPLQR2fQxp1R_CM%252CCsTkLR8QGiHq2M%252C_%253BfbrPjsaWa_8eXM%252CcnarGTusNLHXcM%252C_%253BQLCOm42mYKkiJM%252Cfvi61pm8RwcblM%252C_%253BylsqONZStjeBBM%252Cd-uy4HAExRJxHM%252C_%253BKsQPFAalCmgoHM%252CS4cu3ZXbLS3crM%252C_%253BMh8P4U7Be4YJuM%252CDjS2yanJNgImNM%252C_%253BaMw9rOHQ4Y1UPM%252C1swn2thr77bHyM%252C_&usg=AI4_-kTFeeNXWkSq8dDFHW-GvvJz0L358Q&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ9QF6BAg-EAE#imgrc=KsQPFAalCmgoHM",
+            "source": "https://www.bbc.com/arabic/world-57809195",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn6VZYq0g_gX71bYpQYPwoBOOzwFrBqG6eQPczneipZA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=2KlsSsw7Fy5u9M%252C0lL3WSmc65vmDM%252C_%253BsugO9sxeEPBhsM%252ChlDYjoUooth4LM%252C_%253BUjn_8CcLCW-CrM%252Cs76Te3lMHo1GBM%252C_%253BPLQR2fQxp1R_CM%252CCsTkLR8QGiHq2M%252C_%253BfbrPjsaWa_8eXM%252CcnarGTusNLHXcM%252C_%253BQLCOm42mYKkiJM%252Cfvi61pm8RwcblM%252C_%253BylsqONZStjeBBM%252Cd-uy4HAExRJxHM%252C_%253BKsQPFAalCmgoHM%252CS4cu3ZXbLS3crM%252C_%253BMh8P4U7Be4YJuM%252CDjS2yanJNgImNM%252C_%253BaMw9rOHQ4Y1UPM%252C1swn2thr77bHyM%252C_&usg=AI4_-kTFeeNXWkSq8dDFHW-GvvJz0L358Q&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ9QF6BAg_EAE#imgrc=Mh8P4U7Be4YJuM",
+            "source": "https://www.masrawy.com/news/news_publicaffairs/details/2020/9/19/1876515/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-770-%D8%A3%D9%84%D9%81-%D8%B4%D8%AE%D8%B5-%D8%AA%D8%B6%D8%B1%D8%B1%D9%88%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D8%AA%D8%A3%D8%AB%D8%B1-%D8%A7-",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOnAuEhURKlMSxBopmTcSkAMJ3FMSgEV9WYdJlW9C-w&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=2KlsSsw7Fy5u9M%252C0lL3WSmc65vmDM%252C_%253BsugO9sxeEPBhsM%252ChlDYjoUooth4LM%252C_%253BUjn_8CcLCW-CrM%252Cs76Te3lMHo1GBM%252C_%253BPLQR2fQxp1R_CM%252CCsTkLR8QGiHq2M%252C_%253BfbrPjsaWa_8eXM%252CcnarGTusNLHXcM%252C_%253BQLCOm42mYKkiJM%252Cfvi61pm8RwcblM%252C_%253BylsqONZStjeBBM%252Cd-uy4HAExRJxHM%252C_%253BKsQPFAalCmgoHM%252CS4cu3ZXbLS3crM%252C_%253BMh8P4U7Be4YJuM%252CDjS2yanJNgImNM%252C_%253BaMw9rOHQ4Y1UPM%252C1swn2thr77bHyM%252C_&usg=AI4_-kTFeeNXWkSq8dDFHW-GvvJz0L358Q&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ9QF6BAg9EAE#imgrc=aMw9rOHQ4Y1UPM",
+            "source": "https://www.dw.com/ar/%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/a-58284626",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaDz_wcseJmyX94DqE1zWYxfAdGgwTIXrMSlfPAWspg&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "شاهد: فيضانات في عُمان حيث ضرب إعصار شاهين البلاد",
+            "link": "https://www.youtube.com/watch?v=maONvqUSpoY",
+            "thumbnail": "https://serpapi.com/searches/627cff85ca968f48efc649b9/images/342313d366e87d4fa774b6a5f48ed7327cd5c54fea10495d3107728cc9767c32.jpeg",
+            "channel": "euronews (عــربي)",
+            "duration": "1:00",
+            "platform": "YouTube",
+            "date": "04‏/10‏/2021"
+        },
+        {
+            "position": 2,
+            "title": "فيضانات مصحوبة بعقارب وثعابين في السودان",
+            "link": "https://www.youtube.com/watch?v=ml0PnuVCYm0",
+            "thumbnail": "https://serpapi.com/searches/627cff85ca968f48efc649b9/images/342313d366e87d4f3c236b1d3b0ff278ff3255876565a958542224538c7b90ea.jpeg",
+            "channel": "AlArabiya العربية",
+            "duration": "2:02",
+            "platform": "YouTube",
+            "date": "01‏/09‏/2020"
+        },
+        {
+            "position": 3,
+            "title": "التغير المناخي.. سيول وفيضانات مدمرة من أوروبا إلى آسيا",
+            "link": "https://www.youtube.com/watch?v=Vx3f2HyUDxM",
+            "thumbnail": "https://serpapi.com/searches/627cff85ca968f48efc649b9/images/342313d366e87d4f234881ad767f53d9d082fa19dce9d6ee0dd81b85236d1364.jpeg",
+            "channel": "سكاي نيوز عربية",
+            "duration": "2:34",
+            "platform": "YouTube",
+            "date": "25‏/07‏/2021"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ما اسم الفيضان؟",
+            "snippet": "كلمة «الفيضان» يأتي من الإنجليزية القديمة flood، كلمة مشتركة بين اللغات الجرمانية (قارن Flut الألمانية، والهولندية vloed لها نفس الاصل كما هو في تدفق تعويم). مصطلح «الفيضان» المحدد بحروف كبيرة، وعادة ما يشير إلى الطوفان العظيم العالمي الذي وصف في الكتاب المقدس، سفر التكوين، القرآن الكريم والذي يعامل مثل الطوفان.",
+            "title": "فيضان - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B6%D8%A7%D9%86",
+            "displayed_link": "https://ar.wikipedia.org › wiki › فيضان"
+        },
+        {
+            "question": "متى يحدث الفيضان؟",
+            "snippet": "ويحدث الفيضان عادة عندما لا تستطيع التربة امتصاص كل المياه التي تمر عبرها، عندها تمر المياه بكميات كبيرة تعجز عن حملها الأنهار والجداول والقنوات المائية فتفيض عن جوانبها. وهناك فيضانات موسمية تحدث بصورة طبيعية للكثير من الأنهار نتيجة سقوط الأمطار الغزيرة مع ذوبان الثلوج مما يزيد من منسوب المياه في الأنهار.06‏/11‏/2008",
+            "title": "الفيضانات مياه لا تعرف الرحمة | صحيفة الخليج",
+            "link": "https://www.alkhaleej.ae/%D9%85%D9%84%D8%AD%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D9%8A%D8%A7%D9%87-%D9%84%D8%A7-%D8%AA%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D8%A9",
+            "displayed_link": "https://www.alkhaleej.ae › ملحق › الفيضانات-مياه-لا-تعر..."
+        },
+        {
+            "question": "ماذا ينتج عن الفيضانات في أسيا؟",
+            "snippet": "الاجابة الصحيحة : انتشار الامراض التي تنتقل من خلال المياه نقص في المحاصيل الغذائية جرف التربة17‏/03‏/2022",
+            "title": "ماذا ينتج عن الفيضانات في آسيا - ايجاز نت",
+            "link": "https://2jaz.net/191491/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%86%D8%AA%D8%AC-%D8%B9%D9%86-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A2%D8%B3%D9%8A%D8%A7",
+            "displayed_link": "https://2jaz.net › ماذا-ينتج-عن-الفيضانات-في-آسيا"
+        },
+        {
+            "question": "ماذا يسبب الفيضان؟",
+            "snippet": "· خسائر في الأرواح. · الانهيارات. · إتلاف الثروة الفلاحية والحيوانية. · انجراف التربة التربة.",
+            "title": "الفيضانات وكيفية التوقي منها - الديوان الوطني للحماية المدنية",
+            "link": "http://onpc.nat.tn/index.php/ar/22-recherche/51-innondations",
+            "displayed_link": "http://onpc.nat.tn › 22-recherche › 51-innondations"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "فيضان - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B6%D8%A7%D9%86",
+            "displayed_link": "https://ar.wikipedia.org › wiki › فيضان",
+            "snippet": "الفيضان هو تراكم أو تجمع قدر كبير من المياه التي تغمر الأرض. وبمعنى «المياه المتدفقة»، يمكن أيضا أن تنطبق على تدفق من المد والجزر. يأتي الفيضان غالباً بسبب ...",
+            "snippet_highlighted_words": [
+                "الفيضان",
+                "الفيضان"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "فيضان النيل",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B6%D8%A7%D9%86_%D8%A7%D9%84%D9%86%D9%8A%D9%84"
+                    },
+                    {
+                        "title": "السيطرة على الفيضانات",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA"
+                    },
+                    {
+                        "title": "فيضانات الصين 1931",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%B5%D9%8A%D9%86_1931"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "فيضان - المعرفة",
+            "link": "https://www.marefa.org/%D9%81%D9%8A%D8%B6%D8%A7%D9%86/simplified",
+            "displayed_link": "https://www.marefa.org › فيضان › simplified",
+            "snippet": "الفيضان هو زيادة مفاجئة في مستوى مياه البحار أو البحيرات أو الأنهار وذلك كون ناتج عن هطول غزير للأمطار أو عقب الزلازل والنتيجة تكون خسائر كبيرة وفقد قرى ...",
+            "snippet_highlighted_words": [
+                "الفيضان"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "كيف تحدث الفيضانات - موضوع",
+            "link": "https://mawdoo3.com/%D9%83%D9%8A%D9%81_%D8%AA%D8%AD%D8%AF%D8%AB_%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
+            "displayed_link": "https://mawdoo3.com › تعليم › علوم",
+            "snippet": "يحدث الفيضان المفاجئ عادةً نتيجة للأمطار الغزيرة، كما قد يحدث في بعض الأحيان نتيجةَ حدوث خلل في مصدّات المياه أو في نظام الصرف الصحي، والفيضانات المفاجئة سريعة ...",
+            "snippet_highlighted_words": [
+                "الفيضان",
+                "والفيضانات"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "فيضانات - اليوم السابع",
+            "link": "https://www.youm7.com/Tags/index?id=289&tag=%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
+            "displayed_link": "https://www.youm7.com › Tags › tag=فيضانات",
+            "snippet": "فيضانات كولومبيا تغرق مولا تجاريا وانهيارات أرضية تصيب السكان بالفزع.. فيديو الأحد، 08 مايو 2022 10:25 ص. مصرع 20 شخصا جراء فيضانات وأمطار غزيرة فى ...",
+            "snippet_highlighted_words": [
+                "فيضانات",
+                "فيضانات"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "كيف تتضرر مصر من موسم الفيضان رغم وجود السد العالي؟ - ...",
+            "link": "https://www.skynewsarabia.com/middle-east/1463277-%D8%AA%D8%AA%D8%B6%D8%B1%D8%B1-%D9%85%D8%B5%D8%B1-%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86-%D8%B1%D8%BA%D9%85-%D9%88%D8%AC%D9%88%D8%AF-%D8%A7%D9%84%D8%B3%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A%D8%9F",
+            "displayed_link": "https://www.skynewsarabia.com › middle-east › 14632...",
+            "snippet": "مع بداية شهر أغسطس يبدأ وصول فيضان النيل إلى مصر قادمًا من إثيوبيا، وبسبب وجود السد العالي تمنع المياه من إغراق الأراضي المصرية كما كان يحدث ...",
+            "snippet_highlighted_words": [
+                "فيضان"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٣‏/٠٩‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "فيضانات | سكاي نيوز عربية",
+            "link": "https://www.skynewsarabia.com/tag?s=%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
+            "displayed_link": "https://www.skynewsarabia.com › tag › s=فيضانات",
+            "snippet": "فيضانات أربيل تتسبب بمقتل 11 أشخاص. l 17 ديسمبر 2021 · عاصفة شديدة استمرت أياما وذوبان جليد أديا إلى فيضان نهر. عالم. فيضانات في شمال إسبانيا تتسبب في مقتل ...",
+            "snippet_highlighted_words": [
+                "فيضانات",
+                "فيضان",
+                "فيضانات"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "فيضانات - آخر أخبار اليوم | الجزيرة نت",
+            "link": "https://www.aljazeera.net/trending/%D9%83%D9%88%D8%A7%D8%B1%D8%AB/%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA/",
+            "displayed_link": "https://www.aljazeera.net › trending › كوارث › فيضانات",
+            "snippet": "ارتفعت حصيلة ضحايا الفيضانات غير المسبوقة التي شهدتها جنوب أفريقيا إلى 341 قتيلا، في حين استمرت الجهود الحثيثة للبحث عن ناجين وإيصال المساعدات للمتضررين في ...",
+            "snippet_highlighted_words": [
+                "الفيضانات"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "فيضانات ديربان، ما أسبابها وهل نجمت عن تغير المناخ في ...",
+            "link": "https://www.bbc.com/arabic/world-61130718",
+            "displayed_link": "https://www.bbc.com › arabic › world-61130718",
+            "snippet": "مقاطعة كوازولو ناتال شرقي جنوب أفريقيا تشهد فيضانات شديدة أودت بحياة ما يقرب من 400 شخص وألحقت أضرارا جسيمة بالمنازل والممتلكات.",
+            "snippet_highlighted_words": [
+                "فيضانات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٦‏/٠٤‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "ما هو الفيضان",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=EG&q=%D9%85%D8%A7+%D9%87%D9%88+%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "أشهر الفيضانات في العالم",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=EG&q=%D8%A3%D8%B4%D9%87%D8%B1+%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA+%D9%81%D9%8A+%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "أضرار الفيضانات",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=EG&q=%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1+%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "من اضرار الفيضان",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=EG&q=%D9%85%D9%86+%D8%A7%D8%B6%D8%B1%D8%A7%D8%B1+%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "أنواع الفيضانات",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=EG&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "فوائد الفيضانات",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=EG&q=%D9%81%D9%88%D8%A7%D8%A6%D8%AF+%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "مناطق انتشار الفيضانات",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=EG&q=%D9%85%D9%86%D8%A7%D8%B7%D9%82+%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1+%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "الفيضانات PDF",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=EG&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA+PDF&sa=X&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ1QJ6BAghEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&ei=k_98YsGlFPrEqtsP_LKGsAM&start=10&sa=N&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&ei=k_98YsGlFPrEqtsP_LKGsAM&start=10&sa=N&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&ei=k_98YsGlFPrEqtsP_LKGsAM&start=20&sa=N&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&ei=k_98YsGlFPrEqtsP_LKGsAM&start=30&sa=N&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&ei=k_98YsGlFPrEqtsP_LKGsAM&start=40&sa=N&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&ei=k_98YsGlFPrEqtsP_LKGsAM&start=50&sa=N&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&ei=k_98YsGlFPrEqtsP_LKGsAM&start=60&sa=N&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&ei=k_98YsGlFPrEqtsP_LKGsAM&start=70&sa=N&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&ei=k_98YsGlFPrEqtsP_LKGsAM&start=80&sa=N&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&ucbcb=1&hl=ar&gl=EG&ei=k_98YsGlFPrEqtsP_LKGsAM&start=90&sa=N&ved=2ahUKEwiBu5eW_dn3AhV6omoFHXyZATYQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=20&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=30&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=40&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=50&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=60&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=70&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=80&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86&start=90&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D"
+        }
+    }
+}

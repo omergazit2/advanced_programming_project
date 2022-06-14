@@ -1,0 +1,289 @@
+{
+    "search_metadata": {
+        "id": "627cffce1baebbc3a676726c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a50c9d3b33c54626/627cffce1baebbc3a676726c.json",
+        "created_at": "2022-05-12 12:38:38 UTC",
+        "processed_at": "2022-05-12 12:38:38 UTC",
+        "google_url": "https://www.google.com/search?q=Infecci%C3%B3n&oq=Infecci%C3%B3n&uule=w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=&hl=es&gl=ES&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/a50c9d3b33c54626/627cffce1baebbc3a676726c.html",
+        "total_time_taken": 5.24
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Infección",
+        "uule": "w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "ES",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Infección",
+        "total_results": 1650000000,
+        "time_taken_displayed": 0.59
+    },
+    "top_stories": [
+        {
+            "title": "Descubren una forma de bloquear la infección por COVID-19",
+            "link": "https://www.lasexta.com/tecnologia-tecnoxplora/ciencia/descubren-forma-bloquear-infeccion-covid19_20220511627b9ba52632cd00018b5057.html",
+            "source": "laSexta",
+            "date": "Hace 1 día",
+            "thumbnail": "https://serpapi.com/searches/627cffce1baebbc3a676726c/images/860ea7b5f87fa6d91f3442e429f42c9171f72095442d7a5e.jpeg"
+        },
+        {
+            "title": "Descubren la fórmula que bloquea la infección por covid",
+            "link": "https://www.levante-emv.com/salud/2022/05/10/descubren-formula-bloquea-infeccion-covid-65937267.html",
+            "source": "Levante-EMV",
+            "date": "Hace 1 día",
+            "thumbnail": "https://serpapi.com/searches/627cffce1baebbc3a676726c/images/860ea7b5f87fa6d9461679c41f0237d2994dba13f7156995.jpeg"
+        },
+        {
+            "title": "¿Puedo consumir alcohol si estoy tomando antibióticos? 5 mitos y verdades sobre estos medicamentos",
+            "link": "https://www.lavanguardia.com/vivo/lifestyle/20220511/8260176/consumir-alcohol-tomando-antibioticos-mitos-verdades-nbs.html",
+            "source": "La Vanguardia",
+            "date": "Hace 18 horas",
+            "thumbnail": "https://serpapi.com/searches/627cffce1baebbc3a676726c/images/860ea7b5f87fa6d9b97d7962673ac9c72e87a0b238eb34dd.jpeg"
+        },
+        {
+            "title": "Alerta sanitaria: retirada total de estos populares cosméticos por la infección de una bacteria",
+            "link": "https://www.elespanol.com/ciencia/salud/20220509/alerta-sanitaria-retirada-populares-cosmeticos-infeccion-bacteria/671182942_0.html",
+            "source": "El Español",
+            "date": "Hace 3 días",
+            "thumbnail": "https://serpapi.com/searches/627cffce1baebbc3a676726c/images/860ea7b5f87fa6d9c12bd624a2dd0fffefebbbf06d92e01d.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=es&gl=ES&q=Infecci%C3%B3n&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQt8YBegQIHBAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&tbm=nws&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+    "related_questions": [
+        {
+            "question": "¿Que entiende por infección?",
+            "snippet": "Invasión y multiplicación de gérmenes en el cuerpo. Los gérmenes pueden ser bacterias, virus, hongos u otros microorganismos. Las infecciones empiezan en cualquier parte del cuerpo y a veces se diseminan por todo el cuerpo.",
+            "title": "Definición de infección - Diccionario de cáncer del NCI",
+            "link": "https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/infeccion",
+            "displayed_link": "https://www.cancer.gov › diccionarios › def › infeccion"
+        },
+        {
+            "question": "¿Cómo puedo saber si tengo infección?",
+            "title": "Conozca los signos y síntomas de una infección",
+            "link": "https://www.cdc.gov/spanish/cancer/preventinfections/symptoms.htm",
+            "list": [
+                "Fiebre (algunas veces es el único signo de infección).",
+                "Escalofríos y sudores.",
+                "Cambio en la tos o una nueva tos.",
+                "Dolor de garganta o úlceras en la boca nuevas.",
+                "Dificultad para respirar.",
+                "Congestión nasal.",
+                "Rigidez del cuello.",
+                "Ardor o dolor al orinar."
+            ],
+            "displayed_link": "https://www.cdc.gov › preventinfections › symptoms"
+        },
+        {
+            "question": "¿Qué es la infección según la OMS?",
+            "snippet": "Infección: Entrada, desarrollo y multiplicación de un agente infeccioso en el cuerpo de una persona o animal.",
+            "title": "OPS/OMS | ANEXO I: Glosario - PAHO/WHO",
+            "link": "https://www3.paho.org/hq/index.php?option=com_content&view=article&id=10810:2015-anexo-i-glosario&Itemid=41421&lang=es",
+            "displayed_link": "https://www3.paho.org › ..."
+        },
+        {
+            "question": "¿Qué es un infectólogo?",
+            "snippet": "La Infectología es una subespecialidad de la Medicina Interna, que se dedica al estudio y tratamiento de las enfermedades causadas por agentes infecciosos como virus, bacterias, parásitos y hongos.",
+            "title": "Infectología - Clínica Santa María",
+            "link": "https://www.clinicasantamaria.cl/especialidades/especialidad/infectologia",
+            "displayed_link": "https://www.clinicasantamaria.cl › infectologia"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "La infección es la invasión de un anfitrión por un microorganismo patógeno, su multiplicación en los tejidos y la reacción del anfitrión a su presencia y a la de sus posibles toxinas. Las infecciones pueden deberse a bacterias, hongos, protozoos, virus, viroides y priones.",
+        "link": "https://es.wikipedia.org/wiki/Infecci%C3%B3n#:~:text=La%20infecci%C3%B3n%20es%20la%20invasi%C3%B3n,%2C%20virus%2C%20viroides%20y%20priones.",
+        "displayed_link": "https://es.wikipedia.org › wiki › Infección",
+        "snippet": "La infección es la invasión de un anfitrión por un microorganismo patógeno, su multiplicación en los tejidos y la reacción del anfitrión a su presencia y a la de sus posibles toxinas. Las infecciones pueden deberse a bacterias, hongos, protozoos, virus, viroides y priones.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Definición de infección - Diccionario de cáncer del NCI",
+            "link": "https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/infeccion",
+            "displayed_link": "https://www.cancer.gov › diccionarios › def › infeccion",
+            "snippet": "Invasión y multiplicación de gérmenes en el cuerpo. Los gérmenes pueden ser bacterias, virus, hongos u otros microorganismos. Las infecciones empiezan en ...",
+            "snippet_highlighted_words": [
+                "infecciones"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Infección | Cancer.Net",
+            "link": "https://www.cancer.net/es/asimilaci%C3%B3n-con-c%C3%A1ncer/efectos-f%C3%ADsicos-emocionales-y-sociales-del-c%C3%A1ncer/manejo-de-los-efectos-secundarios-f%C3%ADsicos/infecci%C3%B3n",
+            "displayed_link": "https://www.cancer.net › asimilación-con-cáncer › infec...",
+            "snippet": "Se produce una infección cuando el sistema inmunitario del cuerpo es incapaz de combatir las bacterias, los virus y demás patógenos.",
+            "snippet_highlighted_words": [
+                "infección"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "¿Qué son las infecciones? | Conoce los síntomas, prevención ...",
+            "link": "https://policlinicametropolitana.org/informacion-de-salud/infecciones-tipo-sintomas-prevencion/",
+            "displayed_link": "https://policlinicametropolitana.org › infecciones-tipo-si...",
+            "date": "4 mar 2020",
+            "snippet": "Las infecciones son un proceso en el que un microorganismo se aloja en el cuerpo de una persona y comienza a multiplicarse, causando ciertas ...",
+            "snippet_highlighted_words": [
+                "infecciones"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Infecciones bacterianas",
+                        "link": "https://policlinicametropolitana.org/informacion-de-salud/infecciones-tipo-sintomas-prevencion/#texto-ancla1"
+                    },
+                    {
+                        "title": "Infecciones virales",
+                        "link": "https://policlinicametropolitana.org/informacion-de-salud/infecciones-tipo-sintomas-prevencion/#texto-ancla2"
+                    },
+                    {
+                        "title": "Infecciones parasitarias",
+                        "link": "https://policlinicametropolitana.org/informacion-de-salud/infecciones-tipo-sintomas-prevencion/#texto-ancla4"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "Causas de infecciones (gérmenes) - American Cancer Society",
+            "link": "https://www.cancer.org/es/tratamiento/tratamientos-y-efectos-secundarios/efectos-secundarios-fisicos/recuentos-sanguineos-bajos/infecciones/riesgo-de-infecciones.html",
+            "displayed_link": "https://www.cancer.org › recuentos-sanguineos-bajos",
+            "snippet": "Las infecciones son una de las complicaciones más comunes del cáncer y del tratamiento del cáncer. Esto se debe a que el cáncer y los tratamientos contra el ...",
+            "snippet_highlighted_words": [
+                "infecciones"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Cómo manejar y tratar las infecciones - American Cancer ...",
+                    "link": "https://www.cancer.org/es/tratamiento/tratamientos-y-efectos-secundarios/efectos-secundarios-fisicos/recuentos-sanguineos-bajos/infecciones/causas-germenes-y-tratamiento-de-infecciones-en-personas-con-cancer.html",
+                    "displayed_link": "https://www.cancer.org › tratamiento › infecciones › ca...",
+                    "snippet": "La gente con cáncer puede contraer muchos tipos de infecciones diversas. Descubra más sobre las causas y los tratamientos para estas infecciones.",
+                    "snippet_highlighted_words": [
+                        "infecciones",
+                        "infecciones"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Conozca los signos y síntomas de una infección - CDC",
+            "link": "https://www.cdc.gov/spanish/cancer/preventinfections/symptoms.htm",
+            "displayed_link": "https://www.cdc.gov › preventinfections › symptoms",
+            "snippet": "Si está recibiendo quimioterapia, su cuerpo no sería capaz de combatir las infecciones como lo hacía antes del tratamiento. Cuando su número de glóbulos ...",
+            "snippet_highlighted_words": [
+                "infecciones"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Desarrollo de la infección - MSD Manuals",
+            "link": "https://www.msdmanuals.com/es-es/hogar/infecciones/biolog%C3%ADa-de-las-enfermedades-infecciosas/desarrollo-de-la-infecci%C3%B3n",
+            "displayed_link": "https://www.msdmanuals.com › hogar › infecciones › d...",
+            "snippet": "Desarrollo de la infección · Los gérmenes siguen multiplicándose y desbordan las defensas del organismo. · Se alcanza un estado de equilibrio, que provoca una ...",
+            "snippet_highlighted_words": [
+                "infección"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Infección - Chemocare",
+            "link": "https://chemocare.com/es/chemotherapy/side-effects/infeccioacuten.aspx",
+            "displayed_link": "https://chemocare.com › side-effects › infeccioacuten",
+            "snippet": "Una infección se define como el proceso por el cual ingresan gérmenes a una parte susceptible del cuerpo y se multiplican, provocando una enfermedad.",
+            "snippet_highlighted_words": [
+                "infección"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "anc_menor_que_riesgo_de_infección_extr": 100,
+                        "anc_mayor_que_no_hay_aumento_del_rie": 1500,
+                        "anc_riesgo_de_infección_elevado": 100,
+                        "anc_leve_aumento_del_riesgo_de_i": 1000
+                    },
+                    "extensions": [
+                        "ANC menor que 100: Riesgo de infección extr...",
+                        "ANC mayor que 1500: No hay aumento del rie...",
+                        "ANC 100-500: Riesgo de infección elevado",
+                        "ANC 1000-1500: Leve aumento del riesgo de i..."
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "infección síntomas",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Infecci%C3%B3n+s%C3%ADntomas&sa=X&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ1QJ6BAhKEAE"
+        },
+        {
+            "query": "5 signos de infección",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=5+signos+de+infecci%C3%B3n&sa=X&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ1QJ6BAhGEAE"
+        },
+        {
+            "query": "una infección se puede curar sola",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Una+infecci%C3%B3n+se+puede+curar+sola&sa=X&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ1QJ6BAhHEAE"
+        },
+        {
+            "query": "tipos de infección",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Tipos+de+infecci%C3%B3n&sa=X&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ1QJ6BAhIEAE"
+        },
+        {
+            "query": "infección urinaria",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Infecci%C3%B3n+urinaria&sa=X&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ1QJ6BAg-EAE"
+        },
+        {
+            "query": "síntomas de infección en el cuerpo",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=S%C3%ADntomas+de+infecci%C3%B3n+en+el+cuerpo&sa=X&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "infección en la sangre",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Infecci%C3%B3n+en+la+sangre&sa=X&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "infección activa",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Infecci%C3%B3n+activa&sa=X&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ1QJ6BAgzEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Infecci%C3%B3n&hl=es&gl=ES&ei=0v98YtaqMtmsytMPnOa5wAc&start=10&sa=N&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ8NMDegQIARBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Infecci%C3%B3n&hl=es&gl=ES&ei=0v98YtaqMtmsytMPnOa5wAc&start=10&sa=N&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ8tMDegQIARA_",
+            "3": "https://www.google.com/search?q=Infecci%C3%B3n&hl=es&gl=ES&ei=0v98YtaqMtmsytMPnOa5wAc&start=20&sa=N&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ8tMDegQIARBB",
+            "4": "https://www.google.com/search?q=Infecci%C3%B3n&hl=es&gl=ES&ei=0v98YtaqMtmsytMPnOa5wAc&start=30&sa=N&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ8tMDegQIARBD",
+            "5": "https://www.google.com/search?q=Infecci%C3%B3n&hl=es&gl=ES&ei=0v98YtaqMtmsytMPnOa5wAc&start=40&sa=N&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ8tMDegQIARBF",
+            "6": "https://www.google.com/search?q=Infecci%C3%B3n&hl=es&gl=ES&ei=0v98YtaqMtmsytMPnOa5wAc&start=50&sa=N&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ8tMDegQIARBH",
+            "7": "https://www.google.com/search?q=Infecci%C3%B3n&hl=es&gl=ES&ei=0v98YtaqMtmsytMPnOa5wAc&start=60&sa=N&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ8tMDegQIARBJ",
+            "8": "https://www.google.com/search?q=Infecci%C3%B3n&hl=es&gl=ES&ei=0v98YtaqMtmsytMPnOa5wAc&start=70&sa=N&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ8tMDegQIARBL",
+            "9": "https://www.google.com/search?q=Infecci%C3%B3n&hl=es&gl=ES&ei=0v98YtaqMtmsytMPnOa5wAc&start=80&sa=N&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ8tMDegQIARBN",
+            "10": "https://www.google.com/search?q=Infecci%C3%B3n&hl=es&gl=ES&ei=0v98YtaqMtmsytMPnOa5wAc&start=90&sa=N&ved=2ahUKEwjW27q0_dn3AhVZlnIEHRxzDngQ8tMDegQIARBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=20&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=30&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=40&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=50&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=60&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=70&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=80&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Infecci%C3%B3n&start=90&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D"
+        }
+    }
+}

@@ -1,0 +1,307 @@
+{
+    "search_metadata": {
+        "id": "627cff7517f923b623f757e6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/80f0cfd658f9daad/627cff7517f923b623f757e6.json",
+        "created_at": "2022-05-12 12:37:09 UTC",
+        "processed_at": "2022-05-12 12:37:09 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&oq=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&uule=w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=&hl=ar&gl=EG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/80f0cfd658f9daad/627cff7517f923b623f757e6.html",
+        "total_time_taken": 0.63
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "طاقة متجددة",
+        "uule": "w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "EG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "طاقة متجددة",
+        "total_results": 777000,
+        "time_taken_displayed": 0.48
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "الطاقة المتجددة",
+            "link": "https://www.youtube.com/watch?v=K0VKE7FLuV4",
+            "thumbnail": "https://serpapi.com/searches/627cff7517f923b623f757e6/images/9bf1426f5e279ee11c4566ca18d462534c7083887c3896e456512ac7a8fa1723.jpeg",
+            "channel": "MBC1",
+            "duration": "22:04",
+            "platform": "YouTube",
+            "date": "16‏/04‏/2021"
+        },
+        {
+            "position": 2,
+            "title": "ارتفاع معدلات إنتاج الطاقة المتجددة في المغرب",
+            "link": "https://www.youtube.com/watch?v=ZuPpQcOTc08",
+            "thumbnail": "https://serpapi.com/searches/627cff7517f923b623f757e6/images/9bf1426f5e279ee114cccb51a2a02482d7caaa424fb6beb63d4d5a89f18702ee.jpeg",
+            "channel": "Alghad TV - قناة الغد",
+            "duration": "2:34",
+            "platform": "YouTube",
+            "date": "04‏/03‏/2021"
+        },
+        {
+            "position": 3,
+            "title": "معلومات عن الطاقة المتجددة",
+            "link": "https://www.youtube.com/watch?v=YRc5eEOC3Hs",
+            "thumbnail": "https://serpapi.com/searches/627cff7517f923b623f757e6/images/9bf1426f5e279ee1f91e7f3ef02d83a0e03a60136b1e6289bf2ac9cbfdcb7048.jpeg",
+            "channel": "MF express",
+            "duration": "3:55",
+            "platform": "YouTube",
+            "date": "16‏/10‏/2019"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ما هي الطاقة المتجددة؟",
+            "snippet": "ان مصطلح الطاقه المتجددة (Renewable Energy) يعبر عن الطّاقة الناتجه من عمليّات طبيعيّة، دون تدخل الانسان، وتتجدد بصوره دائمه.",
+            "title": "ما هي الطاقة المتجددة",
+            "link": "http://reee.memr.gov.jo/Pages/viewpage?pageID=1022",
+            "displayed_link": "http://reee.memr.gov.jo › Pages › viewpage"
+        },
+        {
+            "question": "ما اهم ما يميز الطاقة المتجددة؟",
+            "snippet": "الطاقة المتجددة مصدر موثوق للطاقة من أهم ما يميز الطاقة المتجددة هو إمكانية الوثوق بها؛ أي أن الاعتماد على هذه المصادر لا يؤدي إلى استنزافها وهذا ينجم عن كونها لا تنضب، فالاستفادة من الشمس تستمر طالما الشمس موجودة وكذلك الرياح وغيرها من المصادر.13‏/02‏/2021",
+            "title": "مميزات الطاقة المتجددة - سطور",
+            "link": "https://sotor.com/%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9/",
+            "displayed_link": "https://sotor.com › مميزات-الطاقة-المتجددة"
+        },
+        {
+            "question": "هل الطاقة الشمسية طاقة متجددة؟",
+            "snippet": "الطاقة الشمسية طاقة نظيفة ومتجددة تزداد أهمية في سوق الطاقة إلى جانب الطاقات المتجددة الأخرى التي يعود مصدرها للرياح والكتل الحيوية. وقد شهدت مؤخرا انخفاضا في تكاليف الإنتاج بشكل يؤهلها لمنافسة النفط والغاز. يتم إنتاج الطاقة الشمسية باستخدام تقنية الفولتوضوئية التي تمتص حرارة الشمس وتحولها إلى طاقة كهربائية.17‏/04‏/2022",
+            "title": "الطاقة الشمسية | علوم وتكنولوجيا | DW | 17.04.2022 - DW",
+            "link": "https://www.dw.com/ar/%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9/t-18380226",
+            "displayed_link": "https://www.dw.com › الطاقة-الشمسية"
+        },
+        {
+            "question": "هل الطاقة الكهربائية طاقة متجددة؟",
+            "snippet": "توليد الطاقة الكهربائية من نظم مصادر الطاقة المتجددة المربوطة على نظام التوزيع أو على نظام النقل هو انتاج الطاقة الكهربائية منها.",
+            "title": "توليد الكهرباء من الطاقة المتجددة - هيئة تنظيم قطاع الطاقة و ...",
+            "link": "https://emrc.gov.jo/Pages/viewpage?pageID=32",
+            "displayed_link": "https://emrc.gov.jo › Pages › viewpage"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "طاقة متجددة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9_%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › طاقة_متجددة",
+            "snippet": "الطّاقة المتجددة هي الطّاقة المُستَمّدة من الموارد الطبيعية التي لا تنفذ وتتجدد باستمرار مثل الرياح والمياه والشمس المتوفرة في معظم دول العالم، كما يمكن ...",
+            "snippet_highlighted_words": [
+                "المتجددة"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "طاقة الرياح",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD"
+                    },
+                    {
+                        "title": "طاقة شمسية",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9_%D8%B4%D9%85%D8%B3%D9%8A%D8%A9"
+                    },
+                    {
+                        "title": "طاقة حيوية",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9_%D8%AD%D9%8A%D9%88%D9%8A%D8%A9"
+                    },
+                    {
+                        "title": "طاقة مدجزرية",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9_%D9%85%D8%AF%D8%AC%D8%B2%D8%B1%D9%8A%D8%A9"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "ما هي الطاقة المتجددة",
+            "link": "http://reee.memr.gov.jo/Pages/viewpage?pageID=1022",
+            "displayed_link": "http://reee.memr.gov.jo › Pages › viewpage",
+            "snippet": "ان مصطلح الطاقه المتجددة (Renewable Energy) يعبر عن الطّاقة الناتجه من عمليّات طبيعيّة، دون تدخل الانسان، وتتجدد بصوره دائمه. ويوجد في الطبيعه عدّة أنواع منها ...",
+            "snippet_highlighted_words": [
+                "الطاقه المتجددة",
+                "Renewable Energy"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "بحث حول الطاقة المتجددة - موضوع",
+            "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%AD%D9%88%D9%84_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9",
+            "displayed_link": "https://mawdoo3.com › علوم الأرض › ثروات طبيعية",
+            "snippet": "الطاقة المتجددة (Renewable Energies) هي نوع من أنواع الطاقة التي تُولّد من مصادر طبيعية، مما يعني أنها لا تنفد مع الاستهلاك الكبير ودائمة ...",
+            "snippet_highlighted_words": [
+                "الطاقة المتجددة",
+                "Renewable",
+                "الطاقة"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "بحث عن الطاقة المتجددة",
+                        "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%B9%D9%86_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9"
+                    },
+                    {
+                        "title": "ما هي الطاقة المتجددة",
+                        "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9"
+                    },
+                    {
+                        "title": "مفهوم الطاقة المتجددة",
+                        "link": "https://mawdoo3.com/%D9%85%D9%81%D9%87%D9%88%D9%85_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9"
+                    },
+                    {
+                        "title": "الرياح",
+                        "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%AD%D9%88%D9%84_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9_%D9%88%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٨‏/٠٨‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "كيف يمكن أن تصبح الطاقة المتجدِّدة متنافسة من حيث التكاليف",
+            "link": "https://www.un.org/ar/chronicle/article/20309",
+            "displayed_link": "https://www.un.org › chronicle › article",
+            "snippet": "والأهم من ذلك، فبالنسبة للكثير من دولنا الأعضاء والدول الموقِّعة وعددها 173 دولة، تمثِّل الطاقة المتجددة كذلك إحدى الطُرق الأسرع الكفيلة بتوسيع إتاحة الكهرباء ...",
+            "snippet_highlighted_words": [
+                "الطاقة المتجددة"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "هيئة الطاقة الجديدة والمتجددة: Home Page",
+            "link": "http://www.nrea.gov.eg/",
+            "displayed_link": "http://www.nrea.gov.eg",
+            "snippet": "... مصر خلال السنوات الماضية وتأثيرها على تنفيذ مشروعات الطاقة المتجددة بصفة ... نظام تعريفة التغذية الكهربائية لتشجيع إنتاج الكهرباء من المصادر المتجددة.",
+            "snippet_highlighted_words": [
+                "الطاقة المتجددة",
+                "المتجددة"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "أهداف الطاقة المتجددة",
+            "link": "http://www.nrea.gov.eg/About/Strategy",
+            "displayed_link": "http://www.nrea.gov.eg › About › Strategy",
+            "snippet": "وتتضمن هذه الدراسة مجموعة سيناريوهات لخليط الطاقة بفرضيات مختلفة لتقييم تأثير دخول الطاقات المتجددة بنسب مختلفة إلى مزيج توليد الكهرباء من المنظور الفني ...",
+            "snippet_highlighted_words": [
+                "الطاقة",
+                "الطاقات المتجددة"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "الطاقات المتجددة - وزارة أوروبا والشؤون الخارجي - France ...",
+            "link": "https://www.diplomatie.gouv.fr/ar/politique-etrangere-de-la-france/diplomatie-economique/soutenir-les-entreprises-francaises-dans-les-marches-exterieurs/soutien-aux-secteurs-strategique/article/famille-energies-renouvelables",
+            "displayed_link": "https://www.diplomatie.gouv.fr › article › famille-energies...",
+            "snippet": "إن الطاقات المتجددة هي الوسيلة الرئيسة لتحقيق الهدف الذي يتمثْل في خفض انبعاثات غازات الدفيئة والذي التزمت به البلدان الموقعة اتفاق باريس بشأن المناخ في كانون ...",
+            "snippet_highlighted_words": [
+                "الطاقات المتجددة"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "الطاقة المتجددة في مصر 2021.. إنجازات نحو كهرباء نظيفة ...",
+            "link": "https://attaqa.net/2022/01/27/%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-2021-%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D9%86%D8%AD%D9%88-%D9%83%D9%87/",
+            "displayed_link": "https://attaqa.net › 2022/01/27 › الطاقة-المتجددة-في-م...",
+            "snippet": "ونجحت مصر في رفع نسبة الطاقة المتجددة المستخدمة في توليد الكهرباء إلى 20% بنهاية عام 2021، مع سعيها نحو تحقيق هدف نسبة الـ42% بحلول عام 2030.",
+            "snippet_highlighted_words": [
+                "الطاقة المتجددة"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٧‏/٠١‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "إنّ الطاقة المتجددة تمنح شركة SC Johnson القدرة على استخدام ...",
+            "link": "https://www.scjohnson.com/ar-eg/our-purpose/environmental-responsibility-news/minimizing-our-footprint/renewable-energy-powers-sc-johnson-with-the-use-of-wind-solar-food-waste-and-trash",
+            "displayed_link": "https://www.scjohnson.com › minimizing-our-footprint",
+            "snippet": "في الوقت الحاضر، يأتي ثلث استخدامنا العالمي للطاقة من مصادر متجددة. SC Johnson Renewable Energy ...",
+            "snippet_highlighted_words": [
+                "للطاقة",
+                "متجددة",
+                "Renewable Energy"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "أنواع الطاقة المتجددة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&sa=X&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "الطاقة غير المتجددة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9+%D8%BA%D9%8A%D8%B1+%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&sa=X&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "مصادر الطاقة المتجددة والغير متجددة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%85%D8%B5%D8%A7%D8%AF%D8%B1+%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9+%D9%88%D8%A7%D9%84%D8%BA%D9%8A%D8%B1+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&sa=X&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "ما هي مصادر الطاقة المتجددة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%85%D8%A7+%D9%87%D9%8A+%D9%85%D8%B5%D8%A7%D8%AF%D8%B1+%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&sa=X&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "الطاقة المتجددة pdf",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9+pdf&sa=X&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "استخدامات الطاقة المتجددة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&sa=X&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "ما هي الطاقة المتجددة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%85%D8%A7+%D9%87%D9%8A+%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&sa=X&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "مفهوم الطاقة المتجددة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%85%D9%81%D9%87%D9%88%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&sa=X&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ1QJ6BAgpEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&hl=ar&gl=EG&ei=df98YpfHFvGGggfI15GYBg&start=10&sa=N&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&hl=ar&gl=EG&ei=df98YpfHFvGGggfI15GYBg&start=10&sa=N&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&hl=ar&gl=EG&ei=df98YpfHFvGGggfI15GYBg&start=20&sa=N&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&hl=ar&gl=EG&ei=df98YpfHFvGGggfI15GYBg&start=30&sa=N&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&hl=ar&gl=EG&ei=df98YpfHFvGGggfI15GYBg&start=40&sa=N&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&hl=ar&gl=EG&ei=df98YpfHFvGGggfI15GYBg&start=50&sa=N&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&hl=ar&gl=EG&ei=df98YpfHFvGGggfI15GYBg&start=60&sa=N&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&hl=ar&gl=EG&ei=df98YpfHFvGGggfI15GYBg&start=70&sa=N&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&hl=ar&gl=EG&ei=df98YpfHFvGGggfI15GYBg&start=80&sa=N&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&hl=ar&gl=EG&ei=df98YpfHFvGGggfI15GYBg&start=90&sa=N&ved=2ahUKEwjX1fKH_dn3AhVxg-AKHchrBGMQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=20&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=30&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=40&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=50&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=60&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=70&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=80&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&start=90&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D"
+        }
+    }
+}

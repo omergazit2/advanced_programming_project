@@ -1,0 +1,366 @@
+{
+    "search_metadata": {
+        "id": "629e3daf4b91eb070cecdb7f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d8b2f438f86ad49d/629e3daf4b91eb070cecdb7f.json",
+        "created_at": "2022-06-06 17:47:27 UTC",
+        "processed_at": "2022-06-06 17:47:27 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&oq=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d8b2f438f86ad49d/629e3daf4b91eb070cecdb7f.html",
+        "total_time_taken": 2.18
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Солнечная система",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Солнечная система",
+        "total_results": 6700000,
+        "time_taken_displayed": 0.52
+    },
+    "knowledge_graph": {
+        "title": "Солнечная система",
+        "type": "Звёздная система",
+        "header_images": [
+            {
+                "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"
+            },
+            {
+                "source": "https://externat.foxford.ru/polezno-znat/wiki-astronomiya-solnechnaya-sistema"
+            },
+            {
+                "source": "https://naked-science.ru/article/nakedscience/biografiya-solnechnoy-sistemy"
+            },
+            {
+                "source": "https://www.bbc.com/russian/science/2015/06/150601_vert_ear_how_weird_is_our_solar_system"
+            },
+            {
+                "source": "https://www.youtube.com/watch?v=JuGaG0IPZMM"
+            },
+            {
+                "source": "https://hi-news.ru/eto-interesno/vse-chto-nuzhno-znat-o-nashej-solnechnoj-sisteme.html"
+            }
+        ],
+        "description": "Со́лнечная систе́ма — планетная система, включающая в себя центральную звезду Солнце и все естественные космические объекты, вращающиеся вокруг Солнца. Она сформировалась путём гравитационного сжатия газопылевого облака примерно 4,57 млрд лет назад. Общая масса Солнечной системы составляет около 1,0014 M☉.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"
+        },
+        "Возраст": "4,571E9 лет",
+        "Возраст_links": [
+            {
+                "text": "Возраст",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82&stick=H4sIAAAAAAAAAOPgE-LQz9U3MCswTddSyk620k8sLinKz8vPrdRPTs1JLS7JTMyJz0_KSk0usUpMT13EanCx8cK-C7sv7L2w9WI7kNxwsV8BKLTjYuPFpgtbL-y5sEHhwiagiu0XG4ByQEEAs_O9KmMAAAA&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ6BMoAHoECGEQAg"
+            }
+        ],
+        "Похожие_запросы": [
+            {
+                "name": "Юпитер",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUuYBL3ve-oiNvkjJLIaVaPppI2zkYY3jAY5jVOmzKXcouTWp_7kZEr_qM7YWVyElkw5YJWSn2_iYCesyEXYYHdUHhFSltakOGfi2Qv-PsdAG6fFW8Zy0_LYJBampBUJ01qWJxthg4TOJaqFUWAHsorLIBXJgjxaw2xVzL5-8SnIawtNROTCitCZtINyW7sjdj_MAQIfet2hwyvXUZzGFfk2_126zCOZXp_U-OOqNO6orIqjRdsPxvkYhZzB6VbymQVlGZQ%3D&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQxA16BAhmEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUuYBL3ve-oiNvkjJLIaVaPppI2zkYY3jAY5jVOmzKXcouTWp_7kZEr_qM7YWVyElkw5YJWSn2_iYCesyEXYYHdUHhFSltakOGfi2Qv-PsdAG6fFW8Zy0_LYJBampBUJ01qWJxthg4TOJaqFUWAHsorLIBXJgjxaw2xVzL5-8SnIawtNROTCitCZtINyW7sjdj_MAQIfet2hwyvXUZzGFfk2_126zCOZXp_U-OOqNO6orIqjRdsPxvkYhZzB6VbymQVlGZQ%3D",
+                "image": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/74ec2fa406c66633516d132d70dd145c617acd8aec690ad7d3b7ac5c5b4e0a8b5774fc77813368fd19f856cb986cd147ace7aec9404dfde6.jpeg"
+            },
+            {
+                "name": "Солнце",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddUG17notdOU8hJ534jPNwySjOnYDykYgaaLGZYDmv37Tb10UZtLplKoTgsXi601f_2qpxlS9mv5QaFB1h-3y_rlFFasRBEaeTCOYIJAlQDJQ3uw9r7YebekM537l9OVIW5g0v44fZ_0G5edS9xZjpGhvaEYnTP232D7JJleHugpwNDGnC2N5gjMnRYxszEjOg_H0pICgIJZeqKMHe2dkU1HV_44ukhCrcZ8ECI_UGh-33ErDApiBpQK5knnVmt3Zuwby4A%3D&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQxA16BAhmEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddUG17notdOU8hJ534jPNwySjOnYDykYgaaLGZYDmv37Tb10UZtLplKoTgsXi601f_2qpxlS9mv5QaFB1h-3y_rlFFasRBEaeTCOYIJAlQDJQ3uw9r7YebekM537l9OVIW5g0v44fZ_0G5edS9xZjpGhvaEYnTP232D7JJleHugpwNDGnC2N5gjMnRYxszEjOg_H0pICgIJZeqKMHe2dkU1HV_44ukhCrcZ8ECI_UGh-33ErDApiBpQK5knnVmt3Zuwby4A%3D",
+                "image": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/74ec2fa406c66633516d132d70dd145c617acd8aec690ad7d3b7ac5c5b4e0a8b5774fc77813368fd61fad9c2b78d274e2b9f33c29e47ce49.jpeg"
+            },
+            {
+                "name": "Меркурий",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddKy9thhgSOcAZgRAsoPzKwEoXwo3KzXN-hm1WE1EhqvtFgh61zyEecU-50dVHRDbOzyn2bRdQybH_yDwWtMY75094WfNpK2BrxJyJpeC9uL9K1fijwCDJjAuu_JrIUh4inmGMDe03sHvmovxd9i-9qSMh1xc0K0kmwMYqnwoGDSZohZQGi-SX5O1-FU9Et6ser7rF03MVcMTLI6cw-iNDLkmAhdkfnYdng9Qj0bdGH9SfRzJkU_4FZLVLKVEoIzTQAASc4%3D&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQxA16BAhmEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddKy9thhgSOcAZgRAsoPzKwEoXwo3KzXN-hm1WE1EhqvtFgh61zyEecU-50dVHRDbOzyn2bRdQybH_yDwWtMY75094WfNpK2BrxJyJpeC9uL9K1fijwCDJjAuu_JrIUh4inmGMDe03sHvmovxd9i-9qSMh1xc0K0kmwMYqnwoGDSZohZQGi-SX5O1-FU9Et6ser7rF03MVcMTLI6cw-iNDLkmAhdkfnYdng9Qj0bdGH9SfRzJkU_4FZLVLKVEoIzTQAASc4%3D",
+                "image": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/74ec2fa406c66633516d132d70dd145c617acd8aec690ad7d3b7ac5c5b4e0a8b5774fc77813368fde56f43aeeb88666419fdfdce0532aa04.jpeg"
+            },
+            {
+                "name": "Плутон",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9F%D0%BB%D1%83%D1%82%D0%BE%D0%BD&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRmO4oyG0upB0QOC1q-YZuRq_fKX1FRBffPW-RxW86NwhQiTy_24f5movIBNCL_AuaFjhmOg4jaOOBxuTsC0KPxBE1sc9CTmAwaXGslXXszNuid7mtBoax9jTi7T3SAuBCu7OAOvw20gJgb_Db6nJP-StS2H2OUZL1CLaG-0EeFZcFBXtaqn93Y5DipLzzH_cyJQ3tiPoAKo1WOEMdSf0yiMbYf8StaY3NAyq2AQLkDYkITMhR9EWXmvDf91-kCK28C0BeQ%3D&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQxA16BAhmEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%BB%D1%83%D1%82%D0%BE%D0%BD&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRmO4oyG0upB0QOC1q-YZuRq_fKX1FRBffPW-RxW86NwhQiTy_24f5movIBNCL_AuaFjhmOg4jaOOBxuTsC0KPxBE1sc9CTmAwaXGslXXszNuid7mtBoax9jTi7T3SAuBCu7OAOvw20gJgb_Db6nJP-StS2H2OUZL1CLaG-0EeFZcFBXtaqn93Y5DipLzzH_cyJQ3tiPoAKo1WOEMdSf0yiMbYf8StaY3NAyq2AQLkDYkITMhR9EWXmvDf91-kCK28C0BeQ%3D",
+                "image": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/74ec2fa406c66633516d132d70dd145c617acd8aec690ad7d3b7ac5c5b4e0a8b5774fc77813368fd5fa5c84be10429eac626f9c9aa3d539c.jpeg"
+            }
+        ],
+        "Похожие_запросы_link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7QEgzNTUssTK4v9UitKgktSC4oXsSpeWHhh34XdF_Ze2HqxHUhuuNivcLHxwo6LjRebLmy9sOfChh2sjADWLAMYUAAAAA&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQMSgAegQIZhAB",
+        "Похожие_запросы_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7QEgzNTUssTK4v9UitKgktSC4oXsSpeWHhh34XdF_Ze2HqxHUhuuNivcLHxwo6LjRebLmy9sOfChh2sjADWLAMYUAAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "ПУТЕШЕСТВИЕ ПО СОЛНЕЧНОЙ СИСТЕМЕ",
+            "link": "https://www.youtube.com/watch?v=RcBGYODF5Ks",
+            "thumbnail": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/6c8562e89fa2caa11615e2b64ae3cb36d62124d3449f261d99e56055373823df.jpeg",
+            "channel": "KOSMO",
+            "duration": "1:33:30",
+            "platform": "YouTube",
+            "date": "5 сент. 2020 г."
+        },
+        {
+            "position": 2,
+            "title": "Астрономия для детей. Планеты солнечной системы",
+            "link": "https://www.youtube.com/watch?v=kTzQ2q9SwlQ",
+            "thumbnail": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/6c8562e89fa2caa1055ab5512f96b4b0b072b9e77eab9c559b8ebab64e6b03e8.jpeg",
+            "channel": "Умные Пластилинки",
+            "duration": "5:50",
+            "platform": "YouTube",
+            "date": "21 февр. 2019 г."
+        },
+        {
+            "position": 3,
+            "title": "Солнечная система (рассказывает астроном Анна Гинтере)",
+            "link": "https://www.youtube.com/watch?v=JuGaG0IPZMM",
+            "thumbnail": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/6c8562e89fa2caa19015541ce3bb1f65bd4ce5a85aaf243bfd76776f2f7bc086.jpeg",
+            "channel": "Sinus",
+            "duration": "29:06",
+            "platform": "YouTube",
+            "date": "16 апр. 2020 г."
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Найдено самое холодное место в Солнечной системе",
+            "link": "https://tengrinews.kz/science/naydeno-samoe-holodnoe-mesto-v-solnechnoy-sisteme-470334/",
+            "source": "Tengrinews",
+            "date": "5 часов назад",
+            "thumbnail": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/af94aaadb494622b018a5748f56308e083fef7310368f957.jpeg"
+        },
+        {
+            "title": "Астрономы назвали самое холодное место в Солнечной системе",
+            "link": "https://focus.ua/technologies/517964-astronomy-nazvali-samoe-holodnoe-mesto-v-solnechnoy-sisteme",
+            "source": "Фокус",
+            "date": "1 день назад",
+            "thumbnail": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/af94aaadb494622bccdb2352f21ab0b27b7b02488d358c72.jpeg"
+        },
+        {
+            "title": "По древним астероидам ученые узнали, что в ранней Солнечной системе царил хаос",
+            "link": "https://hightech.fm/2022/06/06/solar-system-total-mayhem",
+            "source": "Хайтек",
+            "date": "10 часов назад",
+            "thumbnail": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/af94aaadb494622be76e0fd8ecce48ec3a0f83e83c0b718a.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQt8YBegQIMhAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&tbm=nws",
+    "related_questions": [
+        {
+            "question": "Какая 8 планета от Солнца?",
+            "snippet": "Список планет Солнечной системы по порядку от Солнца выглядит так: Меркурий, Венера, Земля, Марс, Юпитер, Сатурн, Уран и Нептун. Перечисляя планеты от большей к меньшей, этот порядок меняется. Самой крупной планетой является Юпитер, затем идут Сатурн, Уран, Нептун, Земля, Венера, Марс и, наконец, Меркурий.2 окт. 2020 г.",
+            "title": "Планеты Солнечной системы и их расположение по порядку",
+            "link": "https://obrazovaka.ru/geografiya/planety-solnechnoy-sistemy-po-poryadku-ot-solnca.html",
+            "displayed_link": "https://obrazovaka.ru › geografiya › planety-solnechnoy-s..."
+        },
+        {
+            "question": "Куда входит Солнечная система?",
+            "snippet": "По определению MAC, есть 8 известных планет: Меркурий, Венера, Земля, Марс, Юпитер, Сатурн, Уран и Нептун. Все планеты делят на две категории в зависимости от их физических характеристик: земной группы и газовые гиганты.20 июл. 2013 г.",
+            "title": "Планеты Солнечной системы по порядку для детей - Spacegid.com",
+            "link": "https://spacegid.com/planetyi-nashey-s-vami-solnechnoy-sistemyi.html",
+            "displayed_link": "https://spacegid.com › planetyi-nashey-s-vami-solnechnoy..."
+        },
+        {
+            "question": "Сколько планет в Солнечной системе 2022?",
+            "snippet": "Согласно этому определению в Солнечной системе имеется восемь известных планет: Меркурий, Венера, Земля, Марс, Юпитер, Сатурн, Уран и Нептун.",
+            "title": "Солнечная система - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Солнечная_система"
+        },
+        {
+            "question": "Что такое солнечная система краткий ответ?",
+            "snippet": "Солнечная система: строение и характеристика Солнечная система — звёздная система в галактике Млечный Путь, включающая Солнце и естественные космические объекты, обращающиеся вокруг него: планеты, их спутники, карликовые планеты, астероиды, метеороиды, кометы и космическую пыль.",
+            "title": "Солнечная система: состав, строение, объекты, небесные ...",
+            "link": "https://externat.foxford.ru/polezno-znat/wiki-astronomiya-solnechnaya-sistema",
+            "displayed_link": "https://externat.foxford.ru › Блог"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Солнечная система - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Солнечная_система",
+            "thumbnail": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/e1236782d82f2986d7153f3145d33293b3480dc7c39506d2598a86babec4b0bb.jpeg",
+            "snippet": "Общая масса Солнечной системы составляет около 1,0014 M☉. Бо́льшая часть её приходится на Солнце; оставшаяся часть практически полностью содержится в восьми ...",
+            "snippet_highlighted_words": [
+                "Солнечной системы"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Планетная система",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"
+                    },
+                    {
+                        "title": "Меркурий",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9"
+                    },
+                    {
+                        "title": "Венера",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0"
+                    },
+                    {
+                        "title": "Юпитер",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Что такое Солнечная система и насколько она изучена",
+            "link": "https://trends.rbc.ru/trends/futurology/627507fe9a79477a2051ad67",
+            "displayed_link": "https://trends.rbc.ru › РБК Тренды › Футурология",
+            "thumbnail": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/e1236782d82f2986d7153f3145d33293035c0ccd98719555f74851b57096ccc8.jpeg",
+            "date": "13 мая 2022 г.",
+            "snippet": "А это очень интересно, в том числе с точки зрения истории формирования Солнечной системы. Нептун (Фото: NASA). Например, во многих современных ...",
+            "snippet_highlighted_words": [
+                "Солнечной системы"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Солнечная система — все статьи и новости - Indicator.Ru",
+            "link": "https://indicator.ru/label/solnechnaya-sistema",
+            "displayed_link": "https://indicator.ru › label › solnechnaya-sistema",
+            "thumbnail": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/e1236782d82f2986d7153f3145d3329384795e9c8125d082852bd3b4cee872c3.jpeg",
+            "snippet": "Солнечная система — пространство, включающее в себя Солнце и все естественные космические объекты, обращающиеся вокруг него. Возраст около 4,57 млрд лет.",
+            "snippet_highlighted_words": [
+                "Солнечная система"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Солнечная система: состав, строение, объекты, небесные ...",
+            "link": "https://externat.foxford.ru/polezno-znat/wiki-astronomiya-solnechnaya-sistema",
+            "displayed_link": "https://externat.foxford.ru › Блог",
+            "snippet": "Солнечная система — звёздная система в галактике Млечный Путь, включающая Солнце и естественные космические объекты, обращающиеся вокруг него: планеты, ...",
+            "snippet_highlighted_words": [
+                "Солнечная система"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Наша Солнечная система: неужели мы одни такие? - BBC",
+            "link": "https://www.bbc.com/russian/science/2015/06/150601_vert_ear_how_weird_is_our_solar_system",
+            "displayed_link": "https://www.bbc.com › russian › science › 2015/06 › 1...",
+            "thumbnail": "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/e1236782d82f2986d7153f3145d332937bc9ef324013b5e24921157fb46c8a52.jpeg",
+            "date": "1 июн. 2015 г.",
+            "snippet": "Как убеждаются ученые, наш родной дом в космосе, Солнечная система, довольно странный. Неужели настолько странный, что мы одни во Вселенной?",
+            "snippet_highlighted_words": [
+                "Солнечная система"
+            ],
+            "images": [
+                "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/e1236782d82f2986d7153f3145d332934de63e59749902b0b1c430e9f2497e8f.jpeg",
+                "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/e1236782d82f2986d7153f3145d332934de63e59749902b06b6abc9922078767.jpeg",
+                "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/e1236782d82f2986d7153f3145d332934de63e59749902b0c90f3c61467236a9.jpeg",
+                "https://serpapi.com/searches/629e3daf4b91eb070cecdb7f/images/e1236782d82f2986d7153f3145d332934de63e59749902b024f13f498684af3a.jpeg"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Солнечная система - TAdviser",
+            "link": "https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0",
+            "displayed_link": "https://www.tadviser.ru › index.php › Статья:Солнечна...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7fEiQk0xSHK9HgW97RAiLaz8Kz7rZ_7jGxiHibV963Pn9d72DT_vb&usqp=CAE&s",
+            "date": "14 июл. 2019 г.",
+            "snippet": "Статья Солнечная система, Солнце, Планеты, Оси наклона планет, Земля, Юпитер, Сатурн, Плутон, Луны, Астероиды, Центр тяжести, ...",
+            "snippet_highlighted_words": [
+                "Солнечная система"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Солнечная система",
+            "link": "http://www.iki.rssi.ru/hend/Dictionary/Solar%20System.htm",
+            "displayed_link": "http://www.iki.rssi.ru › hend › Dictionary",
+            "snippet": "Солнечная система. В нее входят не только Солнце и девять больших планет, но и малые планеты, кометы, метеороиды. Все они движутся вокруг Солнца по орбитам, ...",
+            "snippet_highlighted_words": [
+                "Солнечная система"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Солнечная система / Хабр",
+            "link": "https://habr.com/ru/post/571716/",
+            "displayed_link": "https://habr.com › post",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_c18BVYdrcxJ9U7WhVMnDhvczVw8xFNBuHHUH8LP-U7FDWSnxHpc8bD1R3i4L_qYwWhm&s",
+            "date": "7 авг. 2021 г.",
+            "snippet": "Находятся, правда, их уже не так много, желающие поселить в Солнечную систему все 12 зодиакальных созвездий и Большую Медведицу. Давайте сегодня ...",
+            "snippet_highlighted_words": [
+                "Солнечную систему"
+            ],
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_c18BVYdrcxJ9U7WhVMnDhvczVw8xFNBuHHUH8LP-U7FDWSnxHpc8bD1R3i4L_qYwWhm&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuo_emQJka4KgIqMqR6T_9OIIp21ASY6S-n-KKcMnLwhzhR2KcgMy8HTK-JyJigKm9IHjz&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkBbSbsLylwFedYmK0j4ziVVpkOO1aTeygM-fJiR8KHvlI8fAJBzip_jL1dD4RKT8w47Y&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQgI20ynN3NB0soFekIyXtNzLjfLRzRqc9lfwNV-3JZfl9dFR9agYwoBnQnvbhPoS27Jk&s"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "солнечная система планеты по порядку",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D1%8B+%D0%BF%D0%BE+%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D1%83&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "солнечная система 3d",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+3D&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "солнечная система планеты",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D1%8B&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "солнечная система для детей",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%B4%D0%BB%D1%8F+%D0%B4%D0%B5%D1%82%D0%B5%D0%B9&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "солнечная система 5 класс",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+5+%D0%BA%D0%BB%D0%B0%D1%81%D1%81&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "солнечная система рисунок",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "солнечная система информация",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "солнечная система во вселенной",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%B2%D0%BE+%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9&sa=X&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ1QJ6BAgsEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&gl=ru&hl=ru&ei=sD2eYrnrDPm1qtsPnN-7mAo&start=10&sa=N&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&gl=ru&hl=ru&ei=sD2eYrnrDPm1qtsPnN-7mAo&start=10&sa=N&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&gl=ru&hl=ru&ei=sD2eYrnrDPm1qtsPnN-7mAo&start=20&sa=N&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&gl=ru&hl=ru&ei=sD2eYrnrDPm1qtsPnN-7mAo&start=30&sa=N&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&gl=ru&hl=ru&ei=sD2eYrnrDPm1qtsPnN-7mAo&start=40&sa=N&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&gl=ru&hl=ru&ei=sD2eYrnrDPm1qtsPnN-7mAo&start=50&sa=N&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&gl=ru&hl=ru&ei=sD2eYrnrDPm1qtsPnN-7mAo&start=60&sa=N&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&gl=ru&hl=ru&ei=sD2eYrnrDPm1qtsPnN-7mAo&start=70&sa=N&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&gl=ru&hl=ru&ei=sD2eYrnrDPm1qtsPnN-7mAo&start=80&sa=N&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&gl=ru&hl=ru&ei=sD2eYrnrDPm1qtsPnN-7mAo&start=90&sa=N&ved=2ahUKEwi5g6iGsZn4AhX5mmoFHZzvDqMQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=90"
+        }
+    }
+}

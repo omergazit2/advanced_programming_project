@@ -1,0 +1,399 @@
+{
+    "search_metadata": {
+        "id": "627cffef95bf92fe76d920b6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b756fc505019f73d/627cffef95bf92fe76d920b6.json",
+        "created_at": "2022-05-12 12:39:11 UTC",
+        "processed_at": "2022-05-12 12:39:11 UTC",
+        "google_url": "https://www.google.com/search?q=%C3%89nergie+renouvelable&oq=%C3%89nergie+renouvelable&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=&hl=fr&gl=FR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/b756fc505019f73d/627cffef95bf92fe76d920b6.html",
+        "total_time_taken": 0.86
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Énergie renouvelable",
+        "uule": "w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=",
+        "google_domain": "google.com",
+        "hl": "fr",
+        "gl": "FR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Énergie renouvelable",
+        "total_results": 37100000,
+        "time_taken_displayed": 0.49
+    },
+    "knowledge_graph": {
+        "title": "Énergie renouvelable",
+        "header_images": [
+            {
+                "source": "https://fr.wikipedia.org/wiki/%C3%89nergie_renouvelable"
+            },
+            {
+                "source": "https://youmatter.world/fr/definition/energies-renouvelables-definition/"
+            },
+            {
+                "source": "https://www.planete-energies.com/fr/medias/decryptages/les-energies-renouvelables"
+            },
+            {
+                "source": "https://www.vie-publique.fr/en-bref/281197-energies-renouvelables-2020-191-de-la-consommation-finale-denergie"
+            },
+            {
+                "source": "https://ekwateur.fr/2019/06/21/quels-types-energie-renouvelable-differents/"
+            },
+            {
+                "source": "https://www.batiweb.com/actualites/vie-des-societes/energie-renouvelable-un-systeme-de-stockage-hybride-teste-au-japon-24226"
+            },
+            {
+                "source": "https://www.jechange.fr/energie/electricite/guides/energies-renouvelables-4206"
+            },
+            {
+                "source": "https://alliancedesenergies.fr/infos-energie/dossiers/marches-energie/energies-renouvelables/"
+            }
+        ],
+        "description": "Les énergies renouvelables sont des sources d'énergie dont le renouvellement naturel est assez rapide pour qu'elles puissent être considérées comme inépuisables à l'échelle du temps humain.",
+        "source": {
+            "name": "Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/%C3%89nergie_renouvelable"
+        },
+        "recherches_associées": [
+            {
+                "name": "Énergie éolienne",
+                "link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%89nergie+%C3%A9olienne&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBxq_ncHElvclRumou0gQ-6OVCKeFLfGDjo41jovEB9bOFkZlQvoEPcQrXA3Qrz0A8ipMvCSqvhm3ZdaoSv83jzYPyyvffNMF2s6p_ZffAav-HqrDS7-WFDPwYAx8K6f76hjoVSboX9SizFIhVgs7OX9ylWgA4TRYTzDLMiS9yoYjG6BKZ7n6GMil-OIy8v80HSGXJVXZnydEJbKwIY_LPPy1UCxndtLwDpXdyJZyht65juAN1I5A89CL4ldrPeWivNrhcg%3D&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQxA16BAhVEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+%C3%A9olienne&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBxq_ncHElvclRumou0gQ-6OVCKeFLfGDjo41jovEB9bOFkZlQvoEPcQrXA3Qrz0A8ipMvCSqvhm3ZdaoSv83jzYPyyvffNMF2s6p_ZffAav-HqrDS7-WFDPwYAx8K6f76hjoVSboX9SizFIhVgs7OX9ylWgA4TRYTzDLMiS9yoYjG6BKZ7n6GMil-OIy8v80HSGXJVXZnydEJbKwIY_LPPy1UCxndtLwDpXdyJZyht65juAN1I5A89CL4ldrPeWivNrhcg%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffef95bf92fe76d920b6/images/d66cba9c45e0436776ee1bbac5798a6122604c0c25c46a689ef1830e27c567fc8f289aba3236f2678f2f452111dee5af.jpeg"
+            },
+            {
+                "name": "Énergie",
+                "link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%89nergie+(physique)&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVu_tQUum7SbddzPN9NSoriA-MlhBQfG9jCbPAj3t1ZCF4ibElM_7pOueFDGNBIrHWQiOL9isT4U5NMwP6ixHT9CrtEppgCNzs-TI4xx9G3_wg_aJ5Kxaz1WgK7ZEAkDFyhBuknidnP5DuWpgJA1dBPdw3CAag9LGYLMJgdRMfvWimJ1cDGA5eYS67OZfmrzUXV8csOpRFz9cpSffEAhKIPAikE5wuQNilCpCWDvKXLRWag90_EwQHHobrOO7n5RB-kqsrE%3D&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQxA16BAhVEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+%28physique%29&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVu_tQUum7SbddzPN9NSoriA-MlhBQfG9jCbPAj3t1ZCF4ibElM_7pOueFDGNBIrHWQiOL9isT4U5NMwP6ixHT9CrtEppgCNzs-TI4xx9G3_wg_aJ5Kxaz1WgK7ZEAkDFyhBuknidnP5DuWpgJA1dBPdw3CAag9LGYLMJgdRMfvWimJ1cDGA5eYS67OZfmrzUXV8csOpRFz9cpSffEAhKIPAikE5wuQNilCpCWDvKXLRWag90_EwQHHobrOO7n5RB-kqsrE%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffef95bf92fe76d920b6/images/d66cba9c45e0436776ee1bbac5798a6122604c0c25c46a689ef1830e27c567fcb9663cd48a4db88190cbed3ff5036a66.jpeg"
+            },
+            {
+                "name": "Énergie solaire",
+                "link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%89nergie+solaire&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdapSU8URA_GqoZaMRpc879rK-poC9mwe_5SVMofKao_lCB3X1jPHPHikumf-vBZE5UrqAJH2_VyO0KGmxrRppv0e-87plCCQMMuK5roQS9QQp8SXfw3Z4qnNjhV4zuAGJLRyszViuHLyGOaO7UETPf7Li1WSTt-YqwMqNXJkK6TlqxFoQpWrhQaUJA0fpy9vFFae7NmbLpqsM3ZJlDwZeUy2fLbiIvSGFpwZWMsaP-qHZEEgRY3c6223PVhzzVcWyISS1nY%3D&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQxA16BAhVEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+solaire&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdapSU8URA_GqoZaMRpc879rK-poC9mwe_5SVMofKao_lCB3X1jPHPHikumf-vBZE5UrqAJH2_VyO0KGmxrRppv0e-87plCCQMMuK5roQS9QQp8SXfw3Z4qnNjhV4zuAGJLRyszViuHLyGOaO7UETPf7Li1WSTt-YqwMqNXJkK6TlqxFoQpWrhQaUJA0fpy9vFFae7NmbLpqsM3ZJlDwZeUy2fLbiIvSGFpwZWMsaP-qHZEEgRY3c6223PVhzzVcWyISS1nY%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffef95bf92fe76d920b6/images/d66cba9c45e0436776ee1bbac5798a6122604c0c25c46a689ef1830e27c567fc28e8b9ce331099d77eb6f1ca05e85669.jpeg"
+            },
+            {
+                "name": "Durabilité",
+                "link": "https://www.google.com/search?gl=FR&hl=fr&q=Durabilit%C3%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdS8RD4uf-dyUWYoqPffCoWNp2rfPN_dlGmcpwBHanHEBd3OG2zgVnR18nNgzuAQcaa4DKYHqihNHrT0uezHeUUl5Udfs3jJFHoroDPCuq_kogaafapF5BYSmrLT9NcVusGLPYEw9nq6nwjZG3BDqlCj1eBVQwp9LXpoKj7q8V5BQdXTm_kuFZBEpj0dhuRr85uw7bf3iXDYZUQM2A7RkxNN56vHz1HQOPucvD-2QPjZDN7j9ZC4BrKMC721Kb2PJerH67AU%3D&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQxA16BAhVEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Durabilit%C3%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdS8RD4uf-dyUWYoqPffCoWNp2rfPN_dlGmcpwBHanHEBd3OG2zgVnR18nNgzuAQcaa4DKYHqihNHrT0uezHeUUl5Udfs3jJFHoroDPCuq_kogaafapF5BYSmrLT9NcVusGLPYEw9nq6nwjZG3BDqlCj1eBVQwp9LXpoKj7q8V5BQdXTm_kuFZBEpj0dhuRr85uw7bf3iXDYZUQM2A7RkxNN56vHz1HQOPucvD-2QPjZDN7j9ZC4BrKMC721Kb2PJerH67AU%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffef95bf92fe76d920b6/images/d66cba9c45e0436776ee1bbac5798a6122604c0c25c46a689ef1830e27c567fcfe6a627553178c87e6d31137ffbf83b7.jpeg"
+            }
+        ],
+        "recherches_associées_link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%89nergie+renouvelable&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCs7QEgzNTUssTK4v9UitKgktSC4oXsYoe7sxLLUrPTFUoSs3LLy1LzUlMykndwcoIAAA4wVNEAAAA&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQMSgAegQIVRAB",
+        "recherches_associées_stick": "H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCs7QEgzNTUssTK4v9UitKgktSC4oXsYoe7sxLLUrPTFUoSs3LLy1LzUlMykndwcoIAAA4wVNEAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Les énergies renouvelables",
+            "link": "https://www.youtube.com/watch?v=7HcS6pPo9aQ",
+            "thumbnail": "https://i.ytimg.com/vi/7HcS6pPo9aQ/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kSd2ob_fE1H984N4kgYz9ciABWhA",
+            "channel": "Stephan Berger",
+            "duration": "4:52",
+            "platform": "YouTube",
+            "date": "9 sept. 2013"
+        },
+        {
+            "position": 2,
+            "title": "Les énergies renouvelables (SVT brevet)",
+            "link": "https://www.youtube.com/watch?v=WgJyhk7i80I",
+            "thumbnail": "https://i.ytimg.com/vi/WgJyhk7i80I/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mBn-gLk3PuRPuv3oFf_SQhcuibtQ",
+            "channel": "superBrevet by digiSchool",
+            "duration": "2:26",
+            "platform": "YouTube",
+            "date": "22 oct. 2019"
+        },
+        {
+            "position": 3,
+            "title": "Quelle différence entre énergie renouvelable et énergie ...",
+            "link": "https://www.youtube.com/watch?v=8yZ7-pO95Bo",
+            "thumbnail": "https://i.ytimg.com/vi/8yZ7-pO95Bo/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3m_0ESzKMx11_jxycKZJlOahaMxkg",
+            "channel": "Planète Energies",
+            "duration": "2:11",
+            "platform": "YouTube",
+            "date": "8 avr. 2021"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Amazon mise sur 100 % d’énergie renouvelable d’ici 2025",
+            "link": "https://www.alliancy.fr/amazon-energie-renouvelable-2025",
+            "source": "Alliancy, le mag Numérique et Business",
+            "date": "Il y a 2 jours",
+            "thumbnail": "https://serpapi.com/searches/627cffef95bf92fe76d920b6/images/40894bf1e1a5d3e9a64297f1a706069b9d56c8f37262ddef.jpeg"
+        },
+        {
+            "title": "Les énergies renouvelables vont générer plus de 14 milliards d'euros de revenus pour l'État sur deux ans",
+            "link": "https://www.novethic.fr/actualite/energie/energies-renouvelables/isr-rse/les-eoliennes-terrestres-stigmatisees-dans-un-nouvel-article-de-loi-150588.html",
+            "source": "Novethic",
+            "date": "Il y a 2 jours",
+            "thumbnail": "https://serpapi.com/searches/627cffef95bf92fe76d920b6/images/40894bf1e1a5d3e97685ce82d0d261ad9a763b71f2ea2ada.jpeg"
+        },
+        {
+            "title": "LEAK : la Commission européenne envisage de revoir son objectif 2030 pour les énergies renouvelables à la hausse",
+            "link": "https://www.euractiv.fr/section/energie/news/leak-la-commission-europeenne-envisage-de-revoir-son-objectif-2030-pour-les-energies-renouvelables-a-la-hausse/",
+            "source": "EURACTIV.fr",
+            "date": "Il y a 1 jour",
+            "thumbnail": "https://serpapi.com/searches/627cffef95bf92fe76d920b6/images/40894bf1e1a5d3e9935a66f19d5b62775b45fda00a1e4fc5.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%89nergie+renouvelable&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQt8YBegQIKhAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&tbm=nws&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+    "related_questions": [
+        {
+            "question": "Quels sont les 5 types d'énergies renouvelables ?",
+            "snippet": "Le solaire (solaire photovoltaïque, solaire thermique), l'hydroélectricité, l'éolien, la biomasse, la géothermie sont des énergies flux inépuisables par rapport aux « énergies stock » tirées des gisements de combustibles fossiles en voie de raréfaction : pétrole, charbon, lignite, gaz naturel.",
+            "title": "5 familles énergies renouvelables",
+            "link": "http://www.energies-renouvelables.org/energies_renouvelables.asp",
+            "displayed_link": "http://www.energies-renouvelables.org › energies_reno..."
+        },
+        {
+            "question": "Quelles sont les 6 énergies renouvelables ?",
+            "title": "Les énergies renouvelables en 6 catégories",
+            "link": "https://www.lenergietoutcompris.fr/actualites-conseils/quelles-sont-les-six-categories-d-energies-renouvelables-48115",
+            "list": [
+                "Énergie solaire. Parmi les différentes énergies renouvelables, on retrouve en tête, l'énergie solaire. ... ",
+                "Énergie éolienne. L'énergie éolienne prend sa force du vent. ... ",
+                "Énergie hydraulique. ... ",
+                "La biomasse. ... ",
+                "L'énergie géothermique. ... ",
+                "Les énergies marines."
+            ],
+            "displayed_link": "https://www.lenergietoutcompris.fr › actualites-conseils"
+        },
+        {
+            "question": "Quel sont les 7 sources d'énergie renouvelable ?",
+            "title": "Contrairement aux énergies fossiles (charbon, gaz et pétrole) qui ne se régénèrent pas, les énergies renouvelables se recréent en permanence....Quelles sont les sources d'énergies renouvelables ?",
+            "link": "https://www.vattenfall.fr/le-mag-energie/quelles-sont-les-sources-d-energies-renouvelables",
+            "list": [
+                "L'énergie solaire.",
+                "L'énergie éolienne.",
+                "L'énergie hydraulique.",
+                "La biomasse.",
+                "La géothermie."
+            ],
+            "displayed_link": "https://www.vattenfall.fr › le-mag-energie › quelles-sont-l..."
+        },
+        {
+            "question": "Quels sont les 5 types d'énergie ?",
+            "title": "Les différentes formes d'énergie sur Terre",
+            "link": "https://www.choisir.com/energie/articles/158904/quelles-sont-les-differentes-formes-denergie",
+            "list": [
+                "L'énergie mécanique. ... ",
+                "L'énergie thermique. ... ",
+                "L'énergie radiative ou rayonnante. ... ",
+                "L'énergie chimique. ... ",
+                "L'énergie électrique. ... ",
+                "L'énergie nucléaire. ... ",
+                "Les énergies primaires. ... ",
+                "Les énergies secondaires."
+            ],
+            "displayed_link": "https://www.choisir.com › energie › articles › quelles-sont..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Les énergies renouvelables, c'est quoi ? Les énergies renouvelables (EnR) sont alimentées par le soleil, le vent, la chaleur de la terre, les chutes d'eau, les marées… Elles permettent de produire de l'électricité, de la chaleur, du froid, du gaz, du carburant, du combustible.22 oct. 2021",
+        "link": "https://www.ecologie.gouv.fr/energies-renouvelables#:~:text=fran%C3%A7aise%20d'%C3%A9lectricit%C3%A9-,Les%20%C3%A9nergies%20renouvelables%2C%20c'est%20quoi%20%3F,%2C%20du%20carburant%2C%20du%20combustible.",
+        "displayed_link": "https://www.ecologie.gouv.fr › energies-renouvelables",
+        "date": "22 oct. 2021",
+        "snippet": "Les énergies renouvelables, c'est quoi ? Les énergies renouvelables (EnR) sont alimentées par le soleil, le vent, la chaleur de la terre, les chutes d'eau, les marées… Elles permettent de produire de l'électricité, de la chaleur, du froid, du gaz, du carburant, du combustible.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Qu'est-ce qu'une énergie renouvelable ? | EDF FR",
+            "link": "https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/le-developpement-durable/qu-est-ce-qu-une-energie-renouvelable",
+            "displayed_link": "https://www.edf.fr › ... › Le développement durable",
+            "snippet": "Une énergie est dite renouvelable lorsqu'elle provient de sources que la nature renouvelle en permanence, par opposition à une énergie non renouvelable dont ...",
+            "snippet_highlighted_words": [
+                "énergie",
+                "renouvelable",
+                "énergie",
+                "renouvelable"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Qu'est-ce que l'énergie éolienne",
+                        "link": "https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/produire-de-l-electricite/qu-est-ce-que-l-energie-eolienne"
+                    },
+                    {
+                        "title": "Qu'est-ce que l'énergie solaire",
+                        "link": "https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/produire-de-l-electricite/qu-est-ce-que-l-energie-solaire"
+                    },
+                    {
+                        "title": "Hydraulique",
+                        "link": "https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/produire-de-l-electricite/qu-est-ce-que-l-energie-hydraulique"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Énergie renouvelable - Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/%C3%89nergie_renouvelable",
+            "displayed_link": "https://fr.wikipedia.org › wiki › Énergie_renouvelable",
+            "snippet": "Les énergies renouvelables (EnR) sont des sources d'énergie dont le renouvellement naturel est assez rapide pour qu'elles puissent être considérées comme ...",
+            "snippet_highlighted_words": [
+                "énergies renouvelables"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Biomasse (énergie)",
+                        "link": "https://fr.wikipedia.org/wiki/Biomasse_(%C3%A9nergie)"
+                    },
+                    {
+                        "title": "Source d'énergie",
+                        "link": "https://fr.wikipedia.org/wiki/Source_d%27%C3%A9nergie"
+                    },
+                    {
+                        "title": "Géothermie",
+                        "link": "https://fr.wikipedia.org/wiki/G%C3%A9othermie"
+                    },
+                    {
+                        "title": "Objet céleste",
+                        "link": "https://fr.wikipedia.org/wiki/Objet_c%C3%A9leste"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "Quels sont les cinq types d'énergies renouvelables ?",
+            "link": "https://www.futura-sciences.com/planete/questions-reponses/energie-renouvelable-sont-cinq-types-energies-renouvelables-4134/",
+            "displayed_link": "https://www.futura-sciences.com › questions-reponses",
+            "date": "27 avr. 2022",
+            "snippet": "Le terme énergie renouvelable est employé pour désigner des énergies qui, à l'échelle humaine au moins, sont inépuisables et disponibles en ...",
+            "snippet_highlighted_words": [
+                "énergie renouvelable"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "5 familles énergies renouvelables",
+            "link": "http://www.energies-renouvelables.org/energies_renouvelables.asp",
+            "displayed_link": "http://www.energies-renouvelables.org › energies_reno...",
+            "snippet": "Le solaire (solaire photovoltaïque, solaire thermique), l'hydroélectricité, l'éolien, la biomasse, la géothermie sont des énergies flux inépuisables par rapport ...",
+            "snippet_highlighted_words": [
+                "énergies"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Energies Renouvelables",
+                    "link": "http://www.energies-renouvelables.org/",
+                    "displayed_link": "http://www.energies-renouvelables.org",
+                    "snippet": "Les énergies renouvelables incluent : l'énergie solaire photovoltaïque, le solaire thermique basse température, l'énergie solaire thermique haute température, l ...",
+                    "snippet_highlighted_words": [
+                        "énergies renouvelables"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Énergies renouvelables : définition, exemples, avantages et ...",
+            "link": "https://youmatter.world/fr/definition/energies-renouvelables-definition/",
+            "displayed_link": "https://youmatter.world › definition › energies-renouvel...",
+            "date": "8 avr. 2022",
+            "snippet": "Les énergies renouvelables (ou EnR) désignent un ensemble de moyens de produire de l'énergie à partir de sources ou de ressources ...",
+            "snippet_highlighted_words": [
+                "énergies renouvelables"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Les énergies renouvelables : lesquelles sont-elles, quel est ...",
+            "link": "https://www.lelynx.fr/energie/guide/types-energies/energies-renouvelables/",
+            "displayed_link": "https://www.lelynx.fr › energie › guide › types-energies",
+            "snippet": "Les énergies renouvelables désignent les énergies issues de sources naturelles, telles que le soleil, le vent ou l'eau. Inépuisables, elles sont renouvelées ...",
+            "snippet_highlighted_words": [
+                "énergies renouvelables"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "note": 8.3,
+                        "avis": 3
+                    },
+                    "extensions": [
+                        "Note : 8,3/10",
+                        "‎3 653 avis"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "énergie renouvelable exemple",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%89nergie+renouvelable+exemple&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "énergie renouvelable définition",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%89nergie+renouvelable+D%C3%A9finition&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "énergie renouvelable et non renouvelable",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%89nergie+renouvelable+et+non+renouvelable&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "énergie renouvelable pdf",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%89nergie+renouvelable+pdf&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "production d'énergie renouvelable",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=production+d%27%C3%A9nergie+renouvelable&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "énergie renouvelable : définition larousse",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%A9nergie+renouvelable+:+d%C3%A9finition+larousse&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "les énergie renouvelable exposé",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Les+%C3%A9nergie+renouvelable+expos%C3%A9&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "cours énergie renouvelable pdf",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Cours+%C3%A9nergie+renouvelable+pdf&sa=X&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ1QJ6BAgpEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%C3%89nergie+renouvelable&gl=FR&hl=fr&ei=7_98Yo3fHO6zgge84ozICw&start=10&sa=N&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%C3%89nergie+renouvelable&gl=FR&hl=fr&ei=7_98Yo3fHO6zgge84ozICw&start=10&sa=N&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%C3%89nergie+renouvelable&gl=FR&hl=fr&ei=7_98Yo3fHO6zgge84ozICw&start=20&sa=N&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%C3%89nergie+renouvelable&gl=FR&hl=fr&ei=7_98Yo3fHO6zgge84ozICw&start=30&sa=N&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%C3%89nergie+renouvelable&gl=FR&hl=fr&ei=7_98Yo3fHO6zgge84ozICw&start=40&sa=N&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%C3%89nergie+renouvelable&gl=FR&hl=fr&ei=7_98Yo3fHO6zgge84ozICw&start=50&sa=N&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%C3%89nergie+renouvelable&gl=FR&hl=fr&ei=7_98Yo3fHO6zgge84ozICw&start=60&sa=N&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%C3%89nergie+renouvelable&gl=FR&hl=fr&ei=7_98Yo3fHO6zgge84ozICw&start=70&sa=N&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%C3%89nergie+renouvelable&gl=FR&hl=fr&ei=7_98Yo3fHO6zgge84ozICw&start=80&sa=N&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%C3%89nergie+renouvelable&gl=FR&hl=fr&ei=7_98Yo3fHO6zgge84ozICw&start=90&sa=N&ved=2ahUKEwjNko_C_dn3AhXumeAKHTwxA7kQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=20&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=30&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=40&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=50&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=60&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=70&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=80&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+renouvelable&start=90&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D"
+        }
+    }
+}

@@ -1,0 +1,410 @@
+{
+    "search_metadata": {
+        "id": "629e3d888b7ed20b5e3abd6d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/889eb241c950510a/629e3d888b7ed20b5e3abd6d.json",
+        "created_at": "2022-06-06 17:46:48 UTC",
+        "processed_at": "2022-06-06 17:46:48 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&oq=%D7%9E%D7%90%D7%93%D7%99%D7%9D&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/889eb241c950510a/629e3d888b7ed20b5e3abd6d.html",
+        "total_time_taken": 4.6
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "מאדים",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "מאדים",
+        "total_results": 468000,
+        "time_taken_displayed": 0.38
+    },
+    "knowledge_graph": {
+        "title": "מאדים",
+        "type": "כוכב לכת",
+        "header_images": [
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%93%D7%99%D7%9D"
+            },
+            {
+                "source": "https://www.ynet.co.il/articles/0,7340,L-5320135,00.html"
+            },
+            {
+                "source": "https://www.space.gov.il/node/132377"
+            },
+            {
+                "source": "https://www.globes.co.il/news/article.aspx?did=1001354517"
+            },
+            {
+                "source": "https://www.ynet.co.il/environment-science/article/ryhXR1lLD"
+            }
+        ],
+        "description": "מאדים הוא כוכב הלכת הרביעי במערכת השמש. מסלולו הוא השני הקרוב ביותר למסלול כדור הארץ והוא כוכב הלכת השני הקטן ביותר, גדול רק מכוכב חמה. צבע פניו של מאדים אדמדם בשל ריבוי תחמוצות ברזל בקרקעו, ומכאן שמו העברי והכינוי \"כוכב הלכת האדום\". סמלו מייצג את המגן והחנית של האל מרס: עיגול עם חץ קטן. קוטרו של מאדים 6,721 ק\"מ.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%93%D7%99%D7%9D"
+        },
+        "מרחק_מהשמש": "227,900,000 ק״מ",
+        "מרחק_מהשמש_links": [
+            {
+                "text": "מרחק מהשמש",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%9E%D7%A8%D7%97%D7%A7+%D7%9E%D7%94%D7%A9%D7%9E%D7%A9&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSy0620k8sLinKz8vPrdQvyEnMSy2xSsksLknMS05VSCvKz1UoLs1bxCp3fd71CdcnX595fa4CkLni-vTry0GMKddXAsmVAC2DO89VAAAA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ6BMoAHoECEoQAg"
+            }
+        ],
+        "כוח_משיכה": "3.721 מטר לשניה בריבוע",
+        "כוח_משיכה_links": [
+            {
+                "text": "כוח משיכה",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%9B%D7%95%D7%97+%D7%9E%D7%A9%D7%99%D7%9B%D7%94&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSy0620k8sLinKz8vPrdRPTs1JLS7JTMyJz0_KSk0usUovSizLLKlcxCpzfd71CdcnX595fa7C9dnXp16frgAUWQnkz74-BQD1eolUUwAAAA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ6BMoAHoECFYQAg"
+            }
+        ],
+        "שטח_פנים": "144,800,000 קמ\"ר",
+        "שטח_פנים_links": [
+            {
+                "text": "שטח פנים",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%A9%D7%98%D7%97+%D7%A4%D7%A0%D7%99%D7%9D&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9aSzE620k8sLinKz8vPrdQvyEnMSy2xSixKTVzEKnV93vUJ1ydfn3l9rsL1lddnXJ-ucH3J9QUgPgAljEOnRAAAAA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ6BMoAHoECFIQAg"
+            }
+        ],
+        "זמן_הקפה": "687 ימים",
+        "זמן_הקפה_links": [
+            {
+                "text": "זמן הקפה",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%96%D7%9E%D7%9F+%D7%94%D7%A7%D7%A4%D7%94&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9YyzE620k8sLinKz8vPrdTPL0rKLEnMiS9KzUksyczPK87ILLCCCioUpBZl5qcsYpW6Pu_6hOuTr8-8Plfh-jQgZ77C9SnXl19fcn0KABQ5gj5cAAAA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ6BMoAHoECFEQAg"
+            }
+        ],
+        "מסה": "6.39E23 ק\"ג (0.107 M⊕)",
+        "מסה_links": [
+            {
+                "text": "מסה",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%9E%D7%A1%D7%94&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9aSzE620k8sLinKz8vPrdQvyEnMSy2xyk0sLl7EKnh93vUJ1ydfn3l9rgKQufD6FABTsRBCOwAAAA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ6BMoAHoECFUQAg"
+            }
+        ],
+        "רדיוס": "3,389.5 ק״מ",
+        "רדיוס_links": [
+            {
+                "text": "רדיוס",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%A8%D7%93%D7%99%D7%95%D7%A1&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9bSyk620k8sLinKz8vPrdRPTs1JLS7JTMyJz0_KSk0uscpNTcyLL0pMySwtXsQqen3e9QnXJ1-feX2uwvUVYMbU6wsBSDeiu1AAAAA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ6BMoAHoECEsQAg"
+            }
+        ],
+        "ירחים": "פובוס, דימוס",
+        "ירחים_links": [
+            {
+                "text": "ירחים",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%99%D7%A8%D7%97%D7%99%D7%9D&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSz0620k8sLinKz8vPrdTPL0rKLEnMiS9KzUksyczPK87ILLDKzc_PW8Qqen3e9QnXJ1-feX2uApBYcX06iAkA-vSoN00AAAA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ6BMoAHoECE4QAg"
+            },
+            {
+                "text": "פובוס",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%95%D7%91%D7%95%D7%A1&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL1YCs1IqCrO01LOTrfQTi0uK8vPycyv184uSMksSc-KLUnMSSzLz84ozMguscvPz8xaxcl1fcn3q9YlAvHAHK-MudiYORgDntJDeVAAAAA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQmxMoAXoECE4QAw"
+            },
+            {
+                "text": "דימוס",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%93%D7%99%D7%9E%D7%95%D7%A1&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL1YCszKKTY211LOTrfQTi0uK8vPycyv184uSMksSc-KLUnMSSzLz84ozMguscvPz8xaxcl2ffH3m9XnXp15fuIOVcRc7EwcjAOWqcCZUAAAA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQmxMoAnoECE4QBA"
+            }
+        ],
+        "מה_עוד_אנשים_חיפשו": [
+            {
+                "name": "צדק",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A6%D7%93%D7%A7+(%D7%9B%D7%95%D7%9B%D7%91+%D7%9C%D7%9B%D7%AA)&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQQiEggMUP7VwWOnzMhIXUIsX5b6jV9wzCoaab0o7YTJAbhFYeFgMXyODWlzJ1dowdg5pfxK6Q3jVQRT2jXs-b9JnCgoZUp9T0LQfI7N6syHO_TmqtPzfN4mjRO3E8HE5OnbrknNdDtWzA7NuvFTt7IqWcGFxDQCdCzP8IwOS9-yYFaiMreDX6bOIQpX04JBMDx7YLGTQN-np9C2EiKjvGH8JkeQR7VLxDpYKi_GjjLw_2uX1OEVs_5mGWHO0-lz0NvnfMeE7tjcquXUKs6lzTrdQkye&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQxA16BAhPEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A6%D7%93%D7%A7+%28%D7%9B%D7%95%D7%9B%D7%91+%D7%9C%D7%9B%D7%AA%29&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQQiEggMUP7VwWOnzMhIXUIsX5b6jV9wzCoaab0o7YTJAbhFYeFgMXyODWlzJ1dowdg5pfxK6Q3jVQRT2jXs-b9JnCgoZUp9T0LQfI7N6syHO_TmqtPzfN4mjRO3E8HE5OnbrknNdDtWzA7NuvFTt7IqWcGFxDQCdCzP8IwOS9-yYFaiMreDX6bOIQpX04JBMDx7YLGTQN-np9C2EiKjvGH8JkeQR7VLxDpYKi_GjjLw_2uX1OEVs_5mGWHO0-lz0NvnfMeE7tjcquXUKs6lzTrdQkye",
+                "image": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/da0523562ccb7c265a5c5360026bac7b68cbc623f4915e8b3d570cfe2740df2e923777a536746433d8065f093a013540710bae1180f5c9b38042331d3b03619c.jpeg"
+            },
+            {
+                "name": "נוגה",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A0%D7%95%D7%92%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXsW49wMgwBIXvhUzN7HXZP5_qq7zwChXBdx87lEHv1wXxUVuY3WpxZpJEmYT3mq-_9IeAI9VPCvwL1vlgv6av3Vb5HFYUo7qW8VFm0qGJR4GZUwQ4XaYgo8P-JucVJ6caeqYY4VcJb83FQojy-Ez0g9-2oIKCO6g39jsW777k73ZPogP8Cdere57o-pw3GQC5h0QLpTuBAVivMnfkEXCv2G8T7d8r4U1vuW-QcjWix9-YMFXVm2MMP3AuS-7Vh3N3hcatY%3D&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQxA16BAhPEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A0%D7%95%D7%92%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXsW49wMgwBIXvhUzN7HXZP5_qq7zwChXBdx87lEHv1wXxUVuY3WpxZpJEmYT3mq-_9IeAI9VPCvwL1vlgv6av3Vb5HFYUo7qW8VFm0qGJR4GZUwQ4XaYgo8P-JucVJ6caeqYY4VcJb83FQojy-Ez0g9-2oIKCO6g39jsW777k73ZPogP8Cdere57o-pw3GQC5h0QLpTuBAVivMnfkEXCv2G8T7d8r4U1vuW-QcjWix9-YMFXVm2MMP3AuS-7Vh3N3hcatY%3D",
+                "image": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/da0523562ccb7c265a5c5360026bac7b68cbc623f4915e8b3d570cfe2740df2e923777a536746433d8065f093a013540669cd8c12166fb64bac98577a00e66b0.jpeg"
+            },
+            {
+                "name": "כדור הארץ",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9B%D7%93%D7%95%D7%A8+%D7%94%D7%90%D7%A8%D7%A5&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVeemGur0POLIyAzbX390MhIN4BDicJk3q_GSf9BW9FO1H5NrrLvCvaA6Ff537AHrW4c13Ijdl0742hFN5N7bUxL92WdElh9YfjGz-r7z5GJbpXitazFRh23mdAI40IdoAfnvrMD28WJwH2QuQw9d6TGLL2NFf4hBNEg4sEqGMY8pqMPBtI2Hs_H9tD5USgKX2hSzm1j6qf-VjD-Vm9xHB-W9U_0JWbycKW6IuZ5-RjEuAgNB6OxhNUpij392xqAan2Zcx0%3D&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQxA16BAhPEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9B%D7%93%D7%95%D7%A8+%D7%94%D7%90%D7%A8%D7%A5&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVeemGur0POLIyAzbX390MhIN4BDicJk3q_GSf9BW9FO1H5NrrLvCvaA6Ff537AHrW4c13Ijdl0742hFN5N7bUxL92WdElh9YfjGz-r7z5GJbpXitazFRh23mdAI40IdoAfnvrMD28WJwH2QuQw9d6TGLL2NFf4hBNEg4sEqGMY8pqMPBtI2Hs_H9tD5USgKX2hSzm1j6qf-VjD-Vm9xHB-W9U_0JWbycKW6IuZ5-RjEuAgNB6OxhNUpij392xqAan2Zcx0%3D",
+                "image": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/da0523562ccb7c265a5c5360026bac7b68cbc623f4915e8b3d570cfe2740df2e923777a536746433d8065f093a013540f6ffd6f866b554d5fc300fb50b37ed5a.jpeg"
+            },
+            {
+                "name": "כוכב חמה",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9B%D7%95%D7%9B%D7%91+%D7%97%D7%9E%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQq7cG1SrDot-5SZMtAttO6mRqVvt4IOn5IB1OnAB0ujTL04evR9MjyRhuA30r9G8HPclcZH3HHg9-5HF5O-ttfavlmd7cfaU7GkCHm-YtKgfEFbZVIjpvhEIprr6VykxHRPaSIfVNi2yC5alJf_PZi9CFK4fx1BegwuD953VwHNYcfoPoiTt8nI_DbJgBoTMaJQBHBD9qAD7YBqgNizutSb00kxwY-iGEMb45mJ-sYEojt1cHOxHjsIeRZngHYMUYfNLwc%3D&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQxA16BAhPEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9B%D7%95%D7%9B%D7%91+%D7%97%D7%9E%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQq7cG1SrDot-5SZMtAttO6mRqVvt4IOn5IB1OnAB0ujTL04evR9MjyRhuA30r9G8HPclcZH3HHg9-5HF5O-ttfavlmd7cfaU7GkCHm-YtKgfEFbZVIjpvhEIprr6VykxHRPaSIfVNi2yC5alJf_PZi9CFK4fx1BegwuD953VwHNYcfoPoiTt8nI_DbJgBoTMaJQBHBD9qAD7YBqgNizutSb00kxwY-iGEMb45mJ-sYEojt1cHOxHjsIeRZngHYMUYfNLwc%3D",
+                "image": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/da0523562ccb7c265a5c5360026bac7b68cbc623f4915e8b3d570cfe2740df2e923777a536746433d8065f093a013540939fdbc460c0b17a3651f5cfb0253214.jpeg"
+            }
+        ],
+        "מה_עוד_אנשים_חיפשו_link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7QEgzNTUssTK4v9UitKgktSC4oXsXJdn3d9wvXJ12den7uDlREAc86NsjkAAAA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQMSgAegQITxAB",
+        "מה_עוד_אנשים_חיפשו_stick": "H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7QEgzNTUssTK4v9UitKgktSC4oXsXJdn3d9wvXJ12den7uDlREAc86NsjkAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "המסע לחיפוש חיים: רכב חלל ינחת היום על מאדים",
+            "link": "https://www.youtube.com/watch?v=ZLV5C1oCfj8",
+            "thumbnail": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/7ad88451d77bb768ccacda72262f269744eb2529e8749633aa933f41a3d3f166.jpeg",
+            "channel": "ynet",
+            "duration": "4:28",
+            "platform": "YouTube",
+            "date": "18 בפבר׳ 2021"
+        },
+        {
+            "position": 2,
+            "title": "מאדים",
+            "link": "https://www.youtube.com/watch?v=G2AZykthngA",
+            "thumbnail": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/7ad88451d77bb768c80244a0f7520e32b9bf97039ffb0136f6899a0b557b6201.jpeg",
+            "channel": "מכון דוידסון - סרטוני מדע",
+            "duration": "1:17",
+            "platform": "YouTube",
+            "date": "7 באוג׳ 2009"
+        },
+        {
+            "position": 3,
+            "title": "מערכת השמש: כוכב הלכת צדק וההיסטוריה של מאדים",
+            "link": "https://www.youtube.com/watch?v=Bf3y3B41J8I",
+            "thumbnail": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/7ad88451d77bb76823d61eb415c1a14891ff0736df37fe4cc52cb26dfdd4d5a4.jpeg",
+            "channel": "ערוץ מזג האוויר",
+            "duration": "8:35",
+            "platform": "YouTube",
+            "date": "19 באוג׳ 2019"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "מאדים - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%93%D7%99%D7%9D",
+            "displayed_link": "https://he.wikipedia.org › wiki › מאדים",
+            "thumbnail": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/437c5467f1d7ea3ae1b8f3412aefbce6dd217739b0bb89c74eea9de0bd2b03b2.jpeg",
+            "snippet": "מאדים (בלטינית: Mars, מַארס) הוא כוכב הלכת הרביעי במערכת השמש. מסלולו הוא השני הקרוב ביותר למסלול כדור הארץ (אחרי נוגה) והוא כוכב הלכת השני הקטן ביותר, ...",
+            "snippet_highlighted_words": [
+                "מאדים",
+                "Mars"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "התיישבות על מאדים",
+                        "link": "https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA_%D7%A2%D7%9C_%D7%9E%D7%90%D7%93%D7%99%D7%9D"
+                    },
+                    {
+                        "title": "הארצת מאדים",
+                        "link": "https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A8%D7%A6%D7%AA_%D7%9E%D7%90%D7%93%D7%99%D7%9D"
+                    },
+                    {
+                        "title": "מתיחת מאדים",
+                        "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%AA%D7%99%D7%97%D7%AA_%D7%9E%D7%90%D7%93%D7%99%D7%9D"
+                    },
+                    {
+                        "title": "מאדים 500",
+                        "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%93%D7%99%D7%9D_500"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "כוכב אם: השמש",
+                        "מרחק ממוצע מהשמש: 227,936,637 ק\"מ; (1.523,66...",
+                        "טמפרטורה ממוצעת: -63.15 °C; 210 K",
+                        "טמפרטורה מקסימלית: 9 °C; 282.15 K"
+                    ],
+                    "detected_extensions": {
+                        "מרחק_ממוצע_מהשמש_ק_מ": 227936637,
+                        "price": 9,
+                        "currency": "טמפרטורה מקסימלית °C; K"
+                    }
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "מאדים: כתבות, מאמרים ומידע מרתק | סוכנות החלל הישראלית",
+            "link": "https://www.space.gov.il/%D7%AA%D7%92%D7%99%D7%95%D7%AA/%D7%9E%D7%90%D7%93%D7%99%D7%9D",
+            "displayed_link": "https://www.space.gov.il › תגיות › מאדים",
+            "thumbnail": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/437c5467f1d7ea3ae1b8f3412aefbce6ca3c26544d18e7e7abbbf448c72df532.jpeg",
+            "snippet": "מאדים הוא אחד מ-8 כוכבי הלכת במערכת השמש, והתנאים בו דומים לכדור הארץ. האם ייתכנו חיים על מאדים? והאם נוכל להתיישב עליו בעתיד הקרוב? כל מה שרציתם לדעת על ...",
+            "snippet_highlighted_words": [
+                "מאדים",
+                "מאדים"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "כוכב הלכת מאדים - מטח",
+            "link": "https://lib.cet.ac.il/pages/item.asp?item=7895",
+            "displayed_link": "https://lib.cet.ac.il › pages › item",
+            "thumbnail": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/437c5467f1d7ea3ae1b8f3412aefbce660020728872dd603d018b827e2cebcd9.jpeg",
+            "snippet": "מאדים הוא כוכב הלכת הדומה ביותר לכדור הארץ במערכת השמש. מאדים נקרא כך בשל צבעו האדום שבא לו מסלעיו העשויים תחמוצת ברזל.",
+            "snippet_highlighted_words": [
+                "מאדים",
+                "מאדים"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "מאדים ושעון המאדים - על אודות הסיכוי לחיים, הזמן ומאדים - מצפה ...",
+            "link": "https://www.bareket-astro.com/solar-system/mars-time-voyage",
+            "displayed_link": "https://www.bareket-astro.com › מערכת השמש",
+            "thumbnail": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/437c5467f1d7ea3ae1b8f3412aefbce6ccd8f3fdde035fe2993a88407259ae8e.jpeg",
+            "snippet": "מאדים \"אל המלחמות\" - במשך מאות ואלפי שנים אפפו הקסם והמסתורין את סודותיו הכמוסים ביותר של כוכב הלכת מאדים. תכונותיו הבולטות כגון צבעו האדום עז ותנועתו המיוחדת ...",
+            "snippet_highlighted_words": [
+                "מאדים",
+                "מאדים"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "זמן_הקפה_סביב_השמש_אורך_שנה_כ_יממות_ארץ": 687,
+                        "טמפרטורה_ממוצעת_מעלות_צלזיוס": 47,
+                        "זמן_סיבוב_עצמי_אורך_יממה_שעות_ו_דקות": 24
+                    },
+                    "extensions": [
+                        "זמן הקפה סביב השמש (אורך שנה): כ-687 יממות ארץ",
+                        "טמפרטורה ממוצעת: (47 –) מעלות צלזיוס",
+                        "זמן סיבוב עצמי (אורך יממה): 24 שעות ו 37 דקות",
+                        "הרכב: פני שטח סלעיים, האטמוספרה דלילה – בעיקר פ..."
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "צפו: ההסבר המדעי ל\"דלת\" המסתורית על מאדים - Ynet",
+            "link": "https://www.ynet.co.il/environment-science/article/r1wlizrl9",
+            "displayed_link": "https://www.ynet.co.il › ynet - סביבה ומדע › מדע",
+            "snippet": "החיים החדשים של הג'ירפה, הבולען שהתגלה בסין ולאן מובילה \"הדלת\" שבסלע במאדים? מבזק החדשות הטובות.",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "במאי": 15
+                    },
+                    "extensions": [
+                        "15 במאי 2022",
+                        "הועלה על",
+                        "ידי צילום: אסף חן"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "כל מה שרציתם לדעת על מאדים - Ynet",
+            "link": "https://www.ynet.co.il/articles/0,7340,L-4897212,00.html",
+            "displayed_link": "https://www.ynet.co.il › ynet - סביבה ומדע › מדע",
+            "thumbnail": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/437c5467f1d7ea3ae1b8f3412aefbce6e4868bf48908447d1612061b7538211c.jpeg",
+            "date": "24 בדצמ׳ 2016",
+            "snippet": "כל מה שרציתם לדעת על מאדים. למה כוכב הלכת השכן הוא אדום? מדוע כבר לא זורמים בו מים ולאיזה גובה מתנשא ההר הגבוה ביותר במערכת השמש – שנמצא על ...",
+            "snippet_highlighted_words": [
+                "מאדים"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "התמדה ותבונה על פני מאדים - חדשות מדעיות לכל המשפחה - מדעטק",
+            "link": "https://www.madatech.org.il/perseverance-and-ingenuity-on-mars",
+            "displayed_link": "https://www.madatech.org.il › perseverance-and-ingenu...",
+            "thumbnail": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/437c5467f1d7ea3ae1b8f3412aefbce6259c107915f3812d417711ee75edaa96.jpeg",
+            "snippet": "שני רכבי חלל חדשים נחתו על מאדים - התמדה ותבונה. הם צפויים לחקור את מאדים בשנים הקרובות בשאיפה להגיע ליכולת להנחית בני אדם על כוכב הלכת האדום.",
+            "snippet_highlighted_words": [
+                "מאדים",
+                "מאדים"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "מאדים - – המכלול",
+            "link": "https://www.hamichlol.org.il/%D7%9E%D7%90%D7%93%D7%99%D7%9D",
+            "displayed_link": "https://www.hamichlol.org.il › מאדים",
+            "snippet": "מאדים (באנגלית: · Mars, · מַארס) הוא כוכב הלכת הרביעי במערכת השמש. זהו כוכב הלכת החיצוני שמסלולו הוא הקרוב ביותר למסלול כדור הארץ ואחד מכוכבי הלכת הקטנים ביותר ...",
+            "snippet_highlighted_words": [
+                "מאדים",
+                "Mars"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 133,
+                        "currency": "טמפרטורה מינימלית קלווין / - צלזיוס K"
+                    },
+                    "extensions": [
+                        "טמפרטורה מקסימלית: 268 קלווין / 5.15- צלזיוס K",
+                        "טמפרטורה ממוצעת: 210 קלווין / 63.15- צלזיוס K",
+                        "טמפרטורה מינימלית: 133 קלווין / 140.15- צלזיוס K",
+                        "תאריך גילוי: מימי קדם"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "מדענים של נאס\"א הציגו לראשונה מיפוי של השכבות העמוקות של ...",
+            "link": "https://www.haaretz.co.il/science/space/2021-08-03/ty-article-magazine/.premium/0000017f-db88-d856-a37f-ffc827870000",
+            "displayed_link": "https://www.haaretz.co.il › ty-article-magazine › .premium",
+            "thumbnail": "https://serpapi.com/searches/629e3d888b7ed20b5e3abd6d/images/437c5467f1d7ea3ae1b8f3412aefbce6895c477ff5cd864768ab7e5351099193.jpeg",
+            "date": "3 באוג׳ 2021",
+            "snippet": "מדוע מאדים הקטן שונה כל כך מכדור הארץ ומנוגה, הפלנטה שנחשבת לתאומה גיאולוגית של כדור הארץ? הבדיקה שנערכה בעזרת אינסייט משפרת את הסיכוי למצוא ...",
+            "snippet_highlighted_words": [
+                "מאדים"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "חיים על מאדים",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%97%D7%99%D7%99%D7%9D+%D7%A2%D7%9C+%D7%9E%D7%90%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "מאדים תמונות",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%AA%D7%9E%D7%95%D7%A0%D7%95%D7%AA&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "מאדים טמפרטורה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%98%D7%9E%D7%A4%D7%A8%D7%98%D7%95%D7%A8%D7%94&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "מאדים אטמוספירה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%90%D7%98%D7%9E%D7%95%D7%A1%D7%A4%D7%99%D7%A8%D7%94&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "מאדים ויקיפדיה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D+%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "הרכב מאדים",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%94%D7%A8%D7%9B%D7%91+%D7%9E%D7%90%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "כוכב מאדים",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9B%D7%95%D7%9B%D7%91+%D7%9E%D7%90%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "מים על מאדים",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%99%D7%9D+%D7%A2%D7%9C+%D7%9E%D7%90%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ1QJ6BAglEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&hl=iw&gl=il&ei=jD2eYveZFNOhqtsP3ZqW4Ao&start=10&sa=N&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ8NMDegQIAhBL",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&hl=iw&gl=il&ei=jD2eYveZFNOhqtsP3ZqW4Ao&start=10&sa=N&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&hl=iw&gl=il&ei=jD2eYveZFNOhqtsP3ZqW4Ao&start=20&sa=N&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&hl=iw&gl=il&ei=jD2eYveZFNOhqtsP3ZqW4Ao&start=30&sa=N&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&hl=iw&gl=il&ei=jD2eYveZFNOhqtsP3ZqW4Ao&start=40&sa=N&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&hl=iw&gl=il&ei=jD2eYveZFNOhqtsP3ZqW4Ao&start=50&sa=N&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&hl=iw&gl=il&ei=jD2eYveZFNOhqtsP3ZqW4Ao&start=60&sa=N&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&hl=iw&gl=il&ei=jD2eYveZFNOhqtsP3ZqW4Ao&start=70&sa=N&ved=2ahUKEwj3j5r1sJn4AhXTkGoFHV2NBawQ8tMDegQIAhBJ"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%90%D7%93%D7%99%D7%9D&start=70"
+        }
+    }
+}

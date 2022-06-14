@@ -1,0 +1,286 @@
+{
+    "search_metadata": {
+        "id": "629e3ddc8e02e44eaaff8245",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/657381094d62ec8d/629e3ddc8e02e44eaaff8245.json",
+        "created_at": "2022-06-06 17:48:12 UTC",
+        "processed_at": "2022-06-06 17:48:12 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&oq=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/657381094d62ec8d/629e3ddc8e02e44eaaff8245.html",
+        "total_time_taken": 1.13
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "גנום",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "גנום",
+        "total_results": 52200,
+        "time_taken_displayed": 0.45
+    },
+    "knowledge_graph": {
+        "title": "גנום",
+        "header_images": [
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%92%D7%A0%D7%95%D7%9D"
+            },
+            {
+                "source": "https://www.hadoctor.co.il/%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%95%D7%AA-%D7%A9%D7%9E%D7%94%D7%9F-%D7%94%D7%92%D7%99%D7%A2-%D7%94%D7%A0%D7%92%D7%99%D7%A3-%D7%9C%D7%99%D7%A9%D7%A8%D7%90%D7%9C/%D7%9E%D7%97%D7%9C%D7%95%D7%AA-%D7%95%D7%97%D7%99%D7%A1%D7%95%D7%A0%D7%99%D7%9D/%D7%A0%D7%92%D7%99%D7%A3-%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94/attachment/genome-tests-lionfive-cezary-pixabay-2870583_1280/"
+            },
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%92%D7%9F_(%D7%91%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94)"
+            },
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%D7%92%D7%A0%D7%95%D7%9D_%D7%94%D7%90%D7%93%D7%9D"
+            },
+            {
+                "source": "https://telem.openu.ac.il/courses/c20237/syn-life.htm"
+            },
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%D7%92%D7%A0%D7%95%D7%9D_%D7%94%D7%90%D7%93%D7%9D"
+            },
+            {
+                "source": "https://www.globes.co.il/news/article.aspx?did=1001408633"
+            },
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%A8%D7%A6%D7%A3_%D7%99%D7%99%D7%97%D7%95%D7%A1"
+            }
+        ],
+        "description": "בביולוגיה, גֵּנוֹם הוא השם הניתן לרוב לכלל המידע התורשתי באורגניזם המקודד ב־DNA. חומר זה כולל גם מידע אשר מקודד לחלבונים וגם מידע שאינו מקודד. המונח גנום הוטבע לראשונה ב־1920 על ידי הנס וינקלר, פרופסור לבוטניקה באוניברסיטת המבורג.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%92%D7%A0%D7%95%D7%9D"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "ריצוף הגנום",
+            "link": "https://www.youtube.com/watch?v=z79sg1ojT0E",
+            "thumbnail": "https://serpapi.com/searches/629e3ddc8e02e44eaaff8245/images/aeae923e7e7d42769653cbee4fbf2c42350c5c5e745bec05edb79ff4c1cca173.jpeg",
+            "channel": "מכון דוידסון - סרטוני מדע",
+            "duration": "12:07",
+            "platform": "YouTube",
+            "date": "15 בספט׳ 2010"
+        },
+        {
+            "position": 2,
+            "title": "הגנום ותכנית הגנום האנושי",
+            "link": "https://www.youtube.com/watch?v=ZAvRD1iFH1Q",
+            "thumbnail": "https://serpapi.com/searches/629e3ddc8e02e44eaaff8245/images/aeae923e7e7d4276824aa892a57977ce6949d93c3f2b3f5050e3d1d2589c9b4f.jpeg",
+            "channel": "TAUVOD",
+            "duration": "1:28:11",
+            "platform": "YouTube",
+            "date": "14 בספט׳ 2010"
+        },
+        {
+            "position": 3,
+            "title": "ריצוף הגנום האנושי",
+            "link": "https://www.youtube.com/watch?v=IdrALaCDgQI",
+            "thumbnail": "https://serpapi.com/searches/629e3ddc8e02e44eaaff8245/images/aeae923e7e7d4276eca0c02256190b434f51c4e961a992de6e754894f98386f6.jpeg",
+            "channel": "TAUVOD",
+            "duration": "45:50",
+            "platform": "YouTube",
+            "date": "25 בנוב׳ 2010"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "גנום - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%92%D7%A0%D7%95%D7%9D",
+            "displayed_link": "https://he.wikipedia.org › wiki › גנום",
+            "snippet": "אם התכוונתם למשמעות אחרת, ראו גנום (פירושונים). בביולוגיה, גֵּנוֹם (בעברית: מִכְלוֹל הַגֵּנִים) הוא השם הניתן לרוב לכלל המידע התורשתי באורגניזם המקודד ...",
+            "snippet_highlighted_words": [
+                "גנום",
+                "גֵּנוֹם"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "גנום האדם",
+                        "link": "https://he.wikipedia.org/wiki/%D7%92%D7%A0%D7%95%D7%9D_%D7%94%D7%90%D7%93%D7%9D"
+                    },
+                    {
+                        "title": "פרויקט גנום האדם",
+                        "link": "https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%D7%92%D7%A0%D7%95%D7%9D_%D7%94%D7%90%D7%93%D7%9D"
+                    },
+                    {
+                        "title": "גנום מיטוכונדרי",
+                        "link": "https://he.wikipedia.org/wiki/%D7%92%D7%A0%D7%95%D7%9D_%D7%9E%D7%99%D7%98%D7%95%D7%9B%D7%95%D7%A0%D7%93%D7%A8%D7%99"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "גנום האדם - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%92%D7%A0%D7%95%D7%9D_%D7%94%D7%90%D7%93%D7%9D",
+            "displayed_link": "https://he.wikipedia.org › wiki › גנום_האדם",
+            "thumbnail": "https://serpapi.com/searches/629e3ddc8e02e44eaaff8245/images/c4f4da9131a3f8324fa49e35a419e3e11b9977a2063260811db311116a83a290.jpeg",
+            "snippet": "גנום האדם הוא הגנום (סך כל המידע התורשתי) של מין האדם (Homo Sapiens)."
+        },
+        {
+            "position": 3,
+            "title": "מיפוי הגנום האנושי הושלם, אבל הדרך ארוכה לפענוח מלא שלו - גלובס",
+            "link": "https://www.globes.co.il/news/article.aspx?did=1001408633",
+            "displayed_link": "https://www.globes.co.il › הייטק ומדע",
+            "date": "8 באפר׳ 2022",
+            "snippet": "מטרת פרויקט הגנום האנושי הייתה לקרוא את סדר האותיות שבהן כתוב גנום של אדם אחד בריא. אנחנו רחוקים עדיין מהידיעה כיצד לתרגם את השפה הזאת.",
+            "snippet_highlighted_words": [
+                "הגנום",
+                "גנום"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "פרויקט הגנום האנושי פיענח רק 92% מהדנ\"א – עכשיו מדענים ... - הידען",
+            "link": "https://www.hayadan.org.il/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98-%D7%94%D7%92%D7%A0%D7%95%D7%9D-%D7%94%D7%90%D7%A0%D7%95%D7%A9%D7%99-%D7%A4%D7%99%D7%A2%D7%A0%D7%97-%D7%A8%D7%A7-92-%D7%9E%D7%94%D7%93%D7%A0%D7%90",
+            "displayed_link": "https://www.hayadan.org.il › פרויקט-הגנום-האנושי-פיענח-רק...",
+            "date": "5 באפר׳ 2022",
+            "snippet": "רק 1% מהגנום האנושי מכיל גנים המקודדים לחלבונים וכמעט מחצית הגנום מכילה גנים ... אני ביולוג גנום שחוקר רצפי דנ\"א חוזרניים וכיצד הם מעצבים את ...",
+            "snippet_highlighted_words": [
+                "מהגנום",
+                "הגנום",
+                "גנום"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "בקשר לגנום… | ביואינפורמטיקה - Weizmann Institute of Science",
+            "link": "https://stwww1.weizmann.ac.il/bioinformatics/genome/",
+            "displayed_link": "https://stwww1.weizmann.ac.il › ... › פרוייקט הגנום",
+            "snippet": "בקשר לגנום… מה זה גנום? גנום הוא החומר התורשתי של אורגניזם מסוים. הגנום הוא הדרך שבה מאוחסנות בכל תא ההוראות, שהאורגניזם זקוק להן לבנייה ...",
+            "snippet_highlighted_words": [
+                "לגנום",
+                "גנום",
+                "גנום",
+                "הגנום"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "מה זה גנום - מילון עברי עברי",
+            "link": "https://milog.co.il/%D7%92%D7%A0%D7%95%D7%9D",
+            "displayed_link": "https://milog.co.il › גנום",
+            "snippet": "בביולוגיה, גֵּנוֹם הוא השם הניתן לרוב לכלל המידע התורשתי באורגניזם המקודד ב⁻DNA . חומר זה כולל גם מידע אשר מקודד לחלבונים וגם מידע שאינו מקודד.",
+            "snippet_highlighted_words": [
+                "גֵּנוֹם"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "עכשיו זה רשמי: אחרי יותר מ-30 שנות עבודה, הושלם פענוח הגנום ...",
+            "link": "https://www.haaretz.co.il/science/genome/2022-03-31/ty-article-magazine/.premium/00000180-5bc9-d615-a9bf-dfd937780000",
+            "displayed_link": "https://www.haaretz.co.il › ty-article-magazine › .premium",
+            "snippet": "הגנום המלא נקרא T2T-CHM13. הוא יחליף את גנום הייחוס הנוכחי, GRCh38, בו משתמשים כיום רופאים או חוקרות כשהם מחפשים למשל מוטציות הקשורות למחלות ...",
+            "snippet_highlighted_words": [
+                "הגנום",
+                "גנום"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "במרץ": 31
+                    },
+                    "extensions": [
+                        "31 במרץ 2022",
+                        "הועלה על",
+                        "ידי גדעון לב"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "גנום - חדשות, ידיעות מהארץ והעולם - עיתון הארץ",
+            "link": "https://www.haaretz.co.il/science/genome",
+            "displayed_link": "https://www.haaretz.co.il › science › genome",
+            "snippet": "גנום - כל חדשות היום - הידיעות והחדשות בעיתון הארץ . סקופים, מאמרים, פרשנויות ותחקירי עומק בעיתון האיכותי בישראל.",
+            "snippet_highlighted_words": [
+                "גנום"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "גנום - – המכלול",
+            "link": "https://www.hamichlol.org.il/%D7%92%D7%A0%D7%95%D7%9D",
+            "displayed_link": "https://www.hamichlol.org.il › גנום",
+            "snippet": "אם התכוונתם למשמעות אחרת, ראו גנום (פירושונים). בביולוגיה, גֵּנוֹם (בעברית: מִכְלוֹל הַגֵּנִים) הוא השם הניתן לרוב לכלל המידע התורשתי באורגניזם המקודד ...",
+            "snippet_highlighted_words": [
+                "גנום",
+                "גֵּנוֹם"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "גנום פירוש",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%92%D7%A0%D7%95%D7%9D+%D7%A4%D7%99%D7%A8%D7%95%D7%A9&sa=X&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "פיצוח הגנום האנושי",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%99%D7%A6%D7%95%D7%97+%D7%94%D7%92%D7%A0%D7%95%D7%9D+%D7%94%D7%90%D7%A0%D7%95%D7%A9%D7%99&sa=X&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "מה ההבדל בין גן לגנום",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%94+%D7%94%D7%94%D7%91%D7%93%D7%9C+%D7%91%D7%99%D7%9F+%D7%92%D7%9F+%D7%9C%D7%92%D7%A0%D7%95%D7%9D&sa=X&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "47 כרומוזומים",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=47+%D7%9B%D7%A8%D7%95%D7%9E%D7%95%D7%96%D7%95%D7%9E%D7%99%D7%9D&sa=X&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "כרומוזום הגדרה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9B%D7%A8%D7%95%D7%9E%D7%95%D7%96%D7%95%D7%9D+%D7%94%D7%92%D7%93%D7%A8%D7%94&sa=X&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "הגנום האנושי",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%94%D7%92%D7%A0%D7%95%D7%9D+%D7%94%D7%90%D7%A0%D7%95%D7%A9%D7%99&sa=X&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "ריצוף גנום",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A8%D7%99%D7%A6%D7%95%D7%A3+%D7%92%D7%A0%D7%95%D7%9D&sa=X&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ1QJ6BAghEAE"
+        },
+        {
+            "query": "כרומוזום אחד יותר",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9B%D7%A8%D7%95%D7%9E%D7%95%D7%96%D7%95%D7%9D+%D7%90%D7%97%D7%93+%D7%99%D7%95%D7%AA%D7%A8&sa=X&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ1QJ6BAgdEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&ei=3D2eYrLVHq-kqtsP8YiJqAc&start=10&sa=N&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&ei=3D2eYrLVHq-kqtsP8YiJqAc&start=10&sa=N&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&ei=3D2eYrLVHq-kqtsP8YiJqAc&start=20&sa=N&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&ei=3D2eYrLVHq-kqtsP8YiJqAc&start=30&sa=N&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&ei=3D2eYrLVHq-kqtsP8YiJqAc&start=40&sa=N&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&ei=3D2eYrLVHq-kqtsP8YiJqAc&start=50&sa=N&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&ei=3D2eYrLVHq-kqtsP8YiJqAc&start=60&sa=N&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&ei=3D2eYrLVHq-kqtsP8YiJqAc&start=70&sa=N&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&ei=3D2eYrLVHq-kqtsP8YiJqAc&start=80&sa=N&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D7%92%D7%A0%D7%95%D7%9D&hl=iw&gl=il&ei=3D2eYrLVHq-kqtsP8YiJqAc&start=90&sa=N&ved=2ahUKEwiys7ebsZn4AhUvkmoFHXFEAnUQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%A0%D7%95%D7%9D&start=90"
+        }
+    }
+}

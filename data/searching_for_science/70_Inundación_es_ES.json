@@ -1,0 +1,295 @@
+{
+    "search_metadata": {
+        "id": "627cffd4c47d3c493ab7eca6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2f622f4d2bfbba48/627cffd4c47d3c493ab7eca6.json",
+        "created_at": "2022-05-12 12:38:44 UTC",
+        "processed_at": "2022-05-12 12:38:44 UTC",
+        "google_url": "https://www.google.com/search?q=Inundaci%C3%B3n&oq=Inundaci%C3%B3n&uule=w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=&hl=es&gl=ES&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/2f622f4d2bfbba48/627cffd4c47d3c493ab7eca6.html",
+        "total_time_taken": 5.15
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Inundación",
+        "uule": "w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "ES",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Inundación",
+        "total_results": 16700000,
+        "time_taken_displayed": 0.52
+    },
+    "knowledge_graph": {
+        "title": "Inundación",
+        "description": "Una inundación es la ocupación por parte del agua de zonas que habitualmente están libres de esta, ​ por desbordamiento de ríos, torrentes o ramblas, por lluvias torrenciales, deshielo, por subida de las mareas por encima del nivel habitual, por maremotos, huracanes, entre otros.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://es.wikipedia.org/wiki/Inundaci%C3%B3n"
+        },
+        "también_se_buscó": [
+            {
+                "name": "Sequía",
+                "link": "https://www.google.com/search?hl=es&gl=ES&q=Sequ%C3%ADa&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZeiEYAyHr56EluLRnKOcaAiJwzPA61leS5bkMYxs2xYJbLXf9CokO34hjBcciTJ9qwxJZxb3jCYnV4_kZqJB2sLTTbez8DqAoW9Mj99PohH40J2tNKpoo9DIu_i2hKZ4YVk44T3u1o9LPR3bqymRlthasabV6iD48jrVOE2ddRxSMwqtB_AggZwVmY1bgJQs1rdGJ1k-JH7Emim2IU7X3eY01FwuNkEYZkiCgZElJmo7NNRJQ%3D%3D&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQxA16BAhoEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZeiEYAyHr56EluLRnKOcaAiJwzPA61leS5bkMYxs2xYJbLXf9CokO34hjBcciTJ9qwxJZxb3jCYnV4_kZqJB2sLTTbez8DqAoW9Mj99PohH40J2tNKpoo9DIu_i2hKZ4YVk44T3u1o9LPR3bqymRlthasabV6iD48jrVOE2ddRxSMwqtB_AggZwVmY1bgJQs1rdGJ1k-JH7Emim2IU7X3eY01FwuNkEYZkiCgZElJmo7NNRJQ%3D%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffd4c47d3c493ab7eca6/images/6fa8fe5dd4957d7f8cea6caf2723ac12b91222539d19cb8e47158c5284eac0af4eeb9fc45cd6796fa2686d4583143bf0.jpeg"
+            },
+            {
+                "name": "Tormenta",
+                "link": "https://www.google.com/search?hl=es&gl=ES&q=Tormenta&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZXDKOeXi92dlNomEwefxKG6acrjWVgOv57mZLMZVlDNT9iXbwYjZD3uHCpw6tYmLV2X9Ku4UhtcacEngD-KNiMk-ynBmId5-b87SuXpcS1JapUVcrD2X8UAGhINPsiHpX6VZWfAYb4kv4IeTlT_pMneJRwq8vWfLZP39mgumA1Zb7KJzv6fWau-67__2Rk-9li4vIS4IGntX01Rz50IxZWDwk8yY7TqTxiZBDbu_GwQeSC8W4Q0XmgpnvTGSpJTCg19rbA%3D&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQxA16BAhoEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Tormenta&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZXDKOeXi92dlNomEwefxKG6acrjWVgOv57mZLMZVlDNT9iXbwYjZD3uHCpw6tYmLV2X9Ku4UhtcacEngD-KNiMk-ynBmId5-b87SuXpcS1JapUVcrD2X8UAGhINPsiHpX6VZWfAYb4kv4IeTlT_pMneJRwq8vWfLZP39mgumA1Zb7KJzv6fWau-67__2Rk-9li4vIS4IGntX01Rz50IxZWDwk8yY7TqTxiZBDbu_GwQeSC8W4Q0XmgpnvTGSpJTCg19rbA%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffd4c47d3c493ab7eca6/images/6fa8fe5dd4957d7f8cea6caf2723ac12b91222539d19cb8e47158c5284eac0af96586a6b3206ed0e796eab3f328a7256.jpeg"
+            },
+            {
+                "name": "Tornado",
+                "link": "https://www.google.com/search?hl=es&gl=ES&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZk2o2qxoXvNom6G_PS1OcQST04Cvfcnp_u9XjWOkAyPm_TLzXmM9XiQfUzjKZVLwV43PF0I6iwF98ELQLbqWxUoX8GzR0fggl_4YMd9CMCgBnA8cXRlZGZ8Z2ZGSUA3W0dZnX1xA%3D%3D&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQxA16BAhoEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZk2o2qxoXvNom6G_PS1OcQST04Cvfcnp_u9XjWOkAyPm_TLzXmM9XiQfUzjKZVLwV43PF0I6iwF98ELQLbqWxUoX8GzR0fggl_4YMd9CMCgBnA8cXRlZGZ8Z2ZGSUA3W0dZnX1xA%3D%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffd4c47d3c493ab7eca6/images/6fa8fe5dd4957d7f8cea6caf2723ac12b91222539d19cb8e47158c5284eac0af275fcefac42e6eda00b2b5c31167f909.jpeg"
+            },
+            {
+                "name": "Desastre natural",
+                "link": "https://www.google.com/search?hl=es&gl=ES&q=Desastre+natural&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQFcAPhnZOLOpzm99jjgiSHKHTXFJDxS6dmA1ai7Snacrx7GquOhy1iwFD3lTDF2oDCwMFOIHb_XKuOHCbNxQ-R01E30ERAVdgf75P9WfdON0zI0DRDmgrJesIsPHu-uXFV_oziKskh0TuiXjNbQ_x3xX0phyzUan36xc_MAaPFSLH1uA8-UynUBseTvPVdLYHvvxO055pW6cFstxU2dlA1xzqtlCyJDode-ttsmb0LW53jiXQmaf0VNlvwwIvsGleukx1U%3D&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQxA16BAhoEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Desastre+natural&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQFcAPhnZOLOpzm99jjgiSHKHTXFJDxS6dmA1ai7Snacrx7GquOhy1iwFD3lTDF2oDCwMFOIHb_XKuOHCbNxQ-R01E30ERAVdgf75P9WfdON0zI0DRDmgrJesIsPHu-uXFV_oziKskh0TuiXjNbQ_x3xX0phyzUan36xc_MAaPFSLH1uA8-UynUBseTvPVdLYHvvxO055pW6cFstxU2dlA1xzqtlCyJDode-ttsmb0LW53jiXQmaf0VNlvwwIvsGleukx1U%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffd4c47d3c493ab7eca6/images/6fa8fe5dd4957d7f8cea6caf2723ac12b91222539d19cb8e47158c5284eac0afca099f73bec110f320e5e1ffbd8e9163.jpeg"
+            }
+        ],
+        "también_se_buscó_link": "https://www.google.com/search?hl=es&gl=ES&q=Inundaci%C3%B3n&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVOCs7QEgzNTUssTK4v9UitKgktSC4oXsXJ75pXmpSQmZx7enLeDlREAGENBOzoAAAA&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQMSgAegQIaBAB",
+        "también_se_buscó_stick": "H4sIAAAAAAAAAONgFuLQz9U3SEkqKVOCs7QEgzNTUssTK4v9UitKgktSC4oXsXJ75pXmpSQmZx7enLeDlREAGENBOzoAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Las fuertes lluvias en Madrid provocan inundaciones en ...",
+            "link": "https://www.youtube.com/watch?v=9qTx9zn-cgE",
+            "thumbnail": "https://serpapi.com/searches/627cffd4c47d3c493ab7eca6/images/37b9dbf3230450f50eb92fde9105858abccce62ae7d5997525314a1b0937ff84.jpeg",
+            "channel": "La Vanguardia",
+            "duration": "4:37",
+            "platform": "YouTube",
+            "date": "1 sept 2021"
+        },
+        {
+            "position": 2,
+            "title": "ÚLTIMA HORA: ¡Diluvio en España! Inundación HISTÓRICA ...",
+            "link": "https://www.youtube.com/watch?v=ScTReHcQ55s",
+            "thumbnail": "https://serpapi.com/searches/627cffd4c47d3c493ab7eca6/images/37b9dbf3230450f530910b6cefc4821e97e13f20484c76d8903dcc6808e344e2.jpeg",
+            "channel": "Música Cristiana TV",
+            "duration": "8:03",
+            "platform": "YouTube",
+            "date": "11 dic 2021"
+        },
+        {
+            "position": 3,
+            "title": "Las fuertes tormentas en Madrid provocan inundaciones en ...",
+            "link": "https://www.youtube.com/watch?v=_DqMINzww10",
+            "thumbnail": "https://serpapi.com/searches/627cffd4c47d3c493ab7eca6/images/37b9dbf3230450f5f64bdd224a8ba328b7c258dff30d3f8b3ea2c44445e2a9f9.jpeg",
+            "channel": "El Mundo",
+            "duration": "1:02",
+            "platform": "YouTube",
+            "date": "1 sept 2021"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "¿Qué son las inundaciones y cómo se originan?",
+            "snippet": "¿Qué es una inundación? Fenómeno natural que se presenta cuando el agua sube mucho su nivel en los ríos, lagunas, lagos y mar; entonces, cubre o llena zonas de tierra que normalmente son secas. No tomar agua que no sea potable, y antes de beberla se la debe hervir o filtrar.",
+            "title": "Preguntas y algo mas sobre: Inundaciones - Eird",
+            "link": "https://www.eird.org/fulltext/ABCDesastres/teoria/preguntas/inundaciones.htm",
+            "displayed_link": "https://www.eird.org › fulltext › ABCDesastres › teoria › i..."
+        },
+        {
+            "question": "¿Qué son las inundaciones causas y consecuencias?",
+            "snippet": "Una inundación es la ocupación por parte del agua de zonas o regiones que habitualmente se encuentran secas. Normalmente es consecuencia de la aportación inusual y más o menos repentina de una cantidad de agua superior a la que puede drenar el propio cauce del río, aunque no siempre es este el motivo.",
+            "title": "¿QUÉ SON LAS INUNDACIONES? | - Floodup",
+            "link": "http://www.floodup.ub.edu/inundaciones/",
+            "displayed_link": "http://www.floodup.ub.edu › inundaciones"
+        },
+        {
+            "question": "¿Que hacer una inundación?",
+            "snippet": "Lleve adentro las cosas que tenga afuera (muebles de jardín, parrillas, botes de basura) o amárrelas bien a un lugar fijo. Si parece necesario evacuar el lugar, corte el suministro de todos los servicios públicos desde el interruptor principal y cierre la válvula principal del gas.",
+            "title": "Consejos de seguridad en caso de inundación - Especiales CDC",
+            "link": "https://www.cdc.gov/spanish/nceh/especiales/inundaciones/index.html",
+            "displayed_link": "https://www.cdc.gov › nceh › especiales › inundaciones"
+        },
+        {
+            "question": "¿Cuáles son las consecuencias de las inundaciones?",
+            "snippet": "1- Destrucción poco severa y paulatina de viviendas e infraestructuras. 2- Afectaciones de difícil cuantificación. 3- Presencia de daños acumulativos no evidentes en el corto plazo, ni a simple vista. 4- Incremento de vulnerabilidades en viviendas afectadas según tipo de material.",
+            "title": "Efectos de las inundaciones en la ESTRUCTURA de las viviendas",
+            "link": "https://www.sheltercluster.org/sites/default/files/docs/Efectos%20de%20las%20inundaciones%20en%20el%20estado%20de%20las%20viviendas-%20final.pdf",
+            "displayed_link": "https://www.sheltercluster.org › sites › default › files › docs"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Una inundación es la ocupación por parte del agua de zonas que habitualmente están libres de esta,​ por desbordamiento de ríos, torrentes o ramblas, por lluvias torrenciales, deshielo, por subida de las mareas por encima del nivel habitual, por maremotos, huracanes, entre otros.",
+        "link": "https://es.wikipedia.org/wiki/Inundaci%C3%B3n#:~:text=Una%20inundaci%C3%B3n%20es%20la%20ocupaci%C3%B3n,maremotos%2C%20huracanes%2C%20entre%20otros.",
+        "displayed_link": "https://es.wikipedia.org › wiki › Inundación",
+        "snippet": "Una inundación es la ocupación por parte del agua de zonas que habitualmente están libres de esta,​ por desbordamiento de ríos, torrentes o ramblas, por lluvias torrenciales, deshielo, por subida de las mareas por encima del nivel habitual, por maremotos, huracanes, entre otros.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "¿QUÉ SON LAS INUNDACIONES? | - Floodup",
+            "link": "http://www.floodup.ub.edu/inundaciones/",
+            "displayed_link": "http://www.floodup.ub.edu › inundaciones",
+            "thumbnail": "https://serpapi.com/searches/627cffd4c47d3c493ab7eca6/images/f8e6bf70eaaedbe80a067c982329578ff0234e4478ce158bf561a924d1111953.jpeg",
+            "snippet": "Una inundación es la ocupación por parte del agua de zonas o regiones que habitualmente se encuentran secas. Normalmente es consecuencia de la aportación ...",
+            "snippet_highlighted_words": [
+                "inundación"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Inundaciones | Ready.gov",
+            "link": "https://www.ready.gov/es/inundaciones",
+            "displayed_link": "https://www.ready.gov › inundaciones",
+            "thumbnail": "https://serpapi.com/searches/627cffd4c47d3c493ab7eca6/images/f8e6bf70eaaedbe80a067c982329578f553bf15c56d8c469145cc8c856b76013.jpeg",
+            "date": "25 ene 2022",
+            "snippet": "Las inundaciones son desbordamientos de agua temporales hacia terrenos que normalmente están secos. Las inundaciones son el tipo de desastre ...",
+            "snippet_highlighted_words": [
+                "inundaciones",
+                "inundaciones"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Inundaciones - Telemadrid",
+            "link": "https://www.telemadrid.es/tag/Inundaciones/",
+            "displayed_link": "https://www.telemadrid.es › tag › Inundaciones",
+            "snippet": "Inundaciones · Lo que se debe hacer y lo que no si nuestro coche se ve atrapado en una inundación. Madrid activa el plan de emergencias ante posibles ...",
+            "snippet_highlighted_words": [
+                "Inundaciones",
+                "inundación"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "¿Qué es una inundación? | iAgua",
+            "link": "https://www.iagua.es/respuestas/que-es-inundacion",
+            "displayed_link": "https://www.iagua.es › iAgua Respuestas › Inundaciones",
+            "thumbnail": "https://serpapi.com/searches/627cffd4c47d3c493ab7eca6/images/f8e6bf70eaaedbe80a067c982329578f5c72545363df3ddb1158b8022cdc3278.jpeg",
+            "snippet": "Una inundación es la ocupación por parte del agua de zonas o regiones que habitualmente se encuentran secas, como consecuencia de la aportación inusual y más o ...",
+            "snippet_highlighted_words": [
+                "inundación"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Inundaciones en EL PAÍS",
+            "link": "https://elpais.com/noticias/inundaciones/",
+            "displayed_link": "https://elpais.com › noticias › inundaciones",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROjYUSZMKaNPzk3wi0h16Iqj0eERA9JzMj9_vXitsnFpKX6frbvbKvhhukkR50FQiXXyQB&s",
+            "snippet": "Todas las noticias sobre Inundaciones publicadas en EL PAÍS. Información, novedades y última hora sobre Inundaciones.",
+            "snippet_highlighted_words": [
+                "Inundaciones",
+                "Inundaciones"
+            ],
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROjYUSZMKaNPzk3wi0h16Iqj0eERA9JzMj9_vXitsnFpKX6frbvbKvhhukkR50FQiXXyQB&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkLPh_SX_SCTgstbJV0q8cMzAfu4bwgdol0hjTw6RTXpuWZx_bLHRRtaMAWGMHsQQQQ4&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_a42YpO8Vp53MAcju7sK4j4_AClX1Di8f5UvGqVu3BIG2CjvsJjEpWkCTl1CMTSCR33p&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvOIw0vsdokkVyMkof2vxGMN7v0sSzUhTGTSYIRIxsGRfNM_-UVvMduflYwsVpGNDmgYw&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9jQYHP_Hakqej-uhdECbSGhQEdfFqfzTBg1m1VgH7LL_jurA_QvQR_PwODtG9BHf1IVJ&s"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "inundación - sinónimos y antónimos - WordReference.com",
+            "link": "https://www.wordreference.com/sinonimos/inundaci%C3%B3n",
+            "displayed_link": "https://www.wordreference.com › sinonimos › inundaci...",
+            "snippet": "inundación. aluvión, crecida, anegación, desbordamiento, riada, avenida. Antónimos: sequía. invasión, avalancha, muchedumbre, multitud, abundancia.",
+            "snippet_highlighted_words": [
+                "inundación"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Inundación – SundanceTV España",
+            "link": "https://www.sundancetv.es/series/inundacion",
+            "displayed_link": "https://www.sundancetv.es › series › inundacion",
+            "snippet": "Inundación. Sobre la Serie. PAÍS. PAISES BAJOS. GÉNERO. Drama. SINOPSIS. ¿ ...",
+            "snippet_highlighted_words": [
+                "Inundación"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "inundación - Traducción al inglés – Linguee",
+            "link": "https://www.linguee.es/espanol-ingles/traduccion/inundaci%C3%B3n.html",
+            "displayed_link": "https://www.linguee.es › espanol-ingles › traduccion › i...",
+            "snippet": "A pesar de la fuerte lluvia, no hubo ninguna inundación. — Despite the heavy rain, there was no flooding. menos frecuente:.",
+            "snippet_highlighted_words": [
+                "inundación"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "inundación sinonimo",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Inundaci%C3%B3n+sinonimo&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ1QJ6BAhFEAE"
+        },
+        {
+            "query": "inundaciones españa",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Inundaciones+Espa%C3%B1a&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ1QJ6BAhAEAE"
+        },
+        {
+            "query": "inundaciones hoy",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Inundaciones+hoy&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ1QJ6BAg8EAE"
+        },
+        {
+            "query": "inundación rae",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Inundaci%C3%B3n+RAE&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "inundación serie",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Inundaci%C3%B3n+serie&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "inundación psicología",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Inundaci%C3%B3n+psicolog%C3%ADa&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "inundaciones causas",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Inundaciones+causas&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "consecuencias de las inundaciones",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Consecuencias+de+las+inundaciones&sa=X&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ1QJ6BAg1EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Inundaci%C3%B3n&hl=es&gl=ES&ei=1_98YrOqAY_L_QaThbaoCA&start=10&sa=N&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ8NMDegQIAhBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Inundaci%C3%B3n&hl=es&gl=ES&ei=1_98YrOqAY_L_QaThbaoCA&start=10&sa=N&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ8tMDegQIAhA_",
+            "3": "https://www.google.com/search?q=Inundaci%C3%B3n&hl=es&gl=ES&ei=1_98YrOqAY_L_QaThbaoCA&start=20&sa=N&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ8tMDegQIAhBB",
+            "4": "https://www.google.com/search?q=Inundaci%C3%B3n&hl=es&gl=ES&ei=1_98YrOqAY_L_QaThbaoCA&start=30&sa=N&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ8tMDegQIAhBD",
+            "5": "https://www.google.com/search?q=Inundaci%C3%B3n&hl=es&gl=ES&ei=1_98YrOqAY_L_QaThbaoCA&start=40&sa=N&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ8tMDegQIAhBF",
+            "6": "https://www.google.com/search?q=Inundaci%C3%B3n&hl=es&gl=ES&ei=1_98YrOqAY_L_QaThbaoCA&start=50&sa=N&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ8tMDegQIAhBH",
+            "7": "https://www.google.com/search?q=Inundaci%C3%B3n&hl=es&gl=ES&ei=1_98YrOqAY_L_QaThbaoCA&start=60&sa=N&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ8tMDegQIAhBJ",
+            "8": "https://www.google.com/search?q=Inundaci%C3%B3n&hl=es&gl=ES&ei=1_98YrOqAY_L_QaThbaoCA&start=70&sa=N&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ8tMDegQIAhBL",
+            "9": "https://www.google.com/search?q=Inundaci%C3%B3n&hl=es&gl=ES&ei=1_98YrOqAY_L_QaThbaoCA&start=80&sa=N&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ8tMDegQIAhBN",
+            "10": "https://www.google.com/search?q=Inundaci%C3%B3n&hl=es&gl=ES&ei=1_98YrOqAY_L_QaThbaoCA&start=90&sa=N&ved=2ahUKEwjz8bq2_dn3AhWPZd8KHZOCDYUQ8tMDegQIAhBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=20&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=30&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=40&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=50&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=60&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=70&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=80&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=90&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D"
+        }
+    }
+}

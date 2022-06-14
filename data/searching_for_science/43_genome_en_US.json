@@ -1,0 +1,527 @@
+{
+    "search_metadata": {
+        "id": "629e3dc74b91eb079f07430b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8f245b2edcfb066d/629e3dc74b91eb079f07430b.json",
+        "created_at": "2022-06-06 17:47:51 UTC",
+        "processed_at": "2022-06-06 17:47:51 UTC",
+        "google_url": "https://www.google.com/search?q=genome&oq=genome&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/8f245b2edcfb066d/629e3dc74b91eb079f07430b.html",
+        "total_time_taken": 0.94
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "genome",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "genome",
+        "total_results": 537000000,
+        "time_taken_displayed": 0.62
+    },
+    "knowledge_graph": {
+        "title": "Genome",
+        "header_images": [
+            {
+                "source": "https://www.biologyonline.com/dictionary/genome"
+            },
+            {
+                "source": "https://theconversation.com/the-human-genome-project-pieced-together-only-92-of-the-dna-now-scientists-have-finally-filled-in-the-remaining-8-176138"
+            },
+            {
+                "source": "https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics"
+            },
+            {
+                "source": "https://www.genome.gov/genetics-glossary/Genome"
+            },
+            {
+                "source": "https://www.genome.gov/About-Genomics/Introduction-to-Genomics"
+            },
+            {
+                "source": "https://sitn.hms.harvard.edu/flash/2014/genes-or-junk-measuring-the-functional-genome/"
+            }
+        ],
+        "description": "In the fields of molecular biology and genetics, a genome is all genetic information of an organism. It consists of nucleotide sequences of DNA. The nuclear genome includes protein-coding genes and non-coding genes, the other functional regions of the genome, and any junk DNA if it is present.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Genome"
+        },
+        "genome_books": [
+            {
+                "name": "Genome: The Autobiog...",
+                "link": "https://www.google.com/search?q=Genome+(book)&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1LiBLGMcoyrjLVEspOt9JPzc3Pz86xS8svzyhOLUopXMbI65ednFy9i5XVPzcvPTVXQSALyNXewMgIAKMyusEgAAAA&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQxA16BAhbEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Genome+%28book%29&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1LiBLGMcoyrjLVEspOt9JPzc3Pz86xS8svzyhOLUopXMbI65ednFy9i5XVPzcvPTVXQSALyNXewMgIAKMyusEgAAAA",
+                "image": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/1d565ff6cbf28a936f7d0128a636c6acc3d67d1f8e89ecc46b54768d7fde4362f18832b3e9251313.jpeg"
+            },
+            {
+                "name": "The $1,000 Genome...",
+                "link": "https://www.google.com/search?q=The+%241,000+Genome:+The+Revolution+in+DNA+Sequencing+and+the+New+Era+of+Personalized+Medicine+Kevin+Davies&stick=H4sIAAAAAAAAABXLPQrCQBBAYYIEUliJBxjESoTdkEJMpygWYhC1l3V3jEuSGczmRz2OpSfweMb28b2gNwhEIWQ0O19GfZGKMIweupqHz8kw07HQXBRMseGWWlUa9_H8JXPm3r493RDG4VRKCRskLjCGfzpgw3ldWSawBKtkAUe810jaUgqKDFQdSrCFdamAr7DH0jGp3L7QwA6N7SDCFpv_rRqL7ut7P47q51mnAAAA&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQxA16BAhbEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+%241%2C000+Genome%3A+The+Revolution+in+DNA+Sequencing+and+the+New+Era+of+Personalized+Medicine+Kevin+Davies&stick=H4sIAAAAAAAAABXLPQrCQBBAYYIEUliJBxjESoTdkEJMpygWYhC1l3V3jEuSGczmRz2OpSfweMb28b2gNwhEIWQ0O19GfZGKMIweupqHz8kw07HQXBRMseGWWlUa9_H8JXPm3r493RDG4VRKCRskLjCGfzpgw3ldWSawBKtkAUe810jaUgqKDFQdSrCFdamAr7DH0jGp3L7QwA6N7SDCFpv_rRqL7ut7P47q51mnAAAA",
+                "image": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/1d565ff6cbf28a936f7d0128a636c6acc3d67d1f8e89ecc42ad283e39d0983908e64aded58b7157e.jpeg"
+            },
+            {
+                "name": "The Genome Odyssey...",
+                "link": "https://www.google.com/search?q=The+Genome+Odyssey:+Medical+Mysteries+and+the+Incredible+Quest+to+Solve+Them&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1Li1U_XNzTMSMszjc9LN9QSyU620k_Oz83Nz7NKyS_PK08sSilexcjqlJ-fXbyI1SckI1XBPTUvPzdVwT-lsrg4tdJKwTc1JTM5MUfBt7K4JLUoM7VYITEvRaEEqNIzL7kIKJmUk6oQWJpaXKJQkq8QnJ9TlqoANCd3BysjAElT4A2LAAAA&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQxA16BAhbEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Genome+Odyssey%3A+Medical+Mysteries+and+the+Incredible+Quest+to+Solve+Them&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1Li1U_XNzTMSMszjc9LN9QSyU620k_Oz83Nz7NKyS_PK08sSilexcjqlJ-fXbyI1SckI1XBPTUvPzdVwT-lsrg4tdJKwTc1JTM5MUfBt7K4JLUoM7VYITEvRaEEqNIzL7kIKJmUk6oQWJpaXKJQkq8QnJ9TlqoANCd3BysjAElT4A2LAAAA",
+                "image": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/1d565ff6cbf28a936f7d0128a636c6acc3d67d1f8e89ecc4c48d784950916ea751566076f85c8c30.jpeg"
+            },
+            {
+                "name": "The Human Genome",
+                "link": "https://www.google.com/search?q=The+Human+Genome+R.+Scott+Hawley&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1Li1U_XNzRMq6rMqawqSNISyU620k_Oz83Nz7NKyS_PK08sSilexcjqlJ-fXbyIVSEkI1XBozQ3MU_BPTUvPzdVIUhPITg5v6REwSOxPCe1cgcrIwBhMKRMXwAAAA&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQxA16BAhbEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Human+Genome+R.+Scott+Hawley&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1Li1U_XNzRMq6rMqawqSNISyU620k_Oz83Nz7NKyS_PK08sSilexcjqlJ-fXbyIVSEkI1XBozQ3MU_BPTUvPzdVIUhPITg5v6REwSOxPCe1cgcrIwBhMKRMXwAAAA",
+                "image": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/1d565ff6cbf28a936f7d0128a636c6acc3d67d1f8e89ecc4bc614a8a9c87113759a01bb6f181a5f3.jpeg"
+            }
+        ],
+        "genome_species": [
+            {
+                "name": "Common fruit fly",
+                "link": "https://www.google.com/search?q=Drosophila+melanogaster&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1LiBLEMzZOKS7REspOt9JPzc3Pz86xS8svzyhOLUopXMQo6Zebn5KdnJifmBBekJmemFi9iFXcpyi_OL8jIzElUyE3NSczLT08sLkkt2sHKCACOzpaQXgAAAA&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQxA16BAhcEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Drosophila+melanogaster&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1LiBLEMzZOKS7REspOt9JPzc3Pz86xS8svzyhOLUopXMQo6Zebn5KdnJifmBBekJmemFi9iFXcpyi_OL8jIzElUyE3NSczLT08sLkkt2sHKCACOzpaQXgAAAA",
+                "image": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/1d565ff6cbf28a936f7d0128a636c6acdcb5df0e4ace901a5d5f27857b96076a500a2fce64fb2d6b.jpeg"
+            },
+            {
+                "name": "Human",
+                "link": "https://www.google.com/search?q=Homo+sapiens&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1LiBLFS0ssti7REspOt9JPzc3Pz86xS8svzyhOLUopXMQo6Zebn5KdnJifmBBekJmemFi9i5fHIz81XKE4syEzNK97ByggA_hx2EFMAAAA&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQxA16BAhcEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Homo+sapiens&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1LiBLFS0ssti7REspOt9JPzc3Pz86xS8svzyhOLUopXMQo6Zebn5KdnJifmBBekJmemFi9i5fHIz81XKE4syEzNK97ByggA_hx2EFMAAAA",
+                "image": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/1d565ff6cbf28a936f7d0128a636c6acdcb5df0e4ace901a14e20cb63c1d024d1801351360cf9c03.jpeg"
+            },
+            {
+                "name": "Brewer's yeast",
+                "link": "https://www.google.com/search?q=Saccharomyces+cerevisiae&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1LiBLEMszJMKrVEspOt9JPzc3Pz86xS8svzyhOLUopXMQo6Zebn5KdnJifmBBekJmemFi9ilQhOTE7OSCzKz61MTi1WSE4tSi3LLM5MTN3ByggAsD7hZF8AAAA&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQxA16BAhcEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Saccharomyces+cerevisiae&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1LiBLEMszJMKrVEspOt9JPzc3Pz86xS8svzyhOLUopXMQo6Zebn5KdnJifmBBekJmemFi9ilQhOTE7OSCzKz61MTi1WSE4tSi3LLM5MTN3ByggAsD7hZF8AAAA",
+                "image": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/1d565ff6cbf28a936f7d0128a636c6acdcb5df0e4ace901a4e4706341f5921d83aef867fb0b2c69d.jpeg"
+            },
+            {
+                "name": "Agrobacterium tumefaciens",
+                "link": "https://www.google.com/search?q=Agrobacterium+tumefaciens&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1LiBLGM4s3LzLREspOt9JPzc3Pz86xS8svzyhOLUopXMQo6Zebn5KdnJifmBBekJmemFi9ilXRML8pPSkwuSS3KLM1VKCnNTU1LBErlFe9gZQQA4uWhjmAAAAA&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQxA16BAhcEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Agrobacterium+tumefaciens&stick=H4sIAAAAAAAAAONgFuLQz9U3MDaPT1LiBLGM4s3LzLREspOt9JPzc3Pz86xS8svzyhOLUopXMQo6Zebn5KdnJifmBBekJmemFi9ilXRML8pPSkwuSS3KLM1VKCnNTU1LBErlFe9gZQQA4uWhjmAAAAA",
+                "image": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/1d565ff6cbf28a936f7d0128a636c6acdcb5df0e4ace901ae0334314a7dcb65d866c9b77aa34b672.jpeg"
+            }
+        ],
+        "see_results_about": [
+            {
+                "name": "Genomics",
+                "extensions": [
+                    "Field of study"
+                ],
+                "image": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/1d565ff6cbf28a936f7d0128a636c6ac127975613bf1ac636833984df013642577326ef3217928f59b80647a3b6b8ce5.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "What is a genome?",
+            "link": "https://www.youtube.com/watch?v=3fr4jBFs25s",
+            "thumbnail": "https://i.ytimg.com/vi/3fr4jBFs25s/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kW8n3t86S1csOFgZDjU5pAno7VWQ",
+            "channel": "Genomics Education Programme",
+            "duration": "2:02",
+            "platform": "YouTube",
+            "date": "Oct 24, 2018"
+        },
+        {
+            "position": 2,
+            "title": "DNA, genes and genomes",
+            "link": "https://www.youtube.com/watch?v=ictAm2wSwtY",
+            "thumbnail": "https://i.ytimg.com/vi/ictAm2wSwtY/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3k9lkJcqg2E7lIWuZ5bpzG4RZ95_Q",
+            "channel": "Garvan Institute of Medical Research",
+            "duration": "2:17",
+            "platform": "YouTube",
+            "date": "Feb 25, 2019"
+        },
+        {
+            "position": 3,
+            "title": "An Introduction to the Human Genome | HMX Genetics",
+            "link": "https://www.youtube.com/watch?v=jEJp7B6u_dY",
+            "thumbnail": "https://i.ytimg.com/vi/jEJp7B6u_dY/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nj8VEqpAMK-NGZ9m-hcXixh3vUlw",
+            "channel": "Harvard University",
+            "duration": "5:36",
+            "platform": "YouTube",
+            "date": "May 19, 2017"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "A New Kind of Genome Editing Is Here to Fine-Tune DNA",
+            "link": "https://www.wired.com/story/a-new-kind-of-genome-editing-is-here-to-fine-tune-dna/",
+            "source": "WIRED",
+            "date": "6 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5Ol7HPvlUEtVli3_2jqE2TzFprOUxZEJXa-6Maomtt1ksvID2fdfTuE&usqp=CAI&s"
+        },
+        {
+            "title": "Ultima Genomics Claims the $100 Genome and Raises $600M to Go Even Lower",
+            "link": "https://singularityhub.com/2022/06/05/ultima-genomics-claims-the-100-genome-and-raises-600m-to-go-even-lower/",
+            "source": "Singularity Hub",
+            "date": "1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HGf0v9w3_Ck35rfD4FqQK4pObskdXeCJFwhyGqjvvvG4JFusNVPBOgg&usqp=CAI&s"
+        },
+        {
+            "title": "Ultima Genomics Collaborates with NVIDIA To Deliver $100 Genome Sequencing with AI and Accelerated Computing",
+            "link": "https://finance.yahoo.com/news/ultima-genomics-collaborates-nvidia-deliver-160000683.html",
+            "source": "Yahoo Finance",
+            "date": "1 hour ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVCD36IiPscRhMwfGB8hjRyiuhBkbL2GheC8gz1L1D9OpZPEPoQ7DT_Sg&usqp=CAI&s"
+        },
+        {
+            "title": "Introducing Cantata Bio, Inventive Multimodal Solutions for Accelerating Genome-based R&D",
+            "link": "https://finance.yahoo.com/news/introducing-cantata-bio-inventive-multimodal-120000347.html",
+            "source": "Yahoo Finance",
+            "date": "5 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRr4g59O9n1i6ekrMMRxviCfDyHxL-fJHZ9H6My9gn69JOltb-NgiC0B3e&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?q=genome&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQt8YBegQIMRAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&tbm=nws",
+    "related_questions": [
+        {
+            "question": "Is a genome just DNA?",
+            "snippet": "A genome is all of the genetic material in an organism. It is made of DNA (or RNA in some viruses) and includes genes and other elements that control the activity of those genes.",
+            "title": "What are genes? What is a genome? Does everybody have the same ...",
+            "link": "https://www.nigms.nih.gov/education/Documents/Studying_genes_final.pdf",
+            "displayed_link": "https://www.nigms.nih.gov › Studying_genes_final"
+        },
+        {
+            "question": "How do you define a genome?",
+            "snippet": "Listen to pronunciation. (JEE-nome) The complete set of DNA (genetic material) in an organism. In people, almost every cell in the body contains a complete copy of the genome.",
+            "title": "Definition of genome - NCI Dictionary of Cancer Terms",
+            "link": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/genome",
+            "displayed_link": "https://www.cancer.gov › dictionaries › cancer-terms › def"
+        },
+        {
+            "question": "What is a genome vs DNA?",
+            "snippet": "A genome is an organism's complete set of DNA. If the DNA code is a set of instructions that's carefully organised into paragraphs (genes) and chapters (chromosomes), then the entire manual from start to finish would be the genome.May 29, 2018",
+            "title": "“What's the difference between the words genome, gene and ...",
+            "link": "https://news.cancerresearchuk.org/2018/05/29/science-surgery-whats-the-difference-between-the-words-genome-gene-and-chromosome/",
+            "displayed_link": "https://news.cancerresearchuk.org › 2018/05/29 › science-..."
+        },
+        {
+            "question": "What is an example of a genome?",
+            "snippet": "An example of a genome is what determines the physical characteristics of a person. The total genetic content contained in a haploid set of chromosomes in eukaryotes, in a single chromosome in bacteria or archaea, or in the DNA or RNA of viruses.",
+            "title": "Best 9 Definitions of Genome - YourDictionary",
+            "link": "https://www.yourdictionary.com/genome",
+            "displayed_link": "https://www.yourdictionary.com › genome"
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "ge·nome",
+        "word_type": "noun",
+        "definitions": [
+            "the haploid set of chromosomes in a gamete or microorganism, or in each cell of a multicellular organism.",
+            "the complete set of genes or genetic material present in a cell or organism."
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Definition - National Human Genome Research Institute",
+            "link": "https://www.genome.gov/genetics-glossary/Genome",
+            "displayed_link": "https://www.genome.gov › genetics-glossary › Genome",
+            "date": "3 days ago",
+            "snippet": "The genome is the entire set of DNA instructions found in a cell. In humans, the genome consists of 23 pairs of chromosomes located in the ...",
+            "snippet_highlighted_words": [
+                "genome",
+                "genome"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Human Genome Research Institute is an institute of the National Institutes of Health, located in Bethesda, Maryland.\nNHGRI began as the Office of Human Genome Research in The Office of the Director in 1988.",
+                    "icon": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/27fa74cb3787dc362685917b5c376ad7bf5d6a46d05370ec8dc4d2ec5a0ddab1f3d5cc39eaadadb4a9b51aa806c8454e.png"
+                },
+                "keywords": [
+                    "genome"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.genome.gov/genetics-glossary/Genome&tbm=ilp&ilps=ADNMCi2tGBfHHxVvydcB6_2H8_D61j-7eQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Gfomut7ioRgJ:https://www.genome.gov/genetics-glossary/Genome+&cd=10&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "National Human Genome Research Institute Home | NHGRI",
+                    "link": "https://www.genome.gov/",
+                    "displayed_link": "https://www.genome.gov",
+                    "snippet": "Official website of the National Human Genome Research Institute. The Forefront of Genomics.",
+                    "snippet_highlighted_words": [
+                        "Genome"
+                    ],
+                    "about_this_result": {
+                        "source": {
+                            "description": "The National Human Genome Research Institute is an institute of the National Institutes of Health, located in Bethesda, Maryland.\nNHGRI began as the Office of Human Genome Research in The Office of the Director in 1988.",
+                            "icon": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/27fa74cb3787dc362685917b5c376ad7395ea8bb920b6cc39a4c4adb11c343f801a6085aabb44201f22ad041a578d82b41be84b92f1ca4aacc12bcc74d8ee2f7555ffa80f4cdf5ec.png"
+                        },
+                        "keywords": [
+                            "genome"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.genome.gov/&tbm=ilp&ilps=ADNMCi0ohM6QQx5OE8DfWFlagBALdc7VnA",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DncHxzPKSf8J:https://www.genome.gov/+&cd=11&hl=en&ct=clnk&gl=us",
+                    "related_pages_link": "https://www.google.com/search?q=related:https://www.genome.gov/+genome"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Genome - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Genome",
+            "displayed_link": "https://en.wikipedia.org › wiki › Genome",
+            "snippet": "In the fields of molecular biology and genetics, a genome is all genetic information of an organism. ... It consists of nucleotide sequences of DNA (or RNA in RNA ...",
+            "snippet_highlighted_words": [
+                "genome"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Genome size",
+                        "link": "https://en.wikipedia.org/wiki/Genome_size"
+                    },
+                    {
+                        "title": "Whole genome sequencing",
+                        "link": "https://en.wikipedia.org/wiki/Whole_genome_sequencing"
+                    },
+                    {
+                        "title": "Genome project",
+                        "link": "https://en.wikipedia.org/wiki/Genome_project"
+                    },
+                    {
+                        "title": "Bacterial genome",
+                        "link": "https://en.wikipedia.org/wiki/Bacterial_genome"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/27fa74cb3787dc362685917b5c376ad7f21ac19ac9898dc09a66b8516ea00c5cb80a7bf913af9821867d325f13f8d111.png"
+                },
+                "keywords": [
+                    "genome"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Genome&tbm=ilp&ilps=ADNMCi3uDzn4TtMS1dOYZs1sxfpPFapHuA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GLSszLewC2QJ:https://en.wikipedia.org/wiki/Genome+&cd=12&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Genome+genome"
+        },
+        {
+            "position": 3,
+            "title": "Home - Genome - NCBI",
+            "link": "https://www.ncbi.nlm.nih.gov/genome/",
+            "displayed_link": "https://www.ncbi.nlm.nih.gov › ... › Genomes & Maps",
+            "snippet": "This resource organizes information on genomes including sequences, maps, chromosomes, assemblies, and annotations.",
+            "snippet_highlighted_words": [
+                "genomes"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Center for Biotechnology Information is part of the United States National Library of Medicine, a branch of the National Institutes of Health. It is approved and funded by the government of the United States.",
+                    "icon": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/27fa74cb3787dc362685917b5c376ad72f2a73bc5977f380bb967e535e56172b8c2ea02f1959eb287f491086a397b57a.png"
+                },
+                "keywords": [
+                    "genome"
+                ],
+                "related_keywords": [
+                    "genomes"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ncbi.nlm.nih.gov/genome/&tbm=ilp&ilps=ADNMCi25JTlTcfLGWIPU0es2eerNCmLbaw",
+            "cached_page_link": "/search?q=related:https://www.ncbi.nlm.nih.gov/genome/+genome"
+        },
+        {
+            "position": 4,
+            "title": "genome | Learn Science at Scitable - Nature",
+            "link": "https://www.nature.com/scitable/definition/genome-43/",
+            "displayed_link": "https://www.nature.com › scitable › definition › genome-43",
+            "snippet": "A genome is the complete set of genetic information in an organism. It provides all of the information the organism requires to function.",
+            "snippet_highlighted_words": [
+                "genome"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Nature is a British weekly scientific journal founded and based in London, England. As a multidisciplinary publication, Nature features peer-reviewed research from a variety of academic disciplines, mainly in science and technology.",
+                    "icon": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/27fa74cb3787dc362685917b5c376ad7ec655c6c32a350d98927c84de6e4947a9301c69b1cba97fb11243f267ec51ae4.png"
+                },
+                "keywords": [
+                    "genome"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nature.com/scitable/definition/genome-43/&tbm=ilp&ilps=ADNMCi3HK6DevOwcl289LSmz7XLI6YNEoQ"
+        },
+        {
+            "position": 5,
+            "title": "What is a genome? | Facts | yourgenome.org",
+            "link": "https://www.yourgenome.org/facts/what-is-a-genome",
+            "displayed_link": "https://www.yourgenome.org › facts › what-is-a-genome",
+            "date": "Jan 6, 2017",
+            "snippet": "A genome is an organism's complete set of genetic instructions. Each genome contains all of the information needed to build that organism ...",
+            "snippet_highlighted_words": [
+                "genome",
+                "genome"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "yourgenome.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/27fa74cb3787dc362685917b5c376ad7058219367d1e148c24fd7e59d7013cd1724607744dea1244c4bfed9ddb6ad270.png"
+                },
+                "keywords": [
+                    "genome"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.yourgenome.org/facts/what-is-a-genome&tbm=ilp&ilps=ADNMCi182Mh42efa7NXUvHfCAytpSpYM_Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HUtAKaBjj5sJ:https://www.yourgenome.org/facts/what-is-a-genome+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "The complete sequence of a human genome - Science",
+            "link": "https://www.science.org/doi/10.1126/science.abj6987",
+            "displayed_link": "https://www.science.org › doi › science.abj6987",
+            "snippet": "Since its initial release in 2000, the human reference genome has covered only the euchromatic fraction of the genome, leaving important heterochromatic ...",
+            "snippet_highlighted_words": [
+                "genome",
+                "genome"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "by S Nurk",
+                        "2022",
+                        "Cited by 184 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2022,
+                        "cited_by": 184
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Science, also widely referred to as Science Magazine, is the peer-reviewed academic journal of the American Association for the Advancement of Science and one of the world's top academic journals. It was first published in 1880, is currently circulated weekly and has a subscriber base of around 130,000.",
+                    "icon": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/27fa74cb3787dc362685917b5c376ad74c1abdfbd74951dcd52c76d2eb4de338046aa21de644a334aefd7e3b4aa32c87.png"
+                },
+                "keywords": [
+                    "genome"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.science.org/doi/10.1126/science.abj6987&tbm=ilp&ilps=ADNMCi0gVqE9cuIredNUaAq7yI5gv5wk_Q"
+        },
+        {
+            "position": 7,
+            "title": "Genome Research",
+            "link": "https://genome.cshlp.org/",
+            "displayed_link": "https://genome.cshlp.org",
+            "snippet": "An international, peer-reviewed genome sciences journal featuring outstanding original research that offers novel insights into the biology of all ...",
+            "snippet_highlighted_words": [
+                "genome"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Genome Research is a peer-reviewed scientific journal published by Cold Spring Harbor Laboratory Press. Disregarding review journals, Genome Research ranks 2nd in the category 'Genetics and Genomics' after Nature Genetics.",
+                    "icon": "https://serpapi.com/searches/629e3dc74b91eb079f07430b/images/27fa74cb3787dc362685917b5c376ad745b9e976bc4d417e9922853e20c5e13cdddbc01fd20fa8a84d6847cfb38b3abe.png"
+                },
+                "keywords": [
+                    "genome"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://genome.cshlp.org/&tbm=ilp&ilps=ADNMCi0ULKxVYQER9REVZe0ZVheUrywi8A"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "genome project",
+            "link": "https://www.google.com/search?q=Genome+Project&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ1QJ6BAhMEAE"
+        },
+        {
+            "query": "genome vs gene",
+            "link": "https://www.google.com/search?q=Genome+vs+gene&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ1QJ6BAhLEAE"
+        },
+        {
+            "query": "genome pronunciation",
+            "link": "https://www.google.com/search?q=Genome+pronunciation&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ1QJ6BAhKEAE"
+        },
+        {
+            "query": "genome example",
+            "link": "https://www.google.com/search?q=Genome+example&sa=X&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ1QJ6BAhJEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=genome&ei=xz2eYquYPPnFqtsPpcOe4A0&start=10&sa=N&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=genome&ei=xz2eYquYPPnFqtsPpcOe4A0&start=10&sa=N&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=genome&ei=xz2eYquYPPnFqtsPpcOe4A0&start=20&sa=N&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=genome&ei=xz2eYquYPPnFqtsPpcOe4A0&start=30&sa=N&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=genome&ei=xz2eYquYPPnFqtsPpcOe4A0&start=40&sa=N&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=genome&ei=xz2eYquYPPnFqtsPpcOe4A0&start=50&sa=N&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=genome&ei=xz2eYquYPPnFqtsPpcOe4A0&start=60&sa=N&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=genome&ei=xz2eYquYPPnFqtsPpcOe4A0&start=70&sa=N&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=genome&ei=xz2eYquYPPnFqtsPpcOe4A0&start=80&sa=N&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=genome&ei=xz2eYquYPPnFqtsPpcOe4A0&start=90&sa=N&ved=2ahUKEwjrl9ORsZn4AhX5omoFHaWhB9wQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=genome&start=90"
+        }
+    }
+}

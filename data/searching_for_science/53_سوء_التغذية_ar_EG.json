@@ -1,0 +1,322 @@
+{
+    "search_metadata": {
+        "id": "627cff6f437af2826657f015",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c5266c397c86625d/627cff6f437af2826657f015.json",
+        "created_at": "2022-05-12 12:37:03 UTC",
+        "processed_at": "2022-05-12 12:37:03 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&oq=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&uule=w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=&hl=ar&gl=EG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c5266c397c86625d/627cff6f437af2826657f015.html",
+        "total_time_taken": 0.68
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "سوء التغذية",
+        "uule": "w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "EG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "سوء التغذية",
+        "total_results": 5430000,
+        "time_taken_displayed": 0.49
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=WV6pbbMYNaJ3iM%252CR4-r0TvFtmNg-M%252C_%253BGn7UMadvg8nr6M%252C86bcSaoBq9AvPM%252C_%253BJiLCqF-rEj-oHM%252CPTp6wnyEmGKiHM%252C_%253B1kPSthBaHKYJCM%252CmYfjwWw1b1x4LM%252C_%253B13AN2CMhQi-6pM%252C09NXszJClfki2M%252C_%253BRsuAoNNwWZNNiM%252CqA4_zzDtonkEVM%252C_%253BpHPVwVemrAmLHM%252Clc_aS4o2baypHM%252C_%253BfDuxb3zgIBmQrM%252CGK2250IDWxq2UM%252C_%253BmMFqv4v9LohWCM%252CYpVRcIFyUAvjnM%252C_%253BtJ9b7a3enLbfGM%252CaKdGgYD30Bl_yM%252C_&usg=AI4_-kQiMq4UHmjnvVcqelb1cp7BdtO7FA&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ9QF6BAgyEAE#imgrc=WV6pbbMYNaJ3iM",
+            "source": "https://mawdoo3.com/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6_%D9%86%D8%A7%D8%AA%D8%AC%D8%A9_%D8%B9%D9%86_%D8%B3%D9%88%D8%A1_%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdY9m3tzOet2eKT6cJ7NA5kQqUSIM1k7e5sKrrK6C47A&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=WV6pbbMYNaJ3iM%252CR4-r0TvFtmNg-M%252C_%253BGn7UMadvg8nr6M%252C86bcSaoBq9AvPM%252C_%253BJiLCqF-rEj-oHM%252CPTp6wnyEmGKiHM%252C_%253B1kPSthBaHKYJCM%252CmYfjwWw1b1x4LM%252C_%253B13AN2CMhQi-6pM%252C09NXszJClfki2M%252C_%253BRsuAoNNwWZNNiM%252CqA4_zzDtonkEVM%252C_%253BpHPVwVemrAmLHM%252Clc_aS4o2baypHM%252C_%253BfDuxb3zgIBmQrM%252CGK2250IDWxq2UM%252C_%253BmMFqv4v9LohWCM%252CYpVRcIFyUAvjnM%252C_%253BtJ9b7a3enLbfGM%252CaKdGgYD30Bl_yM%252C_&usg=AI4_-kQiMq4UHmjnvVcqelb1cp7BdtO7FA&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ9QF6BAhCEAE#imgrc=Gn7UMadvg8nr6M",
+            "source": "https://www.alarabiya.net/medicine-and-health/2019/10/15/%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D9%85%D8%B3%D8%AA%D8%B4%D8%B1%D9%8A%D8%A9-%D9%88-%D8%B9%D8%A8%D8%A1-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF-",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjNB22xGX3-_f_nFvIq4Fre3nvaKpqRw0GHaRoKcrTPw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=WV6pbbMYNaJ3iM%252CR4-r0TvFtmNg-M%252C_%253BGn7UMadvg8nr6M%252C86bcSaoBq9AvPM%252C_%253BJiLCqF-rEj-oHM%252CPTp6wnyEmGKiHM%252C_%253B1kPSthBaHKYJCM%252CmYfjwWw1b1x4LM%252C_%253B13AN2CMhQi-6pM%252C09NXszJClfki2M%252C_%253BRsuAoNNwWZNNiM%252CqA4_zzDtonkEVM%252C_%253BpHPVwVemrAmLHM%252Clc_aS4o2baypHM%252C_%253BfDuxb3zgIBmQrM%252CGK2250IDWxq2UM%252C_%253BmMFqv4v9LohWCM%252CYpVRcIFyUAvjnM%252C_%253BtJ9b7a3enLbfGM%252CaKdGgYD30Bl_yM%252C_&usg=AI4_-kQiMq4UHmjnvVcqelb1cp7BdtO7FA&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ9QF6BAhNEAE#imgrc=JiLCqF-rEj-oHM",
+            "source": "https://www.youm7.com/story/2019/11/21/%D8%A7%D8%B3%D8%A8%D8%A7%D8%A8-%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1/4511068",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6Uj_PrCQxeoaNGxuyPG_nLwFxFK9ewSQS4bAiPEd0g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=WV6pbbMYNaJ3iM%252CR4-r0TvFtmNg-M%252C_%253BGn7UMadvg8nr6M%252C86bcSaoBq9AvPM%252C_%253BJiLCqF-rEj-oHM%252CPTp6wnyEmGKiHM%252C_%253B1kPSthBaHKYJCM%252CmYfjwWw1b1x4LM%252C_%253B13AN2CMhQi-6pM%252C09NXszJClfki2M%252C_%253BRsuAoNNwWZNNiM%252CqA4_zzDtonkEVM%252C_%253BpHPVwVemrAmLHM%252Clc_aS4o2baypHM%252C_%253BfDuxb3zgIBmQrM%252CGK2250IDWxq2UM%252C_%253BmMFqv4v9LohWCM%252CYpVRcIFyUAvjnM%252C_%253BtJ9b7a3enLbfGM%252CaKdGgYD30Bl_yM%252C_&usg=AI4_-kQiMq4UHmjnvVcqelb1cp7BdtO7FA&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ9QF6BAhEEAE#imgrc=1kPSthBaHKYJCM",
+            "source": "https://gate.ahram.org.eg/News/1636603.aspx",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJc4CyJRV8pLFHGlo_JX3m3dV1XHl-byAYyoNTsyttQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=WV6pbbMYNaJ3iM%252CR4-r0TvFtmNg-M%252C_%253BGn7UMadvg8nr6M%252C86bcSaoBq9AvPM%252C_%253BJiLCqF-rEj-oHM%252CPTp6wnyEmGKiHM%252C_%253B1kPSthBaHKYJCM%252CmYfjwWw1b1x4LM%252C_%253B13AN2CMhQi-6pM%252C09NXszJClfki2M%252C_%253BRsuAoNNwWZNNiM%252CqA4_zzDtonkEVM%252C_%253BpHPVwVemrAmLHM%252Clc_aS4o2baypHM%252C_%253BfDuxb3zgIBmQrM%252CGK2250IDWxq2UM%252C_%253BmMFqv4v9LohWCM%252CYpVRcIFyUAvjnM%252C_%253BtJ9b7a3enLbfGM%252CaKdGgYD30Bl_yM%252C_&usg=AI4_-kQiMq4UHmjnvVcqelb1cp7BdtO7FA&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ9QF6BAg-EAE#imgrc=13AN2CMhQi-6pM",
+            "source": "https://mawdoo3.com/%D8%B3%D9%88%D8%A1_%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-95DM6Z9PszsluO4oU5r7DJIC6KRTjuh79dFJPETxTA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=WV6pbbMYNaJ3iM%252CR4-r0TvFtmNg-M%252C_%253BGn7UMadvg8nr6M%252C86bcSaoBq9AvPM%252C_%253BJiLCqF-rEj-oHM%252CPTp6wnyEmGKiHM%252C_%253B1kPSthBaHKYJCM%252CmYfjwWw1b1x4LM%252C_%253B13AN2CMhQi-6pM%252C09NXszJClfki2M%252C_%253BRsuAoNNwWZNNiM%252CqA4_zzDtonkEVM%252C_%253BpHPVwVemrAmLHM%252Clc_aS4o2baypHM%252C_%253BfDuxb3zgIBmQrM%252CGK2250IDWxq2UM%252C_%253BmMFqv4v9LohWCM%252CYpVRcIFyUAvjnM%252C_%253BtJ9b7a3enLbfGM%252CaKdGgYD30Bl_yM%252C_&usg=AI4_-kQiMq4UHmjnvVcqelb1cp7BdtO7FA&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ9QF6BAhDEAE#imgrc=RsuAoNNwWZNNiM",
+            "source": "https://gate.ahram.org.eg/daily/News/203857/8/820782/%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9-%D9%88%D8%A7%D9%84%D8%B7%D9%81%D9%84/%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%B7%D9%81%D9%84-%D9%8A%D8%B9%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%85%D9%86%D8%A9.aspx",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI12WirG3_klZzyikLlYe97JCpOIGjeUjKVbBVGFx_Tw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=WV6pbbMYNaJ3iM%252CR4-r0TvFtmNg-M%252C_%253BGn7UMadvg8nr6M%252C86bcSaoBq9AvPM%252C_%253BJiLCqF-rEj-oHM%252CPTp6wnyEmGKiHM%252C_%253B1kPSthBaHKYJCM%252CmYfjwWw1b1x4LM%252C_%253B13AN2CMhQi-6pM%252C09NXszJClfki2M%252C_%253BRsuAoNNwWZNNiM%252CqA4_zzDtonkEVM%252C_%253BpHPVwVemrAmLHM%252Clc_aS4o2baypHM%252C_%253BfDuxb3zgIBmQrM%252CGK2250IDWxq2UM%252C_%253BmMFqv4v9LohWCM%252CYpVRcIFyUAvjnM%252C_%253BtJ9b7a3enLbfGM%252CaKdGgYD30Bl_yM%252C_&usg=AI4_-kQiMq4UHmjnvVcqelb1cp7BdtO7FA&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ9QF6BAhLEAE#imgrc=pHPVwVemrAmLHM",
+            "source": "https://arabi21.com/story/739164/%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%8A%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D8%A2%D8%B3%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B3%D8%B7%D9%89",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8DneQwlPy1pHazBULScdCZHv25fU-rR8I1HvS7K1d4Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=WV6pbbMYNaJ3iM%252CR4-r0TvFtmNg-M%252C_%253BGn7UMadvg8nr6M%252C86bcSaoBq9AvPM%252C_%253BJiLCqF-rEj-oHM%252CPTp6wnyEmGKiHM%252C_%253B1kPSthBaHKYJCM%252CmYfjwWw1b1x4LM%252C_%253B13AN2CMhQi-6pM%252C09NXszJClfki2M%252C_%253BRsuAoNNwWZNNiM%252CqA4_zzDtonkEVM%252C_%253BpHPVwVemrAmLHM%252Clc_aS4o2baypHM%252C_%253BfDuxb3zgIBmQrM%252CGK2250IDWxq2UM%252C_%253BmMFqv4v9LohWCM%252CYpVRcIFyUAvjnM%252C_%253BtJ9b7a3enLbfGM%252CaKdGgYD30Bl_yM%252C_&usg=AI4_-kQiMq4UHmjnvVcqelb1cp7BdtO7FA&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ9QF6BAg9EAE#imgrc=fDuxb3zgIBmQrM",
+            "source": "https://rjeem.com/%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMlIrEtxY8_hvesBhuCWY1Csu4OpyvoUbYhxaPKEw3Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=WV6pbbMYNaJ3iM%252CR4-r0TvFtmNg-M%252C_%253BGn7UMadvg8nr6M%252C86bcSaoBq9AvPM%252C_%253BJiLCqF-rEj-oHM%252CPTp6wnyEmGKiHM%252C_%253B1kPSthBaHKYJCM%252CmYfjwWw1b1x4LM%252C_%253B13AN2CMhQi-6pM%252C09NXszJClfki2M%252C_%253BRsuAoNNwWZNNiM%252CqA4_zzDtonkEVM%252C_%253BpHPVwVemrAmLHM%252Clc_aS4o2baypHM%252C_%253BfDuxb3zgIBmQrM%252CGK2250IDWxq2UM%252C_%253BmMFqv4v9LohWCM%252CYpVRcIFyUAvjnM%252C_%253BtJ9b7a3enLbfGM%252CaKdGgYD30Bl_yM%252C_&usg=AI4_-kQiMq4UHmjnvVcqelb1cp7BdtO7FA&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ9QF6BAg8EAE#imgrc=mMFqv4v9LohWCM",
+            "source": "https://www.aljazeera.net/news/healthmedicine/2016/11/21/%D8%A3%D9%88%D8%AC%D9%87-%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%8A%D8%AF%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfb2zNU3hY1cBa2SR9P8gmvU9I5ckIgO9jxLa_l2mxIA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=WV6pbbMYNaJ3iM%252CR4-r0TvFtmNg-M%252C_%253BGn7UMadvg8nr6M%252C86bcSaoBq9AvPM%252C_%253BJiLCqF-rEj-oHM%252CPTp6wnyEmGKiHM%252C_%253B1kPSthBaHKYJCM%252CmYfjwWw1b1x4LM%252C_%253B13AN2CMhQi-6pM%252C09NXszJClfki2M%252C_%253BRsuAoNNwWZNNiM%252CqA4_zzDtonkEVM%252C_%253BpHPVwVemrAmLHM%252Clc_aS4o2baypHM%252C_%253BfDuxb3zgIBmQrM%252CGK2250IDWxq2UM%252C_%253BmMFqv4v9LohWCM%252CYpVRcIFyUAvjnM%252C_%253BtJ9b7a3enLbfGM%252CaKdGgYD30Bl_yM%252C_&usg=AI4_-kQiMq4UHmjnvVcqelb1cp7BdtO7FA&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ9QF6BAhFEAE#imgrc=tJ9b7a3enLbfGM",
+            "source": "https://www.youm7.com/story/2017/12/4/%D8%B5%D9%88%D8%B1-%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%B9%D8%A9-%D8%AA%D9%87%D8%AF%D8%AF-%D9%85%D8%A6%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%89-%D8%A7%D9%84%D9%8A%D9%85%D9%86/3539281",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdOTRaMuLpeMzjS31GZ7aZJ8cmHSdTRIKCLF_4_BEXGQ&s"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ما هو سوء التغذية؟",
+            "snippet": "سوء التغذية هو ظرف صحي خطير يحدث عندما لا يحصل الشخص على كمية مناسبة من المغذيات في نظامه الغذائي، أو إذا كانت المواد المغذية أقل من احتياجاته أو أكثر كما في حالة البدانة.03‏/06‏/2014",
+            "title": "سوء التغذية | طب وصحة | الجزيرة نت",
+            "link": "https://www.aljazeera.net/encyclopedia/encyclopedia-healthmedicine/2014/6/3/%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9",
+            "displayed_link": "https://www.aljazeera.net › encyclopedia-healthmedicine"
+        },
+        {
+            "question": "ما هو الأمراض الناتجة عن سوء التغذية؟",
+            "snippet": "أمراض تنتج عن سوء التغذية 1- فقر الدم، وينتج عن نقص عنصر الحديد بالجسم، والذي يعمل على الإصابة بالتعب ويؤدي لشحوب الجلد. 2- أمراض نقص البروتين، ومنها فقدان الشهية والتضخم بالكبد والإصابة بالأمراض الجلدية ومنها التهيجات المختلفة وخاصة لدى الأطفال.23‏/04‏/2018",
+            "title": "سوء التغذية.. الأسباب والأضرار والوقاية - العين الإخبارية",
+            "link": "https://al-ain.com/article/reasons-damages-malnutrition-protection",
+            "displayed_link": "https://al-ain.com › article › reasons-damages-malnutrition..."
+        },
+        {
+            "question": "كيف اعرف ان عندي سوء تغذية؟",
+            "snippet": "أعراض سوء التغذية فقدان الشهية وعدم الرغبة في تناول الطعام والشراب. التعب والشعور بعد الراحة. صعوبة في التركيز. الشعور بالبرد.",
+            "title": "سوء التغذية: الأسباب، الأعراض والعلاج - ويب طب",
+            "link": "https://www.webteb.com/diet/diseases/%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9",
+            "displayed_link": "https://www.webteb.com › ... › /diet/diseases/سوء-التغذية"
+        },
+        {
+            "question": "كيف اعرف ان طفلي عنده سوء تغذيه؟",
+            "snippet": "وأوضحت خبيرة التغذية أن هناك أعراض أخرى غير ضعف التركيز، يمكن للأم الاستدلال منها على إصابة طفلها بسوء التغذية، أبرزها: - الشعور بالدائم بالإرهاق. - تكرار الإصابة بنزلات البرد والإنفلونزا، نتيجة لضعف المناعة.01‏/11‏/2021",
+            "title": "طبيبة توضح أعراض سوء التغذية عند الأطفال | الكونسلتو",
+            "link": "https://www.elconsolto.com/parenting/infants/details/2021/11/1/2115425/4-%D8%A3%D8%B9%D8%B1%D8%A7%D8%B6-%D8%AA%D9%83%D8%B4%D9%81-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84-%D9%83-%D8%A8%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%84%D8%A7-%D8%AA%D8%AA%D8%AC%D8%A7%D9%87%D9%84%D9%8A%D9%87%D8%A7",
+            "displayed_link": "https://www.elconsolto.com › infants › details › 2021/11"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "سوء التغذية - WHO | World Health Organization",
+            "link": "https://www.who.int/ar/news-room/fact-sheets/detail/malnutrition",
+            "displayed_link": "https://www.who.int › ... › صحائف الوقائع › Detail",
+            "snippet": "يشمل سوء التغذية في جميع أشكاله نقص التغذية (الهزال والتقزّم ونقص الوزن)، ونقص الفيتامينات أو المعادن، وفرط الوزن، والسمنة، والأمراض غير ...",
+            "snippet_highlighted_words": [
+                "سوء التغذية"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٩‏/٠٦‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "سوء التغذية: الأسباب، الأعراض والعلاج - ويب طب",
+            "link": "https://www.webteb.com/diet/diseases/%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9",
+            "displayed_link": "https://www.webteb.com › ... › /diet/diseases/سوء-التغذية",
+            "snippet": "سوء التغذية هو مصطلح يُستخدم للتعبير عن وضع لا يحصل فيه الجسم على كل المواد الغذائية الأساسية التي يحتاجها، أو على جزء منها. تتراوح حدة سوء التغذية بين الطفيفة ...",
+            "snippet_highlighted_words": [
+                "سوء التغذية",
+                "سوء التغذية"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "علامات أمراض سوء التغذية - ويب طب",
+            "link": "https://www.webteb.com/articles/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%85%D8%B1%D8%A7%D8%B6-%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9_18127",
+            "displayed_link": "https://www.webteb.com › articles › علامات-امراض-سوء-ا...",
+            "snippet": "الغذاء الصحي المتوازن ضروري للإنسان لا لسد جوعه فحسب، بل لاداء وظائف الجسم بدقة ونشاط وحيوية دعنا نعرفك على امراض سوء التغذية.",
+            "snippet_highlighted_words": [
+                "سوء التغذية"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٦‏/٠٣‏/٢٠١٧ —"
+                    ]
+                },
+                "bottom": {
+                    "extensions": [
+                        "فيتامين D: صفار البيض- الزبد- السمن- الكريمة- ...",
+                        "فيتامين C: الجوافة- البرتقال- اليوسفي- الجريب ...",
+                        "فيتامين B2: اللبن الحليب- الزبادي- اللحوم- الخ...",
+                        "فيتامين B3: اللحوم- اسماك- بقوليات- مكسرات- ال..."
+                    ],
+                    "detected_extensions": {
+                        "فيتامين_b_اللبن_الحليب_الزبادي_اللحوم_الخ": 2,
+                        "فيتامين_b_اللحوم_اسماك_بقوليات_مكسرات_ال": 3
+                    }
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "سوء التغذية - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%A1_%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › سوء_التغذية",
+            "snippet": "سوء التغذية أو الصَّغَل لغة السّغِل وهو السّيِءُ الغِذاء هو مصطلح يشير إلى الاستهلاك غير الكافي، أو الزائدِ أو غير المتوازنِ من المواد و المكونات الغذائية.",
+            "snippet_highlighted_words": [
+                "سوء التغذية"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "بحث حول سوء التغذية - موضوع",
+            "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%AD%D9%88%D9%84_%D8%B3%D9%88%D8%A1_%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9",
+            "displayed_link": "https://mawdoo3.com › معلومات غذائية",
+            "snippet": "مظاهر سوء التغذية · فقدان الشهيّة، أو قلّة الرغبة باستهلاك الطَعام والشراب. · التعب، والتهيج (بالإنجليزيّة: Irritability) · عدم القدرة على التركيز. · الشعور ...",
+            "snippet_highlighted_words": [
+                "سوء التغذية"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "١ سوء التغذية",
+                        "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%AD%D9%88%D9%84_%D8%B3%D9%88%D8%A1_%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9#.D8.B3.D9.88.D8.A1_.D8.A7.D9.84.D8.AA.D8.BA.D8.B0.D9.8A.D8.A9"
+                    },
+                    {
+                        "title": "٢ أنواع سوء التغذية",
+                        "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%AD%D9%88%D9%84_%D8%B3%D9%88%D8%A1_%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9#.D8.A3.D9.86.D9.88.D8.A7.D8.B9_.D8.B3.D9.88.D8.A1_.D8.A7.D9.84.D8.AA.D8.BA.D8.B0.D9.8A.D8.A9"
+                    },
+                    {
+                        "title": "٣ أسباب سوء التغذية",
+                        "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%AD%D9%88%D9%84_%D8%B3%D9%88%D8%A1_%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9#.D8.A3.D8.B3.D8.A8.D8.A7.D8.A8_.D8.B3.D9.88.D8.A1_.D8.A7.D9.84.D8.AA.D8.BA.D8.B0.D9.8A.D8.A9"
+                    },
+                    {
+                        "title": "٨ حل مشكلة سوء التغذية",
+                        "link": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%AD%D9%88%D9%84_%D8%B3%D9%88%D8%A1_%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9#.D8.AD.D9.84_.D9.85.D8.B4.D9.83.D9.84.D8.A9_.D8.B3.D9.88.D8.A1_.D8.A7.D9.84.D8.AA.D8.BA.D8.B0.D9.8A.D8.A9"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 6,
+            "title": "تعريف سوء التغذية - موضوع",
+            "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%B3%D9%88%D8%A1_%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9",
+            "displayed_link": "https://mawdoo3.com › معلومات غذائية",
+            "snippet": "حسب منظمة الصحة العالمية؛ يشير مصطلح سوء التغذية (بالإنجليزية: Malnutrition) إلى قصور، أو تجاوز، أو اختلال في استهلاك الشخص الكمية المناسبة من الطاقة، ...",
+            "snippet_highlighted_words": [
+                "سوء التغذية"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "الغذاء والتغذية - سوء التغذية - وزارة الصحة",
+            "link": "https://www.moh.gov.sa/HealthAwareness/EducationalContent/Food-and-Nutrition/Pages/Poor_Nutrition.aspx",
+            "displayed_link": "https://www.moh.gov.sa › Pages › Poor_Nutrition",
+            "snippet": "ما آثار سوء التغذية؟ يسبب سوء التغذية عددًا من المشكلات كالنحافة الشديدة، أو قصر القامة الشديد مقارنة بعمر الشخص، أو نقص الفيتامينات والمعادن ( ...",
+            "snippet_highlighted_words": [
+                "سوء التغذية",
+                "سوء التغذية"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٨‏/٠٢‏/٢٠١٨ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "نقص التغذية - دليل MSD الإرشادي إصدار المُستخدِم - MSD ...",
+            "link": "https://www.msdmanuals.com/ar/home/%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/%D9%86%D9%82%D8%B5%D9%8F-%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D8%BA%D8%B0%D9%8A%D8%A9-undernutrition/%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9",
+            "displayed_link": "https://www.msdmanuals.com › اضطرابات-التغذية › ن...",
+            "snippet": "نقص التغذية بالبروتين والطاقة Protein-energy undernutrition (يسمى سوءُ التَّغذِيَةِ بالبروتينِ والطَّاقَة protein-energy malnutrition أيضًا) هو نقصٌ شديدٌ ...",
+            "snippet_highlighted_words": [
+                "التغذية",
+                "سوءُ"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "التغذية | UNICEF مصر",
+            "link": "https://www.unicef.org/egypt/ar/nutrition",
+            "displayed_link": "https://www.unicef.org › egypt › nutrition",
+            "snippet": "ويمكن ملاحظة \"العبء المزدوج لسوء التغذية\" في ظل وجود حالات نقص التغذية إلى جانب زيادة الوزن / السمنة أو العيوب المرتبطة بالنظام الغذائي لدى الأفراد. إن الأطفال ...",
+            "snippet_highlighted_words": [
+                "لسوء التغذية"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "أعراض سوء التغذية",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D8%B9%D8%B1%D8%A7%D8%B6+%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "مفهوم سوء التغذية",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%85%D9%81%D9%87%D9%88%D9%85+%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ1QJ6BAglEAE"
+        },
+        {
+            "query": "سوء التغذية pdf",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9+pdf&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "أنواع سوء التغذية",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "علاج سوء التغذية",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%B9%D9%84%D8%A7%D8%AC+%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ1QJ6BAghEAE"
+        },
+        {
+            "query": "أمراض سوء التغذية PDF",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D9%85%D8%B1%D8%A7%D8%B6+%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9+PDF&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ1QJ6BAggEAE"
+        },
+        {
+            "query": "أسباب سوء التغذية pdf",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8+%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9+pdf&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "تجربتي مع سوء التغذية",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%AA%D8%AC%D8%B1%D8%A8%D8%AA%D9%8A+%D9%85%D8%B9+%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&sa=X&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ1QJ6BAgdEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&ei=b_98Yo6EFaKd_QaB16-QBA&start=10&sa=N&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&ei=b_98Yo6EFaKd_QaB16-QBA&start=10&sa=N&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&ei=b_98Yo6EFaKd_QaB16-QBA&start=20&sa=N&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&ei=b_98Yo6EFaKd_QaB16-QBA&start=30&sa=N&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&ei=b_98Yo6EFaKd_QaB16-QBA&start=40&sa=N&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&ei=b_98Yo6EFaKd_QaB16-QBA&start=50&sa=N&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&ei=b_98Yo6EFaKd_QaB16-QBA&start=60&sa=N&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&ei=b_98Yo6EFaKd_QaB16-QBA&start=70&sa=N&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&ei=b_98Yo6EFaKd_QaB16-QBA&start=80&sa=N&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&hl=ar&gl=EG&ei=b_98Yo6EFaKd_QaB16-QBA&start=90&sa=N&ved=2ahUKEwjO94KF_dn3AhWiTt8KHYHrC0IQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=20&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=30&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=40&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=50&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=60&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=70&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=80&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D9%88%D8%A1+%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9&start=90&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D"
+        }
+    }
+}

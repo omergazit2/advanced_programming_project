@@ -1,0 +1,479 @@
+{
+    "search_metadata": {
+        "id": "629e3cedd5b1c53a1cf6acdd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4a9c504c8531981b/629e3cedd5b1c53a1cf6acdd.json",
+        "created_at": "2022-06-06 17:44:13 UTC",
+        "processed_at": "2022-06-06 17:44:13 UTC",
+        "google_url": "https://www.google.com/search?q=PCR&oq=PCR&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/4a9c504c8531981b/629e3cedd5b1c53a1cf6acdd.html",
+        "total_time_taken": 8.66
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "PCR",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "PCR",
+        "total_results": 1190000000,
+        "time_taken_displayed": 0.45
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "PCR (Polymerase Chain Reaction)",
+            "link": "https://www.youtube.com/watch?v=a5jmdh9AnS4",
+            "thumbnail": "https://i.ytimg.com/vi/a5jmdh9AnS4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3ny_0to4Jq_wpic-qdg-0VFs9eDUA",
+            "channel": "Amoeba Sisters",
+            "duration": "7:54",
+            "platform": "YouTube",
+            "date": "Sep 30, 2020"
+        },
+        {
+            "position": 2,
+            "title": "PCR - Polymerase Chain Reaction (IQOG-CSIC)",
+            "link": "https://www.youtube.com/watch?v=iQsu3Kz9NYo",
+            "thumbnail": "https://i.ytimg.com/vi/iQsu3Kz9NYo/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mp0LzOCWcDXpXbk8GcC1nXSkKP2Q",
+            "channel": "CanalDivulgación",
+            "duration": "3:56",
+            "platform": "YouTube",
+            "date": "Apr 20, 2014"
+        },
+        {
+            "position": 3,
+            "title": "What is PCR? Polymerase Chain Reaction | miniPCR bio™",
+            "link": "https://www.youtube.com/watch?v=c07_5BfIDTw",
+            "thumbnail": "https://i.ytimg.com/vi/c07_5BfIDTw/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kB6m2Ce7TlvbuXuOHagoFZpbTwnw",
+            "channel": "miniPCR bio",
+            "duration": "8:25",
+            "platform": "YouTube",
+            "date": "Feb 5, 2020"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Trained dogs may be better at detecting COVID than nasal PCR tests, study suggests",
+            "link": "https://www.usatoday.com/story/news/health/2022/06/03/study-dogs-better-detecting-covid-pcr-tests/7496344001/",
+            "source": "USA Today",
+            "date": "2 days ago",
+            "thumbnail": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/5a55051fbf9c87f668ddf95d5ab02e142d2edf60038ec7a0.jpeg"
+        },
+        {
+            "title": "24-hour PCR test proof valid for public transport, venues",
+            "link": "https://www.shine.cn/news/metro/2206056478/",
+            "source": "Shanghai Daily",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/5a55051fbf9c87f6fcf30238c4a244b490496091bf186587.jpeg"
+        },
+        {
+            "title": "Insights on the Polymerase Chain Reaction Global Market to 2028 - by Product, End-user and Region",
+            "link": "https://finance.yahoo.com/news/insights-polymerase-chain-reaction-global-110300216.html",
+            "source": "Yahoo Finance",
+            "date": "6 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/5a55051fbf9c87f6df145f5fd5b2addb6404142c7a0c7a83.jpeg"
+        },
+        {
+            "title": "App-assisted molecular COVID-19 test combines PCR accuracy with lateral flow convenience",
+            "link": "https://9to5mac.com/2022/06/03/molecular-covid-test/",
+            "source": "9to5Mac",
+            "date": "3 days ago",
+            "thumbnail": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/5a55051fbf9c87f65b1a87a3cd79ccfc4e06969358b351b4.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?q=PCR&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQt8YBegQIAhAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&tbm=nws",
+    "related_questions": [
+        {
+            "question": "How is the COVID-19 diagnostic RT-PCR test performed?",
+            "snippet": "RT-PCR test. A health care professional collects a fluid sample by inserting a long nasal swab (nasopharyngeal swab) into your nostril and taking fluid from the back of your nose. A sample may be collected by using a shorter nasal swab (mid-turbinate swab) or a very short swab (anterior nares swab).Feb 23, 2022",
+            "title": "COVID-19 diagnostic testing",
+            "link": "https://www.mayoclinic.org/tests-procedures/covid-19-diagnostic-test/about/pac-20488900#:~:text=RT%2DPCR%20test.,anterior%20nares%20swab).",
+            "displayed_link": "https://www.mayoclinic.org › about › pac-20488900"
+        },
+        {
+            "question": "How accurate are COVID-19 PCR tests?",
+            "snippet": "PCR tests are very accurate when properly performed by a health care professional, but the rapid test can miss some cases.Feb 23, 2022",
+            "title": "COVID-19 diagnostic testing",
+            "link": "https://www.mayoclinic.org/tests-procedures/covid-19-diagnostic-test/about/pac-20488900#:~:text=PCR%20tests%20are%20very%20accurate,can%20miss%20some%20cases.",
+            "displayed_link": "https://www.mayoclinic.org › about › pac-20488900"
+        },
+        {
+            "question": "Why PCR is better than the rapid COVID-19 test?",
+            "snippet": "“PCR tests are more reliable and accurate due to testing the specific genetic material of the virus, eliminating the interference from other viruses,” said Heather Seyko, a Laboratory Services manager for OSF HealthCare.Feb 9, 2022",
+            "title": "PCR vs. rapid COVID-19 test: What’s the difference?",
+            "link": "https://www.osfhealthcare.org/blog/pcr-vs-rapid-covid-19-test-whats-the-difference/#:~:text=%E2%80%9CPCR%20tests%20are%20more,manager%20for%20OSF%20HealthCare.",
+            "displayed_link": "https://www.osfhealthcare.org › blog › pcr-vs-rapid-covid..."
+        },
+        {
+            "question": "Which COVID-19 tests are more accurate PCR or antigen tests?",
+            "snippet": "PCR tests are more accurate than antigen tests. \"PCR tests are the gold standard for detecting SARS-CoV-2,\" says Dr. Broadhurst. \"It is the most accurate testing modality that we have.Dec 29, 2021",
+            "title": "PCR test recall: Can PCR tests tell the difference between COVID-19 and the flu?",
+            "link": "https://www.nebraskamed.com/COVID/pcr-test-recall-can-the-test-tell-the-difference-between-covid-19-and-the-flu#:~:text=PCR%20tests%20are%20more%20accurate,modality%20that%20we%20have.",
+            "displayed_link": "https://www.nebraskamed.com › COVID › pcr-test-recall-..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Polymerase Chain Reaction (PCR) - National Human ...",
+            "link": "https://www.genome.gov/genetics-glossary/Polymerase-Chain-Reaction",
+            "displayed_link": "https://www.genome.gov › genetics-glossary › Polymer...",
+            "snippet": "Polymerase chain reaction (abbreviated PCR) is a laboratory technique for rapidly producing (amplifying) millions to billions of copies of a ...",
+            "snippet_highlighted_words": [
+                "Polymerase chain reaction",
+                "PCR"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "DNA Replication",
+                        "link": "https://www.genome.gov/genetics-glossary/DNA-Replication"
+                    },
+                    {
+                        "title": "Primer",
+                        "link": "https://www.genome.gov/genetics-glossary/Primer"
+                    },
+                    {
+                        "title": "Enzyme",
+                        "link": "https://www.genome.gov/genetics-glossary/Enzyme"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "days_ago": 3
+                    },
+                    "extensions": [
+                        "3 days ago",
+                        "Uploaded by National Human Genome Research Institute"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The National Human Genome Research Institute is an institute of the National Institutes of Health, located in Bethesda, Maryland.\nNHGRI began as the Office of Human Genome Research in The Office of the Director in 1988.",
+                    "icon": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/3814f581229c1e9b6a8e6813fadee737266aeb77e88701ef555600e877da346f2351b76eb919ea99f2d15e2265978e33.png"
+                },
+                "keywords": [
+                    "pcr"
+                ],
+                "related_keywords": [
+                    "polymerase chain reaction"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.genome.gov/genetics-glossary/Polymerase-Chain-Reaction&tbm=ilp&ilps=ADNMCi2WFuV0jxHjACT3kdJq-_0j5dQjLQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IfToqFfU_ZwJ:https://www.genome.gov/genetics-glossary/Polymerase-Chain-Reaction+&cd=1&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "COVID-19 and PCR Testing - Cleveland Clinic",
+            "link": "https://my.clevelandclinic.org/health/diagnostics/21462-covid-19-and-pcr-testing",
+            "displayed_link": "https://my.clevelandclinic.org › health › diagnostics › 2...",
+            "date": "Aug 24, 2021",
+            "snippet": "PCR means polymerase chain reaction. It's a test to detect genetic material from a specific organism, such as a virus. The test detects the ...",
+            "snippet_highlighted_words": [
+                "PCR",
+                "polymerase chain reaction"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Cleveland Clinic is a nonprofit American academic medical center based in Cleveland, Ohio. Owned and operated by the Cleveland Clinic Foundation, an Ohio nonprofit corporation established in 1921, it ...",
+                    "icon": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/3814f581229c1e9b6a8e6813fadee73731aff581fa3a82a65f9eedd4d35369ee1832f306ed47606a8cb8d7d2cfe7a99a.png"
+                },
+                "keywords": [
+                    "pcr"
+                ],
+                "related_keywords": [
+                    "polymerase chain reaction"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://my.clevelandclinic.org/health/diagnostics/21462-covid-19-and-pcr-testing&tbm=ilp&ilps=ADNMCi0beY7lkpPGiEMidGMCEojmEESr1g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6Ia2b08CSJQJ:https://my.clevelandclinic.org/health/diagnostics/21462-covid-19-and-pcr-testing+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Polymerase chain reaction - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Polymerase_chain_reaction",
+            "displayed_link": "https://en.wikipedia.org › wiki › Polymerase_chain_rea...",
+            "snippet": "Polymerase chain reaction (PCR) is a method widely used to rapidly make millions to billions of copies (complete or partial) of a specific DNA sample, ...",
+            "snippet_highlighted_words": [
+                "Polymerase chain reaction",
+                "PCR"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "History",
+                        "link": "https://en.wikipedia.org/wiki/History_of_polymerase_chain_reaction"
+                    },
+                    {
+                        "title": "Multiplex PCR",
+                        "link": "https://en.wikipedia.org/wiki/Multiplex_polymerase_chain_reaction"
+                    },
+                    {
+                        "title": "Overlap extension PCR",
+                        "link": "https://en.wikipedia.org/wiki/Overlap_extension_polymerase_chain_reaction"
+                    },
+                    {
+                        "title": "Real-time RT-PCR",
+                        "link": "https://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/3814f581229c1e9b6a8e6813fadee73755fad1f3709299d2af0400c1cd2961e8a4a2206300be0eb4dbff9bb60e489ef1.png"
+                },
+                "keywords": [
+                    "pcr"
+                ],
+                "related_keywords": [
+                    "polymerase chain reaction"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Polymerase_chain_reaction&tbm=ilp&ilps=ADNMCi1hJAV-pm8T_vWdxg0RbC1eRFqwew",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PR0_UuzQLuoJ:https://en.wikipedia.org/wiki/Polymerase_chain_reaction+&cd=15&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Polymerase_chain_reaction+PCR"
+        },
+        {
+            "position": 4,
+            "title": "PCR Tests: MedlinePlus Medical Test",
+            "link": "https://medlineplus.gov/lab-tests/pcr-tests/",
+            "displayed_link": "https://medlineplus.gov › Medical Tests",
+            "date": "Jan 5, 2022",
+            "snippet": "PCR (polymerase chain reaction) tests are a fast, highly accurate way to diagnose certain infectious diseases and genetic changes.",
+            "snippet_highlighted_words": [
+                "PCR",
+                "polymerase chain reaction"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "MedlinePlus is an online information service produced by the United States National Library of Medicine. The service provides curated consumer health information in English and Spanish with select content in additional languages.",
+                    "icon": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/3814f581229c1e9b6a8e6813fadee7379d1459d253e965b66bf7af44405300454190d88a3ecb3f63a412cc9a79063106.png"
+                },
+                "keywords": [
+                    "pcr"
+                ],
+                "related_keywords": [
+                    "polymerase chain reaction"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://medlineplus.gov/lab-tests/pcr-tests/&tbm=ilp&ilps=ADNMCi39uRi8e-eQTuGSql2C0GSrHp2jsg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:otCt2qZXo3sJ:https://medlineplus.gov/lab-tests/pcr-tests/+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Polymerase Chain Reaction (PCR) - NCBI",
+            "link": "https://www.ncbi.nlm.nih.gov/probe/docs/techpcr/",
+            "displayed_link": "https://www.ncbi.nlm.nih.gov › probe › docs › techpcr",
+            "date": "Nov 9, 2017",
+            "snippet": "is a revolutionary method developed by Kary Mullis in the 1980s. PCR is based on using the ability of DNA polymerase to synthesize new strand of ...",
+            "snippet_highlighted_words": [
+                "PCR"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Center for Biotechnology Information is part of the United States National Library of Medicine, a branch of the National Institutes of Health. It is approved and funded by the government of the United States.",
+                    "icon": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/3814f581229c1e9b6a8e6813fadee73742c7de5ea60713fcb0115ea1182c31945847d87ecceac579c6048eff6a7e2e41.png"
+                },
+                "keywords": [
+                    "pcr"
+                ],
+                "related_keywords": [
+                    "polymerase chain reaction"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ncbi.nlm.nih.gov/probe/docs/techpcr/&tbm=ilp&ilps=ADNMCi0UazYB4g-bDpoZDlSBy4mdNE3hbg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Y3vskk3kshAJ:https://www.ncbi.nlm.nih.gov/probe/docs/techpcr/+&cd=17&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.ncbi.nlm.nih.gov/probe/docs/techpcr/+PCR"
+        },
+        {
+            "position": 6,
+            "title": "COVID-19 diagnostic testing - Mayo Clinic",
+            "link": "https://www.mayoclinic.org/tests-procedures/covid-19-diagnostic-test/about/pac-20488900",
+            "displayed_link": "https://www.mayoclinic.org › about › pac-20488900",
+            "date": "Feb 23, 2022",
+            "snippet": "RT-PCR tests are very accurate when properly performed by a health care professional, but the rapid test can miss some cases. Antigen test. This ...",
+            "snippet_highlighted_words": [
+                "PCR"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Mayo Clinic is a nonprofit American academic medical center focused on integrated health care, education, and research.",
+                    "icon": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/3814f581229c1e9b6a8e6813fadee737f97e0dfaa549eb097b4a7c4f0be4fc32e32b55f8bd1d0d7172861fd0ff6be68c.png"
+                },
+                "keywords": [
+                    "pcr"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mayoclinic.org/tests-procedures/covid-19-diagnostic-test/about/pac-20488900&tbm=ilp&ilps=ADNMCi0Y6Uj5MxsLlW2Y1xrGerVrVw8dBw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CgEgEIsi844J:https://www.mayoclinic.org/tests-procedures/covid-19-diagnostic-test/about/pac-20488900+&cd=21&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "\"Polymerase Chain Reaction (PCR)\" Biology Animation Library",
+            "link": "https://dnalc.cshl.edu/resources/animations/pcr.html",
+            "displayed_link": "https://dnalc.cshl.edu › resources › animations › pcr",
+            "snippet": "Polymerase chain reaction (PCR) enables researchers to produce millions of copies of a specific DNA sequence in approximately two hours.",
+            "snippet_highlighted_words": [
+                "Polymerase chain reaction",
+                "PCR"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Cold Spring Harbor Laboratory is a private, non-profit institution with research programs focusing on cancer, neuroscience, plant biology, genomics, and quantitative biology.",
+                    "icon": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/3814f581229c1e9b6a8e6813fadee7370e762fee1ce0160b3a84b0eba1fee744c6d49b15c79d969d4733fa0e59c14a38.png"
+                },
+                "keywords": [
+                    "pcr"
+                ],
+                "related_keywords": [
+                    "polymerase chain reaction"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://dnalc.cshl.edu/resources/animations/pcr.html&tbm=ilp&ilps=ADNMCi1hEnMGxb-54mCLFWp6FUh-bqyuCw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:w4EeiWkvihYJ:https://dnalc.cshl.edu/resources/animations/pcr.html+&cd=22&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "Polymerase chain reaction (PCR) (article) - Khan Academy",
+            "link": "https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/a/polymerase-chain-reaction-pcr",
+            "displayed_link": "https://www.khanacademy.org › ... › Biotechnology",
+            "snippet": "A technique used to amplify, or make many copies of, a specific target region of DNA.",
+            "about_this_result": {
+                "source": {
+                    "description": "Khan Academy is an American non-profit educational organization created in 2008 by Salman Khan. Its goal is creating a set of online tools that help educate students. The organization produces short lessons in the form of videos. Its website also includes supplementary practice exercises and materials for educators.",
+                    "icon": "https://serpapi.com/searches/629e3cedd5b1c53a1cf6acdd/images/3814f581229c1e9b6a8e6813fadee73710a2e0ef2702d3dc178919ca7515a463c260969d0927d54a5e6dfe55ba1bf419.png"
+                },
+                "keywords": [
+                    "pcr"
+                ],
+                "related_keywords": [
+                    "polymerase chain reaction"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/a/polymerase-chain-reaction-pcr&tbm=ilp&ilps=ADNMCi0f5SttA0WVuVZAlRHzUOWLsdqzmA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eYgtAzLZfCEJ:https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/a/polymerase-chain-reaction-pcr+&cd=23&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "pcr test",
+            "link": "https://www.google.com/search?q=PCR+test&sa=X&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "pcr procedure",
+            "link": "https://www.google.com/search?q=PCR+procedure&sa=X&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "what is a pcr covid test",
+            "link": "https://www.google.com/search?q=What+is+a+PCR+COVID+test&sa=X&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "pcr biology",
+            "link": "https://www.google.com/search?q=PCR+biology&sa=X&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "what is pcr used for",
+            "link": "https://www.google.com/search?q=What+is+PCR+used+for&sa=X&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "rt-pcr",
+            "link": "https://www.google.com/search?q=RT-PCR&sa=X&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "pcr dna",
+            "link": "https://www.google.com/search?q=PCR+DNA&sa=X&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "what is rt-pcr test",
+            "link": "https://www.google.com/search?q=What+is+RT-PCR+test&sa=X&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ1QJ6BAgeEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=PCR&ei=9TyeYoHWILKsqtsPo6uFmA0&start=10&sa=N&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ8NMDegQIARBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=PCR&ei=9TyeYoHWILKsqtsPo6uFmA0&start=10&sa=N&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ8tMDegQIARA4",
+            "3": "https://www.google.com/search?q=PCR&ei=9TyeYoHWILKsqtsPo6uFmA0&start=20&sa=N&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ8tMDegQIARA6",
+            "4": "https://www.google.com/search?q=PCR&ei=9TyeYoHWILKsqtsPo6uFmA0&start=30&sa=N&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ8tMDegQIARA8",
+            "5": "https://www.google.com/search?q=PCR&ei=9TyeYoHWILKsqtsPo6uFmA0&start=40&sa=N&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ8tMDegQIARA-",
+            "6": "https://www.google.com/search?q=PCR&ei=9TyeYoHWILKsqtsPo6uFmA0&start=50&sa=N&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ8tMDegQIARBA",
+            "7": "https://www.google.com/search?q=PCR&ei=9TyeYoHWILKsqtsPo6uFmA0&start=60&sa=N&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ8tMDegQIARBC",
+            "8": "https://www.google.com/search?q=PCR&ei=9TyeYoHWILKsqtsPo6uFmA0&start=70&sa=N&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ8tMDegQIARBE",
+            "9": "https://www.google.com/search?q=PCR&ei=9TyeYoHWILKsqtsPo6uFmA0&start=80&sa=N&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ8tMDegQIARBG",
+            "10": "https://www.google.com/search?q=PCR&ei=9TyeYoHWILKsqtsPo6uFmA0&start=90&sa=N&ved=2ahUKEwjBpKatsJn4AhUylmoFHaNVAdMQ8tMDegQIARBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=PCR&start=90"
+        }
+    }
+}

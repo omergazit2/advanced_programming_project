@@ -1,0 +1,247 @@
+{
+    "search_metadata": {
+        "id": "629e3d0c2fe30293012856ea",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/328a70c722c4d10e/629e3d0c2fe30293012856ea.json",
+        "created_at": "2022-06-06 17:44:44 UTC",
+        "processed_at": "2022-06-06 17:44:44 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&oq=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/328a70c722c4d10e/629e3d0c2fe30293012856ea.html",
+        "total_time_taken": 1.51
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "קריספר",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "קריספר",
+        "total_results": 26500,
+        "time_taken_displayed": 0.35
+    },
+    "knowledge_graph": {
+        "title": "קריספר",
+        "header_images": [
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8"
+            },
+            {
+                "source": "https://www.sdinimplus.co.il/product/%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8/"
+            },
+            {
+                "source": "https://www.lbscience.org/2018/02/22/%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8-%D7%9C%D7%96%D7%99%D7%94%D7%95%D7%99-%D7%A0%D7%92%D7%99%D7%A4%D7%99%D7%9D/"
+            },
+            {
+                "source": "https://davidson.weizmann.ac.il/online/sciencenews/%D7%A2%D7%A8%D7%99%D7%9B%D7%94-%D7%92%D7%A0%D7%98%D7%99%D7%AA-%D7%94%D7%93%D7%95%D7%A8-%D7%94%D7%91%D7%90"
+            }
+        ],
+        "description": "קריספר הוא אזור ב-DNA של חיידקים וארכאות רבים, והוא חלק ממנגנון הגנה מפני נגיפים. כאשר נגיף כדוגמת בקטריופאג' תוקף חיידק הוא מחדיר לתוכו את סליל ה-DNA הכפול שלו, ה-DNA הנגיפי מנצל את סביבת התא כדי לייצר חלבונים ולהשתכפל, וגורם למותו של התא.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "אלן יורגנסן: מה אתם צריכים לדעת על קריספר",
+            "link": "https://www.ted.com/talks/ellen_jorgensen_what_you_need_to_know_about_crispr?language=he",
+            "thumbnail": "https://serpapi.com/searches/629e3d0c2fe30293012856ea/images/87ea597288fd0857540506b2daa2ad84e3a2120d3f2513f39af6bc39721b4bc7.jpeg",
+            "duration": "9:43",
+            "platform": "TED",
+            "date": "3 באוק׳ 2016"
+        },
+        {
+            "position": 2,
+            "title": "וובינר בנושא עריכה גנטית (קריספר)",
+            "link": "https://www.youtube.com/watch?v=8zU5YPYopXw",
+            "thumbnail": "https://serpapi.com/searches/629e3d0c2fe30293012856ea/images/87ea597288fd0857cccedb32605e04c1ab052f889bed30132db21396b3d559d5.jpeg",
+            "channel": "רשות החדשנות",
+            "duration": "2:42:35",
+            "platform": "YouTube",
+            "date": "12 ביולי 2021"
+        },
+        {
+            "position": 3,
+            "title": "העריכה הגנטית יכולה כיום לשנות מין שלם לנצח",
+            "link": "https://www.ted.com/talks/jennifer_kahn_gene_editing_can_now_change_an_entire_species_forever/transcript?language=he",
+            "thumbnail": "https://serpapi.com/searches/629e3d0c2fe30293012856ea/images/87ea597288fd085737cedaa0bc52c6838d5a74054c95960c40f0a083e1257000.jpeg",
+            "duration": "12:15",
+            "platform": "TED",
+            "date": "9 במאי 2016"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "קריספר - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8",
+            "displayed_link": "https://he.wikipedia.org › wiki › קריספר",
+            "snippet": "הקריספר הוא מעין ספרייה של קטעי DNA נגיפי, שנחתכו מהפולש ושובצו בתוך ה-DNA של החיידק עצמו. קטעי ה-DNA הנגיפי מופרדים על ידי רצפים קבועים מחזוריים. בסמוך לאזור ...",
+            "snippet_highlighted_words": [
+                "הקריספר"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "עריכה גנטית: הדור הבא? - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/sciencenews/%D7%A2%D7%A8%D7%99%D7%9B%D7%94-%D7%92%D7%A0%D7%98%D7%99%D7%AA-%D7%94%D7%93%D7%95%D7%A8-%D7%94%D7%91%D7%90",
+            "displayed_link": "https://davidson.weizmann.ac.il › online › sciencenews",
+            "date": "24 באוק׳ 2019",
+            "snippet": "שיטה חדשה לעריכת גנים, המבוססת על מערכת קריספר, מבטיחה להיות יעילה מקודמתה ובעיקר בטוחה יותר ובעלת פחות תופעות לוואי.",
+            "snippet_highlighted_words": [
+                "קריספר"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "מלחמות הקריספר - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/sciencepanorama/%D7%9E%D7%9C%D7%97%D7%9E%D7%95%D7%AA-%D7%94%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8",
+            "displayed_link": "https://davidson.weizmann.ac.il › sciencepanorama › מל...",
+            "date": "1 בנוב׳ 2018",
+            "snippet": "הורבאת' הראה שקריספר היא אכן מערכת חיסון נרכשת, כלומר, ... בקצרה, מקטעי ה-DNA של קריספר מתועתקים למולקולות RNA קצרות שעוברות חיתוך והתאמה ...",
+            "snippet_highlighted_words": [
+                "שקריספר",
+                "קריספר"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "הגן פגום? קריספר יתקן | Israel Innovation Authority – רשות ...",
+            "link": "https://innovationisrael.org.il/magazine-article/4151",
+            "displayed_link": "https://innovationisrael.org.il › magazine-article",
+            "snippet": "טכנולוגיית העריכה הגנטית קריספר (CRISPR) מאפשרת לחתוך מקטע דנ\"א פגום ולהחליפו ... מערכת הקריספר מבוססת על מנגנון שהתגלה בחיידקים ומגונן עליהם מפני וירוסים ...",
+            "snippet_highlighted_words": [
+                "קריספר",
+                "הקריספר"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "קריספר (CRISPR): גילוי שגיאות בעת עריכת DNA | אוניברסיטת בר ...",
+            "link": "https://www.biu.ac.il/article/9174",
+            "displayed_link": "https://www.biu.ac.il › article",
+            "date": "31 במאי 2021",
+            "snippet": "ד\"ר אייל הנדל מהפקולטה למדעי החיים ושותפיו פיתחו כלי תוכנה חדשני קריספר (CRISPR) להערכה ולמדידה של שגיאות הנגרמות במהלך עריכת הגנום.",
+            "snippet_highlighted_words": [
+                "קריספר"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "השקעות ב\"קריספר\" - שתי חברות שמסמנות את עתיד הרפואה - תמיר ...",
+            "link": "https://tamirfishman.co.il/2021/07/15/crisper/",
+            "displayed_link": "https://tamirfishman.co.il › 2021/07/15 › crisper",
+            "date": "15 ביולי 2021",
+            "snippet": "טכנולוגיית ה\"קריספר\" לעריכת גנים יוצאת מהמעבדה - ועומדת לשנות מהיסוד את עולם הרפואה. בואו להכיר שתי חברות שהניסויים שלהן נמצאים בשלב מתקדם ...",
+            "snippet_highlighted_words": [
+                "קריספר"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "מה זה קריספר (CRISPR)? מדריך למתחילים - ניימן",
+            "link": "https://www.neiman.co.il/2018/10/13972",
+            "displayed_link": "https://www.neiman.co.il › 2018/10",
+            "date": "3 באוק׳ 2018",
+            "snippet": "יש בסיפור של קריספר באמת פריחה טכנולוגית מטורפת; כל שנה מופיעות אפליקציות וגרסאות נוספות למערכת. יש בקריספר גם מאבק איתנים בין הכוחות הכי גדולים ...",
+            "snippet_highlighted_words": [
+                "קריספר",
+                "בקריספר"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "על טכנולוגיית עריכת הגנים של CRISPR - ילין לפידות",
+            "link": "https://www.yl-invest.co.il/?CategoryID=673&ArticleID=837",
+            "displayed_link": "https://www.yl-invest.co.il › ...",
+            "date": "8 בפבר׳ 2021",
+            "snippet": "הצוות של שרפנטייה ממפה את מערכת הקריספר של הסטרפטקוקוס. מערכת זו, השייכת לסוג 2, ... ההתקדמות של קריספר בשנת 2020 הייתה מרשימה בהחלט:.",
+            "snippet_highlighted_words": [
+                "הקריספר",
+                "קריספר"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "לפני עשור הן גילו כלי לעריכה גנטית. כיום מתבררות ההשלכות הבלתי ...",
+            "link": "https://www.haaretz.co.il/magazine/2021-12-16/ty-article-magazine/.highlight/0000017f-e388-d804-ad7f-f3fa18b30000",
+            "displayed_link": "https://www.haaretz.co.il › ty-article-magazine › .highlight",
+            "date": "16 בדצמ׳ 2021",
+            "snippet": "\"קריספר כבר מרפא מחלות רבות. יש הרבה ניסויים קליניים שמשתמשים בקריספר, ובקרוב חלקם יהפכו לחלק מהאפשרויות הרפואיות הזמינות לכל אדם. זה מרגש מאוד\" ...",
+            "snippet_highlighted_words": [
+                "קריספר",
+                "בקריספר"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "תבנית קריספר",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%AA%D7%91%D7%A0%D7%99%D7%AA+%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&sa=X&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "מה זה קריספר",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%94+%D7%96%D7%94+%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&sa=X&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "קריספר לתנור",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8+%D7%9C%D7%AA%D7%A0%D7%95%D7%A8&sa=X&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "קריספר סולתם",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8+%D7%A1%D7%95%D7%9C%D7%AA%D7%9D&sa=X&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "קריספר שופרסל",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8+%D7%A9%D7%95%D7%A4%D7%A8%D7%A1%D7%9C&sa=X&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "קריספר ksp",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8+ksp&sa=X&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ1QJ6BAghEAE"
+        },
+        {
+            "query": "קריספר מניה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8+%D7%9E%D7%A0%D7%99%D7%94&sa=X&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ1QJ6BAgdEAE"
+        },
+        {
+            "query": "קריספר שימוש",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8+%D7%A9%D7%99%D7%9E%D7%95%D7%A9&sa=X&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ1QJ6BAgaEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&ei=DD2eYoW3O7qckPIPr8e3iA4&start=10&sa=N&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&ei=DD2eYoW3O7qckPIPr8e3iA4&start=10&sa=N&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&ei=DD2eYoW3O7qckPIPr8e3iA4&start=20&sa=N&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&ei=DD2eYoW3O7qckPIPr8e3iA4&start=30&sa=N&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&ei=DD2eYoW3O7qckPIPr8e3iA4&start=40&sa=N&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&ei=DD2eYoW3O7qckPIPr8e3iA4&start=50&sa=N&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&ei=DD2eYoW3O7qckPIPr8e3iA4&start=60&sa=N&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&ei=DD2eYoW3O7qckPIPr8e3iA4&start=70&sa=N&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&ei=DD2eYoW3O7qckPIPr8e3iA4&start=80&sa=N&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&hl=iw&gl=il&ei=DD2eYoW3O7qckPIPr8e3iA4&start=90&sa=N&ved=2ahUKEwiF7by4sJn4AhU6DkQIHa_jDeEQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%A8%D7%99%D7%A1%D7%A4%D7%A8&start=90"
+        }
+    }
+}

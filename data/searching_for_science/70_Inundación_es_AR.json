@@ -1,0 +1,388 @@
+{
+    "search_metadata": {
+        "id": "627d001e3d6919aa93c4604d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/86ec3a1fade03896/627d001e3d6919aa93c4604d.json",
+        "created_at": "2022-05-12 12:39:58 UTC",
+        "processed_at": "2022-05-12 12:39:58 UTC",
+        "google_url": "https://www.google.com/search?q=Inundaci%C3%B3n&oq=Inundaci%C3%B3n&uule=w+CAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE=&hl=es&gl=AR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/86ec3a1fade03896/627d001e3d6919aa93c4604d.html",
+        "total_time_taken": 12.86
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Inundación",
+        "uule": "w+CAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "AR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Inundación",
+        "total_results": 15900000,
+        "time_taken_displayed": 0.53
+    },
+    "knowledge_graph": {
+        "title": "Inundación",
+        "description": "Una inundación es la ocupación por parte del agua de zonas que habitualmente están libres de esta, ​ por desbordamiento de ríos, torrentes o ramblas, por lluvias torrenciales, deshielo, por subida de las mareas por encima del nivel habitual, por maremotos, huracanes, entre otros.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://es.wikipedia.org/wiki/Inundaci%C3%B3n"
+        },
+        "también_se_buscó": [
+            {
+                "name": "Sequía",
+                "link": "https://www.google.com/search?gl=AR&hl=es&q=Sequ%C3%ADa&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZeiEYAyHr56EluLRnKOcaAiJwzPA61leS5bkMYxs2xYJbLXf9CokO34hjBcciTJ9qwxJZxb3jCYnV4_kZqJB2sLTTbez8DqAoW9Mj99PohH40J2tNKpoo9DIu_i2hKZ4YVk44T3u1o9LPR3bqymRlthasabV6iD48jrVOE2ddRxSMwqtB_AggZwVmY1bgJQs1rdGJ1k-JH7Emim2IU7X3eY01FwuNkEYZkiCgZElJmo7NNRJQ%3D%3D&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQxA16BAhpEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sequ%C3%ADa&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZeiEYAyHr56EluLRnKOcaAiJwzPA61leS5bkMYxs2xYJbLXf9CokO34hjBcciTJ9qwxJZxb3jCYnV4_kZqJB2sLTTbez8DqAoW9Mj99PohH40J2tNKpoo9DIu_i2hKZ4YVk44T3u1o9LPR3bqymRlthasabV6iD48jrVOE2ddRxSMwqtB_AggZwVmY1bgJQs1rdGJ1k-JH7Emim2IU7X3eY01FwuNkEYZkiCgZElJmo7NNRJQ%3D%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/a81af7f00a0770abdd10ff1fe90e9f9c46a0ff1f99a016bff53e8db46540585a2e19c79e3aebad407646a7db39bf10e1.jpeg"
+            },
+            {
+                "name": "Tormenta",
+                "link": "https://www.google.com/search?gl=AR&hl=es&q=Tormenta&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZXDKOeXi92dlNomEwefxKG6acrjWVgOv57mZLMZVlDNT9iXbwYjZD3uHCpw6tYmLV2X9Ku4UhtcacEngD-KNiMk-ynBmId5-b87SuXpcS1JapUVcrD2X8UAGhINPsiHpX6VZWfAYb4kv4IeTlT_pMneJRwq8vWfLZP39mgumA1Zb7KJzv6fWau-67__2Rk-9li4vIS4IGntX01Rz50IxZWDwk8yY7TqTxiZBDbu_GwQeSC8W4Q0XmgpnvTGSpJTCg19rbA%3D&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQxA16BAhpEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Tormenta&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZXDKOeXi92dlNomEwefxKG6acrjWVgOv57mZLMZVlDNT9iXbwYjZD3uHCpw6tYmLV2X9Ku4UhtcacEngD-KNiMk-ynBmId5-b87SuXpcS1JapUVcrD2X8UAGhINPsiHpX6VZWfAYb4kv4IeTlT_pMneJRwq8vWfLZP39mgumA1Zb7KJzv6fWau-67__2Rk-9li4vIS4IGntX01Rz50IxZWDwk8yY7TqTxiZBDbu_GwQeSC8W4Q0XmgpnvTGSpJTCg19rbA%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/a81af7f00a0770abdd10ff1fe90e9f9c46a0ff1f99a016bff53e8db46540585a7be392d7e77477e088eeb54649a8c511.jpeg"
+            },
+            {
+                "name": "Tornado",
+                "link": "https://www.google.com/search?gl=AR&hl=es&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZk2o2qxoXvNom6G_PS1OcQST04Cvfcnp_u9XjWOkAyPm_TLzXmM9XiQfUzjKZVLwV43PF0I6iwF98ELQLbqWxUoX8GzR0fggl_4YMd9CMCgBnA8cXRlZGZ8Z2ZGSUA3W0dZnX1xA%3D%3D&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQxA16BAhpEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZk2o2qxoXvNom6G_PS1OcQST04Cvfcnp_u9XjWOkAyPm_TLzXmM9XiQfUzjKZVLwV43PF0I6iwF98ELQLbqWxUoX8GzR0fggl_4YMd9CMCgBnA8cXRlZGZ8Z2ZGSUA3W0dZnX1xA%3D%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/a81af7f00a0770abdd10ff1fe90e9f9c46a0ff1f99a016bff53e8db46540585aff4e463aef57e16090920ad5dc8eebab.jpeg"
+            },
+            {
+                "name": "Desastre natural",
+                "link": "https://www.google.com/search?gl=AR&hl=es&q=Desastre+natural&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQFcAPhnZOLOpzm99jjgiSHKHTXFJDxS6dmA1ai7Snacrx7GquOhy1iwFD3lTDF2oDCwMFOIHb_XKuOHCbNxQ-R01E30ERAVdgf75P9WfdON0zI0DRDmgrJesIsPHu-uXFV_oziKskh0TuiXjNbQ_x3xX0phyzUan36xc_MAaPFSLH1uA8-UynUBseTvPVdLYHvvxO055pW6cFstxU2dlA1xzqtlCyJDode-ttsmb0LW53jiXQmaf0VNlvwwIvsGleukx1U%3D&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQxA16BAhpEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Desastre+natural&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQFcAPhnZOLOpzm99jjgiSHKHTXFJDxS6dmA1ai7Snacrx7GquOhy1iwFD3lTDF2oDCwMFOIHb_XKuOHCbNxQ-R01E30ERAVdgf75P9WfdON0zI0DRDmgrJesIsPHu-uXFV_oziKskh0TuiXjNbQ_x3xX0phyzUan36xc_MAaPFSLH1uA8-UynUBseTvPVdLYHvvxO055pW6cFstxU2dlA1xzqtlCyJDode-ttsmb0LW53jiXQmaf0VNlvwwIvsGleukx1U%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/a81af7f00a0770abdd10ff1fe90e9f9c46a0ff1f99a016bff53e8db46540585a557bca8df42e13309ea0766b7940f900.jpeg"
+            }
+        ],
+        "también_se_buscó_link": "https://www.google.com/search?gl=AR&hl=es&q=Inundaci%C3%B3n&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVOCs7QEgzNTUssTK4v9UitKgktSC4oXsXJ75pXmpSQmZx7enLeDlREAGENBOzoAAAA&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQMSgAegQIaRAB",
+        "también_se_buscó_stick": "H4sIAAAAAAAAAONgFuLQz9U3SEkqKVOCs7QEgzNTUssTK4v9UitKgktSC4oXsXJ75pXmpSQmZx7enLeDlREAGENBOzoAAAA",
+        "ver_resultados_de": [
+            {
+                "name": "inundación",
+                "extensions": [
+                    "Definición del diccionario"
+                ]
+            }
+        ]
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAg6EAE#imgrc=iQKRRYE8IfK5iM",
+            "source": "https://www.infobae.com/sociedad/2019/10/16/inundaciones-en-la-provincia-de-buenos-aires-hasta-un-metro-de-agua-en-las-casas-y-miles-de-personas-afectadas/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuoWdFQyxatjd5BOzd3viKhSGd9qyVhFrQMdRQmld&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAhVEAE#imgrc=5PT2QxH-oXujMM",
+            "source": "https://www.meteored.com.ar/noticias/actualidad/a-5-anos-de-la-extraordinaria-inundacion-de-la-ciudad-de-la-plata.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoHbYmDDCXjfQbuCbn0WLtHza4Ch9nMkXrTtkDZOUK&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAhbEAE#imgrc=TQW4_MSKxWb1FM",
+            "source": "https://www.cronista.com/internacionales/montevideo-impresionante-inundacion-por-sudestada-y-olas-gigantes-en-el-rio-de-la-plata/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6OrEhMC2m_WJk3vY-FNkLx9mo6hK6oG56gh76yr0g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAhZEAE#imgrc=hXT1ops_fvaUHM",
+            "source": "https://www.arantec.com/inundaciones-repentinas-sistema-alerta/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHMhLu52Y2VEMF6ukTGFnA1dWiL7J_w7lTVSsoBK5&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAhcEAE#imgrc=DLhSll_PGQMZ4M",
+            "source": "https://www.dw.com/es/destrucci%C3%B3n-por-inundaciones-en-el-noreste-de-brasil/a-60282582",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGmTFIsFxnZYQm8nICzlN3dtFeqjymYDglUEOSBFW&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAhQEAE#imgrc=zpyRGJt1NBDx4M",
+            "source": "https://mercado.com.ar/mercado-plus/las-inundaciones-no-se-deben-solamente-al-cambio-climatico/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlj_3F0DXM8cxbFU99AQQqI0-jbuQa9cu8TK1sFTL&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAhFEAE#imgrc=MrD1_qQeBktkGM",
+            "source": "https://www.infobae.com/sociedad/2019/10/16/inundaciones-en-la-provincia-de-buenos-aires-hasta-un-metro-de-agua-en-las-casas-y-miles-de-personas-afectadas/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4QFCECWuD5mtbFBMz03lQ6ugd9mhdOQJvu6OujGEU&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAhPEAE#imgrc=YZwtx3SRqdSQHM",
+            "source": "https://www.lavoz.com.ar/temas/inundaciones-en-argentina/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrwrH7jylt4zrsZnvvOqeriT5nMdmkchiSGOZody84&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAg_EAE#imgrc=8rqWOin0Z3MrBM",
+            "source": "https://www.tiempo.com/ram/que-es-una-inundacion-parte-i.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhzeXbNaRTXwB8IpyBVV_mekLC0UdQUSEv0a4e6AH1&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAhIEAE#imgrc=t5KlN8Vw5gIw1M",
+            "source": "https://www.clarin.com/sociedad/plata-inundacion-agua-llego-metros_0_ByLwKMPsPmg.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtx9rZYpiITkCDBYkYtPs5LlIV6HEP8n89jXyksfFZWQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAhMEAE#imgrc=pNyC1vMsFfbB0M",
+            "source": "https://es.wikipedia.org/wiki/Inundaci%C3%B3n_en_La_Plata_de_2013",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSerbIKFnw4vlX3yXcqtZjNwC5ReED12yr1sGaCS05S&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&tbm=isch&source=iu&ictx=1&vet=1&fir=iQKRRYE8IfK5iM%252CdITa3W4yAwjCYM%252C_%253B5PT2QxH-oXujMM%252CtFR6kSBAaI6HCM%252C_%253BTQW4_MSKxWb1FM%252C9v__GgWOwvPPmM%252C_%253BhXT1ops_fvaUHM%252CUywKK5eRS1OExM%252C_%253BDLhSll_PGQMZ4M%252CG5bokG8tZNX5_M%252C_%253BzpyRGJt1NBDx4M%252CUlwJ5-_cKpCf9M%252C_%253BMrD1_qQeBktkGM%252CdITa3W4yAwjCYM%252C_%253BYZwtx3SRqdSQHM%252CdA77kAdrDcuEPM%252C_%253B8rqWOin0Z3MrBM%252C8JvySuckqqFOVM%252C_%253Bt5KlN8Vw5gIw1M%252CaZ0LVzOf3AKMVM%252C_%253BpNyC1vMsFfbB0M%252CQIcmq1JhRppz1M%252C_%253BNspLwL_XZyCk_M%252C2pPTQ2hobtIOaM%252C_&usg=AI4_-kRySh2eeLpb6gIyYOPoDeMIHS7N3Q&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ9QF6BAhAEAE#imgrc=NspLwL_XZyCk_M",
+            "source": "http://www.sirenaselectronicas.com/que-tipo-de-sistema-de-alerta-deberia-utilizarse-en-zonas-con-riesgo-de-inundacion/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS89aONMXsCcExgTbQj3ns4qSpvmfKQ_De_Zx_FXO_&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "¿Qué hacer en caso de inundación?",
+            "link": "https://www.youtube.com/watch?v=mFFRzIuD2Nw",
+            "thumbnail": "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/5ad91294569bd80b02f085f8b6965ec85e5f95f5140f796b74d180fea186b6df.jpeg",
+            "channel": "Sikana ES",
+            "duration": "4:08",
+            "platform": "YouTube",
+            "date": "30 jun 2016"
+        },
+        {
+            "position": 2,
+            "title": "¿Qué son las Inundaciones?",
+            "link": "https://www.youtube.com/watch?v=pd-zP6Al3zA",
+            "thumbnail": "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/5ad91294569bd80bf640815144ae8da074f2eced32c085a3c8168029f28140c4.jpeg",
+            "channel": "Canal IMTA",
+            "duration": "3:36",
+            "platform": "YouTube",
+            "date": "17 ago 2017"
+        },
+        {
+            "position": 3,
+            "title": "Inundaciones en Brasil dejan decenas de muertos y miles de ...",
+            "link": "https://www.youtube.com/watch?v=TsvJuxfiZN8",
+            "thumbnail": "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/5ad91294569bd80b18520ab5c3778ff5a1e86a07e6b8d215e09d2de1d3c91247.jpeg",
+            "channel": "DW Español",
+            "duration": "2:13",
+            "platform": "YouTube",
+            "date": "16 feb 2022"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Insólita inundación en sintético y efecto de cama de agua",
+            "link": "https://www.ole.com.ar/fuera-de-juego/cancha-inundada-sintetico-italia_0_ewl9WGmUqq.html",
+            "source": "Olé",
+            "date": "hace 1 día",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4yXlt5xiwDwK6opGvpfQW7fOw4Ix0YOU5Of37-zL0njCYpVsea0tRp0&usqp=CAI&s"
+        },
+        {
+            "title": "Inundaciones bonaerenses: hay 80 mil hectáreas inundadas en Carlos Casares y los productores se reunirán el sábado",
+            "link": "https://tn.com.ar/campo/2022/05/11/hay-80-mil-hectareas-inundadas-en-carlos-casares-y-los-productores-se-reuniran-el-sabado/",
+            "source": "TN",
+            "date": "hace 1 día",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGRU02pyZtiPdwHM5avvqmXbwNXtMGqWjCnTzXkk6di8UjN3wEkOtsigc&usqp=CAI&s"
+        },
+        {
+            "title": "Inundación repentina provoca derrumbe de un puente en el norte de Pakistán",
+            "link": "https://www.france24.com/es/minuto-a-minuto/20220510-inundaci%C3%B3n-repentina-provoca-derrumbe-de-un-puente-en-el-norte-de-pakist%C3%A1n",
+            "source": "France 24",
+            "date": "hace 1 día",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXL_h5HF9LqmmAlaWmb3Hm3NlFnXX-Nz0rBDcZlO995V7aLEM3gpBnOOc&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=AR&hl=es&q=Inundaci%C3%B3n&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQt8YBegQIJhAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&tbm=nws&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+    "related_questions": [
+        {
+            "question": "¿Qué son las inundaciones y cómo se originan?",
+            "snippet": "Fenómeno natural que se presenta cuando el agua sube mucho su nivel en los ríos, lagunas, lagos y mar; entonces, cubre o llena zonas de tierra que normalmente son secas. No tomar agua que no sea potable, y antes de beberla se la debe hervir o filtrar.",
+            "title": "Preguntas y algo mas sobre: Inundaciones - Eird",
+            "link": "https://www.eird.org/fulltext/ABCDesastres/teoria/preguntas/inundaciones.htm",
+            "displayed_link": "https://www.eird.org › fulltext › ABCDesastres › teoria"
+        },
+        {
+            "question": "¿Qué son las inundaciones sus causas y consecuencias?",
+            "snippet": "Una inundación es la ocupación por parte del agua de zonas o regiones que habitualmente se encuentran secas. Normalmente es consecuencia de la aportación inusual y más o menos repentina de una cantidad de agua superior a la que puede drenar el propio cauce del río, aunque no siempre es este el motivo.",
+            "title": "¿QUÉ SON LAS INUNDACIONES? | - Floodup",
+            "link": "http://www.floodup.ub.edu/inundaciones/",
+            "displayed_link": "http://www.floodup.ub.edu › inundaciones"
+        },
+        {
+            "question": "¿Cuándo fue la última inundación de la Argentina?",
+            "snippet": "Inundación en Buenos Aires de 2013.",
+            "title": "Inundación en Buenos Aires de 2013 - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Inundaci%C3%B3n_en_Buenos_Aires_de_2013",
+            "displayed_link": "https://es.wikipedia.org › wiki › Inundación_en_Buenos_..."
+        },
+        {
+            "question": "¿Cuál fue la mayor inundación de Argentina?",
+            "snippet": "La inundación de abril de 1959, considerada en la Argentina un \"desastre nacional\", deja bajo las aguas una extensión que supera los 20.000 km2. Desde Concordia hasta el delta y durante tres meses, la provincia observa un continuo manto hídrico sobre tierras ricamente productivas.",
+            "title": "La inundación de 1959: Sus efectos en el sur entrerriano - Mundo Agrario",
+            "link": "https://www.mundoagrario.unlp.edu.ar/article/view/v08n16a11/969",
+            "displayed_link": "https://www.mundoagrario.unlp.edu.ar › article › view"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Lluvias intensas durante un periodo corto de tiempo en donde se supera la capacidad del suelo de absorber y los ríos empiezan a subir. A causa de fuertes vientos que a veces pueden provocar la crecida de los ríos.",
+        "link": "https://www.argentina.gob.ar/sinagir/riesgos-frecuentes/inundacion#:~:text=Lluvias%20intensas%20durante%20un%20periodo,la%20crecida%20de%20los%20r%C3%ADos.",
+        "displayed_link": "https://www.argentina.gob.ar › sinagir › inundacion",
+        "snippet": "Lluvias intensas durante un periodo corto de tiempo en donde se supera la capacidad del suelo de absorber y los ríos empiezan a subir. A causa de fuertes vientos que a veces pueden provocar la crecida de los ríos.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Inundación - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Inundaci%C3%B3n",
+            "displayed_link": "https://es.wikipedia.org › wiki › Inundación",
+            "thumbnail": "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/2a5f7cb4ae14775ef1c821290dd89392545d0274b62937281bced232432e69d4.jpeg",
+            "snippet": "Una inundación es la ocupación por parte del agua de zonas que habitualmente están libres de esta,​ por desbordamiento de ríos, torrentes o ramblas, ...",
+            "snippet_highlighted_words": [
+                "inundación"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Causas",
+                        "link": "https://es.wikipedia.org/wiki/Inundaci%C3%B3n#Causas"
+                    },
+                    {
+                        "title": "Causas a escala local o regional",
+                        "link": "https://es.wikipedia.org/wiki/Inundaci%C3%B3n#Causas_a_escala_local_o_regional"
+                    },
+                    {
+                        "title": "Efectos",
+                        "link": "https://es.wikipedia.org/wiki/Inundaci%C3%B3n#Efectos"
+                    },
+                    {
+                        "title": "Efectos primarios",
+                        "link": "https://es.wikipedia.org/wiki/Inundaci%C3%B3n#Efectos_primarios"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Inundaciones en Buenos Aires - La Nación",
+            "link": "https://www.lanacion.com.ar/tema/inundaciones-en-buenos-aires-tid49185/",
+            "displayed_link": "https://www.lanacion.com.ar › tema › inundaciones-en-...",
+            "thumbnail": "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/2a5f7cb4ae14775ef1c821290dd893926f6772a8672181e9316c64be63c383a7.jpeg",
+            "snippet": "Encontrá las últimas noticias de Inundaciones en Buenos Aires: El ministro de Agricultura prometió ayuda para los productores inundados, ...",
+            "snippet_highlighted_words": [
+                "Inundaciones",
+                "inundados"
+            ],
+            "images": [
+                "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/2a5f7cb4ae14775ef1c821290dd89392a2b982e63d0d1d222e3247980e15cb46.jpeg",
+                "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/2a5f7cb4ae14775ef1c821290dd89392a2b982e63d0d1d220d8cdbec74c2fc40.jpeg",
+                "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/2a5f7cb4ae14775ef1c821290dd89392a2b982e63d0d1d2287e6d10f1418dc39.jpeg",
+                "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/2a5f7cb4ae14775ef1c821290dd89392a2b982e63d0d1d22a10572545159f812.jpeg"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "¿QUÉ SON LAS INUNDACIONES? | - Floodup",
+            "link": "http://www.floodup.ub.edu/inundaciones/",
+            "displayed_link": "http://www.floodup.ub.edu › inundaciones",
+            "thumbnail": "https://serpapi.com/searches/627d001e3d6919aa93c4604d/images/2a5f7cb4ae14775ef1c821290dd8939297cdd23c28f6e8572f1f16e7b2017c69.jpeg",
+            "snippet": "Una inundación es la ocupación por parte del agua de zonas o regiones que habitualmente se encuentran secas. Normalmente es consecuencia de la aportación ...",
+            "snippet_highlighted_words": [
+                "inundación"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Preguntas y algo mas sobre: Inundaciones - Eird",
+            "link": "https://www.eird.org/fulltext/ABCDesastres/teoria/preguntas/inundaciones.htm",
+            "displayed_link": "https://www.eird.org › fulltext › ABCDesastres › teoria",
+            "snippet": "¿Qué es una inundación? Fenómeno natural que se presenta cuando el agua sube mucho su nivel en los ríos, lagunas, lagos y mar; entonces, cubre o llena zonas de ...",
+            "snippet_highlighted_words": [
+                "inundación"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Inundación en La Plata : Intencionalidad en la construcción y ...",
+            "link": "https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/SEDICI_e0c68d8fd41914607ae868df47b4188e",
+            "displayed_link": "https://repositoriosdigitales.mincyt.gob.ar › Record",
+            "snippet": "Una inundación (la inundación), la tragedia que tristemente supo ganarse el calificativo de “la peor de toda su historia”. Como comunicadores, la realidad nos ...",
+            "snippet_highlighted_words": [
+                "inundación",
+                "inundación"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Inundaciones - Fundación Ciudad",
+            "link": "https://www.fundacionciudad.org.ar/inundaciones.htm",
+            "displayed_link": "https://www.fundacionciudad.org.ar › inundaciones",
+            "snippet": "INUNDACIONES EN BUENOS AIRES ... LAS INUNDACIONES Y SUS CAUSAS ... (Ver Mapa) Los factores que inciden en la inundación son de dos tipos: naturales e ...",
+            "snippet_highlighted_words": [
+                "INUNDACIONES",
+                "INUNDACIONES",
+                "inundación"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "inundación sinonimo",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Inundaci%C3%B3n+sinonimo&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "inundaciones causas",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Inundaciones+causas&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "inundación argentina",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Inundaci%C3%B3n+Argentina&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "inundaciones para niños",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Inundaciones+para+ni%C3%B1os&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "consecuencias de la inundación",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Consecuencias+de+la+inundaci%C3%B3n&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ1QJ6BAguEAE"
+        },
+        {
+            "query": "tipos de inundaciones",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Tipos+de+inundaciones&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "que es una inundación desastre natural",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=Que+es+una+inundaci%C3%B3n+desastre+natural&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "en caso de inundación",
+            "link": "https://www.google.com/search?gl=AR&hl=es&q=En+caso+de+inundaci%C3%B3n&sa=X&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&ei=KgB9YvzWF6yb_QaFxr3AAw&start=10&sa=N&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&ei=KgB9YvzWF6yb_QaFxr3AAw&start=10&sa=N&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&ei=KgB9YvzWF6yb_QaFxr3AAw&start=20&sa=N&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&ei=KgB9YvzWF6yb_QaFxr3AAw&start=30&sa=N&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&ei=KgB9YvzWF6yb_QaFxr3AAw&start=40&sa=N&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&ei=KgB9YvzWF6yb_QaFxr3AAw&start=50&sa=N&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&ei=KgB9YvzWF6yb_QaFxr3AAw&start=60&sa=N&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&ei=KgB9YvzWF6yb_QaFxr3AAw&start=70&sa=N&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&ei=KgB9YvzWF6yb_QaFxr3AAw&start=80&sa=N&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=Inundaci%C3%B3n&gl=AR&hl=es&ei=KgB9YvzWF6yb_QaFxr3AAw&start=90&sa=N&ved=2ahUKEwj8k5ve_dn3AhWsTd8KHQVjDzgQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=20&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=30&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=40&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=50&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=60&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=70&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=80&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Inundaci%C3%B3n&start=90&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D"
+        }
+    }
+}

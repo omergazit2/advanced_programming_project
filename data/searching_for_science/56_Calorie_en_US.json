@@ -1,0 +1,597 @@
+{
+    "search_metadata": {
+        "id": "627cfebe681ebea721c92b52",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/af044853f5a5331b/627cfebe681ebea721c92b52.json",
+        "created_at": "2022-05-12 12:34:06 UTC",
+        "processed_at": "2022-05-12 12:34:06 UTC",
+        "google_url": "https://www.google.com/search?q=Calorie&oq=Calorie&uule=w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz&hl=en&gl=US&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/af044853f5a5331b/627cfebe681ebea721c92b52.html",
+        "total_time_taken": 8.78
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Calorie",
+        "uule": "w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "US",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Calorie",
+        "total_results": 3390000000,
+        "time_taken_displayed": 0.54
+    },
+    "knowledge_graph": {
+        "title": "Calorie",
+        "header_images": [
+            {
+                "source": "https://www.ericfavre.com/lifestyle/uk/home/nutrition-sportive/nutrition-basics/all-about-calories/calorie-table-calculation/"
+            },
+            {
+                "source": "https://www.webmd.com/diet/rm-quiz-truth-calories"
+            },
+            {
+                "source": "https://www.precisionnutrition.com/problem-with-calorie-counting-calories-in"
+            },
+            {
+                "source": "https://www.youtube.com/watch?v=VEQaH4LruUo"
+            },
+            {
+                "source": "https://www.buffalo.edu/recreation/services/virtual-rec/food-swap.html"
+            }
+        ],
+        "description": "The calorie is a unit of energy. For historical reasons, two main definitions of \"calorie\" are in wide use. The large calorie, food calorie, or kilogram calorie was originally defined as the amount of heat needed to raise the temperature of one kilogram of water by one degree Celsius.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Calorie"
+        },
+        "people_also_search_for": [
+            {
+                "name": "Fat",
+                "link": "https://www.google.com/search?gl=US&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZwUHm47YOEfvtI7oZt6GIHm4jGY7bkYLo9aU-Vxn1bYeIZ-50AIBxaY95mrRYfXzG-rH73uqWcpzg7xjHpPE-uVfPGe-pt9tAWuA_FwaLRX4AvsNMjUshKdAjlTli_FkljxVL5AnmdBTQlQOgNWY_chgIOKHuoDaaDMOXa8jz3fPPiykZMW6R4L-e6fnHQ4sbXD8lQYZVYhMzMhpCX6rEYk88letyT805z9WdHwJPSipE9S9g%3D%3D&q=Fat&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQs9oBKAB6BAhkEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Fat&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZwUHm47YOEfvtI7oZt6GIHm4jGY7bkYLo9aU-Vxn1bYeIZ-50AIBxaY95mrRYfXzG-rH73uqWcpzg7xjHpPE-uVfPGe-pt9tAWuA_FwaLRX4AvsNMjUshKdAjlTli_FkljxVL5AnmdBTQlQOgNWY_chgIOKHuoDaaDMOXa8jz3fPPiykZMW6R4L-e6fnHQ4sbXD8lQYZVYhMzMhpCX6rEYk88letyT805z9WdHwJPSipE9S9g%3D%3D&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+                "image": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/681bdb60526fe1a11df361487c6a51f320b044c485e2d88c6542b54d6d56c40f1f9d9209cead9361849b984f7e2f7843.jpeg"
+            },
+            {
+                "name": "Cholesterol",
+                "link": "https://www.google.com/search?gl=US&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSpAMuRW2lPV6r0OG_ulf3XIs2sFhYy30zDK7kgc6VBMj-KovWDkzeHaVOel_Gykr_IDuwvRnPFPlBsaxuO0NcEu3Be4UyBj9xfiQWHLwkOpuXtnCw8XuMnJh_1iR9gfOMO9pCmOt_Tmberx84z9xLzLU_0g6GX1vhMhAMuliX0jATuucxZ_sPW1LXk5Z8fH1_9TpGXwlpsKfcY3ffydIY4PB9MUd_O_0L1Klt2zzGHvOsO3MdaaN7kS0MEqnN1y8VeQPJE%3D&q=Cholesterol&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQs9oBKAF6BAhkEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Cholesterol&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSpAMuRW2lPV6r0OG_ulf3XIs2sFhYy30zDK7kgc6VBMj-KovWDkzeHaVOel_Gykr_IDuwvRnPFPlBsaxuO0NcEu3Be4UyBj9xfiQWHLwkOpuXtnCw8XuMnJh_1iR9gfOMO9pCmOt_Tmberx84z9xLzLU_0g6GX1vhMhAMuliX0jATuucxZ_sPW1LXk5Z8fH1_9TpGXwlpsKfcY3ffydIY4PB9MUd_O_0L1Klt2zzGHvOsO3MdaaN7kS0MEqnN1y8VeQPJE%3D&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+                "image": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/681bdb60526fe1a11df361487c6a51f320b044c485e2d88c6542b54d6d56c40f8695bafe74c0eab2153958fce9426677.png"
+            },
+            {
+                "name": "Energy",
+                "link": "https://www.google.com/search?gl=US&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXRhos246KBwV3lZ-liE-XxQPlzUvXBCb2hWc7d_lMktJpvSAHIVCGhdXHs0kmqb3_B7uuq1iwlykCePbs7lJfhdINA03wD6L6kocv2d6WDeJBvTka8EzwCX9R5W_6vkKs4Ue5C3piFA2groqWNj0aLlrXSp2X_KX_Vi6lRfovMb9xxVaIYbWp38GBHNS1dynfQJ-G59pyHE1KNraE9hUs7p2_nCnddIjOYiu_GBtllGza8Z6w%3D%3D&q=Energy&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQs9oBKAJ6BAhkEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Energy&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXRhos246KBwV3lZ-liE-XxQPlzUvXBCb2hWc7d_lMktJpvSAHIVCGhdXHs0kmqb3_B7uuq1iwlykCePbs7lJfhdINA03wD6L6kocv2d6WDeJBvTka8EzwCX9R5W_6vkKs4Ue5C3piFA2groqWNj0aLlrXSp2X_KX_Vi6lRfovMb9xxVaIYbWp38GBHNS1dynfQJ-G59pyHE1KNraE9hUs7p2_nCnddIjOYiu_GBtllGza8Z6w%3D%3D&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+                "image": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/681bdb60526fe1a11df361487c6a51f320b044c485e2d88c6542b54d6d56c40fb066768c59b4bde5e738f9dd45198823.jpeg"
+            },
+            {
+                "name": "Saturated fat",
+                "link": "https://www.google.com/search?gl=US&hl=en&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBCMREUh_CC-oo_rNraMjADvtQ4XNgjsoF6RixOB5Ui31EpVZTUvSeYWUkoUJvrJkeZ7mLFLJ5_oQO57rUag-Uf62FApwnY3W--AdRBH-RSte9mhHDuLmsRdzDuKYp0DD0K3clks2KegDH4CeBQOszI7OMamOwqtyvPZxx7PO0H786OGSGjPs4WiHrtrn_0gZSmqSPx8LZfZvTJ776EN7b13ieokcN09V-7j5EVOT9_zYBVowkJ2Llbxmns2e9urPx5mWHc%3D&q=Saturated+fat&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQs9oBKAN6BAhkEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Saturated+fat&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBCMREUh_CC-oo_rNraMjADvtQ4XNgjsoF6RixOB5Ui31EpVZTUvSeYWUkoUJvrJkeZ7mLFLJ5_oQO57rUag-Uf62FApwnY3W--AdRBH-RSte9mhHDuLmsRdzDuKYp0DD0K3clks2KegDH4CeBQOszI7OMamOwqtyvPZxx7PO0H786OGSGjPs4WiHrtrn_0gZSmqSPx8LZfZvTJ776EN7b13ieokcN09V-7j5EVOT9_zYBVowkJ2Llbxmns2e9urPx5mWHc%3D&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+                "image": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/681bdb60526fe1a11df361487c6a51f320b044c485e2d88c6542b54d6d56c40ffa5dd221a8bb36962f83511238bfca19.jpeg"
+            }
+        ]
+    },
+    "top_stories": [
+        {
+            "title": "French fries versus almonds: Calorie for calorie, which comes out on top?",
+            "link": "https://www.health.harvard.edu/blog/french-fries-versus-almonds-calorie-for-calorie-which-comes-out-on-top-202205102741",
+            "source": "Harvard Health",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/e9bc17dd5920ff359b8f7b87cb33935bb3c762eee46c7e3c.jpeg"
+        },
+        {
+            "title": "Carefully Timed Calorie Restriction Greatly Extends Mouse Lifespan",
+            "link": "https://www.technologynetworks.com/neuroscience/news/carefully-timed-calorie-restriction-greatly-extends-mouse-lifespan-361370",
+            "source": "Technology Networks",
+            "date": "3 days ago",
+            "thumbnail": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/e9bc17dd5920ff35f0e798ea510b35c1dc820dc6072cf4c0.jpeg"
+        },
+        {
+            "title": "I've Never Liked Zero-Calorie Sweeteners, But This One Blew Me Away — Eat This Not That",
+            "link": "https://www.eatthis.com/zero-calorie-sweetener-blew-me-away/",
+            "source": "Eat This, Not That",
+            "date": "22 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/e9bc17dd5920ff3576a0a890d84fb8c64e0044ae7507c642.jpeg"
+        },
+        {
+            "title": "What Not to Do if You Want to Burn Calories in a Short Amount of Time",
+            "link": "https://poosh.com/burn-calories-quickly/",
+            "source": "Poosh",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/e9bc17dd5920ff35e91d33d08c582477d8d2b311d9da6459.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=US&hl=en&q=Calorie&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQt8YBegQIPhAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&tbm=nws&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+    "related_questions": [
+        {
+            "question": "What is calorie in food?",
+            "snippet": "The amount of energy in an item of food or drink is measured in calories. When we eat and drink more calories than we use up, our bodies store the excess as body fat.",
+            "title": "Understanding calories - NHS",
+            "link": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/understanding-calories/",
+            "displayed_link": "https://www.nhs.uk › live-well › managing-your-weight"
+        },
+        {
+            "question": "How much is a calorie?",
+            "snippet": "The definition of a calorie is the amount of energy needed to raise the temperature of 1 gram (g) of water through 1° Celsius. The type and amount of food we eat determine how many calories we consume.",
+            "title": "Calories: Recommended intake, burning calories, tips, and daily ...",
+            "link": "https://www.medicalnewstoday.com/articles/245588",
+            "displayed_link": "https://www.medicalnewstoday.com › articles"
+        },
+        {
+            "question": "How many calories should I eating a day?",
+            "snippet": "Though it differs depending on age and activity level, adult males generally require 2,000-3000 calories per day to maintain weight while adult females need around 1,600-2,400 according to the U.S Department of Health.",
+            "title": "Calorie Calculator",
+            "link": "https://www.calculator.net/calorie-calculator.html",
+            "displayed_link": "https://www.calculator.net › fitness & health"
+        },
+        {
+            "question": "What is the difference between calorie and calorie?",
+            "snippet": "The \"calorie\" we refer to in food is actually kilocalorie. One (1) kilocalorie is the same as one (1) Calorie (uppercase C). A kilocalorie is the amount of heat required to raise the temperature of one kilogram of water one degree Celsius.",
+            "title": "What is the difference between calories and kilocalories?",
+            "link": "https://www.nal.usda.gov/legacy/fnic/what-difference-between-calories-and-kilocalories",
+            "displayed_link": "https://www.nal.usda.gov › legacy › fnic › what-differenc..."
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "cal·o·rie",
+        "word_type": "noun",
+        "definitions": [
+            "the energy needed to raise the temperature of 1 gram of water through 1 °C (now usually defined as 4.1868 joules).",
+            "the energy needed to raise the temperature of 1 kilogram of water through 1 °C, equal to one thousand small calories and often used to measure the energy value of foods."
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Calorie Calculator",
+            "link": "https://www.calculator.net/calorie-calculator.html",
+            "displayed_link": "https://www.calculator.net › fitness & health",
+            "snippet": "This calorie calculator estimates the number of calories needed each day to maintain, lose, or gain weight. Learn the kinds of calories and their effects.",
+            "snippet_highlighted_words": [
+                "calorie",
+                "calories",
+                "calories"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Food Energy Converter",
+                        "link": "https://www.calculator.net/calorie-calculator.html#:~:text=Food%20Energy%20Converter"
+                    },
+                    {
+                        "title": "Zigzag Calorie Cycling",
+                        "link": "https://www.calculator.net/calorie-calculator.html#:~:text=Zigzag%20Calorie%20Cycling,-Zigzag%20calorie%20cycling%20is%20a"
+                    },
+                    {
+                        "title": "How Many Calories Do You...",
+                        "link": "https://www.calculator.net/calorie-calculator.html#:~:text=How%20Many%20Calories%20Do%20You%20Need%3F"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "calculator.net was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/f6bebd310c06565471bb0ca8a05fd64f8dc3033757bfa6dae0e8e1e34fbca4d79bfcc6ea0deabdf94478f326301a5d13.png"
+                },
+                "keywords": [
+                    "calorie"
+                ],
+                "related_keywords": [
+                    "calories"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.calculator.net/calorie-calculator.html&tbm=ilp&ilps=ADNMCi12ppgBpl5Pk6I8blyqXEzfmv3zPA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JtuhELCrbo0J:https://www.calculator.net/calorie-calculator.html+&cd=11&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Calorie - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Calorie",
+            "displayed_link": "https://en.wikipedia.org › wiki › Calorie",
+            "snippet": "The calorie is a unit of energy. ... For historical reasons, two main definitions of \"calorie\" are in wide use. The large calorie, food calorie, or kilogram ...",
+            "snippet_highlighted_words": [
+                "calorie",
+                "calorie",
+                "calorie",
+                "calorie"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Calorie (disambiguation)",
+                        "link": "https://en.wikipedia.org/wiki/Calorie_(disambiguation)"
+                    },
+                    {
+                        "title": "Food energy",
+                        "link": "https://en.wikipedia.org/wiki/Food_energy"
+                    },
+                    {
+                        "title": "Units of energy",
+                        "link": "https://en.wikipedia.org/wiki/Units_of_energy"
+                    },
+                    {
+                        "title": "Empty calories",
+                        "link": "https://en.wikipedia.org/wiki/Empty_calories"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "icon": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/f6bebd310c06565471bb0ca8a05fd64fa08f0ba91e23a1e56b7f5240d5450a7f22d64bf0864ca7e92e519272803d23e2.png"
+                },
+                "keywords": [
+                    "calorie"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Calorie&tbm=ilp&ilps=ADNMCi2HmKBPMk8_Qg_MnmCVA1IYQWRwDg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PhRx66uLZm8J:https://en.wikipedia.org/wiki/Calorie+&cd=12&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://en.wikipedia.org/wiki/Calorie+Calorie"
+        },
+        {
+            "position": 3,
+            "title": "Calories: Requirements, health needs, and function - Medical ...",
+            "link": "https://www.medicalnewstoday.com/articles/263028",
+            "displayed_link": "https://www.medicalnewstoday.com › articles",
+            "date": "2 days ago",
+            "snippet": "A small calorie (cal) is the amount of energy required to raise the temperature of 1 gram (g) of water by 1º Celsius (º C). · A large calorie ( ...",
+            "snippet_highlighted_words": [
+                "calorie",
+                "calorie"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "What are calories?",
+                        "link": "https://www.medicalnewstoday.com/articles/263028#what-are-calories"
+                    },
+                    {
+                        "title": "Daily requirement",
+                        "link": "https://www.medicalnewstoday.com/articles/263028#daily-requirement"
+                    },
+                    {
+                        "title": "Calories and health",
+                        "link": "https://www.medicalnewstoday.com/articles/263028#calories-and-health"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Medical News Today is a web-based outlet for medical information and news, targeted at both the general public and physicians. All posted content is available online, and the earliest available article dates from May 2003.\nThe website has been owned by Healthline Media since 2016.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Medical_News_Today",
+                    "icon": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/f6bebd310c06565471bb0ca8a05fd64fd089dcb8219aaae1a53f1795f1569174af8142f6b52046973020ef65eaf5d4a3.png"
+                },
+                "keywords": [
+                    "calorie"
+                ],
+                "related_keywords": [
+                    "calories"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.medicalnewstoday.com/articles/263028&tbm=ilp&ilps=ADNMCi1Fc955iEo5fMOa7rKuQ0EsvBIgtQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:bU10FptHYuEJ:https://www.medicalnewstoday.com/articles/263028+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "How Many Calories Should You Eat per Day to Lose Weight?",
+            "link": "https://www.healthline.com/nutrition/how-many-calories-per-day",
+            "displayed_link": "https://www.healthline.com › nutrition › how-many-cal...",
+            "snippet": "Simply put, a calorie is a unit that measures energy. Calories are usually used to measure the energy content of foods and beverages. To lose weight, you need ...",
+            "snippet_highlighted_words": [
+                "calorie",
+                "Calories"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Calculator",
+                        "link": "https://www.healthline.com/nutrition/how-many-calories-per-day#calculator"
+                    },
+                    {
+                        "title": "Average needs",
+                        "link": "https://www.healthline.com/nutrition/how-many-calories-per-day#average-needs"
+                    },
+                    {
+                        "title": "Calorie basics",
+                        "link": "https://www.healthline.com/nutrition/how-many-calories-per-day#calorie-basics"
+                    },
+                    {
+                        "title": "Tips to eat fewer calories",
+                        "link": "https://www.healthline.com/nutrition/how-many-calories-per-day#tips-to-eat-fewer-calories"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Healthline Media, Inc. is an American website and provider of health information headquartered in San Francisco, California. It was founded in its current form 2006 and established as a standalone entity in January 2016.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Healthline",
+                    "icon": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/f6bebd310c06565471bb0ca8a05fd64f57dd8f527fab42b0c784e48b7259651fd8a2078ea2f094b0031f2c7703ebc5f8.png"
+                },
+                "keywords": [
+                    "calorie"
+                ],
+                "related_keywords": [
+                    "calories"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.healthline.com/nutrition/how-many-calories-per-day&tbm=ilp&ilps=ADNMCi3y9d3KrX47RLTWzl9wX8Ir7vXn8A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uP8clskmVnwJ:https://www.healthline.com/nutrition/how-many-calories-per-day+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Calorie calculator - Mayo Clinic",
+            "link": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/calorie-calculator/itt-20402304",
+            "displayed_link": "https://www.mayoclinic.org › in-depth › itt-20402304",
+            "snippet": "Use the calorie calculator to estimate the number of daily calories your body needs to maintain your current weight. Switch to Metric Units. Age. years. Height.",
+            "snippet_highlighted_words": [
+                "calorie",
+                "calories"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Mayo Clinic is a nonprofit American academic medical center focused on integrated health care, education, and research.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Mayo_Clinic",
+                    "icon": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/f6bebd310c06565471bb0ca8a05fd64f0552145dd2aea6ff4215eaa1d2f32b2a2201e02a81115b795cea1af3a857dbeb.png"
+                },
+                "keywords": [
+                    "calorie"
+                ],
+                "related_keywords": [
+                    "calories"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/calorie-calculator/itt-20402304&tbm=ilp&ilps=ADNMCi2sbqXjEPFbsMq8VhauPcwrclpZIg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sIGSe5TIjmwJ:https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/calorie-calculator/itt-20402304+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "What Is a Calorie? How to Use Calorie Counts to Meet Goals",
+            "link": "https://www.verywellfit.com/what-is-a-calorie-and-why-should-i-care-3496238",
+            "displayed_link": "https://www.verywellfit.com › ... › Weight Loss",
+            "date": "Apr 18, 2022",
+            "snippet": "\"Simply put, a calorie is the unit of energy our food supplies,\" says Stacey Pence, RD, a registered dietician at The Ohio State University ...",
+            "snippet_highlighted_words": [
+                "calorie"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Learn How Many Calories...",
+                        "link": "https://www.verywellfit.com/what-is-a-calorie-and-why-should-i-care-3496238#:~:text=Learn%20How%20Many%20Calories%20You%27re%20Burning"
+                    },
+                    {
+                        "title": "Calories In Food",
+                        "link": "https://www.verywellfit.com/what-is-a-calorie-and-why-should-i-care-3496238#:~:text=Calories%20in%20Food,-A%20calorie%20is%20a%20calorie"
+                    },
+                    {
+                        "title": "Calories And Body Weight",
+                        "link": "https://www.verywellfit.com/what-is-a-calorie-and-why-should-i-care-3496238#:~:text=Calories%20and%20Body%20Weight,-Calories%20may%20be%20a%20helpful"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "verywellfit.com was first indexed by Google in February 2018",
+                    "icon": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/f6bebd310c06565471bb0ca8a05fd64fc8ff7f162781cc746914b3282aafa3247f489918bb5ca99e3f001fa2dc63539c.png"
+                },
+                "keywords": [
+                    "calorie"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.verywellfit.com/what-is-a-calorie-and-why-should-i-care-3496238&tbm=ilp&ilps=ADNMCi3nUqK_kSQoiRo-j0MkSx-UTKmW6g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZlqNBqm6VH0J:https://www.verywellfit.com/what-is-a-calorie-and-why-should-i-care-3496238+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Learning About Calories (for Kids) - Nemours KidsHealth",
+            "link": "https://kidshealth.org/en/kids/calorie.html",
+            "displayed_link": "https://kidshealth.org › kids › calorie",
+            "snippet": "When people talk about the calories in food, what do they mean? A calorie is a unit of measurement — but it doesn't measure weight or length.",
+            "snippet_highlighted_words": [
+                "calories",
+                "calorie"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "kidshealth.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/f6bebd310c06565471bb0ca8a05fd64f1ea4e0f0324166e97413134d9c9de21e52ca2c9d747450d6b20501eadcae45f5.png"
+                },
+                "keywords": [
+                    "calorie"
+                ],
+                "related_keywords": [
+                    "calories"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://kidshealth.org/en/kids/calorie.html&tbm=ilp&ilps=ADNMCi2D4IxMaPYG_8zJfZztbQ8dEAMGtQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jjDMpndxo5UJ:https://kidshealth.org/en/kids/calorie.html+&cd=21&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "CalorieKing: Food Nutrition Facts and Free Calorie Counter",
+            "link": "https://www.calorieking.com/us/en/",
+            "displayed_link": "https://www.calorieking.com › ...",
+            "snippet": "Find nutrition facts for your favorite brands and fast-food restaurants in our trusted food database. Track what you eat with our free online calorie ...",
+            "snippet_highlighted_words": [
+                "calorie"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "CalorieKing is an online weight loss club and software developer with a program centred on healthy eating and exercise. The company offers products and services tailored specifically for the United States, British, and Australian markets.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/CalorieKing",
+                    "icon": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/f6bebd310c06565471bb0ca8a05fd64f458d2b6eaf24eb6ca88ab29ed81744c357667babd18b2179e5ecc2fc783a45d1.png"
+                },
+                "keywords": [
+                    "calorie"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.calorieking.com/us/en/&tbm=ilp&ilps=ADNMCi0fFLMx11HpGCSecYfA8dg-aWeMRQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:J1D44YW-dP8J:https://www.calorieking.com/us/en/+&cd=22&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "What Are Calories? | Live Science",
+            "link": "https://www.livescience.com/52802-what-is-a-calorie.html",
+            "displayed_link": "https://www.livescience.com › 52802-what-is-a-calorie",
+            "date": "Nov 13, 2015",
+            "snippet": "A calorie is a unit of energy. Historically, scientists have defined \"calorie\" to mean a unit of energy or heat that could come from a ...",
+            "snippet_highlighted_words": [
+                "calorie",
+                "calorie"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "The Physics Of Calories",
+                        "link": "https://www.livescience.com/52802-what-is-a-calorie.html#:~:text=The%20physics%20of%20calories"
+                    },
+                    {
+                        "title": "Calories And Weight Loss",
+                        "link": "https://www.livescience.com/52802-what-is-a-calorie.html#:~:text=Calories%20and%20weight%20loss"
+                    },
+                    {
+                        "title": "Low-Calorie Diets",
+                        "link": "https://www.livescience.com/52802-what-is-a-calorie.html#:~:text=Low%2Dcalorie%20diets,-The%20National%20Institutes%20of%20Health"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Live Science is a science news website run by Future via Purch, which it purchased from Imaginova in 2009. Stories and editorial commentary are typically syndicated to major news outlets, such as Yahoo!, MSNBC, AOL, and Fox News.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Live_Science",
+                    "icon": "https://serpapi.com/searches/627cfebe681ebea721c92b52/images/f6bebd310c06565471bb0ca8a05fd64f4fd107444273926ab168be8f08d043b89fb4c7ee16c25a06bc1e9d7e06ab3a04.png"
+                },
+                "keywords": [
+                    "calorie"
+                ],
+                "related_keywords": [
+                    "calories"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.livescience.com/52802-what-is-a-calorie.html&tbm=ilp&ilps=ADNMCi0G0GhuVZj0f-e3YSVBF-jeU7bW6Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:y1UstvLlvo0J:https://www.livescience.com/52802-what-is-a-calorie.html+&cd=23&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "calorie calculator",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Calorie+calculator&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "what is calories in food",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=What+is+calories+in+food&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "how many calories should i eat",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=How+many+calories+should+I+eat&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "food calorie calculator",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Food+calorie+calculator&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "what is calories in body",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=What+is+calories+in+body&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "calorie intake calculator",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Calorie+intake+calculator&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "calorie deficit calculator",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Calorie+deficit+calculator&sa=X&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ1QJ6BAg8EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Calorie&gl=US&hl=en&ei=xv58YurjLYvI_QaIv76gCA&start=10&sa=N&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Calorie&gl=US&hl=en&ei=xv58YurjLYvI_QaIv76gCA&start=10&sa=N&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Calorie&gl=US&hl=en&ei=xv58YurjLYvI_QaIv76gCA&start=20&sa=N&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Calorie&gl=US&hl=en&ei=xv58YurjLYvI_QaIv76gCA&start=30&sa=N&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Calorie&gl=US&hl=en&ei=xv58YurjLYvI_QaIv76gCA&start=40&sa=N&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Calorie&gl=US&hl=en&ei=xv58YurjLYvI_QaIv76gCA&start=50&sa=N&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Calorie&gl=US&hl=en&ei=xv58YurjLYvI_QaIv76gCA&start=60&sa=N&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Calorie&gl=US&hl=en&ei=xv58YurjLYvI_QaIv76gCA&start=70&sa=N&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Calorie&gl=US&hl=en&ei=xv58YurjLYvI_QaIv76gCA&start=80&sa=N&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Calorie&gl=US&hl=en&ei=xv58YurjLYvI_QaIv76gCA&start=90&sa=N&ved=2ahUKEwjq3tC0_Nn3AhULZN8KHYifD4QQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=20&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=30&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=40&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=50&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=60&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=70&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=80&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Calorie&start=90&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        }
+    }
+}

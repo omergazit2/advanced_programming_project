@@ -1,0 +1,418 @@
+{
+    "search_metadata": {
+        "id": "629e3d5d95bf924366e71c61",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/40662dbdd2faf3e2/629e3d5d95bf924366e71c61.json",
+        "created_at": "2022-06-06 17:46:05 UTC",
+        "processed_at": "2022-06-06 17:46:05 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&oq=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/40662dbdd2faf3e2/629e3d5d95bf924366e71c61.html",
+        "total_time_taken": 0.79
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "פטריות",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "פטריות",
+        "total_results": 9820000,
+        "time_taken_displayed": 0.5
+    },
+    "knowledge_graph": {
+        "title": "פטריות",
+        "description": "פטריות היא ממלכה של אורגניזמים איקריוטים, כמו השמרים והעובשים החד-תאיים ופטריות הבסיסה הרב-תאיות. הפטריות אינן צמחים ואינן בעלי חיים, אלא ממלכה טקסונומית בפני עצמה הנבדלת מאחרות בתכונות ניכרות רבות. הפטריות אינן מבצעות פוטוסינתזה, ולכן נחשבות להטרוטרופיות.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA"
+        },
+        "משפחות": [
+            {
+                "name": "פטריות שק",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%A9%D7%A7&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMzFK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexCl5fcn3G9RXXZ16fen2VwvWV15fvYGUEABh2DoZoAAAA&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQxA16BAhSEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%A9%D7%A7&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMzFK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexCl5fcn3G9RXXZ16fen2VwvWV15fvYGUEABh2DoZoAAAA",
+                "image": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/cbcabf942e196b3a2927954b0510da586b06480cbbfd9ddd75897194d3602bbf3f4f961d983fba1f.jpeg"
+            },
+            {
+                "name": "פטריות בסיסה",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%91%D7%A1%D7%99%D7%A1%D7%94&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMTCu0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexil9fcn3G9RXXZ16fen2VwvWJ1xcCmQuvT9nByggA2aQ2cG4AAAA&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQxA16BAhSEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%91%D7%A1%D7%99%D7%A1%D7%94&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMTCu0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexil9fcn3G9RXXZ16fen2VwvWJ1xcCmQuvT9nByggA2aQ2cG4AAAA",
+                "image": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/cbcabf942e196b3a2927954b0510da586b06480cbbfd9ddd4476542b6d6a5ccc03651a75293f9c50.jpeg"
+            },
+            {
+                "name": "פקועה דו‑נבגית",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%A7%D7%95%D7%A2%D7%94+%D7%93%D7%95-%D7%A0%D7%91%D7%92%D7%99%D7%AA&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLEMi5PKs7Uss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7FKXV9yffn1qdcXXZ-icH3y9am61xdcn3h90vWZ11ftYGUEALX-BSFyAAAA&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQxA16BAhSEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%A7%D7%95%D7%A2%D7%94+%D7%93%D7%95-%D7%A0%D7%91%D7%92%D7%99%D7%AA&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLEMi5PKs7Uss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7FKXV9yffn1qdcXXZ-icH3y9am61xdcn3h90vWZ11ftYGUEALX-BSFyAAAA",
+                "image": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/cbcabf942e196b3a2927954b0510da586b06480cbbfd9ddd9746fa305d3b8b2f661bc2f55e3c9293.jpeg"
+            },
+            {
+                "name": "פקועה",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%A7%D7%95%D7%A2%D7%94&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLFMs8yLC7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7FyXV9yffn1qdcXXZ-yg5URALUZ5PpiAAAA&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQxA16BAhSEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%A7%D7%95%D7%A2%D7%94&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLFMs8yLC7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7FyXV9yffn1qdcXXZ-yg5URALUZ5PpiAAAA",
+                "image": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/cbcabf942e196b3a2927954b0510da586b06480cbbfd9ddd998c410fad712e83af77a7035170b147.jpeg"
+            }
+        ],
+        "משפחות_link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%9E%D7%A9%D7%A4%D7%97%D7%95%D7%AA&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVGCs7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7FKXl9yfcb1FddnXp96fZXC9XnXVwIFpoM4O1gZAYaHv1ZwAAAA&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQMSgAegQIUhAB",
+        "משפחות_stick": "H4sIAAAAAAAAAONgFuLQz9U3MDY0NVGCs7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7FKXl9yfcb1FddnXp96fZXC9XnXVwIFpoM4O1gZAYaHv1ZwAAAA",
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "אצות",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%A6%D7%95%D7%AA&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGT47koaPBeS57NVQE0PhjhP7pDcxGuTR8aZgcgZoegZi3C3QIF0pJmOetwFra-Z-tGQzC4_18prnRVTL1xvta8d8KUMl0Up0hx6D2FD22mD_iT-BLrUaxZ5iJiHoc8lhHCg6X8OIW9pk6u0AckmZRWViG0ZRTaooNdg4LgwCDhI9-Na8QfGbnROq2OpDV_R8n3twKE59WG_lOMPxjkTsQjEAFEUieCq5c7AV5crGtAh5laajAQ%3D%3D&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQxA16BAhNEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A6%D7%95%D7%AA&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGT47koaPBeS57NVQE0PhjhP7pDcxGuTR8aZgcgZoegZi3C3QIF0pJmOetwFra-Z-tGQzC4_18prnRVTL1xvta8d8KUMl0Up0hx6D2FD22mD_iT-BLrUaxZ5iJiHoc8lhHCg6X8OIW9pk6u0AckmZRWViG0ZRTaooNdg4LgwCDhI9-Na8QfGbnROq2OpDV_R8n3twKE59WG_lOMPxjkTsQjEAFEUieCq5c7AV5crGtAh5laajAQ%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/cbcabf942e196b3a2927954b0510da58670cad236986c5d85a85d46e0cb4424e28a8cf9662580ff704b9865a134a61d9671d7ae333b6b2ca.jpeg"
+            },
+            {
+                "name": "פטרייה",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%98%D7%A8%D7%99%D7%99%D7%AA+%D7%9B%D7%95%D7%91%D7%A2&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfbjlyEiFBjJpjetQgFifEWCKCKbbD7kR4OiIQyZZG-IRXUWtQvLNrzfCmgKr1P5_05mV3DXmAskH8rLzkTP1yFWODyeJ4vRMJrTpq87ly4LKTWZBzi16B68mZ6L6Tztd6IFdlrHQonaUL9LFPi1FNqi6_5XdCx_a4XZ-4s51VuZ5K1SmGzfnf6h2izM21lbRG7suj-v9asZyb1JyZ0LG6C_t6w_OHEdFPtUTutlBlTYxEEd2SLCZEXYoLSlPBqJxijlxvI%3D&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQxA16BAhNEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%99%D7%AA+%D7%9B%D7%95%D7%91%D7%A2&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfbjlyEiFBjJpjetQgFifEWCKCKbbD7kR4OiIQyZZG-IRXUWtQvLNrzfCmgKr1P5_05mV3DXmAskH8rLzkTP1yFWODyeJ4vRMJrTpq87ly4LKTWZBzi16B68mZ6L6Tztd6IFdlrHQonaUL9LFPi1FNqi6_5XdCx_a4XZ-4s51VuZ5K1SmGzfnf6h2izM21lbRG7suj-v9asZyb1JyZ0LG6C_t6w_OHEdFPtUTutlBlTYxEEd2SLCZEXYoLSlPBqJxijlxvI%3D",
+                "image": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/cbcabf942e196b3a2927954b0510da58670cad236986c5d85a85d46e0cb4424e28a8cf9662580ff734ae129893ccb0ef24e35beb4577d4e8.jpeg"
+            },
+            {
+                "name": "פקועה",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%A7%D7%95%D7%A2%D7%94&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgOShJOJJNWwOEew86NTOp2mad-mL76jCE7HttJNxT4XD6b6n0r2CPfY6KxnokXJZSnBgMV9c45wpQM3TIfiHWS2od_M8sZtXFbcWv7VF4VUykipupF_KqM1ShdeXJv1JvHv4KFEhB40az84yPc3aqw-MKGjygF0Q-XjWA9dkgBNzeuJATxoMSz57L579lUhP_PjT2nmOZ5q9wKShlnJGxKiqpxSc3dmzuLhhH4Je1E2bt1_CtEHobULzFUXFv-KpsP0hzX4%3D&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQxA16BAhNEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%A7%D7%95%D7%A2%D7%94&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgOShJOJJNWwOEew86NTOp2mad-mL76jCE7HttJNxT4XD6b6n0r2CPfY6KxnokXJZSnBgMV9c45wpQM3TIfiHWS2od_M8sZtXFbcWv7VF4VUykipupF_KqM1ShdeXJv1JvHv4KFEhB40az84yPc3aqw-MKGjygF0Q-XjWA9dkgBNzeuJATxoMSz57L579lUhP_PjT2nmOZ5q9wKShlnJGxKiqpxSc3dmzuLhhH4Je1E2bt1_CtEHobULzFUXFv-KpsP0hzX4%3D",
+                "image": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/cbcabf942e196b3a2927954b0510da58670cad236986c5d85a85d46e0cb4424e28a8cf9662580ff7db6e9bca7e365ff301413c18f358f708.jpeg"
+            },
+            {
+                "name": "פטריית מאכל",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%98%D7%A8%D7%99%D7%99%D7%AA+%D7%9E%D7%90%D7%9B%D7%9C&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgOYTtSDKFYMbDuG3KPDgNt-ed4hs1OL74h5yKTQNv9m_oUWgqUH87BoYlE-rxTGeGOw3-L-s83f_9n9gPQGbZemUgXBcJYu2mIk7XvYSyEVM3wvzvtpW7CFC-LbPg9di71evTTtJsBFqJRvG5MKOlcXq-j3vMo-al0ifAmoVTLVAPWLP9ZTnTMwm_NbXvdX9Y7cZr4_grsfqf_lVlItx8uxSZwbt2nRiVBXHYbESrP0gzWZca9tSk28cRVkorCrnT4cJ8rY%3D&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQxA16BAhNEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%99%D7%AA+%D7%9E%D7%90%D7%9B%D7%9C&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgOYTtSDKFYMbDuG3KPDgNt-ed4hs1OL74h5yKTQNv9m_oUWgqUH87BoYlE-rxTGeGOw3-L-s83f_9n9gPQGbZemUgXBcJYu2mIk7XvYSyEVM3wvzvtpW7CFC-LbPg9di71evTTtJsBFqJRvG5MKOlcXq-j3vMo-al0ifAmoVTLVAPWLP9ZTnTMwm_NbXvdX9Y7cZr4_grsfqf_lVlItx8uxSZwbt2nRiVBXHYbESrP0gzWZca9tSk28cRVkorCrnT4cJ8rY%3D",
+                "image": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/cbcabf942e196b3a2927954b0510da58670cad236986c5d85a85d46e0cb4424e28a8cf9662580ff7e0190091000cad55de3b4869e128b0ed.jpeg"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVGCs7QEgzNTUssTK4v9UitKgktSC4oXsfJcX3J9xvUV12den3p91Q5WRgDMdciQOwAAAA&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQMSgAegQITRAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFuLQz9U3MDY0NVGCs7QEgzNTUssTK4v9UitKgktSC4oXsfJcX3J9xvUV12den3p91Q5WRgDMdciQOwAAAA",
+        "list": {
+            "סה_כ_שומן": [
+                "0.3 g",
+                "0.3 g"
+            ],
+            "שומן_רווי": [
+                "0.1 g",
+                "0.1 g"
+            ],
+            "כולסטרול": [
+                "0 mg",
+                "0 mg"
+            ],
+            "נתרן": [
+                "5 mg",
+                "5 mg"
+            ],
+            "אשלגן": [
+                "318 mg",
+                "318 mg"
+            ],
+            "סה_כ_פחמימות": [
+                "3.3 g",
+                "3.3 g"
+            ],
+            "סיבים_תזונתיים": [
+                "1 g",
+                "1 g"
+            ],
+            "סוכר": [
+                "2 g",
+                "2 g"
+            ],
+            "חלבון": [
+                "3.1 g",
+                "3.1 g"
+            ],
+            "ויטמין_c": [
+                "2.1 mg"
+            ],
+            "סידן": [
+                "3 mg"
+            ],
+            "ברזל": [
+                "0.5 mg"
+            ],
+            "ויטמין_d": [
+                "7 IU"
+            ],
+            "ויטמין_b6": [
+                "0.1 mg"
+            ],
+            "ויטמין_b12": [
+                "0 µg"
+            ],
+            "מגנזיום": [
+                "9 mg"
+            ]
+        }
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=jTFnQYAGUtU5oM%252Cs2yMGXIRyReFcM%252C_%253BuEuMDjUp25jb9M%252CgXV1cBxVqllDCM%252C_%253BLUbMxBZd2FMujM%252CgXV1cBxVqllDCM%252C_%253B1ByJUF4Z0SnTfM%252C0p2G59QC2hdbbM%252C_%253BiPs8eeKSDkZZVM%252CL5CJT18_Bz7_3M%252C_%253Bvc2vbKYrYsrXQM%252CUUooxX7uwaLHwM%252C_%253Bi9lO_sqrOtM0XM%252CUUooxX7uwaLHwM%252C_%253Bum6a7E2LYUENSM%252C85uIdpeALv3DkM%252C_%253BAt8vfe7mQm6AKM%252C8Yj3uRDQdUVipM%252C_%253BWm71gCkOjWwKjM%252C6y6B1PpRaJ75NM%252C_&usg=AI4_-kSgkEhfRP-k3_Yk8K1GEvnxGv0BRw&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ9QF6BAgMEAE#imgrc=jTFnQYAGUtU5oM",
+            "source": "https://www.calcalist.co.il/local/articles/0,7340,L-3527587,00.html",
+            "thumbnail": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/3b2eb63b7b560023927af1d23ca7a30dbc8aee9ef9e420af18c2cbaa87a664ac.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=jTFnQYAGUtU5oM%252Cs2yMGXIRyReFcM%252C_%253BuEuMDjUp25jb9M%252CgXV1cBxVqllDCM%252C_%253BLUbMxBZd2FMujM%252CgXV1cBxVqllDCM%252C_%253B1ByJUF4Z0SnTfM%252C0p2G59QC2hdbbM%252C_%253BiPs8eeKSDkZZVM%252CL5CJT18_Bz7_3M%252C_%253Bvc2vbKYrYsrXQM%252CUUooxX7uwaLHwM%252C_%253Bi9lO_sqrOtM0XM%252CUUooxX7uwaLHwM%252C_%253Bum6a7E2LYUENSM%252C85uIdpeALv3DkM%252C_%253BAt8vfe7mQm6AKM%252C8Yj3uRDQdUVipM%252C_%253BWm71gCkOjWwKjM%252C6y6B1PpRaJ75NM%252C_&usg=AI4_-kSgkEhfRP-k3_Yk8K1GEvnxGv0BRw&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ9QF6BAghEAE#imgrc=uEuMDjUp25jb9M",
+            "source": "https://veg.co.il/recipes/tags/mushrooms/",
+            "thumbnail": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/3b2eb63b7b5600233fe9bb4a960ff4d8c6cd194084b30bf43c2f6e7d95e28deb.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=jTFnQYAGUtU5oM%252Cs2yMGXIRyReFcM%252C_%253BuEuMDjUp25jb9M%252CgXV1cBxVqllDCM%252C_%253BLUbMxBZd2FMujM%252CgXV1cBxVqllDCM%252C_%253B1ByJUF4Z0SnTfM%252C0p2G59QC2hdbbM%252C_%253BiPs8eeKSDkZZVM%252CL5CJT18_Bz7_3M%252C_%253Bvc2vbKYrYsrXQM%252CUUooxX7uwaLHwM%252C_%253Bi9lO_sqrOtM0XM%252CUUooxX7uwaLHwM%252C_%253Bum6a7E2LYUENSM%252C85uIdpeALv3DkM%252C_%253BAt8vfe7mQm6AKM%252C8Yj3uRDQdUVipM%252C_%253BWm71gCkOjWwKjM%252C6y6B1PpRaJ75NM%252C_&usg=AI4_-kSgkEhfRP-k3_Yk8K1GEvnxGv0BRw&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ9QF6BAgiEAE#imgrc=LUbMxBZd2FMujM",
+            "source": "https://veg.co.il/recipes/tags/mushrooms/",
+            "thumbnail": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/3b2eb63b7b560023adb8dec133d36d0c4bc697c77eb94ce16de2059a7cdc31fc.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=jTFnQYAGUtU5oM%252Cs2yMGXIRyReFcM%252C_%253BuEuMDjUp25jb9M%252CgXV1cBxVqllDCM%252C_%253BLUbMxBZd2FMujM%252CgXV1cBxVqllDCM%252C_%253B1ByJUF4Z0SnTfM%252C0p2G59QC2hdbbM%252C_%253BiPs8eeKSDkZZVM%252CL5CJT18_Bz7_3M%252C_%253Bvc2vbKYrYsrXQM%252CUUooxX7uwaLHwM%252C_%253Bi9lO_sqrOtM0XM%252CUUooxX7uwaLHwM%252C_%253Bum6a7E2LYUENSM%252C85uIdpeALv3DkM%252C_%253BAt8vfe7mQm6AKM%252C8Yj3uRDQdUVipM%252C_%253BWm71gCkOjWwKjM%252C6y6B1PpRaJ75NM%252C_&usg=AI4_-kSgkEhfRP-k3_Yk8K1GEvnxGv0BRw&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ9QF6BAglEAE#imgrc=1ByJUF4Z0SnTfM",
+            "source": "https://www.mako.co.il/health-illnesses-and-medicines/illnesses/Article-02d7cbbbc2a7d71027.htm",
+            "thumbnail": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/3b2eb63b7b560023c2981ec71bb61788b28dc28b93724bcae44a13dad82b8fdf.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=jTFnQYAGUtU5oM%252Cs2yMGXIRyReFcM%252C_%253BuEuMDjUp25jb9M%252CgXV1cBxVqllDCM%252C_%253BLUbMxBZd2FMujM%252CgXV1cBxVqllDCM%252C_%253B1ByJUF4Z0SnTfM%252C0p2G59QC2hdbbM%252C_%253BiPs8eeKSDkZZVM%252CL5CJT18_Bz7_3M%252C_%253Bvc2vbKYrYsrXQM%252CUUooxX7uwaLHwM%252C_%253Bi9lO_sqrOtM0XM%252CUUooxX7uwaLHwM%252C_%253Bum6a7E2LYUENSM%252C85uIdpeALv3DkM%252C_%253BAt8vfe7mQm6AKM%252C8Yj3uRDQdUVipM%252C_%253BWm71gCkOjWwKjM%252C6y6B1PpRaJ75NM%252C_&usg=AI4_-kSgkEhfRP-k3_Yk8K1GEvnxGv0BRw&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ9QF6BAgeEAE#imgrc=iPs8eeKSDkZZVM",
+            "source": "https://www.maariv.co.il/lifestyle/The-Experts/Article-823224",
+            "thumbnail": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/3b2eb63b7b5600234f8edf803f73e94b6b61eb4a26dcd91b62881e099283d39a.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=jTFnQYAGUtU5oM%252Cs2yMGXIRyReFcM%252C_%253BuEuMDjUp25jb9M%252CgXV1cBxVqllDCM%252C_%253BLUbMxBZd2FMujM%252CgXV1cBxVqllDCM%252C_%253B1ByJUF4Z0SnTfM%252C0p2G59QC2hdbbM%252C_%253BiPs8eeKSDkZZVM%252CL5CJT18_Bz7_3M%252C_%253Bvc2vbKYrYsrXQM%252CUUooxX7uwaLHwM%252C_%253Bi9lO_sqrOtM0XM%252CUUooxX7uwaLHwM%252C_%253Bum6a7E2LYUENSM%252C85uIdpeALv3DkM%252C_%253BAt8vfe7mQm6AKM%252C8Yj3uRDQdUVipM%252C_%253BWm71gCkOjWwKjM%252C6y6B1PpRaJ75NM%252C_&usg=AI4_-kSgkEhfRP-k3_Yk8K1GEvnxGv0BRw&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ9QF6BAgnEAE#imgrc=vc2vbKYrYsrXQM",
+            "source": "https://www.ynet.co.il/articles/0,7340,L-5654584,00.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKbJ-sQysxtt-PVEHU7JR5oPJPQhy6xhl1Hc5pkU0aQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=jTFnQYAGUtU5oM%252Cs2yMGXIRyReFcM%252C_%253BuEuMDjUp25jb9M%252CgXV1cBxVqllDCM%252C_%253BLUbMxBZd2FMujM%252CgXV1cBxVqllDCM%252C_%253B1ByJUF4Z0SnTfM%252C0p2G59QC2hdbbM%252C_%253BiPs8eeKSDkZZVM%252CL5CJT18_Bz7_3M%252C_%253Bvc2vbKYrYsrXQM%252CUUooxX7uwaLHwM%252C_%253Bi9lO_sqrOtM0XM%252CUUooxX7uwaLHwM%252C_%253Bum6a7E2LYUENSM%252C85uIdpeALv3DkM%252C_%253BAt8vfe7mQm6AKM%252C8Yj3uRDQdUVipM%252C_%253BWm71gCkOjWwKjM%252C6y6B1PpRaJ75NM%252C_&usg=AI4_-kSgkEhfRP-k3_Yk8K1GEvnxGv0BRw&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ9QF6BAggEAE#imgrc=i9lO_sqrOtM0XM",
+            "source": "https://www.ynet.co.il/articles/0,7340,L-5654584,00.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUMrGayGi__ERv0eVYBTKbNYVixm7ujei_68-65OQX6Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=jTFnQYAGUtU5oM%252Cs2yMGXIRyReFcM%252C_%253BuEuMDjUp25jb9M%252CgXV1cBxVqllDCM%252C_%253BLUbMxBZd2FMujM%252CgXV1cBxVqllDCM%252C_%253B1ByJUF4Z0SnTfM%252C0p2G59QC2hdbbM%252C_%253BiPs8eeKSDkZZVM%252CL5CJT18_Bz7_3M%252C_%253Bvc2vbKYrYsrXQM%252CUUooxX7uwaLHwM%252C_%253Bi9lO_sqrOtM0XM%252CUUooxX7uwaLHwM%252C_%253Bum6a7E2LYUENSM%252C85uIdpeALv3DkM%252C_%253BAt8vfe7mQm6AKM%252C8Yj3uRDQdUVipM%252C_%253BWm71gCkOjWwKjM%252C6y6B1PpRaJ75NM%252C_&usg=AI4_-kSgkEhfRP-k3_Yk8K1GEvnxGv0BRw&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ9QF6BAgfEAE#imgrc=um6a7E2LYUENSM",
+            "source": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo1nlLmT042AZIxi7KB_GkuZ4HS7kFxF9OF9jIs1w8&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=jTFnQYAGUtU5oM%252Cs2yMGXIRyReFcM%252C_%253BuEuMDjUp25jb9M%252CgXV1cBxVqllDCM%252C_%253BLUbMxBZd2FMujM%252CgXV1cBxVqllDCM%252C_%253B1ByJUF4Z0SnTfM%252C0p2G59QC2hdbbM%252C_%253BiPs8eeKSDkZZVM%252CL5CJT18_Bz7_3M%252C_%253Bvc2vbKYrYsrXQM%252CUUooxX7uwaLHwM%252C_%253Bi9lO_sqrOtM0XM%252CUUooxX7uwaLHwM%252C_%253Bum6a7E2LYUENSM%252C85uIdpeALv3DkM%252C_%253BAt8vfe7mQm6AKM%252C8Yj3uRDQdUVipM%252C_%253BWm71gCkOjWwKjM%252C6y6B1PpRaJ75NM%252C_&usg=AI4_-kSgkEhfRP-k3_Yk8K1GEvnxGv0BRw&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ9QF6BAgkEAE#imgrc=At8vfe7mQm6AKM",
+            "source": "https://www.lekethasade.co.il/items/776024-%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA-%D7%A9%D7%9E%D7%A4%D7%99%D7%A0%D7%99%D7%95%D7%9F-%D7%9E%D7%90%D7%A8%D7%96",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjSw_47m93vFt9z6jo_vxcdSOspFIvLR_Is5zbBeQKGA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=jTFnQYAGUtU5oM%252Cs2yMGXIRyReFcM%252C_%253BuEuMDjUp25jb9M%252CgXV1cBxVqllDCM%252C_%253BLUbMxBZd2FMujM%252CgXV1cBxVqllDCM%252C_%253B1ByJUF4Z0SnTfM%252C0p2G59QC2hdbbM%252C_%253BiPs8eeKSDkZZVM%252CL5CJT18_Bz7_3M%252C_%253Bvc2vbKYrYsrXQM%252CUUooxX7uwaLHwM%252C_%253Bi9lO_sqrOtM0XM%252CUUooxX7uwaLHwM%252C_%253Bum6a7E2LYUENSM%252C85uIdpeALv3DkM%252C_%253BAt8vfe7mQm6AKM%252C8Yj3uRDQdUVipM%252C_%253BWm71gCkOjWwKjM%252C6y6B1PpRaJ75NM%252C_&usg=AI4_-kSgkEhfRP-k3_Yk8K1GEvnxGv0BRw&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ9QF6BAgjEAE#imgrc=Wm71gCkOjWwKjM",
+            "source": "https://www.foodsdictionary.co.il/Products/1/%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkIuPPhvG0-tJPIUe3jqxh2rEX-rmAYOXMhUK6VBueA&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "מומחים בארץ - פטריות בר",
+            "link": "https://www.youtube.com/watch?v=mdDilZ0Ydk0",
+            "thumbnail": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/5f86212aef7451b6bd44d17ce34bca7bf6e1fd1a366e190075f398d3cb5539fd.jpeg",
+            "channel": "מטיילים בארץ",
+            "duration": "16:07",
+            "platform": "YouTube",
+            "date": "25 באוק׳ 2021"
+        },
+        {
+            "position": 2,
+            "title": "ליקוט פטריות - מטיילים בארץ",
+            "link": "https://www.youtube.com/watch?v=nFdFsyrQ378",
+            "thumbnail": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/5f86212aef7451b62d44e9fafccddbed3319a8969e05686161ed227fdd92a045.jpeg",
+            "channel": "מטיילים בארץ",
+            "duration": "6:16",
+            "platform": "YouTube",
+            "date": "10 בפבר׳ 2019"
+        },
+        {
+            "position": 3,
+            "title": "דלוקים על פטריות",
+            "link": "https://www.youtube.com/watch?v=XlL9013m1VM",
+            "thumbnail": "https://serpapi.com/searches/629e3d5d95bf924366e71c61/images/5f86212aef7451b6f764db9637cd1001457ba871d0599527852b573a5b01dcf3.jpeg",
+            "channel": "Calcalist | כלכליסט",
+            "duration": "5:07",
+            "platform": "YouTube",
+            "date": "10 בפבר׳ 2022"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "פטריות - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA",
+            "displayed_link": "https://he.wikipedia.org › wiki › פטריות",
+            "snippet": "פטריית כובע מסוג טבורית. הפטריות אינן צמחים ואינן בעלי חיים, אלא ממלכה טקסונומית בפני עצמה הנבדלת מאחרות בתכונות ניכרות רבות. הפטריות אינן מבצעות פוטוסינתזה, ...",
+            "snippet_highlighted_words": [
+                "פטריית",
+                "הפטריות",
+                "הפטריות"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "קטגוריה:פטריות",
+                        "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA"
+                    },
+                    {
+                        "title": "פטריות מרפא",
+                        "link": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA_%D7%9E%D7%A8%D7%A4%D7%90"
+                    },
+                    {
+                        "title": "פטריות בסיסה",
+                        "link": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA_%D7%91%D7%A1%D7%99%D7%A1%D7%94"
+                    },
+                    {
+                        "title": "פטריות פסילוסיבין",
+                        "link": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA_%D7%A4%D7%A1%D7%99%D7%9C%D7%95%D7%A1%D7%99%D7%91%D7%99%D7%9F"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "על רגל אחת: שלושה מתכוני פטריות זריזים - Ynet",
+            "link": "https://www.ynet.co.il/food/recipies/article/hy8amvqe5",
+            "displayed_link": "https://www.ynet.co.il › food › recipies › article",
+            "date": "3 במרץ 2022",
+            "snippet": "סלט חורפי, חטיף מטוגן או גראטן פשוט וגאוני - לשף אסף שטרן יש הצעה לשלוש מנות שתוכלו להכין בבית עם פטריות. וגם: כמה דברים שלא ידעתם על ...",
+            "snippet_highlighted_words": [
+                "פטריות"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "מדריך הפטריות השלם | כתבות - כל הטוב שבטבע, איך שטוב לכם",
+            "link": "https://www.yad-mordechai.co.il/Article/mushrooms-guide",
+            "displayed_link": "https://www.yad-mordechai.co.il › mushrooms-guide",
+            "snippet": "הפטריות הקלאסיות שכולם מכירים. הטעם שלהן עדין יחסית, צבען לבן והן נקראות גם \"פטריות כפתור\" על שם הצורה הכפתורית החמודית שלהן. מומלץ לאכול אותן טריות בסלט עם ...",
+            "snippet_highlighted_words": [
+                "הפטריות",
+                "פטריות"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "מתכוני פטריות ומידע מעניין | השולחן",
+            "link": "https://www.hashulchan.co.il/topic/%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA/",
+            "displayed_link": "https://www.hashulchan.co.il › topic › פטריות",
+            "snippet": "מחפשים מידע ומתכוני פטריות? רוצים לדעת מה מכינים מפטריות ואיפה מלקטים אותן? היכנסו עוד היום לאתר השולחן - כאן תמצאו מתכונים, כתבות, מסעדות, מדריכי בישול ...",
+            "snippet_highlighted_words": [
+                "פטריות"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "מתכונים עם פטריות - אתר הצמחונות והטבעונות הישראלי",
+            "link": "https://veg.co.il/recipes/tags/mushrooms/",
+            "displayed_link": "https://veg.co.il › לאכול",
+            "snippet": "פטריות מהוות מקור לעולם של טעמים עשירים ושל מרקמים מיוחדים. פטריות הן מהמאכלים היחידים שבאמת קשה להרוס. מעבר ליופיין המהפנט, גם בידיים בלתי מיומנות הן תמיד ...",
+            "snippet_highlighted_words": [
+                "פטריות",
+                "פטריות"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "על מה פטריות חושבות? | כלכליסט",
+            "link": "https://www.calcalist.co.il/local/articles/0,7340,L-3527587,00.html",
+            "displayed_link": "https://www.calcalist.co.il › local › articles",
+            "date": "11 באוג׳ 2011",
+            "snippet": "על מה פטריות חושבות? איך התחבא האינטרנט במשך מיליוני שנה מתחת לאדמה, ומה הרשת החברתית שמנהלות הפטריות מלמדת אותנו על אינטליגנציה אנושית. 11.08.",
+            "snippet_highlighted_words": [
+                "פטריות",
+                "הפטריות"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "פטריה (fungus) - הסימפטומים, הבדיקות ודרכי הטיפול | Infomed",
+            "link": "https://www.infomed.co.il/diseases/fungus/",
+            "displayed_link": "https://www.infomed.co.il › מחלות",
+            "snippet": "הפטריות הן אחת ממערכות הצמחים, אך אין הן מכילות כלורופיל, להבדיל מחיידקים, תאיהן מכילים גרעינים. ידועים יותר מ-100,000 מינים של פטריות, ומעריכים שקיימים ...",
+            "snippet_highlighted_words": [
+                "הפטריות",
+                "פטריות"
+            ],
+            "related_questions": [
+                {
+                    "question": "האם יש קשר בין הופעתן של פטריות בציפורניים לבין בעיות נפשיות?",
+                    "snippet": "לחות ורטיבות הם הגורמים העיקריים להיווצרות פטריות, ובתוך נעליים סגורות יש סיכוי גדול יותר שיתפתחו פטריות. כמו כן, מכיוון שפטריה מדבקת, ישנה הדבקה במיוחד במקומות ציבוריים, כמו מלתחות. לא מצאתי בספרות הרפואית קשר ישיר בין קיום מחלת נפש לבין פטריות בציפורניים או בכלל. אולם יתכן שאוכלוסיה זו, אם יש בה יותר הזנחה, תת-טיפול או חשיפה רבה יותר למקומות סניטריים ציבוריים בהם קל להידבק, עלולה הידבקות בפטריות להתרחש באורח שכיח יותר מאשר באוכלוסיה הכללית. בברכה, ד\"ר טלי צ'רנוביצקי - אינפומד"
+                },
+                {
+                    "question": "אני בן 23. בשנה האחרונה התחיל בקדמת ראשי דילול של השיער וגם הופיעו מפרצים. מבחינת גנטית, גם לאבי וגם לסבי יש שיער חזק ומלא בכל הראש. הדבר מאוד מפריע ומוריד לי את הביטחון העצמי. מה ניתן לעשות כדי למנוע את המשך ההתקרחות? חוץ מהכדור שרופאי העור ממליצים",
+                    "snippet": "הסיבה העיקרית להתקרחות גברית היא שילוב של נטייה תורשתית גנטית עם השפעות הורמונליות של ההורמונים הגבריים (אנדרוגנים). ישנם גורמים אחרים כגון תזונה לקויה, מתח נפשי, זיהום פטרייתי וכדומה. הטיפול הוא בעיקר תרופתי, כגון מינוקסידיל או פרופסיה, וכן משחה למריחה מקומית, ריגיין. מידע נוסף תוכל למצוא כאן: http://www.infomed.co.il/questions/q_080601_1.htm"
+                }
+            ]
+        },
+        {
+            "position": 8,
+            "title": "פטריות טריות - מוצר הדגל שלנו - חוות תקוע",
+            "link": "https://tekoafarms.co.il/product_cat/%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA-%D7%98%D7%A8%D7%99%D7%95%D7%AA/",
+            "displayed_link": "https://tekoafarms.co.il › האוצרות שלנו",
+            "snippet": "פטריות טריות כמו שיטאקי שי-מג'י ושינוקי מהווים את המומחיות שלנו. חפשו את המוצרים של חוות תקוע ברשתות השיווק המובחרות.",
+            "snippet_highlighted_words": [
+                "פטריות"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "פטריות מתכונים",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99%D7%9D&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "סוגי פטריות",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A1%D7%95%D7%92%D7%99+%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "פטריות רעילות בגינה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%A8%D7%A2%D7%99%D7%9C%D7%95%D7%AA+%D7%91%D7%92%D7%99%D7%A0%D7%94&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "פטריות שמפיניון",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%A9%D7%9E%D7%A4%D7%99%D7%A0%D7%99%D7%95%D7%9F&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "סוגי פטריות בישראל",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A1%D7%95%D7%92%D7%99+%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "סוגי פטריות לאכילה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A1%D7%95%D7%92%D7%99+%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%9C%D7%90%D7%9B%D7%99%D7%9C%D7%94&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "גידול פטריות",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%92%D7%99%D7%93%D7%95%D7%9C+%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "פטריות הזיה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA+%D7%94%D7%96%D7%99%D7%94&sa=X&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=XT2eYoXFFsK1qtsP6LGaoAo&start=10&sa=N&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=XT2eYoXFFsK1qtsP6LGaoAo&start=10&sa=N&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=XT2eYoXFFsK1qtsP6LGaoAo&start=20&sa=N&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=XT2eYoXFFsK1qtsP6LGaoAo&start=30&sa=N&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=XT2eYoXFFsK1qtsP6LGaoAo&start=40&sa=N&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=XT2eYoXFFsK1qtsP6LGaoAo&start=50&sa=N&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=XT2eYoXFFsK1qtsP6LGaoAo&start=60&sa=N&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=XT2eYoXFFsK1qtsP6LGaoAo&start=70&sa=N&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=XT2eYoXFFsK1qtsP6LGaoAo&start=80&sa=N&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=XT2eYoXFFsK1qtsP6LGaoAo&start=90&sa=N&ved=2ahUKEwjF5-fesJn4AhXCmmoFHeiYBqQQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA&start=90"
+        }
+    }
+}

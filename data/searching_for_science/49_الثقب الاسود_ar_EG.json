@@ -1,0 +1,363 @@
+{
+    "search_metadata": {
+        "id": "629e37d59f55b386248f8fcd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8c419d719dda69ae/629e37d59f55b386248f8fcd.json",
+        "created_at": "2022-06-06 17:22:29 UTC",
+        "processed_at": "2022-06-06 17:22:29 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&oq=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/8c419d719dda69ae/629e37d59f55b386248f8fcd.html",
+        "total_time_taken": 1.39
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "الثقب الاسود",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "الثقب الاسود",
+        "total_results": 204000,
+        "time_taken_displayed": 0.46
+    },
+    "knowledge_graph": {
+        "title": "ثقب أسود",
+        "header_images": [
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D8%AB%D9%82%D8%A8_%D8%A3%D8%B3%D9%88%D8%AF"
+            },
+            {
+                "source": "https://arabicpost.net/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/2019/03/19/%D9%85%D8%A7-%D9%87%D9%88-%D8%A7%D9%84%D8%AB%D9%82%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF/"
+            },
+            {
+                "source": "https://www.albayan.ae/five-senses/last-page/2019-04-12-1.3534179"
+            },
+            {
+                "source": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%88_%D8%A7%D9%84%D8%AB%D9%82%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF"
+            },
+            {
+                "source": "https://technologyreview.ae/%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%BA%D9%86%D8%A7%D8%B7%D9%8A%D8%B3%D9%8A%D8%A9-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%AB%D9%82%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF/"
+            },
+            {
+                "source": "https://www.youtube.com/watch?v=vhyd_Z-2obU"
+            }
+        ],
+        "description": "الثقب الأسود هو منطقة موجودة في الزمكان تتميز بجاذبية قوية جداً بحيث لا يمكن لأي شيء - ولا حتى الجسيمات أو موجات الإشعاع الكهرومغناطيسي مثل الضوء - الإفلات منها. تتنبأ النظرية النسبية العامة بأنه يمكن لكتلة مضغوطة بقدر معين أن تشوه الزمكان لتشكيل الثقب الأسود.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AB%D9%82%D8%A8_%D8%A3%D8%B3%D9%88%D8%AF"
+        },
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "نجم زائف",
+                "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D9%86%D8%AC%D9%85+%D8%B2%D8%A7%D8%A6%D9%81&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNde9cfKOt9v_9CJqN8jcaCqpUlihRvH3qrQhkQbYY7HO6jjLi6s9oB1_dZL8-xUywuriKdiW9iw4WlJvwnyRE80QK0trpyqv8MJ0hms3KID1AX5ORG9oPUsVx6mrCw0P6wC5WOo_t6l-juzEN8ISIM1wXv0iP8qgKcAp-qihJ6-xtwmM3s6fkIPggarsdLX4c3FU71_u6u_P6VN5sIXk_QFFvdBXkBCo-NgQSQq9YkA-7E6vuoR2RnWstwb2IMRY0dhTD1us%3D&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQxA16BAhuEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%AC%D9%85+%D8%B2%D8%A7%D8%A6%D9%81&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNde9cfKOt9v_9CJqN8jcaCqpUlihRvH3qrQhkQbYY7HO6jjLi6s9oB1_dZL8-xUywuriKdiW9iw4WlJvwnyRE80QK0trpyqv8MJ0hms3KID1AX5ORG9oPUsVx6mrCw0P6wC5WOo_t6l-juzEN8ISIM1wXv0iP8qgKcAp-qihJ6-xtwmM3s6fkIPggarsdLX4c3FU71_u6u_P6VN5sIXk_QFFvdBXkBCo-NgQSQq9YkA-7E6vuoR2RnWstwb2IMRY0dhTD1us%3D",
+                "image": "https://serpapi.com/searches/629e37d59f55b386248f8fcd/images/790b2ed924fb553a488a061bd919ea5083ae66aac3560f678d19e48d5138b30ed4208c062c42358fae4e6c1211cc6fedb789b21fdf42e567a59ef2610387317d.jpeg"
+            },
+            {
+                "name": "قزم أبيض",
+                "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D9%82%D8%B2%D9%85+%D8%A3%D8%A8%D9%8A%D8%B6&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRcjmWgKqCFKbb_9M6NK41frEGasPZvQ7aPgMTsIsU7kE7fs0cLq8h8ZAPD8dnWLgrW7s3WYVISKlm_H51G2HVR3gcvjqkSxcL7_IRhm721mDeRHb8uCUFwZAH4-d2NVRTJhxUSLgFnzXovM18P3Rj2ozxHxyY6Xibnj66RIfkHz7lVHi9k0SA7vlt6upqLF3w_q2pwRFvjtzm9Cki7J5WqyRFPRcuUG72Ie89we5L9vBLi0dlDiU7gQ7oB_zJqED9QZ2lM%3D&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQxA16BAhuEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%82%D8%B2%D9%85+%D8%A3%D8%A8%D9%8A%D8%B6&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRcjmWgKqCFKbb_9M6NK41frEGasPZvQ7aPgMTsIsU7kE7fs0cLq8h8ZAPD8dnWLgrW7s3WYVISKlm_H51G2HVR3gcvjqkSxcL7_IRhm721mDeRHb8uCUFwZAH4-d2NVRTJhxUSLgFnzXovM18P3Rj2ozxHxyY6Xibnj66RIfkHz7lVHi9k0SA7vlt6upqLF3w_q2pwRFvjtzm9Cki7J5WqyRFPRcuUG72Ie89we5L9vBLi0dlDiU7gQ7oB_zJqED9QZ2lM%3D",
+                "image": "https://serpapi.com/searches/629e37d59f55b386248f8fcd/images/790b2ed924fb553a488a061bd919ea5083ae66aac3560f678d19e48d5138b30ed4208c062c42358fae4e6c1211cc6fedb789b21fdf42e56752c068726df2e14b.jpeg"
+            },
+            {
+                "name": "مجرة",
+                "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D9%85%D8%AC%D8%B1%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddDlUlWfv4ra2AD6Achppdt5qsDxgBXrWZNFg9zGZEcwWUstiT2Tgz5nEW-N2L_7js2paUpJxRkpv4MPqgej5zyc1AkhjzFvBfLB4lbtSaf1w-pH1lZVACEkYE1dHJoQ5GcohwKBiaBgu7mSP2tMg_d0ApaQ1pSX4RLTObJbKF2f7n16KW0QfI2Hp7uBIKff82Qk2-oqcjS2bqGCdMGEA7m9R-tfXSaSlgeVyyK-q1KowdVW9cXJY_ZW1L84x9GMrcykGfc%3D&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQxA16BAhuEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AC%D8%B1%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddDlUlWfv4ra2AD6Achppdt5qsDxgBXrWZNFg9zGZEcwWUstiT2Tgz5nEW-N2L_7js2paUpJxRkpv4MPqgej5zyc1AkhjzFvBfLB4lbtSaf1w-pH1lZVACEkYE1dHJoQ5GcohwKBiaBgu7mSP2tMg_d0ApaQ1pSX4RLTObJbKF2f7n16KW0QfI2Hp7uBIKff82Qk2-oqcjS2bqGCdMGEA7m9R-tfXSaSlgeVyyK-q1KowdVW9cXJY_ZW1L84x9GMrcykGfc%3D",
+                "image": "https://serpapi.com/searches/629e37d59f55b386248f8fcd/images/790b2ed924fb553a488a061bd919ea5083ae66aac3560f678d19e48d5138b30ed4208c062c42358fae4e6c1211cc6fedb789b21fdf42e567f5fbc0921d860042.jpeg"
+            },
+            {
+                "name": "سديم",
+                "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D8%B3%D8%AF%D9%8A%D9%85&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUB3Gczn05XnGU8rm4DhAB6aDhNFyNHr3m2Y2WxkT30OPfSCgJLud_24-ps1MPgzMznxIRxaqkOjUeQkE9rHJqmnEFVwL5WPSR2nprrI8pCywMMhxXXyVQSH1jIG8C7WTNuFXVWKgzQJlEV_H_9gYPHcm7URwId72MyzwsaLjeCy8PJ8P9bhh-4br_L-TTH9L4cghE8ndjn3kA-axDBf7PxQP5nlHmKp3DQ9ZBIFv9rhw_jAGAboaiydiGDX0YMvLjJXI6s%3D&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQxA16BAhuEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D8%AF%D9%8A%D9%85&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUB3Gczn05XnGU8rm4DhAB6aDhNFyNHr3m2Y2WxkT30OPfSCgJLud_24-ps1MPgzMznxIRxaqkOjUeQkE9rHJqmnEFVwL5WPSR2nprrI8pCywMMhxXXyVQSH1jIG8C7WTNuFXVWKgzQJlEV_H_9gYPHcm7URwId72MyzwsaLjeCy8PJ8P9bhh-4br_L-TTH9L4cghE8ndjn3kA-axDBf7PxQP5nlHmKp3DQ9ZBIFv9rhw_jAGAboaiydiGDX0YMvLjJXI6s%3D",
+                "image": "https://serpapi.com/searches/629e37d59f55b386248f8fcd/images/790b2ed924fb553a488a061bd919ea5083ae66aac3560f678d19e48d5138b30ed4208c062c42358fae4e6c1211cc6fedb789b21fdf42e567609c222552d6cf41.jpeg"
+            }
+        ],
+        "يبحث_الأشخاص_أيضًا_عن_link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D8%AB%D9%82%D8%A8+%D8%A3%D8%B3%D9%88%D8%AF&stick=H4sIAAAAAAAAAONgFuLQz9U3MMwwLFaCs7QEgzNTUssTK4v9UitKgktSC4oXsfLfWH2z6cYKhRuLb2y-2XFj_Q5WRgAKl7BlPgAAAA&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQMSgAegQIbhAB",
+        "يبحث_الأشخاص_أيضًا_عن_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMwwLFaCs7QEgzNTUssTK4v9UitKgktSC4oXsfLfWH2z6cYKhRuLb2y-2XFj_Q5WRgAKl7BlPgAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "شاهد الثقب الأسود أثناء ابتلاع نجم بحجم الشمس",
+            "link": "https://www.youtube.com/watch?v=SbwOx_5H04Y",
+            "thumbnail": "https://serpapi.com/searches/629e37d59f55b386248f8fcd/images/756fa5e5e2b37bfc9a84c7f655deab9255cd6eebc526e01ad904907317a8d028.jpeg",
+            "channel": "Al Aan TV تلفزيون الآن",
+            "duration": "1:47",
+            "platform": "YouTube",
+            "date": "27‏/09‏/2019"
+        },
+        {
+            "position": 2,
+            "title": "ماذا سيحدث لك عند دخولك إلى ثقب أسود؟",
+            "link": "https://www.youtube.com/watch?v=KIwNNOwYp1U",
+            "thumbnail": "https://serpapi.com/searches/629e37d59f55b386248f8fcd/images/756fa5e5e2b37bfcca3649c30a7e01d2501889ad07b2427763d52294e1a4dcc0.jpeg",
+            "channel": "الجانب المُشرق | Bright Side Arabic",
+            "duration": "9:55",
+            "platform": "YouTube",
+            "date": "06‏/10‏/2020"
+        },
+        {
+            "position": 3,
+            "title": "ماذا يوجد داخل الثقب الاسود",
+            "link": "https://www.youtube.com/watch?v=vhyd_Z-2obU",
+            "thumbnail": "https://serpapi.com/searches/629e37d59f55b386248f8fcd/images/756fa5e5e2b37bfc4e3c0faa7c4e443e147fe131f37f43376a48f6b11f9e4db1.jpeg",
+            "channel": "اغرب",
+            "duration": "3:11",
+            "platform": "YouTube",
+            "date": "10‏/06‏/2016"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ماذا يفعل الثقب الأسود؟",
+            "snippet": "يعمل الثقب الأسود بصفته جسما أسودا مثاليا، لأنه لا يعكس أي ضوء. علاوة على ذلك، تتنبأ نظرية المجال الكمي في الزمكان المنحني بإنبعاث إشعاع هوكينج آفاق الحدث، بنفس الطيف الذي يتسم به الجسم الأسود لدرجة حرارة تتناسب عكسياً مع كتلته.",
+            "title": "ثقب أسود - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AB%D9%82%D8%A8_%D8%A3%D8%B3%D9%88%D8%AF",
+            "displayed_link": "https://ar.wikipedia.org › wiki › ثقب_أسود"
+        },
+        {
+            "question": "ما هو مفهوم الثقب الأسود؟",
+            "snippet": "الثقب الأسود أو يونيكورن عبارة عن بؤرة ذات جاذبية هائلة تتشكل في الفضاء. وتستطيع هذه البؤرة امتصاص كل ما يقترب منها بما في ذلك الضوء. وفي عالم ما يسمى بالثقوب السوداء تتجاوز الجاذبية مثيلتها الشمسية بعشرات المرات. تنشأ الثقوب السوداء الذي تنبأ بها ألبرت أينشتاين في نظرية النسبية عندما تموت النجوم الضخمة وتتفجر.12‏/05‏/2022",
+            "title": "الثقب الأسود | علوم وتكنولوجيا | DW | 12.05.2022 - DW",
+            "link": "https://www.dw.com/ar/%D8%A7%D9%84%D8%AB%D9%82%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF/t-55333141",
+            "displayed_link": "https://www.dw.com › الثقب-الأسود"
+        },
+        {
+            "question": "هل الثقب الأسود خطير؟",
+            "snippet": "قال عالم فيزياء فلكية إن ثقبا أسود يمر بجوار كوكب نبتون قد يتسبب في \"نتائج وخيمة\" للحياة على الأرض من خلال إدخاله \"تعديلا كبيرا\" في مدارها. وتتشكل هذه المناطق من الزمكان عندما تنهار النجوم الضخمة في نهاية دورات حياتها ويمكن أن تستمر في النمو عن طريق امتصاص النجوم والاندماج مع الثقوب السوداء الأخرى.01‏/09‏/2020",
+            "title": "ثقب أسود يهدد الحياة على الأرض.. تحذيرات من \"نتائج وخيمة\"",
+            "link": "https://al-ain.com/article/black-hole-earth",
+            "displayed_link": "https://al-ain.com › article › black-hole-earth"
+        },
+        {
+            "question": "ماذا يحدث عند الدخول في الثقب الاسود؟",
+            "snippet": "تكون الثقب الأسود وبفعل الجاذبية القوية للثقب الأسود، يمتص الأخير كل الكتل القريبة منه كالنجوم والكواكب الأخرى، بل حتى الضوء الذي يمتصه الثقب الأسود فيعجز عن الانفلات منه بفعل قوة الجاذبية.30‏/07‏/2021",
+            "title": "خلف ثقب أسود عملاق.. مفاجأة تثبت نظرية آينشتاين | DW | 30 ...",
+            "link": "https://www.dw.com/ar/%D8%AE%D9%84%D9%81-%D8%AB%D9%82%D8%A8-%D8%A3%D8%B3%D9%88%D8%AF-%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D8%AA%D8%AB%D8%A8%D8%AA-%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%A2%D9%8A%D9%86%D8%B4%D8%AA%D8%A7%D9%8A%D9%86/a-58703369",
+            "displayed_link": "https://www.dw.com › خلف-ثقب-أسود-عملاق-مفاجأة-تثب..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "ثقب أسود - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AB%D9%82%D8%A8_%D8%A3%D8%B3%D9%88%D8%AF",
+            "displayed_link": "https://ar.wikipedia.org › wiki › ثقب_أسود",
+            "thumbnail": "https://serpapi.com/searches/629e37d59f55b386248f8fcd/images/d36262af82c7889a29fb9e0582df804be46111dd2b3fb6e8b5ed25526f813af6.jpeg",
+            "snippet": "الثقب الأسود هو منطقة موجودة في الزمكان (الفضاء بأبعاده الأربعة، وهي الأبعاد الثلاثة بالإضافة إلى الزمن) تتميز بجاذبية قوية جداً بحيث لا يمكن لأي شيء - ولا ...",
+            "snippet_highlighted_words": [
+                "الثقب الأسود"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "ثقب أسود فائق",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AB%D9%82%D8%A8_%D8%A3%D8%B3%D9%88%D8%AF_%D9%81%D8%A7%D8%A6%D9%82"
+                    },
+                    {
+                        "title": "زمكان",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B2%D9%85%D9%83%D8%A7%D9%86"
+                    },
+                    {
+                        "title": "أفق الحدث",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A3%D9%81%D9%82_%D8%A7%D9%84%D8%AD%D8%AF%D8%AB"
+                    },
+                    {
+                        "title": "إشعاع هوكينغ",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B4%D8%B9%D8%A7%D8%B9_%D9%87%D9%88%D9%83%D9%8A%D9%86%D8%BA"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "ثقب أسود فائق - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AB%D9%82%D8%A8_%D8%A3%D8%B3%D9%88%D8%AF_%D9%81%D8%A7%D8%A6%D9%82",
+            "displayed_link": "https://ar.wikipedia.org › wiki › ثقب_أسود_فائق",
+            "snippet": "الثقب الأسود الفائق أو الثقب الأسود فائق الضخامة أو الثقب الأسود عظيم الكتلة هو أكبر نوع من الثقوب السوداء يوجد في مجرة، تتراوح كتلته بين مئات آلاف وبلايين ...",
+            "snippet_highlighted_words": [
+                "الثقب الأسود",
+                "الثقب الأسود",
+                "الثقب الأسود"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "لحظة تاريخية.. الثقب الأسود في صورة فوتوغرافية للمرة الأولى",
+            "link": "https://www.skynewsarabia.com/technology/1522031-%D9%84%D8%AD%D8%B8%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A8-%D8%A7%D9%84%D8%A7%D9%94%D8%B3%D9%88%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9-%D9%81%D9%88%D8%AA%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%94%D9%88%D9%84%D9%89",
+            "displayed_link": "https://www.skynewsarabia.com › technology › 152203...",
+            "snippet": "الصورة هذه تتوج جهود تعاون بين أكثر من 300 عالم وتعتبر البرهان المرئي الأول عن وجود \"ثقب أسود\" هائل، طالما شغل علماء الفضاء وشكّل مركز ...",
+            "snippet_highlighted_words": [
+                "ثقب أسود"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٢‏/٠٥‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "الثقب الأسود | علوم وتكنولوجيا | DW | 12.05.2022 - DW",
+            "link": "https://www.dw.com/ar/%D8%A7%D9%84%D8%AB%D9%82%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF/t-55333141",
+            "displayed_link": "https://www.dw.com › الثقب-الأسود",
+            "thumbnail": "https://serpapi.com/searches/629e37d59f55b386248f8fcd/images/d36262af82c7889a29fb9e0582df804bbb50fdcf38162bf29d6c9ff467ccde01.jpeg",
+            "snippet": "الثقب الأسود أو يونيكورن عبارة عن بؤرة ذات جاذبية هائلة تتشكل في الفضاء. وتستطيع هذه البؤرة امتصاص كل ما يقترب منها بما في ذلك الضوء.",
+            "snippet_highlighted_words": [
+                "الثقب الأسود"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٢‏/٠٥‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "علماء يكشفون عن أول صورة لثقب أسود ضخم في مجرة درب التبانة",
+            "link": "https://www.bbc.com/arabic/science-and-tech-61425334",
+            "displayed_link": "https://www.bbc.com › science-and-tech-61425334",
+            "thumbnail": "https://serpapi.com/searches/629e37d59f55b386248f8fcd/images/d36262af82c7889a29fb9e0582df804b59c53976944d8bd0098f542753df7a98.jpeg",
+            "snippet": "·الثقب الأسود هو منطقة من الفضاء تأكلت داخله مادته · الجاذبية قوية جداً لدرجة أنه لا يمكن لأي شيء، حتى الضوء، أن يفلت منها · تظهر الثقوب السوداء ...",
+            "snippet_highlighted_words": [
+                "الثقب الأسود"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٢‏/٠٥‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "التقاط صورة لثقب أسود جديد في «درب التبانة - Scientific ...",
+            "link": "https://www.scientificamerican.com/arabic/articles/news/astronomers-unveiled-first-image-of-the-supermassive-black-hole/",
+            "displayed_link": "https://www.scientificamerican.com › articles › news › a...",
+            "snippet": "التقاط، صورة، ثقب أسود، جديد، درب التبانة، شبكة، ثمانية، تليسكوبات راديوية، عملاقة، أماكن، مختلفة، العالم، تتبُّع، الثقب الأسود، الأرض، سنة ...",
+            "snippet_highlighted_words": [
+                "ثقب أسود",
+                "الثقب الأسود"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٢‏/٠٥‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "ما هو مفهوم الثقب الأسود - موضوع",
+            "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%88_%D9%85%D9%81%D9%87%D9%88%D9%85_%D8%A7%D9%84%D8%AB%D9%82%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF",
+            "displayed_link": "https://mawdoo3.com › علوم الأرض",
+            "snippet": "الثقب الأسود هو مكان في الفضاء تكون فيه الجاذبية عالية جداً، بحيث تكون قادرة على سحب الضوء، ولا يمكن رؤية الثقوب السوداء، وإنّما تساعد ...",
+            "snippet_highlighted_words": [
+                "الثقب الأسود"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٣‏/١١‏/٢٠١٧ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "ما هو الثقب الأسود - موضوع",
+            "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%88_%D8%A7%D9%84%D8%AB%D9%82%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF",
+            "displayed_link": "https://mawdoo3.com › تعليم › علوم",
+            "snippet": "يعرّف العلماء الثقب الأسود بأنّه منطقةٌ في الفضاء تتمتّع بجاذبيّة قويّة جداً لا يستطيع حتى الضوء الهروبَ منها؛ وذلك لأنّ المادة في هذه المنطقة تتمتّع بكثافة ...",
+            "snippet_highlighted_words": [
+                "الثقب الأسود"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "الثقب الأسود - Black hole - المعرفة",
+            "link": "https://www.marefa.org/%D8%AB%D9%82%D8%A8_%D8%A3%D8%B3%D9%88%D8%AF/simplified",
+            "displayed_link": "https://www.marefa.org › ثقب_أسود › simplified",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgazJVrq-DSeDtLGqi8TV9IZihy1ylpu2YG_E6_ndZE7qsHJIuQvxF&usqp=CAE&s",
+            "snippet": "الثقب الأسود Black hole، هو منطقة في الفضاء ذات كثافة مهولة (أي تحوي كتلة بالغة الكبر بالنسبة لحجمها) تفوق غالباً مليون كتلة شمسية، وتصل الجاذبية فيها إلى ...",
+            "snippet_highlighted_words": [
+                "الثقب الأسود"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "الثقب الأسود في القرآن",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF+%D9%81%D9%8A+%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ1QJ6BAhBEAE"
+        },
+        {
+            "query": "أنواع الثقب الأسود",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ1QJ6BAg-EAE"
+        },
+        {
+            "query": "الثقب الأسود من الداخل",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF+%D9%85%D9%86+%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ1QJ6BAg9EAE"
+        },
+        {
+            "query": "الثقب الأسود بالانجليزي",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ1QJ6BAg8EAE"
+        },
+        {
+            "query": "الثقب الأسود والزمن",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF+%D9%88%D8%A7%D9%84%D8%B2%D9%85%D9%86&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "خطورة الثقب الأسود",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D8%AE%D8%B7%D9%88%D8%B1%D8%A9+%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "فوائد الثقب الأسود",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D9%81%D9%88%D8%A7%D8%A6%D8%AF+%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "من اكتشف الثقب الأسود",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ar&gl=eg&q=%D9%85%D9%86+%D8%A7%D9%83%D8%AA%D8%B4%D9%81+%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF&sa=X&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ1QJ6BAg0EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&ucbcb=1&hl=ar&gl=eg&ei=1TeeYuHbN6Wq0PEP94O2sAw&start=10&sa=N&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&ucbcb=1&hl=ar&gl=eg&ei=1TeeYuHbN6Wq0PEP94O2sAw&start=10&sa=N&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&ucbcb=1&hl=ar&gl=eg&ei=1TeeYuHbN6Wq0PEP94O2sAw&start=20&sa=N&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&ucbcb=1&hl=ar&gl=eg&ei=1TeeYuHbN6Wq0PEP94O2sAw&start=30&sa=N&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&ucbcb=1&hl=ar&gl=eg&ei=1TeeYuHbN6Wq0PEP94O2sAw&start=40&sa=N&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&ucbcb=1&hl=ar&gl=eg&ei=1TeeYuHbN6Wq0PEP94O2sAw&start=50&sa=N&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&ucbcb=1&hl=ar&gl=eg&ei=1TeeYuHbN6Wq0PEP94O2sAw&start=60&sa=N&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&ucbcb=1&hl=ar&gl=eg&ei=1TeeYuHbN6Wq0PEP94O2sAw&start=70&sa=N&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&ucbcb=1&hl=ar&gl=eg&ei=1TeeYuHbN6Wq0PEP94O2sAw&start=80&sa=N&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&ucbcb=1&hl=ar&gl=eg&ei=1TeeYuHbN6Wq0PEP94O2sAw&start=90&sa=N&ved=2ahUKEwihmu-7q5n4AhUlFTQIHfeBDcYQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AB%D9%82%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF&start=90"
+        }
+    }
+}

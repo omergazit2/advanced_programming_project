@@ -1,0 +1,320 @@
+{
+    "search_metadata": {
+        "id": "629e3d7217f923126bf89f82",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/817f0d727584b009/629e3d7217f923126bf89f82.json",
+        "created_at": "2022-06-06 17:46:26 UTC",
+        "processed_at": "2022-06-06 17:46:26 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&oq=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/817f0d727584b009/629e3d7217f923126bf89f82.html",
+        "total_time_taken": 0.81
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "מכונית אוטונומית",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "מכונית אוטונומית",
+        "total_results": 85700,
+        "time_taken_displayed": 0.34
+    },
+    "knowledge_graph": {
+        "title": "מכונית אוטונומית",
+        "type": "דרגת רכב",
+        "header_images": [
+            {
+                "source": "https://www.calcalist.co.il/local/articles/0,7340,L-3738191,00.html"
+            },
+            {
+                "source": "https://www.ynet.co.il/articles/0,7340,L-4826048,00.html"
+            },
+            {
+                "source": "https://www.calcalist.co.il/internet/articles/0,7340,L-3752816,00.html"
+            },
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%9E%D7%94%D7%A4%D7%9B%D7%AA_%D7%94-ACES"
+            },
+            {
+                "source": "https://www.geektime.co.il/airbus-pop-up-concept-car/"
+            },
+            {
+                "source": "https://thecar.co.il/%D7%92%D7%A0%D7%A8%D7%9C-%D7%9E%D7%95%D7%98%D7%95%D7%A8%D7%A1-%D7%A0%D7%A2%D7%A8%D7%9B%D7%AA-%D7%9C%D7%94%D7%A9%D7%A7%D7%AA-%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA-%D7%9C%D7%9C%D7%90-%D7%A0%D7%94%D7%92/"
+            }
+        ],
+        "description": "מכונית אוטונומית או מכונית רובוטית היא מכונית המנווטת ומתגברת על מכשולים ללא התערבות פעילה של נהג אנושי ובלא צורך בתכנון מיוחד של הכביש וסביבתו. נכון ל-2022 כלי רכב אוטונומיים נמצאים בשלבי תכנון, פיתוח וניסוי. נכון לשנת 2022, כלי רכב הפועלים ברמה אוטונומית 3 ומעלה הם עדיין בגדר חלק שולי מהשוק.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA_%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA"
+        },
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "מכונית חשמלית",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%97%D7%A9%D7%9E%D7%9C%D7%99%D7%AA&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbkxQO6NtiCuRlmTzwlzTM-8FQqR9V2wyEVXH-zRkfhWBsoaYUFWcJM-aNfZ8NXvJ7Arr-Eh53Rgy1LV0OcYO9uCISenlRg6AR3R0aCtPwDIi9qpLnLSCrRWgz1SI7PsNFzSk16IFmE5Tj6X21AKuQYcsg9XzCiQRv17umUDi_63Zuev944TC0eqWZ1XoGeBSKUYDJE_RYDEZaJMvEFsBAcYhyK57zj2XnSZ8-pg1yDPSAX9ihQeJW_YpNoDNwuZALirlQPYnzRzWuA75cEmxFePSq-ql&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0QxA16BAhKEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%97%D7%A9%D7%9E%D7%9C%D7%99%D7%AA&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbkxQO6NtiCuRlmTzwlzTM-8FQqR9V2wyEVXH-zRkfhWBsoaYUFWcJM-aNfZ8NXvJ7Arr-Eh53Rgy1LV0OcYO9uCISenlRg6AR3R0aCtPwDIi9qpLnLSCrRWgz1SI7PsNFzSk16IFmE5Tj6X21AKuQYcsg9XzCiQRv17umUDi_63Zuev944TC0eqWZ1XoGeBSKUYDJE_RYDEZaJMvEFsBAcYhyK57zj2XnSZ8-pg1yDPSAX9ihQeJW_YpNoDNwuZALirlQPYnzRzWuA75cEmxFePSq-ql",
+                "image": "https://serpapi.com/searches/629e3d7217f923126bf89f82/images/2b9e2cb567f7932f7e978b9d6223d684be3d69144dc6f4b0d1f4ce78f49103764367080aaf781da04ec617a347abfe2896be047c15ed0c42.jpeg"
+            },
+            {
+                "name": "אוטובוס",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTYGAaysXKRyepu8K9-qcZ7Ulka4ffXmTUmRRqGgiNlgVuWiRtfoPGKvB6Of_czKl5BN6XVOMEGxziD_krfNjZ-k3Sq9kWBJAucEXBTr6FVpmc2mX093m_nO1_xsMCd-TXereeKs0625AaCY904b3lkmnFW0isq7XJeXjclz2iBEXy0lZIW0gzrOIFIxgt3W7dTO3bplRiVlWtbM8i2xPiSuDe6v_lU2_eA2J62p6t9eGtZFtigocMEyWdLh4KtFOPIzzh0%3D&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0QxA16BAhKEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTYGAaysXKRyepu8K9-qcZ7Ulka4ffXmTUmRRqGgiNlgVuWiRtfoPGKvB6Of_czKl5BN6XVOMEGxziD_krfNjZ-k3Sq9kWBJAucEXBTr6FVpmc2mX093m_nO1_xsMCd-TXereeKs0625AaCY904b3lkmnFW0isq7XJeXjclz2iBEXy0lZIW0gzrOIFIxgt3W7dTO3bplRiVlWtbM8i2xPiSuDe6v_lU2_eA2J62p6t9eGtZFtigocMEyWdLh4KtFOPIzzh0%3D",
+                "image": "https://serpapi.com/searches/629e3d7217f923126bf89f82/images/2b9e2cb567f7932f7e978b9d6223d684be3d69144dc6f4b0d1f4ce78f49103764367080aaf781da06e07840b83481c46049be3937dd10e7b.jpeg"
+            },
+            {
+                "name": "רכב יוקרה",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A8%D7%9B%D7%91+%D7%99%D7%95%D7%A7%D7%A8%D7%94&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLDaBg14K1-fODiv0S4wqiB0-U_AnaPaYwVYPSPKsmAc3mFVqwwoClO_0UqFA0SkhtnPhUwnwGiamqJ3grhTs5BAwrPRq0OavXsTpP8XIdWSd41Xbnbqs4fuOjTzEnroIcDSeKfY12LcQaLWAdIKvb088h4ZYGNB595p76c29gZ_azmlE50-NGVa16xLDIaB7dy3nzWm-afy_2I5VMk3vK6WsQGiS6YkWoifNi0b3jqyIuWM2uHVksF-9d-OHSupXtQiET8%3D&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0QxA16BAhKEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A8%D7%9B%D7%91+%D7%99%D7%95%D7%A7%D7%A8%D7%94&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLDaBg14K1-fODiv0S4wqiB0-U_AnaPaYwVYPSPKsmAc3mFVqwwoClO_0UqFA0SkhtnPhUwnwGiamqJ3grhTs5BAwrPRq0OavXsTpP8XIdWSd41Xbnbqs4fuOjTzEnroIcDSeKfY12LcQaLWAdIKvb088h4ZYGNB595p76c29gZ_azmlE50-NGVa16xLDIaB7dy3nzWm-afy_2I5VMk3vK6WsQGiS6YkWoifNi0b3jqyIuWM2uHVksF-9d-OHSupXtQiET8%3D",
+                "image": "https://serpapi.com/searches/629e3d7217f923126bf89f82/images/2b9e2cb567f7932f7e978b9d6223d684be3d69144dc6f4b0d1f4ce78f49103764367080aaf781da0aaab3657bf92e3c8e0f72c67b87deb80.jpeg"
+            },
+            {
+                "name": "רכב היברידי",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A8%D7%9B%D7%91+%D7%94%D7%99%D7%91%D7%A8%D7%99%D7%93%D7%99&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgGpGSlgJSd_tyWXye4XzknO7DVauAjBHfrNbKoOyeuLR_7eJBJtrOehRQLlVMyfScGUmU2KA9tiuHOdz8N31RoPsCCKKPLT2eoBTMgo47NjUJFk5O7lAw2-TBlVf8HQ5M6vsIU_4nxhwELOm3Tn6AOoa62AyF7b2g0YsCmE70VOrRECD1WvONhh3o3-0MUEV0Sys7rMUgDzMX-p86iNZOD-iVgqETBw2PvNnbpopow1tbUJe5zbkC_iGgbCnLqF9uskvF9bz1NNu-zab5a2NmXrngTAT&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0QxA16BAhKEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A8%D7%9B%D7%91+%D7%94%D7%99%D7%91%D7%A8%D7%99%D7%93%D7%99&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgGpGSlgJSd_tyWXye4XzknO7DVauAjBHfrNbKoOyeuLR_7eJBJtrOehRQLlVMyfScGUmU2KA9tiuHOdz8N31RoPsCCKKPLT2eoBTMgo47NjUJFk5O7lAw2-TBlVf8HQ5M6vsIU_4nxhwELOm3Tn6AOoa62AyF7b2g0YsCmE70VOrRECD1WvONhh3o3-0MUEV0Sys7rMUgDzMX-p86iNZOD-iVgqETBw2PvNnbpopow1tbUJe5zbkC_iGgbCnLqF9uskvF9bz1NNu-zab5a2NmXrngTAT",
+                "image": "https://serpapi.com/searches/629e3d7217f923126bf89f82/images/2b9e2cb567f7932f7e978b9d6223d684be3d69144dc6f4b0d1f4ce78f49103764367080aaf781da0d81af9861809fcee188565593634cf27.jpeg"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7HKX593ffb1qdcXXJ95fZXC9QlA5gwwdypQAii0g5URAPQ_qeBQAAAA&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0QMSgAegQIShAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7HKX593ffb1qdcXXJ95fZXC9QlA5gwwdypQAii0g5URAPQ_qeBQAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "נהיגה בלעדית וראשונה על מכונית אוטונומית מלאה!!!!",
+            "link": "https://www.youtube.com/watch?v=Q4eL4321wuI",
+            "thumbnail": "https://serpapi.com/searches/629e3d7217f923126bf89f82/images/ce8e3a76337b5ade2b3b5109f23d1b322ddeaeda5837f25346411fae6221995d.jpeg",
+            "channel": "kfir kasharian",
+            "duration": "5:02",
+            "platform": "YouTube",
+            "date": "20 ביוני 2018"
+        },
+        {
+            "position": 2,
+            "title": "נסענו ברכב אוטונומי ברחבי תל אביב",
+            "link": "https://www.youtube.com/watch?v=nULytMFTAvw",
+            "thumbnail": "https://serpapi.com/searches/629e3d7217f923126bf89f82/images/ce8e3a76337b5adeaf6037a5f190316fc2b652dbb2a3f593ee73ae68e0b70111.jpeg",
+            "channel": "Geektime",
+            "duration": "2:20",
+            "platform": "YouTube",
+            "date": "11 ביוני 2019"
+        },
+        {
+            "position": 3,
+            "title": "ניסיוי רכב אוטונומי- אוניברסיטת אריאל",
+            "link": "https://www.youtube.com/watch?v=2nIYzd0QM68",
+            "thumbnail": "https://serpapi.com/searches/629e3d7217f923126bf89f82/images/ce8e3a76337b5adee74991818f047ca9e60cd470057fb2aa18c80b7a62874a60.jpeg",
+            "channel": "Ariel University",
+            "duration": "2:16",
+            "platform": "YouTube",
+            "date": "13 ביולי 2020"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "מכונית אוטונומית - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA_%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA",
+            "displayed_link": "https://he.wikipedia.org › wiki › מכונית_אוטונומית",
+            "snippet": "מכונית אוטונומית או מכונית רובוטית (באנגלית: Autonomous car; לפי האקדמיה ללשון העברית השם הוא: מְכוֹנִית לְלֹא נַהָג) היא מכונית המנווטת ומתגברת על ...",
+            "snippet_highlighted_words": [
+                "מכונית אוטונומית",
+                "מכונית",
+                "car",
+                "מְכוֹנִית",
+                "מכונית"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Aptiv",
+                        "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA_%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA#Aptiv"
+                    },
+                    {
+                        "title": "Zoox",
+                        "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA_%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA#Zoox"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "מכונית אוטונומית- 2021 - autocom - אוטוקום",
+            "link": "https://www.autocom.co.il/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%95%D7%AA-%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%95%D7%AA-2/",
+            "displayed_link": "https://www.autocom.co.il › חדשות › מאמרים ודעות",
+            "date": "2 במאי 2021",
+            "snippet": "מכונית אוטונומית- 2021 ... במשך עשורים, מכונית מעופפת שימוש בתור הדימוי המובהק ביותר לתיאור עתיד מתקדם. ... אז כיצד עובדים רכבים אוטונומיים?",
+            "snippet_highlighted_words": [
+                "מכונית אוטונומית",
+                "מכונית",
+                "אוטונומיים"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "למרות ההבטחות, מכונית אוטונומית מלאה עדיין לא כאן | כלכליסט",
+            "link": "https://www.calcalist.co.il/calcalistech/article/SkkKKh2KO",
+            "displayed_link": "https://www.calcalist.co.il › calcalistech › article",
+            "date": "27 במאי 2021",
+            "snippet": "לפני כחמש שנים כמעט כל מי שדיבר על רכב אוטונומי הבטיח לנו שאו-טו-טו זה קורה, שרכבים אוטונומיים מלאים יהיו בכבישים.",
+            "snippet_highlighted_words": [
+                "אוטונומי",
+                "אוטונומיים"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "אמנון שעשוע מבטיח מכונית אוטונומית בתל אביב כבר בשנה הבאה. ...",
+            "link": "https://www.themarker.com/magazine/2021-04-06/ty-article-magazine/.premium/0000017f-e542-df5f-a17f-ffdeea920000",
+            "displayed_link": "https://www.themarker.com › magazine › .premium",
+            "snippet": "עמדה זו משקפת כנראה את התחושה של רבים כשהם חושבים על מכוניות ללא נהג. אבל האם היא מוצדקת? אם כן, הסיפור של כלי רכב אוטונומיים יישאר בגדר קוריוז, ...",
+            "snippet_highlighted_words": [
+                "מכוניות",
+                "אוטונומיים"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "באפר": 6
+                    },
+                    "extensions": [
+                        "6 באפר׳ 2021",
+                        "הועלה על",
+                        "ידי איתן אבריאל"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "מכונית אוטונומית - Ynet",
+            "link": "https://www.ynet.co.il/topics/%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA_%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA",
+            "displayed_link": "https://www.ynet.co.il › תגיות › טופיקס",
+            "snippet": "מכונית אוטונומית ; מרצדס נהיגה אוטונומית רמה 3 · 08.05.22 ; המייסדים אורן בוסקילה, עומר כילף ואורן גוזנצווייג · 03.05.22 ; טויוטה דריפט אוטונומי · 04.02.22 ; טסלה מודל ...",
+            "snippet_highlighted_words": [
+                "מכונית אוטונומית",
+                "אוטונומית",
+                "אוטונומי"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "רכב אוטונומי – EV Magazine | מגזין רכב חשמלי",
+            "link": "https://www.evm.co.il/tag/autonomous-car/",
+            "displayed_link": "https://www.evm.co.il › tag › autonomous-car",
+            "snippet": "החברה הישראלית בבעלות אינטל הציגה מונית אוטונומית שתתחיל לפעול כבר בשנה הבאה בגרמניה. ... טסלה תחשוף יכולות רכב אוטונומי נרחבות בקרוב.",
+            "snippet_highlighted_words": [
+                "אוטונומית",
+                "אוטונומי"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "רכב אוטונומי - גלובס",
+            "link": "https://www.globes.co.il/news/%D7%A8%D7%9B%D7%91_%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99.tag",
+            "displayed_link": "https://www.globes.co.il › רכב אוטונומי",
+            "snippet": "כתבות אחרונות · בראש סטארט-אפ מרחובות: שי אגסי עושה קאמבק לתעשיית הרכב · משרד התחבורה צפוי לאשר \"חניה ללא נהג\" בכלי רכב שתומכים בכך · המכונית האוטונומית: ...",
+            "snippet_highlighted_words": [
+                "האוטונומית"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "רכבים אוטונומיים | חדשנות בהשקעות | מגדל שוקי הון בית השקעות",
+            "link": "https://www.msh.co.il/sector/%D7%A8%D7%9B%D7%91%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%99%D7%9D/",
+            "displayed_link": "https://www.msh.co.il › מדדי חדשנות זה MTF",
+            "snippet": "אפל תציג מכונית אוטונומית ב-2024. 22.12.2020. אפל \"מחייה מחדש\" את פרויקט הרכב האוטונומי וכן תפתח סוללה לרכב שאמורה להגדיל את טווח הנסיעה ולהוזיל עלויות.",
+            "snippet_highlighted_words": [
+                "מכונית אוטונומית"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "בלי ידיים: מתי נפסיק לנהוג? - Mako",
+            "link": "https://www.mako.co.il/nexter-xtra_innovation/Article-5604eabbe4cd571027.htm",
+            "displayed_link": "https://www.mako.co.il › nexter-xtra_innovation",
+            "snippet": "הרבה שנים אנחנו שומעים על רכב אוטונומי, אבל זה לא קורה – אז בדקנו כמה זהיר הרכב האוטונומי צריך להיות, ... טסלה מכונית אוטונומית ...",
+            "snippet_highlighted_words": [
+                "אוטונומי",
+                "מכונית אוטונומית"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "בינו": 5
+                    },
+                    "extensions": [
+                        "5 בינו׳ 2021",
+                        "הועלה על",
+                        "ידי Mobileye an Intel Company"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "מכונית אוטונומית טסלה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA+%D7%98%D7%A1%D7%9C%D7%94&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q1QJ6BAgyEAE"
+        },
+        {
+            "query": "מכוניות אוטונומיות בעתיד",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%95%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%95%D7%AA+%D7%91%D7%A2%D7%AA%D7%99%D7%93&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q1QJ6BAgxEAE"
+        },
+        {
+            "query": "פיתוח רכב אוטונומי",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A4%D7%99%D7%AA%D7%95%D7%97+%D7%A8%D7%9B%D7%91+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q1QJ6BAgtEAE"
+        },
+        {
+            "query": "מה זה רכב אוטונומי",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%94+%D7%96%D7%94+%D7%A8%D7%9B%D7%91+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q1QJ6BAgqEAE"
+        },
+        {
+            "query": "רכב אוטונומי מאמר",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A8%D7%9B%D7%91+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99+%D7%9E%D7%90%D7%9E%D7%A8&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q1QJ6BAgpEAE"
+        },
+        {
+            "query": "אוטונומי פירוש",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99+%D7%A4%D7%99%D7%A8%D7%95%D7%A9&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q1QJ6BAgjEAE"
+        },
+        {
+            "query": "רכב אוטונומי מחיר",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A8%D7%9B%D7%91+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99+%D7%9E%D7%97%D7%99%D7%A8&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q1QJ6BAggEAE"
+        },
+        {
+            "query": "מכונית אוטומטית",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99%D7%AA&sa=X&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q1QJ6BAgfEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&gl=il&hl=iw&ei=cj2eYtniJYSpptQPnoKiaA&start=10&sa=N&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q8NMDegQIAhBN",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&gl=il&hl=iw&ei=cj2eYtniJYSpptQPnoKiaA&start=10&sa=N&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&gl=il&hl=iw&ei=cj2eYtniJYSpptQPnoKiaA&start=20&sa=N&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&gl=il&hl=iw&ei=cj2eYtniJYSpptQPnoKiaA&start=30&sa=N&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&gl=il&hl=iw&ei=cj2eYtniJYSpptQPnoKiaA&start=40&sa=N&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&gl=il&hl=iw&ei=cj2eYtniJYSpptQPnoKiaA&start=50&sa=N&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&gl=il&hl=iw&ei=cj2eYtniJYSpptQPnoKiaA&start=60&sa=N&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&gl=il&hl=iw&ei=cj2eYtniJYSpptQPnoKiaA&start=70&sa=N&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&gl=il&hl=iw&ei=cj2eYtniJYSpptQPnoKiaA&start=80&sa=N&ved=2ahUKEwjZ4_josJn4AhWElIkEHR6BCA0Q8tMDegQIAhBL"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%9B%D7%95%D7%A0%D7%99%D7%AA+%D7%90%D7%95%D7%98%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%AA&start=80"
+        }
+    }
+}

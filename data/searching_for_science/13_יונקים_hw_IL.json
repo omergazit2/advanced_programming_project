@@ -1,0 +1,291 @@
+{
+    "search_metadata": {
+        "id": "629e3d90aa6c95e4deb6c4b3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/92e19d4fb661f4dc/629e3d90aa6c95e4deb6c4b3.json",
+        "created_at": "2022-06-06 17:46:56 UTC",
+        "processed_at": "2022-06-06 17:46:56 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&oq=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/92e19d4fb661f4dc/629e3d90aa6c95e4deb6c4b3.html",
+        "total_time_taken": 4.63
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "יונקים",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "יונקים",
+        "total_results": 637000,
+        "time_taken_displayed": 0.46
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=uO1YlIDoJRBEgM%252CBneORx1yTRHZUM%252C_%253B32eGmF7e_eT7xM%252C5dHOCrteSf7YeM%252C_%253BaYFYKe204CE9PM%252Cm_pbAFBxw0JSyM%252C_%253BZg_dPkPJdieP3M%252CeAVYn83IEBr8SM%252C_%253Bq7hymSONQiS5iM%252CBneORx1yTRHZUM%252C_%253BbZW8kYsxKMNz9M%252C1nuLOzDrKXxF1M%252C_%253B7-M5OZkax96JHM%252CHm-NdYJfcBVgUM%252C_%253BmkdD3DLUM2bZKM%252CMs9OTYqn9VQCcM%252C_%253BtASy4YjWwGdPVM%252CMs9OTYqn9VQCcM%252C_%253BAxNRaiwh6vmVoM%252CBneORx1yTRHZUM%252C_&usg=AI4_-kQXlAwUG07_cAjG6HZt_b8khhHLeg&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ9QF6BAgkEAE#imgrc=uO1YlIDoJRBEgM",
+            "source": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D",
+            "thumbnail": "https://serpapi.com/searches/629e3d90aa6c95e4deb6c4b3/images/2bffe84f62c63dc67be2d599e31bfc6489a7c250306f20d812c15a6eb0581671.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=uO1YlIDoJRBEgM%252CBneORx1yTRHZUM%252C_%253B32eGmF7e_eT7xM%252C5dHOCrteSf7YeM%252C_%253BaYFYKe204CE9PM%252Cm_pbAFBxw0JSyM%252C_%253BZg_dPkPJdieP3M%252CeAVYn83IEBr8SM%252C_%253Bq7hymSONQiS5iM%252CBneORx1yTRHZUM%252C_%253BbZW8kYsxKMNz9M%252C1nuLOzDrKXxF1M%252C_%253B7-M5OZkax96JHM%252CHm-NdYJfcBVgUM%252C_%253BmkdD3DLUM2bZKM%252CMs9OTYqn9VQCcM%252C_%253BtASy4YjWwGdPVM%252CMs9OTYqn9VQCcM%252C_%253BAxNRaiwh6vmVoM%252CBneORx1yTRHZUM%252C_&usg=AI4_-kQXlAwUG07_cAjG6HZt_b8khhHLeg&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ9QF6BAgzEAE#imgrc=32eGmF7e_eT7xM",
+            "source": "https://www.masa.co.il/article/%D7%94%D7%97%D7%99%D7%93%D7%95%D7%9F-%D7%94%D7%92%D7%99%D7%90%D7%95%D7%92%D7%A8%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D-%D7%92%D7%93%D7%95%D7%9C%D7%99%D7%9D/",
+            "thumbnail": "https://serpapi.com/searches/629e3d90aa6c95e4deb6c4b3/images/2bffe84f62c63dc687d4df8ffc28bc5ff0619da43a0c62869dae700b59c4f2b8.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=uO1YlIDoJRBEgM%252CBneORx1yTRHZUM%252C_%253B32eGmF7e_eT7xM%252C5dHOCrteSf7YeM%252C_%253BaYFYKe204CE9PM%252Cm_pbAFBxw0JSyM%252C_%253BZg_dPkPJdieP3M%252CeAVYn83IEBr8SM%252C_%253Bq7hymSONQiS5iM%252CBneORx1yTRHZUM%252C_%253BbZW8kYsxKMNz9M%252C1nuLOzDrKXxF1M%252C_%253B7-M5OZkax96JHM%252CHm-NdYJfcBVgUM%252C_%253BmkdD3DLUM2bZKM%252CMs9OTYqn9VQCcM%252C_%253BtASy4YjWwGdPVM%252CMs9OTYqn9VQCcM%252C_%253BAxNRaiwh6vmVoM%252CBneORx1yTRHZUM%252C_&usg=AI4_-kQXlAwUG07_cAjG6HZt_b8khhHLeg&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ9QF6BAg3EAE#imgrc=aYFYKe204CE9PM",
+            "source": "https://sites.google.com/site/svivatlemidaanimal/home/ywnqym",
+            "thumbnail": "https://serpapi.com/searches/629e3d90aa6c95e4deb6c4b3/images/2bffe84f62c63dc62156b7ab92093c399cde2e6805be90b0b4200e0475810cc8.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=uO1YlIDoJRBEgM%252CBneORx1yTRHZUM%252C_%253B32eGmF7e_eT7xM%252C5dHOCrteSf7YeM%252C_%253BaYFYKe204CE9PM%252Cm_pbAFBxw0JSyM%252C_%253BZg_dPkPJdieP3M%252CeAVYn83IEBr8SM%252C_%253Bq7hymSONQiS5iM%252CBneORx1yTRHZUM%252C_%253BbZW8kYsxKMNz9M%252C1nuLOzDrKXxF1M%252C_%253B7-M5OZkax96JHM%252CHm-NdYJfcBVgUM%252C_%253BmkdD3DLUM2bZKM%252CMs9OTYqn9VQCcM%252C_%253BtASy4YjWwGdPVM%252CMs9OTYqn9VQCcM%252C_%253BAxNRaiwh6vmVoM%252CBneORx1yTRHZUM%252C_&usg=AI4_-kQXlAwUG07_cAjG6HZt_b8khhHLeg&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ9QF6BAgyEAE#imgrc=Zg_dPkPJdieP3M",
+            "source": "https://www.masa.co.il/article/%D7%97%D7%99%D7%93%D7%95%D7%9F-%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D-%D7%99%D7%9E%D7%99%D7%99%D7%9D/",
+            "thumbnail": "https://serpapi.com/searches/629e3d90aa6c95e4deb6c4b3/images/2bffe84f62c63dc6ee8615a15feab33b311fd4c64bb8cdf7b88fd0e9479bb72d.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=uO1YlIDoJRBEgM%252CBneORx1yTRHZUM%252C_%253B32eGmF7e_eT7xM%252C5dHOCrteSf7YeM%252C_%253BaYFYKe204CE9PM%252Cm_pbAFBxw0JSyM%252C_%253BZg_dPkPJdieP3M%252CeAVYn83IEBr8SM%252C_%253Bq7hymSONQiS5iM%252CBneORx1yTRHZUM%252C_%253BbZW8kYsxKMNz9M%252C1nuLOzDrKXxF1M%252C_%253B7-M5OZkax96JHM%252CHm-NdYJfcBVgUM%252C_%253BmkdD3DLUM2bZKM%252CMs9OTYqn9VQCcM%252C_%253BtASy4YjWwGdPVM%252CMs9OTYqn9VQCcM%252C_%253BAxNRaiwh6vmVoM%252CBneORx1yTRHZUM%252C_&usg=AI4_-kQXlAwUG07_cAjG6HZt_b8khhHLeg&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ9QF6BAg8EAE#imgrc=q7hymSONQiS5iM",
+            "source": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D",
+            "thumbnail": "https://serpapi.com/searches/629e3d90aa6c95e4deb6c4b3/images/2bffe84f62c63dc69f765d99b6d8e9ff9554d85aa9ca7912f01b5a17a37f7136.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=uO1YlIDoJRBEgM%252CBneORx1yTRHZUM%252C_%253B32eGmF7e_eT7xM%252C5dHOCrteSf7YeM%252C_%253BaYFYKe204CE9PM%252Cm_pbAFBxw0JSyM%252C_%253BZg_dPkPJdieP3M%252CeAVYn83IEBr8SM%252C_%253Bq7hymSONQiS5iM%252CBneORx1yTRHZUM%252C_%253BbZW8kYsxKMNz9M%252C1nuLOzDrKXxF1M%252C_%253B7-M5OZkax96JHM%252CHm-NdYJfcBVgUM%252C_%253BmkdD3DLUM2bZKM%252CMs9OTYqn9VQCcM%252C_%253BtASy4YjWwGdPVM%252CMs9OTYqn9VQCcM%252C_%253BAxNRaiwh6vmVoM%252CBneORx1yTRHZUM%252C_&usg=AI4_-kQXlAwUG07_cAjG6HZt_b8khhHLeg&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ9QF6BAhBEAE#imgrc=bZW8kYsxKMNz9M",
+            "source": "https://www.triviakids.com/?p=295",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ6J7GuePUD78b6hXRaJUVCDa7fVg5elHWc9t1fywxwg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=uO1YlIDoJRBEgM%252CBneORx1yTRHZUM%252C_%253B32eGmF7e_eT7xM%252C5dHOCrteSf7YeM%252C_%253BaYFYKe204CE9PM%252Cm_pbAFBxw0JSyM%252C_%253BZg_dPkPJdieP3M%252CeAVYn83IEBr8SM%252C_%253Bq7hymSONQiS5iM%252CBneORx1yTRHZUM%252C_%253BbZW8kYsxKMNz9M%252C1nuLOzDrKXxF1M%252C_%253B7-M5OZkax96JHM%252CHm-NdYJfcBVgUM%252C_%253BmkdD3DLUM2bZKM%252CMs9OTYqn9VQCcM%252C_%253BtASy4YjWwGdPVM%252CMs9OTYqn9VQCcM%252C_%253BAxNRaiwh6vmVoM%252CBneORx1yTRHZUM%252C_&usg=AI4_-kQXlAwUG07_cAjG6HZt_b8khhHLeg&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ9QF6BAg1EAE#imgrc=7-M5OZkax96JHM",
+            "source": "https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%A8%D7%98%D7%9C:%D7%94%D7%97%D7%99_%D7%95%D7%94%D7%A6%D7%95%D7%9E%D7%97_%D7%91%D7%90%D7%A8%D7%A5_%D7%99%D7%A9%D7%A8%D7%90%D7%9C/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkGDFkfSZgRHHzm8qRS5mYF-KoQ7UxFmnR_V5u5Vs_&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=uO1YlIDoJRBEgM%252CBneORx1yTRHZUM%252C_%253B32eGmF7e_eT7xM%252C5dHOCrteSf7YeM%252C_%253BaYFYKe204CE9PM%252Cm_pbAFBxw0JSyM%252C_%253BZg_dPkPJdieP3M%252CeAVYn83IEBr8SM%252C_%253Bq7hymSONQiS5iM%252CBneORx1yTRHZUM%252C_%253BbZW8kYsxKMNz9M%252C1nuLOzDrKXxF1M%252C_%253B7-M5OZkax96JHM%252CHm-NdYJfcBVgUM%252C_%253BmkdD3DLUM2bZKM%252CMs9OTYqn9VQCcM%252C_%253BtASy4YjWwGdPVM%252CMs9OTYqn9VQCcM%252C_%253BAxNRaiwh6vmVoM%252CBneORx1yTRHZUM%252C_&usg=AI4_-kQXlAwUG07_cAjG6HZt_b8khhHLeg&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ9QF6BAhAEAE#imgrc=mkdD3DLUM2bZKM",
+            "source": "https://goarava.co.il/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-_r8eWBF14HqKtW2xzCNTZyevbrWf2jAXu_4I9CIHA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=uO1YlIDoJRBEgM%252CBneORx1yTRHZUM%252C_%253B32eGmF7e_eT7xM%252C5dHOCrteSf7YeM%252C_%253BaYFYKe204CE9PM%252Cm_pbAFBxw0JSyM%252C_%253BZg_dPkPJdieP3M%252CeAVYn83IEBr8SM%252C_%253Bq7hymSONQiS5iM%252CBneORx1yTRHZUM%252C_%253BbZW8kYsxKMNz9M%252C1nuLOzDrKXxF1M%252C_%253B7-M5OZkax96JHM%252CHm-NdYJfcBVgUM%252C_%253BmkdD3DLUM2bZKM%252CMs9OTYqn9VQCcM%252C_%253BtASy4YjWwGdPVM%252CMs9OTYqn9VQCcM%252C_%253BAxNRaiwh6vmVoM%252CBneORx1yTRHZUM%252C_&usg=AI4_-kQXlAwUG07_cAjG6HZt_b8khhHLeg&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ9QF6BAg5EAE#imgrc=tASy4YjWwGdPVM",
+            "source": "https://goarava.co.il/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAYWGLFChC8G4GYVEY2w4EeJaj3YJqRYdRKBUzrfLKxQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=uO1YlIDoJRBEgM%252CBneORx1yTRHZUM%252C_%253B32eGmF7e_eT7xM%252C5dHOCrteSf7YeM%252C_%253BaYFYKe204CE9PM%252Cm_pbAFBxw0JSyM%252C_%253BZg_dPkPJdieP3M%252CeAVYn83IEBr8SM%252C_%253Bq7hymSONQiS5iM%252CBneORx1yTRHZUM%252C_%253BbZW8kYsxKMNz9M%252C1nuLOzDrKXxF1M%252C_%253B7-M5OZkax96JHM%252CHm-NdYJfcBVgUM%252C_%253BmkdD3DLUM2bZKM%252CMs9OTYqn9VQCcM%252C_%253BtASy4YjWwGdPVM%252CMs9OTYqn9VQCcM%252C_%253BAxNRaiwh6vmVoM%252CBneORx1yTRHZUM%252C_&usg=AI4_-kQXlAwUG07_cAjG6HZt_b8khhHLeg&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ9QF6BAg6EAE#imgrc=AxNRaiwh6vmVoM",
+            "source": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN73sE840yxIssb0k-7Fvd86atflKTbTzIqOTrlp0p&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Kate Slabosky: שלוש הדרכים בהן יונקים יולדים - קייט סלבוסקי",
+            "link": "https://www.ted.com/talks/kate_slabosky_the_three_different_ways_mammals_give_birth/transcript?language=he",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSasmaSXKEamVPpnSeLlcmLwnvNdRaITc_4j3hlOVKKVsQ&s",
+            "duration": "4:35",
+            "platform": "TED",
+            "date": "1 במרץ 2019"
+        },
+        {
+            "position": 2,
+            "title": "מחלקת היונקים מאת החיות של שלמה",
+            "link": "https://www.youtube.com/watch?v=vj97O5H0MOw",
+            "thumbnail": "https://i.ytimg.com/vi/vj97O5H0MOw/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3njZisMdza-3XcpSUVNnfnglH_S1g",
+            "channel": "החיות של שלמה",
+            "duration": "31:57",
+            "platform": "YouTube",
+            "date": "24 בספט׳ 2020"
+        },
+        {
+            "position": 3,
+            "title": "810 - אפיון מחלקת היונקים",
+            "link": "https://www.youtube.com/watch?v=IBxIzUc81zc",
+            "thumbnail": "https://i.ytimg.com/vi/IBxIzUc81zc/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3npXvsIEfRPJIaIo308ITAMLw8gng",
+            "channel": "המכללה האקדמית אחוה - Achva Academic College",
+            "duration": "4:45",
+            "platform": "YouTube",
+            "date": "18 בנוב׳ 2018"
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "יוֹנְקִים",
+        "definitions": [
+            "מַחְלָקָה בְּבַעֲלֵי הַחַיִּים בַּעֲלֵי הַחֻלְיוֹת, שֶׁוַּלְדוֹתֵיהֶם נִזּוֹנִים מֵחֲלַב אֵם; הַוְּלָדוֹת שֶׁל רֹב הַיּוֹנְקִים מִתְפַּתְּחִים בְּרֶחֶם הָאֵם. לְאַחַר הַלֵּדָה מֵינִיקָה אוֹתָם הָאֵם מֶשֶׁךְ זְמַן מְסֻיָּם בְּחָלָב הַנִּפְרָשׁ מִבַּלּוּטוֹת הֶחָלָב שֶׁבְּגוּפָהּ."
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "יונקים - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D",
+            "displayed_link": "https://he.wikipedia.org › wiki › יונקים",
+            "snippet": "יונקים (שם מדעי: Mammalia) היא מחלקה במערכת המיתרניים, המונה כ-5,400 מינים של בעלי חיים. המאפיין המובהק ביותר של היונקים (ממנו נגזר שמה של המחלקה) הוא קיומן ...",
+            "snippet_highlighted_words": [
+                "יונקים",
+                "היונקים"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "פורטל:יונקים",
+                        "link": "https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%A8%D7%98%D7%9C:%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D"
+                    },
+                    {
+                        "title": "יונקים ימיים",
+                        "link": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D_%D7%99%D7%9E%D7%99%D7%99%D7%9D"
+                    },
+                    {
+                        "title": "יונקים מימיים",
+                        "link": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D_%D7%9E%D7%99%D7%9E%D7%99%D7%99%D7%9D"
+                    },
+                    {
+                        "title": "דמויי יונקים",
+                        "link": "https://he.wikipedia.org/wiki/%D7%93%D7%9E%D7%95%D7%99%D7%99_%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "על־מחלקה: חולייתנים לסתניים",
+                        "מערכה: מיתרניים",
+                        "תת־מערכה: בעלי גולגולת"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "פורטל:יונקים - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%A8%D7%98%D7%9C:%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D",
+            "displayed_link": "https://he.wikipedia.org › wiki › פורטל:יונקים",
+            "snippet": "יש ביניהם שוכני-יבשה ההולכים על ארבע רגליים או על שתיים, שוכני-ים מובהקים, בעלי ..."
+        },
+        {
+            "position": 3,
+            "title": "יונקים - בריינפופ ישראל",
+            "link": "https://il.brainpop.com/category_8/subcategory_93/subjects_3035/",
+            "displayed_link": "https://il.brainpop.com › subcategory_93 › subjects_3035",
+            "snippet": "נכון מאוד, כולם בני משפחת היונקים! הצטרפו לתום ומובי, ולמדו על משפחה זו ועל מאפייניה. תבינו מהם בעלי חיים הומיאותרמיים ומהו יונק כיס ותכירו את בעלי הביב ...",
+            "snippet_highlighted_words": [
+                "היונקים",
+                "יונק"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "יונקים - – המכלול",
+            "link": "https://www.hamichlol.org.il/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D",
+            "displayed_link": "https://www.hamichlol.org.il › יונקים",
+            "date": "1 בספט׳ 2019",
+            "snippet": "המאפיין המובהק ביותר של היונקים (ממנו נגזר שמה של המחלקה) הוא קיומן של בלוטות חלב, שבאמצעותן מזינה האם את צאצאיה. קריאת טבלת מיון יונקים. מינים ...",
+            "snippet_highlighted_words": [
+                "היונקים",
+                "יונקים"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "רשימת בעלי חיים בישראל מסוג יונק - טיולי",
+            "link": "https://www.tiuli.com/fauna?types=29",
+            "displayed_link": "https://www.tiuli.com › fauna",
+            "snippet": "לטייל עם חיות בישראל ... רוצים לשדרג את הטיולים בטבע? אספנו לכם שלל מסלולים בהם תוכלו לפגוש את חיות הבר. היכונו להתרגש ממפגשים מיוחדים עם בעלי החיים בסביבה הטבעית ..."
+        },
+        {
+            "position": 6,
+            "title": "מחלקת יונקים - מאפיינים - מדעים - Google Sites",
+            "link": "https://sites.google.com/a/savyonim.tzafonet.org.il/sience/home/kyth-d/mhlqt-ywnqym---mpyynym",
+            "displayed_link": "https://sites.google.com › mhlqt-ywnqym---mpyynym",
+            "snippet": "בעלי החיים השייכים למחלקת היונקים מתקיימים בסביבות חיים מגוונות. יונקים נמצאים כמעט בכל מקום: ביער ובחורש, בים ובנחל, במדבר ואפילו בקטבים. הקבוצה הגדולה ביותר ...",
+            "snippet_highlighted_words": [
+                "היונקים",
+                "יונקים"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "מחלקות הגן יונקים - גן החיות הלימודי חיפה",
+            "link": "https://www.haifazoo.co.il/animals_category/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D/",
+            "displayed_link": "https://www.haifazoo.co.il › animals_category › יונקים",
+            "snippet": "בקרב היונקים שלוש סדרות (נציגי שתיים מהן נמצאות בגן החיות שלנו): יונקי ביב – בעל ביב מטיל ביצים, כמו ברווזן או קיפודן. יונקי כיס – יונק שצאצאיו נולדים בשלב ...",
+            "snippet_highlighted_words": [
+                "היונקים",
+                "יונקי",
+                "יונקי",
+                "יונק"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "יונקים - תיירות ערבה",
+            "link": "https://goarava.co.il/%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D/",
+            "displayed_link": "https://goarava.co.il › יונקים",
+            "snippet": "חתול קטן שראשו רחב ושטוח וצבעו חום אפרפר. ... חתול גדול הידוע בציצת השיער הארוכה והשחורה הבולטת מקצות אוזניו. ... הגדול בחתוליים בישראל. ... שועל קטן ובהיר שצבע ..."
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "מאפייני יונקים",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%90%D7%A4%D7%99%D7%99%D7%A0%D7%99+%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ1QJ6BAghEAE"
+        },
+        {
+            "query": "מחלקת היונקים",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%97%D7%9C%D7%A7%D7%AA+%D7%94%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ1QJ6BAggEAE"
+        },
+        {
+            "query": "משפחת היונקים",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%A9%D7%A4%D7%97%D7%AA+%D7%94%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "יונקים הסבר לילדים",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D+%D7%94%D7%A1%D7%91%D7%A8+%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ1QJ6BAgeEAE"
+        },
+        {
+            "query": "רשימת יונקים",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%A8%D7%A9%D7%99%D7%9E%D7%AA+%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ1QJ6BAgcEAE"
+        },
+        {
+            "query": "מחלקת היונקים כיתה ד",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%97%D7%9C%D7%A7%D7%AA+%D7%94%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D+%D7%9B%D7%99%D7%AA%D7%94+%D7%93&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ1QJ6BAgbEAE"
+        },
+        {
+            "query": "יונקים באנגלית",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D+%D7%91%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ1QJ6BAgZEAE"
+        },
+        {
+            "query": "יונקים מבויתים",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D+%D7%9E%D7%91%D7%95%D7%99%D7%AA%D7%99%D7%9D&sa=X&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ1QJ6BAgWEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&ei=lD2eYtG5GLDXptQP_qGO4AU&start=10&sa=N&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ8NMDegQIARBO",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&ei=lD2eYtG5GLDXptQP_qGO4AU&start=10&sa=N&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ8tMDegQIARA8",
+            "3": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&ei=lD2eYtG5GLDXptQP_qGO4AU&start=20&sa=N&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ8tMDegQIARA-",
+            "4": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&ei=lD2eYtG5GLDXptQP_qGO4AU&start=30&sa=N&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ8tMDegQIARBA",
+            "5": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&ei=lD2eYtG5GLDXptQP_qGO4AU&start=40&sa=N&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ8tMDegQIARBC",
+            "6": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&ei=lD2eYtG5GLDXptQP_qGO4AU&start=50&sa=N&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ8tMDegQIARBE",
+            "7": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&ei=lD2eYtG5GLDXptQP_qGO4AU&start=60&sa=N&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ8tMDegQIARBG",
+            "8": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&ei=lD2eYtG5GLDXptQP_qGO4AU&start=70&sa=N&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ8tMDegQIARBI",
+            "9": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&ei=lD2eYtG5GLDXptQP_qGO4AU&start=80&sa=N&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ8tMDegQIARBK",
+            "10": "https://www.google.com/search?q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&ucbcb=1&hl=iw&gl=il&ei=lD2eYtG5GLDXptQP_qGO4AU&start=90&sa=N&ved=2ahUKEwjR04b5sJn4AhWwq4kEHf6QA1wQ8tMDegQIARBM"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%99%D7%95%D7%A0%D7%A7%D7%99%D7%9D&start=90"
+        }
+    }
+}

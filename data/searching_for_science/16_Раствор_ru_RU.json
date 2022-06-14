@@ -1,0 +1,357 @@
+{
+    "search_metadata": {
+        "id": "629e3dc29d1586584f402bc0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3ac3974a72dad56e/629e3dc29d1586584f402bc0.json",
+        "created_at": "2022-06-06 17:47:46 UTC",
+        "processed_at": "2022-06-06 17:47:46 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&oq=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3ac3974a72dad56e/629e3dc29d1586584f402bc0.html",
+        "total_time_taken": 1.08
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Раствор",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Раствор",
+        "total_results": 51600000,
+        "time_taken_displayed": 0.42
+    },
+    "knowledge_graph": {
+        "Возможно_вы_искали": [
+            {
+                "name": "Раствор",
+                "extensions": [
+                    "Раство́р — однородная система, в состав которой ..."
+                ]
+            },
+            {
+                "name": "РАСТВО́Р",
+                "extensions": [
+                    "Определение в словаре"
+                ]
+            },
+            {
+                "name": "Раствор",
+                "extensions": [
+                    "Лекарственная форма"
+                ],
+                "image": "https://serpapi.com/searches/629e3dc29d1586584f402bc0/images/b2de422c18d848dec964edcccb03cbb146b6c023414c3466fe4c5795260fab0b48b317387cbf21eeb16efc267f16ccf73f4d411fef34e08c18ce4070f68332e7.jpeg"
+            }
+        ]
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=6wz5Ie1qXCaiYM%252ChbebXtbhi7hCsM%252C_%253BfA_HgR-yZ6DCnM%252CapPYYeJJiVrY4M%252C_%253B1_5BZnAWON3fUM%252CyTlB6hvsbHv-RM%252C_%253BppRSn7RXSB0JQM%252C5zn9DYU7ADyeMM%252C_%253B3R7W9wUA7zXg3M%252C3gxHjvv0m8r4vM%252C_%253BeS3ax8Enj93sEM%252ChtdCt4hREERddM%252C_%253B6xonPETfsX84hM%252CiPFo7Ol3O88zpM%252C_%253BVPFGziBaVzJkVM%252CYV10U3qOucLXQM%252C_%253BAKAqc7Vuaab3GM%252C5w0OQ2ufBJOHQM%252C_%253B8vkAXi8zT1qTzM%252CkDgX6fBOU3ol5M%252C_&usg=AI4_-kSxIaDj9y96CvXP7oktSV4_V24Xqw&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ9QF6BAg0EAE#imgrc=6wz5Ie1qXCaiYM",
+            "source": "https://vseapteki.ru/product/125974-ringera/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQud1QJROyZSdGw40vpB61TX8reR8g-d_xEbB9PJpE87A&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=6wz5Ie1qXCaiYM%252ChbebXtbhi7hCsM%252C_%253BfA_HgR-yZ6DCnM%252CapPYYeJJiVrY4M%252C_%253B1_5BZnAWON3fUM%252CyTlB6hvsbHv-RM%252C_%253BppRSn7RXSB0JQM%252C5zn9DYU7ADyeMM%252C_%253B3R7W9wUA7zXg3M%252C3gxHjvv0m8r4vM%252C_%253BeS3ax8Enj93sEM%252ChtdCt4hREERddM%252C_%253B6xonPETfsX84hM%252CiPFo7Ol3O88zpM%252C_%253BVPFGziBaVzJkVM%252CYV10U3qOucLXQM%252C_%253BAKAqc7Vuaab3GM%252C5w0OQ2ufBJOHQM%252C_%253B8vkAXi8zT1qTzM%252CkDgX6fBOU3ol5M%252C_&usg=AI4_-kSxIaDj9y96CvXP7oktSV4_V24Xqw&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ9QF6BAhGEAE#imgrc=fA_HgR-yZ6DCnM",
+            "source": "https://www.vidal.ru/drugs/ringers_solution__32552",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeiqXJMFMtffCGwxgNZxxUbdyzFA3evQkvknGG9CmJA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=6wz5Ie1qXCaiYM%252ChbebXtbhi7hCsM%252C_%253BfA_HgR-yZ6DCnM%252CapPYYeJJiVrY4M%252C_%253B1_5BZnAWON3fUM%252CyTlB6hvsbHv-RM%252C_%253BppRSn7RXSB0JQM%252C5zn9DYU7ADyeMM%252C_%253B3R7W9wUA7zXg3M%252C3gxHjvv0m8r4vM%252C_%253BeS3ax8Enj93sEM%252ChtdCt4hREERddM%252C_%253B6xonPETfsX84hM%252CiPFo7Ol3O88zpM%252C_%253BVPFGziBaVzJkVM%252CYV10U3qOucLXQM%252C_%253BAKAqc7Vuaab3GM%252C5w0OQ2ufBJOHQM%252C_%253B8vkAXi8zT1qTzM%252CkDgX6fBOU3ol5M%252C_&usg=AI4_-kSxIaDj9y96CvXP7oktSV4_V24Xqw&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ9QF6BAhIEAE#imgrc=1_5BZnAWON3fUM",
+            "source": "https://vetapteka1.ru/catalogue/medicine/rastvory/ringera-lokka1/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjWD3IgpKi9hmaDbsV5CMjLLE76X7MFhVFsns7JwQ0g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=6wz5Ie1qXCaiYM%252ChbebXtbhi7hCsM%252C_%253BfA_HgR-yZ6DCnM%252CapPYYeJJiVrY4M%252C_%253B1_5BZnAWON3fUM%252CyTlB6hvsbHv-RM%252C_%253BppRSn7RXSB0JQM%252C5zn9DYU7ADyeMM%252C_%253B3R7W9wUA7zXg3M%252C3gxHjvv0m8r4vM%252C_%253BeS3ax8Enj93sEM%252ChtdCt4hREERddM%252C_%253B6xonPETfsX84hM%252CiPFo7Ol3O88zpM%252C_%253BVPFGziBaVzJkVM%252CYV10U3qOucLXQM%252C_%253BAKAqc7Vuaab3GM%252C5w0OQ2ufBJOHQM%252C_%253B8vkAXi8zT1qTzM%252CkDgX6fBOU3ol5M%252C_&usg=AI4_-kSxIaDj9y96CvXP7oktSV4_V24Xqw&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ9QF6BAhHEAE#imgrc=ppRSn7RXSB0JQM",
+            "source": "https://doc.ua/apteka/ringera-rastvor-flakon-200-ml-1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7TCHeZ_Y-qZi5Le0Ad4cxzqOz5ms5-FS2cViz1STX4g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=6wz5Ie1qXCaiYM%252ChbebXtbhi7hCsM%252C_%253BfA_HgR-yZ6DCnM%252CapPYYeJJiVrY4M%252C_%253B1_5BZnAWON3fUM%252CyTlB6hvsbHv-RM%252C_%253BppRSn7RXSB0JQM%252C5zn9DYU7ADyeMM%252C_%253B3R7W9wUA7zXg3M%252C3gxHjvv0m8r4vM%252C_%253BeS3ax8Enj93sEM%252ChtdCt4hREERddM%252C_%253B6xonPETfsX84hM%252CiPFo7Ol3O88zpM%252C_%253BVPFGziBaVzJkVM%252CYV10U3qOucLXQM%252C_%253BAKAqc7Vuaab3GM%252C5w0OQ2ufBJOHQM%252C_%253B8vkAXi8zT1qTzM%252CkDgX6fBOU3ol5M%252C_&usg=AI4_-kSxIaDj9y96CvXP7oktSV4_V24Xqw&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ9QF6BAhNEAE#imgrc=3R7W9wUA7zXg3M",
+            "source": "https://www.vetlek.ru/shop/?gid=1263&id=4336",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYCWiVhHoHKf7c1r0pJAMYsZyzf2pXVzP2ldllaiw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=6wz5Ie1qXCaiYM%252ChbebXtbhi7hCsM%252C_%253BfA_HgR-yZ6DCnM%252CapPYYeJJiVrY4M%252C_%253B1_5BZnAWON3fUM%252CyTlB6hvsbHv-RM%252C_%253BppRSn7RXSB0JQM%252C5zn9DYU7ADyeMM%252C_%253B3R7W9wUA7zXg3M%252C3gxHjvv0m8r4vM%252C_%253BeS3ax8Enj93sEM%252ChtdCt4hREERddM%252C_%253B6xonPETfsX84hM%252CiPFo7Ol3O88zpM%252C_%253BVPFGziBaVzJkVM%252CYV10U3qOucLXQM%252C_%253BAKAqc7Vuaab3GM%252C5w0OQ2ufBJOHQM%252C_%253B8vkAXi8zT1qTzM%252CkDgX6fBOU3ol5M%252C_&usg=AI4_-kSxIaDj9y96CvXP7oktSV4_V24Xqw&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ9QF6BAhOEAE#imgrc=eS3ax8Enj93sEM",
+            "source": "https://inos.kz/directions/cell-biology/paneco-104/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLZW4vI8MX70EZQ25hbXqZ0zBe3fiSU6wXHB7UUaU&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=6wz5Ie1qXCaiYM%252ChbebXtbhi7hCsM%252C_%253BfA_HgR-yZ6DCnM%252CapPYYeJJiVrY4M%252C_%253B1_5BZnAWON3fUM%252CyTlB6hvsbHv-RM%252C_%253BppRSn7RXSB0JQM%252C5zn9DYU7ADyeMM%252C_%253B3R7W9wUA7zXg3M%252C3gxHjvv0m8r4vM%252C_%253BeS3ax8Enj93sEM%252ChtdCt4hREERddM%252C_%253B6xonPETfsX84hM%252CiPFo7Ol3O88zpM%252C_%253BVPFGziBaVzJkVM%252CYV10U3qOucLXQM%252C_%253BAKAqc7Vuaab3GM%252C5w0OQ2ufBJOHQM%252C_%253B8vkAXi8zT1qTzM%252CkDgX6fBOU3ol5M%252C_&usg=AI4_-kSxIaDj9y96CvXP7oktSV4_V24Xqw&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ9QF6BAhBEAE#imgrc=6xonPETfsX84hM",
+            "source": "https://dic.academic.ru/dic.nsf/ruwiki/5661",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8J1Wllvhtx0qCk1L9ms5eOyElEPYioxxQGQnw4NV&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=6wz5Ie1qXCaiYM%252ChbebXtbhi7hCsM%252C_%253BfA_HgR-yZ6DCnM%252CapPYYeJJiVrY4M%252C_%253B1_5BZnAWON3fUM%252CyTlB6hvsbHv-RM%252C_%253BppRSn7RXSB0JQM%252C5zn9DYU7ADyeMM%252C_%253B3R7W9wUA7zXg3M%252C3gxHjvv0m8r4vM%252C_%253BeS3ax8Enj93sEM%252ChtdCt4hREERddM%252C_%253B6xonPETfsX84hM%252CiPFo7Ol3O88zpM%252C_%253BVPFGziBaVzJkVM%252CYV10U3qOucLXQM%252C_%253BAKAqc7Vuaab3GM%252C5w0OQ2ufBJOHQM%252C_%253B8vkAXi8zT1qTzM%252CkDgX6fBOU3ol5M%252C_&usg=AI4_-kSxIaDj9y96CvXP7oktSV4_V24Xqw&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ9QF6BAhFEAE#imgrc=VPFGziBaVzJkVM",
+            "source": "https://vetapteka1.ru/catalogue/medicine/rastvory/natriya_hlorid_izotonicheskij/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uV1yv5dM4YkAjWMm1o4TP4GAVZC5r0oUP6hkPK_CKA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=6wz5Ie1qXCaiYM%252ChbebXtbhi7hCsM%252C_%253BfA_HgR-yZ6DCnM%252CapPYYeJJiVrY4M%252C_%253B1_5BZnAWON3fUM%252CyTlB6hvsbHv-RM%252C_%253BppRSn7RXSB0JQM%252C5zn9DYU7ADyeMM%252C_%253B3R7W9wUA7zXg3M%252C3gxHjvv0m8r4vM%252C_%253BeS3ax8Enj93sEM%252ChtdCt4hREERddM%252C_%253B6xonPETfsX84hM%252CiPFo7Ol3O88zpM%252C_%253BVPFGziBaVzJkVM%252CYV10U3qOucLXQM%252C_%253BAKAqc7Vuaab3GM%252C5w0OQ2ufBJOHQM%252C_%253B8vkAXi8zT1qTzM%252CkDgX6fBOU3ol5M%252C_&usg=AI4_-kSxIaDj9y96CvXP7oktSV4_V24Xqw&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ9QF6BAg_EAE#imgrc=AKAqc7Vuaab3GM",
+            "source": "https://stroy-ka.ru/blog/kak-prigotovit-stroitelnyj-rastvor",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_l4noV1BPlVV6LKwhJayv64FhxnhD_BpQwW9H7HJcmw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=6wz5Ie1qXCaiYM%252ChbebXtbhi7hCsM%252C_%253BfA_HgR-yZ6DCnM%252CapPYYeJJiVrY4M%252C_%253B1_5BZnAWON3fUM%252CyTlB6hvsbHv-RM%252C_%253BppRSn7RXSB0JQM%252C5zn9DYU7ADyeMM%252C_%253B3R7W9wUA7zXg3M%252C3gxHjvv0m8r4vM%252C_%253BeS3ax8Enj93sEM%252ChtdCt4hREERddM%252C_%253B6xonPETfsX84hM%252CiPFo7Ol3O88zpM%252C_%253BVPFGziBaVzJkVM%252CYV10U3qOucLXQM%252C_%253BAKAqc7Vuaab3GM%252C5w0OQ2ufBJOHQM%252C_%253B8vkAXi8zT1qTzM%252CkDgX6fBOU3ol5M%252C_&usg=AI4_-kSxIaDj9y96CvXP7oktSV4_V24Xqw&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ9QF6BAg9EAE#imgrc=8vkAXi8zT1qTzM",
+            "source": "https://anest-rean.ru/preparati/infusion-therapy/%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80-nacl/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1-Qrvj1sJfS7MJJxcYNYnmp0d5yKEh0ug19QFUbRmg&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Химия 8 Растворы Растворимость веществ",
+            "link": "https://www.youtube.com/watch?v=LNFpSgCdj-w",
+            "thumbnail": "https://serpapi.com/searches/629e3dc29d1586584f402bc0/images/514ed9d4e2372b8d9860c6a2185476b2e9264d82ddecac88786f56d9f6f02920.jpeg",
+            "channel": "Образование. Обучение - Znaika TV. Знайка.ру",
+            "duration": "5:49",
+            "platform": "YouTube",
+            "date": "4 авг. 2017 г."
+        },
+        {
+            "position": 2,
+            "title": "Лабораторный опыт 4 \"Изготовление водных растворов с ...",
+            "link": "https://www.youtube.com/watch?v=fAlIAOQKBdM",
+            "thumbnail": "https://serpapi.com/searches/629e3dc29d1586584f402bc0/images/514ed9d4e2372b8ded6992f03d2dee40e72f0d59eb2292f8fb2db97273086a69.jpeg",
+            "channel": "Електронні книги \"РАНОК\"",
+            "duration": "2:12",
+            "platform": "YouTube",
+            "date": "4 нояб. 2016 г."
+        },
+        {
+            "position": 3,
+            "title": "Молярные растворы и их приготовление",
+            "link": "https://www.youtube.com/watch?v=cOako9bRiiw",
+            "thumbnail": "https://serpapi.com/searches/629e3dc29d1586584f402bc0/images/514ed9d4e2372b8d6a1f7b4838cf77e0f0242ba8943867dc8f49382e0a90fc48.jpeg",
+            "channel": "NIS Semey Online lessons",
+            "duration": "36:48",
+            "platform": "YouTube",
+            "date": "29 янв. 2016 г."
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Что называют раствором?",
+            "snippet": "Чаще всего под раствором подразумевается жидкое вещество, например, раствор соли или спирта в воде (или даже раствор золота в ртути — амальгама). Существуют также растворы газов в жидкостях, газов в газах и жидкостей в жидкостях, в последнем случае растворителем считается вода, или же компонент, которого больше.",
+            "title": "Раствор - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Раствор"
+        },
+        {
+            "question": "Какие растворы бывают в химии?",
+            "snippet": "Растворы бывают жидкие, твердые и газообразные. Растворитель – это то вещество, которое не изменяет агрегатное состояние при растворении. В случае смешения веществ с одинаковым агрегатным состоянием (жидкость-жидкость, газ-газ, твердое-твердое) растворителем считается тот компонент, содержание которого больше.",
+            "title": "Растворы. Способы измерения концентрации | CHEMEGE.RU",
+            "link": "https://chemege.ru/materials/solutions/",
+            "displayed_link": "https://chemege.ru › materials › solutions"
+        },
+        {
+            "question": "Как происходит растворение вещества?",
+            "snippet": "Молекулы вещества не только покидают кристалл, но и вновь присоединяются к кристаллу из раствора. Пока кристаллов относительно немного, больше молекул переходит в раствор, чем возвращается из него – идет растворение.",
+            "title": "§7.6 Растворы. Как происходит растворение. Насыщенные ...",
+            "link": "http://www.hemi.nsu.ru/ucheb176.htm",
+            "displayed_link": "http://www.hemi.nsu.ru › ucheb176"
+        },
+        {
+            "question": "Как записывается состав раствора?",
+            "snippet": "Состав раствора условно обозначается пропорцией в виде отношения количества вяжущего и заполнителя по объему, например 1:4. Такая запись означает, что на одну часть вяжущего требуется четыре части заполнителя по объему.",
+            "title": "Строительные материалы. Основные понятия (часть 3)",
+            "link": "http://www.tpribor.ru/stroymat3.html",
+            "displayed_link": "http://www.tpribor.ru › stroymat3"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Раствор - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Раствор",
+            "snippet": "Раство́р — однородная (гомогенная) система, в состав которой входят молекулы (атомы, ионы) двух или более типов, причём доля частиц каждого типа может ...",
+            "snippet_highlighted_words": [
+                "Раство́р"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Водный раствор",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80"
+                    },
+                    {
+                        "title": "Твёрдый раствор",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B2%D1%91%D1%80%D0%B4%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80"
+                    },
+                    {
+                        "title": "Разбавленный раствор",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80"
+                    },
+                    {
+                        "title": "Смесь (химия)",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D1%81%D1%8C_(%D1%85%D0%B8%D0%BC%D0%B8%D1%8F)"
+                    }
+                ]
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Раствор (лекарственная форма) - Википедия",
+                    "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D0%B0)",
+                    "displayed_link": "https://ru.wikipedia.org › wiki › Раствор_(лекарственн...",
+                    "snippet": "Раство́р (лека́рственная фо́рма) (лат. Solutio) — жидкая лекарственная форма, полученная растворением жидких, твёрдых или газообразных веществ в ...",
+                    "snippet_highlighted_words": [
+                        "Раство́р"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "раствор - Викисловарь",
+            "link": "https://ru.wiktionary.org/wiki/%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80",
+            "displayed_link": "https://ru.wiktionary.org › wiki › раствор",
+            "snippet": "однородная смесь (обычно жидкая или твёрдая) не менее двух компонентов, один из которых является растворителем по отношению к остальным ◇ Белый чугун — это ..."
+        },
+        {
+            "position": 3,
+            "title": "Купить раствор для контактных линз по выгодным ценам в",
+            "link": "https://ochkarik.ru/accessories/rastvory/",
+            "displayed_link": "https://ochkarik.ru › Сопутствующие товары",
+            "snippet": "раствор,; положить этот товар в корзину,; оформить заказ, заполнив информацией нужные поля. После чего на Ваш телефон в самое ближайшее время поступит звонок ...",
+            "snippet_highlighted_words": [
+                "раствор"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Раствор для приема внутрь для лечения желудка ...",
+            "link": "https://www.eapteka.ru/goods/drugs/gasroenterology/?drug_form=rastvor_dlya_priema_vnutr",
+            "displayed_link": "https://www.eapteka.ru › drugs › gasroenterology",
+            "snippet": "Сертифицированная интернет аптека предлагает вам купить раствор для приема внутрь для лечения желудка кишечника и печени по самой низкой цене в городе ...",
+            "snippet_highlighted_words": [
+                "раствор"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Обеззараживающий раствор для наружного применения",
+                    "link": "https://www.eapteka.ru/goods/drugs/antiseptic/?drug_form=rastvor_dlya_naruzhnogo_primeneniya",
+                    "displayed_link": "https://www.eapteka.ru › goods › drugs › antiseptic",
+                    "snippet": "Сертифицированная интернет аптека предлагает вам купить обеззараживающий раствор для наружного применения по самой низкой цене в городе Москва. Скидки ...",
+                    "snippet_highlighted_words": [
+                        "раствор"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Растворы для линз купить в интернет-магазине OZON.ru",
+            "link": "https://www.ozon.ru/category/rastvory-dlya-linz-6300/",
+            "displayed_link": "https://www.ozon.ru › category › rastvory-dlya-linz-6300",
+            "snippet": "Растворы для линз - купить в интернет-магазине OZON по выгодным ценам! Характеристики ✓ Фото ✓ Огромный ассортимент ✓ Настоящие отзывы покупателей!",
+            "snippet_highlighted_words": [
+                "Растворы"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 305.0,
+                        "currency": "₽"
+                    },
+                    "extensions": [
+                        "305,00 ₽",
+                        "‎В наличии"
+                    ]
+                }
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Раствор Adria New 250 мл - OZON",
+                    "link": "https://www.ozon.ru/product/rastvor-adria-new-250-ml-178487299/",
+                    "displayed_link": "https://www.ozon.ru › product › rastvor-adria-new-250...",
+                    "snippet": "OZON предлагает выгодные цены и отличный сервис. Раствор Adria New 250 мл - характеристики, фото и отзывы покупателей. Доставка по всей России.",
+                    "snippet_highlighted_words": [
+                        "Раствор"
+                    ],
+                    "rich_snippet": {
+                        "top": {
+                            "detected_extensions": {
+                                "price": 305.0,
+                                "currency": "₽"
+                            },
+                            "extensions": [
+                                "305,00 ₽",
+                                "‎В наличии"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "раствор химия",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80+%D1%85%D0%B8%D0%BC%D0%B8%D1%8F&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "какие бывают растворы",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9A%D0%B0%D0%BA%D0%B8%D0%B5+%D0%B1%D1%8B%D0%B2%D0%B0%D1%8E%D1%82+%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80%D1%8B&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "виды растворов химия",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%92%D0%B8%D0%B4%D1%8B+%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80%D0%BE%D0%B2+%D1%85%D0%B8%D0%BC%D0%B8%D1%8F&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "растворы классификация",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80%D1%8B+%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "ненасыщенный раствор",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9D%D0%B5%D0%BD%D0%B0%D1%81%D1%8B%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "концентрированный раствор",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9+%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ1QJ6BAguEAE"
+        },
+        {
+            "query": "из чего состоит раствор",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D0%B7+%D1%87%D0%B5%D0%B3%D0%BE+%D1%81%D0%BE%D1%81%D1%82%D0%BE%D0%B8%D1%82+%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "насыщенный раствор",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9D%D0%B0%D1%81%D1%8B%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&sa=X&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&ei=wz2eYsTQAZ-ekPIPtpe1mAU&start=10&sa=N&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&ei=wz2eYsTQAZ-ekPIPtpe1mAU&start=10&sa=N&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&ei=wz2eYsTQAZ-ekPIPtpe1mAU&start=20&sa=N&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&ei=wz2eYsTQAZ-ekPIPtpe1mAU&start=30&sa=N&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&ei=wz2eYsTQAZ-ekPIPtpe1mAU&start=40&sa=N&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&ei=wz2eYsTQAZ-ekPIPtpe1mAU&start=50&sa=N&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&ei=wz2eYsTQAZ-ekPIPtpe1mAU&start=60&sa=N&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&ei=wz2eYsTQAZ-ekPIPtpe1mAU&start=70&sa=N&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&ei=wz2eYsTQAZ-ekPIPtpe1mAU&start=80&sa=N&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&gl=ru&hl=ru&ei=wz2eYsTQAZ-ekPIPtpe1mAU&start=90&sa=N&ved=2ahUKEwiEvqSPsZn4AhUfD0QIHbZLDVMQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80&start=90"
+        }
+    }
+}

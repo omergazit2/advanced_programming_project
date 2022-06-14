@@ -1,0 +1,386 @@
+{
+    "search_metadata": {
+        "id": "629e3dce2c0844ca41b2fe34",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b41c07adf3c2139b/629e3dce2c0844ca41b2fe34.json",
+        "created_at": "2022-06-06 17:47:58 UTC",
+        "processed_at": "2022-06-06 17:47:58 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&oq=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/b41c07adf3c2139b/629e3dce2c0844ca41b2fe34.html",
+        "total_time_taken": 0.91
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "ذرة",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "ذرة",
+        "total_results": 9370000,
+        "time_taken_displayed": 0.4
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgEEAE#imgrc=4LIeaRTLKPHD4M",
+            "source": "https://www.justfood.tv/%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%85%D9%81%D9%8A%D8%AF%D8%A9/10451/%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B0%D8%B1%D8%A9",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c38ee17963592562cc099d92577b0edd2edd67db1376813baa.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgLEAE#imgrc=JY3VnLx2TIAB5M",
+            "source": "https://www.othaimmarkets.com/grocery/canned-foods/goody-whole-kernel-g-corn-196g.html",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c35312d9cb749dbb973a378a969736b130e818e0ba39ff9c0d.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgTEAE#imgrc=_9rZjXugon7-iM",
+            "source": "https://www.webteb.com/articles/%D9%87%D9%84-%D8%A7%D9%84%D8%B0%D8%B1%D8%A9-%D8%AA%D8%B2%D9%8A%D8%AF-%D8%A7%D9%84%D9%88%D8%B2%D9%86_27477",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c38fe57406a252a7f35ea5343d95285cdf2ff5143edbdcbe3e.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgMEAE#imgrc=5pELcEiotVoREM",
+            "source": "https://mawdoo3.com/%D8%B9%D9%85%D9%84_%D8%A7%D9%84%D8%B0%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%88%D9%82%D8%A9",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c37ca2db19cf8e153cae8124c8539bba78dd0c2b710dd316b1.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgREAE#imgrc=9HU0buqDFCM_uM",
+            "source": "https://www.amazon.ae/-/ar/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%84%D9%8A-%D8%B0%D8%B1%D8%A9-%D9%85%D8%B9%D9%84%D8%A8%D8%A9-200-%D8%BA%D8%B1%D8%A7%D9%85/dp/B07PKDLS2T",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c3bf55800543132a29cd937658b50f0f56e515e591270e169c.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgVEAE#imgrc=iR4I3uhNNV9d0M",
+            "source": "https://www.othaimmarkets.com/grocery/canned-foods/canned-vegetable/goody-whole-kernel-golden-corn-340g.html",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c3dcfd84dd0b6407ff9477f177f2cb6b0de4a5dc9d2591f2e9.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgWEAE#imgrc=4ekC9DnHMJbrTM",
+            "source": "https://mawdoo3.com/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%B9%D9%85%D9%84_%D8%A7%D9%84%D8%B0%D8%B1%D8%A9",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c30b303d1995802c8e086051aa2c7d265be4544072d51bd0eb.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgOEAE#imgrc=1ZMGzCTv_iYIlM",
+            "source": "https://www.amazon.ae/-/ar/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%84%D9%8A-%D8%B0%D8%B1%D8%A9-%D9%85%D8%B9%D9%84%D8%A8%D8%A9-200-%D8%BA%D8%B1%D8%A7%D9%85/dp/B07PKDLS2T",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c365d9a1ac0cca48d11d85d2275a9783bddc5b5e7bae7e092e.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgQEAE#imgrc=WXZ9LItNwnBsZM",
+            "source": "https://www.arabiaweather.com/ar/content/%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B0%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c3515276c436580934009294240d2de005373cb2c69655ebb5.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgUEAE#imgrc=1TeTQhkhdXkrLM",
+            "source": "https://www.supermama.me/posts/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%B0%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%88%D9%82%D8%A9",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c398f2bed9adb9a9d090c7e9a7f1d77f4672d8bba6dbc4ca61.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgSEAE#imgrc=yFZFdNM4Gg5FFM",
+            "source": "https://al-ain.com/article/benefits-yellow-corn-health",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c36eff48435bc1f0695b0f7377b154070e7e901d649c88b435.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgJEAE#imgrc=p90ijymehA4pwM",
+            "source": "https://arabic.alibaba.com/product-detail/yellow-corn-yellow-Maize-Product-of-50036053010.html",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c3a19f55f9bc3018a8a2914c299452e30f45aaf24175e59c33.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgIEAE#imgrc=yLBW2vSY_XWWhM",
+            "source": "https://mobile.twitter.com/cornworld",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c3f539ad1d9923dc8a9b5f8ee3bff0f0f569a4e5260925f752.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgGEAE#imgrc=z1q5EosNOYPFxM",
+            "source": "https://ar.bashan.com.tr/%D8%B0%D8%B1%D8%A9%D8%A7%D9%84%D9%81%D8%B4%D8%A7%D8%B1/%D8%B0%D8%B1%D8%A9%D8%A7%D9%84%D9%81%D8%B4%D8%A7%D8%B1",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c37aa5d2b18af9d70299bc7f0ee29534bb91407fa9f02db34b.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=4LIeaRTLKPHD4M%252CAP-Q3Pojvs3VzM%252C_%253BJY3VnLx2TIAB5M%252CdbWF7TWeiKVMYM%252C_%253B_9rZjXugon7-iM%252CkLmwBwVXky-3xM%252C_%253B5pELcEiotVoREM%252CYil_LvN26pcF5M%252C_%253B9HU0buqDFCM_uM%252CkoNRWbY6XDQo1M%252C_%253BiR4I3uhNNV9d0M%252Cmssj96XQZZx4cM%252C_%253B4ekC9DnHMJbrTM%252Cnuqx2TwqdC9mNM%252C_%253B1ZMGzCTv_iYIlM%252CkoNRWbY6XDQo1M%252C_%253BWXZ9LItNwnBsZM%252CUVjTDb40_j3DXM%252C_%253B1TeTQhkhdXkrLM%252CaCmTURWWOkrVpM%252C_%253ByFZFdNM4Gg5FFM%252CoyqfPBOZeR9XkM%252C_%253Bp90ijymehA4pwM%252CGnvwrj4gvQZo8M%252C_%253ByLBW2vSY_XWWhM%252CUeq9uiK65hEp-M%252C_%253Bz1q5EosNOYPFxM%252C-JpPHQezzK19mM%252C_%253BJjV-tBr58MCzuM%252Ca7jOER-Rh3E8SM%252C_&usg=AI4_-kQeppKg_t07pgViJh4KS61x9B5Dww&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ9QF6BAgFEAE#imgrc=JjV-tBr58MCzuM",
+            "source": "https://ar.wikipedia.org/wiki/%D8%B0%D8%B1%D8%A9_(%D9%86%D8%A8%D8%A7%D8%AA)",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/5b78666cb8eb75c3ab4a3142f63426067e221ffda506b1728d3560b27fe62b2d.jpeg"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "اكواب الذرة بالزبدة والنكهات",
+            "link": "https://www.youtube.com/watch?v=nx9siopJDeg",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/05159c6cad5c6b1e853f2f60f7771f7eaa4b9c114a2ed80dc41724e436f195d8.jpeg",
+            "channel": "سارة في المطبخ",
+            "duration": "2:50",
+            "platform": "YouTube",
+            "date": "14‏/01‏/2019"
+        },
+        {
+            "position": 2,
+            "title": "Corn Cooked Multiple Ways | جربت كل طرق عمل الذرة | اي وحدة ...",
+            "link": "https://www.youtube.com/watch?v=jNmyPf3udNg",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/05159c6cad5c6b1ee77ffff2825eae132eb0dd56241847f8230e9b10b212615a.jpeg",
+            "channel": "Chef Shaheen - شيف شاهين",
+            "duration": "5:31",
+            "platform": "YouTube",
+            "date": "09‏/03‏/2021"
+        },
+        {
+            "position": 3,
+            "title": "طريقة تحضير سلطة ذرة | أميرة شنب",
+            "link": "https://www.youtube.com/watch?v=8v2mkBzGuhU",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/05159c6cad5c6b1e8b1e49b48aad12dcd19ce68687b5a2d00b355e04616ae9da.jpeg",
+            "channel": "cbc Sofra",
+            "duration": "4:16",
+            "platform": "YouTube",
+            "date": "22‏/09‏/2019"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "هل الذره نبات؟",
+            "snippet": "الذرة نبات نجيلي حولي يصل ارتفاعه إلى أكثر من مترين، وهي نبات أحادي المسكن له أزهار ذكرية وأنثوية منفصلة، وتُحمل الأزهار الذكرية في نورات على قمة النبات بينما تظهر الأزهار الأنثوية عند إبط الأوراق، ويحمل هذا النبات عادة ما بين كوز واحد إلى ثلاثة كيزان، وغالباً كوز واحد فقط.",
+            "title": "ذرة (نبات) - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B0%D8%B1%D8%A9_(%D9%86%D8%A8%D8%A7%D8%AA)",
+            "displayed_link": "https://ar.wikipedia.org › wiki › ذرة_(نبات)"
+        },
+        {
+            "question": "ما المقصود ب الذرة؟",
+            "snippet": "الذرة هي أصغر حجر بناءٍ أو أصغر جزء من العنصر الكيميائي يمكن الوصول إليه والذي يحتفظ بالخصائص الكيميائية لذلك العنصر. يرجع أصل الكلمة الإنجليزية (بالإنجليزية: Atom)‏ إلى الكلمة الإغريقية أتوموس، والتي تعني غير القابل للانقسام؛ إذ كان يعتقد أنه ليس ثمة ما هو أصغر من الذرة.",
+            "title": "ذرة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B0%D8%B1%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › ذرة"
+        },
+        {
+            "question": "ما هو السرجوم؟",
+            "snippet": "الذرة البيضاء أو الذرة الرفيعة نوع نباتي حولي يتبع جنس السورغم من الفصيلة النجيلية اسمه العلمي (باللاتينية: Sorghum bicolor).",
+            "title": "ذرة بيضاء - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B0%D8%B1%D8%A9_%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1",
+            "displayed_link": "https://ar.wikipedia.org › wiki › ذرة_بيضاء"
+        },
+        {
+            "question": "هل الذره من الفواكه او الخضروات؟",
+            "snippet": "قد تعرف البره عن طريق اسمها الرائج: الحبوب. لذلك، فالحبوب هي نوع من الفواكه، ومنه، فالذرة هي من الحبوب والفواكه في الوقت نفسه، مثل القمح، والذرة البيضاء والشوفان.01‏/12‏/2020",
+            "title": "هل الذرة من الحبوب أم الفاكهة أم الخضروات؟ | بوبيولار ساينس - ...",
+            "link": "https://popsciarabia.com/%D8%AD%D9%82%D8%A7%D8%A6%D9%82-%D9%88%D8%BA%D8%B1%D8%A7%D8%A6%D8%A8/%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D9%81%D8%B6%D9%88%D9%84%D9%8A%D8%A9/%D9%87%D9%84-%D8%A7%D9%84%D8%B0%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%A8%D9%88%D8%A8-%D8%A3%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D9%83%D9%87%D8%A9-%D8%A3%D9%85-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D9%88/",
+            "displayed_link": "https://popsciarabia.com › حقائق-وغرائب › أسئلة-فضولية"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "ذرة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B0%D8%B1%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › ذرة",
+            "snippet": "الذرة هي أصغر حجر بناءٍ أو أصغر جزء من العنصر الكيميائي يمكن الوصول إليه والذي يحتفظ بالخصائص الكيميائية لذلك العنصر. يرجع أصل الكلمة الإنجليزية ...",
+            "snippet_highlighted_words": [
+                "الذرة"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "نواة الذرة",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%86%D9%88%D8%A7%D8%A9_%D8%A7%D9%84%D8%B0%D8%B1%D8%A9"
+                    },
+                    {
+                        "title": "نوية (ذرة)",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%86%D9%88%D9%8A%D8%A9_(%D8%B0%D8%B1%D8%A9)"
+                    },
+                    {
+                        "title": "ذرة شاذة",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B0%D8%B1%D8%A9_%D8%B4%D8%A7%D8%B0%D8%A9"
+                    },
+                    {
+                        "title": "بروتون",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%86"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "الشحنة الكهربية: صفر (طبيعية), أو شحنة أيون",
+                        "الوزن الشامل: 1.67×10−27 إلى 4.52×10−25 كـg",
+                        "المكونات: إلكترونات وما يوافقها في النواة من البرو...",
+                        "نطاق القطر: 62 بيكومتر (He‏) إلى 520 بيكومتر ...‏"
+                    ],
+                    "detected_extensions": {
+                        "الوزن_الشامل_×−_إلى_×−_كـg": 1.67,
+                        "نطاق_القطر_بيكومتر_he‏_إلى_بيكومتر_‏": 62
+                    }
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "ذرة (نبات) - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B0%D8%B1%D8%A9_(%D9%86%D8%A8%D8%A7%D8%AA)",
+            "displayed_link": "https://ar.wikipedia.org › wiki › ذرة_(نبات)",
+            "thumbnail": "https://serpapi.com/searches/629e3dce2c0844ca41b2fe34/images/09f6865242d0689e4577def676b138a954a742da719f1d18baa703e7ed88202d.jpeg",
+            "snippet": "ذرة (نبات) · الوصف النباتي · فئات الذرة · زراعة الذرة · استعمالات الذرة · حشرات الذرة · أمراض الذرة · المعلومات الغذائية · مقارنة بين أهم الأغذية الأساسية ...",
+            "snippet_highlighted_words": [
+                "ذرة",
+                "الذرة",
+                "الذرة",
+                "الذرة",
+                "الذرة",
+                "الذرة"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "المرتبة التصنيفية: نوع",
+                        "جنس: ذرة صفراء",
+                        "فصيلة: نجيلية",
+                        "رتبة: قبئيات"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "تسوق حبوب ذرة اونلاين - اشترى السوبر ماركت ... - كارفور مصر",
+            "link": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1714117",
+            "displayed_link": "https://www.carrefouregypt.com › FEGY1714117",
+            "snippet": "اشترى حبوب ذرة من كارفور مصر. تسوق آخر العروض والخصومات على السوبر ماركت فى القاهرة، الجيزة، الاسكندرية، مصر.شحن مجاني متوفر - توصيل سريع - إمكانية الدفع ...",
+            "snippet_highlighted_words": [
+                "ذرة"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "ذرة - Atom - المعرفة",
+            "link": "https://www.marefa.org/%D8%B0%D8%B1%D8%A9/simplified",
+            "displayed_link": "https://www.marefa.org › ذرة › simplified",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLp548y-lm3V1lV557BAMTuy3616pl6lBasOyN2d5xjGZfzfryAaiS&usqp=CAE&s",
+            "snippet": "الذرة هي اصغر جزء من مادة عنصر كيميائي يمكن ان تنقسم اليه المادة و تظل حاملة لصفاتها الكيميائية ، و تتكون الذرات من جسيمات دون ذريّة ، وهي بشكل أساسي: ...",
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "الكتلة: الكتلة الذرية",
+                        "الشحنة: صفرC"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "تسوق حبوب ذرة اونلاين - اشترى السوبر ماركت بأفضل ...",
+            "link": "https://www.carrefourksa.com/mafsau/ar/c/FKSA1714117",
+            "displayed_link": "https://www.carrefourksa.com › mafsau › FKSA1714117",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6IpfooOyUjxGw4uRa_ouY42KxhRZ8vGOWnLE19lIXI3HQfCcilS8&usqp=CAE&s",
+            "snippet": "اشترى حبوب ذرة من كارفور السعودية. تسوق آخر العروض والخصومات على السوبر ماركت فى جدة، الرياض، مكة، السعودية.شحن مجاني متوفر - توصيل سريع - إمكانية الدفع عند ...",
+            "snippet_highlighted_words": [
+                "ذرة"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "حبوب ذرة سوهاجى، 500جم - سوبر-ماركت - Amazon.eg",
+            "link": "https://www.amazon.eg/%D8%A7%D9%84%D8%B3%D9%88%D9%87%D8%A7%D8%AC%D9%89-%D8%AD%D8%A8%D9%88%D8%A8-%D8%B0%D8%B1%D8%A9-%D8%B3%D9%88%D9%87%D8%A7%D8%AC%D9%89%D8%8C-500%D8%AC%D9%85/dp/B08WJKVJ4C",
+            "displayed_link": "https://www.amazon.eg › السوهاجى-حبوب-ذرة-سوهاجى،-5...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuuKlgOWfplTjA3oN7IGPvCrDBfVLQtmEAFadCeUQR6MeYquM9K0CR&usqp=CAE&s",
+            "snippet": "حبوب ذرة سوهاجى، 500جم : Amazon.com: سوبر-ماركت. ... يتم تخزينها في منطقة باردة جافة! مصنوعة من أجود أنواع حبوب الذرة الصفراء.",
+            "snippet_highlighted_words": [
+                "ذرة",
+                "الذرة"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "التقييم: ٤٫٥",
+                        "‏17 مراجعة"
+                    ],
+                    "detected_extensions": {
+                        "‏_مراجعة": 17
+                    }
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "تعريف الذرة ومكوناتها - موضوع",
+            "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%B0%D8%B1%D8%A9_%D9%88%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA%D9%87%D8%A7",
+            "displayed_link": "https://mawdoo3.com › تعليم › كيمياء",
+            "snippet": "تعريف الذرّة. تعرف الذرة (بالإنجليزية: Atom) بأنها أصغر شيء يمكن الحصول عليه في المادة عند تجزيئها، وهي متعادلة الشحنة؛ وإذا تمّت تجزئة الذرة فإن أجزاءها ...",
+            "snippet_highlighted_words": [
+                "الذرّة",
+                "الذرة",
+                "الذرة"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "طريقة عمل ذرة مشوية على الطريقة المكسيكية - مطبخ سيدتي",
+            "link": "https://kitchen.sayidaty.net/node/9060/%D8%B0%D8%B1%D8%A9-%D9%85%D8%B4%D9%88%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A7%D8%AA",
+            "displayed_link": "https://kitchen.sayidaty.net › node › المقبلات",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WvURKVsoe73AUmbKtSlKT0WlbJSnbS1_614_l7dF7svR0Yq2LGsz&usqp=CAE&s",
+            "snippet": "ازيلي ورق القصدير عن الذرة واتركيها لتبرد مدة 5 دقائق. 4. وزعي على الذرة المشوية باقي كمية خليط الزبدة بواسطة فرشاة ثم انثري الجبن والكزبرة والملح وقدميها ساخنة ...",
+            "snippet_highlighted_words": [
+                "الذرة",
+                "الذرة"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "ذرة سودانية",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B0%D8%B1%D8%A9+%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ1QJ6BAglEAE"
+        },
+        {
+            "query": "ذرة شامية",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B0%D8%B1%D8%A9+%D8%B4%D8%A7%D9%85%D9%8A%D8%A9&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "ذرة بالانجليزي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B0%D8%B1%D8%A9+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "ذرة معلبة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B0%D8%B1%D8%A9+%D9%85%D8%B9%D9%84%D8%A8%D8%A9&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "ذرة فشار",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B0%D8%B1%D8%A9+%D9%81%D8%B4%D8%A7%D8%B1&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ1QJ6BAghEAE"
+        },
+        {
+            "query": "ذرة قودي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B0%D8%B1%D8%A9+%D9%82%D9%88%D8%AF%D9%8A&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ1QJ6BAggEAE"
+        },
+        {
+            "query": "ذرة مجمدة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B0%D8%B1%D8%A9+%D9%85%D8%AC%D9%85%D8%AF%D8%A9&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "أهم مكونات الذرة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A3%D9%87%D9%85+%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D8%B0%D8%B1%D8%A9&sa=X&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ1QJ6BAgbEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&ei=zz2eYpTIAafJptQP8dGJ2AY&start=10&sa=N&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&ei=zz2eYpTIAafJptQP8dGJ2AY&start=10&sa=N&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&ei=zz2eYpTIAafJptQP8dGJ2AY&start=20&sa=N&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&ei=zz2eYpTIAafJptQP8dGJ2AY&start=30&sa=N&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&ei=zz2eYpTIAafJptQP8dGJ2AY&start=40&sa=N&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&ei=zz2eYpTIAafJptQP8dGJ2AY&start=50&sa=N&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&ei=zz2eYpTIAafJptQP8dGJ2AY&start=60&sa=N&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&ei=zz2eYpTIAafJptQP8dGJ2AY&start=70&sa=N&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&ei=zz2eYpTIAafJptQP8dGJ2AY&start=80&sa=N&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%B0%D8%B1%D8%A9&hl=ar&gl=eg&ei=zz2eYpTIAafJptQP8dGJ2AY&start=90&sa=N&ved=2ahUKEwjU64CVsZn4AhWnpIkEHfFoAmsQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B0%D8%B1%D8%A9&start=90"
+        }
+    }
+}

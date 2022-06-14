@@ -1,0 +1,270 @@
+{
+    "search_metadata": {
+        "id": "627cff661c450ad6992fe260",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/71b1cbd19850d305/627cff661c450ad6992fe260.json",
+        "created_at": "2022-05-12 12:36:54 UTC",
+        "processed_at": "2022-05-12 12:36:54 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&oq=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&uule=w+CAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE=&hl=ru&gl=RU&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/71b1cbd19850d305/627cff661c450ad6992fe260.html",
+        "total_time_taken": 2.3
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Инфекция",
+        "uule": "w+CAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE=",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "RU",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Инфекция",
+        "total_results": 21100000,
+        "time_taken_displayed": 0.54
+    },
+    "knowledge_graph": {
+        "Возможно_вы_искали": [
+            {
+                "name": "ИНФЕ́КЦИЯ",
+                "extensions": [
+                    "Определение в словаре"
+                ]
+            }
+        ]
+    },
+    "related_questions": [
+        {
+            "question": "Какие бывают инфекции в организме?",
+            "title": "Классификация инфекционных болезней",
+            "link": "http://poliklinika74spb.ru/people/%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/",
+            "list": [
+                "вирусные инфекции (грипп, вирусные гепатиты, ВИЧ СПИД, инфекционный мононуклеоз, герпес, ветряная оспа, корь);",
+                "бактериальные инфекции (дизентерия, сальмонеллез, туберкулез, холера, чума);",
+                "грибковые инфекции (кандидоз, лишай);",
+                "инфекции, вызванные простейшими (амебиаз, лямблиоз);"
+            ],
+            "displayed_link": "http://poliklinika74spb.ru › инфекционные-заболевания"
+        },
+        {
+            "question": "Какие симптомы при инфекционных заболеваниях?",
+            "snippet": "Наиболее типичными признаками инфекционного заболевания являются: озноб, жар, повышение температуры. При этом возникает головная боль, боль в мышцах и суставах, недомогание, общая слабость, разбитость, иногда тошнота, рвота, нарушается сон, ухудшается аппетит.",
+            "title": "ИНФЕКЦИОННЫЕ ЗАБОЛЕВАНИЯ. ПРАВИЛА ПОВЕДЕНИЯ ...",
+            "link": "http://aydarovskoe.ru/administratsiya/go-i-chs/infektsionnyie-zabolevaniya-pravila-povedeniya-naseleniya",
+            "displayed_link": "http://aydarovskoe.ru › administratsiya › go-i-chs › infekt..."
+        },
+        {
+            "question": "Как попадает инфекция в организм?",
+            "snippet": "Вирус чаще всего передается фекально-оральным путем, а также через загрязненную пищу или воду. Попадание в организм некоторых штаммов вируса воздушно-капельным путем может привести к респираторным заболеваниям.",
+            "title": "Инфекционные болезни",
+            "link": "http://crpnao.ru/infektsionnye-bolezni",
+            "displayed_link": "http://crpnao.ru › infektsionnye-bolezni"
+        },
+        {
+            "question": "Какое самое опасное заболевание?",
+            "title": "Десять самых страшных болезней в человеческой истории",
+            "link": "https://trv-science.ru/2021/04/10-samyx-strashnyx-boleznej-v-chelovecheskoj-istorii/",
+            "list": [
+                "Чума Галена Средневековое изображение римского врача Клавдия Галена ... ",
+                "Чума Юстиниана ... ",
+                "Черная Смерть ... ",
+                "Эпидемии малярии ... ",
+                "Пандемия холеры ... ",
+                "Тиф ... ",
+                "ВИЧ/СПИД ... ",
+                "Лихорадка Эбола"
+            ],
+            "displayed_link": "https://trv-science.ru › 2021/04 › 10-samyx-strashnyx-bol..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Инфе́кция (от лат. inficio, infeci, infectum «заражать») — заражение живого организма (включая микроорганизмы) инфекционным агентом, процесс его размножения или развития в организме, а также реакция организма на присутствие в тканях инфекционного агента и на выделяемые им токсины.",
+        "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F#:~:text=%D0%98%D0%BD%D1%84%D0%B5%CC%81%D0%BA%D1%86%D0%B8%D1%8F%20(%D0%BE%D1%82%20%D0%BB%D0%B0%D1%82.,%D0%B8%20%D0%BD%D0%B0%20%D0%B2%D1%8B%D0%B4%D0%B5%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5%20%D0%B8%D0%BC%20%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D0%BD%D1%8B.",
+        "displayed_link": "https://ru.wikipedia.org › wiki › Инфекция",
+        "snippet": "Инфе́кция (от лат. inficio, infeci, infectum «заражать») — заражение живого организма (включая микроорганизмы) инфекционным агентом, процесс его размножения или развития в организме, а также реакция организма на присутствие в тканях инфекционного агента и на выделяемые им токсины.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Инфекционные заболевания - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Инфекционные_забол...",
+            "snippet": "Инфекцио́нные заболева́ния — группа заболеваний, вызываемых проникновением в организм патогенных (болезнетворных) микроорганизмов, вирусов и прионов.",
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "мкб_a_b": 10,
+                        "мкб": 9,
+                        "мкб_км_ab": 10,
+                        "мкб_км_и": 9
+                    },
+                    "extensions": [
+                        "МКБ-10: A00-B99",
+                        "МКБ-9: 001-139",
+                        "МКБ-10-КМ: A00.B99",
+                        "МКБ-9-КМ: 079.0, 136.9 и 136.8"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "это... Что такое Инфекция? - Словари и энциклопедии на ...",
+            "link": "https://dic.academic.ru/dic.nsf/ruwiki/38750",
+            "displayed_link": "https://dic.academic.ru › dic.nsf › ruwiki",
+            "snippet": "Инфе́кция — заражение живых организмов микроорганизмами (бактериями, грибами, простейшими), а также вирусами, прионами. Термин означает различные виды ...",
+            "snippet_highlighted_words": [
+                "Инфе́кция"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Виды инфекций",
+                        "link": "https://dic.academic.ru/dic.nsf/ruwiki/38750#.D0.92.D0.B8.D0.B4.D1.8B_.D0.B8.D0.BD.D1.84.D0.B5.D0.BA.D1.86.D0.B8.D0.B9"
+                    },
+                    {
+                        "title": "Стадии инфекционных...",
+                        "link": "https://dic.academic.ru/dic.nsf/ruwiki/38750#.D0.A1.D1.82.D0.B0.D0.B4.D0.B8.D0.B8_.D0.B8.D0.BD.D1.84.D0.B5.D0.BA.D1.86.D0.B8.D0.BE.D0.BD.D0.BD.D1.8B.D1.85_.D0.B7.D0.B0.D0.B1.D0.BE.D0.BB.D0.B5.D0.B2.D0.B0.D0.BD.D0.B8.D0.B9"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "Инфекционные болезни - СПб ГБУЗ \"Городская ...",
+            "link": "http://poliklinika74spb.ru/people/%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/",
+            "displayed_link": "http://poliklinika74spb.ru › инфекционные-заболевания",
+            "snippet": "Инфекционные болезни – это большая группа заболеваний, обусловленных воздействием на организм человека различных болезнетворных или условно-болезнетворных ...",
+            "snippet_highlighted_words": [
+                "Инфекционные"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Инфекционные болезни - прием врача по ОМС в Твери",
+            "link": "https://avaevcenter.ru/uslugi/besplatnaya-meditsinskaya-pomosch/infektsionnye-bolezni/",
+            "displayed_link": "https://avaevcenter.ru › ... › Инфекционные болезни",
+            "snippet": "Инфекционные болезни (\"infectio\" – заражение) — это группа заболеваний, которые вызываются проникновением в организм болезнетворных (патогенных) ...",
+            "snippet_highlighted_words": [
+                "Инфекционные"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Проявления инфекции - Инфекционные болезни - MSD ...",
+            "link": "https://www.msdmanuals.com/ru-ru/%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B8/%EF%BB%BF%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/%D0%BF%D1%80%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%B8",
+            "displayed_link": "https://www.msdmanuals.com › профессиональный",
+            "snippet": "Проявления инфекции и Инфекционные болезни — получить информацию по этой теме из справочников СПРАВОЧНИКИ MSD Профессиональная версия.",
+            "snippet_highlighted_words": [
+                "инфекции",
+                "Инфекционные"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Инфекционные болезни",
+            "link": "http://crpnao.ru/infektsionnye-bolezni",
+            "displayed_link": "http://crpnao.ru › infektsionnye-bolezni",
+            "snippet": "Источник инфекции – больной человек или носитель возбудителей острых кишечных инфекций. Наиболее опасны для окружающих больные легкими, стертыми и ...",
+            "snippet_highlighted_words": [
+                "инфекции",
+                "инфекций"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "инфекция - Викисловарь",
+            "link": "https://ru.wiktionary.org/wiki/%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F",
+            "displayed_link": "https://ru.wiktionary.org › wiki › инфекция",
+            "snippet": "От лат. infectio (infectiōnis) «окрашивание; растление», из inficere «смешивать, пропитывать; окрашивать; заражать», далее из in- «в» + facere «делать, ..."
+        },
+        {
+            "position": 8,
+            "title": "Особо опасные инфекции для Российской Федерации",
+            "link": "http://cgon.rospotrebnadzor.ru/content/63/2367",
+            "displayed_link": "http://cgon.rospotrebnadzor.ru › content",
+            "snippet": "Такие инфекции протекают с ярко-выраженной клинической картиной, как правило, имеют тяжелое течение и высокую летальность. На сегодняшний день Всемирной ...",
+            "snippet_highlighted_words": [
+                "инфекции"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "Профилактика инфекций - вместе - St. Jude Together",
+            "link": "https://together.stjude.org/ru-ru/lechenie-podderzhka/immunitet-bolezn-infekcii/profilaktika-infekcij.html",
+            "displayed_link": "https://together.stjude.org › ru-ru › profilaktika-infekcij",
+            "snippet": "Лучший способ профилактики инфекций — частое мытье рук водой с мылом. Можно также использовать дезинфицирующее средство для рук на спиртовой основе. При ...",
+            "snippet_highlighted_words": [
+                "инфекций"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "инфекция фильм",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC&sa=X&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ1QJ6BAhOEAE"
+        },
+        {
+            "query": "вирусная инфекция",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%92%D0%B8%D1%80%D1%83%D1%81%D0%BD%D0%B0%D1%8F+%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&sa=X&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ1QJ6BAhNEAE"
+        },
+        {
+            "query": "инфекция как передается",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F+%D0%BA%D0%B0%D0%BA+%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D0%B5%D1%82%D1%81%D1%8F&sa=X&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ1QJ6BAhMEAE"
+        },
+        {
+            "query": "инфекция виды",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F+%D0%B2%D0%B8%D0%B4%D1%8B&sa=X&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ1QJ6BAhJEAE"
+        },
+        {
+            "query": "инфекция фильм смотреть",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC+%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C&sa=X&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ1QJ6BAg-EAE"
+        },
+        {
+            "query": "инфекционные заболевания симптомы",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5+%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F+%D1%81%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D0%BC%D1%8B&sa=X&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "инфекция микробиология",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F+%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F&sa=X&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "инфекционные заболевания",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5+%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&sa=X&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ1QJ6BAg3EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&hl=ru&gl=RU&ei=aP98YsbYGoXp_Qbq3J-gCA&start=10&sa=N&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ8NMDegQIAhBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&hl=ru&gl=RU&ei=aP98YsbYGoXp_Qbq3J-gCA&start=10&sa=N&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ8tMDegQIAhA_",
+            "3": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&hl=ru&gl=RU&ei=aP98YsbYGoXp_Qbq3J-gCA&start=20&sa=N&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ8tMDegQIAhBB",
+            "4": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&hl=ru&gl=RU&ei=aP98YsbYGoXp_Qbq3J-gCA&start=30&sa=N&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ8tMDegQIAhBD",
+            "5": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&hl=ru&gl=RU&ei=aP98YsbYGoXp_Qbq3J-gCA&start=40&sa=N&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ8tMDegQIAhBF",
+            "6": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&hl=ru&gl=RU&ei=aP98YsbYGoXp_Qbq3J-gCA&start=50&sa=N&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ8tMDegQIAhBH",
+            "7": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&hl=ru&gl=RU&ei=aP98YsbYGoXp_Qbq3J-gCA&start=60&sa=N&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ8tMDegQIAhBJ",
+            "8": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&hl=ru&gl=RU&ei=aP98YsbYGoXp_Qbq3J-gCA&start=70&sa=N&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ8tMDegQIAhBL",
+            "9": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&hl=ru&gl=RU&ei=aP98YsbYGoXp_Qbq3J-gCA&start=80&sa=N&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ8tMDegQIAhBN",
+            "10": "https://www.google.com/search?q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&hl=ru&gl=RU&ei=aP98YsbYGoXp_Qbq3J-gCA&start=90&sa=N&ved=2ahUKEwjGrN2B_dn3AhWFdN8KHWruB4QQ8tMDegQIAhBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=10&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=10&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=10&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=20&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=30&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=40&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=50&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=60&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=70&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=80&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F&start=90&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D"
+        }
+    }
+}

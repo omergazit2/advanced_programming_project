@@ -1,0 +1,410 @@
+{
+    "search_metadata": {
+        "id": "627cff0c2348846a3be45eac",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/69e150cf9f8d8bee/627cff0c2348846a3be45eac.json",
+        "created_at": "2022-05-12 12:35:24 UTC",
+        "processed_at": "2022-05-12 12:35:24 UTC",
+        "google_url": "https://www.google.com/search?q=Flood&oq=Flood&uule=w+CAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh&hl=en&gl=NG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/69e150cf9f8d8bee/627cff0c2348846a3be45eac.html",
+        "total_time_taken": 4.76
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Flood",
+        "uule": "w+CAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "NG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Flood",
+        "total_results": 6070000000,
+        "time_taken_displayed": 0.54
+    },
+    "knowledge_graph": {
+        "title": "Flood",
+        "description": "A flood is an overflow of water that submerges land that is usually dry. In the sense of \"flowing water\", the word may also be applied to the inflow of the tide. Floods are an area of study of the discipline hydrology and are of significant concern in agriculture, civil engineering and public health.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Flood"
+        },
+        "floods_united_states": [
+            {
+                "name": "New York floods",
+                "link": "https://www.google.com/search?hl=en&gl=NG&q=New+York+floods&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVPi1U_XNzQsqsgqsCjKMtESyU620k_Oz83Nz7NKyS_PK08sSilexcjmlpOfn1K8iJXfL7VcITK_KFshDSyyg5URAG2XnVlPAAAA&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQxA16BAhcEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=New+York+floods&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVPi1U_XNzQsqsgqsCjKMtESyU620k_Oz83Nz7NKyS_PK08sSilexcjmlpOfn1K8iJXfL7VcITK_KFshDSyyg5URAG2XnVlPAAAA&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/2a469807212a60be6e878452e8e404d96898f7c222c5f5bbeadf6f43c12e3eefcb6505a145e1b5f25c61103fa2302d1f.jpeg"
+            },
+            {
+                "name": "Great Mississippi Flood of...",
+                "link": "https://www.google.com/search?hl=en&gl=NG&q=Great+Mississippi+Flood+of+1927&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVPiBLEMi-KN07VEspOt9JPzc3Pz86xS8svzyhOLUopXMbK55eTnpxQvYpV3L0pNLFHwzSwuBqGCgkwFsJRCfpqCoaWR-Q5WRgAnK9j9WwAAAA&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQxA16BAhcEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Great+Mississippi+Flood+of+1927&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVPiBLEMi-KN07VEspOt9JPzc3Pz86xS8svzyhOLUopXMbK55eTnpxQvYpV3L0pNLFHwzSwuBqGCgkwFsJRCfpqCoaWR-Q5WRgAnK9j9WwAAAA&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/2a469807212a60be6e878452e8e404d96898f7c222c5f5bbeadf6f43c12e3eef7dba60b1b3ebf19972a42e932308bd3a.jpeg"
+            },
+            {
+                "name": "Johnstown Flood",
+                "link": "https://www.google.com/search?hl=en&gl=NG&q=Johnstown+Flood&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVPiBLGMkrLKKrVEspOt9JPzc3Pz86xS8svzyhOLUopXMbK55eTnpxQvYuX3ys_IKy4ByiiAhXawMgIAj4MFHEsAAAA&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQxA16BAhcEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Johnstown+Flood&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVPiBLGMkrLKKrVEspOt9JPzc3Pz86xS8svzyhOLUopXMbK55eTnpxQvYuX3ys_IKy4ByiiAhXawMgIAj4MFHEsAAAA&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/2a469807212a60be6e878452e8e404d96898f7c222c5f5bbeadf6f43c12e3eefecc5c309261d908ad93f9c3c3bd4ea41.jpeg"
+            },
+            {
+                "name": "Ohio River flood of 1937",
+                "link": "https://www.google.com/search?hl=en&gl=NG&q=Ohio+River+flood+of+1937&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVPiBLHSS8rSCrVEspOt9JPzc3Pz86xS8svzyhOLUopXMbK55eTnpxQvYpXwz8jMVwjKLEstUkgDiSnkpykYWhqb72BlBABEvQ1SVAAAAA&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQxA16BAhcEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Ohio+River+flood+of+1937&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVPiBLHSS8rSCrVEspOt9JPzc3Pz86xS8svzyhOLUopXMbK55eTnpxQvYpXwz8jMVwjKLEstUkgDiSnkpykYWhqb72BlBABEvQ1SVAAAAA&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/2a469807212a60be6e878452e8e404d96898f7c222c5f5bbeadf6f43c12e3eefceccd295a2fd4aaf8def80595f776566.jpeg"
+            }
+        ],
+        "floods_united_states_link": "https://www.google.com/search?hl=en&gl=NG&q=floods+United+States&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVOCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMbK55eTnpxQvYhVJAzMUQvMyS1JTFIJLEktSi3ewMgIA8ZiBOk8AAAA&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQMSgAegQIXBAB",
+        "floods_united_states_stick": "H4sIAAAAAAAAAONgFuLQz9U3SEkqKVOCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMbK55eTnpxQvYhVJAzMUQvMyS1JTFIJLEktSi3ewMgIA8ZiBOk8AAAA",
+        "people_also_search_for": [
+            {
+                "name": "Drought",
+                "link": "https://www.google.com/search?hl=en&gl=NG&q=Drought&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRRwy3HWSbE_hbU5QwJeTi75--f070-hRnx-V0sywsqlLto7ssDqPn_O_NQiZHjkDT4iitO0SiBox5_QDixOf8vXKxk4iq2EEUNgctLv2kLcInC6RD_W9t1rP-G4JoYF-RZPQsHpea4U1Gd73xhEUel1IGofm_fuZBMVuYW1G9W2NiiqLPxsOH9-AomCVWztR86iGFZUGpG0IGyZdPrp6LsUOjPNvtwoYcS-ckFqTXd2vgvwHw%3D%3D&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQxA16BAheEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Drought&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRRwy3HWSbE_hbU5QwJeTi75--f070-hRnx-V0sywsqlLto7ssDqPn_O_NQiZHjkDT4iitO0SiBox5_QDixOf8vXKxk4iq2EEUNgctLv2kLcInC6RD_W9t1rP-G4JoYF-RZPQsHpea4U1Gd73xhEUel1IGofm_fuZBMVuYW1G9W2NiiqLPxsOH9-AomCVWztR86iGFZUGpG0IGyZdPrp6LsUOjPNvtwoYcS-ckFqTXd2vgvwHw%3D%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/2a469807212a60be6e878452e8e404d9c8eadda796381622952b1a41e32268888e6066b521e7e9b84b8ac0f8ca01ab72.jpeg"
+            },
+            {
+                "name": "Storm",
+                "link": "https://www.google.com/search?hl=en&gl=NG&q=Storm&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdebuvTTeRZHIIFeeFyMWobhRUFeFnaWnXzfewTUf2EpZih0ejrNlfuYv-95sjRPxjcf39EvSywytMM89l7Y4SoMibfsaaXwrLUR737bWp7va7aSPujhTtgULTSvLU1FsQOGjjHQOErXvgW5quM4TfviYv6m0YG-D7wkwjZunKvD5n30mE_HYULrQd1CWQZwN02E7pDjij5ILisJw1WN1xpaB5BTD4O1TGmjtNDo5V4AB9TlT1Q%3D%3D&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQxA16BAheEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Storm&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdebuvTTeRZHIIFeeFyMWobhRUFeFnaWnXzfewTUf2EpZih0ejrNlfuYv-95sjRPxjcf39EvSywytMM89l7Y4SoMibfsaaXwrLUR737bWp7va7aSPujhTtgULTSvLU1FsQOGjjHQOErXvgW5quM4TfviYv6m0YG-D7wkwjZunKvD5n30mE_HYULrQd1CWQZwN02E7pDjij5ILisJw1WN1xpaB5BTD4O1TGmjtNDo5V4AB9TlT1Q%3D%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/2a469807212a60be6e878452e8e404d9c8eadda796381622952b1a41e3226888132df5f42ead8db203169054e99fe040.jpeg"
+            },
+            {
+                "name": "Tornado",
+                "link": "https://www.google.com/search?hl=en&gl=NG&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZk2o2qxoXvNom6G_PS1OcQST04Cvfcnp_u9XjWOkAyPm_TLzXmM9XiQfUzjKZVLwV43PF0I6iwF98ELQLbqWxUoX8GzR0fggl_4YMd9CMCgBnA8cXRlZGZ8Z2ZGSUA3W0dZnX1xA%3D%3D&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQxA16BAheEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZk2o2qxoXvNom6G_PS1OcQST04Cvfcnp_u9XjWOkAyPm_TLzXmM9XiQfUzjKZVLwV43PF0I6iwF98ELQLbqWxUoX8GzR0fggl_4YMd9CMCgBnA8cXRlZGZ8Z2ZGSUA3W0dZnX1xA%3D%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/2a469807212a60be6e878452e8e404d9c8eadda796381622952b1a41e32268884d6be61af256b4d35471ec0a6614f055.jpeg"
+            },
+            {
+                "name": "Natural disaster",
+                "link": "https://www.google.com/search?hl=en&gl=NG&q=Natural+disaster&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdS29Hi7EV8qyt6GPCKaiC-dspGeLwI1OyKss7WWHKbXaGsIHOPYmf96Yu-2Sk2MlpXnsDYBSCXdsryYyFiUXCMkIwc_tQAK0JV_dnl4B_VTSnGMcd9iwyAnEmmjCrT2IxI_qRBgJ9qCf3Qlhhu69Sx2kjIXHapZ6z5yIvcphXY0xwOmN7Dzk97y1V91bkd82KWHq5W3XIlePWnyECmQu7i9O-lsTtbwSgXsrIqkWpB6CsqGA2IaWnXnuQTEQchtXJMGa3JM%3D&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQxA16BAheEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Natural+disaster&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdS29Hi7EV8qyt6GPCKaiC-dspGeLwI1OyKss7WWHKbXaGsIHOPYmf96Yu-2Sk2MlpXnsDYBSCXdsryYyFiUXCMkIwc_tQAK0JV_dnl4B_VTSnGMcd9iwyAnEmmjCrT2IxI_qRBgJ9qCf3Qlhhu69Sx2kjIXHapZ6z5yIvcphXY0xwOmN7Dzk97y1V91bkd82KWHq5W3XIlePWnyECmQu7i9O-lsTtbwSgXsrIqkWpB6CsqGA2IaWnXnuQTEQchtXJMGa3JM%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/2a469807212a60be6e878452e8e404d9c8eadda796381622952b1a41e3226888f3ae299bdf1aaaf792d5949c72efdfd8.jpeg"
+            }
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?hl=en&gl=NG&q=Flood&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVOCs7QEgzNTUssTK4v9UitKgktSC4oXsbK65eTnp-xgZQQAyZz-kjQAAAA&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQMSgAegQIXhAB",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3SEkqKVOCs7QEgzNTUssTK4v9UitKgktSC4oXsbK65eTnp-xgZQQAyZz-kjQAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Queensland battling second flood emergency in three months ...",
+            "link": "https://www.youtube.com/watch?v=CvnpPT80E1g",
+            "thumbnail": "https://i.ytimg.com/vi/CvnpPT80E1g/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mHAXTYH1TR7uL3amV6A7Q3NZLnhQ",
+            "channel": "7NEWS Australia",
+            "duration": "11:02",
+            "platform": "YouTube",
+            "date": "3 hours ago"
+        },
+        {
+            "position": 2,
+            "title": "Watch as Bridge Disintegrates in Flood - Videos from The ...",
+            "link": "https://weather.com/news/weather/video/pakistan-bridge-collapses-from-glacial-lake-outburst-during-heat-wave",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpm_asXSvbXEJ9no1bR55qXnCBri-kU8WicBvC2CYgFYw&s",
+            "platform": "The Weather Channel",
+            "date": "2 days ago"
+        },
+        {
+            "position": 3,
+            "title": "Severe Weather Update: Intense rainfall has cleared Qld coast ...",
+            "link": "https://www.youtube.com/watch?v=qjmZ981iHY8",
+            "thumbnail": "https://i.ytimg.com/vi/qjmZ981iHY8/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kqu-LnHgJuBo28jLTUv1Tnda4Exw",
+            "channel": "Bureau of Meteorology",
+            "duration": "2:49",
+            "platform": "YouTube",
+            "date": "1 day ago"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Abuja residents cry out over threat of flood - The Nation Newspaper",
+            "link": "https://thenationonlineng.net/abuja-residents-cry-out-over-threat-of-flood/",
+            "source": "The Nation Newspaper",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/6b9d4ba970b963772ec8083f1bec5ac1db1c26f5492b9b64.jpeg"
+        },
+        {
+            "title": "Mr & Mrs: She wants him swimming flood for her handbag",
+            "link": "https://www.vanguardngr.com/2022/05/mr-mrs-she-wants-him-swimming-flood-for-her-handbag/",
+            "source": "Vanguard News",
+            "date": "6 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/6b9d4ba970b9637705588c0ed6991cf5f571959b6a714ea3.jpeg"
+        },
+        {
+            "title": "Stop wasting money on flood cars – Awoof Car",
+            "link": "https://dailypost.ng/2022/05/11/stop-wasting-money-on-flood-cars-awoof-car/",
+            "source": "Daily Post Nigeria",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/6b9d4ba970b96377fd16c96cc5402cb1f64dd7a29946e209.jpeg"
+        },
+        {
+            "title": "British Red Cross visits Ikorodu monarch, raises awareness on flood",
+            "link": "https://www.vanguardngr.com/2022/05/british-red-cross-visits-ikorodu-monarch-raises-awareness-on-flood/",
+            "source": "Vanguard News",
+            "date": "23 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/6b9d4ba970b96377535d6a1da2fa9bc12d8afc552f4b687b.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=en&gl=NG&q=Flood&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQt8YBegQIBBAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&tbm=nws&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+    "related_questions": [
+        {
+            "question": "What are the causes of flood?",
+            "title": "Severe flooding is caused by atmospheric conditions that lead to heavy rain or the rapid melting of snow and ice....What Causes a Flood?",
+            "link": "https://scijinks.gov/flood/",
+            "list": [
+                "Heavy rainfall.",
+                "Ocean waves coming on shore, such as a storm surge.",
+                "Melting snow and ice, as well as ice jams.",
+                "Dams or levees breaking."
+            ],
+            "displayed_link": "https://scijinks.gov › flood"
+        },
+        {
+            "question": "What is effect of flood?",
+            "snippet": "Floods have large social consequences for communities and individuals. As most people are well aware, the immediate impacts of flooding include loss of human life, damage to property, destruction of crops, loss of livestock, and deterioration of health conditions owing to waterborne diseases.",
+            "title": "What are the consequences of floods? - Queensland Chief Scientist",
+            "link": "https://www.chiefscientist.qld.gov.au/publications/understanding-floods/flood-consequences",
+            "displayed_link": "https://www.chiefscientist.qld.gov.au › flood-consequences"
+        },
+        {
+            "question": "What is flood easy answer?",
+            "snippet": "Flood is a term used to denote an enormous amount of water. When there is an outflow of water in a place, it is said to be flooded. The situation caused when the water becomes uncontrollable is said to be flooded.",
+            "title": "Definition and Different Causes of Floods | Toppr",
+            "link": "https://www.toppr.com/guides/chemistry/environmental-chemistry/floods/",
+            "displayed_link": "https://www.toppr.com › guides › environmental-chemistry"
+        },
+        {
+            "question": "What are the causes and effects of flooding?",
+            "snippet": "A flood happens when water from a river , lake , or ocean overflows onto the land around it . Too much rain or melting snow are the main causes of floods . Sometimes the soil in the ground can make a flood worse. This is because when rain falls, the soil usually soaks it up like a sponge.",
+            "title": "Causes of Flood - Definition, Environmental Effects & Positive Effects",
+            "link": "https://byjus.com/chemistry/causes-of-flood/",
+            "displayed_link": "https://byjus.com › chemistry › causes-of-flood"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "A flood is an overflow of water that submerges land that is usually dry. In the sense of \"flowing water\", the word may also be applied to the inflow of the tide. Floods are an area of study of the discipline hydrology and are of significant concern in agriculture, civil engineering and public health.",
+        "link": "https://en.wikipedia.org/wiki/Flood#:~:text=A%20flood%20is%20an%20overflow,civil%20engineering%20and%20public%20health.",
+        "displayed_link": "https://en.wikipedia.org › wiki › Flood",
+        "snippet": "A flood is an overflow of water that submerges land that is usually dry. In the sense of \"flowing water\", the word may also be applied to the inflow of the tide. Floods are an area of study of the discipline hydrology and are of significant concern in agriculture, civil engineering and public health.",
+        "people_also_search_for": [],
+        "about_this_result": {
+            "source": {
+                "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                "icon": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/3b34e3842d13850a9511c28bb3b637ebb6dad6a9fbb164487c45a7c1ec1fe9b2f14f7e93c41fedc1f27ba3652b4a60f0.png"
+            }
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Flood&tbm=ilp&ilps=ADNMCi3A15nJ144DT1XxRvA_qf7MtjZncg"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "What is a Flood? | What Causes a Flood? - Earth Networks",
+            "link": "https://www.earthnetworks.com/flooding/",
+            "displayed_link": "https://www.earthnetworks.com › flooding",
+            "snippet": "A flood is an overflow of water that submerges land that is usually dry. Floods are an area of study in the discipline of hydrology. They are the most common ...",
+            "snippet_highlighted_words": [
+                "flood",
+                "Floods"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "earthnetworks.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/c419c001072b1c60bc0335d03e098bae33ee87ffc15092c24c87273e46d33fa4b270e4e0d89d2deb5b63506f1b26d17a.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.earthnetworks.com/flooding/&tbm=ilp&ilps=ADNMCi38vzY8XEb4oxfRC_1WFW6MYhEz5A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uxEO66oI2Y8J:https://www.earthnetworks.com/flooding/+&cd=18&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 2,
+            "title": "Flood Basics - Severe Weather 101",
+            "link": "https://www.nssl.noaa.gov/education/svrwx101/floods/",
+            "displayed_link": "https://www.nssl.noaa.gov › svrwx101 › floods",
+            "snippet": "Flooding is an overflowing of water onto land that is normally dry. Floods can happen during heavy rains, when ocean waves come on shore, when snow melts ...",
+            "snippet_highlighted_words": [
+                "Flooding",
+                "Floods"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Severe Storms Laboratory is a National Oceanic and Atmospheric Administration weather research laboratory under the Office of Oceanic and Atmospheric Research. It is one of seven NOAA Research Laboratories.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/National_Severe_Storms_Laboratory",
+                    "icon": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/c419c001072b1c60bc0335d03e098bae2e860387cd04c44ccc5dd7f5122ff93c913abfd50e943193d90fab4d0053c1dc.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nssl.noaa.gov/education/svrwx101/floods/&tbm=ilp&ilps=ADNMCi1sapg-qAh5C8_pVrMfp98tSeH0Qw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1L8AdqHISmUJ:https://www.nssl.noaa.gov/education/svrwx101/floods/+&cd=19&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 3,
+            "title": "flood - Longman Dictionary",
+            "link": "https://www.ldoceonline.com/dictionary/flood",
+            "displayed_link": "https://www.ldoceonline.com › dictionary › flood",
+            "snippet": "Related topics: Nature · floodflood1 /flʌd/ ○○○ W3 verb · 1 cover with water [intransitive, transitive]DNWET to cover a place with water, or to become covered ...",
+            "snippet_highlighted_words": [
+                "floodflood"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Longman Dictionary of Contemporary English, first published by Longman in 1978, is an advanced learner's dictionary, providing definitions using a restricted vocabulary, helping non-native English speakers understand meanings easily.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Longman_Dictionary_of_Contemporary_English",
+                    "icon": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/c419c001072b1c60bc0335d03e098bae9bd1881ae6a6e3b4cf2c26790cdb35e519ad8a432d90d91728ff4a8a31eedee3.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ldoceonline.com/dictionary/flood&tbm=ilp&ilps=ADNMCi2QmAgvMU3hbhkBKlxo7mzkqyUs_w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uY5sFySLfMIJ:https://www.ldoceonline.com/dictionary/flood+&cd=20&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 4,
+            "title": "Floods | Ready.gov",
+            "link": "https://www.ready.gov/floods",
+            "displayed_link": "https://www.ready.gov › floods",
+            "date": "9 Dec 2021",
+            "snippet": "Flooding is a temporary overflow of water onto land that is normally dry. Floods are the most common natural disaster in the United States.",
+            "snippet_highlighted_words": [
+                "Flooding",
+                "Floods"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "ready.gov was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/c419c001072b1c60bc0335d03e098bae8af7e020230b1f0b73b4eb9ffcb97f44a2a70f63e2822cf904a09896fd984065.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ready.gov/floods&tbm=ilp&ilps=ADNMCi107Ohp8WK5DazmH4Sl2IWidFYnOg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TPOf6UEIloAJ:https://www.ready.gov/floods+&cd=21&hl=en&ct=clnk&gl=ng",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=NG&q=related:https://www.ready.gov/floods+Flood"
+        },
+        {
+            "position": 5,
+            "title": "FLOOD | meaning in the Cambridge English Dictionary",
+            "link": "https://dictionary.cambridge.org/dictionary/english/flood",
+            "displayed_link": "https://dictionary.cambridge.org › dictionary › flood",
+            "date": "4 May 2022",
+            "snippet": "flood verb [I/T] (COVER WITH WATER) ... to fill or become covered with water or to cause this to happen to something: [ T ] A burst pipe flooded ...",
+            "snippet_highlighted_words": [
+                "flood",
+                "flooded"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Cambridge Advanced Learner's Dictionary was first published in 1995 under the name Cambridge International Dictionary of English, by the Cambridge University Press. The dictionary has over 140,000 words, phrases, and meanings. It is suitable for learners at CEF levels B2-C2.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Cambridge_Advanced_Learner's_Dictionary",
+                    "icon": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/c419c001072b1c60bc0335d03e098baef3e99030aecbb4bdef275f1c78f8f834c787cc9c23e85eda55ab92a3bb832447.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://dictionary.cambridge.org/dictionary/english/flood&tbm=ilp&ilps=ADNMCi1srpJ28-9fwBCN4vKc5Twe5jKKiw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qejvM_AGztQJ:https://dictionary.cambridge.org/dictionary/english/flood+&cd=22&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 6,
+            "title": "Floods - WHO | World Health Organization",
+            "link": "https://www.who.int/health-topics/floods",
+            "displayed_link": "https://www.who.int › Health topics",
+            "snippet": "Floods are the most frequent type of natural disaster and occur when an overflow of water submerges land that is usually dry. Floods are often caused by ...",
+            "snippet_highlighted_words": [
+                "Floods",
+                "Floods"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The World Health Organization is a specialized agency of the United Nations responsible for international public health. The WHO Constitution states its main objective as \"the attainment by all peoples of the highest possible level of health\".",
+                    "source_info_link": "https://en.wikipedia.org/wiki/World_Health_Organization",
+                    "icon": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/c419c001072b1c60bc0335d03e098baeebb5981e785455f6af86b2d5ad9b598f847934ef0c74020599ab5be15eb9f56c.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.who.int/health-topics/floods&tbm=ilp&ilps=ADNMCi0WAkUheyPnAflfJYUkgI1ilx-hnw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1lJ4q9lp5mUJ:https://www.who.int/health-topics/floods+&cd=23&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 7,
+            "title": "Latest On Flood - The Guardian Nigeria News",
+            "link": "https://guardian.ng/tag/flood/",
+            "displayed_link": "https://guardian.ng › tag › flood",
+            "snippet": "Australian towns devastated by deadly flooding over the past week prepared for further intense weather Sunday, with expected downpours halting volunteer ...",
+            "snippet_highlighted_words": [
+                "flooding"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Guardian is an independent daily newspaper, established in 1983, published by Guardian Newspapers Limited in Lagos, Nigeria",
+                    "source_info_link": "https://en.wikipedia.org/wiki/The_Guardian_(Nigeria)",
+                    "icon": "https://serpapi.com/searches/627cff0c2348846a3be45eac/images/c419c001072b1c60bc0335d03e098bae3a04b5a6054c599f96fa39df6709826fe92f71e731d00f247442e1c55d49ddba.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://guardian.ng/tag/flood/&tbm=ilp&ilps=ADNMCi2xJJ4Sm4EicI45lEmbywWXe1Qi-w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zSxfAcOAoJMJ:https://guardian.ng/tag/flood/+&cd=27&hl=en&ct=clnk&gl=ng"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "causes of flood",
+            "link": "https://www.google.com/search?hl=en&gl=NG&q=Causes+of+flood&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ1QJ6BAhEEAE"
+        },
+        {
+            "query": "effects of flood",
+            "link": "https://www.google.com/search?hl=en&gl=NG&q=Effects+of+flood&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ1QJ6BAg_EAE"
+        },
+        {
+            "query": "types of flood",
+            "link": "https://www.google.com/search?hl=en&gl=NG&q=Types+of+flood&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "floods in the world",
+            "link": "https://www.google.com/search?hl=en&gl=NG&q=Floods+in+the+world&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "precautions of flood",
+            "link": "https://www.google.com/search?hl=en&gl=NG&q=Precautions+of+flood&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "floods definition and causes",
+            "link": "https://www.google.com/search?hl=en&gl=NG&q=Floods+definition+and+causes&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "flood facts",
+            "link": "https://www.google.com/search?hl=en&gl=NG&q=Flood+facts&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "flood in india",
+            "link": "https://www.google.com/search?hl=en&gl=NG&q=Flood+in+India&sa=X&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ1QJ6BAgvEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Flood&hl=en&gl=NG&ei=EP98YobaIeOpggfsz7CYDA&start=10&sa=N&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ8NMDegQIAhBL",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Flood&hl=en&gl=NG&ei=EP98YobaIeOpggfsz7CYDA&start=10&sa=N&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ8tMDegQIAhA5",
+            "3": "https://www.google.com/search?q=Flood&hl=en&gl=NG&ei=EP98YobaIeOpggfsz7CYDA&start=20&sa=N&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ8tMDegQIAhA7",
+            "4": "https://www.google.com/search?q=Flood&hl=en&gl=NG&ei=EP98YobaIeOpggfsz7CYDA&start=30&sa=N&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ8tMDegQIAhA9",
+            "5": "https://www.google.com/search?q=Flood&hl=en&gl=NG&ei=EP98YobaIeOpggfsz7CYDA&start=40&sa=N&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ8tMDegQIAhA_",
+            "6": "https://www.google.com/search?q=Flood&hl=en&gl=NG&ei=EP98YobaIeOpggfsz7CYDA&start=50&sa=N&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ8tMDegQIAhBB",
+            "7": "https://www.google.com/search?q=Flood&hl=en&gl=NG&ei=EP98YobaIeOpggfsz7CYDA&start=60&sa=N&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ8tMDegQIAhBD",
+            "8": "https://www.google.com/search?q=Flood&hl=en&gl=NG&ei=EP98YobaIeOpggfsz7CYDA&start=70&sa=N&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ8tMDegQIAhBF",
+            "9": "https://www.google.com/search?q=Flood&hl=en&gl=NG&ei=EP98YobaIeOpggfsz7CYDA&start=80&sa=N&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ8tMDegQIAhBH",
+            "10": "https://www.google.com/search?q=Flood&hl=en&gl=NG&ei=EP98YobaIeOpggfsz7CYDA&start=90&sa=N&ved=2ahUKEwiGounX_Nn3AhXjlOAKHewnDMMQ8tMDegQIAhBJ"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=20&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=30&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=40&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=50&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=60&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=70&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=80&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Flood&start=90&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh"
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "search_metadata": {
+        "id": "627cff25f21801efb1ea8e2b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7c99ca843772be91/627cff25f21801efb1ea8e2b.json",
+        "created_at": "2022-05-12 12:35:49 UTC",
+        "processed_at": "2022-05-12 12:35:49 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&oq=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&uule=w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=&hl=iw&gl=IL&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7c99ca843772be91/627cff25f21801efb1ea8e2b.html",
+        "total_time_taken": 6.33
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "שינוי אקלים",
+        "uule": "w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "IL",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "שינוי אקלים",
+        "total_results": 480000,
+        "time_taken_displayed": 0.35
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "שינוי אקלים - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%A0%D7%95%D7%99_%D7%90%D7%A7%D7%9C%D7%99%D7%9D",
+            "displayed_link": "https://he.wikipedia.org › wiki › שינוי_אקלים",
+            "snippet": "סוגיית שינויי האקלים נכנסה לתודעה הציבורית בעיקר משום שבניגוד לשינויי האקלים ההיסטוריים שעיצבו את אקלים כדור הארץ בעבר הרחוק ונגרמו ממקור טבעי, שינוי האקלים ...",
+            "snippet_highlighted_words": [
+                "האקלים",
+                "האקלים",
+                "אקלים",
+                "שינוי האקלים"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "מה הסיפור של שינוי האקלים? - זווית בחינוך",
+            "link": "https://education.zavit.org.il/%D7%9E%D7%94-%D7%94%D7%A1%D7%99%D7%A4%D7%95%D7%A8-%D7%A9%D7%9C-%D7%A9%D7%99%D7%A0%D7%95%D7%99-%D7%94%D7%90%D7%A7%D7%9C%D7%99%D7%9D/",
+            "displayed_link": "https://education.zavit.org.il › מה-הסיפור-של-שינוי-האקלים",
+            "snippet": "ההתחממות גלובלית היא למעשה העלייה הנצפית בממוצע הטמפרטורה קרוב לפני שטח כדור הארץ ובאטמוספירה. התחממות זו מתרחשת בעיקרה כתוצאה מעלייה בפליטת גזי חממה על ידי ..."
+        },
+        {
+            "position": 3,
+            "title": "שינוי אקלים - info spot",
+            "link": "http://infospot.co.il/scp/%D7%A9%D7%99%D7%A0%D7%95%D7%99_%D7%90%D7%A7%D7%9C%D7%99%D7%9D",
+            "displayed_link": "http://infospot.co.il › scp › שינוי_אקלים",
+            "snippet": "שינוי אקלים וההתחממות הגלובאלית הם תופעת טבע עולמית הנגרמת ברובה כתוצאה מפליטת גזי חממה בפעילות אנושית, ברובה משריפת דלקים מאובנים (פחם, נפט, ...",
+            "snippet_highlighted_words": [
+                "שינוי אקלים"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "שינוי אקלים | המשרד להגנת הסביבה - Gov",
+            "link": "https://www.gov.il/he/departments/topics/climate_change/govil-landing-page",
+            "displayed_link": "https://www.gov.il › topics › govil-landing-page",
+            "snippet": "כדי לצמצם את ההשלכות של שינויי האקלים ולהתייעל בשימוש במשאבים, נוקטים בעולם פעולות ותוכניות להפחתת פליטות גזי חממה, בעיקר על ידי צמצום שרפת דלקים פוסיליים, ...",
+            "snippet_highlighted_words": [
+                "האקלים"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "שינוי אקלים - Ynet",
+            "link": "http://www.ynet.co.il/tags/%D7%A9%D7%99%D7%A0%D7%95%D7%99_%D7%90%D7%A7%D7%9C%D7%99%D7%9D",
+            "displayed_link": "http://www.ynet.co.il › tags › שינוי_אקלים",
+            "snippet": "שינוי אקלים - מגוון כתבות אודות שינוי אקלים באתר ynet. כנסו וקראו על כל הנושאים שהכי מעניינים אתכם. חדשות חמות, עדכונים ומבזקים.",
+            "snippet_highlighted_words": [
+                "שינוי אקלים",
+                "שינוי אקלים"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "שינויי אקלים | Israel Meteorological Service - השירות המטאורולוגי",
+            "link": "https://ims.gov.il/he/node/228",
+            "displayed_link": "https://ims.gov.il › node",
+            "snippet": "שינויי אקלים. שינוי אקלימי – מה זה? מזג האוויר מתייחס לתופעות שמתרחשות בזמן קצר יחסית: שעה, יום , שבוע. למשל: גשם שיורד ביום מסוים, גל חום שנמשך מספר ימים.",
+            "snippet_highlighted_words": [
+                "אקלים",
+                "שינוי"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "שינוי האקלים - אקולוגיה וסביבה",
+            "link": "https://magazine.isees.org.il/?cat=2245",
+            "displayed_link": "https://magazine.isees.org.il › ...",
+            "snippet": "משבר הקורונה, והסגר שהוא כופה עלינו, מעצים את הכמיהה למרחב פתוח ובטוח, ומדגיש את הצורך במרחב ירוק מיידי ומשמעותי עבור תושבי העיר, בימי שגרה בכלל ובעת מצוקה ..."
+        },
+        {
+            "position": 8,
+            "title": "שינוי האקלים | המרחב הפדגוגי | משרד החינוך",
+            "link": "https://pop.education.gov.il/maagal_hashana/aktuali-ahshav/climate-change/",
+            "displayed_link": "https://pop.education.gov.il › climate-change",
+            "snippet": "האם אנחנו יכולים להשפיע על משבר האקלים ועד כמה אנחנו יכולים לשנות את המצב? לעצור את השריפות, את התגברות גלי החום והשטפונות?"
+        },
+        {
+            "position": 9,
+            "title": "שינויי אקלים | בריאות וסביבה",
+            "link": "https://www.ehf.org.il/he/climate_change",
+            "displayed_link": "https://www.ehf.org.il › climate_change",
+            "snippet": "שינויי האקלים מציבים בפני האנושות אתגר גדול, שלו השפעה של ממש על בריאות הציבור. ארגון הבריאות העולמי (World Health Organization – WHO) אף מגדיר אותו \"האתגר ..."
+        },
+        {
+            "position": 10,
+            "title": "שינוי אקלים גלובלי - YouTube",
+            "link": "https://www.youtube.com/watch?v=z7iP-QVg3PI",
+            "displayed_link": "https://www.youtube.com › watch",
+            "date": "7 באוג׳ 2009",
+            "snippet": "Climate change refers to long-term shifts in temperatures and weather patterns, mainly caused by human activities, especially the burning of ...",
+            "snippet_highlighted_words": [
+                "Climate change"
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&gl=IL&hl=iw&ei=Kv98Yo7fNOiH_Qbp-YTYAg&start=10&sa=N&ved=2ahUKEwiOnK_k_Nn3AhXoQ98KHek8ASsQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&gl=IL&hl=iw&ei=Kv98Yo7fNOiH_Qbp-YTYAg&start=10&sa=N&ved=2ahUKEwiOnK_k_Nn3AhXoQ98KHek8ASsQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&gl=IL&hl=iw&ei=Kv98Yo7fNOiH_Qbp-YTYAg&start=20&sa=N&ved=2ahUKEwiOnK_k_Nn3AhXoQ98KHek8ASsQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&gl=IL&hl=iw&ei=Kv98Yo7fNOiH_Qbp-YTYAg&start=30&sa=N&ved=2ahUKEwiOnK_k_Nn3AhXoQ98KHek8ASsQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&gl=IL&hl=iw&ei=Kv98Yo7fNOiH_Qbp-YTYAg&start=40&sa=N&ved=2ahUKEwiOnK_k_Nn3AhXoQ98KHek8ASsQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&gl=IL&hl=iw&ei=Kv98Yo7fNOiH_Qbp-YTYAg&start=50&sa=N&ved=2ahUKEwiOnK_k_Nn3AhXoQ98KHek8ASsQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&gl=IL&hl=iw&ei=Kv98Yo7fNOiH_Qbp-YTYAg&start=60&sa=N&ved=2ahUKEwiOnK_k_Nn3AhXoQ98KHek8ASsQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&gl=IL&hl=iw&ei=Kv98Yo7fNOiH_Qbp-YTYAg&start=70&sa=N&ved=2ahUKEwiOnK_k_Nn3AhXoQ98KHek8ASsQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&gl=IL&hl=iw&ei=Kv98Yo7fNOiH_Qbp-YTYAg&start=80&sa=N&ved=2ahUKEwiOnK_k_Nn3AhXoQ98KHek8ASsQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&gl=IL&hl=iw&ei=Kv98Yo7fNOiH_Qbp-YTYAg&start=90&sa=N&ved=2ahUKEwiOnK_k_Nn3AhXoQ98KHek8ASsQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=20&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=30&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=40&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=50&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=60&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=70&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=80&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%A0%D7%95%D7%99+%D7%90%D7%A7%D7%9C%D7%99%D7%9D&start=90&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D"
+        }
+    }
+}

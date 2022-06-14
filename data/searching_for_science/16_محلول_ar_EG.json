@@ -1,0 +1,409 @@
+{
+    "search_metadata": {
+        "id": "629e3d40edb03401c781b4f9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a2d3ec4178da2054/629e3d40edb03401c781b4f9.json",
+        "created_at": "2022-06-06 17:45:36 UTC",
+        "processed_at": "2022-06-06 17:45:36 UTC",
+        "google_url": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&oq=%D9%85%D8%AD%D9%84%D9%88%D9%84&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/a2d3ec4178da2054/629e3d40edb03401c781b4f9.html",
+        "total_time_taken": 2.77
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "محلول",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "محلول",
+        "total_results": 45300000,
+        "time_taken_displayed": 0.41
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgKEAE#imgrc=3AwsSWz2fEPh8M",
+            "source": "https://www.al-dawaa.com/arabic/normal-saline-0-9-s-c-500-ml-p.html",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad02857b82c76f5583d9742f0fd6ccb6d62a67e79634aaf5801ea.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAg4EAE#imgrc=Y8z4VYE96ITzIM",
+            "source": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%84%D9%88%D9%84_%D9%85%D9%84%D8%AD%D9%8A_(%D8%B7%D8%A8)",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028f20fbd982e97bf434de3ddc20d04061c60bb14b1e95e10a1.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAg3EAE#imgrc=5yWukx1kk3XGpM",
+            "source": "https://www.al-dawaa.com/arabic/babylyte-rehydrating-solution-240-ml.html",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028fcfdd492e8e0a347f53ee603952c05cd12e45f48fbb3326d.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgnEAE#imgrc=PSNCQHjdF8UReM",
+            "source": "https://twitter.com/dralammarahmed/status/1172558989361582081?lang=es",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad02887d97999ceb415ca38efcae29fad8e16379851b43414e94b.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgkEAE#imgrc=tlqMcPvUXAKc_M",
+            "source": "https://www.almasryalyoum.com/news/details/1374061",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028bb8dd7ba380518efb413917413d6c606c217a19c51a28dee.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgzEAE#imgrc=6AKioa_tajSOeM",
+            "source": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%84%D9%88%D9%84_%D9%85%D9%84%D8%AD%D9%8A_(%D8%B7%D8%A8)",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028c70705e0090e37ddbf4a9cad18f69ee0b047440d6e9dc04d.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgoEAE#imgrc=ZYM8A8ig_wRvJM",
+            "source": "https://www.almrsal.com/post/758698",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028e1ddc9a64f4cf1fe5fccbb50aab673f0dc816a0cfea88811.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgtEAE#imgrc=uGIfAx80Tv73qM",
+            "source": "https://www.youtube.com/watch?v=zNezjXiablY",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028d02f864d0810249babac36df934d02676e3a20259524d125.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgsEAE#imgrc=KkiB0UxPEp70SM",
+            "source": "https://www.youtube.com/watch?v=E2aFrPbD-W4",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad0286efbc5455e74f0f546ec9a3d6c2eb78c079f9c139cca8d21.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgxEAE#imgrc=emyM-HHnd0rxOM",
+            "source": "https://www.elbalad.news/2636376",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad0281cdcd4b944d1a8f86290379bb9d3a55230b5a786a06ef894.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAg0EAE#imgrc=6fAsGYjfLSlhHM",
+            "source": "https://www.marefa.org/%D9%85%D8%AD%D9%84%D9%88%D9%84",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028b7a125f90cc785689e152d5f63b589c587fe516ea5006d52.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAg1EAE#imgrc=F_odPBcYhmeauM",
+            "source": "https://fadic.net/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9-%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87%D8%A7-%D9%88%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7/",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028be80b8f04929f68870ad5b0776b411b8e6f3c669497c42dd.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgqEAE#imgrc=BgbSdfscQM1uoM",
+            "source": "https://spama.com/Sodium-Chloride-For-Irrigation-1000ml-2",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028a585399ed29e78e4514b1f2e91c63d974056ac06fc49136c.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgmEAE#imgrc=41xQylvwWnOzFM",
+            "source": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%84%D9%88%D9%84_%D9%85%D9%84%D8%AD%D9%8A_(%D8%B7%D8%A8)",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad0281c39d6cbd859c02c2f8db914b8688f73f569c66ff5a5c987.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgjEAE#imgrc=n5FxUvKAZKx57M",
+            "source": "https://www.ida2at.com/intravenous-fluids-questions/",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028dbc1657a557a22f053bde3f272b5ed5f28cbfe42ff7396ea.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgfEAE#imgrc=DewpNceDKvvIoM",
+            "source": "https://www.raya.ps/news/1086314.html",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad028ed6a3a03a6140009d8cd6bbe2746395f213be9e17f185dfa.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=3AwsSWz2fEPh8M%252CXsXV3Y_KXbFYYM%252C_%253BY8z4VYE96ITzIM%252CNNGc7lRcH4bi5M%252C_%253B5yWukx1kk3XGpM%252CQfmieWkOkjoZtM%252C_%253BPSNCQHjdF8UReM%252CS4NlfuONOkn2OM%252C_%253BtlqMcPvUXAKc_M%252C7OsSrwXDGZXjEM%252C_%253B6AKioa_tajSOeM%252CNNGc7lRcH4bi5M%252C_%253BZYM8A8ig_wRvJM%252CRWGWG4Y6_NSolM%252C_%253BuGIfAx80Tv73qM%252Cm-sd5iHRp1YBiM%252C_%253BKkiB0UxPEp70SM%252CwAdQ1D8LE3-9pM%252C_%253BemyM-HHnd0rxOM%252CNNrmLM5ZUu9PQM%252C_%253B6fAsGYjfLSlhHM%252CyxmYudDIOwi5YM%252C_%253BF_odPBcYhmeauM%252ChIdQnJOxW14d9M%252C_%253BBgbSdfscQM1uoM%252ChTBwnwut-XwGfM%252C_%253B41xQylvwWnOzFM%252CNNGc7lRcH4bi5M%252C_%253Bn5FxUvKAZKx57M%252CgrRpLs93WXR8mM%252C_%253BDewpNceDKvvIoM%252CvNwNMTrY5dJv5M%252C_%253BarBM3qELY-zliM%252ChIdQnJOxW14d9M%252C_&usg=AI4_-kQDOFqhzIBIWYb9eUKCEzyH8G7z8Q&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ9QF6BAgZEAE#imgrc=arBM3qELY-zliM",
+            "source": "https://fadic.net/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9-%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87%D8%A7-%D9%88%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7/",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/444e1c3c105ad02816812e7c6a2eb5da4bd5a531e91cd585226ccad1664cb02c.jpeg"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "انواع المحاليل الطبيه وامته استخدم رينجر وامته استخدم محلول ملح ...",
+            "link": "https://www.youtube.com/watch?v=4_Ekl6yaw4c",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/ed171655c8a13f2a4996a4613c3415dfe20aaf3735109f9686a599d09032c6d3.jpeg",
+            "channel": "Microbiology School",
+            "duration": "6:01",
+            "platform": "YouTube",
+            "date": "22‏/08‏/2019"
+        },
+        {
+            "position": 2,
+            "title": "المحاليل الوريدية | (1) شرح انواع محاليل الملح (Saline Solutions ...",
+            "link": "https://www.youtube.com/watch?v=zNezjXiablY",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/ed171655c8a13f2ab63e7a2a89059decd155cfbd2056c9242173d89d73c4be0d.jpeg",
+            "channel": "إيجي نيرسولوجي - EgyNursology",
+            "duration": "5:01",
+            "platform": "YouTube",
+            "date": "18‏/05‏/2020"
+        },
+        {
+            "position": 3,
+            "title": "كل ما تحتاج معرفته عن محلول الملح | انواع محاليل الملح | sodium ...",
+            "link": "https://www.youtube.com/watch?v=C9-IQAjwbuM",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/ed171655c8a13f2a2e8739e1eff854807221cac8c8c19f45dd79069115175339.jpeg",
+            "channel": "AHMED pharmacy",
+            "duration": "5:01",
+            "platform": "YouTube",
+            "date": "18‏/02‏/2022"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ماذا يعني محلول؟",
+            "snippet": "في الكيمياء، المحلول هو مزيج متجانس من مادتين نقيتين أو أكثر و لا يمكن عزلهما عن بعضهما البعض ، كالترشيح مثلاً ويتكون من مذيب ومذاب وغالبا يكون المذيب أكبر من المذاب مثل محلول السكر في الماء. وعملية التحللّ أو التفكك تُسمّى أيضًا الذوبان.",
+            "title": "محلول - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%84%D9%88%D9%84",
+            "displayed_link": "https://ar.wikipedia.org › wiki › محلول"
+        },
+        {
+            "question": "ما الذي يحدد نوع المحلول؟",
+            "snippet": "أنواع المحاليل: المحلول السائل: من الممكن إذابة مادة سائلة في مذيب سائل، مثل: إذابة الكحول الإيثيلي في الماء، ومن الممكن أيضاً إذابة مادة غازية في مذيب سائل، مثل: إذابة السكر في الماء، وأيضاً يمكن إذابة مادة غازية في مذيب سائل، مثل: إذابة الأكسجين في الماء والأخيرة تعتبر عملية طبيعية الحدوث.10‏/12‏/2020",
+            "title": "ما هو المحلول؟ – e3arabi – إي عربي",
+            "link": "https://e3arabi.com/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85/%D9%85%D8%A7-%D9%87%D9%88-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%88%D9%84%D8%9F/",
+            "displayed_link": "https://e3arabi.com › العلوم › ما-هو-المحلول؟"
+        },
+        {
+            "question": "هل يجوز الاكل مع المحلول؟",
+            "snippet": "بالطبع يمكن زيادة الداخل عن طريق الشرب بالفم، وهذا هو المسار الطبيعي، لكنه بطيء، وبالتالي ففي الحالات الخطيرة، لا مفر من اللجوء إلى المحاليل الوريدية، والتي تصب في الدم مباشرة، لتعوض ما فيه من نقص أولًا، وهذا الأخطر، لأن نقص حجم الدم، سيسبب هبوط الدورة الدموية، وعجزها عن تغذية الأجهزة الحيوية.20‏/08‏/2018",
+            "title": "8 أسئلة توضح لك الفائدة الحقيقية للمحلول في أقسام الطوارئ",
+            "link": "https://www.ida2at.com/intravenous-fluids-questions/",
+            "displayed_link": "https://www.ida2at.com › intravenous-fluids-questions"
+        },
+        {
+            "question": "ما فائدة المحلول؟",
+            "snippet": "أكثرها استخدامًا محلول الملح تركيز 0.9%: وهو عبارة عن كلوريد الصوديوم – ملح الطعام – مذاب في الماء. أيضا محلول الرينجر، الذي يحتوي على العديد من الأملاح الهامة بنسبة محسوبة مثل الصوديوم والبوتاسيوم والكالسيوم. هذه المحاليل الدارجة السابقة تستخدم بالأساس لتعويض الفقد الحاد في السوائل.",
+            "title": "المحاليل الوريدية - أنواعها واستخداماتها - FADIC",
+            "link": "https://fadic.net/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9-%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87%D8%A7-%D9%88%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7/",
+            "displayed_link": "https://fadic.net › المحاليل-الوريدية-أنواعها-واستخداما"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "محلول - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%84%D9%88%D9%84",
+            "displayed_link": "https://ar.wikipedia.org › wiki › محلول",
+            "snippet": "في الكيمياء، المحلول هو مزيج متجانس من مادتين نقيتين أو أكثر و لا يمكن عزلهما عن بعضهما البعض ، كالترشيح مثلاً ويتكون من مذيب ومذاب وغالبا يكون المذيب أكبر ...",
+            "snippet_highlighted_words": [
+                "المحلول"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "محلول ملحي (طب) - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%84%D9%88%D9%84_%D9%85%D9%84%D8%AD%D9%8A_(%D8%B7%D8%A8)",
+            "displayed_link": "https://ar.wikipedia.org › wiki › محلول_ملحي_(طب)",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/a8416227077a9026de8e38cf2dbe5ce42ec4b84587fb8dd33d329fecb122a7e6.jpeg",
+            "snippet": "المحلول الملحي هو محلول يتكون من كلوريد الصوديوم في الماء، ولديه عدد من الاستخدامات في مجال الطب، حيث يمكن استخدامه موضعيا لتنظيف الجروح، والمساعدة في إزالة ...",
+            "snippet_highlighted_words": [
+                "المحلول",
+                "محلول"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "طرق إعطاء الدواء: وريدي وموضعي وتحت الجلد",
+                        "يعالج: تجفاف",
+                        "ك ع ت: B05B05XA03 XA03",
+                        "المكون الفريد: 451W47IQ8X"
+                    ],
+                    "detected_extensions": {
+                        "ك_ع_ت_bbxa_xa": 5,
+                        "المكون_الفريد_wiqx": 451
+                    }
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "المحاليل الوريدية - أنواعها واستخداماتها - FADIC",
+            "link": "https://fadic.net/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9-%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87%D8%A7-%D9%88%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7/",
+            "displayed_link": "https://fadic.net › المحاليل-الوريدية-أنواعها-واستخداما",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/a8416227077a9026de8e38cf2dbe5ce4cff1f43567ee64aec622da3dff97af8d.jpeg",
+            "snippet": "أكثرها استخدامًا محلول الملح تركيز 0.9%: وهو عبارة عن كلوريد الصوديوم – ملح الطعام – مذاب في الماء. ومحلول سكر الجلوكوز تركيز 5%; أيضا محلول الرينجر، الذي ...",
+            "snippet_highlighted_words": [
+                "محلول",
+                "ومحلول",
+                "محلول"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "محلول الملح",
+                        "link": "https://fadic.net/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9-%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87%D8%A7-%D9%88%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7/#1"
+                    },
+                    {
+                        "title": "محلول المانيتول",
+                        "link": "https://fadic.net/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9-%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87%D8%A7-%D9%88%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7/#2"
+                    },
+                    {
+                        "title": "محلول الرينجر",
+                        "link": "https://fadic.net/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9-%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87%D8%A7-%D9%88%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7/#3"
+                    },
+                    {
+                        "title": "محلول الرينجر لاكتيت",
+                        "link": "https://fadic.net/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9-%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87%D8%A7-%D9%88%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7/#4"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "محلول - المعرفة",
+            "link": "https://www.marefa.org/%D9%85%D8%AD%D9%84%D9%88%D9%84",
+            "displayed_link": "https://www.marefa.org › محلول",
+            "thumbnail": "https://serpapi.com/searches/629e3d40edb03401c781b4f9/images/a8416227077a9026de8e38cf2dbe5ce407442c371d159c2c566616d08d3c6b75.jpeg",
+            "snippet": "محلول solution مزيج مادتين (أو أكثر) لا تتفاعل إحداهما مع الأخرى، بكميات نسبية يمكن أن تتغير ضمن حدود معينة. وقد يكون المحلول متجانساً أو ...",
+            "snippet_highlighted_words": [
+                "محلول solution",
+                "المحلول"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠١‏/١١‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "كيف يتكون المحلول - موضوع",
+            "link": "https://mawdoo3.com/%D9%83%D9%8A%D9%81_%D9%8A%D8%AA%D9%83%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%88%D9%84",
+            "displayed_link": "https://mawdoo3.com › كيمياء",
+            "snippet": "المحلول. ويعرف باللغة الإنجليزية بمصطلح (Solution)، وهو مزيج من مادتين أو أكثر من مادة واحدة، ولا يمكن إعادة فصلهما عن بعضهما البعض إلا من ...",
+            "snippet_highlighted_words": [
+                "المحلول",
+                "Solution"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٥‏/٠٧‏/٢٠١٨ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "محلول الملح: فوائده واستخداماته - ويب طب",
+            "link": "https://www.webteb.com/articles/%D9%85%D8%AD%D9%84%D9%88%D9%84-%D8%A7%D9%84%D9%85%D9%84%D8%AD-%D9%81%D9%88%D8%A7%D8%A6%D8%AF%D9%87-%D9%88%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA%D9%87_22548",
+            "displayed_link": "https://www.webteb.com › articles › محلول-الملح-فوائده...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6wzSzJFWig3Ia_cr0AjPpPMwzSK3FIxTo0ZQVcbHISlIepntWCWS&usqp=CAE&s",
+            "snippet": "لمحلول الملح أو سائل سالين (Saline solution) العديد من الاستخدامات والفوائد، ومن الممكن صناعته في المنزل بسهولة. فلنتعرف أكثر على فوائد ...",
+            "snippet_highlighted_words": [
+                "لمحلول",
+                "solution"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٣‏/٠٥‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "8 أسئلة توضح لك الفائدة الحقيقية للمحلول في أقسام الطوارئ",
+            "link": "https://www.ida2at.com/intravenous-fluids-questions/",
+            "displayed_link": "https://www.ida2at.com › intravenous-fluids-questions",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiYLSjVuhPGszeAHYCNxM1PVvttY_Y71tvc1QGhhmVtx1-RGWGy-Wi&usqp=CAE&s",
+            "snippet": "ومحلول سكر الجلوكوز تركيز 5%، و محلول الرينجر، الذي يحتوي على العديد ... في المحلول لتخفيفها، حتى لا تسبب ضررًا في الأوردة، وآلامًا للمريض.",
+            "snippet_highlighted_words": [
+                "ومحلول",
+                "محلول",
+                "المحلول"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٠‏/٠٨‏/٢٠١٨ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "محلول عدسات لاصقة متعدد الاستخدامات من ادور - Yaoota",
+            "link": "https://yaoota.com/ar-eg/product/adore-multipurpose-contact-lenses-solution-price-from-souq-egypt",
+            "displayed_link": "https://yaoota.com › ... › نظارات طبية",
+            "snippet": "For cleaning Disinfecting, preserving Moisturizing and rinsing contact lenses. الأكثر شهرة في نظارات طبيةالمزيد. مميزات وعيوب محلول عدسات لاصقة متعدد ...",
+            "snippet_highlighted_words": [
+                "محلول"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "نوع إكسسوارات النظارات: محلول العدسات اللاصقة",
+                        "وزن الحزمة: 158 grams",
+                        "اللون: متعدد الالوان"
+                    ],
+                    "detected_extensions": {
+                        "وزن_الحزمة_grams": 158
+                    }
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "محلول الجلوكوز",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84+%D8%A7%D9%84%D8%AC%D9%84%D9%88%D9%83%D9%88%D8%B2&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ1QJ6BAhMEAE"
+        },
+        {
+            "query": "محلول مشبع",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84+%D9%85%D8%B4%D8%A8%D8%B9&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ1QJ6BAhHEAE"
+        },
+        {
+            "query": "محلول الملح الوريدي",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84+%D8%A7%D9%84%D9%85%D9%84%D8%AD+%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ1QJ6BAhFEAE"
+        },
+        {
+            "query": "محلول ملحي",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84+%D9%85%D9%84%D8%AD%D9%8A&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ1QJ6BAhDEAE"
+        },
+        {
+            "query": "Normal saline محلول",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=Normal+saline+%D9%85%D8%AD%D9%84%D9%88%D9%84&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ1QJ6BAhCEAE"
+        },
+        {
+            "query": "محلول رينجر",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84+%D8%B1%D9%8A%D9%86%D8%AC%D8%B1&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ1QJ6BAhBEAE"
+        },
+        {
+            "query": "فوائد محلول الملح الوريدي",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%81%D9%88%D8%A7%D8%A6%D8%AF+%D9%85%D8%AD%D9%84%D9%88%D9%84+%D8%A7%D9%84%D9%85%D9%84%D8%AD+%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "محلول ملحي للانف",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84+%D9%85%D9%84%D8%AD%D9%8A+%D9%84%D9%84%D8%A7%D9%86%D9%81&sa=X&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ1QJ6BAg6EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&ei=Qj2eYofrE9mGqtsP97qPuAQ&start=10&sa=N&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&ei=Qj2eYofrE9mGqtsP97qPuAQ&start=10&sa=N&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&ei=Qj2eYofrE9mGqtsP97qPuAQ&start=20&sa=N&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&ei=Qj2eYofrE9mGqtsP97qPuAQ&start=30&sa=N&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&ei=Qj2eYofrE9mGqtsP97qPuAQ&start=40&sa=N&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&ei=Qj2eYofrE9mGqtsP97qPuAQ&start=50&sa=N&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&ei=Qj2eYofrE9mGqtsP97qPuAQ&start=60&sa=N&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&ei=Qj2eYofrE9mGqtsP97qPuAQ&start=70&sa=N&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&ei=Qj2eYofrE9mGqtsP97qPuAQ&start=80&sa=N&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D9%85%D8%AD%D9%84%D9%88%D9%84&gl=eg&hl=ar&ei=Qj2eYofrE9mGqtsP97qPuAQ&start=90&sa=N&ved=2ahUKEwiHlPXRsJn4AhVZg2oFHXfdA0cQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%AD%D9%84%D9%88%D9%84&start=90"
+        }
+    }
+}

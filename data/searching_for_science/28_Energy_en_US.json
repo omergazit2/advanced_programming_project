@@ -1,0 +1,588 @@
+{
+    "search_metadata": {
+        "id": "629e3dc411c88157faf9332d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/76e99f012e36dd7e/629e3dc411c88157faf9332d.json",
+        "created_at": "2022-06-06 17:47:48 UTC",
+        "processed_at": "2022-06-06 17:47:48 UTC",
+        "google_url": "https://www.google.com/search?q=Energy&oq=Energy&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/76e99f012e36dd7e/629e3dc411c88157faf9332d.html",
+        "total_time_taken": 1.7
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Energy",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Energy",
+        "total_results": 6360000000,
+        "time_taken_displayed": 0.66
+    },
+    "knowledge_graph": {
+        "title": "Energy",
+        "description": "In physics, energy is the quantitative property that is transferred to a body or to a physical system, recognizable in the performance of work and in the form of heat and light. Energy is a conserved quantity; the law of conservation of energy states that energy can be converted in form, but not created or destroyed.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Energy"
+        },
+        "dimension": "M L2 T−2",
+        "dimension_links": [
+            {
+                "text": "Dimension",
+                "link": "https://www.google.com/search?q=energy+dimension&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ6BMoAHoECH0QAg"
+            }
+        ],
+        "in_si_base_units": "J = kg m2 s−2",
+        "in_si_base_units_links": [
+            {
+                "text": "In SI base units",
+                "link": "https://www.google.com/search?q=energy+in+si+base+units&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ6BMoAHoECHwQAg"
+            }
+        ],
+        "other_units": "kW⋅h, BTU, calorie, eV, erg, foot-pound",
+        "other_units_links": [
+            {
+                "text": "Other units",
+                "link": "https://www.google.com/search?q=energy+other+units&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ6BMoAHoECHoQAg"
+            }
+        ],
+        "electricity_industry": [
+            {
+                "name": "Electric power industry",
+                "link": "https://www.google.com/search?q=Electric+power+industry&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVfiBLEMC7JTjLREspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55qWUFpcUZaYWL2IVd81JTQaykxUK8stTixQyIXKVO1gZAUjr2A9XAAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAhcEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Electric+power+industry&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVfiBLEMC7JTjLREspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55qWUFpcUZaYWL2IVd81JTQaykxUK8stTixQyIXKVO1gZAUjr2A9XAAAA",
+                "image": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/eb763f445bc1e7b6b9f37f256a976469e19768d795c147312d5408a824140ea87d3705fb35ad986320e633e479b1ef4f.jpeg"
+            },
+            {
+                "name": "Electricity generation",
+                "link": "https://www.google.com/search?q=Electricity+generation&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCsHKKkrREspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55qWUFpcUZaYWL2IVc81JTQaykzNLKhXSU_NSixJLMvPzdrAyAgDdZiDLVQAAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAhcEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Electricity+generation&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCsHKKkrREspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55qWUFpcUZaYWL2IVc81JTQaykzNLKhXSU_NSixJLMvPzdrAyAgDdZiDLVQAAAA",
+                "image": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/eb763f445bc1e7b6b9f37f256a976469e19768d795c147312d5408a824140ea82b3107271765b0dd34a6fc8958b30518.jpeg"
+            },
+            {
+                "name": "Electric power distribution",
+                "link": "https://www.google.com/search?q=Electric+power+distribution&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVfiArGMCy3LTbO0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyeeallBaXFGWmFi9ilXbNSU0GspMVCvLLU4sUUjJBMkmlJZn5eTtYGQFqTc1AXAAAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAhcEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Electric+power+distribution&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVfiArGMCy3LTbO0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyeeallBaXFGWmFi9ilXbNSU0GspMVCvLLU4sUUjJBMkmlJZn5eTtYGQFqTc1AXAAAAA",
+                "image": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/eb763f445bc1e7b6b9f37f256a976469e19768d795c147312d5408a824140ea8b9c667a3c6a68368f622b6ed833e2512.png"
+            },
+            {
+                "name": "Electrical energy",
+                "link": "https://www.google.com/search?q=Electrical+energy&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVfiArHyTMuTjbK1RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyeeallBaXFGWmFi9iFXTNSU0GspMTcxRS81KL0it3sDICANOJkQpSAAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAhcEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Electrical+energy&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVfiArHyTMuTjbK1RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyeeallBaXFGWmFi9iFXTNSU0GspMTcxRS81KL0it3sDICANOJkQpSAAAA",
+                "image": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/eb763f445bc1e7b6b9f37f256a976469e19768d795c147312d5408a824140ea808cc34ea7386f9fb0f93f4e420c564ba.jpeg"
+            }
+        ],
+        "electricity_industry_link": "https://www.google.com/search?q=Electricity+Industry&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55qWUFpcUZaYWL2IVcc1JTQaykzNLKhWgEpU7WBkBz_CjnFMAAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQMSgAegQIXBAB",
+        "electricity_industry_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55qWUFpcUZaYWL2IVcc1JTQaykzNLKhWgEpU7WBkBz_CjnFMAAAA",
+        "energy_inventions": [
+            {
+                "name": "Electricity",
+                "link": "https://www.google.com/search?q=Electricity&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCsHJKirVEspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55pWl5pVk5ucVL2Llds1JTS4pykzOLKncwcoIAKndKSFKAAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAhdEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Electricity&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCsHJKirVEspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55pWl5pVk5ucVL2Llds1JTS4pykzOLKncwcoIAKndKSFKAAAA",
+                "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRllqtVtqCNqbM0N4mEapHhr3Dwtr_ZUYHKe87VnAuOrjnKhx_ZQBqYVrD0tkhiOSR58PI"
+            },
+            {
+                "name": "Electric generator",
+                "link": "https://www.google.com/search?q=Electric+generator&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVcCs3JMUqq0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyeeaVpeaVZObnFS9iFXLNSU0uKcpMVkhPzUstSizJL9rByggA8dDHvlEAAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAhdEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Electric+generator&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVcCs3JMUqq0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyeeaVpeaVZObnFS9iFXLNSU0uKcpMVkhPzUstSizJL9rByggA8dDHvlEAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Xpihg8F1j471MVd2GR1BH0BgzQug_xBJPn8xYm1DzcXXBGBK9RMd13-Z3OdR0RX_atU"
+            },
+            {
+                "name": "Wind turbine",
+                "link": "https://www.google.com/search?q=Wind+Turbine&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVfiBLEMU4ziq7REspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55pWl5pVk5ucVL2LlCc_MS1EIKS1KysxL3cHKCAA7w5-rTAAAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAhdEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wind+Turbine&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVfiBLEMU4ziq7REspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55pWl5pVk5ucVL2LlCc_MS1EIKS1KysxL3cHKCAA7w5-rTAAAAA",
+                "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG2fbTzcoHzWJcLhdyRoakEb55xROK4BdIh5jGg-th9KN_DNaWgVT1NEWBpxDqynZ2av4"
+            },
+            {
+                "name": "Turbine",
+                "link": "https://www.google.com/search?q=Turbine&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVcCs8xzTNO1RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyeeaVpeaVZObnFS9iZQ8pLUrKzEvdwcoIANJbdaBGAAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAhdEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Turbine&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVcCs8xzTNO1RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyeeaVpeaVZObnFS9iZQ8pLUrKzEvdwcoIANJbdaBGAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMSLu1kXmOIlBVApiIiGQVQtnoGBGYOhiy5KhdteSDjU0g4fHsIB-EC_5nwQM1L-QtkWw"
+            }
+        ],
+        "energy_inventions_link": "https://www.google.com/search?q=Energy+Inventions&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55pWl5pVk5ucVL2IVdM1LLUqvVECI7WBlBAD4kbdAUAAAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQMSgAegQIXRAB",
+        "energy_inventions_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMXJ55pWl5pVk5ucVL2IVdM1LLUqvVECI7WBlBAD4kbdAUAAAAA",
+        "people_also_search_for": [
+            {
+                "name": "Matter",
+                "link": "https://www.google.com/search?q=Matter&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVUV2Gke66iRPvTElRUA9IBXoXZ8yze-rYrgQXTfPNA6Dnn8LDgRF9BF6LFfB7TEUChAeuPL3hpTeOipzd-K_HDVEaiJOjxD44Jl2aqyGuaz02Rld_pAQojTbhByY5Y5lm_huRJwQmZoOHdY6Ey9tGkbeh8TeOahhcMK9hrOgY18kEDprV3pNA8q73n-5Q7ey-ARIOMsWaLCi_MlEtr8796trdi8GeDIE9mEF2tkYeYtVYvdQw%3D%3D&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAheEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Matter&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVUV2Gke66iRPvTElRUA9IBXoXZ8yze-rYrgQXTfPNA6Dnn8LDgRF9BF6LFfB7TEUChAeuPL3hpTeOipzd-K_HDVEaiJOjxD44Jl2aqyGuaz02Rld_pAQojTbhByY5Y5lm_huRJwQmZoOHdY6Ey9tGkbeh8TeOahhcMK9hrOgY18kEDprV3pNA8q73n-5Q7ey-ARIOMsWaLCi_MlEtr8796trdi8GeDIE9mEF2tkYeYtVYvdQw%3D%3D",
+                "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5lTG2hL-5tOzlWPPwq32aw7wK9-DI_aLZ4q1bgZDxxiXOGOAxJf_4K4pY2RB2kbgPvq4"
+            },
+            {
+                "name": "Wind power",
+                "link": "https://www.google.com/search?q=Wind+power&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgNJmnJ6dqU-Gb5q6ElO-kbP5mKspPKyZ4WRsAgnyCY9WtFeeZiwQPPtw_V9TPhB8gnKekP6L5GNklz4txHxb3y3WVpyvEU85a1aHJJ3G7HIiBUVOF7AgByVJ_YqA1TgFhXXFlxlNdIJrxelLJIC0fauEfk90E-422110TCj2k-SidLrStL6yMrCdNwSLsXUAtNkbEN99SM_1iqm68e-LkFdlcWpDZGasLVhiBjw4AP8_B-w0qXgdAy4AkkQvNo21m34I9GU%3D&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAheEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Wind+power&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgNJmnJ6dqU-Gb5q6ElO-kbP5mKspPKyZ4WRsAgnyCY9WtFeeZiwQPPtw_V9TPhB8gnKekP6L5GNklz4txHxb3y3WVpyvEU85a1aHJJ3G7HIiBUVOF7AgByVJ_YqA1TgFhXXFlxlNdIJrxelLJIC0fauEfk90E-422110TCj2k-SidLrStL6yMrCdNwSLsXUAtNkbEN99SM_1iqm68e-LkFdlcWpDZGasLVhiBjw4AP8_B-w0qXgdAy4AkkQvNo21m34I9GU%3D",
+                "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTx7zuX1aajVHP_bC_ZUrNx6NYOi4631W1vqZ3ji_8nWz9d_yXU7GNurKlRYLC6AqRmJnY"
+            },
+            {
+                "name": "Electricity",
+                "link": "https://www.google.com/search?q=Electricity&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfkhNpmOThbf6Cun-YwQyZjYWSXzgFqFZx1xVVN3bsv2auTAp3VRCntysMx2AcuVcOpUInVyyxkq2PKgs2UpsOYdkp2Xd5wZyYGL9mZZ8dfEPCMnBHEVYWJN4toT-CuY-hI3TzZ2kIMDFWDGb0UGUBwhIQVDP8uRhHeDgneyEGIic9B9tCnTHo5Tg2FFV5xUjrDRcoWaEcyEdT3bfGPrjMYRWNSbdofq1HY9l9R_DatAY1m6wFF1VWS_6bz3UIFYBlL6ClE%3D&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAheEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Electricity&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfkhNpmOThbf6Cun-YwQyZjYWSXzgFqFZx1xVVN3bsv2auTAp3VRCntysMx2AcuVcOpUInVyyxkq2PKgs2UpsOYdkp2Xd5wZyYGL9mZZ8dfEPCMnBHEVYWJN4toT-CuY-hI3TzZ2kIMDFWDGb0UGUBwhIQVDP8uRhHeDgneyEGIic9B9tCnTHo5Tg2FFV5xUjrDRcoWaEcyEdT3bfGPrjMYRWNSbdofq1HY9l9R_DatAY1m6wFF1VWS_6bz3UIFYBlL6ClE%3D",
+                "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRllqtVtqCNqbM0N4mEapHhr3Dwtr_ZUYHKe87VnAuOrjnKhx_ZQBqYVrD0tkhiOSR58PI"
+            },
+            {
+                "name": "Power",
+                "link": "https://www.google.com/search?q=Power+(physics)&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNday4rZvvifW5VBk1P2ZlRy356y7X0Lrfn6rrNS5x35rq3FFXcJC8rRc6UjFF5aBtf-UBbzxjEKtYtmvdtzXiEK6WC8EWgi_UhCame60Ls_lvJXdcyCd1NOhwbI_0DxHVZaprtqESPbMKhdO8OYf5PrpSzecN2LshyqtPgOY8HGWCQTfYkSloBOmu8QYjW6rV7Qf-XWJgoXArY7Jvp-zFPrDfvT3-Da34-UN5-jPGT8cpbSYn3cejLHvo3v3mNVd1yfT7w8Q%3D&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQxA16BAheEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Power+%28physics%29&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNday4rZvvifW5VBk1P2ZlRy356y7X0Lrfn6rrNS5x35rq3FFXcJC8rRc6UjFF5aBtf-UBbzxjEKtYtmvdtzXiEK6WC8EWgi_UhCame60Ls_lvJXdcyCd1NOhwbI_0DxHVZaprtqESPbMKhdO8OYf5PrpSzecN2LshyqtPgOY8HGWCQTfYkSloBOmu8QYjW6rV7Qf-XWJgoXArY7Jvp-zFPrDfvT3-Da34-UN5-jPGT8cpbSYn3cejLHvo3v3mNVd1yfT7w8Q%3D",
+                "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5VoV8DhwF-K2DhFxf-PAXXUxfvmU5Nq61TLlyn0-9H4ZgO8SSmt3AR6GHl1EAmJ2QeQ"
+            }
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?q=Energy&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCs7QEgzNTUssTK4v9UitKgktSC4oXsbK55qUWpVfuYGUEADXNgus1AAAA&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQMSgAegQIXhAB",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCs7QEgzNTUssTK4v9UitKgktSC4oXsbK55qUWpVfuYGUEADXNgus1AAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Drake - Energy",
+            "link": "https://www.youtube.com/watch?v=7LnBvuzjpr4",
+            "thumbnail": "https://i.ytimg.com/vi/7LnBvuzjpr4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kvZfbjH87gCNwSpVASLPehJi63UQ",
+            "channel": "DrakeVEVO",
+            "duration": "2:58",
+            "platform": "YouTube",
+            "date": "Aug 18, 2015"
+        },
+        {
+            "position": 2,
+            "title": "Disclosure - ENERGY",
+            "link": "https://www.youtube.com/watch?v=yoZ5opH51lA",
+            "thumbnail": "https://i.ytimg.com/vi/yoZ5opH51lA/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3n70jdAi2Jbd5NgFke9yUfGh36-xg",
+            "channel": "DisclosureVEVO",
+            "duration": "4:32",
+            "platform": "YouTube",
+            "date": "May 21, 2020"
+        },
+        {
+            "position": 3,
+            "title": "Energy secretary: Gas prices will be 'rough... through the end ...",
+            "link": "https://www.youtube.com/watch?v=XdY7l3qvnmo",
+            "thumbnail": "https://i.ytimg.com/vi/XdY7l3qvnmo/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3k0CC1F0-8R5sg0Le-9v6iX1R825g",
+            "channel": "ABC News",
+            "duration": "6:33",
+            "platform": "YouTube",
+            "date": "2 days ago"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Biden aims to jump-start solar energy projects stalled by probe",
+            "link": "https://www.latimes.com/politics/story/2022-06-06/biden-aims-to-jumpstart-solar-energy-projects-stalled-by-probe",
+            "source": "Los Angeles Times",
+            "date": "1 hour ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh7kZI6mwRRUqaktzKTyQNVBZ06WxRcpf-wHdqkonLA1L_SojP-Y6FYaEwfw&usqp=CAI&s=10"
+        },
+        {
+            "title": "Biden announces new executive actions to spur domestic solar, clean energy development",
+            "link": "https://www.cnn.com/2022/06/06/politics/biden-executive-action-solar-clean-energy-development/index.html",
+            "source": "CNN",
+            "date": "1 hour ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFHi5VHWnwUaDX8y20IjNqLe17lJns3ohk8sCnLxP5xzQSOYr-8RVYrc&usqp=CAI&s"
+        },
+        {
+            "title": "Biden administration to invoke Defense Production Act for solar industry, other clean tech",
+            "link": "https://www.axios.com/2022/06/06/biden-solar-panels-federal-support",
+            "source": "Axios",
+            "date": "4 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqMTePOB_GDDF6joKioblmitNoD_or9WzfNGcqCdg&usqp=CAI&s"
+        },
+        {
+            "title": "Biden invokes Defense Production Act to expand clean energy production",
+            "link": "https://www.foxbusiness.com/politics/biden-invokes-defense-production-act-to-expand-clean-energy-production",
+            "source": "Fox Business",
+            "date": "1 hour ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST4RcArbFe4WTOOhBROc0GH1FNItygB7_zF5X0vOk5VjNcO8mZJOuKy2Q&usqp=CAI&s"
+        },
+        {
+            "title": "Biden moves to ease trade turmoil threatening his solar energy ambitions",
+            "link": "https://www.politico.com/news/2022/06/06/biden-solar-power-equipment-imports-00037359",
+            "source": "Politico",
+            "date": "3 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnPOW5LgGKuUPcQDJgCytMMhPxz0yEfPNbPeNGtN4XbBoiwvdXirMS9I&usqp=CAI&s"
+        },
+        {
+            "title": "The world may be careening toward a 1970s-style energy crisis -- or worse",
+            "link": "https://www.cnn.com/2022/06/02/business/energy-crisis-inflation/index.html",
+            "source": "CNN",
+            "date": "3 days ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnzLUsvRtOVOTDMm2tuX3Lfks9CE2dN6gqU66K0Ma92S6KW9QzevxHqKM&usqp=CAI&s"
+        },
+        {
+            "title": "China's Renewable Energy Fleet Is Growing Too Fast for Its Grid",
+            "link": "https://www.bloomberg.com/news/articles/2022-06-06/china-s-renewable-energy-fleet-is-growing-too-fast-for-its-grid-l425v47z",
+            "source": "Bloomberg.com",
+            "date": "14 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGyGqxQcBinC_AZ6JfvL0djm5SjQ7603-YX8A2jwLv8_-NEvcbD5hV08M&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?q=Energy&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQt8YBegQIRBAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&tbm=nws",
+    "related_questions": [
+        {
+            "question": "What is a energy in science?",
+            "snippet": "Energy is defined as the “ability to do work, which is the ability to exert a force causing displacement of an object.” Despite this confusing definition, its meaning is very simple: energy is just the force that causes things to move. Energy is divided into two types: potential and kinetic.",
+            "title": "Physics of Energy | Canada Science and Technology Museum - Ingenium",
+            "link": "https://ingeniumcanada.org/scitech/education/tell-me-about/physics-of-energy",
+            "displayed_link": "https://ingeniumcanada.org › education › tell-me-about"
+        },
+        {
+            "question": "How many types of energy are there?",
+            "snippet": "Energy comes in six basic forms: chemical, electrical, radiant, mechanical, thermal and nuclear. In other research, you may find additional forms mentioned such as electrochemical, sound, electromagnetic and others. However, many additional forms are combinations of these six basic categories.",
+            "title": "Energy-Curriculum-Forms.pdf - Clay Center",
+            "link": "https://www.theclaycenter.org/wp-content/uploads/2016/10/Energy-Curriculum-Forms.pdf",
+            "displayed_link": "https://www.theclaycenter.org › uploads › 2016/10 › Ener..."
+        },
+        {
+            "question": "What is energy and types of energy?",
+            "snippet": "Energy exists in many different forms. Examples of these are: light energy, heat energy, mechanical energy, gravitational energy, electrical energy, sound energy, chemical energy, nuclear or atomic energy and so on. Each form can be converted or changed into the other forms.",
+            "title": "Forms of Energy - Vikaspedia",
+            "link": "https://vikaspedia.in/energy/energy-basics/forms-of-energy",
+            "displayed_link": "https://vikaspedia.in › energy › energy-basics › forms-of-..."
+        },
+        {
+            "question": "What are the 5 sources of energy?",
+            "title": "There are five major renewable energy sources",
+            "link": "https://www.eia.gov/energyexplained/what-is-energy/sources-of-energy.php",
+            "list": [
+                "Solar energy from the sun.",
+                "Geothermal energy from heat inside the earth.",
+                "Wind energy.",
+                "Biomass from plants.",
+                "Hydropower from flowing water."
+            ],
+            "displayed_link": "https://www.eia.gov › energyexplained › sources-of-energy"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Energy is the capacity for doing work. It may exist in potential, kinetic, thermal, helectrical, chemical, nuclear, or other forms.",
+        "link": "https://www.britannica.com/science/energy#:~:text=Energy%20is%20the%20capacity%20for,%2C%20nuclear%2C%20or%20other%20forms.",
+        "displayed_link": "https://www.britannica.com › ... › Matter & Energy",
+        "snippet": "Energy is the capacity for doing work. It may exist in potential, kinetic, thermal, helectrical, chemical, nuclear, or other forms.",
+        "people_also_search_for": [],
+        "about_this_result": {
+            "source": {
+                "description": "britannica.com was first indexed by Google more than 10 years ago",
+                "icon": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/86bc5d9e46ef46d7e190e3f84cb4c9432a68bee433db747ae3bbf650cff7673d315be432963856688278d7e1908a3663.png"
+            },
+            "keywords": [
+                "energy"
+            ],
+            "languages": [
+                "English"
+            ],
+            "regions": [
+                "the United States"
+            ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/energy&tbm=ilp&ilps=ADNMCi1GpxtDDFGjwUj-n8Z-9EjQuNfn0g"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Department of Energy",
+            "link": "https://www.energy.gov/",
+            "displayed_link": "https://www.energy.gov",
+            "snippet": "The Department of Energy is delivering a clean energy future that creates good-paying, union jobs for communities in every pocket of the United States.",
+            "snippet_highlighted_words": [
+                "Energy",
+                "energy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The United States Department of Energy is an executive department of the U.S. federal government that oversees U.S. national energy policy and manages the research and development of nuclear power and nuclear weapons in the United States.",
+                    "icon": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/fb9f4354b32a95dd183f6f192f97384904984fda6108436f1b6016a2e08800f0b152a0c40f122c73fc6c40c8862983e0.png"
+                },
+                "keywords": [
+                    "energy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.energy.gov/&tbm=ilp&ilps=ADNMCi1n9l5Gtsu50uJP7oI_2Gnh6P-Kig",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6aqQwYIssBQJ:https://www.energy.gov/+&cd=13&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Entergy | We Power Life",
+            "link": "https://www.entergy.com/",
+            "displayed_link": "https://www.entergy.com",
+            "snippet": "Entergy Corporation is an integrated energy company that delivers electricity to 3 million utility customers in Arkansas, Louisiana, Mississippi and Texas.",
+            "snippet_highlighted_words": [
+                "energy"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Residential Customers",
+                        "link": "https://www.entergy.com/residential/"
+                    },
+                    {
+                        "title": "About Us",
+                        "link": "https://www.entergy.com/about_entergy/"
+                    },
+                    {
+                        "title": "Operations",
+                        "link": "https://www.entergy.com/operations-information/"
+                    },
+                    {
+                        "title": "Business Customers",
+                        "link": "https://www.entergy.com/business/"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Entergy Corporation is a Fortune 500 integrated energy company engaged primarily in electric power production and retail distribution operations in the Deep South of the United States.",
+                    "icon": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/fb9f4354b32a95dd183f6f192f973849ed4279e49ec71bcc4abd63bf57f60d7febdfc33f14bd5b713f7ceb1ae8e3cddd.png"
+                },
+                "keywords": [
+                    "energy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.entergy.com/&tbm=ilp&ilps=ADNMCi3e_BWxBnaprtTRmanNtwmQ5Xr4kg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OgbsaALx7awJ:https://www.entergy.com/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Energy - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Energy",
+            "displayed_link": "https://en.wikipedia.org › wiki › Energy",
+            "snippet": "In physics, energy is the quantitative property that is transferred to a body or to a physical system, recognizable in the performance of work and in the ...",
+            "snippet_highlighted_words": [
+                "energy"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Forms",
+                        "link": "https://en.wikipedia.org/wiki/Energy#Forms"
+                    },
+                    {
+                        "title": "History",
+                        "link": "https://en.wikipedia.org/wiki/Energy#History"
+                    },
+                    {
+                        "title": "Scientific use",
+                        "link": "https://en.wikipedia.org/wiki/Energy#Scientific_use"
+                    },
+                    {
+                        "title": "Transformation",
+                        "link": "https://en.wikipedia.org/wiki/Energy#Transformation"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/fb9f4354b32a95dd183f6f192f9738497e5171601b634888634a5c1db4ec12cd2ee076effc40a9abf04d332c59769059.png"
+                },
+                "keywords": [
+                    "energy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Energy&tbm=ilp&ilps=ADNMCi0FSWqOk07nmn1sSJZoJAv9pzMT3Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:82un8AOZN5oJ:https://en.wikipedia.org/wiki/Energy+&cd=18&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Energy+Energy"
+        },
+        {
+            "position": 4,
+            "title": "Homepage - U.S. Energy Information Administration (EIA)",
+            "link": "https://www.eia.gov/",
+            "displayed_link": "https://www.eia.gov",
+            "snippet": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government.",
+            "snippet_highlighted_words": [
+                "Energy",
+                "Energy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The U.S. Energy Information Administration is a principal agency of the U.S. Federal Statistical System responsible for collecting, analyzing, and disseminating energy information to promote sound ...",
+                    "icon": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/fb9f4354b32a95dd183f6f192f973849417f1cdd6247eed912080858f1648060145d3bb5a9ee43d6cfe678b48d2a9524.png"
+                },
+                "keywords": [
+                    "energy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.eia.gov/&tbm=ilp&ilps=ADNMCi0w6LCU4OZwNTA-nucdLTNs4S83JQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:r0JZP-sPWdAJ:https://www.eia.gov/+&cd=29&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.eia.gov/+Energy",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "What is energy? explained - EIA",
+                    "link": "https://www.eia.gov/energyexplained/what-is-energy/",
+                    "displayed_link": "https://www.eia.gov › energyexplained › what-is-energy",
+                    "snippet": "Energy is the ability to do work · Heat · Light · Motion · Electrical · Chemical · Gravitational.",
+                    "snippet_highlighted_words": [
+                        "Energy"
+                    ],
+                    "about_this_result": {
+                        "source": {
+                            "description": "The U.S. Energy Information Administration is a principal agency of the U.S. Federal Statistical System responsible for collecting, analyzing, and disseminating energy information to promote sound ...",
+                            "icon": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/fb9f4354b32a95dd183f6f192f973849bf3bec18f5da00e989bd9410d6523f79b7b41c14afe185edc3a891b1b5f62ff398ef742fdc600de227041ab01487ae3f8573573e6348f807.png"
+                        },
+                        "keywords": [
+                            "energy"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.eia.gov/energyexplained/what-is-energy/&tbm=ilp&ilps=ADNMCi3LwQ-SsLmhJkf_kek9_o5M9wEwjg",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:93l-Ti5lUncJ:https://www.eia.gov/energyexplained/what-is-energy/+&cd=30&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "title": "ENERGY STAR | The simple choice for energy efficiency.",
+            "link": "https://www.energystar.gov/",
+            "displayed_link": "https://www.energystar.gov",
+            "snippet": "ENERGY STAR is the simple choice for energy efficiency. For more than 20 years, EPA's ENERGY STAR program has been America's resource for saving energy and ...",
+            "snippet_highlighted_words": [
+                "ENERGY",
+                "energy",
+                "ENERGY",
+                "energy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Energy Star is a program run by the U.S. Environmental Protection Agency and U.S. Department of Energy that promotes energy efficiency. The program provides information on the energy consumption of products and devices using different standardized methods.",
+                    "icon": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/fb9f4354b32a95dd183f6f192f973849dc907b873cfedf9b75cb314b59fe5289668972f7bc9b289819cd89733939b01f.png"
+                },
+                "keywords": [
+                    "energy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.energystar.gov/&tbm=ilp&ilps=ADNMCi2QYxTnNHL_8BzsVLRHkInoXU2flQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nx2empqpoXAJ:https://www.energystar.gov/+&cd=31&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.energystar.gov/+Energy"
+        },
+        {
+            "position": 6,
+            "title": "DTE Energy Home | DTE Energy",
+            "link": "https://www.newlook.dteenergy.com/",
+            "displayed_link": "https://www.newlook.dteenergy.com",
+            "snippet": "DTE Energy is a Detroit-based diversified energy company involved in the development and management of energy-related businesses and services nationwide.",
+            "snippet_highlighted_words": [
+                "Energy",
+                "energy",
+                "energy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "DTE Energy is a Detroit-based diversified energy company involved in the development and management of energy-related businesses and services in the United States and Canada.",
+                    "icon": "https://serpapi.com/searches/629e3dc411c88157faf9332d/images/fb9f4354b32a95dd183f6f192f9738497e2e2181803e650be548aeba647a4b98aba07a24550a5d5e8a19d547f872f801.png"
+                },
+                "keywords": [
+                    "energy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.newlook.dteenergy.com/&tbm=ilp&ilps=ADNMCi21B2uMIK3rutExU7kuv2Ltayp8LQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q3KsGxL3BIAJ:https://www.newlook.dteenergy.com/+&cd=32&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "energy bill",
+            "link": "https://www.google.com/search?q=Energy+bill&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "energy company",
+            "link": "https://www.google.com/search?q=Energy+company&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "energy journal",
+            "link": "https://www.google.com/search?q=Energy+journal&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "energy in physics",
+            "link": "https://www.google.com/search?q=Energy+in+physics&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "energy types",
+            "link": "https://www.google.com/search?q=Energy+types&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ1QJ6BAguEAE"
+        },
+        {
+            "query": "energy formula",
+            "link": "https://www.google.com/search?q=Energy+formula&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "energy synonym",
+            "link": "https://www.google.com/search?q=Energy+synonym&sa=X&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ1QJ6BAg0EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Energy&ei=xT2eYurYG9OHqtsPxIyuqAo&start=10&sa=N&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ8NMDegQIAxBM",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Energy&ei=xT2eYurYG9OHqtsPxIyuqAo&start=10&sa=N&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ8tMDegQIAxA6",
+            "3": "https://www.google.com/search?q=Energy&ei=xT2eYurYG9OHqtsPxIyuqAo&start=20&sa=N&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ8tMDegQIAxA8",
+            "4": "https://www.google.com/search?q=Energy&ei=xT2eYurYG9OHqtsPxIyuqAo&start=30&sa=N&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ8tMDegQIAxA-",
+            "5": "https://www.google.com/search?q=Energy&ei=xT2eYurYG9OHqtsPxIyuqAo&start=40&sa=N&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ8tMDegQIAxBA",
+            "6": "https://www.google.com/search?q=Energy&ei=xT2eYurYG9OHqtsPxIyuqAo&start=50&sa=N&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ8tMDegQIAxBC",
+            "7": "https://www.google.com/search?q=Energy&ei=xT2eYurYG9OHqtsPxIyuqAo&start=60&sa=N&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ8tMDegQIAxBE",
+            "8": "https://www.google.com/search?q=Energy&ei=xT2eYurYG9OHqtsPxIyuqAo&start=70&sa=N&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ8tMDegQIAxBG",
+            "9": "https://www.google.com/search?q=Energy&ei=xT2eYurYG9OHqtsPxIyuqAo&start=80&sa=N&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ8tMDegQIAxBI",
+            "10": "https://www.google.com/search?q=Energy&ei=xT2eYurYG9OHqtsPxIyuqAo&start=90&sa=N&ved=2ahUKEwiqz7iQsZn4AhXTg2oFHUSGC6UQ8tMDegQIAxBK"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Energy&start=90"
+        }
+    }
+}

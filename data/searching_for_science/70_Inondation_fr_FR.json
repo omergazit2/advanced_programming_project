@@ -1,0 +1,330 @@
+{
+    "search_metadata": {
+        "id": "627cffffd5ecf45784f4ccf8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c59cf1f699d0127a/627cffffd5ecf45784f4ccf8.json",
+        "created_at": "2022-05-12 12:39:27 UTC",
+        "processed_at": "2022-05-12 12:39:27 UTC",
+        "google_url": "https://www.google.com/search?q=Inondation&oq=Inondation&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=&hl=fr&gl=FR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c59cf1f699d0127a/627cffffd5ecf45784f4ccf8.html",
+        "total_time_taken": 0.74
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Inondation",
+        "uule": "w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=",
+        "google_domain": "google.com",
+        "hl": "fr",
+        "gl": "FR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Inondation",
+        "total_results": 17200000,
+        "time_taken_displayed": 0.56
+    },
+    "knowledge_graph": {
+        "title": "Inondation",
+        "type": "Type de catastrophe",
+        "description": "Une inondation est une submersion temporaire, naturelle ou artificielle, d'un espace par de l'eau liquide. Ce terme est fréquemment utilisé pour décrire : le débordement d'un cours d'eau, en crue puis en décrue, sur les terrains voisins ; l'eau est répandue dans les talwegs et les dépressions topographiques ;",
+        "source": {
+            "name": "Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/Inondation"
+        },
+        "recherches_associées": [
+            {
+                "name": "Sécheresse",
+                "link": "https://www.google.com/search?hl=fr&gl=FR&q=S%C3%A9cheresse&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTZI-CMKDLG4_mG9HGjgWfWQI-jNfoW7pv1BzpsvPdJVlwwuzjdpcOrnc-Q_q_qrVHUh_Jc4Yqn75ddXipu3EV8hNopckrKZB7VngMVsC2yGPynwuUoFk19xIXjXAbq94MPzu9rxgb6VMHt9Ne2XuHhdEorGYG3bz5lNfSkJoIP4Nn-zRWWz8MdxO3XtyOuur_aPhM7jYUgNVlEdpkY4dTs_OuxELRc-4GRTUGWAPvqoGwlmc-nPOgTTgC-ipiUIO9QBfck%3D&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08QxA16BAhTEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTZI-CMKDLG4_mG9HGjgWfWQI-jNfoW7pv1BzpsvPdJVlwwuzjdpcOrnc-Q_q_qrVHUh_Jc4Yqn75ddXipu3EV8hNopckrKZB7VngMVsC2yGPynwuUoFk19xIXjXAbq94MPzu9rxgb6VMHt9Ne2XuHhdEorGYG3bz5lNfSkJoIP4Nn-zRWWz8MdxO3XtyOuur_aPhM7jYUgNVlEdpkY4dTs_OuxELRc-4GRTUGWAPvqoGwlmc-nPOgTTgC-ipiUIO9QBfck%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffffd5ecf45784f4ccf8/images/5c9c28e920c3646e51cbd398d41d2d410449525774c75206da057fd1e2c590c467e91c48e90aaaf109c6a666b869d64a.jpeg"
+            },
+            {
+                "name": "Tempête",
+                "link": "https://www.google.com/search?hl=fr&gl=FR&q=Temp%C3%AAte&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQ3373K9AWNAYEbgj7R9Uf4VCD-ErV0Vkj3v06W9yHWC8n79XKpoGdy1q452km733Q8ok9PfG5ePcnQTXANy9PivHuoCG_iHFKN8g4Eg5HeUjcypEetprZ-sprs_vXwgmpUTJJGYuUm6RUwdYjdhkfV5XKksyDMuH_tXdSkH9hRykMGyx1ziyJGc1gAv-MRgxS22dv6_pGtqvXZB1F38AcaPdhQW24KZtLdk_Eo1RJv0gmjyyWB80HROOUx7_vuVmOk6PsE%3D&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08QxA16BAhTEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Temp%C3%AAte&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQ3373K9AWNAYEbgj7R9Uf4VCD-ErV0Vkj3v06W9yHWC8n79XKpoGdy1q452km733Q8ok9PfG5ePcnQTXANy9PivHuoCG_iHFKN8g4Eg5HeUjcypEetprZ-sprs_vXwgmpUTJJGYuUm6RUwdYjdhkfV5XKksyDMuH_tXdSkH9hRykMGyx1ziyJGc1gAv-MRgxS22dv6_pGtqvXZB1F38AcaPdhQW24KZtLdk_Eo1RJv0gmjyyWB80HROOUx7_vuVmOk6PsE%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffffd5ecf45784f4ccf8/images/5c9c28e920c3646e51cbd398d41d2d410449525774c75206da057fd1e2c590c498934e70a1c646e447e1b391f86238be.jpeg"
+            },
+            {
+                "name": "Tornade",
+                "link": "https://www.google.com/search?hl=fr&gl=FR&q=Tornade&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbUDyOvSmpu2qP-bggHNeD_30cizTaG4pcQQwz3IjB93-XdUrlBgE-UemEYMdwX0tcthg6frfQ0_82bBufU-SAcL0ODWRenRKZUfJChZToJ9HopjodXjGZxahNL-b9jxMWYUKfJNHnz49i-gckAkct0YRYz_8f7e0rY-Ivd4ybZRx_VchRQzchgYNQPPj7J7KYatoitUk1HUT0NIZQmC1tdqUqmIf-WorH_Y7qvRvnR-XHskbw%3D%3D&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08QxA16BAhTEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Tornade&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbUDyOvSmpu2qP-bggHNeD_30cizTaG4pcQQwz3IjB93-XdUrlBgE-UemEYMdwX0tcthg6frfQ0_82bBufU-SAcL0ODWRenRKZUfJChZToJ9HopjodXjGZxahNL-b9jxMWYUKfJNHnz49i-gckAkct0YRYz_8f7e0rY-Ivd4ybZRx_VchRQzchgYNQPPj7J7KYatoitUk1HUT0NIZQmC1tdqUqmIf-WorH_Y7qvRvnR-XHskbw%3D%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffffd5ecf45784f4ccf8/images/5c9c28e920c3646e51cbd398d41d2d410449525774c75206da057fd1e2c590c42bf0efde1696e8d1b49b21ea6b118d21.jpeg"
+            },
+            {
+                "name": "Catastrophe naturelle",
+                "link": "https://www.google.com/search?hl=fr&gl=FR&q=Catastrophe+naturelle&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdV6tsEyy-YiKofLIRiM4LNvZC2CM81WyTOhId6PwrbjraeMF_F9IuUq1z56TvW-K5EjAfSQ9mFQlHGwQHyL4K8hh1PXA3MxsJ55NrEq0iEu-zhgj8OAuLhq5ocUhacI99xXaqGYA7xmkGH0EKFHY2EQWxy-3kWI7dTRQfho1aHnVQgmyCAK6TBpG4RS8Qo1wZw28qJXlykDxNJpKBDm79r0TOTzcFicrWMjWC5Xuzx2ydFFl25436N5miKjoPGRDcIoFbSw%3D&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08QxA16BAhTEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Catastrophe+naturelle&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdV6tsEyy-YiKofLIRiM4LNvZC2CM81WyTOhId6PwrbjraeMF_F9IuUq1z56TvW-K5EjAfSQ9mFQlHGwQHyL4K8hh1PXA3MxsJ55NrEq0iEu-zhgj8OAuLhq5ocUhacI99xXaqGYA7xmkGH0EKFHY2EQWxy-3kWI7dTRQfho1aHnVQgmyCAK6TBpG4RS8Qo1wZw28qJXlykDxNJpKBDm79r0TOTzcFicrWMjWC5Xuzx2ydFFl25436N5miKjoPGRDcIoFbSw%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffffd5ecf45784f4ccf8/images/5c9c28e920c3646e51cbd398d41d2d410449525774c75206da057fd1e2c590c4ca69ed12a787b7a1954d71181ebd1764.jpeg"
+            }
+        ],
+        "recherches_associées_link": "https://www.google.com/search?hl=fr&gl=FR&q=Inondation&stick=H4sIAAAAAAAAAONgFuLQz9U3SEkqKVOCs7QEgzNTUssTK4v9UitKgktSC4oXsXJ55uXnpSSWZObn7WBlBADDMc3tOQAAAA&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08QMSgAegQIUxAB",
+        "recherches_associées_stick": "H4sIAAAAAAAAAONgFuLQz9U3SEkqKVOCs7QEgzNTUssTK4v9UitKgktSC4oXsXJ55uXnpSSWZObn7WBlBADDMc3tOQAAAA",
+        "afficher_les_résultats_pour": [
+            {
+                "name": "Plan de prévention du risque inondation",
+                "extensions": [
+                    "En France, un plan de prévention du risque ..."
+                ],
+                "image": "https://serpapi.com/searches/627cffffd5ecf45784f4ccf8/images/5c9c28e920c3646e51cbd398d41d2d417d3d10d7a21276cc3534fbac269e42bf631769e6fcab333e1a920fc94caeb370e76b8a0b7d0e035f.jpeg"
+            }
+        ]
+    },
+    "top_stories": [
+        {
+            "title": "En images, l'Alaska fait face à des inondations historiques",
+            "link": "https://www.parismatch.com/Actu/Environnement/En-images-l-Alaska-fait-face-a-des-inondations-historiques-1804536",
+            "source": "Paris Match",
+            "date": "Il y a 2 jours",
+            "thumbnail": "https://serpapi.com/searches/627cffffd5ecf45784f4ccf8/images/fec5c37fc072d75174a359e53c1c25b2382d7f6e17c9d417.jpeg"
+        },
+        {
+            "title": "Inondations en Guadeloupe : L'état de catastrophe naturelle reconnu pour quatre communes",
+            "link": "https://www.20minutes.fr/planete/3288335-20220511-inondations-guadeloupe-etat-catastrophe-naturelle-reconnu-quatre-communes",
+            "source": "20 Minutes",
+            "date": "Il y a 15 heures",
+            "thumbnail": "https://serpapi.com/searches/627cffffd5ecf45784f4ccf8/images/fec5c37fc072d751a50361e380852fdafd803e9e64bedc81.jpeg"
+        },
+        {
+            "title": "Inondations en Guadeloupe : plusieurs communes en état de catastrophe naturelle",
+            "link": "https://www.tf1info.fr/international/inondations-en-guadeloupe-l-etat-de-catastrophe-naturelle-reconnu-dans-plusieurs-communes-2219490.html",
+            "source": "TF1 INFO",
+            "date": "Il y a 8 heures",
+            "thumbnail": "https://serpapi.com/searches/627cffffd5ecf45784f4ccf8/images/fec5c37fc072d751911687859c92d4f4328780d2ef89170f.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=fr&gl=FR&q=Inondation&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Qt8YBegQIAxAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&tbm=nws&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+    "related_questions": [
+        {
+            "question": "Où sont les inondations ?",
+            "snippet": "Météo-France a placé la Savoie, la Haute-Savoie, l'Ain et l'Isère en alerte orange pluie-inondation. La Savoie, la Haute-Savoie et l'Isère sont aussi placées en vigilance orange pour des risques d'avalanches. Le Puy-de-Dôme et l'Ain sont...",
+            "title": "Toute l'actualité inondations",
+            "link": "https://www.rtl.fr/sujet/inondations",
+            "displayed_link": "https://www.rtl.fr › sujet › inondations"
+        },
+        {
+            "question": "Quelles sont les causes de l'inondation ?",
+            "snippet": "Causes des inondations terrestres Le débordement indirect d'une réserve d'eau (de surface ou souterraine) suite à la remontée des nappes phréatiques ou bien d'eaux à travers les canalisations. L'accumulation des eaux de ruissellement suite à des précipitations abondantes.19 déc. 2021",
+            "title": "Quelles sont les causes des inondations ? - Futura-Sciences",
+            "link": "https://www.futura-sciences.com/planete/questions-reponses/eau-sont-causes-inondations-1314/",
+            "displayed_link": "https://www.futura-sciences.com › questions-reponses › ea..."
+        },
+        {
+            "question": "Quelles sont les causes et les conséquences de l'inondation ?",
+            "snippet": "La plupart des inondations se produisent lorsque le volume d'eau d'une rivière ou d'un cours d'eau dépasse la capacité du lit. Il y a également des inondations le long des lacs et des littoraux maritimes lorsque le niveau normal de l'eau augmente au-delà du niveau des terres riveraines.22 juil. 2013",
+            "title": "Les causes des inondations - Canada.ca",
+            "link": "https://www.canada.ca/fr/environnement-changement-climatique/services/eau-apercu/volume/causes-inondation.html",
+            "displayed_link": "https://www.canada.ca › volume › causes-inondation"
+        },
+        {
+            "question": "Comment agir face aux inondations ?",
+            "snippet": "Fermez les portes, les fenêtres, les soupiraux et les aérations. Installez les sacs de sable ou les batardeaux prévus pour empêcher l'eau d'entrer. Si vous n'avez pas d'endroit où vous mettre à l'abri, évacuez les lieux avant qu'il ne soit trop tard. N'attendez pas que les accès soient coupés.",
+            "title": "Comment réagir face à une inondation ? | Assurance Prévention",
+            "link": "https://www.assurance-prevention.fr/reagir-inondation",
+            "displayed_link": "https://www.assurance-prevention.fr › reagir-inondation"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Inondation. L'inondation est une submersion temporaire, par l'eau, de terres qui ne sont pas submergées en temps normal, quelle qu'en soit l'origine.",
+        "link": "https://www.gouvernement.fr/risques/inondation#:~:text=Inondation,'en%20soit%20l'origine.",
+        "displayed_link": "https://www.gouvernement.fr › risques › inondation",
+        "snippet": "Inondation. L'inondation est une submersion temporaire, par l'eau, de terres qui ne sont pas submergées en temps normal, quelle qu'en soit l'origine.",
+        "thumbnail": "https://serpapi.com/searches/627cffffd5ecf45784f4ccf8/images/4c8c3ea9573eccf8155d8ac9c7c646a26c0f97ebc33ec1e5.jpeg",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Ce qu'il faut faire en cas de crue de la Seine - Ville de Paris",
+            "link": "https://www.paris.fr/pages/crues-5472",
+            "displayed_link": "https://www.paris.fr › pages › crues-5472",
+            "snippet": "A Paris, les inondations se manifestent par des crues lentes de la Seine. Pour une crue de type 1910, il faut en moyenne 10 à 15 jours pour atteindre le seuil ...",
+            "snippet_highlighted_words": [
+                "inondations"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Atténuer les effets de la crue : l...",
+                        "link": "https://www.paris.fr/pages/crues-5472#attenuer-les-effets-de-la-crue-l-action-des-grands-lacs-de-seine"
+                    },
+                    {
+                        "title": "Le Plan de prévention du...",
+                        "link": "https://www.paris.fr/pages/crues-5472#le-plan-de-prevention-du-risque-inondation-de-paris-ppri"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Inondation - Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/Inondation",
+            "displayed_link": "https://fr.wikipedia.org › wiki › Inondation",
+            "snippet": "Une inondation est une submersion temporaire, naturelle ou artificielle, d'un espace par de l'eau liquide. Ce terme est fréquemment utilisé pour décrire :.",
+            "snippet_highlighted_words": [
+                "inondation"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Typologies",
+                        "link": "https://fr.wikipedia.org/wiki/Inondation#Typologies"
+                    },
+                    {
+                        "title": "Politique",
+                        "link": "https://fr.wikipedia.org/wiki/Inondation#Politique"
+                    },
+                    {
+                        "title": "Moyens de lutte",
+                        "link": "https://fr.wikipedia.org/wiki/Inondation#Moyens_de_lutte"
+                    },
+                    {
+                        "title": "Exemples par pays",
+                        "link": "https://fr.wikipedia.org/wiki/Inondation#Exemples_par_pays"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "A pour cause : pluie torrentielle sous orage, ‎tsu...‎",
+                        "Sous-classe de : catastrophe naturelle, ‎flot‎",
+                        "A pour effet : mort, dommages-intérêts, ‎rupture ...‎"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "Inondations | Géorisques",
+            "link": "https://www.georisques.gouv.fr/risques/inondations",
+            "displayed_link": "https://www.georisques.gouv.fr › risques › inondations",
+            "snippet": "L'inondation est une submersion, rapide ou lente, d'une zone habituellement hors de l'eau. Le risque inondation correspond à la confrontation en un même ...",
+            "snippet_highlighted_words": [
+                "inondation",
+                "inondation"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Vigicrues : Carte de vigilance crues nationale",
+            "link": "https://www.vigicrues.gouv.fr/",
+            "displayed_link": "https://www.vigicrues.gouv.fr",
+            "date": "il y a 23 heures",
+            "snippet": "Carte de vigilance crues (prévision des inondations) : v1.7.0d.",
+            "snippet_highlighted_words": [
+                "inondations"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Pluie et inondation | Ministère de la Transition écologique",
+            "link": "https://www.ecologie.gouv.fr/pluie-et-inondation",
+            "displayed_link": "https://www.ecologie.gouv.fr › pluie-et-inondation",
+            "snippet": "Le risque inondation est le premier risque naturel en France métropolitaine. Pour se protéger des pluies et des inondations, adoptons les bons comportements ...",
+            "snippet_highlighted_words": [
+                "inondation",
+                "inondations"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Inondations - France 3 Paris Ile-de-France",
+            "link": "https://france3-regions.francetvinfo.fr/meteo/inondations?r=paris-ile-de-france",
+            "displayed_link": "https://france3-regions.francetvinfo.fr › ... › inondations",
+            "snippet": "Suivez en direct toute l'actualité 'Inondations' en Paris Ile-de-France, ... de l'Île-de-France placée en vigilance orange pour pluie-inondation.",
+            "snippet_highlighted_words": [
+                "Inondations",
+                "inondation"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Le risque d'inondation à Paris comment s'en protéger ?",
+            "link": "https://www.prefectures-regions.gouv.fr/ile-de-france/content/download/12347/84689/file/risque_inondation_2015bd.pdf",
+            "displayed_link": "https://www.prefectures-regions.gouv.fr › file › ri...",
+            "date": "9 pages",
+            "snippet": "Le risque d'inondation est le premier risque natu- rel majeur pesant sur la capitale et la région Île-de-France. Concernant la crue centennale de la Seine, la ...",
+            "snippet_highlighted_words": [
+                "inondation"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Inondation : Actualités, vidéos, images et infos en direct - 20 ...",
+            "link": "https://www.20minutes.fr/dossier/inondation",
+            "displayed_link": "https://www.20minutes.fr › dossier › inondation",
+            "snippet": "Une voiture emportée dans un fossé après des inondations, dans la commune du Gosier le. CATASTROPHE NATURELLE. Le bilan des intempéries en Guadeloupe passe à ...",
+            "snippet_highlighted_words": [
+                "inondations"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "Inondation près de paris 15e arrondissement, paris",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=inondation+pr%C3%A8s+de+paris+15e+arrondissement,+paris&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q1QJ6BAgrEAE"
+        },
+        {
+            "query": "inondation paris",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Inondation+Paris&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q1QJ6BAgqEAE"
+        },
+        {
+            "query": "inondations définition",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Inondations+D%C3%A9finition&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q1QJ6BAgoEAE"
+        },
+        {
+            "query": "inondation france",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Inondation+France&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q1QJ6BAgnEAE"
+        },
+        {
+            "query": "inondation 2021",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Inondation+2021&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q1QJ6BAgmEAE"
+        },
+        {
+            "query": "inondation synonyme",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Inondation+synonyme&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q1QJ6BAglEAE"
+        },
+        {
+            "query": "inondations en australie",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Inondations+en+Australie&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q1QJ6BAghEAE"
+        },
+        {
+            "query": "les causes des inondations",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Les+causes+des+inondations&sa=X&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q1QJ6BAggEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Inondation&hl=fr&gl=FR&ei=__98YvL9C-jn_QbSqp74BA&start=10&sa=N&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Inondation&hl=fr&gl=FR&ei=__98YvL9C-jn_QbSqp74BA&start=10&sa=N&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=Inondation&hl=fr&gl=FR&ei=__98YvL9C-jn_QbSqp74BA&start=20&sa=N&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=Inondation&hl=fr&gl=FR&ei=__98YvL9C-jn_QbSqp74BA&start=30&sa=N&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=Inondation&hl=fr&gl=FR&ei=__98YvL9C-jn_QbSqp74BA&start=40&sa=N&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=Inondation&hl=fr&gl=FR&ei=__98YvL9C-jn_QbSqp74BA&start=50&sa=N&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=Inondation&hl=fr&gl=FR&ei=__98YvL9C-jn_QbSqp74BA&start=60&sa=N&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=Inondation&hl=fr&gl=FR&ei=__98YvL9C-jn_QbSqp74BA&start=70&sa=N&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=Inondation&hl=fr&gl=FR&ei=__98YvL9C-jn_QbSqp74BA&start=80&sa=N&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=Inondation&hl=fr&gl=FR&ei=__98YvL9C-jn_QbSqp74BA&start=90&sa=N&ved=2ahUKEwiy-c7J_dn3AhXoc98KHVKVB08Q8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=20&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=30&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=40&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=50&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=60&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=70&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=80&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Inondation&start=90&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D"
+        }
+    }
+}

@@ -1,0 +1,561 @@
+{
+    "search_metadata": {
+        "id": "629e3d38234884ac5602c8eb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/200d20d8edbb5f95/629e3d38234884ac5602c8eb.json",
+        "created_at": "2022-06-06 17:45:28 UTC",
+        "processed_at": "2022-06-06 17:45:28 UTC",
+        "google_url": "https://www.google.com/search?q=Ecosystem&oq=Ecosystem&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/200d20d8edbb5f95/629e3d38234884ac5602c8eb.html",
+        "total_time_taken": 6.38
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Ecosystem",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Ecosystem",
+        "total_results": 4180000000,
+        "time_taken_displayed": 0.59
+    },
+    "knowledge_graph": {
+        "title": "Ecosystem",
+        "header_images": [
+            {
+                "source": "https://www.biologyonline.com/dictionary/ecosystem"
+            },
+            {
+                "source": "https://www.zmescience.com/ecology/ecosystems-what-they-are-and-why-they-are-important/"
+            },
+            {
+                "source": "https://www.javatpoint.com/what-is-ecosystem"
+            },
+            {
+                "source": "https://www.nationalgeographic.org/activity/sorting-gulf-ecosystem/"
+            },
+            {
+                "source": "https://eschooltoday.com/learn/what-is-an-ecosystem/"
+            },
+            {
+                "source": "https://en.wikipedia.org/wiki/Ecosystem_respiration"
+            }
+        ],
+        "description": "An ecosystem consists of all the organisms and the physical environment with which they interact. These biotic and abiotic components are linked together through nutrient cycles and energy flows. Energy enters the system through photosynthesis and is incorporated into plant tissue.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Ecosystem"
+        },
+        "primary_energy_source": "the sun nationalgeographic.org",
+        "primary_energy_source_links": [
+            {
+                "text": "nationalgeographic.org",
+                "link": "https://www.nationalgeographic.org/encyclopedia/energy-transfer-ecosystems/"
+            }
+        ],
+        "ecosystem_scientists": [
+            {
+                "name": "David C Coleman",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=David+C+Coleman&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNyFLiArFMK4ySqkq0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyBSdnpuaVZBaXFC9i5XdJLMtMUXBWcM7PSc1NzNvByggANXhjUFAAAAA&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQxA16BAhbEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=David+C+Coleman&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNyFLiArFMK4ySqkq0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyBSdnpuaVZBaXFC9i5XdJLMtMUXBWcM7PSc1NzNvByggANXhjUFAAAAA",
+                "image": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/a7307de8658dcc3eaf4f16e20478c2ab9e494e66da073aed49b7eb91eaca83a3de85eda8a9d2ee6efd0fe92b4feb9592.jpeg"
+            },
+            {
+                "name": "Pamela A. Matson",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Pamela+Matson&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNyFLiArGMC4vNzbK0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyBSdnpuaVZBaXFC9i5Q1IzE3NSVTwTSwpzs_bwcoIAEJOKh5OAAAA&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQxA16BAhbEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pamela+Matson&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNyFLiArGMC4vNzbK0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyBSdnpuaVZBaXFC9i5Q1IzE3NSVTwTSwpzs_bwcoIAEJOKh5OAAAA",
+                "image": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/a7307de8658dcc3eaf4f16e20478c2ab9e494e66da073aed49b7eb91eaca83a3fd6fe81f3629ed69761bdf939f55676e.jpeg"
+            },
+            {
+                "name": "Mary K. Firestone",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Mary+K.+Firestone&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNyFLiBrEMjZINLbLytESyk630k_Nzc_PzrFLyy_PKE4tSilcxcgUnZ6bmlWQWlxQvYhX0TSyqVPDWU3DLLEotLsnPS93ByggANM9GCVMAAAA&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQxA16BAhbEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mary+K.+Firestone&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNyFLiBrEMjZINLbLytESyk630k_Nzc_PzrFLyy_PKE4tSilcxcgUnZ6bmlWQWlxQvYhX0TSyqVPDWU3DLLEotLsnPS93ByggANM9GCVMAAAA",
+                "image": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/a7307de8658dcc3eaf4f16e20478c2ab9e494e66da073aed49b7eb91eaca83a321cf09e4ec54fa207b97b3bac01051fd.jpeg"
+            },
+            {
+                "name": "Thomas Rosswall",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Thomas+Rosswall&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNyFLiArGMyzPSy7O0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyBSdnpuaVZBaXFC9i5Q_JyM9NLFYIyi8uLk_MydnByggAiIMpcFAAAAA&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQxA16BAhbEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Thomas+Rosswall&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNyFLiArGMyzPSy7O0RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyBSdnpuaVZBaXFC9i5Q_JyM9NLFYIyi8uLk_MydnByggAiIMpcFAAAAA",
+                "image": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/a7307de8658dcc3eaf4f16e20478c2ab9e494e66da073aed49b7eb91eaca83a32f9f9b074b08a4918963026ef830eddb.jpeg"
+            }
+        ],
+        "people_also_search_for": [
+            {
+                "name": "Biosphere",
+                "link": "https://www.google.com/search?hl=en&gl=us&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdX7Jotk-11BVCeyyu8iLCZz22wNL_fWdMA63XwRIxVjtQJCqMoFSRNtlxmw2Q9WmeTyfxWTq6RbIMAiaPTTomqk-ZRAbNRV2m-xEqPfRS__DzoXEaqe-bOwXgPNTGl130X4yiEY6BI7Gz5r0cbUKJkQVjxC4gSfHjAcvS-pyXpBVjBvroiV9HFCxfqIsSBP2RGXs8w9hxXtM0YpxT67SZaTtywAXhTguGbQtmBfs0jCDSbLoDXoG8hA97NUgyplsQGk3h7E%3D&q=Biosphere&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQs9oBKAB6BAhVEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Biosphere&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdX7Jotk-11BVCeyyu8iLCZz22wNL_fWdMA63XwRIxVjtQJCqMoFSRNtlxmw2Q9WmeTyfxWTq6RbIMAiaPTTomqk-ZRAbNRV2m-xEqPfRS__DzoXEaqe-bOwXgPNTGl130X4yiEY6BI7Gz5r0cbUKJkQVjxC4gSfHjAcvS-pyXpBVjBvroiV9HFCxfqIsSBP2RGXs8w9hxXtM0YpxT67SZaTtywAXhTguGbQtmBfs0jCDSbLoDXoG8hA97NUgyplsQGk3h7E%3D",
+                "image": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/a7307de8658dcc3eaf4f16e20478c2ab2c72ea46198f97036096022dc28f3a45616c88cf19366e19e56b1d34f125025b.jpeg"
+            },
+            {
+                "name": "Biodiversity",
+                "link": "https://www.google.com/search?hl=en&gl=us&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSQ1D_SKxEgHik0sGuKfjpEhFyEukRfGLK-YNxkhqFmDguWSCOR0BLwdUTn-DvdaskhBTcuAIIaTPV0roTzJW4Qs0Xrt9H1yRNVBNvNBX0TKKOk91SMEOFsWPW-4SQ_OiLUop0T-cJHIcbtajyE6vd7-x3bDei6g_-OEBo5WFM5oKONukSv0RMJNNiJVu_G_npF35UG1dBkznX3auah-7vM8LPDdgb0YC7Sm4qJra0rD-JOyyZ7fOZPmdU0yoewAcEKeruU%3D&q=Biodiversity&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQs9oBKAF6BAhVEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Biodiversity&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSQ1D_SKxEgHik0sGuKfjpEhFyEukRfGLK-YNxkhqFmDguWSCOR0BLwdUTn-DvdaskhBTcuAIIaTPV0roTzJW4Qs0Xrt9H1yRNVBNvNBX0TKKOk91SMEOFsWPW-4SQ_OiLUop0T-cJHIcbtajyE6vd7-x3bDei6g_-OEBo5WFM5oKONukSv0RMJNNiJVu_G_npF35UG1dBkznX3auah-7vM8LPDdgb0YC7Sm4qJra0rD-JOyyZ7fOZPmdU0yoewAcEKeruU%3D",
+                "image": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/a7307de8658dcc3eaf4f16e20478c2ab2c72ea46198f97036096022dc28f3a457957af14dd3ff308cd765549144a4a86.jpeg"
+            },
+            {
+                "name": "Ecology",
+                "link": "https://www.google.com/search?hl=en&gl=us&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfndwm5P4clKeTd6dsgnDIyREg9gFz0bK2ai2DzMWZTCmuAP-JiBbjoDPEMcOwGUKeIcZeLmBDbJB5OaOn3xILb9BzMVwrrcRfiDnV0Us_qTB5G10GA4iWeWmADDLCPvTzz5AGoX69wz3dgmWHKa7G_SJq9iwa_Np17KYY1lpsZfv9OPG2v3lhn--mWDF_PfOWNDk_M1YQebhevnj6F-XEOYWWLycZOArSRrWkVdgqjew8B5xQ%3D%3D&q=Ecology&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQs9oBKAJ6BAhVEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecology&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfndwm5P4clKeTd6dsgnDIyREg9gFz0bK2ai2DzMWZTCmuAP-JiBbjoDPEMcOwGUKeIcZeLmBDbJB5OaOn3xILb9BzMVwrrcRfiDnV0Us_qTB5G10GA4iWeWmADDLCPvTzz5AGoX69wz3dgmWHKa7G_SJq9iwa_Np17KYY1lpsZfv9OPG2v3lhn--mWDF_PfOWNDk_M1YQebhevnj6F-XEOYWWLycZOArSRrWkVdgqjew8B5xQ%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/a7307de8658dcc3eaf4f16e20478c2ab2c72ea46198f97036096022dc28f3a4575cd544be0311dd131424c76652cbaa0.jpeg"
+            },
+            {
+                "name": "Natural environment",
+                "link": "https://www.google.com/search?hl=en&gl=us&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgCZsNVrrkdZ2BJIuIbDwvBRfwn8Q4opW7FRLLkqBf3ZcCUzcXvC93xUdidYTPYPxHLhno7iYQSWI--zKdUFG390p9i-0MkpA5IPfE951pVzN6d2NpYqyIfntaXcCWCXd6fv-Av03Rq8koFcG-sRbOGf1WQP8kj20vHGx2FxdNDHC0gA-xcljydVLaeRuiyMN_r5E0RAiQxNg1QMWFgBIuuKBcwh1GhCnPTEtwEb20XH1xNhfEQkMfyKokh9eefNuGuPURjI%3D&q=Natural+environment&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQs9oBKAN6BAhVEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Natural+environment&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgCZsNVrrkdZ2BJIuIbDwvBRfwn8Q4opW7FRLLkqBf3ZcCUzcXvC93xUdidYTPYPxHLhno7iYQSWI--zKdUFG390p9i-0MkpA5IPfE951pVzN6d2NpYqyIfntaXcCWCXd6fv-Av03Rq8koFcG-sRbOGf1WQP8kj20vHGx2FxdNDHC0gA-xcljydVLaeRuiyMN_r5E0RAiQxNg1QMWFgBIuuKBcwh1GhCnPTEtwEb20XH1xNhfEQkMfyKokh9eefNuGuPURjI%3D",
+                "image": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/a7307de8658dcc3eaf4f16e20478c2ab2c72ea46198f97036096022dc28f3a457e7d06766cf5be5151827d2da4228b72.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "What is an Ecosystem?",
+            "link": "https://www.youtube.com/watch?v=JPHqUxxyLsY",
+            "thumbnail": "https://i.ytimg.com/vi/JPHqUxxyLsY/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3ntVxdIKmmXAGW7Zrq5XsfxcPSeNg",
+            "channel": "red Orbit",
+            "duration": "1:56",
+            "platform": "YouTube",
+            "date": "Feb 28, 2013"
+        },
+        {
+            "position": 2,
+            "title": "What Are Ecosystems? Crash Course Geography #15",
+            "link": "https://www.youtube.com/watch?v=KQF9WdZrH_c",
+            "thumbnail": "https://i.ytimg.com/vi/KQF9WdZrH_c/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nlP6FfOque21CGMi-nAQwNjh2DDA",
+            "channel": "CrashCourse",
+            "duration": "11:41",
+            "platform": "YouTube",
+            "date": "May 18, 2021"
+        },
+        {
+            "position": 3,
+            "title": "Ecosystems for Kids",
+            "link": "https://www.youtube.com/watch?v=SNF8b7KKJ2I",
+            "thumbnail": "https://i.ytimg.com/vi/SNF8b7KKJ2I/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nOu12hq2mmj5xdHhrqRvm_2dYoFQ",
+            "channel": "Homeschool Pop",
+            "duration": "9:17",
+            "platform": "YouTube",
+            "date": "Jul 13, 2018"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "'Data Science for All' will Take the Tech Ecosystem to New Heights",
+            "link": "https://www.analyticsinsight.net/data-science-for-all-will-take-the-tech-ecosystem-to-new-heights/",
+            "source": "Analytics Insight",
+            "date": "1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMJoQQPUySzPDO1Qrmf-z90VcNowU6po3gL6vfHZ98ZVWjVts-GX07Mw&usqp=CAI&s"
+        },
+        {
+            "title": "'Nuisance' yard a wild, interconnected ecosystem – The Durango Herald",
+            "link": "https://www.durangoherald.com/articles/nuisance-yard-a-wild-interconnected-ecosystem/",
+            "source": "The Durango Herald",
+            "date": "1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaQMeeLUaFHCZ4uNE4uFIpfkpW-zXpPYUGe1pP2z42TP3GHgAeMZQg9E&usqp=CAI&s"
+        },
+        {
+            "title": "French Healthcare: a strong French Biotech ecosystem at BIO International Convention 2022",
+            "link": "https://finance.yahoo.com/news/french-healthcare-strong-french-biotech-140000410.html",
+            "source": "Yahoo Finance",
+            "date": "3 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjSXibSGBP-jagrqHWewa2tiXVBvvwqPhPopWsvw&usqp=CAI&s"
+        },
+        {
+            "title": "Saving the Great Salt Lake: Toxic metals in lake’s dust — and ecosystem",
+            "link": "https://www.deseret.com/utah/2022/6/4/23153379/saving-shrinking-great-salt-lake-drought-utah-toxic-hazardous-metals-dust-ecosystem",
+            "source": "Deseret News",
+            "date": "1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ9eASHmRRqGKFouakG8PZgCEVHB50-mZiGLjMbuQTgLm-5hDrqes7sus&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=en&gl=us&q=Ecosystem&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQt8YBegQIPBAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&tbm=nws",
+    "related_questions": [
+        {
+            "question": "What is a simple definition of ecosystem?",
+            "snippet": "An ecosystem is a geographic area where plants, animals, and other organisms, as well as weather and landscapes, work together to form a bubble of life.May 19, 2022",
+            "title": "Ecosystem | National Geographic Society",
+            "link": "https://www.nationalgeographic.org/encyclopedia/ecosystem/",
+            "displayed_link": "https://www.nationalgeographic.org › encyclopedia › e..."
+        },
+        {
+            "question": "What are the 4 types of ecosystems?",
+            "title": "Types of Ecosystem",
+            "link": "https://byjus.com/biology/ecosystem/",
+            "list": [
+                "Forest Ecosystem.",
+                "Grassland Ecosystem.",
+                "Tundra Ecosystem.",
+                "Desert Ecosystem."
+            ],
+            "displayed_link": "https://byjus.com › biology › ecosystem"
+        },
+        {
+            "question": "What are 5 examples of ecosystem?",
+            "snippet": "Examples of ecosystems are: agroecosystem, aquatic ecosystem, coral reef, desert, forest, human ecosystem, littoral zone, marine ecosystem, prairie, rainforest, savanna, steppe, taiga, tundra, urban ecosystem and others.",
+            "title": "Ecosystems",
+            "link": "https://sc-s.si/joomla/images/Ecosystems.pdf",
+            "displayed_link": "https://sc-s.si › joomla › images › Ecosystems"
+        },
+        {
+            "question": "What is an ecosystem for kids?",
+            "snippet": "An ecosystem is made up of all of the living and nonliving things in an area. This includes all of the plants, animals, and other living things that make up the communities of life in an area. An ecosystem also includes nonliving materials—for example, water, rocks, soil, and sand.",
+            "title": "ecosystem - Kids | Britannica Kids | Homework Help",
+            "link": "https://kids.britannica.com/kids/article/ecosystem/433377",
+            "displayed_link": "https://kids.britannica.com › kids › article › ecosystem"
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "ec·o·sys·tem",
+        "word_type": "noun",
+        "definitions": [
+            "a biological community of interacting organisms and their physical environment.",
+            "(in general use) a complex network or interconnected system."
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Ecosystem | National Geographic Society",
+            "link": "https://www.nationalgeographic.org/encyclopedia/ecosystem/",
+            "displayed_link": "https://www.nationalgeographic.org › encyclopedia › e...",
+            "date": "May 19, 2022",
+            "snippet": "An ecosystem is a geographic area where plants, animals, and other organisms, as well as weather and landscape, work together to form a bubble ...",
+            "snippet_highlighted_words": [
+                "ecosystem"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "National Geographic Partners, LLC is a joint venture between The Walt Disney Company and the namesake non-profit scientific organization National Geographic Society. The company oversees all commercial activities related to the Society, including magazine publications and television channels.",
+                    "icon": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/fb4bdeb60776d5d35095a465eedb053ebf9961fbabf03088d340d2255776a307580b8df920aca5494b77a9ddeebbac6d.png"
+                },
+                "keywords": [
+                    "ecosystem"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nationalgeographic.org/encyclopedia/ecosystem/&tbm=ilp&ilps=ADNMCi2IVsOzr7wpztda-hjXm7lEgdp4Dw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:49mbr6dSBYAJ:https://www.nationalgeographic.org/encyclopedia/ecosystem/+&cd=11&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Ecosystem - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Ecosystem",
+            "displayed_link": "https://en.wikipedia.org › wiki › Ecosystem",
+            "snippet": "An ecosystem (or ecological system) consists of all the organisms and the physical environment with which they interact. These biotic and · Ecosystems are ...",
+            "snippet_highlighted_words": [
+                "ecosystem",
+                "Ecosystems"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Definition",
+                        "link": "https://en.wikipedia.org/wiki/Ecosystem#Definition"
+                    },
+                    {
+                        "title": "Processes",
+                        "link": "https://en.wikipedia.org/wiki/Ecosystem#Processes"
+                    },
+                    {
+                        "title": "Study approaches",
+                        "link": "https://en.wikipedia.org/wiki/Ecosystem#Study_approaches"
+                    },
+                    {
+                        "title": "Human interactions with...",
+                        "link": "https://en.wikipedia.org/wiki/Ecosystem#Human_interactions_with_ecosystems"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/fb4bdeb60776d5d35095a465eedb053ea85ada01ec8a9ec8bb6f668c030e40cf80dac7c8fd07220ac7ff32f63fea7378.png"
+                },
+                "keywords": [
+                    "ecosystem"
+                ],
+                "related_keywords": [
+                    "ecosystems"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Ecosystem&tbm=ilp&ilps=ADNMCi2lTiZRp5PpK9MLKJ921hwKlNqc5w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:h2krJttj8R4J:https://en.wikipedia.org/wiki/Ecosystem+&cd=12&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://en.wikipedia.org/wiki/Ecosystem+Ecosystem"
+        },
+        {
+            "position": 3,
+            "title": "ecosystem | Definition, Components, Examples, Structure ...",
+            "link": "https://www.britannica.com/science/ecosystem",
+            "displayed_link": "https://www.britannica.com › Science › Environment",
+            "snippet": "ecosystem, the complex of living organisms, their physical environment, and all their interrelationships in a particular unit of space. A brief treatment of ...",
+            "snippet_highlighted_words": [
+                "ecosystem"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/fb4bdeb60776d5d35095a465eedb053ebb881e2fd2980c91216c05f7c7e32211e66e5bdc0943f0bb243e2d54f48f9600.png"
+                },
+                "keywords": [
+                    "ecosystem"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/ecosystem&tbm=ilp&ilps=ADNMCi1a388hBPZOEFFJ6wfishpAFzeFnA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jQgteCEv1AoJ:https://www.britannica.com/science/ecosystem+&cd=13&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.britannica.com/science/ecosystem+Ecosystem"
+        },
+        {
+            "position": 4,
+            "title": "What is an ecosystem? (article) | Ecology - Khan Academy",
+            "link": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/what-is-an-ecosystem",
+            "displayed_link": "https://www.khanacademy.org › ... › Intro to ecosystems",
+            "snippet": "An ecosystem consists of a community of organisms together with their physical environment. · Ecosystems can be of different sizes and can be marine, aquatic, or ...",
+            "snippet_highlighted_words": [
+                "ecosystem",
+                "Ecosystems"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Khan Academy is an American non-profit educational organization created in 2008 by Salman Khan. Its goal is creating a set of online tools that help educate students. The organization produces short lessons in the form of videos. Its website also includes supplementary practice exercises and materials for educators.",
+                    "icon": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/fb4bdeb60776d5d35095a465eedb053eecdb322f6c19ca198641f642446fffa01b6c0c18a75b6699c205300f421fdd62.png"
+                },
+                "keywords": [
+                    "ecosystem"
+                ],
+                "related_keywords": [
+                    "ecosystems"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/what-is-an-ecosystem&tbm=ilp&ilps=ADNMCi2DFOJvl_6UhnF2K4vp8UMlatC34g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CVJW4-ct6o8J:https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/what-is-an-ecosystem+&cd=14&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/what-is-an-ecosystem+Ecosystem"
+        },
+        {
+            "position": 5,
+            "title": "Ecosystem: Definition, Importance, Examples, Human Causes ...",
+            "link": "https://youmatter.world/en/definition/ecosystem-definition-example/",
+            "displayed_link": "https://youmatter.world › youmatter › Definitions",
+            "snippet": "The simplest definition of an ecosystem is that it is a community or group of living organisms that live in and interact with each other in a ...",
+            "snippet_highlighted_words": [
+                "ecosystem"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "feb": null
+                    },
+                    "extensions": [
+                        "Feb 17, 2020",
+                        "Uploaded by MooMooMath and Science"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "youmatter.world was first indexed by Google in January 2019",
+                    "icon": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/fb4bdeb60776d5d35095a465eedb053ec7ab88614d8bfd58162b7bf5725a87f4e74924e78c7900f20a8a9f49c40e1e3a.png"
+                },
+                "keywords": [
+                    "ecosystem"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://youmatter.world/en/definition/ecosystem-definition-example/&tbm=ilp&ilps=ADNMCi2pAdwrz5exRYMyANbiSX5G8YKhGw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:u7lQvmdWyhsJ:https://youmatter.world/en/definition/ecosystem-definition-example/+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Ecosystem - Definition and Examples - Biology Online Dictionary",
+            "link": "https://www.biologyonline.com/dictionary/ecosystem",
+            "displayed_link": "https://www.biologyonline.com › dictionary › ecosystem",
+            "snippet": "Definition: A system that includes all living organisms (biotic factors) in an area as well as its physical environment (abiotic factors) functioning together ...",
+            "about_this_result": {
+                "source": {
+                    "description": "biologyonline.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/fb4bdeb60776d5d35095a465eedb053e614c3966ad08af1d31ed73a9558a5f31d6a72d9f6166ab818f6a51948446c36d.png"
+                },
+                "keywords": [
+                    "ecosystem"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.biologyonline.com/dictionary/ecosystem&tbm=ilp&ilps=ADNMCi3qZLGvGJoemgsqgnzYxzEl3btLQw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:naFO3nlzlYwJ:https://www.biologyonline.com/dictionary/ecosystem+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Energy efficiency solutions - Ecosystem",
+            "link": "https://ecosystem-energy.com/",
+            "displayed_link": "https://ecosystem-energy.com",
+            "snippet": "Ecosystem offers innovative engineering solutions to maximize the efficiency of your energetic ecosystems and reduce your energy costs.",
+            "snippet_highlighted_words": [
+                "Ecosystem",
+                "ecosystems"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "ecosystem-energy.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/fb4bdeb60776d5d35095a465eedb053e8016622f3959df3dbe4eccf6f4d813dbeef0f17a399952f82af7c501c7e07359.png"
+                },
+                "keywords": [
+                    "ecosystem"
+                ],
+                "related_keywords": [
+                    "ecosystems"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://ecosystem-energy.com/&tbm=ilp&ilps=ADNMCi3S-DiLgLfE9mYaNMH6-0NQlkqWVw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GnE2qYBYGn4J:https://ecosystem-energy.com/+&cd=24&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "Structure, Functions, Units and Types of Ecosystem - Byju's",
+            "link": "https://byjus.com/biology/ecosystem/",
+            "displayed_link": "https://byjus.com › biology › ecosystem",
+            "snippet": "An ecosystem is a structural and functional unit of ecology where the living organisms interact with each other and the surrounding environment.",
+            "snippet_highlighted_words": [
+                "ecosystem"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "jul": null
+                    },
+                    "extensions": [
+                        "Jul 25, 2015",
+                        "Uploaded by BYJU'S"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "BYJU'S is an Indian multinational educational technology company, headquartered in Bangalore. It was founded in 2011 by Byju Raveendran and Divya Gokulnath. as of December 2021, BYJU'S is valued at US$22 billion and has over 115 million registered students.",
+                    "icon": "https://serpapi.com/searches/629e3d38234884ac5602c8eb/images/fb4bdeb60776d5d35095a465eedb053ec9439e9e7bae215e8b04641bab0130eec8d42461df355b879adae231c20e0480.png"
+                },
+                "keywords": [
+                    "ecosystem"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://byjus.com/biology/ecosystem/&tbm=ilp&ilps=ADNMCi2Tfn5b4vasUZJH62lBVDYHaYpzzQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6XWft5FJRKkJ:https://byjus.com/biology/ecosystem/+&cd=25&hl=en&ct=clnk&gl=us",
+            "related_questions": [
+                {
+                    "question": "What is the ecosystem?",
+                    "snippet": "The ecosystem is the community of living organisms in conjunction with non-living components of their environment, interacting as a system."
+                },
+                {
+                    "question": "What are the different types of ecosystems?",
+                    "snippet": "The different types of the ecosystem include: Terrestrial ecosystem Forest ecosystemGrassland ecosystemDesert ecosystemTundra ecosystemAquatic ecosystem Freshwater ecosystemMarine ecosystem"
+                }
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "ecosystems examples",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Ecosystems+examples&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "types of ecosystem",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Types+of+ecosystem&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "ecosystem pdf",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Ecosystem+PDF&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "components of ecosystem",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Components+of+ecosystem&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "animal ecosystem",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Animal+ecosystem&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "importance of ecosystem",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Importance+of+ecosystem&sa=X&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ1QJ6BAg3EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Ecosystem&hl=en&gl=us&ei=PT2eYoX-No_SytMPpKuVmAo&start=10&sa=N&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Ecosystem&hl=en&gl=us&ei=PT2eYoX-No_SytMPpKuVmAo&start=10&sa=N&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Ecosystem&hl=en&gl=us&ei=PT2eYoX-No_SytMPpKuVmAo&start=20&sa=N&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Ecosystem&hl=en&gl=us&ei=PT2eYoX-No_SytMPpKuVmAo&start=30&sa=N&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Ecosystem&hl=en&gl=us&ei=PT2eYoX-No_SytMPpKuVmAo&start=40&sa=N&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Ecosystem&hl=en&gl=us&ei=PT2eYoX-No_SytMPpKuVmAo&start=50&sa=N&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Ecosystem&hl=en&gl=us&ei=PT2eYoX-No_SytMPpKuVmAo&start=60&sa=N&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Ecosystem&hl=en&gl=us&ei=PT2eYoX-No_SytMPpKuVmAo&start=70&sa=N&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Ecosystem&hl=en&gl=us&ei=PT2eYoX-No_SytMPpKuVmAo&start=80&sa=N&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Ecosystem&hl=en&gl=us&ei=PT2eYoX-No_SytMPpKuVmAo&start=90&sa=N&ved=2ahUKEwjFkOfPsJn4AhUPqXIEHaRVBaMQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ecosystem&start=90"
+        }
+    }
+}

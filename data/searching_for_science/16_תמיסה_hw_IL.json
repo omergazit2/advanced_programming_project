@@ -1,0 +1,225 @@
+{
+    "search_metadata": {
+        "id": "629e3d4dc573d58c675af187",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/26c0849f4d97967a/629e3d4dc573d58c675af187.json",
+        "created_at": "2022-06-06 17:45:49 UTC",
+        "processed_at": "2022-06-06 17:45:49 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&oq=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/26c0849f4d97967a/629e3d4dc573d58c675af187.html",
+        "total_time_taken": 6.16
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "תמיסה",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "תמיסה",
+        "total_results": 1230000,
+        "time_taken_displayed": 0.38
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "כיצד מחשבים ומכינים תמיסה בריכוז מדוייק",
+            "link": "https://www.youtube.com/watch?v=ZItjCXf6umw",
+            "thumbnail": "https://serpapi.com/searches/629e3d4dc573d58c675af187/images/9cd86fd7a3c6fb107183afb3cf2100465a1dab53da7400bd3a2129994f776149.jpeg",
+            "channel": "barakimia",
+            "duration": "10:17",
+            "platform": "YouTube",
+            "date": "12 בנוב׳ 2016"
+        },
+        {
+            "position": 2,
+            "title": "איך לחשב ריכוז תמיסה",
+            "link": "https://www.youtube.com/watch?v=OCzWE6fIWfU",
+            "thumbnail": "https://serpapi.com/searches/629e3d4dc573d58c675af187/images/9cd86fd7a3c6fb1041cb07c76971c8609b3bf3ea89a26667d5cf7a1006097b0c.jpeg",
+            "channel": "Yamit Hagalili",
+            "duration": "5:25",
+            "platform": "YouTube",
+            "date": "6 באוק׳ 2014"
+        },
+        {
+            "position": 3,
+            "title": "הכנת תמיסה בריכוז מולרי ממוצק",
+            "link": "https://www.youtube.com/watch?v=Oa5t7Ov93a8",
+            "thumbnail": "https://serpapi.com/searches/629e3d4dc573d58c675af187/images/9cd86fd7a3c6fb108c862400fb6f69c4e5227fb86c773c298bebf9db23e27fc3.jpeg",
+            "channel": "מכון דוידסון - סרטוני מדע",
+            "duration": "2:05",
+            "platform": "YouTube",
+            "date": "לפני 3 שבועות"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "תמיסה - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%AA%D7%9E%D7%99%D7%A1%D7%94",
+            "displayed_link": "https://he.wikipedia.org › wiki › תמיסה",
+            "snippet": "בכימיה, תמיסה היא תערובת הומוגנית (אחידה) של כמה חומרים שונים, כאשר אחד מהם מתפקד כממס והאחרים מומסים בו. המולקולות של החומרים המומסים מוקפות כולן במולקולות ...",
+            "snippet_highlighted_words": [
+                "תמיסה"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "תמיסה - – המכלול",
+            "link": "https://www.hamichlol.org.il/%D7%AA%D7%9E%D7%99%D7%A1%D7%94",
+            "displayed_link": "https://www.hamichlol.org.il › תמיסה",
+            "date": "26 בינו׳ 2022",
+            "snippet": "בכימיה, תמיסה היא תערובת הומוגנית (אחידה) של כמה חומרים שונים, כאשר אחד מהם מתפקד כממס והאחרים מומסים בו. המולקולות של החומרים המומסים ...",
+            "snippet_highlighted_words": [
+                "תמיסה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "סיכום על נושא תמיסות - מדעים",
+            "link": "http://www.mada.yefenof.manhi.org.il/BRPortal/br/P102.jsp?arc=190317",
+            "displayed_link": "http://www.mada.yefenof.manhi.org.il › BRPortal",
+            "snippet": "תמיסות תמיסה היא תערובת אחידה של חומרים שונים. בתמיסה שני מרכיבים : ממס : החומר בכמות הגדולה מומס : החומר בכמות הקטנה הממס יכול היות בכל מצבי הצבירה : מוצק ...",
+            "snippet_highlighted_words": [
+                "תמיסות תמיסה"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "מה זה תמיסה - מילון עברי עברי",
+            "link": "https://milog.co.il/%D7%AA%D7%9E%D7%99%D7%A1%D7%94",
+            "displayed_link": "https://milog.co.il › תמיסה",
+            "snippet": "בכימיה, תמיסה היא תערובת הומוגנית של כמה חומרים שונים, כאשר אחד מהם מתפקד כממס והאחרים מומסים בו. המולקולות של החומרים המומסים מוקפות כולן במולקולות של הממס ...",
+            "snippet_highlighted_words": [
+                "תמיסה"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "תמיסות",
+            "link": "http://www.orianit.edu-negev.gov.il/agnonnt/files/%D7%9E%D7%93%D7%A2%20%D7%95%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94%20%D7%9B%D7%99%D7%AA%D7%94%20%D7%97'/%D7%97%D7%A9%D7%9E%D7%9C%20%D7%95%D7%9B%D7%99%D7%9E%D7%99%D7%94/%D7%9B%D7%99%D7%9E%D7%99%D7%94/%D7%99%D7%95%D7%A0%D7%99%D7%9D/%D7%AA%D7%9E%D7%99%D7%A1%D7%95%D7%AA%20%D7%A2%D7%A0%D7%AA.pdf",
+            "displayed_link": "http://www.orianit.edu-negev.gov.il › תמיסות ענת",
+            "date": "4 דפים",
+            "snippet": "תמיסה עשויה. מומס. , או מומסים. אחדים, וממס )עפי\"ר נוזל(. ה. ממס. הוא החומר. שכמותו בתמיסה היא הגדולה ביותר. המומסים הם חומרי התמיסה שהתפרקו.",
+            "snippet_highlighted_words": [
+                "תמיסה",
+                "בתמיסה",
+                "התמיסה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "תמיסה רוויה - מטח",
+            "link": "https://lib.cet.ac.il/pages/item.asp?item=5939",
+            "displayed_link": "https://lib.cet.ac.il › pages › item",
+            "snippet": "בתמיסה יש חומר אחד מומס בתוך חומר אחר - ממס. התמיסה רוויה, כאשר לא ניתן להמיס עוד חומר מומס. כאשר מוסיפים לתמיסה רוויה חומר מומס או כאשר מפחיתים מכמות החומר ...",
+            "snippet_highlighted_words": [
+                "תמיסה",
+                "התמיסה",
+                "לתמיסה"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "תמיסות ריכוזים ומיהולים",
+            "link": "https://www.biu-edulab.org.il/wp-content/uploads/%D7%AA%D7%9E%D7%99%D7%A1%D7%95%D7%AA-%D7%A8%D7%99%D7%9B%D7%95%D7%96%D7%99%D7%9D-%D7%95%D7%9E%D7%99%D7%94%D7%95%D7%9C%D7%99%D7%9D.pdf",
+            "displayed_link": "https://www.biu-edulab.org.il › uploads › תמיסות-ר...",
+            "date": "6 דפים",
+            "snippet": "בריכוז. C-,) 1M. (. ריכוז. תמיסה. מהולה. (c2/. ב־ועו. סופי נפח. (X v2. במ״ל. מים, נפח. במ״ל. נפח. תמיסת. האם. ^v,). כמ״ל. מספר. מבחנה. 1.0. 5.",
+            "snippet_highlighted_words": [
+                "תמיסה",
+                "תמיסת"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "תמיסות ( נוזל לעדשות) - איך לבחור את התמיסה המתאימה - עדשות מגע",
+            "link": "https://www.adashot.co.il/articles/article-solutions/",
+            "displayed_link": "https://www.adashot.co.il › כתבות",
+            "snippet": "תמיסות לעדשות מגע הינן מוצר נילווה להרכבת עדשות מגע, אך השימוש בו משפיע ישירות על נוחות ההרכבה של העדשות ועל בריאות העין. בשנים האחרונות חלה עלייה בשימוש ...",
+            "snippet_highlighted_words": [
+                "תמיסות"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "תמיסה נוזלית (Solution) | כימיה ותעשייה כימית - המחלקה להוראת ...",
+            "link": "https://stwww1.weizmann.ac.il/learnchem/glossary/%D7%AA%D7%9E%D7%99%D7%A1%D7%94-%D7%A0%D7%95%D7%96%D7%9C%D7%99%D7%AA-solution/",
+            "displayed_link": "https://stwww1.weizmann.ac.il › כימיה ותעשייה כימית",
+            "snippet": "תמיסה נוזלית (Solution) ... תערובת נוזלית אחידה (הומוגנית) של שתי תרכובות או יותר כאשר החומר הנוזלי הוא הממס והחומר המומס יכול להיות מוצק. נוזל או גז. כאשר התמיסה ...",
+            "snippet_highlighted_words": [
+                "תמיסה",
+                "Solution",
+                "התמיסה"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "תמיסה תשחץ",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94+%D7%AA%D7%A9%D7%97%D7%A5&sa=X&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "תמיסה הגדרה",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94+%D7%94%D7%92%D7%93%D7%A8%D7%94&sa=X&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "תמיסה דוגמאות",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94+%D7%93%D7%95%D7%92%D7%9E%D7%90%D7%95%D7%AA&sa=X&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "תמיסה קולואידית",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94+%D7%A7%D7%95%D7%9C%D7%95%D7%90%D7%99%D7%93%D7%99%D7%AA&sa=X&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "תמיסה איזואוסמוטית",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94+%D7%90%D7%99%D7%96%D7%95%D7%90%D7%95%D7%A1%D7%9E%D7%95%D7%98%D7%99%D7%AA&sa=X&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ1QJ6BAguEAE"
+        },
+        {
+            "query": "תמיסה היפרטונית מצגת",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94+%D7%94%D7%99%D7%A4%D7%A8%D7%98%D7%95%D7%A0%D7%99%D7%AA+%D7%9E%D7%A6%D7%92%D7%AA&sa=X&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "תמיסה היפרטונית ביולוגיה",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94+%D7%94%D7%99%D7%A4%D7%A8%D7%98%D7%95%D7%A0%D7%99%D7%AA+%D7%91%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94&sa=X&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "תמיסה הסבר",
+            "link": "https://www.google.com/search?ucbcb=1&gl=il&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94+%D7%94%D7%A1%D7%91%D7%A8&sa=X&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ1QJ6BAgnEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&ucbcb=1&gl=il&hl=iw&ei=Uj2eYpzeFpD41sQPl8Oc0AQ&start=10&sa=N&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&ucbcb=1&gl=il&hl=iw&ei=Uj2eYpzeFpD41sQPl8Oc0AQ&start=10&sa=N&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&ucbcb=1&gl=il&hl=iw&ei=Uj2eYpzeFpD41sQPl8Oc0AQ&start=20&sa=N&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&ucbcb=1&gl=il&hl=iw&ei=Uj2eYpzeFpD41sQPl8Oc0AQ&start=30&sa=N&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&ucbcb=1&gl=il&hl=iw&ei=Uj2eYpzeFpD41sQPl8Oc0AQ&start=40&sa=N&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&ucbcb=1&gl=il&hl=iw&ei=Uj2eYpzeFpD41sQPl8Oc0AQ&start=50&sa=N&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&ucbcb=1&gl=il&hl=iw&ei=Uj2eYpzeFpD41sQPl8Oc0AQ&start=60&sa=N&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&ucbcb=1&gl=il&hl=iw&ei=Uj2eYpzeFpD41sQPl8Oc0AQ&start=70&sa=N&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&ucbcb=1&gl=il&hl=iw&ei=Uj2eYpzeFpD41sQPl8Oc0AQ&start=80&sa=N&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&ucbcb=1&gl=il&hl=iw&ei=Uj2eYpzeFpD41sQPl8Oc0AQ&start=90&sa=N&ved=2ahUKEwicz8jZsJn4AhUQvJUCHZchB0oQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%9E%D7%99%D7%A1%D7%94&start=90"
+        }
+    }
+}

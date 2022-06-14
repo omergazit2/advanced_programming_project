@@ -1,0 +1,208 @@
+{
+    "search_metadata": {
+        "id": "629e3d65e0ded406a8b75318",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/da18451abde65fdd/629e3d65e0ded406a8b75318.json",
+        "created_at": "2022-06-06 17:46:13 UTC",
+        "processed_at": "2022-06-06 17:46:13 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&oq=%D0%9F%D0%A6%D0%A0&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/da18451abde65fdd/629e3d65e0ded406a8b75318.html",
+        "total_time_taken": 1.94
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "ПЦР",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "ПЦР",
+        "total_results": 24100000,
+        "time_taken_displayed": 0.4
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Как работают тесты для определения COVID-19? Все, что ...",
+            "link": "https://www.iaea.org/ru/newscenter/multimedia/videos/kak-rabotayut-testy-dlya-opredeleniya-covid-19-vse-chto-nuzhno-znat-o-metode-ot-pcr",
+            "thumbnail": "https://serpapi.com/searches/629e3d65e0ded406a8b75318/images/5a39f4ebc951382bcb69141e9d59683a9853356250a9c53b824caf745812eb65.jpeg",
+            "platform": "International Atomic Energy Agency",
+            "date": "24 мар. 2021 г."
+        },
+        {
+            "position": 2,
+            "title": "ПЦР-тест на коронавирус | Проверено!",
+            "link": "https://www.youtube.com/watch?v=CpOCu3RhJLw",
+            "thumbnail": "https://serpapi.com/searches/629e3d65e0ded406a8b75318/images/5a39f4ebc951382ba02a0445f93e57f232587093c1b40e6cbde2b085adf8b191.jpeg",
+            "channel": "Телеканал Хабар 24",
+            "duration": "10:30",
+            "platform": "YouTube",
+            "date": "14 мая 2020 г."
+        },
+        {
+            "position": 3,
+            "title": "Омичам больше не нужен ПЦР-тест для въезда в Турцию",
+            "link": "https://vesti-omsk.ru/video/omicham-bolshe-ne-nuzhen-pcr-test-dlja-vezda-v-turciju/",
+            "thumbnail": "https://serpapi.com/searches/629e3d65e0ded406a8b75318/images/5a39f4ebc951382bec37a04150c1f6b448c90c5d46c09777b7632dfab9a18455.jpeg",
+            "channel": "ГТРК Иртыш",
+            "duration": "0:53",
+            "platform": "ГТРК &quot;Иртыш&quot;",
+            "date": "4 дня назад"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "ПЦР: что это такое? Диагностика инфекционных ... - Инвитро",
+            "link": "https://www.invitro.ru/library/labdiagnostika/16110/",
+            "displayed_link": "https://www.invitro.ru › ... › Лабораторная диагностика",
+            "thumbnail": "https://serpapi.com/searches/629e3d65e0ded406a8b75318/images/d010b439c726400fce5b0fb6b14c8a7259b0540a82ce7c4198fe9d999487d54c.jpeg",
+            "snippet": "Полимеразная цепная реакция (ПЦР) — экспериментальный метод молекулярной биологии, способ значительного увеличения малых концентраций определённых фрагментов ...",
+            "snippet_highlighted_words": [
+                "Полимеразная цепная реакция",
+                "ПЦР"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Диагностика COVID-19 в Инвитро: ПЦР тесты ...",
+                    "link": "https://www.invitro.ru/l/laboratornye-testy-na-covid-19/",
+                    "displayed_link": "https://www.invitro.ru › laboratornye-testy-na-covid-19",
+                    "thumbnail": "https://serpapi.com/searches/629e3d65e0ded406a8b75318/images/d010b439c726400fce5b0fb6b14c8a727d975e470db0a96d08f0661f0c717a3323d8a207aa6552d30821c6c7aacdbbad.jpeg",
+                    "snippet": "ПЦР-тест позволяет определить наличие/отсутствие генетического материала (РНК) вируса в мазке со слизистой носо- и/или ротоглотки и является основным ...",
+                    "snippet_highlighted_words": [
+                        "ПЦР"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Полимеразная цепная реакция - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%B7%D0%BD%D0%B0%D1%8F_%D1%86%D0%B5%D0%BF%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%8F",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Полимеразная_цепная...",
+            "thumbnail": "https://serpapi.com/searches/629e3d65e0ded406a8b75318/images/d010b439c726400fce5b0fb6b14c8a72c0772a460d3cf391bb35b10d13efc1b2.jpeg",
+            "snippet": "Полимера́зная цепна́я реа́кция (ПЦР) — метод молекулярной биологии, позволяющий добиться значительного увеличения малых концентраций определённых фрагментов ...",
+            "snippet_highlighted_words": [
+                "ПЦР"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "ПЦР-тесты на COVID-19 в Москве - Гемотест",
+            "link": "https://gemotest.ru/moskva/covid19/tests/pcr/",
+            "displayed_link": "https://gemotest.ru › moskva › covid19 › tests › pcr",
+            "snippet": "Тест ПЦР на ковид, сдать анализ по доступной цене в Москве. Диагностика коронавируса (COVID-19) в Гемотест. Быстрое получение результатов.",
+            "snippet_highlighted_words": [
+                "ПЦР"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Бесконтактный ПЦР-тест",
+                        "link": "https://gemotest.ru/moskva/covid19/tests/selftest/"
+                    },
+                    {
+                        "title": "Тесты на антитела",
+                        "link": "https://gemotest.ru/moskva/covid19/tests/antitela/"
+                    },
+                    {
+                        "title": "Экспресс тест на антиген...",
+                        "link": "https://gemotest.ru/moskva/catalog/infektsii/virusy/koronavirus-sars-cov-2/vyyavlenie-virusa-sars-cov-2/koronavirus-antigen-sars-cov-2-ag-mazok-kach-ekspress-test-sd-biosensor/"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "ПЦР метод сдачи анализа на инфекции, полимеразная ...",
+            "link": "https://kristall-dent.ru/services/dopinfo/17/201/",
+            "displayed_link": "https://kristall-dent.ru › services › dopinfo",
+            "thumbnail": "https://serpapi.com/searches/629e3d65e0ded406a8b75318/images/d010b439c726400fce5b0fb6b14c8a72917b44a813d53ed014d20cf11206dd8f.jpeg",
+            "snippet": "Полимеразную цепную реакцию (ПЦР, PCR) изобрёл в 1983 году Кэри Мюллис (американский учёный). Впоследствии он получил за это изобретение Нобелевскую премию.",
+            "snippet_highlighted_words": [
+                "ПЦР"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "ПЦР - диагностика инфекций - Медицинская клиника Европа",
+            "link": "https://evropa-clinic.ru/service/laboratornye-analizy/ptsr-diagnostika-infektsiy/",
+            "displayed_link": "https://evropa-clinic.ru › ptsr-diagnostika-infektsiy",
+            "snippet": "Полимеразная цепная реакция (ПЦР) – это современный инструмент диагностики разнообразных инфекций, отличающийся высокой точностью. Анализ ПЦР позволяет ...",
+            "snippet_highlighted_words": [
+                "Полимеразная цепная реакция",
+                "ПЦР",
+                "ПЦР"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "ПЦР-диагностика - ДНК-клиника",
+            "link": "https://dnk-k.ru/metod-pcr.htm",
+            "displayed_link": "https://dnk-k.ru › metod-pcr",
+            "snippet": "ПЦР (PCR) или полимеразная цепная реакция – это один из самых точных методов лабораторной диагностики различных инфекций, в том числе ИППП (инфекций, ...",
+            "snippet_highlighted_words": [
+                "ПЦР",
+                "полимеразная цепная реакция"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Что такое анализ ПЦР? - статья лаборатории ДНКОМ",
+            "link": "https://dnkom.ru/o-kompanii/stati/diagnostika-v-detalyakh/chto-takoe-analiz-ptsr/",
+            "displayed_link": "https://dnkom.ru › stati › chto-takoe-analiz-ptsr",
+            "date": "10 февр. 2022 г.",
+            "snippet": "ПЦР (полимеразная цепная реакция) — это молекулярно-биологический метод, в основе которого лежит амплификация (то есть многократное увеличение) ...",
+            "snippet_highlighted_words": [
+                "ПЦР",
+                "полимеразная цепная реакция"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Полимеразная цепная реакция (ПЦР) - Консультативно ...",
+            "link": "http://kdp-2.ru/uslugi/polimeraznaya-tsepnaya-reaktsiya-ptsr/",
+            "displayed_link": "http://kdp-2.ru › polimeraznaya-tsepnaya-reaktsiya-ptsr",
+            "snippet": "ПЦР (полимеразная цепная реакция) — высокоточный метод лабораторной диагностики, позволяющий определять малые концентрации возбудителей инфекционных ...",
+            "snippet_highlighted_words": [
+                "ПЦР",
+                "полимеразная цепная реакция"
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&gl=ru&hl=ru&ei=ZT2eYqzdNvCO0PEPuvGHWA&start=10&sa=N&ved=2ahUKEwjso_DisJn4AhVwBzQIHbr4AQsQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&gl=ru&hl=ru&ei=ZT2eYqzdNvCO0PEPuvGHWA&start=10&sa=N&ved=2ahUKEwjso_DisJn4AhVwBzQIHbr4AQsQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&gl=ru&hl=ru&ei=ZT2eYqzdNvCO0PEPuvGHWA&start=20&sa=N&ved=2ahUKEwjso_DisJn4AhVwBzQIHbr4AQsQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&gl=ru&hl=ru&ei=ZT2eYqzdNvCO0PEPuvGHWA&start=30&sa=N&ved=2ahUKEwjso_DisJn4AhVwBzQIHbr4AQsQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&gl=ru&hl=ru&ei=ZT2eYqzdNvCO0PEPuvGHWA&start=40&sa=N&ved=2ahUKEwjso_DisJn4AhVwBzQIHbr4AQsQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&gl=ru&hl=ru&ei=ZT2eYqzdNvCO0PEPuvGHWA&start=50&sa=N&ved=2ahUKEwjso_DisJn4AhVwBzQIHbr4AQsQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&gl=ru&hl=ru&ei=ZT2eYqzdNvCO0PEPuvGHWA&start=60&sa=N&ved=2ahUKEwjso_DisJn4AhVwBzQIHbr4AQsQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&gl=ru&hl=ru&ei=ZT2eYqzdNvCO0PEPuvGHWA&start=70&sa=N&ved=2ahUKEwjso_DisJn4AhVwBzQIHbr4AQsQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&gl=ru&hl=ru&ei=ZT2eYqzdNvCO0PEPuvGHWA&start=80&sa=N&ved=2ahUKEwjso_DisJn4AhVwBzQIHbr4AQsQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D0%9F%D0%A6%D0%A0&gl=ru&hl=ru&ei=ZT2eYqzdNvCO0PEPuvGHWA&start=90&sa=N&ved=2ahUKEwjso_DisJn4AhVwBzQIHbr4AQsQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%A6%D0%A0&start=90"
+        }
+    }
+}

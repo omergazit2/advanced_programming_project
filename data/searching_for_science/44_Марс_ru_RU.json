@@ -1,0 +1,425 @@
+{
+    "search_metadata": {
+        "id": "629e3da396f5d788b50103d0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9aec8210a03cebe1/629e3da396f5d788b50103d0.json",
+        "created_at": "2022-06-06 17:47:15 UTC",
+        "processed_at": "2022-06-06 17:47:15 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&oq=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/9aec8210a03cebe1/629e3da396f5d788b50103d0.html",
+        "total_time_taken": 1.46
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Марс",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Марс",
+        "total_results": 18100000,
+        "time_taken_displayed": 0.74
+    },
+    "knowledge_graph": {
+        "title": "Марс",
+        "type": "Планета",
+        "header_images": [
+            {
+                "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81"
+            },
+            {
+                "source": "https://scientificrussia.ru/articles/krasnye-na-krasnoj-planete-sovetskie-missii-na-mars"
+            },
+            {
+                "source": "https://starwalk.space/ru/news/mars-the-ultimate-guide"
+            },
+            {
+                "source": "https://naked-science.ru/article/nakedscience/mars-eto-vam-ne-luna-pochemu"
+            },
+            {
+                "source": "https://rusunion.com/v-turciyu-na-mars-ne-hotite-li/"
+            }
+        ],
+        "description": "Марс — четвёртая по удалённости от Солнца и седьмая по размеру планета Солнечной системы; масса планеты составляет 10,7 % массы Земли. Названа в честь Марса — древнеримского бога войны, соответствующего древнегреческому Аресу.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81"
+        },
+        "Масса": "6,39E23 кг (0,107 M⊕)",
+        "Масса_links": [
+            {
+                "text": "Масса",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%B0%D1%80%D1%81+%D0%BC%D0%B0%D1%81%D1%81%D0%B0&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9aSzE620k8sLinKz8vPrdQvyEnMSy2xyk0sLl7EKnxhz4UNFxsuNiqAGY0XGy9sAAB6_SMBPQAAAA&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ6BMoAHoFCIMBEAI"
+            }
+        ],
+        "Площадь_поверхности": "144 800 000 км²",
+        "Площадь_поверхности_links": [
+            {
+                "text": "Площадь поверхности",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%B0%D1%80%D1%81+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D0%B8&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9aSzE620k8sLinKz8vPrdQvyEnMSy2xSixKTVzEqndhz4UNFxsuNipc2H9h94V9FzsvbLiw5WIPiLvvwqYLW4FyrRf2AiUaLzZd2AEAVEIiaFgAAAA&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ6BMoAHoECH8QAg"
+            }
+        ],
+        "Период_обращения": "687 дней",
+        "Период_обращения_links": [
+            {
+                "text": "Период обращения",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%B0%D1%80%D1%81+%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4+%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9YyzE620k8sLinKz8vPrdTPL0rKLEnMiS9KzUksyczPK87ILLCCCioUpBZl5qcsYtW4sOfChosNFxsVLuy_sPViw4UdF_Zd2KIAJDYCORsudl7YemHvhR0X-wGVF5cEagAAAA&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ6BMoAHoFCIUBEAI"
+            }
+        ],
+        "Продолжительность_суток": "1 д 0 ч 37 мин",
+        "Продолжительность_суток_links": [
+            {
+                "text": "Продолжительность суток",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%B0%D1%80%D1%81+%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C+%D1%81%D1%83%D1%82%D0%BE%D0%BA&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSyk620k8sLinKz8vPrdQvyEnMSy2xyknNSy_JUMhPU0hJrFzEanZhz4UNFxsuNipc2H-x4cK-C1uAePeFbRd2XGy6sPXC7os9F_Ze2Hex8WLTxR4FINUMFN53YRcAhWw9fmkAAAA&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ6BMoAHoFCIQBEAI"
+            }
+        ],
+        "Ускорение_свободного_падения": "3,721 м/с²",
+        "Ускорение_свободного_падения_links": [
+            {
+                "text": "Ускорение свободного падения",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%B0%D1%80%D1%81+%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5+%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSy0620k8sLinKz8vPrdRPTs1JLS7JTMyJz0_KSk0usUovSizLLKlcxGp_Yc-FDRcbLjYqXGy-2Hhh14V9FxsubL2w98KOC1sVgAKbLuy7sBGItwCF9l3YfGGfwoX9FzYAuWA1F_sB2eAnKHYAAAA&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ6BMoAHoECHgQAg"
+            }
+        ],
+        "Расстояние_от_Солнца": "227 900 000 км",
+        "Расстояние_от_Солнца_links": [
+            {
+                "text": "Расстояние от Солнца",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%B0%D1%80%D1%81+%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5+%D0%BE%D1%82+%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B0&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL9ZSy0620k8sLinKz8vPrdQvyEnMSy2xSsksLknMS05VSCvKz1UoLs1bxKp_Yc-FDRcbLjYqXGwAMhqBsOnCvov9F_Ze2HFhqwKQ2aRwsfHCvgu7L-y92HZhAwCYjRuqZgAAAA&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ6BMoAHoECGMQAg"
+            }
+        ],
+        "Спутники": "Фобос, Деймос",
+        "Спутники_links": [
+            {
+                "text": "Спутники",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%BC%D0%B0%D1%80%D1%81+%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%B8&stick=H4sIAAAAAAAAAAFRAK7_CA4SCC9tLzA5Y3dzKidrYzovYXN0cm9ub215L29yYml0YWxfcmVsYXRpb25zaGlwOm1vb26iBRnQvNCw0YDRgSDRgdC_0YPRgtC90LjQutC4qBG3gVEAAAA&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ6BMoAHoECGUQAg"
+            },
+            {
+                "text": "Фобос",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A4%D0%BE%D0%B1%D0%BE%D1%81&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL1YCs1IqCrO01LOTrfQTi0uK8vPycyv184uSMksSc-KLUnMSSzLz84ozMguscvPz8xaxcl1YcmHfhY0X9l1s3MHKuIudiYMRAFssDxxUAAAA&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQmxMoAXoECGUQAw"
+            },
+            {
+                "text": "Деймос",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%94%D0%B5%D0%B9%D0%BC%D0%BE%D1%81&stick=H4sIAAAAAAAAAOPgE-LQz9U3sEwuL1YCszKKTY211LOTrfQTi0uK8vPycyv184uSMksSc-KLUnMSSzLz84ozMguscvPz8xax8lyYcmHrhZ0X9lzYd7FxByvjLnYmDkYAysJWv1YAAAA&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQmxMoAnoECGUQBA"
+            }
+        ],
+        "Похожие_запросы": [
+            {
+                "name": "Юпитер",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUuYBL3ve-oiNvkjJLIaVaPppI2zkYY3jAY5jVOmzKXcouTWp_7kZEr_qM7YWVyElkw5YJWSn2_iYCesyEXYYHdUHhFSltakOGfi2Qv-PsdAEhy_wGjZ2GiljPcpkm-9M5Cq7yTVfVh8WUtoTlxCPIvLfwt-2MWLumWACu9u58txd9PoUDOg9D-_jo6M7FTgaWp5C-NrvuyAl9GDqEZsUiR5hV3U_l9dwzHSPmuqis2_jmU3z8bimh7z4xN1p2KdMxzq8jU%3D&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQxA16BAhoEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUuYBL3ve-oiNvkjJLIaVaPppI2zkYY3jAY5jVOmzKXcouTWp_7kZEr_qM7YWVyElkw5YJWSn2_iYCesyEXYYHdUHhFSltakOGfi2Qv-PsdAEhy_wGjZ2GiljPcpkm-9M5Cq7yTVfVh8WUtoTlxCPIvLfwt-2MWLumWACu9u58txd9PoUDOg9D-_jo6M7FTgaWp5C-NrvuyAl9GDqEZsUiR5hV3U_l9dwzHSPmuqis2_jmU3z8bimh7z4xN1p2KdMxzq8jU%3D",
+                "image": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/f365783d588b1e992f7c1e7784fcdfad25c7763280668e7b6531cc5a71df9faec9bc8d4dc62958b791dcb6f9763b310caa7f6a8f30075814.jpeg"
+            },
+            {
+                "name": "Венера",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSPH3ELTeWm7Hh0oGjbURRg4OVVW4MgdGX8-kcKFroiyfA8FE9Go5AAmlRKCjLoBJEH7USTzaZRvPKLZUWkPub_I8FKuyBFyjVGrXeEGcvf4G-8g9QqDb9LkHkA2DztVMPKfycjO5xkWX2ofRDOc94x-nm7eKCOobWHcUlKaUQy6prAxnhAbmRDgoMgkexOh8gxfrlbHjsYXV-Kk-FNGt45cVbVGJ0esKxULrDL1b_jx_HIQ-67CpjI4_sEEfPPfih87v2g%3D&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQxA16BAhoEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSPH3ELTeWm7Hh0oGjbURRg4OVVW4MgdGX8-kcKFroiyfA8FE9Go5AAmlRKCjLoBJEH7USTzaZRvPKLZUWkPub_I8FKuyBFyjVGrXeEGcvf4G-8g9QqDb9LkHkA2DztVMPKfycjO5xkWX2ofRDOc94x-nm7eKCOobWHcUlKaUQy6prAxnhAbmRDgoMgkexOh8gxfrlbHjsYXV-Kk-FNGt45cVbVGJ0esKxULrDL1b_jx_HIQ-67CpjI4_sEEfPPfih87v2g%3D",
+                "image": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/f365783d588b1e992f7c1e7784fcdfad25c7763280668e7b6531cc5a71df9faec9bc8d4dc62958b78640247c7cc4a000cdeb80bc3442a156.jpeg"
+            },
+            {
+                "name": "Земля",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQTOzpBDSw8_zYW3jURgYQJEip52VGxsfmVqBgSsOmKyBGeMbl-b4mF93XfQom4oWPiBaWHGD04OWPy0neLDGbemZrfXJ3kLJEJYdytrKNfouvmVakvvEhcg8bWzlBU7DwNvk7kolz-F0bcgyRMGZmbhG0gHO5U1Y_FVvGsbsiiNhmLIcAuiwYOiiPmPTki_LV1GBIbN4Lrpnl2AK4ofmWHe5bleJeKJZ7-_End8foSEIBi4UkH22jRR3RSwVPliDAx0gy4%3D&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQxA16BAhoEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQTOzpBDSw8_zYW3jURgYQJEip52VGxsfmVqBgSsOmKyBGeMbl-b4mF93XfQom4oWPiBaWHGD04OWPy0neLDGbemZrfXJ3kLJEJYdytrKNfouvmVakvvEhcg8bWzlBU7DwNvk7kolz-F0bcgyRMGZmbhG0gHO5U1Y_FVvGsbsiiNhmLIcAuiwYOiiPmPTki_LV1GBIbN4Lrpnl2AK4ofmWHe5bleJeKJZ7-_End8foSEIBi4UkH22jRR3RSwVPliDAx0gy4%3D",
+                "image": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/f365783d588b1e992f7c1e7784fcdfad25c7763280668e7b6531cc5a71df9faec9bc8d4dc62958b7274642a023b76451e792ceaa40716acc.jpeg"
+            },
+            {
+                "name": "Меркурий",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddKy9thhgSOcAZgRAsoPzKwEoXwo3KzXN-hm1WE1EhqvtFgh61zyEecU-50dVHRDbOzyn2bRdQybH_yDwWtMY75094WfNpK2BrxJyJpeC9uLr4fOVDjGjSNr8VFkVW-vpmR3DXN0rn8ki7s7t47fgh4fOrww7ToLVARbtJ7IKuhoBcGRzHFPblhIxc6Ljz8T5Ljap9KptUV7QBes7NJn9TLNtO-dj2tsDej5yUwx-00KfEk4ueL8ko07byyWPuU2QVW53cY%3D&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQxA16BAhoEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddKy9thhgSOcAZgRAsoPzKwEoXwo3KzXN-hm1WE1EhqvtFgh61zyEecU-50dVHRDbOzyn2bRdQybH_yDwWtMY75094WfNpK2BrxJyJpeC9uLr4fOVDjGjSNr8VFkVW-vpmR3DXN0rn8ki7s7t47fgh4fOrww7ToLVARbtJ7IKuhoBcGRzHFPblhIxc6Ljz8T5Ljap9KptUV7QBes7NJn9TLNtO-dj2tsDej5yUwx-00KfEk4ueL8ko07byyWPuU2QVW53cY%3D",
+                "image": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/f365783d588b1e992f7c1e7784fcdfad25c7763280668e7b6531cc5a71df9faec9bc8d4dc62958b7bbf59584c4433198668b134128d2bb07.jpeg"
+            }
+        ],
+        "Похожие_запросы_link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&stick=H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7QEgzNTUssTK4v9UitKgktSC4oXsXJcmHNhw8WGi407WBkBwy90_TcAAAA&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQMSgAegQIaBAB",
+        "Похожие_запросы_stick": "H4sIAAAAAAAAAONgFuLQz9U3sEwuL1aCs7QEgzNTUssTK4v9UitKgktSC4oXsXJcmHNhw8WGi407WBkBwy90_TcAAAA",
+        "Возможно_вы_искали": [
+            {
+                "name": "Mars",
+                "extensions": [
+                    "Компания"
+                ],
+                "image": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/f365783d588b1e992f7c1e7784fcdfadccb2d2e4739c322619dabb1d70306e8defd9ff8d3ea7b1783d96f75ca20fd6707da4be46de94e987e91f2682fc34110e.png"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Почему марс умер, а земля живет",
+            "link": "https://www.youtube.com/watch?v=y2uGNxbhXKk",
+            "thumbnail": "https://i.ytimg.com/vi/y2uGNxbhXKk/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lRnRi4D4unqmMo4RESCR4wc9V3zA",
+            "channel": "Лови Момент",
+            "duration": "7:43",
+            "platform": "YouTube",
+            "date": "30 нояб. 2019 г."
+        },
+        {
+            "position": 2,
+            "title": "Марс — следующая Земля | ДЕТАЛИ",
+            "link": "https://www.youtube.com/watch?v=Mfl3JSWdKRU",
+            "thumbnail": "https://i.ytimg.com/vi/Mfl3JSWdKRU/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lvGjzvjqiI5-hiXeB4WjKvZsKfnQ",
+            "channel": "Настоящее Время",
+            "duration": "23:26",
+            "platform": "YouTube",
+            "date": "17 июн. 2019 г."
+        },
+        {
+            "position": 3,
+            "title": "Марс – машина времени",
+            "link": "https://www.youtube.com/watch?v=0e-kBE2rBQQ",
+            "thumbnail": "https://i.ytimg.com/vi/0e-kBE2rBQQ/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nmxEay812TthmC4yoVjA9oWhTlaA",
+            "channel": "Роскосмос ТВ",
+            "duration": "3:44",
+            "platform": "YouTube",
+            "date": "18 мая 2018 г."
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Марсоход Curiosity сфотографировал нечто, похожее на цветы или шипы на Марсе",
+            "link": "https://pogoda.mail.ru/news/51600236/",
+            "source": "Погода",
+            "date": "3 дня назад",
+            "thumbnail": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/0310a3b935b1cf4cbbef44aea2ebfe661a4e17eb325d7146.jpeg"
+        },
+        {
+            "title": "Ровер Curiosity нашел каменные «стебли» на Марсе",
+            "link": "https://naked-science.ru/community/462154/",
+            "source": "Naked Science",
+            "date": "16 часов назад",
+            "thumbnail": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/0310a3b935b1cf4cc0fc07f21696afd72b4f11fead01ff0a.jpeg"
+        },
+        {
+            "title": "Марсоход Curiosity обнаружил на Красной планете необычные \"столбы\" (фото)",
+            "link": "https://focus.ua/technologies/517931-marsohod-curiosity-obnaruzhil-na-krasnoy-planete-neobychnye-stolby-foto",
+            "source": "Фокус",
+            "date": "1 день назад",
+            "thumbnail": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/0310a3b935b1cf4c0ee23118667225356981984f1b346c09.jpeg"
+        },
+        {
+            "title": "Илон Маск все еще планирует отправить миллион колонистов на Марс",
+            "link": "https://shazoo.ru/2022/06/06/127568/ilon-mask-vse-eshhe-planiruet-otpravit-million-kolonistov-na-mars",
+            "source": "Shazoo",
+            "date": "2 часа назад",
+            "thumbnail": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/0310a3b935b1cf4c368bfc25f18f93c16648de4dac0a68e0.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQt8YBegQIBBAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&tbm=nws",
+    "related_questions": [
+        {
+            "question": "Сколько дней до Марса?",
+            "snippet": "Сколько лететь до Марса по времени По расчётам специалистов, работающих над миссией Mars One, время полёта составит около 210 дней или 7-8 месяцев. Хотя на Красную планету ещё не ступала нога человека, беспилотных космических аппаратов и «марсоходов» здесь побывало уже немало.",
+            "title": "Сколько лететь с Земли до Марса – время и маршруты - Equity.today",
+            "link": "https://equity.today/polet-na-mars.html",
+            "displayed_link": "https://equity.today › polet-na-mars"
+        },
+        {
+            "question": "Как звали бога Марса?",
+            "snippet": "Mārspiter или раздельно Mārs pater «Марс-отец»; на языке сабинов Māmers). В римской религии Марс — один из древнейших богов Италии и Рима, входил в триаду богов, первоначально возглавлявших римский пантеон (Юпитер, Марс и Квирин). Бог войны. Арес, Budenicus, Марс, Камул, Q3853003?",
+            "title": "Марс (мифология) - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Марс_(мифология)"
+        },
+        {
+            "question": "Чем отличается Марс от Земли?",
+            "snippet": "По линейному размеру Марс практически ровно вдвое меньше Земли. Его средний экваториальный радиус оценивается как 3396,9 ± 0,4 км или 3396,2 ± 0,1 км (53,2 % земного). Средний полярный радиус Марса оценивается в 3374,9 км или 3376,2 ± 0,1 км; полярный радиус у северного полюса — 3376,2 км, у южного — 3382,6 км.",
+            "title": "Марс - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Марс"
+        },
+        {
+            "question": "Какая температура на поверхности Марса?",
+            "snippet": "Средняя температура на Марсе, по данным НАСА, — минус 60 °С. Зимой ближе к полюсам может доходить до минус 125 °С. Летним днем у экватора воздух нагревается до +20 °С, однако в ночное время может похолодать до минус 73 °С.3 февр. 2022 г.",
+            "title": "Какая температура на Марсе? - Наука и космос - Gismeteo",
+            "link": "https://www.gismeteo.ru/news/science/kakaya-temperatura-na-marse/",
+            "displayed_link": "https://www.gismeteo.ru › kakaya-temperatura-na-marse"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Марс - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Марс",
+            "thumbnail": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/50b9dcd0db62e94bb4a2f5c6342a2e98b06ba29b92c9d7188213444b86241e5c.jpeg",
+            "snippet": "Марс — планета земной группы с разреженной атмосферой (давление на поверхности в 160 раз меньше земного). ... Особенностями поверхностного рельефа Марса можно ...",
+            "snippet_highlighted_words": [
+                "Марс",
+                "Марса"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Марс-6",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81-6"
+                    },
+                    {
+                        "title": "Олимп (Марс)",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF_(%D0%9C%D0%B0%D1%80%D1%81)"
+                    },
+                    {
+                        "title": "Марс (значения)",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "Масса_m_⋅_кг_земной": 64171,
+                        "период_вращения_t_часа_минут": 24,
+                        "Экваториальная_скорость_вращения": 86822,
+                        "площадь_поверхности_s_⋅_км²": 14437
+                    },
+                    "extensions": [
+                        "Масса (m): 6,4171⋅1023 кг; 0,107 земной",
+                        "Период вращения (T): 24 часа 37 минут 22,6...",
+                        "Экваториальная скорость вращения: 868,22 ...",
+                        "Площадь поверхности (S): 1,4437⋅108 км²; ..."
+                    ]
+                }
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Марс (мифология) - Википедия",
+                    "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)",
+                    "displayed_link": "https://ru.wikipedia.org › wiki › Марс_(мифология)",
+                    "thumbnail": "https://serpapi.com/searches/629e3da396f5d788b50103d0/images/50b9dcd0db62e94bb4a2f5c6342a2e985dd51fb2cc5eaa24cf7bd1b0c14c81549881d1bf5d34503fead16132fe27fc3c.jpeg",
+                    "snippet": "Марс (лат. Mārs < др.-лат. Māvors, старый вокатив Mārmār; также лат."
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Центр современного искусства МАРС - выставочный центр ...",
+            "link": "https://centermars.ru/",
+            "displayed_link": "https://centermars.ru",
+            "snippet": "Центр современного искусства Марс на переулке Пушкарева, дом 5 в Москве. Интерактивная площадка и уникальные выставки, которым нет аналогов в России.",
+            "snippet_highlighted_words": [
+                "Марс"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Марс — все статьи и новости - Индикатор - Indicator.Ru",
+            "link": "https://indicator.ru/label/mars",
+            "displayed_link": "https://indicator.ru › label › mars",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_EAFeRI4woM-wSP03borsZVWcH3yLR_xG2AirZnpju4fnaZpKpod&usqp=CAE&s",
+            "snippet": "Марс — четвертая по удаленности от звезды планета Солнечной системы. Диаметр планеты — 6794 км (0,53 диаметра Земли). Его орбита находится в 1,52 а. е. от ...",
+            "snippet_highlighted_words": [
+                "Марс"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Марс - последние новости сегодня",
+            "link": "https://ria.ru/location_Mars/",
+            "displayed_link": "https://ria.ru › location_Mars",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnjgcFgR3X8vBbUOd8xm1cvqNe710ZmtE0Gn_MqbOwd9S9nbgxCP8&usqp=CAE&s",
+            "snippet": "Марс. Читайте последние новости на тему в ленте новостей на сайте РИА Новости. : Анна Староминская.",
+            "snippet_highlighted_words": [
+                "Марс"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "МАРС",
+            "link": "http://selena.sai.msu.ru/Home/SolarSystem/mars/mars.htm",
+            "displayed_link": "http://selena.sai.msu.ru › SolarSystem › mars › mars",
+            "snippet": "Четвертая от Солнца планета, названная по имени бога войны - Марса, расположена в 1,5 раза дальше, чем Земля. Она движется по более вытянутой орбите, ...",
+            "snippet_highlighted_words": [
+                "Марса"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Марс: интересные факты о Красной планете - Star Walk",
+            "link": "https://starwalk.space/ru/news/mars-the-ultimate-guide",
+            "displayed_link": "https://starwalk.space › news › mars-the-ultimate-guide",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDo7bXocghDvsZoHOeZFgQKATXE19HDGxSFCMZjOpzBFE6g1_qVNLQ&usqp=CAE&s",
+            "date": "5 дней назад",
+            "snippet": "Факты о Марсе · Тип: планета земной группы · Радиус: 3 396 км · Масса: 6,417 × 10^23 кг · Афелий: 249,2 млн км · Перигелий: 206,6 млн км · Среднее ...",
+            "snippet_highlighted_words": [
+                "Марсе"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Марс — последние новости сегодня на РБК.Ру",
+            "link": "https://www.rbc.ru/tags/?tag=%D0%9C%D0%B0%D1%80%D1%81",
+            "displayed_link": "https://www.rbc.ru › tags › tag=Марс",
+            "snippet": "Марс · Технологии и медиа, 17 мар, 18:42 · Технологии и медиа, 01 янв, 10:37 · Общество, 16 дек 2021, 00:11 · Технологии и медиа, 14 дек 2021, 03:39 · Технологии и ...",
+            "snippet_highlighted_words": [
+                "Марс"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "марс шоколад",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D1%80%D1%81+%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "марс планета",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D1%80%D1%81+%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ1QJ6BAggEAE"
+        },
+        {
+            "query": "марс бог",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D1%80%D1%81+%D0%B1%D0%BE%D0%B3&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "марс диаметр",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D1%80%D1%81+%D0%B4%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ1QJ6BAgeEAE"
+        },
+        {
+            "query": "марс фото",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D1%80%D1%81+%D1%84%D0%BE%D1%82%D0%BE&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ1QJ6BAgdEAE"
+        },
+        {
+            "query": "марс температура",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D1%80%D1%81+%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ1QJ6BAgcEAE"
+        },
+        {
+            "query": "жизнь на марсе",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%96%D0%B8%D0%B7%D0%BD%D1%8C+%D0%BD%D0%B0+%D0%9C%D0%B0%D1%80%D1%81%D0%B5&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ1QJ6BAgaEAE"
+        },
+        {
+            "query": "марс: поверхность",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D1%80%D1%81:+%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D1%8C&sa=X&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ1QJ6BAgYEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&ei=oz2eYuShMbatqtsP2ICp0A4&start=10&sa=N&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&ei=oz2eYuShMbatqtsP2ICp0A4&start=10&sa=N&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&ei=oz2eYuShMbatqtsP2ICp0A4&start=20&sa=N&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&ei=oz2eYuShMbatqtsP2ICp0A4&start=30&sa=N&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&ei=oz2eYuShMbatqtsP2ICp0A4&start=40&sa=N&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&ei=oz2eYuShMbatqtsP2ICp0A4&start=50&sa=N&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&ei=oz2eYuShMbatqtsP2ICp0A4&start=60&sa=N&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&ei=oz2eYuShMbatqtsP2ICp0A4&start=70&sa=N&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&ei=oz2eYuShMbatqtsP2ICp0A4&start=80&sa=N&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D0%9C%D0%B0%D1%80%D1%81&hl=ru&gl=ru&ei=oz2eYuShMbatqtsP2ICp0A4&start=90&sa=N&ved=2ahUKEwik_7KAsZn4AhW2lmoFHVhACuoQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B0%D1%80%D1%81&start=90"
+        }
+    }
+}

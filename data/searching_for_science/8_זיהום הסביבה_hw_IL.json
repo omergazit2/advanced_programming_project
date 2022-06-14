@@ -1,0 +1,253 @@
+{
+    "search_metadata": {
+        "id": "629e37ccedb034026d6a8d79",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3a74e727369edfbc/629e37ccedb034026d6a8d79.json",
+        "created_at": "2022-06-06 17:22:20 UTC",
+        "processed_at": "2022-06-06 17:22:20 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&oq=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3a74e727369edfbc/629e37ccedb034026d6a8d79.html",
+        "total_time_taken": 2.44
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "זיהום הסביבה",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "זיהום הסביבה",
+        "total_results": 1500000,
+        "time_taken_displayed": 0.36
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&tbm=isch&source=iu&ictx=1&vet=1&fir=ch--WQ6QyBALxM%252Czpi-Nko5LhgVjM%252C_%253Bpytej-Jx5dz_CM%252CwFTwJ4Fw2C5oLM%252C_%253BI3QcIRgfvhiYUM%252C_R3-9xvULHE1TM%252C_%253BrqK4jPn1dNKaCM%252CzNdkXQpCE-WwLM%252C_%253BJ7rFdj-Fqll2EM%252CwFTwJ4Fw2C5oLM%252C_%253BIpBf7N7xizwpsM%252CS7gekNI6mgwcHM%252C_%253BJkOH2BPlMwuAdM%252Czpi-Nko5LhgVjM%252C_%253BMANJfKviX5yMAM%252CT-F6hESE7SadxM%252C_%253BjBsSc620Nn8EoM%252CE_NbHzuB1f2nkM%252C_%253BXdh_xkA5aoYJoM%252C-_MNOpk1tHjahM%252C_&usg=AI4_-kQijg3YvGAqRFHPsRckYSbAK9Yorg&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ9QF6BAg1EAE#imgrc=ch--WQ6QyBALxM",
+            "source": "https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%94%D7%95%D7%9D_%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94",
+            "thumbnail": "https://serpapi.com/searches/629e37ccedb034026d6a8d79/images/93bc31aa9e5260e8217e5d05f88a578e5eb420eee9aa21c9f2f610eb04934eb8.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&tbm=isch&source=iu&ictx=1&vet=1&fir=ch--WQ6QyBALxM%252Czpi-Nko5LhgVjM%252C_%253Bpytej-Jx5dz_CM%252CwFTwJ4Fw2C5oLM%252C_%253BI3QcIRgfvhiYUM%252C_R3-9xvULHE1TM%252C_%253BrqK4jPn1dNKaCM%252CzNdkXQpCE-WwLM%252C_%253BJ7rFdj-Fqll2EM%252CwFTwJ4Fw2C5oLM%252C_%253BIpBf7N7xizwpsM%252CS7gekNI6mgwcHM%252C_%253BJkOH2BPlMwuAdM%252Czpi-Nko5LhgVjM%252C_%253BMANJfKviX5yMAM%252CT-F6hESE7SadxM%252C_%253BjBsSc620Nn8EoM%252CE_NbHzuB1f2nkM%252C_%253BXdh_xkA5aoYJoM%252C-_MNOpk1tHjahM%252C_&usg=AI4_-kQijg3YvGAqRFHPsRckYSbAK9Yorg&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ9QF6BAg8EAE#imgrc=pytej-Jx5dz_CM",
+            "source": "https://www.mako.co.il/hix-nature/environment/Article-1a0840b84d4fc41006.htm",
+            "thumbnail": "https://serpapi.com/searches/629e37ccedb034026d6a8d79/images/93bc31aa9e5260e86fbd627ecbcdacba5f7e4038ccf871d882e659776fabbdb5.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&tbm=isch&source=iu&ictx=1&vet=1&fir=ch--WQ6QyBALxM%252Czpi-Nko5LhgVjM%252C_%253Bpytej-Jx5dz_CM%252CwFTwJ4Fw2C5oLM%252C_%253BI3QcIRgfvhiYUM%252C_R3-9xvULHE1TM%252C_%253BrqK4jPn1dNKaCM%252CzNdkXQpCE-WwLM%252C_%253BJ7rFdj-Fqll2EM%252CwFTwJ4Fw2C5oLM%252C_%253BIpBf7N7xizwpsM%252CS7gekNI6mgwcHM%252C_%253BJkOH2BPlMwuAdM%252Czpi-Nko5LhgVjM%252C_%253BMANJfKviX5yMAM%252CT-F6hESE7SadxM%252C_%253BjBsSc620Nn8EoM%252CE_NbHzuB1f2nkM%252C_%253BXdh_xkA5aoYJoM%252C-_MNOpk1tHjahM%252C_&usg=AI4_-kQijg3YvGAqRFHPsRckYSbAK9Yorg&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ9QF6BAg7EAE#imgrc=I3QcIRgfvhiYUM",
+            "source": "https://www.maariv.co.il/news/israel/Article-570053",
+            "thumbnail": "https://serpapi.com/searches/629e37ccedb034026d6a8d79/images/93bc31aa9e5260e8ba56acc39c3cb0f7acd910d62b9f29298864c7e609f50353.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&tbm=isch&source=iu&ictx=1&vet=1&fir=ch--WQ6QyBALxM%252Czpi-Nko5LhgVjM%252C_%253Bpytej-Jx5dz_CM%252CwFTwJ4Fw2C5oLM%252C_%253BI3QcIRgfvhiYUM%252C_R3-9xvULHE1TM%252C_%253BrqK4jPn1dNKaCM%252CzNdkXQpCE-WwLM%252C_%253BJ7rFdj-Fqll2EM%252CwFTwJ4Fw2C5oLM%252C_%253BIpBf7N7xizwpsM%252CS7gekNI6mgwcHM%252C_%253BJkOH2BPlMwuAdM%252Czpi-Nko5LhgVjM%252C_%253BMANJfKviX5yMAM%252CT-F6hESE7SadxM%252C_%253BjBsSc620Nn8EoM%252CE_NbHzuB1f2nkM%252C_%253BXdh_xkA5aoYJoM%252C-_MNOpk1tHjahM%252C_&usg=AI4_-kQijg3YvGAqRFHPsRckYSbAK9Yorg&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ9QF6BAhAEAE#imgrc=rqK4jPn1dNKaCM",
+            "source": "https://www.globes.co.il/news/article.aspx?did=1001350789",
+            "thumbnail": "https://serpapi.com/searches/629e37ccedb034026d6a8d79/images/93bc31aa9e5260e88e6cd52b69eb99c868dbecc83b170c81f1fc3f70c45e8e7a.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&tbm=isch&source=iu&ictx=1&vet=1&fir=ch--WQ6QyBALxM%252Czpi-Nko5LhgVjM%252C_%253Bpytej-Jx5dz_CM%252CwFTwJ4Fw2C5oLM%252C_%253BI3QcIRgfvhiYUM%252C_R3-9xvULHE1TM%252C_%253BrqK4jPn1dNKaCM%252CzNdkXQpCE-WwLM%252C_%253BJ7rFdj-Fqll2EM%252CwFTwJ4Fw2C5oLM%252C_%253BIpBf7N7xizwpsM%252CS7gekNI6mgwcHM%252C_%253BJkOH2BPlMwuAdM%252Czpi-Nko5LhgVjM%252C_%253BMANJfKviX5yMAM%252CT-F6hESE7SadxM%252C_%253BjBsSc620Nn8EoM%252CE_NbHzuB1f2nkM%252C_%253BXdh_xkA5aoYJoM%252C-_MNOpk1tHjahM%252C_&usg=AI4_-kQijg3YvGAqRFHPsRckYSbAK9Yorg&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ9QF6BAg9EAE#imgrc=J7rFdj-Fqll2EM",
+            "source": "https://www.mako.co.il/hix-nature/environment/Article-1a0840b84d4fc41006.htm",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNdmxgNotphoVNATWytGgK6LQsaBpFYddiricaxTjIQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&tbm=isch&source=iu&ictx=1&vet=1&fir=ch--WQ6QyBALxM%252Czpi-Nko5LhgVjM%252C_%253Bpytej-Jx5dz_CM%252CwFTwJ4Fw2C5oLM%252C_%253BI3QcIRgfvhiYUM%252C_R3-9xvULHE1TM%252C_%253BrqK4jPn1dNKaCM%252CzNdkXQpCE-WwLM%252C_%253BJ7rFdj-Fqll2EM%252CwFTwJ4Fw2C5oLM%252C_%253BIpBf7N7xizwpsM%252CS7gekNI6mgwcHM%252C_%253BJkOH2BPlMwuAdM%252Czpi-Nko5LhgVjM%252C_%253BMANJfKviX5yMAM%252CT-F6hESE7SadxM%252C_%253BjBsSc620Nn8EoM%252CE_NbHzuB1f2nkM%252C_%253BXdh_xkA5aoYJoM%252C-_MNOpk1tHjahM%252C_&usg=AI4_-kQijg3YvGAqRFHPsRckYSbAK9Yorg&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ9QF6BAg_EAE#imgrc=IpBf7N7xizwpsM",
+            "source": "https://www.ynet.co.il/environment-science/article/h1vbkqlv9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDt1dLlSvcAzzy4ttfly9s8HrQaF_uUB7LrSTvAq3vdg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&tbm=isch&source=iu&ictx=1&vet=1&fir=ch--WQ6QyBALxM%252Czpi-Nko5LhgVjM%252C_%253Bpytej-Jx5dz_CM%252CwFTwJ4Fw2C5oLM%252C_%253BI3QcIRgfvhiYUM%252C_R3-9xvULHE1TM%252C_%253BrqK4jPn1dNKaCM%252CzNdkXQpCE-WwLM%252C_%253BJ7rFdj-Fqll2EM%252CwFTwJ4Fw2C5oLM%252C_%253BIpBf7N7xizwpsM%252CS7gekNI6mgwcHM%252C_%253BJkOH2BPlMwuAdM%252Czpi-Nko5LhgVjM%252C_%253BMANJfKviX5yMAM%252CT-F6hESE7SadxM%252C_%253BjBsSc620Nn8EoM%252CE_NbHzuB1f2nkM%252C_%253BXdh_xkA5aoYJoM%252C-_MNOpk1tHjahM%252C_&usg=AI4_-kQijg3YvGAqRFHPsRckYSbAK9Yorg&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ9QF6BAg-EAE#imgrc=JkOH2BPlMwuAdM",
+            "source": "https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%94%D7%95%D7%9D_%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbWnVshn0J8HMv5LNPiYoB1qmfXTTQCEMpkwJ0CGXQYw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&tbm=isch&source=iu&ictx=1&vet=1&fir=ch--WQ6QyBALxM%252Czpi-Nko5LhgVjM%252C_%253Bpytej-Jx5dz_CM%252CwFTwJ4Fw2C5oLM%252C_%253BI3QcIRgfvhiYUM%252C_R3-9xvULHE1TM%252C_%253BrqK4jPn1dNKaCM%252CzNdkXQpCE-WwLM%252C_%253BJ7rFdj-Fqll2EM%252CwFTwJ4Fw2C5oLM%252C_%253BIpBf7N7xizwpsM%252CS7gekNI6mgwcHM%252C_%253BJkOH2BPlMwuAdM%252Czpi-Nko5LhgVjM%252C_%253BMANJfKviX5yMAM%252CT-F6hESE7SadxM%252C_%253BjBsSc620Nn8EoM%252CE_NbHzuB1f2nkM%252C_%253BXdh_xkA5aoYJoM%252C-_MNOpk1tHjahM%252C_&usg=AI4_-kQijg3YvGAqRFHPsRckYSbAK9Yorg&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ9QF6BAg4EAE#imgrc=MANJfKviX5yMAM",
+            "source": "https://sites.google.com/site/zihum2013/whatzihum",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdtRLGZk1hOLdCzprmatOCWTDEYiaxiUfhLNvBtdenEA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&tbm=isch&source=iu&ictx=1&vet=1&fir=ch--WQ6QyBALxM%252Czpi-Nko5LhgVjM%252C_%253Bpytej-Jx5dz_CM%252CwFTwJ4Fw2C5oLM%252C_%253BI3QcIRgfvhiYUM%252C_R3-9xvULHE1TM%252C_%253BrqK4jPn1dNKaCM%252CzNdkXQpCE-WwLM%252C_%253BJ7rFdj-Fqll2EM%252CwFTwJ4Fw2C5oLM%252C_%253BIpBf7N7xizwpsM%252CS7gekNI6mgwcHM%252C_%253BJkOH2BPlMwuAdM%252Czpi-Nko5LhgVjM%252C_%253BMANJfKviX5yMAM%252CT-F6hESE7SadxM%252C_%253BjBsSc620Nn8EoM%252CE_NbHzuB1f2nkM%252C_%253BXdh_xkA5aoYJoM%252C-_MNOpk1tHjahM%252C_&usg=AI4_-kQijg3YvGAqRFHPsRckYSbAK9Yorg&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ9QF6BAg6EAE#imgrc=jBsSc620Nn8EoM",
+            "source": "https://www.calcalist.co.il/local/articles/0,7340,L-3727781,00.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdDzKz900se_I0n9VsNcyr57uRKKERa2xXnOcf4ua0tg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&tbm=isch&source=iu&ictx=1&vet=1&fir=ch--WQ6QyBALxM%252Czpi-Nko5LhgVjM%252C_%253Bpytej-Jx5dz_CM%252CwFTwJ4Fw2C5oLM%252C_%253BI3QcIRgfvhiYUM%252C_R3-9xvULHE1TM%252C_%253BrqK4jPn1dNKaCM%252CzNdkXQpCE-WwLM%252C_%253BJ7rFdj-Fqll2EM%252CwFTwJ4Fw2C5oLM%252C_%253BIpBf7N7xizwpsM%252CS7gekNI6mgwcHM%252C_%253BJkOH2BPlMwuAdM%252Czpi-Nko5LhgVjM%252C_%253BMANJfKviX5yMAM%252CT-F6hESE7SadxM%252C_%253BjBsSc620Nn8EoM%252CE_NbHzuB1f2nkM%252C_%253BXdh_xkA5aoYJoM%252C-_MNOpk1tHjahM%252C_&usg=AI4_-kQijg3YvGAqRFHPsRckYSbAK9Yorg&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ9QF6BAg5EAE#imgrc=Xdh_xkA5aoYJoM",
+            "source": "https://www.hidabroot.org/article/197816",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF64_k-hkp9AYIy4Pz38yFWGwG8uTKm4Aa9veIgavGBg&s"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "זיהום הסביבה - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%94%D7%95%D7%9D_%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94",
+            "displayed_link": "https://he.wikipedia.org › wiki › זיהום_הסביבה",
+            "snippet": "המונח זיהום הסביבה מתייחס בדרך כלל לזיהום הנובע מאסון סביבתי ומפעילות התעשייה. זיהום אוויר בתעשייה נחשב זיהום סביבה מסחרי. זיהום חופי נהר בפסולת מעשה ידי אדם.",
+            "snippet_highlighted_words": [
+                "זיהום הסביבה",
+                "לזיהום",
+                "זיהום",
+                "זיהום סביבה",
+                "זיהום"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "המחיר הקטלני של זיהום הסביבה - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/sciencenews/%D7%94%D7%9E%D7%97%D7%99%D7%A8-%D7%94%D7%A7%D7%98%D7%9C%D7%A0%D7%99-%D7%A9%D7%9C-%D7%96%D7%99%D7%94%D7%95%D7%9D-%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94",
+            "displayed_link": "https://davidson.weizmann.ac.il › online › sciencenews",
+            "date": "2 בנוב׳ 2017",
+            "snippet": "זיהום הסביבה נתפס פעמים רבות כבעיה חשובה אך לא דחופה. ועם זאת, במדינות רבות הוא הסיבה הישירה למוות ולמחלות קשות, ולכן גם יוצר עול כלכלי כבד.",
+            "snippet_highlighted_words": [
+                "זיהום הסביבה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "זיהום סביבה - גלובס",
+            "link": "https://www.globes.co.il/news/%D7%96%D7%99%D7%94%D7%95%D7%9D_%D7%A1%D7%91%D7%99%D7%91%D7%94.tag",
+            "displayed_link": "https://www.globes.co.il › זיהום סביבה",
+            "snippet": "כתבות אחרונות · הדרישה של משרד האוצר שעלולה לעלות בחיי אדם · כימיקלים מסרטנים נמצאו ב-30% ממכוני טיהור השפכים · בנק ישראל מציג לראשונה: חשיפת המערכת הבנקאית לעסקים ..."
+        },
+        {
+            "position": 4,
+            "title": "בעיות בסביבה - חלון ירוק",
+            "link": "https://greenwin.kkl.org.il/features/environment/evironmental-problems/",
+            "displayed_link": "https://greenwin.kkl.org.il › evironmental-problems",
+            "snippet": "היכנסו למדור בעיות סביבה של אתר חלון ירוק ולמדו מהן הבעיות מהן סובל כדור הארץ כמו זיהום הסביבה, התחממות גלובלית ובעלי חיים בסכנת הכחדה.",
+            "snippet_highlighted_words": [
+                "סביבה",
+                "זיהום הסביבה"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "זיהום האוויר בזמן הקורונה: פלסטיק של עולם",
+                        "מקסיקני טורף יציל את הצבר: נגד מינים פולשים",
+                        "מתפרצים בטבע: זהירות! פולשים"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "מזהמים סביבתיים - משרד הבריאות",
+            "link": "https://www.health.gov.il/Subjects/Environmental_Health/Environmental_contaminants/Pages/default.aspx",
+            "displayed_link": "https://www.health.gov.il › Subjects › Pages",
+            "snippet": "חשיפה למזהמים סביבתיים: זיהום אוויר, חומרי הדברה וכימיקלים במזון ומוצרי צריכה, עלולה להשפיע ... העלונים הם פרויקט משותף של המשרד להגנת הסביבה ומשרד הבריאות.",
+            "snippet_highlighted_words": [
+                "זיהום",
+                "הסביבה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "זיהום אוויר - אדם טבע ודין",
+            "link": "https://www.adamteva.org.il/public-health/air/",
+            "displayed_link": "https://www.adamteva.org.il › בריאות הציבור",
+            "snippet": "מידע על זיהום האוויר נחלק באופן בסיסי לשני סוגים: מידע על הפליטות ומידע על הריכוזים בסביבה. הפליטות מציינות את הכמויות של החומרים המזהמים השונים שנפלטים ממקורות ...",
+            "snippet_highlighted_words": [
+                "זיהום",
+                "בסביבה"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "זיהום אוויר מתעשייה | המשרד להגנת הסביבה - Gov",
+            "link": "https://www.gov.il/he/departments/topics/industrial_air_pollution/govil-landing-page",
+            "displayed_link": "https://www.gov.il › topics › govil-landing-page",
+            "snippet": "פעולות הייצור השונות במפעלי התעשייה עלולות לגרום לפליטות של מזהמי אוויר לסביבה. המשרד להגנת הסביבה פועל כיום להפחתה של זיהום האוויר במגוון דרכים: באמצעים ...",
+            "snippet_highlighted_words": [
+                "הסביבה",
+                "זיהום"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "איכות אוויר | המשרד להגנת הסביבה",
+            "link": "https://www.gov.il/he/departments/topics/reducing_air_pollution/govil-landing-page",
+            "displayed_link": "https://www.gov.il › topics › govil-landing-page",
+            "snippet": "זיהום אוויר מתנורי הסקה על עץ (קמינים) ... לכן המשרד להגנת הסביבה מתיר שריפת פסולת אך ורק במפעלים מסוימים, ... דיווח למרשם פליטות והעברות לסביבה ...",
+            "snippet_highlighted_words": [
+                "זיהום",
+                "הסביבה",
+                "לסביבה"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "זיהום-אוויר.pdf - איגוד ערים",
+            "link": "https://www.env.org.il/wp-content/uploads/2018/01/%D7%96%D7%99%D7%94%D7%95%D7%9D-%D7%90%D7%95%D7%95%D7%99%D7%A8.pdf",
+            "displayed_link": "https://www.env.org.il › uploads › 2018/01 › זיהום...",
+            "snippet": "מצגת זו נכתבה ונערכה על ידי צוות חינוך. והסברה באיגוד ערים לאיכות הסביבה אשדוד. חבל יבנה. המצגת הופקה בסיוע המשרד להגנת הסביבה. תודה מיוחדת לכל מי שסייע, ...",
+            "snippet_highlighted_words": [
+                "הסביבה",
+                "הסביבה"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "זיהום הסביבה מצגת",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94+%D7%9E%D7%A6%D7%92%D7%AA&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "זיהום הסביבה בישראל",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94+%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "דברים שמזהמים את העולם",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%93%D7%91%D7%A8%D7%99%D7%9D+%D7%A9%D7%9E%D7%96%D7%94%D7%9E%D7%99%D7%9D+%D7%90%D7%AA+%D7%94%D7%A2%D7%95%D7%9C%D7%9D&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ1QJ6BAglEAE"
+        },
+        {
+            "query": "זיהום אוויר",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%90%D7%95%D7%95%D7%99%D7%A8&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "חומרים מזהמים",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%95%D7%9E%D7%A8%D7%99%D7%9D+%D7%9E%D7%96%D7%94%D7%9E%D7%99%D7%9D&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "משרד הבריאות זיהום אוויר",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%A9%D7%A8%D7%93+%D7%94%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA+%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%90%D7%95%D7%95%D7%99%D7%A8&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ1QJ6BAghEAE"
+        },
+        {
+            "query": "זיהום הסביבה פלסטיק",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94+%D7%A4%D7%9C%D7%A1%D7%98%D7%99%D7%A7&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ1QJ6BAggEAE"
+        },
+        {
+            "query": "פתרונות לזיהום הסביבה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A4%D7%AA%D7%A8%D7%95%D7%A0%D7%95%D7%AA+%D7%9C%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&sa=X&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ1QJ6BAgfEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=zjeeYvPOBMrPytMPp46ZUA&start=10&sa=N&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=zjeeYvPOBMrPytMPp46ZUA&start=10&sa=N&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=zjeeYvPOBMrPytMPp46ZUA&start=20&sa=N&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=zjeeYvPOBMrPytMPp46ZUA&start=30&sa=N&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=zjeeYvPOBMrPytMPp46ZUA&start=40&sa=N&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=zjeeYvPOBMrPytMPp46ZUA&start=50&sa=N&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=zjeeYvPOBMrPytMPp46ZUA&start=60&sa=N&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=zjeeYvPOBMrPytMPp46ZUA&start=70&sa=N&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=zjeeYvPOBMrPytMPp46ZUA&start=80&sa=N&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=zjeeYvPOBMrPytMPp46ZUA&start=90&sa=N&ved=2ahUKEwjz7ZC4q5n4AhXKp3IEHSdHBgoQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&start=90"
+        }
+    }
+}

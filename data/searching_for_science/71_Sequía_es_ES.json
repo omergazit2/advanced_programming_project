@@ -1,0 +1,334 @@
+{
+    "search_metadata": {
+        "id": "627cffdb14b24578e5cf995a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/23b9d028cb097ac5/627cffdb14b24578e5cf995a.json",
+        "created_at": "2022-05-12 12:38:51 UTC",
+        "processed_at": "2022-05-12 12:38:52 UTC",
+        "google_url": "https://www.google.com/search?q=Sequ%C3%ADa&oq=Sequ%C3%ADa&uule=w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=&hl=es&gl=ES&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/23b9d028cb097ac5/627cffdb14b24578e5cf995a.html",
+        "total_time_taken": 3.86
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Sequía",
+        "uule": "w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "ES",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Sequía",
+        "total_results": 32600000,
+        "time_taken_displayed": 0.61
+    },
+    "knowledge_graph": {
+        "title": "Sequía",
+        "header_images": [
+            {
+                "source": "https://www.fundacionaquae.org/cuanto-sabes-sequias/"
+            },
+            {
+                "source": "https://www.iagua.es/respuestas/que-es-sequia"
+            },
+            {
+                "source": "https://www.elconfidencial.com/tecnologia/ciencia/2017-11-26/deje-decir-sequia-2017-peor-de-la-historia-espana_1482616/"
+            },
+            {
+                "source": "https://elpais.com/elpais/2017/11/17/opinion/1510946779_537283.html"
+            },
+            {
+                "source": "https://es.wikipedia.org/wiki/Sequ%C3%ADa"
+            }
+        ],
+        "description": "La sequía es una anomalía climatológica transitoria en la que la disponibilidad de agua se sitúa por debajo de lo habitual de un área geográfica. El agua no es suficiente para abastecer las necesidades de las plantas, los animales y los humanos que viven en dicho lugar.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://es.wikipedia.org/wiki/Sequ%C3%ADa"
+        },
+        "también_se_buscó": [
+            {
+                "name": "Desastre natural",
+                "link": "https://www.google.com/search?hl=es&gl=ES&q=Desastre+natural&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQFcAPhnZOLOpzm99jjgiSHKHTXFJDxS6dmA1ai7Snacrx7GquOhy1iwFD3lTDF2oDCwMFOIHb_XKuOHCbNxQ-R01E30ERAVdgf75P9WfdONNtnD-smPn_0cWS4kmODoj1TzaWc3YzHQ0jla37gDb5dCQTa18I47Xx_8rk1mLIWN0GLsYC-vl_kn5DErXtzT4InoCNhqz6uG54sLGmOD32gDNl9Z7YTqylG5MyurZHVxrK-AXzT3zEear4lUtGDqYsxxs0w%3D&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQxA16BAhXEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Desastre+natural&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQFcAPhnZOLOpzm99jjgiSHKHTXFJDxS6dmA1ai7Snacrx7GquOhy1iwFD3lTDF2oDCwMFOIHb_XKuOHCbNxQ-R01E30ERAVdgf75P9WfdONNtnD-smPn_0cWS4kmODoj1TzaWc3YzHQ0jla37gDb5dCQTa18I47Xx_8rk1mLIWN0GLsYC-vl_kn5DErXtzT4InoCNhqz6uG54sLGmOD32gDNl9Z7YTqylG5MyurZHVxrK-AXzT3zEear4lUtGDqYsxxs0w%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffdb14b24578e5cf995a/images/f29fd38b73bde7c49be4888fb683748a1b93ca11b5e70dee9a446b40194851b463cd498ac65db8c3294f23cbbc5c6eb3.jpeg"
+            },
+            {
+                "name": "Tornado",
+                "link": "https://www.google.com/search?hl=es&gl=ES&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZkjlLYe6kNulPXOng-CadzwSqsCs5l0ZLImNod-llW_F74JLxM8UMG4_cIuT8-d_2fQB0IEnKn2o3miy6dGBvQgqUtZeCRvOTlCTU29UlQJIrVB-_XfIpzfd4VpM_in14up95GDw%3D%3D&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQxA16BAhXEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZkjlLYe6kNulPXOng-CadzwSqsCs5l0ZLImNod-llW_F74JLxM8UMG4_cIuT8-d_2fQB0IEnKn2o3miy6dGBvQgqUtZeCRvOTlCTU29UlQJIrVB-_XfIpzfd4VpM_in14up95GDw%3D%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffdb14b24578e5cf995a/images/f29fd38b73bde7c49be4888fb683748a1b93ca11b5e70dee9a446b40194851b481985c7b8b895e1bf04939b8eb035510.jpeg"
+            },
+            {
+                "name": "Ola de calor",
+                "link": "https://www.google.com/search?hl=es&gl=ES&q=Ola+de+calor&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgIek-4I9AhWTB8re96VrhLQ50JjmgHEXDaFzgoR5VtZw-sa43sDZ4agy1jrMTsBtzLjVjziGn_dbMRco5c6PUHQ6kssvN4x7qgTruHB_zfTDFs61jFDt9S6U6sCzg3uQuc7AS2yVjSNy96QueChol96AHMZ3I5OME1olxhokiVZCWtsHAx8DIGLybuN2E9VY0X69HuefeNa9B1MivweZlTQH-FfDFH8fcK-hfcxnzPJBqN-jMg2CBtljTzL37Dqdj12LPLQ%3D&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQxA16BAhXEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Ola+de+calor&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgIek-4I9AhWTB8re96VrhLQ50JjmgHEXDaFzgoR5VtZw-sa43sDZ4agy1jrMTsBtzLjVjziGn_dbMRco5c6PUHQ6kssvN4x7qgTruHB_zfTDFs61jFDt9S6U6sCzg3uQuc7AS2yVjSNy96QueChol96AHMZ3I5OME1olxhokiVZCWtsHAx8DIGLybuN2E9VY0X69HuefeNa9B1MivweZlTQH-FfDFH8fcK-hfcxnzPJBqN-jMg2CBtljTzL37Dqdj12LPLQ%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffdb14b24578e5cf995a/images/f29fd38b73bde7c49be4888fb683748a1b93ca11b5e70dee9a446b40194851b4df511e8c87cc60677a2f0af070c4a3b3.jpeg"
+            },
+            {
+                "name": "Incendio forestal",
+                "link": "https://www.google.com/search?hl=es&gl=ES&q=Incendio+forestal&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVCuMNo6BOnVrgzK3lU5Rt2p2pRGFOvuHkKCImMv7AdsVnwDHNZjD5utdxscsvK1_pA73Fhykx2kDGAqY-zSCNMm3c3ea0csQYiSYy2_0OxAJHGJjhwy8qNUIEEWdmV9vJdhxhOLuiToph1SV-uekgSEcpbdYAZbvv9UKWgWiGWRcOoUrNEPDGaEv2fNMbmN5qburm9zp6LowpEbcRvdbIAjdJoVPjl-dEOdEZzGQKhrl91psg-oo-sRWgCIECw6i7Erw0Y%3D&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQxA16BAhXEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Incendio+forestal&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVCuMNo6BOnVrgzK3lU5Rt2p2pRGFOvuHkKCImMv7AdsVnwDHNZjD5utdxscsvK1_pA73Fhykx2kDGAqY-zSCNMm3c3ea0csQYiSYy2_0OxAJHGJjhwy8qNUIEEWdmV9vJdhxhOLuiToph1SV-uekgSEcpbdYAZbvv9UKWgWiGWRcOoUrNEPDGaEv2fNMbmN5qburm9zp6LowpEbcRvdbIAjdJoVPjl-dEOdEZzGQKhrl91psg-oo-sRWgCIECw6i7Erw0Y%3D&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+                "image": "https://serpapi.com/searches/627cffdb14b24578e5cf995a/images/f29fd38b73bde7c49be4888fb683748a1b93ca11b5e70dee9a446b40194851b4eea3e524cdc0935eb11f7458e55ceb7d.jpeg"
+            }
+        ],
+        "también_se_buscó_link": "https://www.google.com/search?hl=es&gl=ES&q=Sequ%C3%ADa&stick=H4sIAAAAAAAAAONgFuLQz9U3sLTMKVCCs7QEgzNTUssTK4v9UitKgktSC4oXsbIHpxaWHl6buIOVEQC0XWc3NgAAAA&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQMSgAegQIVxAB",
+        "también_se_buscó_stick": "H4sIAAAAAAAAAONgFuLQz9U3sLTMKVCCs7QEgzNTUssTK4v9UitKgktSC4oXsbIHpxaWHl6buIOVEQC0XWc3NgAAAA",
+        "ver_resultados_relacionados": [
+            {
+                "name": "Sequía",
+                "extensions": [
+                    "Serie de televisión"
+                ]
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Serie Sequía: Episodio 1, en RTVE Play",
+            "link": "https://www.rtve.es/play/videos/sequia/episodio-1/6287979/",
+            "thumbnail": "https://serpapi.com/searches/627cffdb14b24578e5cf995a/images/2d97fb4b3a0ef8e5cd30c78d889bd57501ef2b0fb30f94d7802e52f7eb9f303c.jpeg",
+            "channel": "RTVE",
+            "duration": "1:15:00",
+            "platform": "RTVE.es",
+            "date": "18 ene 2022"
+        },
+        {
+            "position": 2,
+            "title": "Serie Sequía: Episodio 4, en RTVE Play",
+            "link": "https://www.rtve.es/play/videos/sequia/episodio-4/6343023/",
+            "thumbnail": "https://serpapi.com/searches/627cffdb14b24578e5cf995a/images/2d97fb4b3a0ef8e59b2511af47d2af436a1ab2e6aa0051fe347f159ee915c896.jpeg",
+            "channel": "RTVE",
+            "duration": "1:21:00",
+            "platform": "RTVE.es",
+            "date": "8 feb 2022"
+        },
+        {
+            "position": 3,
+            "title": "Serie Sequía: Episodio 6, en RTVE Play",
+            "link": "https://www.rtve.es/play/videos/sequia/episodio-6/6374393/",
+            "thumbnail": "https://serpapi.com/searches/627cffdb14b24578e5cf995a/images/2d97fb4b3a0ef8e58d0c8c67e60228a348ae4ce0eebcd3791615caa976aa536b.jpeg",
+            "channel": "RTVE",
+            "duration": "1:01:00",
+            "platform": "RTVE.es",
+            "date": "15 feb 2022"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "¿Qué una sequía?",
+            "snippet": "Las sequías son periodos prolongados de tiempo seco causado por la falta de lluvia, lo que produce escasez de agua. Los periodos de sequía pueden causar desabastecimiento de agua y problemas de salud pública.",
+            "title": "Las sequías y su salud | Especiales CDC",
+            "link": "https://www.cdc.gov/spanish/nceh/especiales/sequias/index.html",
+            "displayed_link": "https://www.cdc.gov › spanish › nceh › especiales › sequias"
+        },
+        {
+            "question": "¿Qué efectos causa la sequía en un ecosistema?",
+            "snippet": "Daño a los ecosistemas. Erosión y pérdida de suelos. Degradación de la calidad del agua y del aire. Degradación del paisaje.",
+            "title": "Sequía, un problema de perspectiva y gestión - SciELO México",
+            "link": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-39252005000300002",
+            "displayed_link": "http://www.scielo.org.mx › scielo"
+        },
+        {
+            "question": "¿Por qué hay sequía?",
+            "snippet": "La causa principal de la sequía es la falta de lluvias, sin embargo existen factores que contribuyen a ello como alteraciones en la circulación general del sistema océano - atmósfera vinculadas a cambios en la temperatura de la superficie de los océanos, cambios de la presión atmosférica, incrementos en las ...",
+            "title": "La causa principal de la sequía es la falta de lluvias, sin embargo",
+            "link": "http://atlasclimatico.unam.mx/ACM/files/assets/common/downloads/page0133.pdf",
+            "displayed_link": "http://atlasclimatico.unam.mx › downloads › page0133"
+        },
+        {
+            "question": "¿Qué podemos hacer para evitar la sequía?",
+            "snippet": "Especialmente en época de sequía, ahorrá agua en el consumo diario. Utilizá sistemas de riego que permitan una mejor utilización del agua. Mantené constantes medidas de higiene: no acumules basura y controlá los insectos y cualquier tipo de plagas. Todo esto puede evitar enfermedades.",
+            "title": "¿Qué hacer en caso de sequías? | Argentina.gob.ar",
+            "link": "https://www.argentina.gob.ar/sinagir/riesgos-frecuentes/sequia/que-hacer",
+            "displayed_link": "https://www.argentina.gob.ar › sinagir › sequia › que-hacer"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Sequía - Serie dramática en RTVE Play",
+            "link": "https://www.rtve.es/play/videos/sequia/",
+            "displayed_link": "https://www.rtve.es › Play",
+            "snippet": "Sequía en RTVE Play. Disfruta del género drama y de los mejores programas, series, películas, podcast e informativos gratis en la plataforma de RTVE.",
+            "snippet_highlighted_words": [
+                "Sequía"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Episodio 1",
+                        "link": "https://www.rtve.es/play/videos/sequia/episodio-1/6287979/"
+                    },
+                    {
+                        "title": "Episodio 2",
+                        "link": "https://www.rtve.es/play/videos/sequia/episodio-2/6305758/"
+                    },
+                    {
+                        "title": "Serie Sequía: Episodio 5, en...",
+                        "link": "https://www.rtve.es/play/videos/sequia/episodio-5/6373109/"
+                    },
+                    {
+                        "title": "Episodio 7",
+                        "link": "https://www.rtve.es/play/videos/sequia/episodio-7/6376963/"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Sequía - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Sequ%C3%ADa",
+            "displayed_link": "https://es.wikipedia.org › wiki › Sequía",
+            "snippet": "La sequía es una anomalía climatológica transitoria en la que la disponibilidad de agua se sitúa por debajo de lo habitual de un área geográfica.",
+            "snippet_highlighted_words": [
+                "sequía"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Tipos de sequía - Ministerio de Transición Ecológica",
+            "link": "https://www.miteco.gob.es/es/agua/temas/observatorio-nacional-de-la-sequia/que-es-la-sequia/Observatorio_Nacional_Sequia_1_1_tipos_sequia.aspx",
+            "displayed_link": "https://www.miteco.gob.es › temas › que-es-la-sequia",
+            "snippet": "Además este tipo de sequía también puede implicar temperaturas más altas, vientos de fuerte intensidad, humedad relativa baja, incremento de la ...",
+            "snippet_highlighted_words": [
+                "sequía"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "¿Qué es la sequía?",
+                    "link": "https://www.miteco.gob.es/es/agua/temas/observatorio-nacional-de-la-sequia/que-es-la-sequia/",
+                    "displayed_link": "https://www.miteco.gob.es › temas › que-es-la-sequia",
+                    "snippet": "La sequía supone una anomalía transitoria, más o menos prolongada, caracterizada por un periodo de tiempo con valores de las precipitaciones inferiores a ...",
+                    "snippet_highlighted_words": [
+                        "sequía"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Sequía en EL PAÍS",
+            "link": "https://elpais.com/noticias/sequia/",
+            "displayed_link": "https://elpais.com › noticias › sequia",
+            "date": "hace 1 día",
+            "snippet": "Todas las noticias sobre Sequía publicadas en EL PAÍS. Información, novedades y última hora sobre Sequía.",
+            "snippet_highlighted_words": [
+                "Sequía",
+                "Sequía"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Los Ángeles impone el racionamiento de agua más estricto ...",
+                    "link": "https://elpais.com/clima-y-medio-ambiente/2022-05-11/los-angeles-impone-el-racionamiento-de-agua-mas-estricto-ante-la-sequia.html",
+                    "displayed_link": "https://elpais.com › Los Ángeles",
+                    "date": "hace 1 día",
+                    "snippet": "Adiós a los verdes jardines del sur de California. La severa sequía que afecta al Estado más poblado de Estados Unidos ha obligado a imponer ...",
+                    "snippet_highlighted_words": [
+                        "sequía"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Sequía - Telemadrid",
+            "link": "https://www.telemadrid.es/tag/Sequia/",
+            "displayed_link": "https://www.telemadrid.es › tag › Sequia",
+            "snippet": "47 resultados del tag Sequía · La primavera será cálida en toda España, tras el invierno más seco en 61 años · Protesta agraria en Madrid este martes previa a la ...",
+            "snippet_highlighted_words": [
+                "Sequía"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Sequía : FAO in Emergencies",
+            "link": "https://www.fao.org/emergencies/tipos-de-peligros-y-de-emergencias/sequia/es/",
+            "displayed_link": "https://www.fao.org › emergencies › sequia",
+            "snippet": "La sequía es uno de los peligros naturales más devastadores que paraliza la producción de alimentos, agota los pastizales, perturba los mercados y, ...",
+            "snippet_highlighted_words": [
+                "sequía"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Últimas noticias de Sequía en 20minutos.es",
+            "link": "https://www.20minutos.es/minuteca/sequia/",
+            "displayed_link": "https://www.20minutos.es › minuteca › sequia",
+            "snippet": "Agricultura aprueba un plan contra la sequía con medidas fiscales y financieras por 450 millones de euros.",
+            "snippet_highlighted_words": [
+                "sequía"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "Sequía cerca de barcelona",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=sequ%C3%ADa+cerca+de+barcelona&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "Sequía cerca de madrid",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=sequ%C3%ADa+cerca+de+madrid&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "sequía serie",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Sequ%C3%ADa+serie&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "sequía serie netflix",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Sequ%C3%ADa+serie+Netflix&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "sequía serie estreno",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Sequ%C3%ADa+serie+estreno&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "rtve sequía",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=RTVE+Sequ%C3%ADa&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "sequía reparto",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Sequ%C3%ADa+reparto&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "sequía filmaffinity",
+            "link": "https://www.google.com/search?hl=es&gl=ES&q=Sequ%C3%ADa+Filmaffinity&sa=X&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ1QJ6BAgkEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Sequ%C3%ADa&hl=es&gl=ES&ei=3f98YoW0MuWJgge8-KW4Bw&start=10&sa=N&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ8NMDegQIAxBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Sequ%C3%ADa&hl=es&gl=ES&ei=3f98YoW0MuWJgge8-KW4Bw&start=10&sa=N&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ8tMDegQIAxA9",
+            "3": "https://www.google.com/search?q=Sequ%C3%ADa&hl=es&gl=ES&ei=3f98YoW0MuWJgge8-KW4Bw&start=20&sa=N&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ8tMDegQIAxA_",
+            "4": "https://www.google.com/search?q=Sequ%C3%ADa&hl=es&gl=ES&ei=3f98YoW0MuWJgge8-KW4Bw&start=30&sa=N&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ8tMDegQIAxBB",
+            "5": "https://www.google.com/search?q=Sequ%C3%ADa&hl=es&gl=ES&ei=3f98YoW0MuWJgge8-KW4Bw&start=40&sa=N&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ8tMDegQIAxBD",
+            "6": "https://www.google.com/search?q=Sequ%C3%ADa&hl=es&gl=ES&ei=3f98YoW0MuWJgge8-KW4Bw&start=50&sa=N&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ8tMDegQIAxBF",
+            "7": "https://www.google.com/search?q=Sequ%C3%ADa&hl=es&gl=ES&ei=3f98YoW0MuWJgge8-KW4Bw&start=60&sa=N&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ8tMDegQIAxBH",
+            "8": "https://www.google.com/search?q=Sequ%C3%ADa&hl=es&gl=ES&ei=3f98YoW0MuWJgge8-KW4Bw&start=70&sa=N&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ8tMDegQIAxBJ",
+            "9": "https://www.google.com/search?q=Sequ%C3%ADa&hl=es&gl=ES&ei=3f98YoW0MuWJgge8-KW4Bw&start=80&sa=N&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ8tMDegQIAxBL",
+            "10": "https://www.google.com/search?q=Sequ%C3%ADa&hl=es&gl=ES&ei=3f98YoW0MuWJgge8-KW4Bw&start=90&sa=N&ved=2ahUKEwjFltq5_dn3AhXlhOAKHTx8CXcQ8tMDegQIAxBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=20&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=30&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=40&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=50&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=60&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=70&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=80&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Sequ%C3%ADa&start=90&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D"
+        }
+    }
+}

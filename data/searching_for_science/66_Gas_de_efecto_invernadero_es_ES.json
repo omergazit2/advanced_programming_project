@@ -1,0 +1,238 @@
+{
+    "search_metadata": {
+        "id": "627cffcb437af2826657f03d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3e2dd73ef1228343/627cffcb437af2826657f03d.json",
+        "created_at": "2022-05-12 12:38:35 UTC",
+        "processed_at": "2022-05-12 12:38:35 UTC",
+        "google_url": "https://www.google.com/search?q=Gas+de+efecto+invernadero&oq=Gas+de+efecto+invernadero&uule=w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=&hl=es&gl=ES&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3e2dd73ef1228343/627cffcb437af2826657f03d.html",
+        "total_time_taken": 1.07
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Gas de efecto invernadero",
+        "uule": "w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "ES",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Gas de efecto invernadero",
+        "total_results": 7330000,
+        "time_taken_displayed": 0.57
+    },
+    "knowledge_graph": {
+        "title": "Gas de efecto invernadero",
+        "header_images": [
+            {
+                "source": "https://es.wikipedia.org/wiki/Gas_de_efecto_invernadero"
+            },
+            {
+                "source": "https://www.sostenibilidad.com/cambio-climatico/gases-efecto-invernadero-influyen-calentamiento-global/"
+            },
+            {
+                "source": "https://espanol.epa.gov/la-energia-y-el-medioambiente/descripcion-general-de-los-gases-de-efecto-invernadero"
+            },
+            {
+                "source": "https://www.elagoradiario.com/agorapedia/gases-de-efecto-invernadero-gei/"
+            }
+        ],
+        "description": "Un gas de efecto invernadero es un gas atmosférico que absorbe y emite radiación dentro del rango infrarrojo. Este proceso es la fundamental causa del efecto invernadero.​ Los principales GEI en la atmósfera terrestre son el vapor de agua, el dióxido de carbono, el metano, el óxido nitroso y el ozono.​",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://es.wikipedia.org/wiki/Gas_de_efecto_invernadero"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "¿Qué es el efecto invernadero? | Sostenibilidad - ACCIONA",
+            "link": "https://www.youtube.com/watch?v=YLFLxQ0t07A",
+            "thumbnail": "https://i.ytimg.com/vi/YLFLxQ0t07A/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lorUJdbPL1AaghxJEAqt1IWYskfQ",
+            "channel": "ACCIONA",
+            "duration": "1:56",
+            "platform": "YouTube",
+            "date": "28 jun 2016"
+        },
+        {
+            "position": 2,
+            "title": "¿Qué es el Efecto Invernadero? | Videos Educativos para Niños",
+            "link": "https://www.youtube.com/watch?v=D7azpbtGA4Y",
+            "thumbnail": "https://i.ytimg.com/vi/D7azpbtGA4Y/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nKs6PFMx4zwF_EmNrqwQ9Jp1lOqw",
+            "channel": "Aula365 – Los Creadores",
+            "duration": "4:48",
+            "platform": "YouTube",
+            "date": "20 sept 2017"
+        },
+        {
+            "position": 3,
+            "title": "¿Qué es el efecto invernadero? - Medio ambiente para niños",
+            "link": "https://www.youtube.com/watch?v=uO_6oS4PUkU",
+            "thumbnail": "https://i.ytimg.com/vi/uO_6oS4PUkU/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3m-x3Yoiud7qOxi4blg_P6aCkT03w",
+            "channel": "Smile and Learn - Español",
+            "duration": "4:04",
+            "platform": "YouTube",
+            "date": "3 sept 2020"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Efecto invernadero: causas y consecuencias en el clima",
+        "link": "https://climate.selectra.com/es/que-es/efecto-invernadero",
+        "displayed_link": "https://climate.selectra.com › Inicio › Que Es",
+        "date": "25 mar 2022",
+        "snippet": "Los gases responsables del efecto invernadero son los siguientes:",
+        "list": [
+            "Vapor de agua (H2O);",
+            "Dióxido de carbono (CO2);",
+            "Metano (CH4);",
+            "Óxido nitroso (N2O);",
+            "Ozono (O3)."
+        ],
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Gas de efecto invernadero - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Gas_de_efecto_invernadero",
+            "displayed_link": "https://es.wikipedia.org › wiki › Gas_de_efecto_inverna...",
+            "snippet": "Un gas de efecto invernadero (GEI) es un gas atmosférico que absorbe y emite radiación dentro del rango infrarrojo. Este proceso es la fundamental causa del ...",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Efecto invernadero",
+                        "link": "https://es.wikipedia.org/wiki/Gas_de_efecto_invernadero#Efecto_invernadero"
+                    },
+                    {
+                        "title": "Impactos sobre el efecto...",
+                        "link": "https://es.wikipedia.org/wiki/Gas_de_efecto_invernadero#Impactos_sobre_el_efecto_invernadero_en_general"
+                    },
+                    {
+                        "title": "Emisiones directas de gases...",
+                        "link": "https://es.wikipedia.org/wiki/Gas_de_efecto_invernadero#Emisiones_directas_de_gases_de_efecto_invernadero"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Cuáles son los gases de efecto invernadero - Fundación Aquae",
+            "link": "https://www.fundacionaquae.org/wiki/los-gases-de-efecto-invernadero/",
+            "displayed_link": "https://www.fundacionaquae.org › wiki › los-gases-de-e...",
+            "snippet": "Los gases de efecto invernadero son aquellos gases que se acumulan en la atmósfera de la Tierra y que absorben la energía infrarroja del Sol. Esto crea el ..."
+        },
+        {
+            "position": 3,
+            "title": "Descripción general de los gases de efecto invernadero",
+            "link": "https://espanol.epa.gov/la-energia-y-el-medioambiente/descripcion-general-de-los-gases-de-efecto-invernadero",
+            "displayed_link": "https://espanol.epa.gov › la-energia-y-el-medioambiente",
+            "date": "23 jun 2021",
+            "snippet": "A los gases que atrapan el calor en la atmósfera se les llama gases de efecto invernadero. En esta sección se proporciona información sobre ..."
+        },
+        {
+            "position": 4,
+            "title": "Qué son los gases de efecto invernadero - Ecodes",
+            "link": "https://ecodes.org/hacemos/cambio-climatico/que-son-los-gases-de-efecto-invernadero",
+            "displayed_link": "https://ecodes.org › Qué hacemos › Cambio Climático",
+            "snippet": "Si en un invernadero la cobertura plástica evita la pérdida del calor y conserva una temperatura estable, en la Tierra estos gases consiguen un efecto similar."
+        },
+        {
+            "position": 5,
+            "title": "Inventario Nacional de Gases de Efecto Invernadero (GEI)",
+            "link": "https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-/Inventario-GEI.aspx",
+            "displayed_link": "https://www.miteco.gob.es › temas › Inventario-GEI",
+            "snippet": "Los gases de efecto invernadero directo que se estiman en el Inventario son: dióxido de carbono (CO2), metano (CH4), óxido nitroso (N2O), hidrofluorocarburos ( ..."
+        },
+        {
+            "position": 6,
+            "title": "Gases de efecto invernadero y el cambio climatico - IDEAM",
+            "link": "http://www.ideam.gov.co/documents/21021/21138/Gases+de+Efecto+Invernadero+y+el+Cambio+Climatico.pdf",
+            "displayed_link": "http://www.ideam.gov.co › documents › Gases+de...",
+            "date": "102 páginas",
+            "snippet": "En la atmósfera de la Tierra, los principales gases de efecto invernadero (GEI) son el vapor de agua (H2O), el dióxido de carbono (CO2), el óxido nitroso (N2O), ..."
+        },
+        {
+            "position": 7,
+            "title": "GASES DE EFECTO INVERNADERO - CCPY",
+            "link": "http://www.ccpy.gob.mx/cambio-climatico/gases-efecto-invernadero.php",
+            "displayed_link": "http://www.ccpy.gob.mx › cambio-climatico › gases-ef...",
+            "snippet": "Los Gases de Efecto Invernadero (GEI) son componentes gaseosos de la atmósfera, naturales y resultantes de la actividad humana, que absorben y emiten ..."
+        },
+        {
+            "position": 8,
+            "title": "Gases de efecto invernadero | Oceana Europe",
+            "link": "https://europe.oceana.org/es/node/46897",
+            "displayed_link": "https://europe.oceana.org › node",
+            "snippet": "Los gases de invernadero más comunes e importantes son el dióxido de carbono, el óxido nitroso y el metano."
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "consecuencias del efecto invernadero",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Consecuencias+del+efecto+invernadero&sa=X&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "metano gas de efecto invernadero",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Metano+gas+de+efecto+invernadero&sa=X&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "óxido nitroso gas de efecto invernadero",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=%C3%93xido+nitroso+gas+de+efecto+invernadero&sa=X&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ1QJ6BAghEAE"
+        },
+        {
+            "query": "gases de efecto invernadero porcentajes",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Gases+de+efecto+invernadero+porcentajes&sa=X&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ1QJ6BAggEAE"
+        },
+        {
+            "query": "el vapor de agua es un gas de efecto invernadero",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=El+vapor+de+agua+es+un+gas+de+efecto+invernadero&sa=X&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ1QJ6BAgeEAE"
+        },
+        {
+            "query": "monóxido de carbono es un gas de efecto invernadero",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Mon%C3%B3xido+de+carbono+es+un+gas+de+efecto+invernadero&sa=X&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ1QJ6BAgdEAE"
+        },
+        {
+            "query": "so2 gas de efecto invernadero",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=SO2+gas+de+efecto+invernadero&sa=X&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ1QJ6BAgbEAE"
+        },
+        {
+            "query": "¿qué actividades humanas producen gases de efecto invernadero?",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=%C2%BFqu%C3%A9+actividades+humanas+producen+gases+de+efecto+invernadero%3F&sa=X&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ1QJ6BAgZEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Gas+de+efecto+invernadero&gl=ES&hl=es&ei=y_98YsCcHY3PytMP6pec2AE&start=10&sa=N&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Gas+de+efecto+invernadero&gl=ES&hl=es&ei=y_98YsCcHY3PytMP6pec2AE&start=10&sa=N&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=Gas+de+efecto+invernadero&gl=ES&hl=es&ei=y_98YsCcHY3PytMP6pec2AE&start=20&sa=N&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=Gas+de+efecto+invernadero&gl=ES&hl=es&ei=y_98YsCcHY3PytMP6pec2AE&start=30&sa=N&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=Gas+de+efecto+invernadero&gl=ES&hl=es&ei=y_98YsCcHY3PytMP6pec2AE&start=40&sa=N&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=Gas+de+efecto+invernadero&gl=ES&hl=es&ei=y_98YsCcHY3PytMP6pec2AE&start=50&sa=N&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=Gas+de+efecto+invernadero&gl=ES&hl=es&ei=y_98YsCcHY3PytMP6pec2AE&start=60&sa=N&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=Gas+de+efecto+invernadero&gl=ES&hl=es&ei=y_98YsCcHY3PytMP6pec2AE&start=70&sa=N&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=Gas+de+efecto+invernadero&gl=ES&hl=es&ei=y_98YsCcHY3PytMP6pec2AE&start=80&sa=N&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=Gas+de+efecto+invernadero&gl=ES&hl=es&ei=y_98YsCcHY3PytMP6pec2AE&start=90&sa=N&ved=2ahUKEwiArvqw_dn3AhWNp3IEHeoLBxsQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=20&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=30&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=40&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=50&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=60&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=70&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=80&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Gas+de+efecto+invernadero&start=90&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D"
+        }
+    }
+}

@@ -1,0 +1,670 @@
+{
+    "search_metadata": {
+        "id": "629e3ddde4a23d820994a4e5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cd5b0b9cdacac685/629e3ddde4a23d820994a4e5.json",
+        "created_at": "2022-06-06 17:48:13 UTC",
+        "processed_at": "2022-06-06 17:48:13 UTC",
+        "google_url": "https://www.google.com/search?q=Solar+system&oq=Solar+system&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/cd5b0b9cdacac685/629e3ddde4a23d820994a4e5.html",
+        "total_time_taken": 1.8
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Solar system",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Solar system",
+        "total_results": 3650000000,
+        "time_taken_displayed": 0.56
+    },
+    "knowledge_graph": {
+        "title": "Solar System",
+        "type": "Star system",
+        "header_images": [
+            {
+                "source": "https://www.science-sparks.com/how-big-is-the-solar-system/"
+            },
+            {
+                "source": "https://en.wikipedia.org/wiki/Solar_System"
+            },
+            {
+                "source": "https://simple.wikipedia.org/wiki/Solar_System"
+            },
+            {
+                "source": "https://www.funkidslive.com/learn/top-10-facts/top-10-facts-about-the-solar-system/"
+            },
+            {
+                "source": "https://www.space.com/16080-solar-system-planets.html"
+            },
+            {
+                "source": "https://www.twinkl.com.br/teaching-wiki/solar-system"
+            }
+        ],
+        "description": "The Solar System is the gravitationally bound system of the Sun and the objects that orbit it. The Solar System formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Solar_System"
+        },
+        "age": "4.571 billion years",
+        "age_links": [
+            {
+                "text": "Age",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=solar+system+age&stick=H4sIAAAAAAAAAOPgE-LQz9U3MCswTddSyk620k8sLinKz8vPrdRPTs1JLS7JTMyJz0_KSk0usUpMT13EKlCcn5NYpFBcWVySmqsAFAIA3KakP0MAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ6BMoAHoECH8QAg"
+            }
+        ],
+        "known_planets": "8 declared by IAU - Mercury; Venus; Earth; Mars; Jupiter; Saturn; Uranus; Neptune",
+        "known_planets_links": [
+            {
+                "text": "Known planets",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=solar+system+known+planets&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ6BMoAHoECH4QAg"
+            },
+            {
+                "text": "IAU",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=IAU&stick=H4sIAAAAAAAAAONgVuLQz9U3sCy0MFnEyuzpGAoAIZu1lhIAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoAXoECH4QAw"
+            },
+            {
+                "text": "Mercury",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Mercury&stick=H4sIAAAAAAAAAONgVuLQz9U3sEyutFjEyu6bWpRcWlQJAHTode0WAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoAnoECH4QBA"
+            },
+            {
+                "text": "Venus",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Venus&stick=H4sIAAAAAAAAAONgVuLQz9U3sExKzl3EyhqWmldaDABej0mqFAAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoA3oECH4QBQ"
+            },
+            {
+                "text": "Mars",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Mars&stick=H4sIAAAAAAAAAONgVuLQz9U3sEwuL17EyuKbWFQMAPuDE4kTAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoBHoECH4QBg"
+            },
+            {
+                "text": "Jupiter",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Jupiter&stick=H4sIAAAAAAAAAONgVuLQz9U3sCy0MFnEyu5VWpBZkloEAIUqbdgWAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoBXoECH4QBw"
+            },
+            {
+                "text": "Saturn",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Saturn&stick=H4sIAAAAAAAAAONgVuLQz9U3SDYutljEyhacWFJalAcACfOrIxUAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoBnoECH4QCA"
+            },
+            {
+                "text": "Uranus",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Uranus&stick=H4sIAAAAAAAAAONgVuLQz9U3SDYuLl7EyhZalJhXWgwAMxAb7xUAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoB3oECH4QCQ"
+            },
+            {
+                "text": "Neptune",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Neptune&stick=H4sIAAAAAAAAAONgVuLQz9U3SDY2zFjEyu6XWlBSmpcKAOD1gisWAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoCHoECH4QCg"
+            }
+        ],
+        "nearest_known_planetary_system": "Proxima Centauri system (4.2441 ly)",
+        "nearest_known_planetary_system_links": [
+            {
+                "text": "Nearest known planetary system",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=solar+system+nearest+known+planetary+system&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ6BMoAHoFCIMBEAI"
+            },
+            {
+                "text": "Proxima Centauri system (4.2441 ly)",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Proxima+Centauri+system+(4.2441+ly)&stick=H4sIAAAAAAAAAONgVuLQz9U3yDHMKl7EqhxQlF-RmZuo4JyaV5JYWpSpUFxZXJKaq6BhomdkYmKokFOpCQDuC02EMgAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoAXoFCIMBEAM"
+            }
+        ],
+        "stars": "1 (Sun)",
+        "stars_links": [
+            {
+                "text": "Stars",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=solar+system+stars&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ6BMoAHoECH0QAg"
+            },
+            {
+                "text": "1 (Sun)",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=1+(Sun)&stick=H4sIAAAAAAAAAONgVuLQz9U3MMuNL1jEym6ooBFcmqcJAGLUSaEWAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoAXoECH0QAw"
+            }
+        ],
+        "location": "Local Interstellar Cloud, Local Bubble, Orion–Cygnus Arm, Milky Way",
+        "location_links": [
+            {
+                "text": "Location",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=solar+system+location&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ6BMoAHoFCIQBEAI"
+            },
+            {
+                "text": "Local Interstellar Cloud, Local Bubble, Orion–Cygnus Arm, Milky Way",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Local+Interstellar+Cloud,+Local+Bubble,+Orion%E2%80%93Cygnus+Arm,+Milky+Way&stick=H4sIAAAAAAAAAONgVuLUz9U3MKowMLdcxOrqk5-cmKPgmVeSWlRckpqTk1ik4JyTX5qiowCRcSpNSspJ1VHwL8rMz3vUMNm5Mj2vtFjBsShXR8E3Mye7UiE8sRIA1P3WJ1UAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoAXoFCIQBEAM"
+            }
+        ],
+        "system_mass": "1.0014 Solar masses",
+        "system_mass_links": [
+            {
+                "text": "System mass",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=solar+system+system+mass&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ6BMoAHoFCIIBEAI"
+            },
+            {
+                "text": "1.0014 Solar masses",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=1.0014+Solar+masses&stick=H4sIAAAAAAAAAONgVuLQz9U3MMuNL1jEKmyoZ2BgaKIQnJ-TWKSQm1hcnFoMAJu96zIiAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQmxMoAXoFCIIBEAM"
+            }
+        ],
+        "known_natural_satellites": "657 (206 planetary; 451 minor planetary);",
+        "known_natural_satellites_links": [
+            {
+                "text": "Known natural satellites",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=solar+system+known+natural+satellites&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ6BMoAHoECG4QAg"
+            }
+        ],
+        "planets_solar_system": [
+            {
+                "name": "Earth",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Earth&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVcCs4yyzA21RLKTrfST83Nz8_OsUvLL88oTi1KKVzGyB-Qk5qWWFC9iZXVNLCrJ2MHKCABBHwQCQQAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhtEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Earth&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVcCs4yyzA21RLKTrfST83Nz8_OsUvLL88oTi1KKVzGyB-Qk5qWWFC9iZXVNLCrJ2MHKCABBHwQCQQAAAA",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15d01dc6de575050a540986c8e7871a9a034a3baea476e17e96bc495009a5e11740.jpeg"
+            },
+            {
+                "name": "Jupiter",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Jupiter&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVcCsywLLUy0RLKTrfST83Nz8_OsUvLL88oTi1KKVzGyB-Qk5qWWFC9iZfcqLcgsSS3awcoIAMqUtp9DAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhtEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jupiter&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVcCsywLLUy0RLKTrfST83Nz8_OsUvLL88oTi1KKVzGyB-Qk5qWWFC9iZfcqLcgsSS3awcoIAMqUtp9DAAAA",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15d01dc6de575050a540986c8e7871a9a030dd3ff79aab86129c05dc39434595d4f.jpeg"
+            },
+            {
+                "name": "Saturn",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Saturn&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVcCs5KNiy20RLKTrfST83Nz8_OsUvLL88oTi1KKVzGyB-Qk5qWWFC9iZQtOLCktytvByggA6OnVBkIAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhtEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Saturn&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVcCs5KNiy20RLKTrfST83Nz8_OsUvLL88oTi1KKVzGyB-Qk5qWWFC9iZQtOLCktytvByggA6OnVBkIAAAA",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15d01dc6de575050a540986c8e7871a9a03c4cb32c2c571268722621392fe6e1c4e.jpeg"
+            },
+            {
+                "name": "Mercury",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Mercury+(planet)&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVcCsyyTKy20RLKTrfST83Nz8_OsUvLL88oTi1KKVzGyB-Qk5qWWFC9iFfBNLUouLapU0CgAC2nuYGUEAF28P-pMAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhtEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercury+%28planet%29&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVcCsyyTKy20RLKTrfST83Nz8_OsUvLL88oTi1KKVzGyB-Qk5qWWFC9iFfBNLUouLapU0CgAC2nuYGUEAF28P-pMAAAA",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15d01dc6de575050a540986c8e7871a9a03e49b2ec8a60c179f34f55bfc2be7ea93.jpeg"
+            }
+        ],
+        "planets_solar_system_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Planets+Solar+System&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMbIH5CTmpZYUL2IVgbIUgvNzEosUgiuLS1Jzd7AyAgDogGVlUAAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQMSgAegQIbRAB",
+        "planets_solar_system_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMbIH5CTmpZYUL2IVgbIUgvNzEosUgiuLS1Jzd7AyAgDogGVlUAAAAA",
+        "solar_system_model": [
+            {
+                "name": "Eisco Labs Solar Sy...",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Eisco+Labs+Solar+System&stick=H4sIAAAAAAAAAA3IMQrCMBQAUIoUuriI4BocXb4Zqtjdza0HCGnyjTE_-aEpBK_j6Ak8nr7xdatNBxGOp9y7_RocSHnvn_JSz-6wDWYAwzFyGizXVPVsy6eR_yNCs3hOEBJXQutQZZ2QCpQH5-yTUyErJO_8RPhud1dfDIubnooYmfQsxldZMH7b5gdNonUPggAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhrEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eisco+Labs+Solar+System&stick=H4sIAAAAAAAAAA3IMQrCMBQAUIoUuriI4BocXb4Zqtjdza0HCGnyjTE_-aEpBK_j6Ak8nr7xdatNBxGOp9y7_RocSHnvn_JSz-6wDWYAwzFyGizXVPVsy6eR_yNCs3hOEBJXQutQZZ2QCpQH5-yTUyErJO_8RPhud1dfDIubnooYmfQsxldZMH7b5gdNonUPggAAAA",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15d91258f520921b61550f5b6d404613edd85388e5dd37da3df0216fc916c8fe88d.jpeg"
+            },
+            {
+                "name": "Discovery 3D Solar System",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Discovery+3D+Solar+System&stick=H4sIAAAAAAAAAA3IMQrCMBQAUIoUuriIi1txdPkGqUPn3qAHKGnySUJ-8kNSDL2OoyfwePrG1x1OHQS4P9NgrkcwIITV65atptvZqxEUh8Bx1FxjlVmXTyP-R4RqcxzBR66E2uCSZEQqUCyn5KJZfFqQnHEr4bu9TK4ofmHe-8fUz0wy9_NeNgzftvkBaTfQEoQAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhrEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Discovery+3D+Solar+System&stick=H4sIAAAAAAAAAA3IMQrCMBQAUIoUuriIi1txdPkGqUPn3qAHKGnySUJ-8kNSDL2OoyfwePrG1x1OHQS4P9NgrkcwIITV65atptvZqxEUh8Bx1FxjlVmXTyP-R4RqcxzBR66E2uCSZEQqUCyn5KJZfFqQnHEr4bu9TK4ofmHe-8fUz0wy9_NeNgzftvkBaTfQEoQAAAA",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15d91258f520921b61550f5b6d404613edd3b48e84b5c3c1632aec3d9c9c4830b5a.jpeg"
+            },
+            {
+                "name": "4M Solar System Planetarium",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=4M+Solar+System+Planetarium&stick=H4sIAAAAAAAAAA3KMQrCMBQAUIoUuriIm0twdPkWWsHeQRB6gJA2n9_Qn_yQVIrXcfQEHs-uj1ftDhV4uN5iS-c9ENR1svbeDDRdjvPYwSjeS-isrGE1yeZvUW_GjOPiJMAcZGW0hDqagJwhTxKjC6TnqJEduYHxU56ah-qFTVL9Oy_o1ZO3vpjkXv5XFn_ZkX3GhgAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhrEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4M+Solar+System+Planetarium&stick=H4sIAAAAAAAAAA3KMQrCMBQAUIoUuriIm0twdPkWWsHeQRB6gJA2n9_Qn_yQVIrXcfQEHs-uj1ftDhV4uN5iS-c9ENR1svbeDDRdjvPYwSjeS-isrGE1yeZvUW_GjOPiJMAcZGW0hDqagJwhTxKjC6TnqJEduYHxU56ah-qFTVL9Oy_o1ZO3vpjkXv5XFn_ZkX3GhgAAAA",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15d91258f520921b61550f5b6d404613edd91af8ccf30d56d5ce7b4bcbcfcabb797.jpeg"
+            },
+            {
+                "name": "4M 3D Glow‑In‑The‑Dark Solar Sy...",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=4M+3D+Glow-In-The-Dark+Solar+System+Model+Making+Science+Kit&stick=H4sIAAAAAAAAAA3LPQrCMBQAYIoUuriIBwiOQonFn6E4FkSkU91LTJ5pyEteSArB6zh6Ao-n6wdftVhV3PHdKRz1Zsk1b5qolIpPh9u1lS2X5Bz5VlH2WUSVPkXzN0SQsyHPraeMoDSMQXjAxNNEIRivRxtGQKPNA-Fdng8923fsgpTrq6_vE9SdiJYNhCKy4ZVmcKwnBch6Yf-dDdKAl8BuZv6WxQ8fNbPOpwAAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhrEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=4M+3D+Glow-In-The-Dark+Solar+System+Model+Making+Science+Kit&stick=H4sIAAAAAAAAAA3LPQrCMBQAYIoUuriIBwiOQonFn6E4FkSkU91LTJ5pyEteSArB6zh6Ao-n6wdftVhV3PHdKRz1Zsk1b5qolIpPh9u1lS2X5Bz5VlH2WUSVPkXzN0SQsyHPraeMoDSMQXjAxNNEIRivRxtGQKPNA-Fdng8923fsgpTrq6_vE9SdiJYNhCKy4ZVmcKwnBch6Yf-dDdKAl8BuZv6WxQ8fNbPOpwAAAA",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15d91258f520921b61550f5b6d404613edd9232b7f896989ea29db0c3ed14cf49bf.jpeg"
+            }
+        ],
+        "solar_system_model_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Solar+System+Model&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMRoCxXJyUpNLMvPz9LPz8stzUlPSU-MLEvNSc4r1izPyCwoy89LjswviU3My0zOTclIXsQoF5-ckFikEVxaXpOYq-OanpObsYGUEACIsCaV4AAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQMSgAegQIaxAB",
+        "solar_system_model_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMRoCxXJyUpNLMvPz9LPz8stzUlPSU-MLEvNSc4r1izPyCwoy89LjswviU3My0zOTclIXsQoF5-ckFikEVxaXpOYq-OanpObsYGUEACIsCaV4AAAA",
+        "people_also_search_for": [
+            {
+                "name": "Jupiter",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Jupiter&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXbvPaMrpO4tBby_CxdKAp3lHwdldRuEnsDNqa9s_EcaZWOQu_KwRHebYAdx1m5bfcendICXb7oFsh5CkUrO-7oj39HRkb_TplmwMqGayR6F-4Nn8qpR1HgVdeC-xSc6qyuoGQJYkWH3fyw-r6M1IXaXDN0qHAoi5qhtdUxnv1lNWQjDQXSIgah00o8p86B57yUcHFj9cOrbTmW7ydktfLRGH9OF9fV18g_1zVp4Bg3E0dsPOw%3D%3D&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhsEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jupiter&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXbvPaMrpO4tBby_CxdKAp3lHwdldRuEnsDNqa9s_EcaZWOQu_KwRHebYAdx1m5bfcendICXb7oFsh5CkUrO-7oj39HRkb_TplmwMqGayR6F-4Nn8qpR1HgVdeC-xSc6qyuoGQJYkWH3fyw-r6M1IXaXDN0qHAoi5qhtdUxnv1lNWQjDQXSIgah00o8p86B57yUcHFj9cOrbTmW7ydktfLRGH9OF9fV18g_1zVp4Bg3E0dsPOw%3D%3D",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15da9ac3f5a979726e7271c72cba40c197f4244e5a24a1a46c5bee744a8aac3dd55.jpeg"
+            },
+            {
+                "name": "Sun",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Sun&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbPE6sNWsLfgrE5ncssnct8y4vt8U8SKQCYqLLbJEnh4kT6A6TTVIGoo1yPm7xQXj3jICoEJhzcOh3QF-r12ApD8ItSAO3PSPHTmd9_IOt4x2lMMEdJyYmpImtbDmMt74JcMWSirCvdoNRZPF9maMYSwRvXK2a5doX7GuaVfpwXetWFoHSX2THAo_aY_Ler6opksMz6AoHnud8IEgE_hDI3K-HlVOJOkKZjN-pjgpTrplsBcIQ%3D%3D&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhsEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Sun&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbPE6sNWsLfgrE5ncssnct8y4vt8U8SKQCYqLLbJEnh4kT6A6TTVIGoo1yPm7xQXj3jICoEJhzcOh3QF-r12ApD8ItSAO3PSPHTmd9_IOt4x2lMMEdJyYmpImtbDmMt74JcMWSirCvdoNRZPF9maMYSwRvXK2a5doX7GuaVfpwXetWFoHSX2THAo_aY_Ler6opksMz6AoHnud8IEgE_hDI3K-HlVOJOkKZjN-pjgpTrplsBcIQ%3D%3D",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15da9ac3f5a979726e7271c72cba40c197f89d2580c31d5c13ea45c69f17af2ee5c.jpeg"
+            },
+            {
+                "name": "Mercury",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Mercury+(planet)&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWHqDjrJHbaA8J2U0CVOtgWhJj6d-vUI6byQIuxC-IpoiaxfrPc6NYeDlvwShOK-MdMXWU6Ym0mkGY_xEvytgLc8OGsqXMDhndS4mD6vR_-Ic7BIayukwKHqhLq1an2SEyyIHIYpNdUWWZu-9sxqsmq2aBC3os_VrtuompjqZ61KMYR0fVzHOu_rNRNT9UXZ7SWhx2vYHRG3stfDYvYa8cVr_xN0I-fdMxcLJXZMG64L0uG2zH6vLhTyuL0hv-YD3YKl22U%3D&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhsEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mercury+%28planet%29&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWHqDjrJHbaA8J2U0CVOtgWhJj6d-vUI6byQIuxC-IpoiaxfrPc6NYeDlvwShOK-MdMXWU6Ym0mkGY_xEvytgLc8OGsqXMDhndS4mD6vR_-Ic7BIayukwKHqhLq1an2SEyyIHIYpNdUWWZu-9sxqsmq2aBC3os_VrtuompjqZ61KMYR0fVzHOu_rNRNT9UXZ7SWhx2vYHRG3stfDYvYa8cVr_xN0I-fdMxcLJXZMG64L0uG2zH6vLhTyuL0hv-YD3YKl22U%3D",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15da9ac3f5a979726e7271c72cba40c197f301cfc9efde2914d14e55e7332209551.jpeg"
+            },
+            {
+                "name": "Pluto",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Pluto&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZ2x6S1OI3qXy5IDlYeuK4DxBdqv9dvkelFxas_RPnNRnNjbBKclrcWH9b_rCAt_8geKPXbR0s8qi7HRxAnxujZW83jGyANBFHntL9xzX5P8Vyr6Q1dPHhHPYfEF2F2WOlU56qbB_Tpu6t4TIroh1qyh87I0W6uDn7XZHjl6kKpXu9DjLJXWhcpi62OVr03Ti2PJAUP6yeUSbuF8rsxTO5VC3EDrtmN_vh3XzTU9qV9KXd3Evw%3D%3D&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQxA16BAhsEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Pluto&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZ2x6S1OI3qXy5IDlYeuK4DxBdqv9dvkelFxas_RPnNRnNjbBKclrcWH9b_rCAt_8geKPXbR0s8qi7HRxAnxujZW83jGyANBFHntL9xzX5P8Vyr6Q1dPHhHPYfEF2F2WOlU56qbB_Tpu6t4TIroh1qyh87I0W6uDn7XZHjl6kKpXu9DjLJXWhcpi62OVr03Ti2PJAUP6yeUSbuF8rsxTO5VC3EDrtmN_vh3XzTU9qV9KXd3Evw%3D%3D",
+                "image": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/44e866358a5e8a233a9857a8b623b15da9ac3f5a979726e7271c72cba40c197f4a825eb7d5fed88abae78f2fc59b9eff.jpeg"
+            }
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Solar+System&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7QEgzNTUssTK4v9UitKgktSC4oXsfIE5-ckFikEVxaXpObuYGUEAOiUVDo7AAAA&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQMSgAegQIbBAB",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7QEgzNTUssTK4v9UitKgktSC4oXsfIE5-ckFikEVxaXpObuYGUEAOiUVDo7AAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Solar System 101 | National Geographic",
+            "link": "https://www.youtube.com/watch?v=libKVRa01L8",
+            "thumbnail": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/67c088b5a252c89913916c66a761f43a702a63a406d13e0bf8a2d942a049d701.jpeg",
+            "channel": "National Geographic",
+            "duration": "4:11",
+            "platform": "YouTube",
+            "date": "Aug 30, 2017"
+        },
+        {
+            "position": 2,
+            "title": "Science 101: The Solar System",
+            "link": "https://www.nationalgeographic.org/video/space-101-solar-system/",
+            "thumbnail": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/67c088b5a252c89922aa36ed9803719c55391e05e218a2220f0475da5339ae38.jpeg",
+            "platform": "National Geographic Society",
+            "date": "2 weeks ago"
+        },
+        {
+            "position": 3,
+            "title": "Student Video: Solar System Size and Distance",
+            "link": "https://www.jpl.nasa.gov/edu/learn/video/solar-system-size-and-distance/",
+            "thumbnail": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/67c088b5a252c8997d7478caa7c0055b134b41697b7a887a67f81c6635685556.jpeg",
+            "channel": "NASAJPL Edu",
+            "duration": "1:21",
+            "platform": "NASA",
+            "date": "May 22, 2020"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What are the 7 solar systems?",
+            "snippet": "The planets, in order of their distance outward from the Sun, are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.Apr 26, 2022",
+            "title": "solar system | Definition, Planets, Diagram, Videos, & Facts",
+            "link": "https://www.britannica.com/science/solar-system",
+            "displayed_link": "https://www.britannica.com › Science › Astronomy"
+        },
+        {
+            "question": "Are there 8 or 9 planets in the solar system?",
+            "snippet": "Our solar system is made up of a star—the Sun—eight planets, 146 moons, a bunch of comets, asteroids and space rocks, ice, and several dwarf planets, such as Pluto. The eight planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Mercury is closest to the Sun.Mar 15, 2016",
+            "title": "Our Solar System | NASA Solar System Exploration",
+            "link": "https://solarsystem.nasa.gov/resources/490/our-solar-system/",
+            "displayed_link": "https://solarsystem.nasa.gov › resources › our-solar-system"
+        },
+        {
+            "question": "What are the 12 solar system?",
+            "snippet": "If the resolution is approved, the 12 planets in our solar system listed in order of their proximity to the sun would be Mercury, Venus, Earth, Mars, Ceres, Jupiter, Saturn, Uranus, Neptune, Pluto, Charon, and the provisionally named 2003 UB313.Aug 16, 2006",
+            "title": "Solar system may grow to 12 planets - MPR News",
+            "link": "https://www.mprnews.org/story/2006/08/16/newplanets",
+            "displayed_link": "https://www.mprnews.org › 2006/08/16 › newplanets"
+        },
+        {
+            "question": "What is solar system briefly explain?",
+            "snippet": "The solar system is the sun and everything that orbits around it. It includes the planets and their moons as well as numerous asteroids and comets. These objects are all held in orbit around the sun by the sun's strong gravity.",
+            "title": "What is the solar system? - Cool Cosmos - Caltech",
+            "link": "https://coolcosmos.ipac.caltech.edu/ask/192-What-is-the-solar-system-",
+            "displayed_link": "https://coolcosmos.ipac.caltech.edu › ask › 192-What-is-t..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Overview | Our Solar System",
+            "link": "https://solarsystem.nasa.gov/solar-system/our-solar-system/overview/",
+            "displayed_link": "https://solarsystem.nasa.gov › solar-system › overview",
+            "thumbnail": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a0acd118bfcd8c3ae21f8dd1233d75fb9.jpeg",
+            "date": "Aug 30, 2021",
+            "snippet": "Our solar system consists of our star, the Sun, and everything bound to it by gravity – the planets Mercury, Venus, Earth, Mars, Jupiter, Saturn ...",
+            "snippet_highlighted_words": [
+                "solar system"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Our Solar System",
+                        "link": "https://solarsystem.nasa.gov/solar-system/our-solar-system/in-depth/"
+                    },
+                    {
+                        "title": "Galleries",
+                        "link": "https://solarsystem.nasa.gov/solar-system/our-solar-system/galleries/"
+                    },
+                    {
+                        "title": "Interactives",
+                        "link": "https://solarsystem.nasa.gov/interactives/"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research.",
+                    "icon": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a8dc9bee5886261d0b64141ac959f1b5bfa0642c8da613b6a81c530c5bea5e054.png"
+                },
+                "keywords": [
+                    "solar",
+                    "system"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://solarsystem.nasa.gov/solar-system/our-solar-system/overview/&tbm=ilp&ilps=ADNMCi2v7N2B2N2Ofx-67ME7yG9leBQzpA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WWcV2Y-HFwEJ:https://solarsystem.nasa.gov/solar-system/our-solar-system/overview/+&cd=1&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Home – NASA Solar System Exploration",
+                    "link": "https://solarsystem.nasa.gov/",
+                    "displayed_link": "https://solarsystem.nasa.gov",
+                    "thumbnail": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a27fe032d437e22023cce17189d60ebf4de9965330457673fd3110802caed348f.jpeg",
+                    "snippet": "NASA's real-time science encyclopedia of deep space exploration. Our scientists and hardworking robots are exploring the wild frontiers of our solar system.",
+                    "snippet_highlighted_words": [
+                        "solar system"
+                    ],
+                    "about_this_result": {
+                        "source": {
+                            "description": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research.",
+                            "icon": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a27fe032d437e22023cce17189d60ebf42aa9b16e29fe0e47a65ac4ff2e7216fa252ea96e8dec6697a7f33bb4e773d28277cdb70289192a45.png"
+                        },
+                        "keywords": [
+                            "solar",
+                            "system"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://solarsystem.nasa.gov/&tbm=ilp&ilps=ADNMCi1k0NYuuRQbTwC-Y1ne6emXESfuQQ",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:flEtD88oQNUJ:https://solarsystem.nasa.gov/+&cd=2&hl=en&ct=clnk&gl=us",
+                    "related_pages_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=related:https://solarsystem.nasa.gov/+Solar+system"
+                },
+                {
+                    "position": 2,
+                    "title": "Overview | Planets – NASA Solar System Exploration",
+                    "link": "https://solarsystem.nasa.gov/planets/overview/",
+                    "displayed_link": "https://solarsystem.nasa.gov › planets › overview",
+                    "snippet": "Mercury—the smallest planet in our solar system and closest to the Sun—is only slightly larger than Earth's Moon. Mercury is the fastest planet, ...",
+                    "snippet_highlighted_words": [
+                        "solar system"
+                    ],
+                    "about_this_result": {
+                        "source": {
+                            "description": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research.",
+                            "icon": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a27fe032d437e22023cce17189d60ebf40654e93545ebd4fa37bc6f86153504dfa495d4259c1c7e1833fe4d3261f8a59736af9d68d4fb3f01.png"
+                        },
+                        "keywords": [
+                            "solar",
+                            "system"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://solarsystem.nasa.gov/planets/overview/&tbm=ilp&ilps=ADNMCi2C1X6Tq5OPFe-aSebsk0O3VpDi2w",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nKNmFM5J4GYJ:https://solarsystem.nasa.gov/planets/overview/+&cd=3&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Solar System - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Solar_System",
+            "displayed_link": "https://en.wikipedia.org › wiki › Solar_System",
+            "thumbnail": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a6530fdbff0a17062e99d2e14c47a4661.jpeg",
+            "snippet": "The Solar System is the gravitationally bound system of the Sun and the objects that orbit it. The Solar System formed 4.6 billion years ago from the ...",
+            "snippet_highlighted_words": [
+                "Solar System",
+                "Solar System"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Structure and composition",
+                        "link": "https://en.wikipedia.org/wiki/Solar_System#Structure_and_composition"
+                    },
+                    {
+                        "title": "Sun",
+                        "link": "https://en.wikipedia.org/wiki/Solar_System#Sun"
+                    },
+                    {
+                        "title": "Inner Solar System",
+                        "link": "https://en.wikipedia.org/wiki/Solar_System#Inner_Solar_System"
+                    },
+                    {
+                        "title": "Outer Solar System",
+                        "link": "https://en.wikipedia.org/wiki/Solar_System#Outer_Solar_System"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "system_mass_solar_masses": 1.0014,
+                        "known_dwarf_planets_by_general_consensus": 9,
+                        "known_minor_planets": 1199224
+                    },
+                    "extensions": [
+                        "System mass: 1.0014 Solar masses",
+                        "Known dwarf planets: 9 by general consensus: ...",
+                        "Nearest known planetary system: Proxima Ce...",
+                        "Known minor planets: 1,199,224"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a23fa4753136093b70c48c5aa686bac4cacfa0dc5cbc84b77a0aee2e2c90d4b29.png"
+                },
+                "keywords": [
+                    "solar",
+                    "system"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Solar_System&tbm=ilp&ilps=ADNMCi1mlyyKT3D31rC-C_x5XYOWbM-EyA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Sx9tW8XD7EEJ:https://en.wikipedia.org/wiki/Solar_System+&cd=18&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=related:https://en.wikipedia.org/wiki/Solar_System+Solar+system"
+        },
+        {
+            "position": 3,
+            "title": "Solar system planets, order and formation: A guide | Space",
+            "link": "https://www.space.com/16080-solar-system-planets.html",
+            "displayed_link": "https://www.space.com › 16080-solar-system-planets",
+            "thumbnail": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a6eaaaaa66a0d7cc104f4d75bbf2380ca.jpeg",
+            "date": "Mar 23, 2022",
+            "snippet": "The solar system is made up of the sun and everything that orbits around it, including planets, moons, asteroids, comets and meteoroids. The ...",
+            "snippet_highlighted_words": [
+                "solar system"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Space.com is a space and astronomy news website owned by Future. Its stories are often syndicated to other media outlets, including CNN, MSNBC, Yahoo!, and USA Today.\nSpace.com was founded by former CNN anchor Lou Dobbs and Rich Zahradnik, in July 1999.",
+                    "icon": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a9f5257b194121f5077b724de8b9d82e69b6f81903b36b32a8a495a2a9b2080ef.png"
+                },
+                "keywords": [
+                    "solar",
+                    "system"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.space.com/16080-solar-system-planets.html&tbm=ilp&ilps=ADNMCi0EjWYq1qjVsQXPKmuOF4Qhi9NMVg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5h9fQE1S1JYJ:https://www.space.com/16080-solar-system-planets.html+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "solar system | Definition, Planets, Diagram, Videos, & Facts",
+            "link": "https://www.britannica.com/science/solar-system",
+            "displayed_link": "https://www.britannica.com › Science › Astronomy",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVjSIPSVWx96Uf-D7-_QLMuW1peoZC1yIKJScBANVY8QgCBIYx1L9u&usqp=CAE&s",
+            "date": "Apr 26, 2022",
+            "snippet": "solar system, assemblage consisting of the Sun—an average star in the Milky Way Galaxy—and those bodies orbiting around it: 8 (formerly 9) ...",
+            "snippet_highlighted_words": [
+                "solar system"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a37a22d46859775c824c949dab01f162f17ad5704a888eb66f2dc1058f3e84c32.png"
+                },
+                "keywords": [
+                    "solar",
+                    "system"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/solar-system&tbm=ilp&ilps=ADNMCi014TRtXMJ43rtSMJ_Q43_dFMzZ8Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FUVcEHbgCHYJ:https://www.britannica.com/science/solar-system+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Build a Solar System Model | Exploratorium",
+            "link": "https://www.exploratorium.edu/ronh/solar_system/",
+            "displayed_link": "https://www.exploratorium.edu › ronh › solar_system",
+            "snippet": "Make a scale model of the solar system with this JavaScript enabled page. All you have to do is specify the size of the sun and the rest is figured out to ...",
+            "snippet_highlighted_words": [
+                "solar system"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Exploratorium is a museum of science, technology, and arts in San Francisco, California. Characterized as \"a mad scientist's penny arcade, a scientific funhouse, and an experimental laboratory all ...",
+                    "icon": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a736dd7b2393485022ed430622b3884ff31114a6c376de4dea3b4e2a8e52dc582.png"
+                },
+                "keywords": [
+                    "solar",
+                    "system"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.exploratorium.edu/ronh/solar_system/&tbm=ilp&ilps=ADNMCi3rVSnrd2_CAjIl9CoTH7VW_IiAEg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5MOUalJw9kwJ:https://www.exploratorium.edu/ronh/solar_system/+&cd=21&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Our Solar System - National Geographic",
+            "link": "https://www.nationalgeographic.com/science/topic/our-solar-system",
+            "displayed_link": "https://www.nationalgeographic.com › science › topic",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSbHcSsZnIajdBO5CZteRReSvzU1T-zcCCJzZJMmxsJk07Z5Zc5UcR&usqp=CAE&s",
+            "snippet": "How the hunt for a 'missing planet' revealed asteroids in our solar system. Following a hunch that there might be a missing planet in between Mars and ...",
+            "snippet_highlighted_words": [
+                "solar system"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "National Geographic is a popular American monthly magazine published by the National Geographic Society. Known for its photojournalism, it is one of the most widely read magazines of all time.",
+                    "icon": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a0b4b6848dfb72d46a72cccf4858c5d0df70c5becca0ddb8557270351788bb79e.png"
+                },
+                "keywords": [
+                    "solar",
+                    "system"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nationalgeographic.com/science/topic/our-solar-system&tbm=ilp&ilps=ADNMCi1kcpCh6fAyR4YxipLx-VKs0XkMLg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gtbUf_-PhxEJ:https://www.nationalgeographic.com/science/topic/our-solar-system+&cd=22&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "The solar system: Facts about our cosmic neighborhood",
+            "link": "https://www.livescience.com/our-solar-system.html",
+            "displayed_link": "https://www.livescience.com › our-solar-system",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhp5dlwNkahXAwy0GzI5DTz9m1ff4bgWe0loSfU_u51_yUfqsb2Gy1&usqp=CAE&s",
+            "date": "Feb 25, 2022",
+            "snippet": "The solar system is a collection of planets, moons, asteroids, comets, dust and gas that orbit our local star, the sun.",
+            "snippet_highlighted_words": [
+                "solar system"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Live Science is a science news website run by Future via Purch, which it purchased from Imaginova in 2009. Stories and editorial commentary are typically syndicated to major news outlets, such as Yahoo!, MSNBC, AOL, and Fox News.",
+                    "icon": "https://serpapi.com/searches/629e3ddde4a23d820994a4e5/images/21849cabd207407eed7fd33a1e1da31a7b51e0e5d69b74fc395d1c2d956db35caceb0836184401620c9b032a89245228.png"
+                },
+                "keywords": [
+                    "solar",
+                    "system"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.livescience.com/our-solar-system.html&tbm=ilp&ilps=ADNMCi2LF05B2sR1ZHJa0Tjf3Gw0E6Z5AA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:e3dCjOlT5WYJ:https://www.livescience.com/our-solar-system.html+&cd=23&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "solar system scope",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Solar+System+Scope&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ1QJ6BAhXEAE"
+        },
+        {
+            "query": "solar system for kids",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Solar+system+for+kids&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ1QJ6BAhYEAE"
+        },
+        {
+            "query": "solar system simulator",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Solar+system+simulator&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ1QJ6BAhbEAE"
+        },
+        {
+            "query": "solar system model",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Solar+system+model&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ1QJ6BAhZEAE"
+        },
+        {
+            "query": "solar system facts",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Solar+system+facts&sa=X&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ1QJ6BAhaEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Solar+system&ucbcb=1&gl=us&hl=en&ei=3j2eYoqsLIKF8gLhgKjQAw&start=10&sa=N&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Solar+system&ucbcb=1&gl=us&hl=en&ei=3j2eYoqsLIKF8gLhgKjQAw&start=10&sa=N&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Solar+system&ucbcb=1&gl=us&hl=en&ei=3j2eYoqsLIKF8gLhgKjQAw&start=20&sa=N&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Solar+system&ucbcb=1&gl=us&hl=en&ei=3j2eYoqsLIKF8gLhgKjQAw&start=30&sa=N&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Solar+system&ucbcb=1&gl=us&hl=en&ei=3j2eYoqsLIKF8gLhgKjQAw&start=40&sa=N&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Solar+system&ucbcb=1&gl=us&hl=en&ei=3j2eYoqsLIKF8gLhgKjQAw&start=50&sa=N&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Solar+system&ucbcb=1&gl=us&hl=en&ei=3j2eYoqsLIKF8gLhgKjQAw&start=60&sa=N&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Solar+system&ucbcb=1&gl=us&hl=en&ei=3j2eYoqsLIKF8gLhgKjQAw&start=70&sa=N&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Solar+system&ucbcb=1&gl=us&hl=en&ei=3j2eYoqsLIKF8gLhgKjQAw&start=80&sa=N&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Solar+system&ucbcb=1&gl=us&hl=en&ei=3j2eYoqsLIKF8gLhgKjQAw&start=90&sa=N&ved=2ahUKEwiKk7-csZn4AhWCglwKHWEACjoQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solar+system&start=90"
+        }
+    }
+}

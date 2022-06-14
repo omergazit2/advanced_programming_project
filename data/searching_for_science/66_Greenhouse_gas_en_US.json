@@ -1,0 +1,615 @@
+{
+    "search_metadata": {
+        "id": "627cfed6d04d6d206e7d9ac0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4193c6e1061c85de/627cfed6d04d6d206e7d9ac0.json",
+        "created_at": "2022-05-12 12:34:30 UTC",
+        "processed_at": "2022-05-12 12:34:30 UTC",
+        "google_url": "https://www.google.com/search?q=Greenhouse+gas&oq=Greenhouse+gas&uule=w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz&hl=en&gl=US&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/4193c6e1061c85de/627cfed6d04d6d206e7d9ac0.html",
+        "total_time_taken": 2.3
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Greenhouse gas",
+        "uule": "w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "US",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Greenhouse gas"
+    },
+    "knowledge_graph": {
+        "title": "Greenhouse gas",
+        "header_images": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Greenhouse_gas"
+            },
+            {
+                "source": "https://www.epa.gov/ghgemissions/overview-greenhouse-gases"
+            },
+            {
+                "source": "https://www.nrdc.org/stories/greenhouse-effect-101"
+            },
+            {
+                "source": "https://medialibrary.climatecentral.org/resources/the-greenhouse-effect"
+            },
+            {
+                "source": "https://energyeducation.ca/encyclopedia/Greenhouse_effect"
+            },
+            {
+                "source": "https://en.wikipedia.org/wiki/Greenhouse_effect"
+            }
+        ],
+        "description": "A greenhouse gas is a gas that absorbs and emits radiant energy within the thermal infrared range, causing the greenhouse effect. The primary greenhouse gases in Earth's atmosphere are water vapor, carbon dioxide, methane, nitrous oxide, and ozone.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Greenhouse_gas"
+        },
+        "see_results_about": [
+            {
+                "name": "Greenhouse gas emissions",
+                "extensions": [
+                    "Greenhouse gas emissions from human activities strengthen ..."
+                ],
+                "image": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/d6089984171e720ee979ddf25c25d570d01bc0e75db338dec4daee9ddd7f48d72b3297b0497e5729490d682656366bdf.png"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Greenhouse Effect and Greenhouse Gases",
+            "link": "https://www.youtube.com/watch?v=XFCdxppTsu0",
+            "thumbnail": "https://i.ytimg.com/vi/XFCdxppTsu0/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kXdiH2BD1P6cictRQWBT5yktQROg",
+            "channel": "Umweltbundesamt",
+            "duration": "4:19",
+            "platform": "YouTube",
+            "date": "Jun 15, 2020"
+        },
+        {
+            "position": 2,
+            "title": "What Is the Greenhouse Effect?",
+            "link": "https://www.youtube.com/watch?v=SN5-DnOHQmE",
+            "thumbnail": "https://i.ytimg.com/vi/SN5-DnOHQmE/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nyZa6qgfV722Cv1YFmYZnZ-InHSw",
+            "channel": "NASA Space Place",
+            "duration": "2:30",
+            "platform": "YouTube",
+            "date": "Jun 11, 2020"
+        },
+        {
+            "position": 3,
+            "title": "How Do Greenhouse Gases Actually Work?",
+            "link": "https://www.youtube.com/watch?v=sTvqIijqvTg",
+            "thumbnail": "https://i.ytimg.com/vi/sTvqIijqvTg/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kcM24TaeP6Do0IfeBiyxOv9fEVRA",
+            "channel": "MinuteEarth",
+            "duration": "3:09",
+            "platform": "YouTube",
+            "date": "May 26, 2015"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "Words about climate change",
+            "items": [
+                {
+                    "name": "Greenhouse effect",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LfjkietxdKKFSASUE1NU-M-HJlIbsI99teo3uRjaIVlnUe62O9CZ&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=Greenhouse+effect&stick=H4sIAAAAAAAAAOOQUeLQz9U3MLYwKDSSKs8vSilWSEzKLy1RSM7JzE0sSVVIzkjMS0-N4nMvSk3Ny8gvLU5VSE8sPsUI13aKkVc_Xd_QMMmsuNwkK6fkFCMnSMosLz3XDKrM3DI7GSqcbF5gnHKKkQvENgFKpKdDJUzL83KMoOqTi83ifzFKheN0TgML4yJWQSQnpaalpSaX3GKTZDD92Mp0xM_mZKfRxVzFI8nh4v4T5dcUltUAAODs_w_qAAAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAB6BAhGEAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+effect&stick=H4sIAAAAAAAAAOOQUeLQz9U3MLYwKDSSKs8vSilWSEzKLy1RSM7JzE0sSVVIzkjMS0-N4nMvSk3Ny8gvLU5VSE8sPsUI13aKkVc_Xd_QMMmsuNwkK6fkFCMnSMosLz3XDKrM3DI7GSqcbF5gnHKKkQvENgFKpKdDJUzL83KMoOqTi83ifzFKheN0TgML4yJWQSQnpaalpSaX3GKTZDD92Mp0xM_mZKfRxVzFI8nh4v4T5dcUltUAAODs_w_qAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Greenhouse gas emissions",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7vF5acSlvKIT8jMrGP2H-VufngJo8de8eMTDlvRAn0TL0f1doCnzD&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=Greenhouse+gas+emissions&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyKy43ycopMZIqzy9KKVZITMovLVFIzsnMTSxJVUjOSMxLT43icy9KTc3LyC8tTlVITyw-xcihn6tvYGxhUHiKEdWYU4ycICmzvPRcM6gyc8vsZKhwsnmBccopRi4Q2wQokZ4OlTAtz8sxgqpPLjaL_8UoFY7TOQ0sjItYJVCdpJCam1lcnJmfV3yLTZLB9GMr0xE_m5OdRhdzFY8kh4v7T5RfU1hWAwATR9D29gAAAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAF6BAhGEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas+emissions&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyKy43ycopMZIqzy9KKVZITMovLVFIzsnMTSxJVUjOSMxLT43icy9KTc3LyC8tTlVITyw-xcihn6tvYGxhUHiKEdWYU4ycICmzvPRcM6gyc8vsZKhwsnmBccopRi4Q2wQokZ4OlTAtz8sxgqpPLjaL_8UoFY7TOQ0sjItYJVCdpJCam1lcnJmfV3yLTZLB9GMr0xE_m5OdRhdzFY8kh4v7T5RfU1hWAwATR9D29gAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Climate change mitigation",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdbgWfpPQLe9ZpAFSb7X1A6F54-HxJmkUnpvbD0Af4NhFD_ItclMja&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=Climate+change+mitigation&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMtLzzUzkirPL0opVkhMyi8tUUjOycxNLElVSM5IzEtPjeJzL0pNzcvILy1OVUhPLD7FyAHSZ2xhUHiKkVc_Xd_QMMmsuNwkK6fkFCPCSKgyc8vsZKhwsnmBccopRi4Q2wQokZ4OlTAtz8sxgqpPLjaL_8UoFY7TOQ0sjItYJZ1RxBRyM0sy0xNLMvPzbrFJMph-bGU64mdzstPoYq7ikeRwcf-J8msKy2oA57rJ6fMAAAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAJ6BAhGEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Climate+change+mitigation&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMtLzzUzkirPL0opVkhMyi8tUUjOycxNLElVSM5IzEtPjeJzL0pNzcvILy1OVUhPLD7FyAHSZ2xhUHiKkVc_Xd_QMMmsuNwkK6fkFCPCSKgyc8vsZKhwsnmBccopRi4Q2wQokZ4OlTAtz8sxgqpPLjaL_8UoFY7TOQ0sjItYJZ1RxBRyM0sy0xNLMvPzbrFJMph-bGU64mdzstPoYq7ikeRwcf-J8msKy2oA57rJ6fMAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Sea level rise",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa2W_kKQ_xS4iu69Wf7glmG0X1IEOUe6ipbGWn_GBTSU0hcPOECkKr&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=Sea+level+rise&stick=H4sIAAAAAAAAAOOQUeLQz9U3MLfMTjaSKs8vSilWSEzKLy1RSM7JzE0sSVVIzkjMS0-N4nMvSk3Ny8gvLU5VSE8sPsUI1mZsYVB4ipFXP13f0DDJrLjcJCun5BQjJ0jKLC891wyqDGQ6VDjZvMA45RQjF4htApRIT4dKmJbn5RhB1ScXm8X_YpQKx-mcBhbGRax8wamJCjmpZak5CkWZxam32CQZTD-2Mh3xsznZaXQxV_FIcri4_0T5NYVlNQCWTYAv5wAAAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAN6BAhGEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Sea+level+rise&stick=H4sIAAAAAAAAAOOQUeLQz9U3MLfMTjaSKs8vSilWSEzKLy1RSM7JzE0sSVVIzkjMS0-N4nMvSk3Ny8gvLU5VSE8sPsUI1mZsYVB4ipFXP13f0DDJrLjcJCun5BQjJ0jKLC891wyqDGQ6VDjZvMA45RQjF4htApRIT4dKmJbn5RhB1ScXm8X_YpQKx-mcBhbGRax8wamJCjmpZak5CkWZxam32CQZTD-2Mh3xsznZaXQxV_FIcri4_0T5NYVlNQCWTYAv5wAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Carbon sequestrat...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxiRjkC7ahogCnVhrHyGzegChMgxMb_yjhUjoxyIkqFj4ImP6by3H&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=Carbon+sequestration&stick=H4sIAAAAAAAAAOOQUeLUz9U3SDYvME4xkirPL0opVkhMyi8tUUjOycxNLElVSM5IzEtPjeJzL0pNzcvILy1OVUhPLD7FyAHSZ2xhUHiKkVc_Xd_QMMmsuNwkK6fkFCPYSLO89FwzqDJzy-xkqDDYplOMXCC2CVAiPR0qYVqel2MEVZ9cbBb_i1EqHKdzGlgYF7GKOCcWJeXnKRSnFpamFpcUJZZk5ufdYpNkMP3YynTEz-Zkp9HFXMUjyeHi_hPl1xSW1QAAUaDW6e4AAAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAR6BAhGEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Carbon+sequestration&stick=H4sIAAAAAAAAAOOQUeLUz9U3SDYvME4xkirPL0opVkhMyi8tUUjOycxNLElVSM5IzEtPjeJzL0pNzcvILy1OVUhPLD7FyAHSZ2xhUHiKkVc_Xd_QMMmsuNwkK6fkFCPYSLO89FwzqDJzy-xkqDDYplOMXCC2CVAiPR0qYVqel2MEVZ9cbBb_i1EqHKdzGlgYF7GKOCcWJeXnKRSnFpamFpcUJZZk5ufdYpNkMP3YynTEz-Zkp9HFXMUjyeHi_hPl1xSW1QAAUaDW6e4AAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Tipping points in the climate sy...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ZSfP1bfpOzJB2J6k5EPdISFGIsxuqoi0yOAStwwjLPWz57CYbtYC&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=Tipping+points+in+the+climate+system&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDEwt0xPN5Iqzy9KKVZITMovLVFIzsnMTSxJVUjOSMxLT43icy9KTc3LyC8tTlVITyw-xcgB0mhsYVB4ipFXP13f0DDJrLjcJCun5BQjJ0jKLC891wyqzNwyOxkqnGxeYJxyihHJWqiEaXlejhFUfXKxWfwvRqlwnM5pYGFcxKoSkllQkJmXrlCQn5lXUqyQmadQkpEKV1lcWVySmnuLTZLB9GMr0xE_m5OdRhdzFY8kh4v7T5RfU1hWAwDJl6qg_wAAAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAV6BAhGEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Tipping+points+in+the+climate+system&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDEwt0xPN5Iqzy9KKVZITMovLVFIzsnMTSxJVUjOSMxLT43icy9KTc3LyC8tTlVITyw-xcgB0mhsYVB4ipFXP13f0DDJrLjcJCun5BQjJ0jKLC891wyqzNwyOxkqnGxeYJxyihHJWqiEaXlejhFUfXKxWfwvRqlwnM5pYGFcxKoSkllQkJmXrlCQn5lXUqyQmadQkpEKV1lcWVySmnuLTZLB9GMr0xE_m5OdRhdzFY8kh4v7T5RfU1hWAwDJl6qg_wAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?hl=en&gl=US&q=Words+about+climate+change&stick=H4sIAAAAAAAAAOOQMZIqzy9KKVZITMovLVFIzsnMTSxJVUjOSMxLT43icy9KTc3LyC8tTlVITyw-xcihn6tvYGxhUHiKkVc_Xd_QMMmsuNwkK6fkFCMnSMosLz3XDKrM3DI7GSqcbF5gnHKKkQvENgFKpKdDJUzL83KMoOqTi83ifzFKheN0TgML4yJWPPK32CQZTD-2Mh3xsznZaXQxV_FIcri4_0T5NYVlNQA2o-8C6QAAAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ4qYDegQIRhAI",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Words+about+climate+change&stick=H4sIAAAAAAAAAOOQMZIqzy9KKVZITMovLVFIzsnMTSxJVUjOSMxLT43icy9KTc3LyC8tTlVITyw-xcihn6tvYGxhUHiKkVc_Xd_QMMmsuNwkK6fkFCMnSMosLz3XDKrM3DI7GSqcbF5gnHKKkQvENgFKpKdDJUzL83KMoOqTi83ifzFKheN0TgML4yJWPPK32CQZTD-2Mh3xsznZaXQxV_FIcri4_0T5NYVlNQA2o-8C6QAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        },
+        {
+            "title": "Which countries produce the most greenhouse gas emissions",
+            "items": [
+                {
+                    "name": "United States",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFk2TAxjRJmp5zX22mbj36KaCrrE6Hym2USJyq&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=United+States&stick=H4sIAAAAAAAAAOOQUeLUz9U3sEw2LzcwsizPyEzOUEjOL80rKcpMLVYoKMpPKU1OVSjJSFXIzS8uUUgvSk3Ny8gvLU5VSE8sVkjNzSwuzszPK47ic0eROcWIMBbKTjEwLTc-xcgBYpsl5VVBmcZF2QgVZgbpMOF44xQY08Q0A8o0NE0rgjLNi4uTofrSLHIsk38xWoaT6_oGFsZFrLyheZklqSkKwSWJJanFt9gkGUw_tjLNUGA4dKVqd2xNcpFqLftXtbrNV-YCAEBmKlg1AQAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAB6BAhLEAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=United+States&stick=H4sIAAAAAAAAAOOQUeLUz9U3sEw2LzcwsizPyEzOUEjOL80rKcpMLVYoKMpPKU1OVSjJSFXIzS8uUUgvSk3Ny8gvLU5VSE8sVkjNzSwuzszPK47ic0eROcWIMBbKTjEwLTc-xcgBYpsl5VVBmcZF2QgVZgbpMOF44xQY08Q0A8o0NE0rgjLNi4uTofrSLHIsk38xWoaT6_oGFsZFrLyheZklqSkKwSWJJanFt9gkGUw_tjLNUGA4dKVqd2xNcpFqLftXtbrNV-YCAEBmKlg1AQAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "China",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD25U8QzzzikZ2XOzYfIRDn7CnSbVDb218WQlr&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=China&stick=H4sIAAAAAAAAAOOQUeLUz9U3SDEwLTc2sizPyEzOUEjOL80rKcpMLVYoKMpPKU1OVSjJSFXIzS8uUUgvSk3Ny8gvLU5VSE8sVkjNzSwuzszPK47ic0eROcUINtYy2bzcAMoGW3GKkQPENkvKq4IyjYuyESrMDNJhwvHGKTCmiWkGlGlomlYEZZoXFydD9aVZ5Fgm_2K0DCfX9Q0sjItYWZ0zMvMSb7FJMph-bGWaocBw6ErV7tia5CLVWvavanWbr8wFAN4DZPktAQAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAF6BAhLEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=China&stick=H4sIAAAAAAAAAOOQUeLUz9U3SDEwLTc2sizPyEzOUEjOL80rKcpMLVYoKMpPKU1OVSjJSFXIzS8uUUgvSk3Ny8gvLU5VSE8sVkjNzSwuzszPK47ic0eROcUINtYy2bzcAMoGW3GKkQPENkvKq4IyjYuyESrMDNJhwvHGKTCmiWkGlGlomlYEZZoXFydD9aVZ5Fgm_2K0DCfX9Q0sjItYWZ0zMvMSb7FJMph-bGWaocBw6ErV7tia5CLVWvavanWbr8wFAN4DZPktAQAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Russia",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKai1l2rDcCe0lY3ptPAzs63rxjDGcsVGKNW0&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=Russia&stick=H4sIAAAAAAAAAOOQUeLQz9U3MEvKqzKyLM_ITM5QSM4vzSspykwtVigoyk8pTU5VKMlIVcjNLy5RSC9KTc3LyC8tTlVITyxWSM3NLC7OzM8rjuJzR5E5xcgJMtUy2bzcAMpOMTAtNz7FCLcNyjQuykaoMDNIhwnHG6fAmCamGVCmoWlaEZRpXlycDNWXZpFjmfyL0TKcXNc3sDAuYmULKgXyEm-xSTKYfmxlmqHAcOhK1e7YmuQi1Vr2r2p1m6_MBQBRn8TaLQEAAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAJ6BAhLEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Russia&stick=H4sIAAAAAAAAAOOQUeLQz9U3MEvKqzKyLM_ITM5QSM4vzSspykwtVigoyk8pTU5VKMlIVcjNLy5RSC9KTc3LyC8tTlVITyxWSM3NLC7OzM8rjuJzR5E5xcgJMtUy2bzcAMpOMTAtNz7FCLcNyjQuykaoMDNIhwnHG6fAmCamGVCmoWlaEZRpXlycDNWXZpFjmfyL0TKcXNc3sDAuYmULKgXyEm-xSTKYfmxlmqHAcOhK1e7YmuQi1Vr2r2p1m6_MBQBRn8TaLQEAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "India",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNuL-GKiYXuY_wpPDvP2F7mPL5X4g85YgDs1B&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=India&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC7KNjCyLM_ITM5QSM4vzSspykwtVigoyk8pTU5VKMlIVcjNLy5RSC9KTc3LyC8tTlVITyxWSM3NLC7OzM8rjuJzR5E5xcgJMtUy2bzcAMpOMTAtNz7FCLbNLCmvCsoEWQxXYWaQDhOON06BMU1MM6BMQ9O0IijTvLg4GaovzSLHMvkXo2U4ua5vYGFcxMrqmZeSmXiLTZLB9GMr0wwFhkNXqnbH1iQXqdayf1Wr23xlLgBdlb3vLAEAAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAN6BAhLEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=India&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC7KNjCyLM_ITM5QSM4vzSspykwtVigoyk8pTU5VKMlIVcjNLy5RSC9KTc3LyC8tTlVITyxWSM3NLC7OzM8rjuJzR5E5xcgJMtUy2bzcAMpOMTAtNz7FCLbNLCmvCsoEWQxXYWaQDhOON06BMU1MM6BMQ9O0IijTvLg4GaovzSLHMvkXo2U4ua5vYGFcxMrqmZeSmXiLTZLB9GMr0wwFhkNXqnbH1iQXqdayf1Wr23xlLgBdlb3vLAEAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Canada",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2C_l1i1SJJ37fNTk5-xAa12oK1OEoWg7UDX5&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=Canada&stick=H4sIAAAAAAAAAOOQUeLUz9U3SDEwM0g3sizPyEzOUEjOL80rKcpMLVYoKMpPKU1OVSjJSFXIzS8uUUgvSk3Ny8gvLU5VSE8sVkjNzSwuzszPK47ic0eROcUINtYy2bzcAMpOMTAtNz7FyAFimyXlVUGZxkXZCBVAR8CE441TYEwT0wwo09A0rQjKNC8uTobqS7PIsUz-xWgZTq7rG1gYF7GyOSfmJaYk3mKTZDD92Mo0Q4Hh0JWq3bE1yUWqtexf1eo2X5kLAFRZUJUuAQAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAR6BAhLEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Canada&stick=H4sIAAAAAAAAAOOQUeLUz9U3SDEwM0g3sizPyEzOUEjOL80rKcpMLVYoKMpPKU1OVSjJSFXIzS8uUUgvSk3Ny8gvLU5VSE8sVkjNzSwuzszPK47ic0eROcUINtYy2bzcAMpOMTAtNz7FyAFimyXlVUGZxkXZCBVAR8CE441TYEwT0wwo09A0rQjKNC8uTobqS7PIsUz-xWgZTq7rG1gYF7GyOSfmJaYk3mKTZDD92Mo0Q4Hh0JWq3bE1yUWqtexf1eo2X5kLAFRZUJUuAQAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Japan",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJMMxVwi4iiP9uZO8WJ_Zd0KRDSalKmn0KOGr&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=US&q=Japan&stick=H4sIAAAAAAAAAOOQUeLQz9U3MI43TjGyLM_ITM5QSM4vzSspykwtVigoyk8pTU5VKMlIVcjNLy5RSC9KTc3LyC8tTlVITyxWSM3NLC7OzM8rjuJzR5E5xcgJMtUy2bzcAMpOMTAtNz7FCLbNLCmvCso0LspGqDAzSIcJA90DY5qYZkCZhqZpRVCmeXFxMlRfmkWOZfIvRstwcl3fwMK4iJXVK7EgMe8WmySD6cdWphkKDIeuVO2OrUkuUq1l_6pWt_nKXABLKJo-LAEAAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQs9oBKAV6BAhLEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Japan&stick=H4sIAAAAAAAAAOOQUeLQz9U3MI43TjGyLM_ITM5QSM4vzSspykwtVigoyk8pTU5VKMlIVcjNLy5RSC9KTc3LyC8tTlVITyxWSM3NLC7OzM8rjuJzR5E5xcgJMtUy2bzcAMpOMTAtNz7FCLbNLCmvCso0LspGqDAzSIcJA90DY5qYZkCZhqZpRVCmeXFxMlRfmkWOZfIvRstwcl3fwMK4iJXVK7EgMe8WmySD6cdWphkKDIeuVO2OrUkuUq1l_6pWt_nKXABLKJo-LAEAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?hl=en&gl=US&q=Which+countries+produce+the+most+greenhouse+gas+emissions&stick=H4sIAAAAAAAAAOOQMbIsz8hMzlBIzi_NKynKTC1WKCjKTylNTlUoyUhVyM0vLlFIL0pNzcvILy1OVUhPLFZIzc0sLs7MzyuO4nNHkTnFyKmfq29gmWxebgBlpxiYlhufYuQAsc2S8qqgTOOibIQKM4N0mHC8cQqMaWKaAWUamqYVQZnmxcXJUH1pFjmWyb8YLcPJdX0DC-MiVvK132KTZDD92Mo0Q4Hh0JWq3bE1yUWqtexf1eo2X5kLAI5K-H1WAQAA&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ4qYDegQISxAI",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Which+countries+produce+the+most+greenhouse+gas+emissions&stick=H4sIAAAAAAAAAOOQMbIsz8hMzlBIzi_NKynKTC1WKCjKTylNTlUoyUhVyM0vLlFIL0pNzcvILy1OVUhPLFZIzc0sLs7MzyuO4nNHkTnFyKmfq29gmWxebgBlpxiYlhufYuQAsc2S8qqgTOOibIQKM4N0mHC8cQqMaWKaAWUamqYVQZnmxcXJUH1pFjmWyb8YLcPJdX0DC-MiVvK132KTZDD92Mo0Q4Hh0JWq3bE1yUWqtexf1eo2X5kLAI5K-H1WAQAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Students go on-site to learn about greenhouse gas emissions",
+            "link": "http://news.unm.edu/news/students-go-on-site-to-learn-about-greenhouse-gas-emissions",
+            "source": "UNM Newsroom",
+            "date": "13 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/6e78c2bde981f53295a72c8f378dd328674d44eb7081c0aa.jpeg"
+        },
+        {
+            "title": "4 ways hospitals can cut greenhouse gas emissions",
+            "link": "https://www.woodtv.com/news/national/4-ways-hospitals-can-cut-greenhouse-gas-emissions/",
+            "source": "WOODTV.com",
+            "date": "2 days ago",
+            "thumbnail": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/6e78c2bde981f532e58a1ad22071522acccb8aa48243ce30.jpeg"
+        },
+        {
+            "title": "Ben & Jerry's Seeks Ways to Cut Dairy Greenhouse Gas Emissions",
+            "link": "https://www.sevendaysvt.com/vermont/ben-and-jerrys-seeks-ways-to-cut-dairy-greenhouse-gas-emissions/Content?oid=35521966",
+            "source": "Seven Days",
+            "date": "2 days ago",
+            "thumbnail": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/6e78c2bde981f532642b05357ef69fd4d126ca5f3512b52a.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=en&gl=US&q=Greenhouse+gas&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQt8YBegQIOhAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&tbm=nws&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+    "related_questions": [
+        {
+            "question": "What are the 4 main greenhouse gases?",
+            "title": "Overview of Greenhouse Gases",
+            "link": "https://www.epa.gov/ghgemissions/overview-greenhouse-gases",
+            "list": [
+                "Overview.",
+                "Carbon Dioxide.",
+                "Methane.",
+                "Nitrous Oxide.",
+                "Fluorinated Gases."
+            ],
+            "displayed_link": "https://www.epa.gov › ghgemissions › overview-greenh..."
+        },
+        {
+            "question": "What are the 7 greenhouse gases?",
+            "title": "What are the types of greenhouse gases?",
+            "link": "https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases.php",
+            "list": [
+                "Carbon dioxide (CO2)",
+                "Methane (CH4)",
+                "Nitrous oxide (N2O)",
+                "Industrial gases: Hydrofluorocarbons (HFCs) Perfluorocarbons (PFCs) Sulfur hexafluoride (SF6) Nitrogen trifluoride (NF3)"
+            ],
+            "displayed_link": "https://www.eia.gov › energyexplained › greenhouse-g..."
+        },
+        {
+            "question": "How do greenhouse gases cause global warming?",
+            "snippet": "Greenhouse gases The main driver of climate change is the greenhouse effect. Some gases in the Earth's atmosphere act a bit like the glass in a greenhouse, trapping the sun's heat and stopping it from leaking back into space and causing global warming.",
+            "title": "Causes of climate change - European Commission",
+            "link": "https://ec.europa.eu/clima/climate-change/causes-climate-change_en",
+            "displayed_link": "https://ec.europa.eu › clima › causes-climate-change_en"
+        },
+        {
+            "question": "Why is it called greenhouse gases?",
+            "snippet": "Greenhouse gases A greenhouse gas is called that because it absorbs infrared radiation from the Sun in the form of heat, which is circulated in the atmosphere and eventually lost to space.",
+            "title": "The greenhouse effect - British Geological Survey",
+            "link": "https://www.bgs.ac.uk/discovering-geology/climate-change/how-does-the-greenhouse-effect-work/",
+            "displayed_link": "https://www.bgs.ac.uk › climate-change › how-does-the-g..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "What Are Greenhouse Gases? Earth's greenhouse gases trap heat in the atmosphere and warm the planet. The main gases responsible for the greenhouse effect include carbon dioxide, methane, nitrous oxide, and water vapor (which all occur naturally), and fluorinated gases (which are synthetic).Jul 16, 2019",
+        "link": "https://www.nrdc.org/stories/greenhouse-effect-101",
+        "displayed_link": "https://www.nrdc.org › stories › greenhouse-effect-101",
+        "date": "Jul 16, 2019",
+        "snippet": "What Are Greenhouse Gases? Earth's greenhouse gases trap heat in the atmosphere and warm the planet. The main gases responsible for the greenhouse effect include carbon dioxide, methane, nitrous oxide, and water vapor (which all occur naturally), and fluorinated gases (which are synthetic).",
+        "refinements": [
+            "sample",
+            "diagram",
+            "pollution",
+            "bulletin",
+            "photos"
+        ],
+        "thumbnail": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/1c85dbef05beabc9d7e47f526b3d6c9db8d92023d8f66a45.jpeg",
+        "people_also_search_for": [],
+        "about_this_result": {
+            "source": {
+                "description": "The Natural Resources Defense Council is a United States-based 501 non-profit international environmental advocacy group, with its headquarters in New York City and offices in Washington D.C., San Francisco, Los Angeles, New Delhi, Chicago, Bozeman, and Beijing.",
+                "source_info_link": "https://en.wikipedia.org/wiki/Natural_Resources_Defense_Council",
+                "icon": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/1c85dbef05beabc9516a50af262684ae328b946457debcdbf83eac10c78fed81e52ccb466d4fc0b088c15f46924e09bb.png"
+            },
+            "keywords": [
+                "greenhouse",
+                "gas"
+            ],
+            "related_keywords": [
+                "effect"
+            ],
+            "languages": [
+                "English"
+            ],
+            "regions": [
+                "the United States"
+            ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://www.nrdc.org/stories/greenhouse-effect-101&tbm=ilp&ilps=ADNMCi0HhwJAMxMcKzKZqZ5_hkjfotUb4g"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Overview of Greenhouse Gases | US EPA",
+            "link": "https://www.epa.gov/ghgemissions/overview-greenhouse-gases",
+            "displayed_link": "https://www.epa.gov › ghgemissions › overview-greenh...",
+            "date": "Apr 14, 2022",
+            "snippet": "Carbon dioxide (CO2) is the primary greenhouse gas emitted through human activities. In 2020, CO2 accounted for about 79% of all U.S. greenhouse ...",
+            "snippet_highlighted_words": [
+                "greenhouse gas"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Global Warming Potential",
+                        "link": "https://www.epa.gov/ghgemissions/understanding-global-warming-potentials"
+                    },
+                    {
+                        "title": "Climate Change Indicators",
+                        "link": "https://www.epa.gov/climate-indicators/climate-change-indicators-atmospheric-concentrations-greenhouse-gases"
+                    },
+                    {
+                        "title": "Class VI - Wells used for...",
+                        "link": "https://www.epa.gov/uic/class-vi-wells-used-geologic-sequestration-carbon-dioxide"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Environmental Protection Agency is an independent executive agency of the United States federal government tasked with environmental protection matters. President Richard Nixon proposed the establishment of EPA on July 9, 1970; it began operation on December 2, 1970, after Nixon signed an executive order.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency",
+                    "icon": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/e1c76fbef4abb25277a1ff9adb2ecf373fecd15a0656bf40ab3493bf0b1898b953f30841b14e1ae2c606bf58c11b6073.png"
+                },
+                "keywords": [
+                    "greenhouse",
+                    "gas"
+                ],
+                "related_keywords": [
+                    "gases"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.epa.gov/ghgemissions/overview-greenhouse-gases&tbm=ilp&ilps=ADNMCi1r65R0D7MGVMogPMlyKvUBA8G6bw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:k1-Psx4w2WkJ:https://www.epa.gov/ghgemissions/overview-greenhouse-gases+&cd=20&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=US&q=related:https://www.epa.gov/ghgemissions/overview-greenhouse-gases+Greenhouse+gas"
+        },
+        {
+            "position": 2,
+            "title": "Greenhouse gas - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Greenhouse_gas",
+            "displayed_link": "https://en.wikipedia.org › wiki › Greenhouse_gas",
+            "snippet": "A greenhouse gas (GHG or GhG) is a gas that absorbs and emits radiant energy within the thermal infrared range, causing the greenhouse effect.",
+            "snippet_highlighted_words": [
+                "greenhouse gas",
+                "greenhouse effect"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "IPCC list of greenhouse gases",
+                        "link": "https://en.wikipedia.org/wiki/IPCC_list_of_greenhouse_gases"
+                    },
+                    {
+                        "title": "Category:Greenhouse gases",
+                        "link": "https://en.wikipedia.org/wiki/Category:Greenhouse_gases"
+                    },
+                    {
+                        "title": "Greenhouse effect",
+                        "link": "https://en.wikipedia.org/wiki/Greenhouse_effect"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "icon": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/e1c76fbef4abb25277a1ff9adb2ecf37374d23795acae1c82a01ea2f2194cb668be3ce45484c9db85c6e1d326ecaec48.png"
+                },
+                "keywords": [
+                    "greenhouse",
+                    "gas"
+                ],
+                "related_keywords": [
+                    "effect"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Greenhouse_gas&tbm=ilp&ilps=ADNMCi2QmZFWeUxi5OgpQkRvtn7UsIORyQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1ZrLFBmRqd8J:https://en.wikipedia.org/wiki/Greenhouse_gas+&cd=21&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=US&q=related:https://en.wikipedia.org/wiki/Greenhouse_gas+Greenhouse+gas"
+        },
+        {
+            "position": 3,
+            "title": "greenhouse gas | Definition, Emissions, & Greenhouse Effect",
+            "link": "https://www.britannica.com/science/greenhouse-gas",
+            "displayed_link": "https://www.britannica.com › ... › Earth Sciences",
+            "snippet": "greenhouse gas, any gas that has the property of absorbing infrared radiation (net heat energy) emitted from Earth's surface and reradiating it back to ...",
+            "snippet_highlighted_words": [
+                "greenhouse gas"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/e1c76fbef4abb25277a1ff9adb2ecf37332523dac33c506e1c234adcadc454cc367f80f1bff5a01b2a14c411b19969f6.png"
+                },
+                "keywords": [
+                    "greenhouse",
+                    "gas"
+                ],
+                "related_keywords": [
+                    "effect",
+                    "emissions"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/greenhouse-gas&tbm=ilp&ilps=ADNMCi28YGlki4qJSDF1WZqc3GkVxW1ZOQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rOoPywkqjvAJ:https://www.britannica.com/science/greenhouse-gas+&cd=22&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=US&q=related:https://www.britannica.com/science/greenhouse-gas+Greenhouse+gas"
+        },
+        {
+            "position": 4,
+            "title": "Meet the Greenhouse Gases! | NASA Climate Kids",
+            "link": "https://climatekids.nasa.gov/greenhouse-cards/",
+            "displayed_link": "https://climatekids.nasa.gov › greenhouse-cards",
+            "snippet": "Water vapor; Carbon dioxide; Methane; Ozone; Nitrous oxide; Chlorofluorocarbons. Cartoon of greenhouse gas 'super heroes'. Greenhouse ...",
+            "snippet_highlighted_words": [
+                "greenhouse gas"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civilian space program, as well as aeronautics and space research.\nNASA was established in 1958, succeeding the National Advisory Committee for Aeronautics.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/NASA",
+                    "icon": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/e1c76fbef4abb25277a1ff9adb2ecf37710f4db519168e2a49f59bc37c524320c3e8d40e69ea99ae19cac3d1a253ed42.png"
+                },
+                "keywords": [
+                    "greenhouse",
+                    "gas"
+                ],
+                "related_keywords": [
+                    "gases"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://climatekids.nasa.gov/greenhouse-cards/&tbm=ilp&ilps=ADNMCi1ENzpXjgFA7hGID9Wh1636wkghig",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gzHeMW7OS3AJ:https://climatekids.nasa.gov/greenhouse-cards/+&cd=29&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Greenhouse Gas Protocol |",
+            "link": "https://ghgprotocol.org/",
+            "displayed_link": "https://ghgprotocol.org",
+            "snippet": "We set the standards to measure and manage emissions ... Standards. GHG Protocol supplies the world's most widely used greenhouse gas accounting standards.",
+            "snippet_highlighted_words": [
+                "greenhouse gas"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "ghgprotocol.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/e1c76fbef4abb25277a1ff9adb2ecf37d6d85e4f12e42680c071e5247e20d4e0538739e050d19d134b3c88980f4725ee.png"
+                },
+                "keywords": [
+                    "greenhouse",
+                    "gas"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://ghgprotocol.org/&tbm=ilp&ilps=ADNMCi2V-U49e1xhqIgKjGfof21HIJ3vJg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lgDyyfnyLcIJ:https://ghgprotocol.org/+&cd=30&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Energy and the environment explained: Greenhouse gases - EIA",
+            "link": "https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases.php",
+            "displayed_link": "https://www.eia.gov › energyexplained › greenhouse-g...",
+            "date": "Dec 8, 2021",
+            "snippet": "What are the types of greenhouse gases? · Carbon dioxide (CO2) · Methane (CH4) · Nitrous oxide (N2O) · Industrial gases: Hydrofluorocarbons (HFCs); Perfluorocarbons ...",
+            "snippet_highlighted_words": [
+                "greenhouse gases"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The U.S. Energy Information Administration is a principal agency of the U.S. Federal Statistical System responsible for collecting, analyzing, and disseminating energy information to promote sound ...",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Energy_Information_Administration",
+                    "icon": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/e1c76fbef4abb25277a1ff9adb2ecf379bf5527de55870e74a6ec35466cd8348c16a01e3f88265963b5207613e8d28b0.png"
+                },
+                "keywords": [
+                    "greenhouse",
+                    "gas"
+                ],
+                "related_keywords": [
+                    "gases"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases.php&tbm=ilp&ilps=ADNMCi0xBTAgUfMWEGTH9BL4JWZwitPZOA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_LGlwfpmFXQJ:https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases.php+&cd=31&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Greenhouse gases' effect on climate - U.S. Energy Information ...",
+                    "link": "https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases-and-the-climate.php",
+                    "displayed_link": "https://www.eia.gov › energy-and-the-environment › gr...",
+                    "date": "Dec 8, 2021",
+                    "snippet": "In computer-based models, rising concentrations of greenhouse gases produce an increase in the average surface temperature of the earth over ...",
+                    "snippet_highlighted_words": [
+                        "greenhouse gases"
+                    ],
+                    "about_this_result": {
+                        "source": {
+                            "description": "The U.S. Energy Information Administration is a principal agency of the U.S. Federal Statistical System responsible for collecting, analyzing, and disseminating energy information to promote sound ...",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Energy_Information_Administration",
+                            "icon": "https://serpapi.com/searches/627cfed6d04d6d206e7d9ac0/images/e1c76fbef4abb25277a1ff9adb2ecf37a52169284a67b07a43800e678989298177092159fcb205a6643a037e65996d7ec8511be3d4be7dfa81c5b8defe4072c270ac72d732e259c7.png"
+                        },
+                        "keywords": [
+                            "greenhouse",
+                            "gas"
+                        ],
+                        "related_keywords": [
+                            "effect",
+                            "gases"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases-and-the-climate.php&tbm=ilp&ilps=ADNMCi0zQaR0mEwN_pjPu-YStH3B6JwSwA",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:w_lCSV577KYJ:https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases-and-the-climate.php+&cd=32&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "sources of greenhouse gases",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Sources+of+greenhouse+gases&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ1QJ6BAhUEAE"
+        },
+        {
+            "query": "what do greenhouse gases do",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=What+do+greenhouse+gases+do&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ1QJ6BAhXEAE"
+        },
+        {
+            "query": "how many greenhouse gases are there",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=How+many+greenhouse+gases+are+there&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ1QJ6BAhWEAE"
+        },
+        {
+            "query": "is nitrogen a greenhouse gas",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Is+nitrogen+a+greenhouse+gas&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ1QJ6BAhREAE"
+        },
+        {
+            "query": "greenhouse gas emissions by country",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Greenhouse+gas+emissions+by+country&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ1QJ6BAhSEAE"
+        },
+        {
+            "query": "greenhouse gases and global warming",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Greenhouse+gases+and+global+warming&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ1QJ6BAhQEAE"
+        },
+        {
+            "query": "is ozone a greenhouse gas",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Is+ozone+a+greenhouse+gas&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ1QJ6BAhTEAE"
+        },
+        {
+            "query": "is methane a greenhouse gas",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Is+methane+a+greenhouse+gas&sa=X&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ1QJ6BAhVEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Greenhouse+gas&hl=en&gl=US&ei=1_58YpTkGe7LytMPnfiPqA4&start=10&sa=N&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Greenhouse+gas&hl=en&gl=US&ei=1_58YpTkGe7LytMPnfiPqA4&start=10&sa=N&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Greenhouse+gas&hl=en&gl=US&ei=1_58YpTkGe7LytMPnfiPqA4&start=20&sa=N&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Greenhouse+gas&hl=en&gl=US&ei=1_58YpTkGe7LytMPnfiPqA4&start=30&sa=N&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Greenhouse+gas&hl=en&gl=US&ei=1_58YpTkGe7LytMPnfiPqA4&start=40&sa=N&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Greenhouse+gas&hl=en&gl=US&ei=1_58YpTkGe7LytMPnfiPqA4&start=50&sa=N&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Greenhouse+gas&hl=en&gl=US&ei=1_58YpTkGe7LytMPnfiPqA4&start=60&sa=N&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Greenhouse+gas&hl=en&gl=US&ei=1_58YpTkGe7LytMPnfiPqA4&start=70&sa=N&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Greenhouse+gas&hl=en&gl=US&ei=1_58YpTkGe7LytMPnfiPqA4&start=80&sa=N&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Greenhouse+gas&hl=en&gl=US&ei=1_58YpTkGe7LytMPnfiPqA4&start=90&sa=N&ved=2ahUKEwjUq8q8_Nn3AhXupXIEHR38A-UQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=20&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=30&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=40&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=50&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=60&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=70&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=80&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Greenhouse+gas&start=90&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        }
+    }
+}

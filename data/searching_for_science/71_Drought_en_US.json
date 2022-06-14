@@ -1,0 +1,498 @@
+{
+    "search_metadata": {
+        "id": "627cfee1437af282fc44eea9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/447795e0788ca8b5/627cfee1437af282fc44eea9.json",
+        "created_at": "2022-05-12 12:34:41 UTC",
+        "processed_at": "2022-05-12 12:34:41 UTC",
+        "google_url": "https://www.google.com/search?q=Drought&oq=Drought&uule=w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz&hl=en&gl=US&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/447795e0788ca8b5/627cfee1437af282fc44eea9.html",
+        "total_time_taken": 1.04
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Drought",
+        "uule": "w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "US",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Drought",
+        "total_results": 2250000000,
+        "time_taken_displayed": 0.65
+    },
+    "knowledge_graph": {
+        "title": "Drought",
+        "header_images": [
+            {
+                "source": "https://en.wikipedia.org/wiki/Drought"
+            },
+            {
+                "source": "https://www.preventionweb.net/news/13-year-drought-creates-frightening-new-normal-south-america"
+            },
+            {
+                "source": "https://www.unccd.int/2021-desertification-and-drought-day"
+            },
+            {
+                "source": "https://www.foodbusinessnews.net/articles/19120-drought-heat-wreak-havoc-on-western-crops"
+            },
+            {
+                "source": "https://www.thoughtco.com/drought-causes-stages-and-problems-1434940"
+            },
+            {
+                "source": "https://www.scientificamerican.com/article/western-drought-has-lasted-longer-than-the-dust-bowl/"
+            },
+            {
+                "source": "https://www.cnn.com/2021/10/14/us/california-summer-drought-worst-on-record/index.html"
+            }
+        ],
+        "description": "A drought is an event of prolonged shortages in the water supply, whether atmospheric, surface water or ground water. A drought can last for months or years, or may be declared after as few as 15 days.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Drought"
+        },
+        "people_also_search_for": [
+            {
+                "name": "Natural disaster",
+                "link": "https://www.google.com/search?gl=US&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdS29Hi7EV8qyt6GPCKaiC-dspGeLwI1OyKss7WWHKbXaGsIHOPYmf96Yu-2Sk2MlpXnsDYBSCXdsryYyFiUXCMkIwc_tQAK0JV_dnl4B_VTSZW_NZS2w0xPBsleE5Lpx5Lrz4d4fBIavll23qIQmIqfPr3DWBoB_1xvQ5tCWw0YSo_zqRePRcXKyzBL1MIS3BW1aHUTkAbkYLfEAC2cnpjuyIHGYydZ-zYdTvRZkfYGf4dX61Yfmc7P-DDWjHXINJSzyknM%3D&q=Natural+disaster&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQs9oBKAB6BAheEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Natural+disaster&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdS29Hi7EV8qyt6GPCKaiC-dspGeLwI1OyKss7WWHKbXaGsIHOPYmf96Yu-2Sk2MlpXnsDYBSCXdsryYyFiUXCMkIwc_tQAK0JV_dnl4B_VTSZW_NZS2w0xPBsleE5Lpx5Lrz4d4fBIavll23qIQmIqfPr3DWBoB_1xvQ5tCWw0YSo_zqRePRcXKyzBL1MIS3BW1aHUTkAbkYLfEAC2cnpjuyIHGYydZ-zYdTvRZkfYGf4dX61Yfmc7P-DDWjHXINJSzyknM%3D&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+                "image": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/1d5915f058c098bf85c60bb6884cc4034a51e5ded91a3a82cec661b2b3cc2ca27dd537b05a8aab52edaae0853d96236b.jpeg"
+            },
+            {
+                "name": "Tornado",
+                "link": "https://www.google.com/search?gl=US&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZkjlLYe6kNulPXOng-CadzwSqsCs5l0ZLImNod-llW_F74JLxM8UMG4_cIuT8-d_2fQB0IEnKn2o3miy6dGBvQgqUtZeCRvOTlCTU29UlQJIrVB-_XfIpzfd4VpM_in14up95GDw%3D%3D&q=Tornado&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQs9oBKAF6BAheEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Tornado&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbA3uk155IWEwXlLpQZkesjl0gGN-exvCZutdjNmWmTvr37LIrxjTOUDOayuZH-9QJOPFSnqGi9V-HB3GDwggFIzcwczrinJxHnapX0_qVZkjlLYe6kNulPXOng-CadzwSqsCs5l0ZLImNod-llW_F74JLxM8UMG4_cIuT8-d_2fQB0IEnKn2o3miy6dGBvQgqUtZeCRvOTlCTU29UlQJIrVB-_XfIpzfd4VpM_in14up95GDw%3D%3D&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+                "image": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/1d5915f058c098bf85c60bb6884cc4034a51e5ded91a3a82cec661b2b3cc2ca2dc9c12084e27dae48c69f15a9118372d.jpeg"
+            },
+            {
+                "name": "Heat wave",
+                "link": "https://www.google.com/search?gl=US&hl=en&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgI_0_2wedvUVhnap5xMpwWpxqbeLGisJbtMxs35eH2TJY_uoHWubaD3rYd4_V-eyym0zoom6XGIij91Zx7ekXV8amk4nr-dYi2FiyMHc7khdeqEMpJgOcd6jIVJidT4NO2oLh5ZsbUHDixhE9VloB7FxyIrbHGjgP81vS9BFcPcBvZEq8kZDuLLVWVhZ66Zo5rQTcvKvf-lwwOv-TshCVRBsPWi_a-z4kkFCN_SVGr_ZrUo3vrw7gM8NB0iQWtuoy_PJleo%3D&q=Heat+wave&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQs9oBKAJ6BAheEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Heat+wave&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgI_0_2wedvUVhnap5xMpwWpxqbeLGisJbtMxs35eH2TJY_uoHWubaD3rYd4_V-eyym0zoom6XGIij91Zx7ekXV8amk4nr-dYi2FiyMHc7khdeqEMpJgOcd6jIVJidT4NO2oLh5ZsbUHDixhE9VloB7FxyIrbHGjgP81vS9BFcPcBvZEq8kZDuLLVWVhZ66Zo5rQTcvKvf-lwwOv-TshCVRBsPWi_a-z4kkFCN_SVGr_ZrUo3vrw7gM8NB0iQWtuoy_PJleo%3D&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+                "image": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/1d5915f058c098bf85c60bb6884cc4034a51e5ded91a3a82cec661b2b3cc2ca208b53212f9de42100a3488b29f465649.jpeg"
+            },
+            {
+                "name": "Wildfire",
+                "link": "https://www.google.com/search?gl=US&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUqF3mqWb6HQ7daNuwV2kZh0YGm70nFgw6KLc5iEHv03t1_vAKpo8BY7pUD84vW0MgwT3csCu6XUP8suNv2s-qo8i7qSTNkv542NZnf8AobDfphseT62h0_GFtLIrn5oAClL9N8uHhIx-2Tc-BSoPbD7qKmJ8N_t-YxPFFzc3DJ8wSZkOSFh0RBJtScyK33uDZ8RAXf3EXvwHfh4YPJyfqg1baD4jaHHXXm0zFq_d5zX9JfV_wgnkb_wZvW2kydirA9SLyY%3D&q=Wildfire&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQs9oBKAN6BAheEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Wildfire&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUqF3mqWb6HQ7daNuwV2kZh0YGm70nFgw6KLc5iEHv03t1_vAKpo8BY7pUD84vW0MgwT3csCu6XUP8suNv2s-qo8i7qSTNkv542NZnf8AobDfphseT62h0_GFtLIrn5oAClL9N8uHhIx-2Tc-BSoPbD7qKmJ8N_t-YxPFFzc3DJ8wSZkOSFh0RBJtScyK33uDZ8RAXf3EXvwHfh4YPJyfqg1baD4jaHHXXm0zFq_d5zX9JfV_wgnkb_wZvW2kydirA9SLyY%3D&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+                "image": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/1d5915f058c098bf85c60bb6884cc4034a51e5ded91a3a82cec661b2b3cc2ca26ce7d6ac014a64e3a48ada8918f13f24.jpeg"
+            }
+        ]
+    },
+    "top_stories": [
+        {
+            "title": "Amid drought, California desalination project at crossroads",
+            "link": "https://abcnews.go.com/US/wireStory/amid-drought-california-desalination-project-crossroads-84662737",
+            "source": "ABC News",
+            "date": "6 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/fcf2bb213306cec1f4bb74211a87e8121636532c0382d9ca.jpeg"
+        },
+        {
+            "title": "California to decide fate of controversial desalination plant amid brutal drought",
+            "link": "https://www.theguardian.com/environment/2022/may/11/california-desalination-plant-water-drought",
+            "source": "The Guardian",
+            "date": "23 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/fcf2bb213306cec1773d6279b95a43b95e26f1b789463fad.jpeg"
+        },
+        {
+            "title": "Amid drought, California desalination project at crossroads",
+            "link": "https://wtop.com/national/2022/05/amid-drought-california-desalination-project-at-crossroads/",
+            "source": "WTOP",
+            "date": "7 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/fcf2bb213306cec197b0213d137ef809ab8e30fb521c8ef7.jpeg"
+        },
+        {
+            "title": "Amid drought, California desalination project at crossroads",
+            "link": "https://www.wsav.com/news/national-news/amid-drought-california-desalination-project-at-crossroads/",
+            "source": "WSAV-TV",
+            "date": "7 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/fcf2bb213306cec10b21db61204ac0379e87039e8ea75d7d.jpeg"
+        },
+        {
+            "title": "Amid Drought, California Desalination Project at Crossroads",
+            "link": "https://www.usnews.com/news/us/articles/2022-05-12/amid-drought-california-desalination-project-at-crossroads",
+            "source": "USNews.com",
+            "date": "7 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/fcf2bb213306cec1797808af3fd646a4a4257dd7f4689d70.jpeg"
+        },
+        {
+            "title": "Submerged human corpses rise from drought-stricken Lake Mead",
+            "link": "https://www.livescience.com/drought-lake-bodies",
+            "source": "Live Science",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/fcf2bb213306cec10be2a7d4b68b06d763918a0b539e767e.jpeg"
+        },
+        {
+            "title": "California braces for extreme summer drought after dismal wet season",
+            "link": "https://www.washingtonpost.com/weather/2022/05/11/california-drought-summer-restrictions-snowpack/",
+            "source": "The Washington Post",
+            "date": "21 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/fcf2bb213306cec1fb7c56cda31b1906b1b1eb8b8458cd91.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=US&hl=en&q=Drought&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQt8YBegQIBBAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&tbm=nws&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+    "related_questions": [
+        {
+            "question": "What causes drought?",
+            "snippet": "Droughts are caused by low precipitation over an extended period of time. Atmospheric conditions such as climate change, ocean temperatures, changes in the jet stream, and changes in the local landscape are all factors that contribute to drought.",
+            "title": "What is a drought and what causes it? - Global Precipitation ...",
+            "link": "https://gpm.nasa.gov/resources/faq/what-drought-and-what-causes-it",
+            "displayed_link": "https://gpm.nasa.gov › resources › faq › what-drought-an..."
+        },
+        {
+            "question": "What are 4 types of droughts?",
+            "snippet": "Categorized four basic approaches to measuring drought: meteorological, hydrological, agricultural, and socioeconomic.Mar 27, 2021",
+            "title": "Types of Droughts - JournalsOfIndia",
+            "link": "https://journalsofindia.com/types-of-droughts/",
+            "displayed_link": "https://journalsofindia.com › types-of-droughts"
+        },
+        {
+            "question": "What are the effects of drought?",
+            "snippet": "Drought can also cause long-term public health problems, including: Shortages of drinking water and poor quality drinking water. Impacts on air quality, sanitation and hygiene, and food and nutrition. More disease, such as West Nile Virus carried by mosquitoes breeding in stagnant water.",
+            "title": "Health Implications of Drought | CDC",
+            "link": "https://www.cdc.gov/nceh/drought/implications.htm",
+            "displayed_link": "https://www.cdc.gov › nceh › drought › implications"
+        },
+        {
+            "question": "What are 5 causes of drought?",
+            "title": "Various Causes of Drought",
+            "link": "https://www.conserve-energy-future.com/causes-effects-solutions-drought.php",
+            "list": [
+                "Natural causes.",
+                "Altered weather patterns.",
+                "Excess water demands.",
+                "Deforestation and soil degradation.",
+                "Global warming.",
+                "Climate change.",
+                "Hunger and famine.",
+                "Not enough drinking water."
+            ],
+            "displayed_link": "https://www.conserve-energy-future.com › causes-effects-..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "A drought is “a deficiency of precipitation over an extended period of time (usually a season or more), resulting in a water shortage.” Indicators of drought include precipitation, temperature, streamflow, ground and reservoir water levels, soil moisture, and snowpack.",
+        "link": "https://www.c2es.org/content/drought-and-climate-change/#:~:text=A%20drought%20is%20%E2%80%9Ca%20deficiency,%2C%20soil%20moisture%2C%20and%20snowpack.",
+        "displayed_link": "https://www.c2es.org › content › drought-and-climate-cha...",
+        "snippet": "A drought is “a deficiency of precipitation over an extended period of time (usually a season or more), resulting in a water shortage.” Indicators of drought include precipitation, temperature, streamflow, ground and reservoir water levels, soil moisture, and snowpack.",
+        "people_also_search_for": [],
+        "about_this_result": {
+            "source": {
+                "description": "The Center for Climate and Energy Solutions is an environmental nonprofit organization based in Arlington, Virginia. Launched in 2011, C2ES is the successor to the Pew Center on Global Climate Change.",
+                "source_info_link": "https://en.wikipedia.org/wiki/Center_for_Climate_and_Energy_Solutions",
+                "icon": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/655b87281d64bbd01078bf31bc21f33ee94cb0164daebd059cbd8af2d68212b860f7a1dbfda25381e1ea0c99a1f6b001.png"
+            },
+            "keywords": [
+                "drought"
+            ],
+            "languages": [
+                "English"
+            ],
+            "regions": [
+                "the United States"
+            ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://www.c2es.org/content/drought-and-climate-change/&tbm=ilp&ilps=ADNMCi0NCA4JiH-KcjBhJ2b1DhQ4To4Maw"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "US Drought Monitor: Current Map",
+            "link": "https://droughtmonitor.unl.edu/",
+            "displayed_link": "https://droughtmonitor.unl.edu",
+            "snippet": "The Drought Monitor summary map identifies general areas of drought and labels them by intensity. D1 is the least intense level and D4 the most intense. Drought ...",
+            "snippet_highlighted_words": [
+                "Drought",
+                "drought",
+                "Drought"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The University of Nebraska–Lincoln is a public land-grant research university in Lincoln, Nebraska.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/University_of_Nebraska%E2%80%93Lincoln",
+                    "icon": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/a28431d031a78f87b5995a501db1f432b1307716427540c7bba2ee160142e8ef484439b71869845d612c5ed30ea1c53d.png"
+                },
+                "keywords": [
+                    "drought"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://droughtmonitor.unl.edu/&tbm=ilp&ilps=ADNMCi3HA_CycFoQ7VAOCb4o7L6FOrgzdQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:q1IophJH8JAJ:https://droughtmonitor.unl.edu/+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Understand Drought and Know How to Respond - National ...",
+            "link": "https://www.weather.gov/safety/drought",
+            "displayed_link": "https://www.weather.gov › safety › drought",
+            "snippet": "What Is Drought? Drought is a deficiency in precipitation over an extended period. It is a part of normal climate variability in many climate zones.",
+            "snippet_highlighted_words": [
+                "Drought",
+                "Drought"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Weather Service is an agency of the United States federal government that is tasked with providing weather forecasts, warnings of hazardous weather, and other weather-related products to organizations and the public for the purposes of protection, safety, and general information.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/National_Weather_Service",
+                    "icon": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/a28431d031a78f87b5995a501db1f43290f11b1212d2747a1ae028e597bdf76c29c7af4fa61f41947ec1e39e95e9dbd4.png"
+                },
+                "keywords": [
+                    "drought"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.weather.gov/safety/drought&tbm=ilp&ilps=ADNMCi0gLQGycW562EIkCBmQblQdUaPPbA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VU3OHsbUiSEJ:https://www.weather.gov/safety/drought+&cd=21&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Drought.gov: Home",
+            "link": "https://www.drought.gov/",
+            "displayed_link": "https://www.drought.gov",
+            "snippet": "Advancing Drought Science and Preparedness Across the Nation The National Integrated Drought Information System (NIDIS) is a multi-agency partnership that ...",
+            "snippet_highlighted_words": [
+                "Drought",
+                "Drought"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "drought.gov was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/a28431d031a78f87b5995a501db1f432fd04ab4f977415f5fa4a3c0b4a54fc8699216dc889b3f14f5be08f0f7ad9ab49.png"
+                },
+                "keywords": [
+                    "drought"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.drought.gov/&tbm=ilp&ilps=ADNMCi2xeSqAGwdKnpJMDaPwmIx-9m89Wg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xNqG8ELHmTMJ:https://www.drought.gov/+&cd=22&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://www.drought.gov/+Drought"
+        },
+        {
+            "position": 4,
+            "title": "Drought - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Drought",
+            "displayed_link": "https://en.wikipedia.org › wiki › Drought",
+            "snippet": "A drought is an event of prolonged shortages in the water supply, whether atmospheric (below-average precipitation), surface water or ground water.",
+            "snippet_highlighted_words": [
+                "drought"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "icon": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/a28431d031a78f87b5995a501db1f432a76889a34e37aa0ba909c543c60a0a3785304dff1c8f1f08315d2469de21eee9.png"
+                },
+                "keywords": [
+                    "drought"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Drought&tbm=ilp&ilps=ADNMCi3X11lu81DCIm2YDTEgJaB2NRumiA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iKo6ZdQt-UEJ:https://en.wikipedia.org/wiki/Drought+&cd=23&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://en.wikipedia.org/wiki/Drought+Drought"
+        },
+        {
+            "position": 5,
+            "title": "United States Drought Information - Climate Prediction Center",
+            "link": "https://www.cpc.ncep.noaa.gov/products/Drought/",
+            "displayed_link": "https://www.cpc.ncep.noaa.gov › products › Drought",
+            "snippet": "The United States Drought Monitor (USDM) serves as initial conditions for the CPC's drought outlooks. Due to the 7-16 day time span between releases of the ...",
+            "snippet_highlighted_words": [
+                "Drought",
+                "drought"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Climate Prediction Center is a United States federal agency that is one of the National Centers for Environmental Prediction, which are a part of the National Oceanic and Atmospheric Administration's National Weather Service. CPC is headquartered in College Park, Maryland.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Climate_Prediction_Center",
+                    "icon": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/a28431d031a78f87b5995a501db1f4329ae8289940c6662206840603db6b4966482a63efc8fc9466b859cebd18db2640.png"
+                },
+                "keywords": [
+                    "drought"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cpc.ncep.noaa.gov/products/Drought/&tbm=ilp&ilps=ADNMCi0mPwYjSVODxxV-66vx89W7iRGzPQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:suGRtfhK3CAJ:https://www.cpc.ncep.noaa.gov/products/Drought/+&cd=24&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Drought | Ready.gov",
+            "link": "https://www.ready.gov/drought",
+            "displayed_link": "https://www.ready.gov › drought",
+            "snippet": "Before a Drought. The best way to prepare for a drought is to conserve water. Make conserving water a part of your daily life. Indoor Water Conservation Tips ...",
+            "snippet_highlighted_words": [
+                "Drought",
+                "drought"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "ready.gov was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/a28431d031a78f87b5995a501db1f432fe1ef8bb00b8c36e5a6d0b0859da44daf2e2405278ebfec19277d06d3b9c7bbc.png"
+                },
+                "keywords": [
+                    "drought"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ready.gov/drought&tbm=ilp&ilps=ADNMCi3KDKBMjpkC32biDQ7LF6qwOfI_iw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Llw7XIJ6Fu0J:https://www.ready.gov/drought+&cd=25&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://www.ready.gov/drought+Drought"
+        },
+        {
+            "position": 7,
+            "title": "drought | Description & Kinds - Encyclopedia Britannica",
+            "link": "https://www.britannica.com/science/drought",
+            "displayed_link": "https://www.britannica.com › ... › Earth Sciences",
+            "snippet": "drought, also spelled drouth, lack or insufficiency of rain for an extended period that causes a considerable hydrologic (water) imbalance and, consequently ...",
+            "snippet_highlighted_words": [
+                "drought"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/a28431d031a78f87b5995a501db1f432ab38cafc65a7fa97bddba6f7654ff8442703f31d69a4f697caae5965fc85b882.png"
+                },
+                "keywords": [
+                    "drought"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/drought&tbm=ilp&ilps=ADNMCi1bo_ORNdJg5_eiqGv_ecg0VYq2ng",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:g-vOds9YlXsJ:https://www.britannica.com/science/drought+&cd=26&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://www.britannica.com/science/drought+Drought"
+        },
+        {
+            "position": 8,
+            "title": "California drought action",
+            "link": "https://drought.ca.gov/",
+            "displayed_link": "https://drought.ca.gov",
+            "snippet": "Dry start to 2022 marks third year of drought This year California had the driest January, February, and March ever recorded. Warm days melted snow faster ...",
+            "snippet_highlighted_words": [
+                "drought"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "drought.ca.gov was first indexed by Google in March 2014",
+                    "icon": "https://serpapi.com/searches/627cfee1437af282fc44eea9/images/a28431d031a78f87b5995a501db1f432f392135e715ca996b7629a97cf6c5e3b1826ce058f62aa38ab4ac4b197c627c7.png"
+                },
+                "keywords": [
+                    "drought"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://drought.ca.gov/&tbm=ilp&ilps=ADNMCi3ci0OLT2Tq-XBgbcVqF2ZI3KZ5cA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6TbvvDJDDMAJ:https://drought.ca.gov/+&cd=27&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "drought pronunciation",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Drought+pronunciation&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ1QJ6BAg9EAE"
+        },
+        {
+            "query": "drought causes",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Drought+causes&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "u.s. drought",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=u.s.+drought&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "types of drought",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Types+of+drought&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "drought synonym",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Drought+synonym&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "drought california",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Drought+California&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "drought facts",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Drought+facts&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "agricultural drought",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Agricultural+drought&sa=X&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Drought&gl=US&hl=en&ei=4f58YtWoOKqp_QaMyYSwBg&start=10&sa=N&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Drought&gl=US&hl=en&ei=4f58YtWoOKqp_QaMyYSwBg&start=10&sa=N&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Drought&gl=US&hl=en&ei=4f58YtWoOKqp_QaMyYSwBg&start=20&sa=N&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Drought&gl=US&hl=en&ei=4f58YtWoOKqp_QaMyYSwBg&start=30&sa=N&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Drought&gl=US&hl=en&ei=4f58YtWoOKqp_QaMyYSwBg&start=40&sa=N&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Drought&gl=US&hl=en&ei=4f58YtWoOKqp_QaMyYSwBg&start=50&sa=N&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Drought&gl=US&hl=en&ei=4f58YtWoOKqp_QaMyYSwBg&start=60&sa=N&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Drought&gl=US&hl=en&ei=4f58YtWoOKqp_QaMyYSwBg&start=70&sa=N&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Drought&gl=US&hl=en&ei=4f58YtWoOKqp_QaMyYSwBg&start=80&sa=N&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Drought&gl=US&hl=en&ei=4f58YtWoOKqp_QaMyYSwBg&start=90&sa=N&ved=2ahUKEwiVncvB_Nn3AhWqVN8KHYwkAWYQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=20&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=30&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=40&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=50&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=60&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=70&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=80&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Drought&start=90&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        }
+    }
+}

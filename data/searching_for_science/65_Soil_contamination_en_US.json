@@ -1,0 +1,572 @@
+{
+    "search_metadata": {
+        "id": "627cfed40574f58582f97c43",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/65a92bf0f116db43/627cfed40574f58582f97c43.json",
+        "created_at": "2022-05-12 12:34:28 UTC",
+        "processed_at": "2022-05-12 12:34:28 UTC",
+        "google_url": "https://www.google.com/search?q=Soil+contamination&oq=Soil+contamination&uule=w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz&hl=en&gl=US&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/65a92bf0f116db43/627cfed40574f58582f97c43.html",
+        "total_time_taken": 0.65
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Soil contamination",
+        "uule": "w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "US",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Soil contamination",
+        "total_results": 2380000000,
+        "time_taken_displayed": 0.47
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&tbm=isch&source=iu&ictx=1&vet=1&fir=CT8ovBU_ICMVnM%252C4z2trc4BBqGHMM%252C_%253B2N-OKH5vg32q5M%252CofOMe2k7SKgNGM%252C_%253BMQXfV3Mk761z2M%252CuFO8HwIZkLaX4M%252C_%253B7qYVkiDnHcHHEM%252C6bK0xFH2n52SHM%252C_%253B4YHdcgcSZp1cfM%252CsF6ANkiSKq1TVM%252C_%253BR-hv-1iScQUAhM%252CPDHx7eJHBFIqyM%252C_%253BlwBYXS9NkY5wnM%252CxfZyTyv32vhHtM%252C_%253BMLftLMQPqCGwtM%252C-noye-4viaKujM%252C_%253BNDR2gNBMyMJbOM%252CsGikx1Bpbjcr8M%252C_%253Bi1TirB3DjEv5cM%252CzIgMnn1kBna6BM%252C_&usg=AI4_-kRCCbRehxh7kY7OsSGxpcNlYrr5Vw&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ9QF6BAg9EAE#imgrc=CT8ovBU_ICMVnM",
+            "source": "https://en.wikipedia.org/wiki/Soil_contamination",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUXnhHhV-u3NhDbGuEUwvEVykoxVdlsy112PwxAGs7A&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&tbm=isch&source=iu&ictx=1&vet=1&fir=CT8ovBU_ICMVnM%252C4z2trc4BBqGHMM%252C_%253B2N-OKH5vg32q5M%252CofOMe2k7SKgNGM%252C_%253BMQXfV3Mk761z2M%252CuFO8HwIZkLaX4M%252C_%253B7qYVkiDnHcHHEM%252C6bK0xFH2n52SHM%252C_%253B4YHdcgcSZp1cfM%252CsF6ANkiSKq1TVM%252C_%253BR-hv-1iScQUAhM%252CPDHx7eJHBFIqyM%252C_%253BlwBYXS9NkY5wnM%252CxfZyTyv32vhHtM%252C_%253BMLftLMQPqCGwtM%252C-noye-4viaKujM%252C_%253BNDR2gNBMyMJbOM%252CsGikx1Bpbjcr8M%252C_%253Bi1TirB3DjEv5cM%252CzIgMnn1kBna6BM%252C_&usg=AI4_-kRCCbRehxh7kY7OsSGxpcNlYrr5Vw&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ9QF6BAhVEAE#imgrc=2N-OKH5vg32q5M",
+            "source": "https://www.worldatlas.com/articles/what-is-soil-contamination.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9iL8UgqAspvwFnsiI-4K1Yl0fXo3CTRY3Bko2OtSjg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&tbm=isch&source=iu&ictx=1&vet=1&fir=CT8ovBU_ICMVnM%252C4z2trc4BBqGHMM%252C_%253B2N-OKH5vg32q5M%252CofOMe2k7SKgNGM%252C_%253BMQXfV3Mk761z2M%252CuFO8HwIZkLaX4M%252C_%253B7qYVkiDnHcHHEM%252C6bK0xFH2n52SHM%252C_%253B4YHdcgcSZp1cfM%252CsF6ANkiSKq1TVM%252C_%253BR-hv-1iScQUAhM%252CPDHx7eJHBFIqyM%252C_%253BlwBYXS9NkY5wnM%252CxfZyTyv32vhHtM%252C_%253BMLftLMQPqCGwtM%252C-noye-4viaKujM%252C_%253BNDR2gNBMyMJbOM%252CsGikx1Bpbjcr8M%252C_%253Bi1TirB3DjEv5cM%252CzIgMnn1kBna6BM%252C_&usg=AI4_-kRCCbRehxh7kY7OsSGxpcNlYrr5Vw&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ9QF6BAhSEAE#imgrc=MQXfV3Mk761z2M",
+            "source": "https://financialtribune.com/articles/environment/69220/soil-contamination-getting-worse",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCdNcR_SBVI_j5r3yuzQrRDqzcFMHBvvUpRKGZ3EvwHQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&tbm=isch&source=iu&ictx=1&vet=1&fir=CT8ovBU_ICMVnM%252C4z2trc4BBqGHMM%252C_%253B2N-OKH5vg32q5M%252CofOMe2k7SKgNGM%252C_%253BMQXfV3Mk761z2M%252CuFO8HwIZkLaX4M%252C_%253B7qYVkiDnHcHHEM%252C6bK0xFH2n52SHM%252C_%253B4YHdcgcSZp1cfM%252CsF6ANkiSKq1TVM%252C_%253BR-hv-1iScQUAhM%252CPDHx7eJHBFIqyM%252C_%253BlwBYXS9NkY5wnM%252CxfZyTyv32vhHtM%252C_%253BMLftLMQPqCGwtM%252C-noye-4viaKujM%252C_%253BNDR2gNBMyMJbOM%252CsGikx1Bpbjcr8M%252C_%253Bi1TirB3DjEv5cM%252CzIgMnn1kBna6BM%252C_&usg=AI4_-kRCCbRehxh7kY7OsSGxpcNlYrr5Vw&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ9QF6BAhWEAE#imgrc=7qYVkiDnHcHHEM",
+            "source": "https://www.btlliners.com/soil-contamination-liners/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdvb4UpCcFF8g3dHOMv9Pq_LJOCYn26yx7M-tJ-5PcTA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&tbm=isch&source=iu&ictx=1&vet=1&fir=CT8ovBU_ICMVnM%252C4z2trc4BBqGHMM%252C_%253B2N-OKH5vg32q5M%252CofOMe2k7SKgNGM%252C_%253BMQXfV3Mk761z2M%252CuFO8HwIZkLaX4M%252C_%253B7qYVkiDnHcHHEM%252C6bK0xFH2n52SHM%252C_%253B4YHdcgcSZp1cfM%252CsF6ANkiSKq1TVM%252C_%253BR-hv-1iScQUAhM%252CPDHx7eJHBFIqyM%252C_%253BlwBYXS9NkY5wnM%252CxfZyTyv32vhHtM%252C_%253BMLftLMQPqCGwtM%252C-noye-4viaKujM%252C_%253BNDR2gNBMyMJbOM%252CsGikx1Bpbjcr8M%252C_%253Bi1TirB3DjEv5cM%252CzIgMnn1kBna6BM%252C_&usg=AI4_-kRCCbRehxh7kY7OsSGxpcNlYrr5Vw&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ9QF6BAhREAE#imgrc=4YHdcgcSZp1cfM",
+            "source": "https://www.iamcountryside.com/growing/phytoremediation-plants-clean-contaminated-soil/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfH2YsXLn5n8DAP3_MYZ6yyPvzithfwKADgdElBObUag&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&tbm=isch&source=iu&ictx=1&vet=1&fir=CT8ovBU_ICMVnM%252C4z2trc4BBqGHMM%252C_%253B2N-OKH5vg32q5M%252CofOMe2k7SKgNGM%252C_%253BMQXfV3Mk761z2M%252CuFO8HwIZkLaX4M%252C_%253B7qYVkiDnHcHHEM%252C6bK0xFH2n52SHM%252C_%253B4YHdcgcSZp1cfM%252CsF6ANkiSKq1TVM%252C_%253BR-hv-1iScQUAhM%252CPDHx7eJHBFIqyM%252C_%253BlwBYXS9NkY5wnM%252CxfZyTyv32vhHtM%252C_%253BMLftLMQPqCGwtM%252C-noye-4viaKujM%252C_%253BNDR2gNBMyMJbOM%252CsGikx1Bpbjcr8M%252C_%253Bi1TirB3DjEv5cM%252CzIgMnn1kBna6BM%252C_&usg=AI4_-kRCCbRehxh7kY7OsSGxpcNlYrr5Vw&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ9QF6BAhQEAE#imgrc=R-hv-1iScQUAhM",
+            "source": "https://www.soiladvocates.ca/soil-contamination-and-remediation/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwRkwfkd4cxZL9gLu_ljaUH71QydUzy-6GQKOyZoiHjQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&tbm=isch&source=iu&ictx=1&vet=1&fir=CT8ovBU_ICMVnM%252C4z2trc4BBqGHMM%252C_%253B2N-OKH5vg32q5M%252CofOMe2k7SKgNGM%252C_%253BMQXfV3Mk761z2M%252CuFO8HwIZkLaX4M%252C_%253B7qYVkiDnHcHHEM%252C6bK0xFH2n52SHM%252C_%253B4YHdcgcSZp1cfM%252CsF6ANkiSKq1TVM%252C_%253BR-hv-1iScQUAhM%252CPDHx7eJHBFIqyM%252C_%253BlwBYXS9NkY5wnM%252CxfZyTyv32vhHtM%252C_%253BMLftLMQPqCGwtM%252C-noye-4viaKujM%252C_%253BNDR2gNBMyMJbOM%252CsGikx1Bpbjcr8M%252C_%253Bi1TirB3DjEv5cM%252CzIgMnn1kBna6BM%252C_&usg=AI4_-kRCCbRehxh7kY7OsSGxpcNlYrr5Vw&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ9QF6BAhTEAE#imgrc=lwBYXS9NkY5wnM",
+            "source": "https://reliefweb.int/report/world/soil-pollution-hidden-reality",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIUtdtyOyEvo4zET3kEQKnUn7wE-Bpo6ZkUPrajo6Og&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&tbm=isch&source=iu&ictx=1&vet=1&fir=CT8ovBU_ICMVnM%252C4z2trc4BBqGHMM%252C_%253B2N-OKH5vg32q5M%252CofOMe2k7SKgNGM%252C_%253BMQXfV3Mk761z2M%252CuFO8HwIZkLaX4M%252C_%253B7qYVkiDnHcHHEM%252C6bK0xFH2n52SHM%252C_%253B4YHdcgcSZp1cfM%252CsF6ANkiSKq1TVM%252C_%253BR-hv-1iScQUAhM%252CPDHx7eJHBFIqyM%252C_%253BlwBYXS9NkY5wnM%252CxfZyTyv32vhHtM%252C_%253BMLftLMQPqCGwtM%252C-noye-4viaKujM%252C_%253BNDR2gNBMyMJbOM%252CsGikx1Bpbjcr8M%252C_%253Bi1TirB3DjEv5cM%252CzIgMnn1kBna6BM%252C_&usg=AI4_-kRCCbRehxh7kY7OsSGxpcNlYrr5Vw&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ9QF6BAhOEAE#imgrc=MLftLMQPqCGwtM",
+            "source": "https://enva.com/case-studies/contaminated-soil-treatment-methods",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5KtB_IiSiTQ5qsWh-fhL0W8G2oYOvVp-qT2W5xNNOmg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&tbm=isch&source=iu&ictx=1&vet=1&fir=CT8ovBU_ICMVnM%252C4z2trc4BBqGHMM%252C_%253B2N-OKH5vg32q5M%252CofOMe2k7SKgNGM%252C_%253BMQXfV3Mk761z2M%252CuFO8HwIZkLaX4M%252C_%253B7qYVkiDnHcHHEM%252C6bK0xFH2n52SHM%252C_%253B4YHdcgcSZp1cfM%252CsF6ANkiSKq1TVM%252C_%253BR-hv-1iScQUAhM%252CPDHx7eJHBFIqyM%252C_%253BlwBYXS9NkY5wnM%252CxfZyTyv32vhHtM%252C_%253BMLftLMQPqCGwtM%252C-noye-4viaKujM%252C_%253BNDR2gNBMyMJbOM%252CsGikx1Bpbjcr8M%252C_%253Bi1TirB3DjEv5cM%252CzIgMnn1kBna6BM%252C_&usg=AI4_-kRCCbRehxh7kY7OsSGxpcNlYrr5Vw&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ9QF6BAhUEAE#imgrc=NDR2gNBMyMJbOM",
+            "source": "https://www.bioenergyconsult.com/disposal-of-contaminated-soil/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9rXL2TrTgu3zp0OPevDFYyG7hzL08VS3q6f-A__MQ3g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&tbm=isch&source=iu&ictx=1&vet=1&fir=CT8ovBU_ICMVnM%252C4z2trc4BBqGHMM%252C_%253B2N-OKH5vg32q5M%252CofOMe2k7SKgNGM%252C_%253BMQXfV3Mk761z2M%252CuFO8HwIZkLaX4M%252C_%253B7qYVkiDnHcHHEM%252C6bK0xFH2n52SHM%252C_%253B4YHdcgcSZp1cfM%252CsF6ANkiSKq1TVM%252C_%253BR-hv-1iScQUAhM%252CPDHx7eJHBFIqyM%252C_%253BlwBYXS9NkY5wnM%252CxfZyTyv32vhHtM%252C_%253BMLftLMQPqCGwtM%252C-noye-4viaKujM%252C_%253BNDR2gNBMyMJbOM%252CsGikx1Bpbjcr8M%252C_%253Bi1TirB3DjEv5cM%252CzIgMnn1kBna6BM%252C_&usg=AI4_-kRCCbRehxh7kY7OsSGxpcNlYrr5Vw&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ9QF6BAhXEAE#imgrc=i1TirB3DjEv5cM",
+            "source": "https://www.intechopen.com/books/environmental-risk-assessment-of-soil-contamination/soil-contamination-risk-assessment-and-remediation",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrN-XwOuwyNLquZg8N8tdiVGypAm6S_ujWhGtpce2Wg&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Soil Contamination: Does it Exist Near You?",
+            "link": "https://www.youtube.com/watch?v=iAmHToVhm2A",
+            "thumbnail": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/4f3c71b59f0f400f308d399d93094f726b862a6bab1176d793e64371d9ba1820.jpeg",
+            "channel": "Paul Cochrane",
+            "duration": "3:30",
+            "platform": "YouTube",
+            "date": "Nov 8, 2013"
+        },
+        {
+            "position": 2,
+            "title": "Soil Pollution, a hidden reality",
+            "link": "https://www.youtube.com/watch?v=wHcY-iFSYZM",
+            "thumbnail": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/4f3c71b59f0f400f09317f303fe956f46307227ee00a2f4b0a20074576abedd9.jpeg",
+            "channel": "Food and Agriculture Organization of the United Nations",
+            "duration": "2:20",
+            "platform": "YouTube",
+            "date": "May 2, 2018"
+        },
+        {
+            "position": 3,
+            "title": "What Is SOIL POLLUTION | LAND POLLUTION | What Causes ...",
+            "link": "https://www.youtube.com/watch?v=Hnfdq2htoKU",
+            "thumbnail": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/4f3c71b59f0f400f2255b8beda5bb8ba8330aea3c6227ac7be078fb691be7afd.jpeg",
+            "channel": "Peekaboo Kidz",
+            "duration": "5:45",
+            "platform": "YouTube",
+            "date": "Mar 10, 2020"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What causes soil contamination?",
+            "snippet": "In urban areas, soil contamination is largely caused by human activities. Some examples are manufacturing, industrial dumping, land development, local waste disposal, and excessive pesticide or fertilizer use.",
+            "title": "Soil contaminants",
+            "link": "https://www.soils.org/about-soils/contaminants",
+            "displayed_link": "https://www.soils.org › about-soils › contaminants"
+        },
+        {
+            "question": "What does contaminated soil mean?",
+            "snippet": "Contaminated soil means soil or sediment or fill material containing substances in quantities or concentrations greater than those specified in the Contaminated Sites Regulation but is not a Hazardous Waste as identified in the Hazardous Waste Regulation.",
+            "title": "Contaminated soil Definition: 135 Samples | Law Insider",
+            "link": "https://www.lawinsider.com/dictionary/contaminated-soil",
+            "displayed_link": "https://www.lawinsider.com › dictionary › contaminated-s..."
+        },
+        {
+            "question": "What is soil contamination effects?",
+            "snippet": "Soil pollution causes a chain reaction. It alters soils' biodiversity, reduces soil organic matter and soils' capacity to act as a filter. It also contaminates the water stored in the soil and groundwater, and causes an imbalance of soil nutrients.May 2, 2018",
+            "title": "Polluting our soils is polluting our future | FAO Stories",
+            "link": "https://www.fao.org/fao-stories/article/en/c/1126974/",
+            "displayed_link": "https://www.fao.org › fao-stories › article"
+        },
+        {
+            "question": "What is the most common soil contaminant?",
+            "title": "Examples of the most common and problematic soil pollutants can be found below.",
+            "link": "https://www.environmentalpollutioncenters.org/soil/",
+            "list": [
+                "Lead (Pb) ... ",
+                "Mercury (Hg) ... ",
+                "Arsenic (As) ... ",
+                "Copper (Cu) ... ",
+                "Zinc (Zn) ... ",
+                "Nickel (Ni) ... ",
+                "PAHs (polyaromatic hydrocarbons) ... ",
+                "Herbicides/Insecticides."
+            ],
+            "displayed_link": "https://www.environmentalpollutioncenters.org › soil"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Soil contaminants",
+            "link": "https://www.soils.org/about-soils/contaminants",
+            "displayed_link": "https://www.soils.org › about-soils › contaminants",
+            "snippet": "Common contaminants in urban soils include pesticides, petroleum products, radon, asbestos, lead, chromated copper arsenate and creosote. In urban areas, soil ...",
+            "snippet_highlighted_words": [
+                "contaminants",
+                "soils",
+                "soil"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Petroleum",
+                        "link": "https://www.soils.org/about-soils/contaminants/petroleum"
+                    },
+                    {
+                        "title": "Lead",
+                        "link": "https://www.soils.org/about-soils/contaminants/lead"
+                    },
+                    {
+                        "title": "What is radon",
+                        "link": "https://www.soils.org/about-soils/contaminants/radon"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Soil Science Society of America, is the largest soil-specific society in the United States. It was formed in 1936 from the merger of the Soils Section of the American Society of Agronomy and the American Soil Survey Association.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Soil_Science_Society_of_America",
+                    "icon": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/dcdfa706c0c13415679996b678fc4233061c1a432dfc6e28cadd07ec29b8e786081dca697ae80f5154c84668ae8ca06c.png"
+                },
+                "keywords": [
+                    "soil",
+                    "contamination"
+                ],
+                "related_keywords": [
+                    "soils",
+                    "contaminants"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.soils.org/about-soils/contaminants&tbm=ilp&ilps=ADNMCi1zqXj_PmPXpEoWNJ5mVHle24A03A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ig_HECAnc3YJ:https://www.soils.org/about-soils/contaminants+&cd=1&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Soil contamination - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Soil_contamination",
+            "displayed_link": "https://en.wikipedia.org › wiki › Soil_contamination",
+            "snippet": "Soil contamination, soil pollution, or land pollution as a part of land degradation is caused by the presence of xenobiotic (human-made) chemicals or other ...",
+            "snippet_highlighted_words": [
+                "Soil contamination",
+                "soil pollution"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Causes",
+                        "link": "https://en.wikipedia.org/wiki/Soil_contamination#Causes"
+                    },
+                    {
+                        "title": "Human health",
+                        "link": "https://en.wikipedia.org/wiki/Soil_contamination#Human_health"
+                    },
+                    {
+                        "title": "Ecosystem effects",
+                        "link": "https://en.wikipedia.org/wiki/Soil_contamination#Ecosystem_effects"
+                    },
+                    {
+                        "title": "By country",
+                        "link": "https://en.wikipedia.org/wiki/Soil_contamination#By_country"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "icon": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/dcdfa706c0c13415679996b678fc4233c0191f720a17a2e66280dc895481b547fbdd4192bc780238e9d4242d86cb760b.png"
+                },
+                "keywords": [
+                    "soil",
+                    "contamination"
+                ],
+                "related_keywords": [
+                    "pollution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Soil_contamination&tbm=ilp&ilps=ADNMCi06oMlBX1T0T_4l2Df5p0sst4derg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4z2trc4BBqEJ:https://en.wikipedia.org/wiki/Soil_contamination+&cd=11&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=US&q=related:https://en.wikipedia.org/wiki/Soil_contamination+Soil+contamination"
+        },
+        {
+            "position": 3,
+            "title": "Contaminated Land | US EPA",
+            "link": "https://www.epa.gov/report-environment/contaminated-land",
+            "displayed_link": "https://www.epa.gov › report-environment › contamina...",
+            "date": "Sep 28, 2021",
+            "snippet": "Contaminated soils can leach toxic chemicals into nearby ground or surface waters, where these materials can be taken up by plants and ...",
+            "snippet_highlighted_words": [
+                "Contaminated soils"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Types And Extent",
+                        "link": "https://www.epa.gov/report-environment/contaminated-land#:~:text=Types%20and%20Extent,-Land%20contamination%20can%20result%20from"
+                    },
+                    {
+                        "title": "Categories Of Contaminated...",
+                        "link": "https://www.epa.gov/report-environment/contaminated-land#:~:text=Categories%20of%20Contaminated%20Lands"
+                    },
+                    {
+                        "title": "Effects",
+                        "link": "https://www.epa.gov/report-environment/contaminated-land#:~:text=Effects,-Contaminated%20lands%20can%20pose%20a"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Environmental Protection Agency is an independent executive agency of the United States federal government tasked with environmental protection matters. President Richard Nixon proposed the establishment of EPA on July 9, 1970; it began operation on December 2, 1970, after Nixon signed an executive order.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency",
+                    "icon": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/dcdfa706c0c13415679996b678fc42336bd230e22db79bdd3bd92db15b1b7dcbf8ad40107f55a0c898f1c1cd44990e6b.png"
+                },
+                "keywords": [
+                    "soil",
+                    "contamination"
+                ],
+                "related_keywords": [
+                    "soils",
+                    "contaminated"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.epa.gov/report-environment/contaminated-land&tbm=ilp&ilps=ADNMCi2ri36vwJXNlVLuKfnbAfU2GATCdg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qF-wKhLHbK4J:https://www.epa.gov/report-environment/contaminated-land+&cd=12&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Soil Contamination, Risk Assessment and Remediation",
+            "link": "https://www.intechopen.com/chapters/46032",
+            "displayed_link": "https://www.intechopen.com › chapters",
+            "snippet": "Soil pollution is defined as the build-up in soils of persistent toxic compounds, chemicals, salts, radioactive materials, or disease causing agents, which have ...",
+            "snippet_highlighted_words": [
+                "Soil pollution"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "1. Introduction",
+                        "link": "https://www.intechopen.com/chapters/46032#:~:text=1.%20Introduction"
+                    },
+                    {
+                        "title": "2. Soil Pollution",
+                        "link": "https://www.intechopen.com/chapters/46032#:~:text=2.%20Soil%20pollution"
+                    },
+                    {
+                        "title": "3. Ecological Risk...",
+                        "link": "https://www.intechopen.com/chapters/46032#:~:text=3.%20Ecological%20risk%20assessment"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "by MA Ashraf",
+                        "2014",
+                        "Cited by 96 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2014,
+                        "cited_by": 96
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "intechopen.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/dcdfa706c0c13415679996b678fc42333c0528033393efc86da976b7c950fd342358c32d66a740193030e372f2b467fa.png"
+                },
+                "keywords": [
+                    "soil",
+                    "contamination"
+                ],
+                "related_keywords": [
+                    "pollution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.intechopen.com/chapters/46032&tbm=ilp&ilps=ADNMCi2MZikhOcV7oWlC8I24-ZxMC2Udyw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jvTAXYPOYGUJ:https://www.intechopen.com/chapters/46032+&cd=13&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "What Is Soil Pollution",
+            "link": "https://www.environmentalpollutioncenters.org/soil/",
+            "displayed_link": "https://www.environmentalpollutioncenters.org › soil",
+            "snippet": "Soil pollution is defined as the presence of toxic chemicals (pollutants or contaminants) in soil, in high enough concentrations to pose a risk to human ...",
+            "snippet_highlighted_words": [
+                "Soil pollution"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "environmentalpollutioncenters.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/dcdfa706c0c13415679996b678fc4233c92a9f3c8d7681cffffb5ec3cecaeb51867697cd43efd50feba10bff8dfe9968.png"
+                },
+                "keywords": [
+                    "soil",
+                    "contamination"
+                ],
+                "related_keywords": [
+                    "pollution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.environmentalpollutioncenters.org/soil/&tbm=ilp&ilps=ADNMCi0zCEJQ1nm4KI9Uh5iknGSqRetl_Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hzIw3EFSDKQJ:https://www.environmentalpollutioncenters.org/soil/+&cd=14&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=US&q=related:https://www.environmentalpollutioncenters.org/soil/+Soil+contamination"
+        },
+        {
+            "position": 6,
+            "title": "Soil contamination - RECARE-Hub",
+            "link": "https://www.recare-hub.eu/soil-threats/contamination",
+            "displayed_link": "https://www.recare-hub.eu › soil-threats › contamination",
+            "snippet": "Soil contamination is the occurrence of contaminants in soil above a certain level causing deterioration or loss of one or more soil functions. ... It occurs in 2 ...",
+            "snippet_highlighted_words": [
+                "Soil contamination"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Where Does It Occur?",
+                        "link": "https://www.recare-hub.eu/soil-threats/contamination#:~:text=Where%20does%20it%20occur%3F"
+                    },
+                    {
+                        "title": "How Can It Be Measured Or...",
+                        "link": "https://www.recare-hub.eu/soil-threats/contamination#:~:text=How%20can%20it%20be%20measured%20or%20assessed%3F"
+                    },
+                    {
+                        "title": "How Can It Be Prevented Or...",
+                        "link": "https://www.recare-hub.eu/soil-threats/contamination#:~:text=How%20can%20it%20be%20prevented%20or%20remediated%3F"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "recare-hub.eu was first indexed by Google in December 2013",
+                    "icon": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/dcdfa706c0c13415679996b678fc4233e09d7df9dba61399f85894636fa3b5863f6701e725be1ff8ac90c15427a473d8.png"
+                },
+                "keywords": [
+                    "soil",
+                    "contamination"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.recare-hub.eu/soil-threats/contamination&tbm=ilp&ilps=ADNMCi3ajjOU_0HR12ZXC5zAbp2tApQIQw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q7gnxXnzd5wJ:https://www.recare-hub.eu/soil-threats/contamination+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Interview — Soil contamination: the unsettling legacy of ...",
+            "link": "https://www.eea.europa.eu/signals/signals-2019-content-list/articles/interview-soil-contamination-the-unsettling",
+            "displayed_link": "https://www.eea.europa.eu › signals › articles › intervie...",
+            "date": "Sep 30, 2019",
+            "snippet": "In principle, soil that is contaminated is soil that has any substances added to it by human activity. This can happen directly or indirectly ...",
+            "snippet_highlighted_words": [
+                "soil",
+                "contaminated",
+                "soil"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The European Environment Agency is the agency of the European Union which provides independent information on the environment.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/European_Environment_Agency",
+                    "icon": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/dcdfa706c0c13415679996b678fc423317d0c0db1830283e01175ea85e38f50e0a1e15dc733e7d82f2610bbc91f6120a.png"
+                },
+                "keywords": [
+                    "soil",
+                    "contamination"
+                ],
+                "related_keywords": [
+                    "contaminated"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.eea.europa.eu/signals/signals-2019-content-list/articles/interview-soil-contamination-the-unsettling&tbm=ilp&ilps=ADNMCi3iMIQ7o6wliCcIg88qdf9NvvlxpQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LCYVlg4-GkgJ:https://www.eea.europa.eu/signals/signals-2019-content-list/articles/interview-soil-contamination-the-unsettling+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "What is Soil Contamination? And Why Does It Happen?",
+            "link": "https://www.envirotech-online.com/news/health-and-safety/10/breaking-news/what-is-soil-contamination-and-why-does-it-happen/32581",
+            "displayed_link": "https://www.envirotech-online.com › breaking-news",
+            "date": "Nov 26, 2014",
+            "snippet": "Soil contamination occurs when human-made chemicals, such as hydrocarbons and heavy metals, find their way into the earth, altering the ...",
+            "snippet_highlighted_words": [
+                "Soil contamination"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "envirotech-online.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfed40574f58582f97c43/images/dcdfa706c0c13415679996b678fc42331b42430fa3302467e168c8c9d74647560d7cebc9709c2691672dcb387a73130f.png"
+                },
+                "keywords": [
+                    "soil",
+                    "contamination"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.envirotech-online.com/news/health-and-safety/10/breaking-news/what-is-soil-contamination-and-why-does-it-happen/32581&tbm=ilp&ilps=ADNMCi31cqOFg6BzgISzAgpnTiWe78RPdw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Gx7XNOVpkTMJ:https://www.envirotech-online.com/news/health-and-safety/10/breaking-news/what-is-soil-contamination-and-why-does-it-happen/32581+&cd=20&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "soil contamination examples",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Soil+contamination+examples&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ1QJ6BAhGEAE"
+        },
+        {
+            "query": "soil contamination effects",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Soil+contamination+effects&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ1QJ6BAhDEAE"
+        },
+        {
+            "query": "soil contamination in the united states",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Soil+contamination+in+the+United+States&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ1QJ6BAhAEAE"
+        },
+        {
+            "query": "epa soil contamination standards",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=EPA+soil+contamination+standards&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ1QJ6BAg-EAE"
+        },
+        {
+            "query": "oil in soil contamination",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Oil+in+soil+contamination&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ1QJ6BAg8EAE"
+        },
+        {
+            "query": "soil pollution pdf",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Soil+pollution+PDF&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "soil pollution - wikipedia",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Soil+pollution+-+Wikipedia&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "effects of soil pollution on environment",
+            "link": "https://www.google.com/search?hl=en&gl=US&q=Effects+of+soil+pollution+on+environment&sa=X&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ1QJ6BAg5EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&ei=1P58YqezF6O4ggfkhZyoCg&start=10&sa=N&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ8NMDegQIARBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&ei=1P58YqezF6O4ggfkhZyoCg&start=10&sa=N&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ8tMDegQIARA4",
+            "3": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&ei=1P58YqezF6O4ggfkhZyoCg&start=20&sa=N&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ8tMDegQIARA6",
+            "4": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&ei=1P58YqezF6O4ggfkhZyoCg&start=30&sa=N&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ8tMDegQIARA8",
+            "5": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&ei=1P58YqezF6O4ggfkhZyoCg&start=40&sa=N&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ8tMDegQIARA-",
+            "6": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&ei=1P58YqezF6O4ggfkhZyoCg&start=50&sa=N&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ8tMDegQIARBA",
+            "7": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&ei=1P58YqezF6O4ggfkhZyoCg&start=60&sa=N&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ8tMDegQIARBC",
+            "8": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&ei=1P58YqezF6O4ggfkhZyoCg&start=70&sa=N&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ8tMDegQIARBE",
+            "9": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&ei=1P58YqezF6O4ggfkhZyoCg&start=80&sa=N&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ8tMDegQIARBG",
+            "10": "https://www.google.com/search?q=Soil+contamination&hl=en&gl=US&ei=1P58YqezF6O4ggfkhZyoCg&start=90&sa=N&ved=2ahUKEwin7ZC7_Nn3AhUjnOAKHeQCB6UQ8tMDegQIARBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=20&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=30&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=40&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=50&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=60&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=70&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=80&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Soil+contamination&start=90&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        }
+    }
+}

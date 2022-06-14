@@ -1,0 +1,280 @@
+{
+    "search_metadata": {
+        "id": "629e3d8f36e6a9830fe05ed3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d4d320fec8b6be4e/629e3d8f36e6a9830fe05ed3.json",
+        "created_at": "2022-06-06 17:46:55 UTC",
+        "processed_at": "2022-06-06 17:46:55 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&oq=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d4d320fec8b6be4e/629e3d8f36e6a9830fe05ed3.html",
+        "total_time_taken": 0.77
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Вес",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Вес",
+        "total_results": 188000000,
+        "time_taken_displayed": 0.55
+    },
+    "knowledge_graph": {
+        "title": "Вес",
+        "header_images": [
+            {
+                "source": "https://fizkult-nn.ru/blog/expert/skolko-v-vas-lishnikh-kg-rasschityvaem-indeks-massy-tela/"
+            },
+            {
+                "source": "https://smak.ua/events/tables/78758-ideal-nyj-ves-zhencshiny-tablica"
+            },
+            {
+                "source": "https://otyrar.kz/2018/11/vozrast-i-rost-ves-opredelit-pomozhet-tablica/"
+            },
+            {
+                "source": "https://skrodina.ru/%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B0%D0%B9%D1%82%D0%B8-%D1%81%D0%B2%D0%BE%D0%B9-%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B2%D0%B5%D1%81-5-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BE%D0%B2/"
+            }
+        ],
+        "description": "Вес — сила, с которой тело действует на опору, препятствующую падению, возникающая в поле сил тяжести. Единица измерения веса в Международной системе единиц — ньютон, иногда используется единица СГС — дина.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81"
+        }
+    },
+    "top_stories": [
+        {
+            "title": "Комментарии к материалу Утренние привычки, которые помогают сбросить лишний вес",
+            "link": "https://74.ru/text/health/2022/06/05/71384516/comments/",
+            "source": "74.RU",
+            "date": "17 часов назад",
+            "thumbnail": "https://serpapi.com/searches/629e3d8f36e6a9830fe05ed3/images/f8e8e1a2306d14d083b0b1b590b8b99392666d1dc58346a5.jpeg"
+        },
+        {
+            "title": "Утренние привычки, которые помогают сбросить лишний вес",
+            "link": "https://161.ru/text/health/2022/06/05/71384507/",
+            "source": "161.RU",
+            "date": "1 день назад",
+            "thumbnail": "https://serpapi.com/searches/629e3d8f36e6a9830fe05ed3/images/f8e8e1a2306d14d0962ba0a45741393ca16e6f5ce873af47.jpeg"
+        },
+        {
+            "title": "5 утренних привычек, которые помогают сбросить лишний вес",
+            "link": "https://doctorpiter.ru/obraz-zhizni/5-utrennikh-privychek-kotorye-pomogayut-sbrosit-lishnii-ves-id735062/",
+            "source": "ДокторПитер",
+            "date": "6 дней назад",
+            "thumbnail": "https://serpapi.com/searches/629e3d8f36e6a9830fe05ed3/images/f8e8e1a2306d14d00b921f0702f57ef1d7474b86b01b7bc8.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%92%D0%B5%D1%81&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQt8YBegQIFRAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&tbm=nws",
+    "related_questions": [
+        {
+            "question": "В чем разница веса и массы?",
+            "snippet": "Вес — векторная величина, сила, с которой тело действует на опору или подвес. Масса — скалярная величина, мера инертности тела (инертная масса) либо «заряд» гравитационного поля (гравитационная масса). У этих величин отличаются и единицы измерения (в системе СИ масса измеряется в килограммах, а вес — в ньютонах).",
+            "title": "Вес - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Вес"
+        },
+        {
+            "question": "Какой вес в норме?",
+            "title": "Индекс массы тела (индекс Кетле) - MSD Manuals",
+            "link": "https://www.msdmanuals.com/medical-calculators/BodyMassIndex-ru.htm",
+            "displayed_link": "https://www.msdmanuals.com › BodyMassIndex-ru"
+        },
+        {
+            "question": "Как узнать свой вес по параметрам?",
+            "title": "Современный вариант этой же формулы выглядит немного иначе, но считается более точным:",
+            "link": "https://stoneforest.ru/sport/kak-rasschitat-pravilnyj-ves-cheloveka/",
+            "list": [
+                "Для женщин: Идеальный вес = (Рост (см) — 110)*1,15.",
+                "Для мужчин: Идеальный вес = (Рост (см) — 100)*1,15."
+            ],
+            "displayed_link": "https://stoneforest.ru › sport › kak-rasschitat-pravilnyj-ves..."
+        },
+        {
+            "question": "Как быстро и эффективно избавиться от лишнего веса?",
+            "title": "6 способов избавиться от лишнего веса",
+            "link": "https://mc.today/blogs/pochemu-odni-mogut-est-chto-ugodno-a-drugie-popravlyayutsya-ot-zapaha-edy-6-sposobov-izbavitsya-ot-lishnego-vesa/",
+            "list": [
+                "Правильно питаться. Здоровое питание – это не единоразовая диета, а правильный подбор продуктов в течение жизни. ... ",
+                "Сократить количество быстрых (простых) углеводов. ... ",
+                "Вести дневник питания. ... ",
+                "Заниматься спортом. ... ",
+                "Ходить пешком. ... ",
+                "Спать не меньше чем восемь часов в сутки."
+            ],
+            "displayed_link": "https://mc.today › blogs › pochemu-odni-mogut-est-chto-..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Вес - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Вес",
+            "snippet": "Вес — сила, с которой тело действует на опору (или подвес, или другой вид крепления), препятствующую падению, возникающая в поле сил тяжести.",
+            "snippet_highlighted_words": [
+                "Вес"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Вес (значения) - Википедия",
+                    "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)",
+                    "displayed_link": "https://ru.wikipedia.org › wiki › Вес_(значения)",
+                    "snippet": "Вес — сила воздействия тела на опору или подвес. Удельный вес — отношение веса вещества к его объёму. Статистический вес, в квантовой механике и квантовой ...",
+                    "snippet_highlighted_words": [
+                        "Вес",
+                        "вес",
+                        "веса",
+                        "вес"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "ИМТ-калькулятор: рассчитайте свой идеальный вес - NIVEA",
+            "link": "https://www.nivea.ru/advice/calculator-bmi",
+            "displayed_link": "https://www.nivea.ru › advice › calculator-bmi",
+            "snippet": "ИМТ-калькулятор: рассчитайте свой идеальный вес на сайте NIVEA. Что такое индекс массы тела, как его рассчитать и как добиться своего идеального веса?",
+            "snippet_highlighted_words": [
+                "вес",
+                "веса"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Индекс массы тела (индекс Кетле) - MSD Manuals",
+            "link": "https://www.msdmanuals.com/medical-calculators/BodyMassIndex-ru.htm",
+            "displayed_link": "https://www.msdmanuals.com › BodyMassIndex-ru",
+            "snippet": "ИМТ < 18.5: Ниже нормального веса. ИМТ >= 18.5 И < 25: Нормальный вес. ИМТ >= 25 И < 30: Избыточный вес. ИМТ >= 30 И < 35: Ожирение I степени.",
+            "snippet_highlighted_words": [
+                "веса",
+                "вес",
+                "вес"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Таблица роста и веса: как рассчитать ИМТ по формуле",
+            "link": "https://ria.ru/20220514/ves-1788536975.html",
+            "displayed_link": "https://ria.ru › Новости",
+            "date": "14 мая 2022 г.",
+            "snippet": "По ней можно вычислить идеальные параметры веса при указанном росте. При этом показатели направлены, в первую очередь, на здоровье, а не на ...",
+            "snippet_highlighted_words": [
+                "веса"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "вес — Викисловарь",
+            "link": "https://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%81",
+            "displayed_link": "https://ru.wiktionary.org › wiki › вес",
+            "snippet": "вес (дореформ. вѣсъ) ... подвес ◇ — Но ты представляешь, каков будет вес полуторакилометровой цепи? ... поэтому дома имел её пуд, проверив вес на безмене.",
+            "snippet_highlighted_words": [
+                "вес",
+                "вес",
+                "вес"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "вес - Wiktionary",
+                    "link": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%81",
+                    "displayed_link": "https://en.wiktionary.org › wiki › вес",
+                    "snippet": "BulgarianEdit. EtymologyEdit. From Proto-Slavic *vьsь (“settlement”). Akin to Bulgarian вила (vila, “villa”) (of Latin origin) and further to archaic ..."
+                }
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Лишний вес - Центр гигиенического образования населения",
+            "link": "http://cgon.rospotrebnadzor.ru/content/633/lisnii-ves",
+            "displayed_link": "http://cgon.rospotrebnadzor.ru › content › lisnii-ves",
+            "snippet": "Лишний вес и ожирение — это проблемы не только косметические, но и медицинские, которые являются основными причинами сопутствующих заболеваний, ...",
+            "snippet_highlighted_words": [
+                "вес"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Как набрать вес: 8 способов, советы эксперта | РБК Стиль",
+            "link": "https://style.rbc.ru/health/5c99ddfa9a7947ae3f47953c",
+            "displayed_link": "https://style.rbc.ru › Здоровье",
+            "date": "25 окт. 2021 г.",
+            "snippet": "Общество поощряет борьбу с лишним весом, но порой забывает о не менее важной проблеме — его дефиците. Он тоже может быть чреват серьезными ...",
+            "snippet_highlighted_words": [
+                "весом"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "вес формула",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%92%D0%B5%D1%81+%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0&sa=X&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "масса и вес",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B0%D1%81%D1%81%D0%B0+%D0%B8+%D0%B2%D0%B5%D1%81&sa=X&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "вес расшифровка",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%92%D0%95%D0%A1+%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0&sa=X&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ1QJ6BAguEAE"
+        },
+        {
+            "query": "норма веса",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9D%D0%BE%D1%80%D0%BC%D0%B0+%D0%B2%D0%B5%D1%81%D0%B0&sa=X&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "калькулятор веса",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80+%D0%B2%D0%B5%D1%81%D0%B0&sa=X&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "вес електростанція",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%92%D0%95%D0%A1+%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F&sa=X&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "вес физика",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%92%D0%B5%D1%81+%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0&sa=X&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "в чем измеряется вес",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%92+%D1%87%D0%B5%D0%BC+%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D1%8F%D0%B5%D1%82%D1%81%D1%8F+%D0%B2%D0%B5%D1%81&sa=X&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ1QJ6BAglEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&ei=jz2eYt6PF7urqtsP4eWJ0AU&start=10&sa=N&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&ei=jz2eYt6PF7urqtsP4eWJ0AU&start=10&sa=N&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&ei=jz2eYt6PF7urqtsP4eWJ0AU&start=20&sa=N&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&ei=jz2eYt6PF7urqtsP4eWJ0AU&start=30&sa=N&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&ei=jz2eYt6PF7urqtsP4eWJ0AU&start=40&sa=N&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&ei=jz2eYt6PF7urqtsP4eWJ0AU&start=50&sa=N&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&ei=jz2eYt6PF7urqtsP4eWJ0AU&start=60&sa=N&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&ei=jz2eYt6PF7urqtsP4eWJ0AU&start=70&sa=N&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&ei=jz2eYt6PF7urqtsP4eWJ0AU&start=80&sa=N&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D0%92%D0%B5%D1%81&hl=ru&gl=ru&ei=jz2eYt6PF7urqtsP4eWJ0AU&start=90&sa=N&ved=2ahUKEwiek9T2sJn4AhW7lWoFHeFyAloQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D0%B5%D1%81&start=90"
+        }
+    }
+}

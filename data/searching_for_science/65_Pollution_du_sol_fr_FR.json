@@ -1,0 +1,328 @@
+{
+    "search_metadata": {
+        "id": "627cfff4d04d6d1fd3cf285c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ea1efb0907056860/627cfff4d04d6d1fd3cf285c.json",
+        "created_at": "2022-05-12 12:39:16 UTC",
+        "processed_at": "2022-05-12 12:39:16 UTC",
+        "google_url": "https://www.google.com/search?q=Pollution+du+sol&oq=Pollution+du+sol&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=&hl=fr&gl=FR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ea1efb0907056860/627cfff4d04d6d1fd3cf285c.html",
+        "total_time_taken": 3.49
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Pollution du sol",
+        "uule": "w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=",
+        "google_domain": "google.com",
+        "hl": "fr",
+        "gl": "FR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Pollution du sol",
+        "total_results": 70000000,
+        "time_taken_displayed": 0.48
+    },
+    "knowledge_graph": {
+        "title": "Pollution des sols",
+        "type": "Type de catastrophe",
+        "header_images": [
+            {
+                "source": "https://www.fao.org/news/story/fr/item/1127210/icode/"
+            },
+            {
+                "source": "https://www.jpt-enviro.fr/pollution-des-sols/"
+            },
+            {
+                "source": "https://www.projetecolo.com/solutions-a-la-pollution-des-sols-30.html"
+            },
+            {
+                "source": "http://www.plastechplus.ca/nouvelles/comprendre-differents-types-polluants-des-sols.aspx"
+            },
+            {
+                "source": "http://risquesenvironnementaux-collectivites.oree.org/le-guide/risques-mon-territoire/sante-environnement/pollution-du-sol.html"
+            },
+            {
+                "source": "https://www.alcor-controles.fr/diagnostic-pollution-sols-la-contamination-des-sols/"
+            }
+        ],
+        "description": "La notion de pollution du sol désigne toutes les formes de pollution touchant n'importe quel type de sol, notamment agricole, forestier et urbain.",
+        "source": {
+            "name": "Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/Pollution_des_sols"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Pollution des sols : outils et tutoriels pour les prélèvements et ...",
+            "link": "https://www.brgm.fr/fr/actualite/video/pollution-sols-outils-tutoriels-prelevements-analyses",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDG569K-ojiCwGTWe0GdcdFegY1wxFMkPHSHgH3KmLqY&s",
+            "platform": "BRGM",
+            "date": "30 janv. 2020"
+        },
+        {
+            "position": 2,
+            "title": "Peut-on vivre sur un sol pollué ?",
+            "link": "https://www.youtube.com/watch?v=EQPJ3XS7dlY",
+            "thumbnail": "https://i.ytimg.com/vi/EQPJ3XS7dlY/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3l71K4tLr901ILIxK5Fjuj5A5FdfQ",
+            "channel": "Ministère de la Transition écologique",
+            "duration": "4:27",
+            "platform": "YouTube",
+            "date": "22 mai 2014"
+        },
+        {
+            "position": 3,
+            "title": "7 choses que vous pouvez faire pour prévenir la pollution des ...",
+            "link": "https://www.youtube.com/watch?v=3n_EDZnqp78",
+            "thumbnail": "https://i.ytimg.com/vi/3n_EDZnqp78/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3l3-VNPEDignbGd8gVOXI1HFlvMdg",
+            "channel": "Food and Agriculture Organization of the United Nations",
+            "duration": "0:47",
+            "platform": "YouTube",
+            "date": "20 déc. 2019"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Qu'est-ce que la pollution des sols ?",
+            "snippet": "Les activités industrielles telles que les activités minières, la fonte, la fabrication, les ordures ménagères, les déchets communaux, le bétail, les pesticides, les herbicides, les engrais utilisés dans l'agriculture, les émanations des moyens de transport, les produits dérivés du pétrole qui sont relâchés dans l' ...3 mai 2018",
+            "title": "La pollution des sols est une menace importante pour l ...",
+            "link": "https://news.un.org/fr/story/2018/05/1012902",
+            "displayed_link": "https://news.un.org › story › 2018/05"
+        },
+        {
+            "question": "Quelles sont les causes et les conséquences de la pollution des sols ?",
+            "snippet": "Le sol peut être pollué de façons différentes. Les principales causes de la pollution des sols sont dues à une mauvaise gestion des terres souvent dans l'agriculture, les industries extractives, lors de l'élimination des déchets ménagers ou industriels, mais aussi le trafic routier.3 mai 2019",
+            "title": "Cause de la pollution des sols - Alcor Controles",
+            "link": "https://www.alcor-controles.fr/cause-de-la-pollution-des-sols/",
+            "displayed_link": "https://www.alcor-controles.fr › cause-de-la-pollution-des-..."
+        },
+        {
+            "question": "Quels sont les polluants du sol ?",
+            "snippet": "Les principaux polluants dans les sols sont les métaux lourds (cadmium, cuivre, mercure, plomb, zinc) et les polluants organiques (dioxines et furanes, HAP, PCB). Des teneurs élevées en polluants peuvent avoir des effets sur l'homme, les animaux et les plantes.9 févr. 2022",
+            "title": "Les principaux polluants dans les sols | État de Fribourg",
+            "link": "https://www.fr.ch/energie-agriculture-et-environnement/sol/sols-urbains/les-principaux-polluants-dans-les-sols",
+            "displayed_link": "https://www.fr.ch › sol › sols-urbains › les-principaux-pol..."
+        },
+        {
+            "question": "Comment se fait la pollution des sols ?",
+            "snippet": "Généralement imputée aux activités humaines, cette concentration anormale peut être liée à l'utilisation d'engrais et de pesticides par l'agriculture, au passage d'engins lourds, aux rejets accidentels des industries ou à la multiplication des surfaces bétonnées. Parmi bien d'autres causes.",
+            "title": "Pollution des sols : définition, causes et conséquences",
+            "link": "https://www.conservation-nature.fr/ecologie/la-pollution-des-sols/",
+            "displayed_link": "https://www.conservation-nature.fr › Écologie"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "La pollution des sols Sante - notre-environnement.gouv.fr",
+            "link": "https://www.notre-environnement.gouv.fr/themes/sante/article/la-pollution-des-sols",
+            "displayed_link": "https://www.notre-environnement.gouv.fr › sante › article",
+            "date": "21 juil. 2020",
+            "snippet": "Les métaux (cuivre, plomb, nickel, etc.) ou métalloïdes (bore, arsenic, etc.) sont naturellement présents dans les sols. De fortes ...",
+            "snippet_highlighted_words": [
+                "sols"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Pollution des sols, SIS et anciens sites industriels | Géorisques",
+            "link": "https://www.georisques.gouv.fr/risques/sites-et-sols-pollues/donnees",
+            "displayed_link": "https://www.georisques.gouv.fr › risques › donnees",
+            "snippet": "Rechercher un terrain présentant une potentielle pollution. Sélectionner la catégorie. Information de l'administration concernant des pollutions suspectées ...",
+            "snippet_highlighted_words": [
+                "pollution",
+                "pollutions"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Pollution du sol - Orée - Guide intéractif de la gestion des ...",
+            "link": "http://risquesenvironnementaux-collectivites.oree.org/le-guide/risques-mon-territoire/sante-environnement/pollution-du-sol.html",
+            "displayed_link": "http://risquesenvironnementaux-collectivites.oree.org › ...",
+            "snippet": "On dit qu'un sol est pollué lorsqu'il contient une concentration anormale de composés chimiques potentiellement dangereux pour la santé, des plantes ou des ...",
+            "snippet_highlighted_words": [
+                "sol"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Pollution des sols : définition, causes et conséquences",
+            "link": "https://www.conservation-nature.fr/ecologie/la-pollution-des-sols/",
+            "displayed_link": "https://www.conservation-nature.fr › Écologie",
+            "snippet": "La pollution des sols fait référence à la concentration plus ou moins importante de substances toxiques dans les sols, quel que soit leur type.",
+            "snippet_highlighted_words": [
+                "pollution des sols"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "La qualité d'un sol",
+                        "link": "https://www.conservation-nature.fr/ecologie/la-pollution-des-sols/#La_qualite_dun_sol"
+                    },
+                    {
+                        "title": "Les causes de la pollution des...",
+                        "link": "https://www.conservation-nature.fr/ecologie/la-pollution-des-sols/#Les_causes_de_la_pollution_des_sols"
+                    },
+                    {
+                        "title": "Les conséquences de la...",
+                        "link": "https://www.conservation-nature.fr/ecologie/la-pollution-des-sols/#Les_consequences_de_la_pollution_des_sols"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "mai": 21
+                    },
+                    "extensions": [
+                        "21 mai 2020",
+                        "Ajouté par Conservation Nature"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "Pollution des sols - Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/Pollution_des_sols",
+            "displayed_link": "https://fr.wikipedia.org › wiki › Pollution_des_sols",
+            "snippet": "Pollution des sols · Certaines fumées industrielles chargées de résidus de combustion et de divers polluants sont une des sources de retombées susceptibles de ...",
+            "snippet_highlighted_words": [
+                "Pollution des sols"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Cartographie et registres des...",
+                        "link": "https://fr.wikipedia.org/wiki/Pollution_des_sols#Cartographie_et_registres_des_pollutions"
+                    },
+                    {
+                        "title": "En France",
+                        "link": "https://fr.wikipedia.org/wiki/Pollution_des_sols#En_France"
+                    },
+                    {
+                        "title": "En Europe",
+                        "link": "https://fr.wikipedia.org/wiki/Pollution_des_sols#En_Europe"
+                    },
+                    {
+                        "title": "Solutions, traitements",
+                        "link": "https://fr.wikipedia.org/wiki/Pollution_des_sols#Solutions,_traitements"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 6,
+            "title": "La pollution des sols et des terres : généralisée, nocive et ...",
+            "link": "https://www.eea.europa.eu/fr/signaux/signaux-de-laee-2020/articles/la-pollution-des-sols-et",
+            "displayed_link": "https://www.eea.europa.eu › signaux › articles › la-poll...",
+            "date": "2 mars 2021",
+            "snippet": "La pollution des terres et des sols est aussi un problème mondial. L'air et l'eau peuvent transporter des polluants, notamment des composés ...",
+            "snippet_highlighted_words": [
+                "pollution",
+                "des sols",
+                "polluants"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Sites et sols pollués | Ministère de la Transition écologique",
+            "link": "https://www.ecologie.gouv.fr/sites-et-sols-pollues",
+            "displayed_link": "https://www.ecologie.gouv.fr › sites-et-sols-pollues",
+            "date": "24 févr. 2022",
+            "snippet": "En matière de sites et sols pollués, les démarches de gestion mises en place s'appuient sur les principes suivants : prévenir les pollutions ...",
+            "snippet_highlighted_words": [
+                "sols",
+                "pollutions"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Pollution des sols – Santé publique France",
+            "link": "https://www.santepubliquefrance.fr/determinants-de-sante/pollution-et-sante/sols",
+            "displayed_link": "https://www.santepubliquefrance.fr › pollution-et-sante",
+            "snippet": "Sols : enjeux de santé · Naturelles, liées à la nature géologique des roches et leur évolution dans le temps · Les éléments métalliques, qui sont fréquemment ...",
+            "snippet_highlighted_words": [
+                "Sols"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "La pollution des sols est une menace importante pour l ...",
+            "link": "https://news.un.org/fr/story/2018/05/1012902",
+            "displayed_link": "https://news.un.org › story › 2018/05",
+            "date": "3 mai 2018",
+            "snippet": "La pollution a un impact sur la sécurité alimentaire en perturbant le métabolisme des plantes et donc en réduisant les rendements des récoltes ...",
+            "snippet_highlighted_words": [
+                "pollution"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "pollution du sol définition",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Pollution+du+sol+d%C3%A9finition&sa=X&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q1QJ6BAg8EAE"
+        },
+        {
+            "query": "pollution du sol causes",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Pollution+du+sol+causes&sa=X&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q1QJ6BAg7EAE"
+        },
+        {
+            "query": "pollution du sol conséquences",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Pollution+du+sol+cons%C3%A9quences&sa=X&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q1QJ6BAg6EAE"
+        },
+        {
+            "query": "pollution des sols en france",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Pollution+des+sols+en+France&sa=X&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q1QJ6BAg0EAE"
+        },
+        {
+            "query": "pollution du sol pdf",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Pollution+du+sol+PDF&sa=X&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q1QJ6BAgvEAE"
+        },
+        {
+            "query": "pollution des sols exposé",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Pollution+des+sols+expos%C3%A9&sa=X&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q1QJ6BAgrEAE"
+        },
+        {
+            "query": "pollution du sol par les hydrocarbures",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Pollution+du+sol+par+les+hydrocarbures&sa=X&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q1QJ6BAgpEAE"
+        },
+        {
+            "query": "pollution du sol solution",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Pollution+du+sol+solution&sa=X&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q1QJ6BAgoEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Pollution+du+sol&gl=FR&hl=fr&ei=9f98Yp-dArbBytMPwumF6AQ&start=10&sa=N&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Pollution+du+sol&gl=FR&hl=fr&ei=9f98Yp-dArbBytMPwumF6AQ&start=10&sa=N&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=Pollution+du+sol&gl=FR&hl=fr&ei=9f98Yp-dArbBytMPwumF6AQ&start=20&sa=N&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=Pollution+du+sol&gl=FR&hl=fr&ei=9f98Yp-dArbBytMPwumF6AQ&start=30&sa=N&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=Pollution+du+sol&gl=FR&hl=fr&ei=9f98Yp-dArbBytMPwumF6AQ&start=40&sa=N&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=Pollution+du+sol&gl=FR&hl=fr&ei=9f98Yp-dArbBytMPwumF6AQ&start=50&sa=N&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=Pollution+du+sol&gl=FR&hl=fr&ei=9f98Yp-dArbBytMPwumF6AQ&start=60&sa=N&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=Pollution+du+sol&gl=FR&hl=fr&ei=9f98Yp-dArbBytMPwumF6AQ&start=70&sa=N&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=Pollution+du+sol&gl=FR&hl=fr&ei=9f98Yp-dArbBytMPwumF6AQ&start=80&sa=N&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=Pollution+du+sol&gl=FR&hl=fr&ei=9f98Yp-dArbBytMPwumF6AQ&start=90&sa=N&ved=2ahUKEwjf6-LE_dn3AhW2oHIEHcJ0AU0Q8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=20&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=30&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=40&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=50&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=60&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=70&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=80&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Pollution+du+sol&start=90&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D"
+        }
+    }
+}

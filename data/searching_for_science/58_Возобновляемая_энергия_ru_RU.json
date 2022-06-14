@@ -1,0 +1,240 @@
+{
+    "search_metadata": {
+        "id": "627cff548b7ed2b81b76fe36",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3bf933f1eca0285b/627cff548b7ed2b81b76fe36.json",
+        "created_at": "2022-05-12 12:36:36 UTC",
+        "processed_at": "2022-05-12 12:36:36 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&oq=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&uule=w+CAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE=&hl=ru&gl=RU&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3bf933f1eca0285b/627cff548b7ed2b81b76fe36.html",
+        "total_time_taken": 8.69
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Возобновляемая энергия",
+        "uule": "w+CAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE=",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "RU",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Возобновляемая энергия",
+        "total_results": 327000,
+        "time_taken_displayed": 0.47
+    },
+    "related_questions": [
+        {
+            "question": "Какие источники энергии являются возобновляемыми?",
+            "snippet": "Возобновляемую энергию получают из природных ресурсов, таких как: солнечный свет, водные потоки, ветер, приливы и геотермальная теплота, которые являются возобновляемыми (пополняются естественным путём), а также из биотоплива: древесины, растительного масла, этанола.",
+            "title": "Возобновляемая энергия - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Возобновляемая_энер..."
+        },
+        {
+            "question": "Что такое возобновляемая энергия?",
+            "snippet": "Возобновляемые источники энергии вырабатывают электричество из природных явлений. Таких как солнечный свет, ветер, течение воды, биологические процессы и геотермальные потоки тепла.",
+            "title": "Возобновляемая энергия - En+ Group",
+            "link": "https://enplusgroup.com/ru/what-we-do/power-segment/renewable-energy/",
+            "displayed_link": "https://enplusgroup.com › renewable-energy"
+        },
+        {
+            "question": "Какие источники энергии относятся к невозобновляемым?",
+            "snippet": "Невозобновляемые источники энергии включают ископаемые виды топлива, такие как уголь, нефть и природный газ, и ядерное топливо. Возобновляемые источники энергии не ограничены. Они восстанавливаются природным путем за короткий период времени.",
+            "title": "Энергия - NXplorers",
+            "link": "https://nxplorers.com/ru/nexus/knowledge-expanders/enegry",
+            "displayed_link": "https://nxplorers.com › knowledge-expanders › enegry"
+        },
+        {
+            "question": "Какие есть нетрадиционные источники энергии?",
+            "snippet": "К нетрадиционным источникам энергии относят энергию Солнца, ветра, приливов, морских волн, геотермальную и термоядерную энергию. Особые надежды возлагают на водород, так как он является наиболее перспективным энергоносителем.",
+            "title": "Нетрадиционные источники энергии - География",
+            "link": "https://geographyofrussia.com/netradicionnye-istochniki-energii/",
+            "displayed_link": "https://geographyofrussia.com › netradicionnye-istochniki..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Возобновляемая энергия - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Возобновляемая_энер...",
+            "snippet": "Возобновляемая, или регенеративная, «зелёная», энергия — энергия из энергетических ресурсов, которые являются возобновляемыми или неисчерпаемыми по ...",
+            "snippet_highlighted_words": [
+                "Возобновляемая",
+                "энергия",
+                "энергия",
+                "возобновляемыми"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Что такое Возобновляемые источники энергии (ВИЭ)",
+            "link": "https://neftegaz.ru/tech-library/energoresursy-toplivo/141763-vozobnovlyaemye-istochniki-energii-vie/",
+            "displayed_link": "https://neftegaz.ru › ... › Энергоресурсы, топливо",
+            "date": "1 дек. 2012 г.",
+            "snippet": "Возобновляемая или регенеративная энергия (Зеленая энергия) - Renewable energy - энергия из источников, которые по человеческим понятиям ...",
+            "snippet_highlighted_words": [
+                "Возобновляемая",
+                "энергия",
+                "энергия",
+                "энергия"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Возобновляемая энергия - En+ Group",
+            "link": "https://enplusgroup.com/ru/what-we-do/power-segment/renewable-energy/",
+            "displayed_link": "https://enplusgroup.com › renewable-energy",
+            "thumbnail": "https://serpapi.com/searches/627cff548b7ed2b81b76fe36/images/9ef74ba1271da4488d8d17c0825e762fc458e9af5dd0dd1997c4861325c4b269.jpeg",
+            "snippet": "Возобновляемые источники энергии вырабатывают электричество из природных явлений. Таких как солнечный свет, ветер, течение воды, биологические процессы и ...",
+            "snippet_highlighted_words": [
+                "Возобновляемые",
+                "энергии"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Возобновляемая энергия - Vaillant",
+            "link": "https://www.vaillant.ru/customers/useful-information/renewable-energy/",
+            "displayed_link": "https://www.vaillant.ru › ... › Полезная информация",
+            "thumbnail": "https://serpapi.com/searches/627cff548b7ed2b81b76fe36/images/9ef74ba1271da4488d8d17c0825e762f88753a22a0891fa8f906145bd353c6db.jpeg",
+            "snippet": "Возобновляемую энергию можно извлекать из воды, ветра, солнечного света, геотермического или возобновляемого сырья. В отличие от ископаемых видов топлива, ...",
+            "snippet_highlighted_words": [
+                "Возобновляемую энергию"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Какие возобновляемые источники энергии появятся в ...",
+            "link": "https://www.vedomosti.ru/business/articles/2014/11/25/borba-za-zelenye-stancii",
+            "displayed_link": "https://www.vedomosti.ru › borba-za-zelenye-stancii",
+            "date": "25 нояб. 2014 г.",
+            "snippet": "К возобновляемым источникам энергии (ВИЭ) относят солнце, ветер, воду (кроме крупных ГЭС), геотермальные источники, биотопливо, ...",
+            "snippet_highlighted_words": [
+                "возобновляемым",
+                "энергии"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Как возобновляемые источники энергии могут стать ...",
+            "link": "https://www.un.org/ru/chronicle/article/22064",
+            "displayed_link": "https://www.un.org › chronicle › article",
+            "snippet": "Итоги анализа, проведенного МАВИЭ, показывают, что конкурентоспособность возобновляемых источников энергии имеет свои нюансы.",
+            "snippet_highlighted_words": [
+                "возобновляемых",
+                "энергии"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Альтернативные источники энергии: что надо знать - РБК ...",
+            "link": "https://trends.rbc.ru/trends/green/609e76449a7947f4755ac9dc",
+            "displayed_link": "https://trends.rbc.ru › РБК Тренды › Эко-номика",
+            "snippet": "Возобновляемую энергию получают из устойчивых источников, таких как гидроэнергия, энергия ветра, солнечная энергия, геотермальная энергия, ...",
+            "snippet_highlighted_words": [
+                "Возобновляемую энергию"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Возобновляемая энергия | +1 - Plus-one.ru",
+            "link": "https://plus-one.ru/sustainability/vozobnovlyaemaya-energiya",
+            "displayed_link": "https://plus-one.ru › Устойчивое развитие",
+            "snippet": "Возобновляемая энергия (renewable energy) — это энергия, получаемая из возобновляемых источников. К ним относятся органические ресурсы, которые пополняются ...",
+            "snippet_highlighted_words": [
+                "Возобновляемая энергия"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "В России работает более 200 объектов на ... - Гринпис",
+            "link": "https://greenpeace.ru/blogs/2022/02/22/v-rossii-rabotaet-bolee-200-obektov-na-vozobnovljaemyh-istochnikah-jenergii/",
+            "displayed_link": "https://greenpeace.ru › blogs › 2022/02/22 › v-rossii-ra...",
+            "date": "22 февр. 2022 г.",
+            "snippet": "В России крупные промышленные объекты возобновляемой энергии начали появляться ... кажется, что возобновляемая энергия слишком дорогая.",
+            "snippet_highlighted_words": [
+                "возобновляемой энергии",
+                "возобновляемая энергия"
+            ]
+        },
+        {
+            "position": 10,
+            "title": "это... Что такое Возобновляемая энергия? - Словари и ...",
+            "link": "https://dic.academic.ru/dic.nsf/ruwiki/219740",
+            "displayed_link": "https://dic.academic.ru › dic.nsf › ruwiki",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlB5fWtAgGql2aJaNPBLTXMPJXEMTYmwPXfORi9Akj-Ih70gt_3g9D&usqp=CAE&s",
+            "snippet": "возобновляемая энергия — Энергия, полученная при использовании энергоресурса, запасы которого не уменьшаются вследствие добычи, например, солнечная энергия ( ...",
+            "snippet_highlighted_words": [
+                "возобновляемая энергия"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "невозобновляемые источники энергии",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%9D%D0%B5%D0%B2%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5+%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8&sa=X&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q1QJ6BAhSEAE"
+        },
+        {
+            "query": "возобновляемая энергия плюсы и минусы",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F+%D0%BF%D0%BB%D1%8E%D1%81%D1%8B+%D0%B8+%D0%BC%D0%B8%D0%BD%D1%83%D1%81%D1%8B&sa=X&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q1QJ6BAhREAE"
+        },
+        {
+            "query": "возобновляемая энергия в россии",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F+%D0%B2+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&sa=X&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q1QJ6BAhQEAE"
+        },
+        {
+            "query": "возобновляемая энергия перевод",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F+%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4&sa=X&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q1QJ6BAhOEAE"
+        },
+        {
+            "query": "возобновляемая энергия эссе",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F+%D1%8D%D1%81%D1%81%D0%B5&sa=X&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q1QJ6BAhCEAE"
+        },
+        {
+            "query": "возобновляемая энергия акции",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F+%D0%B0%D0%BA%D1%86%D0%B8%D0%B8&sa=X&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q1QJ6BAg7EAE"
+        },
+        {
+            "query": "возобновляемая энергия в германии",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F+%D0%B2+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8&sa=X&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q1QJ6BAg4EAE"
+        },
+        {
+            "query": "возобновляемые и невозобновляемые источники энергии",
+            "link": "https://www.google.com/search?hl=ru&gl=RU&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5+%D0%B8+%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5+%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8&sa=X&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q1QJ6BAg3EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&hl=ru&gl=RU&ei=XP98YojfCsG5gge7mZXwBw&start=10&sa=N&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&hl=ru&gl=RU&ei=XP98YojfCsG5gge7mZXwBw&start=10&sa=N&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&hl=ru&gl=RU&ei=XP98YojfCsG5gge7mZXwBw&start=20&sa=N&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&hl=ru&gl=RU&ei=XP98YojfCsG5gge7mZXwBw&start=30&sa=N&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&hl=ru&gl=RU&ei=XP98YojfCsG5gge7mZXwBw&start=40&sa=N&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&hl=ru&gl=RU&ei=XP98YojfCsG5gge7mZXwBw&start=50&sa=N&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&hl=ru&gl=RU&ei=XP98YojfCsG5gge7mZXwBw&start=60&sa=N&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&hl=ru&gl=RU&ei=XP98YojfCsG5gge7mZXwBw&start=70&sa=N&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&hl=ru&gl=RU&ei=XP98YojfCsG5gge7mZXwBw&start=80&sa=N&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&hl=ru&gl=RU&ei=XP98YojfCsG5gge7mZXwBw&start=90&sa=N&ved=2ahUKEwiI_fD7_Nn3AhXBnOAKHbtMBX4Q8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=10&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=10&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=10&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=20&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=30&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=40&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=50&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=60&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=70&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=80&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%92%D0%BE%D0%B7%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F&start=90&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D"
+        }
+    }
+}

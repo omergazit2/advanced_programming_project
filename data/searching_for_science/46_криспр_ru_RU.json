@@ -1,0 +1,229 @@
+{
+    "search_metadata": {
+        "id": "629e3d3633b236a880baeb4f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ebd9f603ccf7fb2a/629e3d3633b236a880baeb4f.json",
+        "created_at": "2022-06-06 17:45:26 UTC",
+        "processed_at": "2022-06-06 17:45:26 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&oq=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ebd9f603ccf7fb2a/629e3d3633b236a880baeb4f.html",
+        "total_time_taken": 1.47
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "криспр",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "криспр",
+        "total_results": 2330,
+        "time_taken_displayed": 0.5
+    },
+    "knowledge_graph": {
+        "title": "CRISPR",
+        "header_images": [
+            {
+                "source": "https://www.cambridge.org/core/journals/mrs-bulletin/news/crispr-implications-for-materials-science"
+            },
+            {
+                "source": "https://ru.wikipedia.org/wiki/CRISPR"
+            },
+            {
+                "source": "https://ru.wikipedia.org/wiki/CRISPR"
+            },
+            {
+                "source": "https://ru.wikipedia.org/wiki/CRISPR"
+            },
+            {
+                "source": "https://biomolecula.ru/articles/prosto-o-slozhnom-crispr-cas"
+            },
+            {
+                "source": "https://ru.wikipedia.org/wiki/CRISPR"
+            }
+        ],
+        "description": "CRISPR — особые локусы бактерий и архей, состоящие из прямых повторяющихся последовательностей, которые разделены уникальными последовательностями. Спейсеры заимствуются из чужеродных генетических элементов, с которыми сталкивалась клетка.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/CRISPR"
+        }
+    },
+    "related_questions": [
+        {
+            "question": "Что такое технология Криспер?",
+            "snippet": "Технология CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) произносится как \"криспер\" и представляет собой биологическую систему для изменения ДНК. Технология эта, известная также как генная инженерия, может изменить будущее всей планеты.8 июн. 2016 г.",
+            "title": "Технология редактирования генов, способная изменить наше будущее",
+            "link": "https://www.bbc.com/ukrainian/ukraine_in_russian/2016/06/160608_ru_s_crisper_dna_editing",
+            "displayed_link": "https://www.bbc.com › 160608_ru_s_crisper_dna_editing"
+        },
+        {
+            "question": "Что такое геном?",
+            "snippet": "Гено́м — совокупность наследственного материала, заключённого в клетке организма. Геном содержит биологическую информацию, необходимую для построения и поддержания организма.",
+            "title": "Геном - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%BE%D0%BC",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Геном"
+        },
+        {
+            "question": "Как расшифровывается CRISPR?",
+            "snippet": "CRISPR (от англ. clustered regularly interspaced short palindromic repeats — короткие палиндромные повторы, регулярно расположенные группами) — особые локусы бактерий и архей, состоящие из прямых повторяющихся последовательностей, которые разделены уникальными последовательностями (спейсерами).",
+            "title": "CRISPR - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/CRISPR",
+            "displayed_link": "https://ru.wikipedia.org › wiki › CRISPR"
+        },
+        {
+            "question": "Как работает CRISPR?",
+            "snippet": "Это работает так: кусочки ДНК бактериофагов сохраняются в ДНК бактерий в виде CRISPR-массивов. Затем они превращаются в РНК. В этом же куске генома у бактерий кодируется так называемая тракр-РНК (tracrRNA). Вместе они формируют guideRNA, или наводящую РНК, которая затем объединяется с белком Cas9.21 янв. 2021 г.",
+            "title": "CRISPR для чайников, или Краткая справка по быстрому ...",
+            "link": "https://habr.com/ru/company/leader-id/blog/538374/",
+            "displayed_link": "https://habr.com › company › leader-id › blog"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "CRISPR - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/CRISPR",
+            "displayed_link": "https://ru.wikipedia.org › wiki › CRISPR",
+            "snippet": "CRISPR (от англ. clustered regularly interspaced short palindromic repeats — короткие палиндромные повторы, регулярно расположенные группами) — особые ..."
+        },
+        {
+            "position": 2,
+            "title": "CRISPR «для чайников»: краткий путеводитель по главной ...",
+            "link": "https://hightech.plus/2018/07/25/crispr-dlya-chainikov-kratkii-putevoditel-po-glavnoi-bitehnologii",
+            "displayed_link": "https://hightech.plus › 2018/07/25 › crispr-dlya-chainik...",
+            "date": "25 июл. 2018 г.",
+            "snippet": "Говоря вкратце, CRISPR — точнее, CRISPR/Cas9 — мощный инструмент редактирования геномов. Он основан на элементе защитной системы бактерий, ..."
+        },
+        {
+            "position": 3,
+            "title": "Редактирование генома с CRISPR/Cas9 - ПостНаука",
+            "link": "https://postnauka.ru/faq/59807",
+            "displayed_link": "https://postnauka.ru › faq",
+            "date": "15 февр. 2016 г.",
+            "snippet": "CRISPR/Cas9 — это новая технология редактирования геномов высших организмов, базирующаяся на иммунной системе бактерий."
+        },
+        {
+            "position": 4,
+            "title": "Технология CRISPR в иммунотерапии - Beckman Coulter",
+            "link": "https://www.mybeckman.ru/resources/research-areas/immunotherapy/using-crispr",
+            "displayed_link": "https://www.mybeckman.ru › resources › using-crispr",
+            "snippet": "Системы CRISPR (кластерные короткие палиндромные повторы, разделённые регулярными промежутками) рассекают двухспиральную ДНК, запуская механизм восстановления ..."
+        },
+        {
+            "position": 5,
+            "title": "CRISPR для чайников, или Краткая справка по быстрому ...",
+            "link": "https://habr.com/ru/company/leader-id/blog/538374/",
+            "displayed_link": "https://habr.com › company › leader-id › blog",
+            "date": "21 янв. 2021 г.",
+            "snippet": "Аббревиатура CRISPR появилась в конце 80-х в ходе исследований солончаков рядом с испанским городом Аликанте. Аспирант Франсиско Мохика изучал ..."
+        },
+        {
+            "position": 6,
+            "title": "Совершенная технология изменения ДНК встревожила ...",
+            "link": "https://lenta.ru/news/2021/04/13/crispr/",
+            "displayed_link": "https://lenta.ru › news › 2021/04/13 › crispr",
+            "date": "13 апр. 2021 г.",
+            "snippet": "CRISPR-Cas9 представляет собой генетические «ножницы», чьи бактерии используют в борьбе с вирусами. Ученые с помощью этого изменяют нуклеотидную ..."
+        },
+        {
+            "position": 7,
+            "title": "Премия главным редакторам генома - Ведомости",
+            "link": "https://www.vedomosti.ru/technology/articles/2020/10/09/842620-premiya-glavnim",
+            "displayed_link": "https://www.vedomosti.ru › 842620-premiya-glavnim",
+            "date": "9 окт. 2020 г.",
+            "snippet": "CRISPR/Cas9 – не единственный, но самый совершенный из существующих сегодня инструментов редактирования генома. Технология позволяет удалять ..."
+        },
+        {
+            "position": 8,
+            "title": "Просто о сложном: CRISPR/Cas - «Биомолекула»",
+            "link": "https://biomolecula.ru/articles/prosto-o-slozhnom-crispr-cas",
+            "displayed_link": "https://biomolecula.ru › prosto-o-slozhnom-crispr-cas",
+            "date": "24 нояб. 2016 г.",
+            "snippet": "Инфографика на конкурс «био/мол/текст»: CRISPR/Cas — система адаптивного иммунитета бактерий и архей, которая пригодилась и эукариотам."
+        },
+        {
+            "position": 9,
+            "title": "CRISPR/CAS9: что значит для человечества переход от ...",
+            "link": "https://www.forbes.ru/tehnologii/333985-crisprcas9-chto-znachit-dlya-chelovechestva-perehod-ot-chteniya-genoma-k-ego",
+            "displayed_link": "https://www.forbes.ru › tehnologii › 333985-crisprcas9...",
+            "date": "30 нояб. 2016 г.",
+            "snippet": "Способы редактирования генов в геномах живых существ изучаются с начала XX века – еще с открытия механизма индуцированного мутагенеза (то есть ..."
+        },
+        {
+            "position": 10,
+            "title": "Ученые сообщили об опасности редактирования генома ...",
+            "link": "https://www.gazeta.ru/science/2020/10/30_a_13339825.shtml",
+            "displayed_link": "https://www.gazeta.ru › science › 2020/10",
+            "date": "30 окт. 2020 г.",
+            "snippet": "Когда вирус инфицирует бактерию, CRISPR-Cas9 вырезает фрагмент чужеродной ДНК и сохраняет в геноме бактерии. Столкнувшись с вирусом в следующий ..."
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "crispr-cas9",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=CRISPR-Cas9&sa=X&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "crispr простыми словами",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=CRISPR+%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8+%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8&sa=X&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "crispr/cas9 стоимость",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=crispr/cas9+%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&sa=X&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "crispr дети",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=CRISPR+%D0%B4%D0%B5%D1%82%D0%B8&sa=X&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "crispr терапия",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=CRISPR+%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F&sa=X&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "crispr/cas9 технология",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=CRISPR/Cas9+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F&sa=X&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "crispr/cas это",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=CRISPR/Cas+%D1%8D%D1%82%D0%BE&sa=X&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "crispr/cas9 купить",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=crispr/cas9+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C&sa=X&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ1QJ6BAgoEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&gl=ru&hl=ru&ei=Nj2eYv3fLYqKp8kP2I6siA4&start=10&sa=N&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&gl=ru&hl=ru&ei=Nj2eYv3fLYqKp8kP2I6siA4&start=10&sa=N&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&gl=ru&hl=ru&ei=Nj2eYv3fLYqKp8kP2I6siA4&start=20&sa=N&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&gl=ru&hl=ru&ei=Nj2eYv3fLYqKp8kP2I6siA4&start=30&sa=N&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&gl=ru&hl=ru&ei=Nj2eYv3fLYqKp8kP2I6siA4&start=40&sa=N&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&gl=ru&hl=ru&ei=Nj2eYv3fLYqKp8kP2I6siA4&start=50&sa=N&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&gl=ru&hl=ru&ei=Nj2eYv3fLYqKp8kP2I6siA4&start=60&sa=N&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&gl=ru&hl=ru&ei=Nj2eYv3fLYqKp8kP2I6siA4&start=70&sa=N&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&gl=ru&hl=ru&ei=Nj2eYv3fLYqKp8kP2I6siA4&start=80&sa=N&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&gl=ru&hl=ru&ei=Nj2eYv3fLYqKp8kP2I6siA4&start=90&sa=N&ved=2ahUKEwj90rLMsJn4AhUKxSkDHVgHC-EQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D1%80%D0%B8%D1%81%D0%BF%D1%80&start=90"
+        }
+    }
+}

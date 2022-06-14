@@ -1,0 +1,216 @@
+{
+    "search_metadata": {
+        "id": "629e3d6efe41d0a56dc323fe",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/dd4969ac562adda1/629e3d6efe41d0a56dc323fe.json",
+        "created_at": "2022-06-06 17:46:22 UTC",
+        "processed_at": "2022-06-06 17:46:22 UTC",
+        "google_url": "https://www.google.com/search?q=mRNA&oq=mRNA&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/dd4969ac562adda1/629e3d6efe41d0a56dc323fe.html",
+        "total_time_taken": 0.62
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "mRNA",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "mRNA",
+        "total_results": 338000000,
+        "time_taken_displayed": 0.45
+    },
+    "knowledge_graph": {
+        "title": "mRNA",
+        "image": "https://serpapi.com/searches/629e3d6efe41d0a56dc323fe/images/845075739b2348b9f8127977e72671216ea55f0039abf309.jpeg",
+        "description": "mRNA הוא אחד מסוגי ה-RNA, הנמצאים בתאיהם של יצורים חיים. הוא התגלה במחקרים בשנים 1947–1961.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/MRNA"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "What is mRNA, and how does it work?",
+            "link": "https://www.youtube.com/watch?v=A7gSWqpXRsc",
+            "thumbnail": "https://serpapi.com/searches/629e3d6efe41d0a56dc323fe/images/98ea2cdc7b72223fa90a2995bc637a7b9f6c65574d7707861838ddd13d110409.jpeg",
+            "channel": "UNSW",
+            "duration": "1:19",
+            "platform": "YouTube",
+            "date": "21 במרץ 2022"
+        },
+        {
+            "position": 2,
+            "title": "How mRNA Medicine Will Change the World | Melissa J ...",
+            "link": "https://www.youtube.com/watch?v=h5D3mv8ewCY",
+            "thumbnail": "https://serpapi.com/searches/629e3d6efe41d0a56dc323fe/images/98ea2cdc7b72223fcb107e0bc03192cd166ab9e86c5460ace85cf43247e93555.jpeg",
+            "channel": "TED",
+            "duration": "18:04",
+            "platform": "YouTube",
+            "date": "לפני 3 שבועות"
+        },
+        {
+            "position": 3,
+            "title": "Video: How do COVID-19 mRNA vaccines work?",
+            "link": "https://www.ecdc.europa.eu/en/publications-data/video-how-do-covid-19-mrna-vaccines-work",
+            "thumbnail": "https://serpapi.com/searches/629e3d6efe41d0a56dc323fe/images/98ea2cdc7b72223f722141cf436192687d104441ac6024d7b7d038ad5559cd94.jpeg",
+            "channel": "ECDC",
+            "duration": "2:35",
+            "platform": "ECDC",
+            "date": "לפני חודש"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "mRNA - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/MRNA",
+            "displayed_link": "https://he.wikipedia.org › wiki › MRNA",
+            "snippet": "mRNA (קיצור באנגלית של Messenger RNA; בעברית: רנ\"א שָׁלִיחַ ) הוא אחד מסוגי ה-RNA, הנמצאים בתאיהם של יצורים חיים. מסלול ה-mRNA בתא איקריוטי.",
+            "snippet_highlighted_words": [
+                "mRNA",
+                "Messenger RNA",
+                "mRNA"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "מה זה חיסון RNA? - מדעת",
+            "link": "https://www.midaat.org.il/articles/diseases/covid19/rna_vaccine/",
+            "displayed_link": "https://www.midaat.org.il › covid19 › rna_vaccine",
+            "snippet": "מהם היתרונות של חיסוני mRNA? תהליך הייצור של mRNA נעשה באופן מלאכותי, ללא צורך לגדל את הנגיף עצמו במעבדה כדי להפיק ממנו את החלבונים. כלומר, ברגע שרצף ה-RNA ...",
+            "snippet_highlighted_words": [
+                "mRNA",
+                "mRNA"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Messenger RNA (mRNA) - National Human Genome ...",
+            "link": "https://www.genome.gov/genetics-glossary/messenger-rna",
+            "displayed_link": "https://www.genome.gov › genetics-glossary",
+            "date": "לפני 3 ימים",
+            "snippet": "Messenger RNA (abbreviated mRNA) is a type of single-stranded RNA involved in protein synthesis. mRNA is made from a DNA template during the ...",
+            "snippet_highlighted_words": [
+                "Messenger RNA",
+                "mRNA",
+                "mRNA"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Transfer RNA (tRNA)",
+                        "link": "https://www.genome.gov/genetics-glossary/Transfer-RNA"
+                    },
+                    {
+                        "title": "Transcription",
+                        "link": "https://www.genome.gov/genetics-glossary/Transcription"
+                    },
+                    {
+                        "title": "Ribonucleic Acid (RNA)",
+                        "link": "https://www.genome.gov/genetics-glossary/RNA-Ribonucleic-Acid"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "חיסונים נגד קורונה - מהם חיסוני mRNA? - קופת חולים לאומית",
+            "link": "https://www.leumit.co.il/heb/Life/FamilyHealth/familyhealth/coronavirus/Covid19Vaccination/articlegalleryitem,5175",
+            "displayed_link": "https://www.leumit.co.il › Life › articlegalleryitem,5175",
+            "snippet": "חיסון mRNA. בחיסונים המוכרים לנו עד היום יש שימוש בווירוסים או חיידקים בתצורות שונות (שלמים או חלקים מהם, מוחלשים או מומתים), על מנת לעורר תגובה חיסונית ...",
+            "snippet_highlighted_words": [
+                "mRNA"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Understanding mRNA COVID-19 Vaccines | CDC",
+            "link": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html",
+            "displayed_link": "https://www.cdc.gov › different-vaccines",
+            "snippet": "Understand how Messenger RNA (mRNA) COVID-19 vaccines teach cells to make a protein that will trigger an immune response inside our bodies.",
+            "snippet_highlighted_words": [
+                "Messenger RNA",
+                "mRNA"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Science of mRNA - Moderna",
+            "link": "https://www.modernatx.com/power-of-mrna/science-of-mrna?",
+            "displayed_link": "https://www.modernatx.com › power-of-mrna",
+            "snippet": "Messenger RNA–or mRNA–exists in all of the cells in your body. It is an essential component of all living organisms and has been in cells for billions of years.",
+            "snippet_highlighted_words": [
+                "Messenger RNA",
+                "mRNA"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "הישראלי שהיה בין מפתחי שיטת mRNA: \"לחיסוני הילדים יש חשיבות ...",
+            "link": "https://www.ynet.co.il/health/article/rjmz0rtfk",
+            "displayed_link": "https://www.ynet.co.il › health › article",
+            "date": "7 בדצמ׳ 2021",
+            "snippet": "פרופ' ליאור זנגי נמנה עם מפתחי הטכנולוגיה שעליה מבוסס החיסון נגד הקורונה. בראיון לאולפן ynet אמר: \"חיסוני ה-mRNA הם הקאדילק של החיסונים: הם ...",
+            "snippet_highlighted_words": [
+                "mRNA"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "חיסוני mRNA: לא טכנולוגיה חדשה - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/askexpert/%D7%97%D7%99%D7%A1%D7%95%D7%A0%D7%99-mrna-%D7%9C%D7%90-%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%97%D7%93%D7%A9%D7%94",
+            "displayed_link": "https://davidson.weizmann.ac.il › online › askexpert › ח...",
+            "date": "30 בדצמ׳ 2020",
+            "snippet": "בעיות בטיחות לא נמצאו עד כה בניסויים שבדקו את הטכנולוגיה הזאת. חיסוני mRNA לקורונה | צילום: Elzbieta Krzysztof, Shutterstock ידע רב שנצבר בשני ...",
+            "snippet_highlighted_words": [
+                "mRNA"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "Moderna, Inc. (MRNA) Stock Price, News, Quote & History",
+            "link": "https://finance.yahoo.com/quote/MRNA/",
+            "displayed_link": "https://finance.yahoo.com › quote › MRNA",
+            "snippet": "Find the latest Moderna, Inc. (MRNA) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+            "snippet_highlighted_words": [
+                "MRNA"
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=mRNA&gl=il&hl=iw&ei=bj2eYvHvM7qhqtsPtOC-uAY&start=10&sa=N&ved=2ahUKEwjx3pLnsJn4AhW6kGoFHTSwD2cQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=mRNA&gl=il&hl=iw&ei=bj2eYvHvM7qhqtsPtOC-uAY&start=10&sa=N&ved=2ahUKEwjx3pLnsJn4AhW6kGoFHTSwD2cQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=mRNA&gl=il&hl=iw&ei=bj2eYvHvM7qhqtsPtOC-uAY&start=20&sa=N&ved=2ahUKEwjx3pLnsJn4AhW6kGoFHTSwD2cQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=mRNA&gl=il&hl=iw&ei=bj2eYvHvM7qhqtsPtOC-uAY&start=30&sa=N&ved=2ahUKEwjx3pLnsJn4AhW6kGoFHTSwD2cQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=mRNA&gl=il&hl=iw&ei=bj2eYvHvM7qhqtsPtOC-uAY&start=40&sa=N&ved=2ahUKEwjx3pLnsJn4AhW6kGoFHTSwD2cQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=mRNA&gl=il&hl=iw&ei=bj2eYvHvM7qhqtsPtOC-uAY&start=50&sa=N&ved=2ahUKEwjx3pLnsJn4AhW6kGoFHTSwD2cQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=mRNA&gl=il&hl=iw&ei=bj2eYvHvM7qhqtsPtOC-uAY&start=60&sa=N&ved=2ahUKEwjx3pLnsJn4AhW6kGoFHTSwD2cQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=mRNA&gl=il&hl=iw&ei=bj2eYvHvM7qhqtsPtOC-uAY&start=70&sa=N&ved=2ahUKEwjx3pLnsJn4AhW6kGoFHTSwD2cQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=mRNA&gl=il&hl=iw&ei=bj2eYvHvM7qhqtsPtOC-uAY&start=80&sa=N&ved=2ahUKEwjx3pLnsJn4AhW6kGoFHTSwD2cQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=mRNA&gl=il&hl=iw&ei=bj2eYvHvM7qhqtsPtOC-uAY&start=90&sa=N&ved=2ahUKEwjx3pLnsJn4AhW6kGoFHTSwD2cQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=mRNA&start=90"
+        }
+    }
+}

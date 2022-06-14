@@ -1,0 +1,282 @@
+{
+    "search_metadata": {
+        "id": "629e37cff8f5f7d71857ed0a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/478790eb1af41659/629e37cff8f5f7d71857ed0a.json",
+        "created_at": "2022-06-06 17:22:23 UTC",
+        "processed_at": "2022-06-06 17:22:23 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&oq=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/478790eb1af41659/629e37cff8f5f7d71857ed0a.html",
+        "total_time_taken": 3.24
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Среда",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Среда",
+        "total_results": 128000000,
+        "time_taken_displayed": 0.45
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=Ov2AeeTLQZwe0M%252CF_8OYtx24m8mhM%252C_%253BApWxLbRrg-2FPM%252COJaTtu7DMCh0yM%252C_%253BZc5VpCMp0dLDkM%252CrYtVv1TU7qBDQM%252C_%253BjEpdxsmYxcHc1M%252CGzIcdXmugX3-lM%252C_%253BJ7gW4YyYFZ6pXM%252Cr8lhB1AAqRc22M%252C_%253BDa8gKP1WGKbJdM%252CmYnoDC3lUGoNCM%252C_%253BUOnCoKaT5-rSMM%252CF1jgKv5z1E3cTM%252C_%253Bz0KNNTcHofTVhM%252CVQATa0lH1B3aMM%252C_%253BXfaOS92B4N7v4M%252C_M_LNAFdF9QgcM%252C_%253BbBTWuXKPiBxBPM%252CZ4mLQosbnAP60M%252C_&usg=AI4_-kTqViz3QfIhbiRAlW0GH-aIJ6F0ow&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ9QF6BAgtEAE#imgrc=Ov2AeeTLQZwe0M",
+            "source": "https://bonnycards.ru/menu/sreda.php",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2O76GszFly1fnRn5c1snYKjXt7zZNQh8F4uqljWENlA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=Ov2AeeTLQZwe0M%252CF_8OYtx24m8mhM%252C_%253BApWxLbRrg-2FPM%252COJaTtu7DMCh0yM%252C_%253BZc5VpCMp0dLDkM%252CrYtVv1TU7qBDQM%252C_%253BjEpdxsmYxcHc1M%252CGzIcdXmugX3-lM%252C_%253BJ7gW4YyYFZ6pXM%252Cr8lhB1AAqRc22M%252C_%253BDa8gKP1WGKbJdM%252CmYnoDC3lUGoNCM%252C_%253BUOnCoKaT5-rSMM%252CF1jgKv5z1E3cTM%252C_%253Bz0KNNTcHofTVhM%252CVQATa0lH1B3aMM%252C_%253BXfaOS92B4N7v4M%252C_M_LNAFdF9QgcM%252C_%253BbBTWuXKPiBxBPM%252CZ4mLQosbnAP60M%252C_&usg=AI4_-kTqViz3QfIhbiRAlW0GH-aIJ6F0ow&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ9QF6BAgwEAE#imgrc=ApWxLbRrg-2FPM",
+            "source": "https://invirostov.livejournal.com/141120.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7HUME5vUW5-DrQ98g1VXhieFskKI6fRgD5KseNe9QJQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=Ov2AeeTLQZwe0M%252CF_8OYtx24m8mhM%252C_%253BApWxLbRrg-2FPM%252COJaTtu7DMCh0yM%252C_%253BZc5VpCMp0dLDkM%252CrYtVv1TU7qBDQM%252C_%253BjEpdxsmYxcHc1M%252CGzIcdXmugX3-lM%252C_%253BJ7gW4YyYFZ6pXM%252Cr8lhB1AAqRc22M%252C_%253BDa8gKP1WGKbJdM%252CmYnoDC3lUGoNCM%252C_%253BUOnCoKaT5-rSMM%252CF1jgKv5z1E3cTM%252C_%253Bz0KNNTcHofTVhM%252CVQATa0lH1B3aMM%252C_%253BXfaOS92B4N7v4M%252C_M_LNAFdF9QgcM%252C_%253BbBTWuXKPiBxBPM%252CZ4mLQosbnAP60M%252C_&usg=AI4_-kTqViz3QfIhbiRAlW0GH-aIJ6F0ow&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ9QF6BAhEEAE#imgrc=Zc5VpCMp0dLDkM",
+            "source": "https://www.pinterest.com/oksanasuhanova4723/%D1%81%D1%80%D0%B5%D0%B4%D0%B0/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8-_CaO4zP7V5eaioTvRfhZ6pNkfNuBP19aoJy8x0u&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=Ov2AeeTLQZwe0M%252CF_8OYtx24m8mhM%252C_%253BApWxLbRrg-2FPM%252COJaTtu7DMCh0yM%252C_%253BZc5VpCMp0dLDkM%252CrYtVv1TU7qBDQM%252C_%253BjEpdxsmYxcHc1M%252CGzIcdXmugX3-lM%252C_%253BJ7gW4YyYFZ6pXM%252Cr8lhB1AAqRc22M%252C_%253BDa8gKP1WGKbJdM%252CmYnoDC3lUGoNCM%252C_%253BUOnCoKaT5-rSMM%252CF1jgKv5z1E3cTM%252C_%253Bz0KNNTcHofTVhM%252CVQATa0lH1B3aMM%252C_%253BXfaOS92B4N7v4M%252C_M_LNAFdF9QgcM%252C_%253BbBTWuXKPiBxBPM%252CZ4mLQosbnAP60M%252C_&usg=AI4_-kTqViz3QfIhbiRAlW0GH-aIJ6F0ow&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ9QF6BAg9EAE#imgrc=jEpdxsmYxcHc1M",
+            "source": "https://kak-pravilno-plus.ru/2016/01/03/%D0%BF%D0%BE-%D1%81%D1%80%D0%B5%D0%B4%D0%B0%D0%BC-%D0%B8%D0%BB%D0%B8-%D1%81%D1%80%D0%B5%D0%B4%D0%B0%D0%BC/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDiQb5o6c_HLpB7D4Jo4gBPz7aYk9Ov2p9Jk-O8qBUw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=Ov2AeeTLQZwe0M%252CF_8OYtx24m8mhM%252C_%253BApWxLbRrg-2FPM%252COJaTtu7DMCh0yM%252C_%253BZc5VpCMp0dLDkM%252CrYtVv1TU7qBDQM%252C_%253BjEpdxsmYxcHc1M%252CGzIcdXmugX3-lM%252C_%253BJ7gW4YyYFZ6pXM%252Cr8lhB1AAqRc22M%252C_%253BDa8gKP1WGKbJdM%252CmYnoDC3lUGoNCM%252C_%253BUOnCoKaT5-rSMM%252CF1jgKv5z1E3cTM%252C_%253Bz0KNNTcHofTVhM%252CVQATa0lH1B3aMM%252C_%253BXfaOS92B4N7v4M%252C_M_LNAFdF9QgcM%252C_%253BbBTWuXKPiBxBPM%252CZ4mLQosbnAP60M%252C_&usg=AI4_-kTqViz3QfIhbiRAlW0GH-aIJ6F0ow&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ9QF6BAg-EAE#imgrc=J7gW4YyYFZ6pXM",
+            "source": "http://ecolab-d.ru/biotexnovacziya/test-1/sreda-saburo.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuAPdMkP3PRKvKVGBgH7IKgdGL8p_vPhMQK8cPJmf&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=Ov2AeeTLQZwe0M%252CF_8OYtx24m8mhM%252C_%253BApWxLbRrg-2FPM%252COJaTtu7DMCh0yM%252C_%253BZc5VpCMp0dLDkM%252CrYtVv1TU7qBDQM%252C_%253BjEpdxsmYxcHc1M%252CGzIcdXmugX3-lM%252C_%253BJ7gW4YyYFZ6pXM%252Cr8lhB1AAqRc22M%252C_%253BDa8gKP1WGKbJdM%252CmYnoDC3lUGoNCM%252C_%253BUOnCoKaT5-rSMM%252CF1jgKv5z1E3cTM%252C_%253Bz0KNNTcHofTVhM%252CVQATa0lH1B3aMM%252C_%253BXfaOS92B4N7v4M%252C_M_LNAFdF9QgcM%252C_%253BbBTWuXKPiBxBPM%252CZ4mLQosbnAP60M%252C_&usg=AI4_-kTqViz3QfIhbiRAlW0GH-aIJ6F0ow&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ9QF6BAg_EAE#imgrc=Da8gKP1WGKbJdM",
+            "source": "https://www.restoclub.ru/spb/place/chacha/news/sreda-malenkaja-pjatnica-4",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73UYYB7_wSv4HiH1XTk1Tf1pqzRziXbZjKvGTivqE1g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=Ov2AeeTLQZwe0M%252CF_8OYtx24m8mhM%252C_%253BApWxLbRrg-2FPM%252COJaTtu7DMCh0yM%252C_%253BZc5VpCMp0dLDkM%252CrYtVv1TU7qBDQM%252C_%253BjEpdxsmYxcHc1M%252CGzIcdXmugX3-lM%252C_%253BJ7gW4YyYFZ6pXM%252Cr8lhB1AAqRc22M%252C_%253BDa8gKP1WGKbJdM%252CmYnoDC3lUGoNCM%252C_%253BUOnCoKaT5-rSMM%252CF1jgKv5z1E3cTM%252C_%253Bz0KNNTcHofTVhM%252CVQATa0lH1B3aMM%252C_%253BXfaOS92B4N7v4M%252C_M_LNAFdF9QgcM%252C_%253BbBTWuXKPiBxBPM%252CZ4mLQosbnAP60M%252C_&usg=AI4_-kTqViz3QfIhbiRAlW0GH-aIJ6F0ow&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ9QF6BAhAEAE#imgrc=UOnCoKaT5-rSMM",
+            "source": "https://vk.com/sreda.place",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNGMnPb9gW5L_gmB4S3ZXr_aOqFOpeTWROaiPcjyp&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=Ov2AeeTLQZwe0M%252CF_8OYtx24m8mhM%252C_%253BApWxLbRrg-2FPM%252COJaTtu7DMCh0yM%252C_%253BZc5VpCMp0dLDkM%252CrYtVv1TU7qBDQM%252C_%253BjEpdxsmYxcHc1M%252CGzIcdXmugX3-lM%252C_%253BJ7gW4YyYFZ6pXM%252Cr8lhB1AAqRc22M%252C_%253BDa8gKP1WGKbJdM%252CmYnoDC3lUGoNCM%252C_%253BUOnCoKaT5-rSMM%252CF1jgKv5z1E3cTM%252C_%253Bz0KNNTcHofTVhM%252CVQATa0lH1B3aMM%252C_%253BXfaOS92B4N7v4M%252C_M_LNAFdF9QgcM%252C_%253BbBTWuXKPiBxBPM%252CZ4mLQosbnAP60M%252C_&usg=AI4_-kTqViz3QfIhbiRAlW0GH-aIJ6F0ow&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ9QF6BAhBEAE#imgrc=z0KNNTcHofTVhM",
+            "source": "https://www.socialkirov.ru/social/root/dost_sreda.htm",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGwc8Mnnd5L_L4uCXnkdP1CUnpn0N94_DtLQMxOInVA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=Ov2AeeTLQZwe0M%252CF_8OYtx24m8mhM%252C_%253BApWxLbRrg-2FPM%252COJaTtu7DMCh0yM%252C_%253BZc5VpCMp0dLDkM%252CrYtVv1TU7qBDQM%252C_%253BjEpdxsmYxcHc1M%252CGzIcdXmugX3-lM%252C_%253BJ7gW4YyYFZ6pXM%252Cr8lhB1AAqRc22M%252C_%253BDa8gKP1WGKbJdM%252CmYnoDC3lUGoNCM%252C_%253BUOnCoKaT5-rSMM%252CF1jgKv5z1E3cTM%252C_%253Bz0KNNTcHofTVhM%252CVQATa0lH1B3aMM%252C_%253BXfaOS92B4N7v4M%252C_M_LNAFdF9QgcM%252C_%253BbBTWuXKPiBxBPM%252CZ4mLQosbnAP60M%252C_&usg=AI4_-kTqViz3QfIhbiRAlW0GH-aIJ6F0ow&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ9QF6BAhGEAE#imgrc=XfaOS92B4N7v4M",
+            "source": "https://www.pinterest.ru/pin/652177589778210217/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Kr4l-nLhTpPXJRFn6raAfY0rWA4Yi7Gppy95CDGY&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&tbm=isch&source=iu&ictx=1&vet=1&fir=Ov2AeeTLQZwe0M%252CF_8OYtx24m8mhM%252C_%253BApWxLbRrg-2FPM%252COJaTtu7DMCh0yM%252C_%253BZc5VpCMp0dLDkM%252CrYtVv1TU7qBDQM%252C_%253BjEpdxsmYxcHc1M%252CGzIcdXmugX3-lM%252C_%253BJ7gW4YyYFZ6pXM%252Cr8lhB1AAqRc22M%252C_%253BDa8gKP1WGKbJdM%252CmYnoDC3lUGoNCM%252C_%253BUOnCoKaT5-rSMM%252CF1jgKv5z1E3cTM%252C_%253Bz0KNNTcHofTVhM%252CVQATa0lH1B3aMM%252C_%253BXfaOS92B4N7v4M%252C_M_LNAFdF9QgcM%252C_%253BbBTWuXKPiBxBPM%252CZ4mLQosbnAP60M%252C_&usg=AI4_-kTqViz3QfIhbiRAlW0GH-aIJ6F0ow&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ9QF6BAhHEAE#imgrc=bBTWuXKPiBxBPM",
+            "source": "https://akson.ru/p/poster_na_mdf_30kh40_sreda_eto_malenkaya_pyatnitsa_me_105_224/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbguYwoTF6I1OQDnk_L67GMumjBavzb4OaCGz4p9nMkA&s"
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "СРЕДА́",
+        "word_type": "Женский род",
+        "definitions": [
+            "Вещество, заполняющее пространство, а также тела, окружающие что-н.",
+            "Окружение, совокупность природных условий, в к-рых протекает деятельность человеческого общества, организмов."
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "СРЕДА – плёночная лаборатория и фотомагазин",
+            "link": "https://sreda.photo/",
+            "displayed_link": "https://sreda.photo",
+            "snippet": "СРЕДА – плёночная лаборатория и фотомагазин. Фотопленка, кинопленка, фотоаппараты, книги. Проявка, сканирование, оптическая и цифровая печать, оформление в ...",
+            "snippet_highlighted_words": [
+                "СРЕДА"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Проявка и сканирование",
+                        "link": "https://sreda.photo/lab"
+                    },
+                    {
+                        "title": "Схема проезда",
+                        "link": "https://sreda.photo/map"
+                    },
+                    {
+                        "title": "Творческая лаборатория",
+                        "link": "https://blog.sreda.photo/"
+                    },
+                    {
+                        "title": "Химия",
+                        "link": "https://sreda.photo/shop/chemicals"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Среда - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%B0",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Среда",
+            "snippet": "Среда́ (от средина, середина) — день недели между вторником и четвергом. Четвёртый день («среда») Божьего сотворения мира, появление небесных светил (Бытие.",
+            "snippet_highlighted_words": [
+                "Среда́",
+                "среда"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Среда (значения) - Википедия",
+                    "link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%B0_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)",
+                    "displayed_link": "https://ru.wikipedia.org › wiki › Среда_(значения)",
+                    "snippet": "Среда — многозначный термин. Происходит этимологически от слова средина-середина, но означает по сути противоположное слово — окружение.",
+                    "snippet_highlighted_words": [
+                        "Среда"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "title": "среда - Викисловарь",
+            "link": "https://ru.wiktionary.org/wiki/%D1%81%D1%80%D0%B5%D0%B4%D0%B0",
+            "displayed_link": "https://ru.wiktionary.org › wiki › среда",
+            "snippet": "пространство существования, окружающий мир, окружение ◇ Использование данного понятия характерно для профессиональной среды. физ., хим. вещество, материал как ...",
+            "snippet_highlighted_words": [
+                "среды"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "(@sreda.photo) • Instagram photos and videos - СРЕДА",
+            "link": "https://www.instagram.com/sreda.photo/",
+            "displayed_link": "https://www.instagram.com › sreda",
+            "snippet": "17.1k Followers, 170 Following, 1431 Posts - See Instagram photos and videos from «СРЕДА» (@sreda.photo)",
+            "snippet_highlighted_words": [
+                "СРЕДА"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Перевод \"среда\" на английский - Reverso Context",
+            "link": "https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/%D1%81%D1%80%D0%B5%D0%B4%D0%B0",
+            "displayed_link": "https://context.reverso.net › русский-английский › среда",
+            "snippet": "Для устойчивого роста африканских МСП необходима здоровая макроэкономическая среда. A healthy macroeconomic environment was crucial in order for African SMEs to ...",
+            "snippet_highlighted_words": [
+                "среда"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Пленочная лаборатория «СРЕДА» | ВКонтакте",
+            "link": "https://vk.com/sredafilmlab",
+            "displayed_link": "https://vk.com › sredafilmlab",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BpQtFDW6pU2s9N5J4lAie8M2_sLP1l9FUK6EbxUd7RoNJBVCrNL3&usqp=CAE&s",
+            "date": "8 мая 2022 г.",
+            "snippet": "«СРЕДА» — магазин фотопленки и аналоговая лаборатория. Находимся в Москве, принимаем заказы из любой точки мира. | 5499 подписчиков.",
+            "snippet_highlighted_words": [
+                "СРЕДА"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "ЖК SREDA (Среда) - Застройщик «Группа ПСН - Циан",
+            "link": "https://www.cian.ru/zhiloy-kompleks-sreda-moskva-7781/",
+            "displayed_link": "https://www.cian.ru › zhiloy-kompleks-sreda-moskva-7...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqgS-jD4ZneIAazPnlzO_rldvLXt3rJ9n97Eg0ZhMdg2Uwwq7Bkeg&usqp=CAE&s",
+            "snippet": "Купите квартиру в ЖК SREDA (Среда) на ЦИАН - 27 квартир. Самое дешёвое жильё: 6 000 000 руб. Жилой комплекс по адресу: Москва, Рязанский проспект.",
+            "snippet_highlighted_words": [
+                "Среда"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "Рейтинг": 3.5,
+                        "отзывов": 49
+                    },
+                    "extensions": [
+                        "Рейтинг: 3,5",
+                        "‎49 отзывов"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Городская среда - Администрация МО город Армавир",
+            "link": "https://www.armawir.ru/gorodskaya-sreda/",
+            "displayed_link": "https://www.armawir.ru › gorodskaya-sreda",
+            "snippet": "Городская среда. Антимонопольный комплаенс · Антитеррористическая комиссия · Армавирское районное казачье общество Кубанского казачьего войска.",
+            "snippet_highlighted_words": [
+                "среда"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "среда на английском",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ru&gl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0+%D0%BD%D0%B0+%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ1QJ6BAghEAE"
+        },
+        {
+            "query": "среда день",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ru&gl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0+%D0%B4%D0%B5%D0%BD%D1%8C&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ1QJ6BAggEAE"
+        },
+        {
+            "query": "среда фотолаборатория",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ru&gl=ru&q=%D0%A1%D0%A0%D0%95%D0%94%D0%90+%D1%84%D0%BE%D1%82%D0%BE%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "среда обитания",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ru&gl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0+%D0%BE%D0%B1%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ1QJ6BAgdEAE"
+        },
+        {
+            "query": "среда, четверг",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ru&gl=ru&q=%D1%81%D1%80%D0%B5%D0%B4%D0%B0,+%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ1QJ6BAgcEAE"
+        },
+        {
+            "query": "среда тв",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ru&gl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0+%D0%A2%D0%92&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ1QJ6BAgaEAE"
+        },
+        {
+            "query": "среда продюсерская компания",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ru&gl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0+%D0%BF%D1%80%D0%BE%D0%B4%D1%8E%D1%81%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F+%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ1QJ6BAgYEAE"
+        },
+        {
+            "query": "среда сканирование",
+            "link": "https://www.google.com/search?ucbcb=1&hl=ru&gl=ru&q=%D0%A1%D0%A0%D0%95%D0%94%D0%90+%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&sa=X&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ1QJ6BAgWEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&ei=0jeeYu2aBryckPIPoYGGwA4&start=10&sa=N&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&ei=0jeeYu2aBryckPIPoYGGwA4&start=10&sa=N&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&ei=0jeeYu2aBryckPIPoYGGwA4&start=20&sa=N&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&ei=0jeeYu2aBryckPIPoYGGwA4&start=30&sa=N&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&ei=0jeeYu2aBryckPIPoYGGwA4&start=40&sa=N&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&ei=0jeeYu2aBryckPIPoYGGwA4&start=50&sa=N&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&ei=0jeeYu2aBryckPIPoYGGwA4&start=60&sa=N&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&ei=0jeeYu2aBryckPIPoYGGwA4&start=70&sa=N&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&ei=0jeeYu2aBryckPIPoYGGwA4&start=80&sa=N&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&ucbcb=1&hl=ru&gl=ru&ei=0jeeYu2aBryckPIPoYGGwA4&start=90&sa=N&ved=2ahUKEwjty4a6q5n4AhU8DkQIHaGAAegQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A1%D1%80%D0%B5%D0%B4%D0%B0&start=90"
+        }
+    }
+}

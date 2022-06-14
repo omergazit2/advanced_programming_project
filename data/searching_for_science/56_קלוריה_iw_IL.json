@@ -1,0 +1,215 @@
+{
+    "search_metadata": {
+        "id": "627cff1d2bc7d82d0e1ab77f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/fc2ddce2e47545a4/627cff1d2bc7d82d0e1ab77f.json",
+        "created_at": "2022-05-12 12:35:41 UTC",
+        "processed_at": "2022-05-12 12:35:41 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&oq=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&uule=w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=&hl=iw&gl=IL&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/fc2ddce2e47545a4/627cff1d2bc7d82d0e1ab77f.html",
+        "total_time_taken": 1.04
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "קלוריה",
+        "uule": "w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "IL",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "קלוריה",
+        "total_results": 46300,
+        "time_taken_displayed": 0.4
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "קלוריה - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94",
+            "displayed_link": "https://he.wikipedia.org › wiki › קלוריה",
+            "snippet": "קלוריה (סימן מקוצר: Cal) היא יחידת מידה לחום ואנרגיה. כמות האנרגיה הדרושה כדי לחמם 1 גרם מים במעלת צלזיוס אחת, בלחץ של אטמוספירה אחת.",
+            "snippet_highlighted_words": [
+                "קלוריה"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "קלוריות – מה זה בעצם? | כמוני",
+            "link": "https://www.camoni.co.il/%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%95%D7%AA-%E2%80%93-%D7%9E%D7%94-%D7%96%D7%94-%D7%91%D7%A2%D7%A6%D7%9D-",
+            "displayed_link": "https://www.camoni.co.il › ...",
+            "snippet": "מהי קלוריה? כמה קלוריות אנו אמורים לצרוך? מה זה קק\"ל? מה זה מטבוליזם? והאם כל הקלוריות שוות? מאת אלה הר-נוי.",
+            "snippet_highlighted_words": [
+                "קלוריה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "איך מחושבות הקלוריות במוצרי מזון? אלי - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/askexpert/technology/%D7%90%D7%99%D7%9A-%D7%9E%D7%97%D7%95%D7%A9%D7%91%D7%95%D7%AA-%D7%94%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%95%D7%AA-%D7%91%D7%9E%D7%95%D7%A6%D7%A8%D7%99-%D7%9E%D7%96%D7%95%D7%9F-%D7%90%D7%9C%D7%99",
+            "displayed_link": "https://davidson.weizmann.ac.il › askexpert › technology",
+            "snippet": "יחידת הקלוריה שבה משתמשים במוצרי מזון היא למעשה קילו-קלוריה (באנגלית kilocalorie) שזה בעצם 1000 קלוריות. כאשר מאפיינים מוצרי מזון, קלוריה אחת ...",
+            "snippet_highlighted_words": [
+                "הקלוריה",
+                "קלוריה",
+                "קלוריה"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "בנוב": 11
+                    },
+                    "extensions": [
+                        "11 בנוב׳ 2012",
+                        "הועלה על",
+                        "ידי TED",
+                        "Ed"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "קלוריות – מה זה בכלל אומר? - אולגה רז",
+            "link": "https://www.olgaraz.co.il/calories-what-it-even-says/",
+            "displayed_link": "https://www.olgaraz.co.il › calories-what-it-even-says",
+            "snippet": "קלוריה הינה יחידה למדידת אנרגיה. מי שזוכר את שיעורי הפיסיקה בתיכון בטח יודע שקלוריה היא כמות האנרגיה הדרושה לחימום גרם אחד של מים במעלת צלזיוס אחת.",
+            "snippet_highlighted_words": [
+                "קלוריה",
+                "שקלוריה"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "קלוריה - – המכלול",
+            "link": "https://www.hamichlol.org.il/%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94",
+            "displayed_link": "https://www.hamichlol.org.il › קלוריה",
+            "date": "2 בספט׳ 2019",
+            "snippet": "קלוריה (בעברית: 'חומית', סימן מקוצר: cal) היא יחידת מידה לחום ואנרגיה. כמות האנרגיה הדרושה כדי לחמם 1 גרם מים במעלת צלזיוס אחת, ...",
+            "snippet_highlighted_words": [
+                "קלוריה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "מהי קלוריה ומדוע אנו סופרים אותם? - Fresh articles",
+            "link": "https://iw.julinse.com/%D7%9E%D7%94-%D7%96%D7%94-%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94/",
+            "displayed_link": "https://iw.julinse.com › מה-זה-קלוריה",
+            "snippet": "קלוריה היא כמות החום הדרושה כדי להעלות את הטמפרטורה של גרם אחד של מים בדרגה אחת צלזיוס. קלוריות במזון מספקים אנרגיה בצורה של חום, כך שהגוף שלנו יכול לתפקד.",
+            "snippet_highlighted_words": [
+                "קלוריה"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "המר אנרגיה, קילו קלוריה - ConvertWorld",
+            "link": "https://www.convertworld.com/he/energy/kcal.html",
+            "displayed_link": "https://www.convertworld.com › energy › kcal",
+            "snippet": "השתמש בכלי זה קל להמיר במהירות קילו קלוריה כיחידה של אנרגיה.",
+            "snippet_highlighted_words": [
+                "קלוריה"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "קלוריות - FoodsDictionary",
+            "link": "https://www.foodsdictionary.co.il/NutritionalValues/Calories.php",
+            "displayed_link": "https://www.foodsdictionary.co.il › ערכים תזונתיים",
+            "snippet": "קלוריה היא יחידת מידה לחום ולאנרגיה. השרירים בגופנו זקוקים לאנרגיה כדי לפעול ולנוע. את האנרגיה הזו, גופנו צורך מן המזון אותו אנו אוכלים.",
+            "snippet_highlighted_words": [
+                "קלוריה"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "מה זה קלוריה - מילון עברי עברי - מילוג",
+            "link": "https://milog.co.il/%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94",
+            "displayed_link": "https://milog.co.il › קלוריה",
+            "snippet": "תוצאות חיפוש לערך קלוריה. ... התקבלו 3 פירושים במילון לקלוריה. קלוריה. קלוריה היא יחידת מידה לחום ואנרגיה. כמות האנרגיה הדרושה כדי לחמם 1 גרם מים במעלת ...",
+            "snippet_highlighted_words": [
+                "קלוריה",
+                "לקלוריה",
+                "קלוריה",
+                "קלוריה"
+            ]
+        },
+        {
+            "position": 10,
+            "title": "קלוריה - ויקימילון",
+            "link": "https://he.wiktionary.org/wiki/%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94",
+            "displayed_link": "https://he.wiktionary.org › wiki › קלוריה",
+            "snippet": "קָלוֹרְיָהעריכה. ניתוח דקדוקי. כתיב מלא, קלוריה. הגייה, kalorya. חלק דיבר, שם־עצם. מין, נקבה. שורש. דרך תצורה. נטיות, ר׳ קָלוֹרְיוֹת ...",
+            "snippet_highlighted_words": [
+                "קָלוֹרְיָה",
+                "קלוריה"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "טבלת קלוריות לפי א ב",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%98%D7%91%D7%9C%D7%AA+%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%95%D7%AA+%D7%9C%D7%A4%D7%99+%D7%90+%D7%91&sa=X&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "קלוריה יחידות מידה",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94+%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA+%D7%9E%D7%99%D7%93%D7%94&sa=X&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "קילו קלוריות לקלוריות",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%A7%D7%99%D7%9C%D7%95+%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%95%D7%AA+%D7%9C%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%95%D7%AA&sa=X&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "כמה זה 500 קלוריות בגרמים",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%9B%D7%9E%D7%94+%D7%96%D7%94+500+%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%95%D7%AA+%D7%91%D7%92%D7%A8%D7%9E%D7%99%D7%9D&sa=X&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "טבלת ערכים תזונתיים",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%98%D7%91%D7%9C%D7%AA+%D7%A2%D7%A8%D7%9B%D7%99%D7%9D+%D7%AA%D7%96%D7%95%D7%A0%D7%AA%D7%99%D7%99%D7%9D&sa=X&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "Kcal מה זה",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=Kcal+%D7%9E%D7%94+%D7%96%D7%94&sa=X&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "קילו קלוריה",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%A7%D7%99%D7%9C%D7%95+%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&sa=X&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "ליטר אטמוספירה לקלוריה",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=IL&q=%D7%9C%D7%99%D7%98%D7%A8+%D7%90%D7%98%D7%9E%D7%95%D7%A1%D7%A4%D7%99%D7%A8%D7%94+%D7%9C%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&sa=X&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ1QJ6BAggEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&ucbcb=1&hl=iw&gl=IL&ei=Hf98YtrqNte6tQb5r62oBQ&start=10&sa=N&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&ucbcb=1&hl=iw&gl=IL&ei=Hf98YtrqNte6tQb5r62oBQ&start=10&sa=N&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&ucbcb=1&hl=iw&gl=IL&ei=Hf98YtrqNte6tQb5r62oBQ&start=20&sa=N&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&ucbcb=1&hl=iw&gl=IL&ei=Hf98YtrqNte6tQb5r62oBQ&start=30&sa=N&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&ucbcb=1&hl=iw&gl=IL&ei=Hf98YtrqNte6tQb5r62oBQ&start=40&sa=N&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&ucbcb=1&hl=iw&gl=IL&ei=Hf98YtrqNte6tQb5r62oBQ&start=50&sa=N&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&ucbcb=1&hl=iw&gl=IL&ei=Hf98YtrqNte6tQb5r62oBQ&start=60&sa=N&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&ucbcb=1&hl=iw&gl=IL&ei=Hf98YtrqNte6tQb5r62oBQ&start=70&sa=N&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&ucbcb=1&hl=iw&gl=IL&ei=Hf98YtrqNte6tQb5r62oBQ&start=80&sa=N&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&ucbcb=1&hl=iw&gl=IL&ei=Hf98YtrqNte6tQb5r62oBQ&start=90&sa=N&ved=2ahUKEwia7Zfe_Nn3AhVXXc0KHflXC1UQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=20&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=30&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=40&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=50&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=60&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=70&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=80&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A7%D7%9C%D7%95%D7%A8%D7%99%D7%94&start=90&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D"
+        }
+    }
+}

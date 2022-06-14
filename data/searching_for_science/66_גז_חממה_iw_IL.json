@@ -1,0 +1,295 @@
+{
+    "search_metadata": {
+        "id": "627cff3b1d986e14d0eeaecb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ea0fe52fdbdf6ab0/627cff3b1d986e14d0eeaecb.json",
+        "created_at": "2022-05-12 12:36:11 UTC",
+        "processed_at": "2022-05-12 12:36:11 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&oq=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&uule=w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=&hl=iw&gl=IL&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ea0fe52fdbdf6ab0/627cff3b1d986e14d0eeaecb.html",
+        "total_time_taken": 0.64
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "גז חממה",
+        "uule": "w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "IL",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "גז חממה",
+        "total_results": 111000,
+        "time_taken_displayed": 0.47
+    },
+    "ads": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "כל המידע על גז חממה - זווית - ידיעות לסביבה ומדע‏ - ‪zavit.org.il‬",
+            "link": "https://www.zavit.org.il/%D7%9E%D7%94-%D7%90%D7%AA%D7%9D-%D7%99%D7%95%D7%93%D7%A2%D7%99%D7%9D-%D7%A2%D7%9C-%D7%A9%D7%99%D7%A0%D7%95%D7%99-%D7%94%D7%90%D7%A7%D7%9C%D7%99%D7%9D/",
+            "displayed_link": "https://www.zavit.org.il/ריכוז_פחמן/כתבות",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi1mZ3s_Nn3AhWw9uMHHY8tAPsYABAAGgJ5bQ&ae=2&sig=AOD64_3gzVgLfT40VGOjoeB_gtmwmHUirA&q&adurl",
+            "description": "מתעניינים בנושאי מדע וסביבה? בזווית תמצאו את מיטב הכתבות והמחקרים בתחום. יודעים מהו אפקט החממה? הכנסו לאתר זווית ותגלו. מחקרים מהעולם בנושא סביבה."
+        },
+        {
+            "position": 2,
+            "block_position": "top",
+            "title": "דוידסון מסביר: מה זה גז חממה - ואיך זה קשור להתחממות גלובלית",
+            "link": "https://davidson.weizmann.ac.il/online/askexpert/%D7%9E%D7%94-%D7%96%D7%94-%D7%92%D7%96-%D7%97%D7%9E%D7%9E%D7%94",
+            "displayed_link": "http://davidson.weizmann.ac.il/שאל_את_המומחה/גז_חממה",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi1mZ3s_Nn3AhWw9uMHHY8tAPsYABABGgJ5bQ&ae=2&sig=AOD64_1Xl70GJB-CYdklD6rIa2I5EhEn_w&q&adurl",
+            "extensions": [
+                "‏שאל את המומחה · ‏יש מקום לספק · ‏היום לפני, במדע · ‏חדשות מדע"
+            ],
+            "description": "כיצד גזים באטמוספרה תורמים להתחממות כדור הארץ ואיך אפשר לצמצם את פליטתם? לכתבה. מידע על מדע. רעלים\" שלא צריך לנקות\" \"לימדו על \"ניקוי רעלים.",
+            "sitelinks": [
+                {
+                    "title": "שאל את המומחה",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi1mZ3s_Nn3AhWw9uMHHY8tAPsYABACGgJ5bQ&ae=2&sig=AOD64_3KAVW230J--GYiM2wuK4S9rrCcjw&q=&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQpigoAHoECAMQBw&adurl="
+                },
+                {
+                    "title": "יש מקום לספק",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi1mZ3s_Nn3AhWw9uMHHY8tAPsYABAEGgJ5bQ&ae=2&sig=AOD64_0ilUHCgafN2Nl299LI802TrXN7TQ&q=&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQpigoAXoECAMQCA&adurl="
+                },
+                {
+                    "title": "היום לפני, במדע",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi1mZ3s_Nn3AhWw9uMHHY8tAPsYABAGGgJ5bQ&ae=2&sig=AOD64_10xLQyTSIydyyexPw5ZfGb9-xSiQ&q=&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQpigoAnoECAMQCQ&adurl="
+                },
+                {
+                    "title": "חדשות מדע",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi1mZ3s_Nn3AhWw9uMHHY8tAPsYABAHGgJ5bQ&ae=2&sig=AOD64_1z7QSdHC-yr-Fv2mH4w-wVBzBXUA&q=&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQpigoA3oECAMQCg&adurl="
+                }
+            ]
+        }
+    ],
+    "knowledge_graph": {
+        "title": "גז חממה",
+        "header_images": [
+            {
+                "source": "https://ecowiki.org.il/wiki/%D7%92%D7%96_%D7%97%D7%9E%D7%9E%D7%94"
+            },
+            {
+                "source": "https://www.ynet.co.il/articles/0,7340,L-5079471,00.html"
+            },
+            {
+                "source": "https://davidson.weizmann.ac.il/online/askexpert/%D7%9E%D7%94-%D7%96%D7%94-%D7%92%D7%96-%D7%97%D7%9E%D7%9E%D7%94"
+            },
+            {
+                "source": "https://unionhorizon.walla.co.il/item/3354789"
+            },
+            {
+                "source": "https://www.sii.org.il/he/iso-14064"
+            }
+        ],
+        "description": "גז חממה הוא שם כולל לחומרים במצב צבירה גז, שנמצאים באטמוספירה ובולעים או מחזירים קרינה תת-אדומה הנפלטת מכדור הארץ, ובכך תורמים לאפקט החממה.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%92%D7%96_%D7%97%D7%9E%D7%9E%D7%94"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "פליטת גזי חממה",
+            "link": "https://www.youtube.com/watch?v=1M8sdTjmnfk",
+            "thumbnail": "https://serpapi.com/searches/627cff3b1d986e14d0eeaecb/images/19fbd7da2e8915b9fc456ec90c2420ebeb415128cfa28a1dc477b7e305bcb308.jpeg",
+            "channel": "מכון דוידסון - סרטוני מדע",
+            "duration": "7:16",
+            "platform": "YouTube",
+            "date": "26 בינו׳ 2010"
+        },
+        {
+            "position": 2,
+            "title": "הפחתת פליטות גזי חממה בישראל",
+            "link": "https://www.youtube.com/watch?v=t4ch_3nPaZQ",
+            "thumbnail": "https://serpapi.com/searches/627cff3b1d986e14d0eeaecb/images/19fbd7da2e8915b9004dbb370fa181087c71a4ce8531d06ad73e405e194dfb0d.jpeg",
+            "channel": "המשרד להגנת הסביבה - הערוץ הרשמי",
+            "duration": "4:12",
+            "platform": "YouTube",
+            "date": "7 בינו׳ 2018"
+        },
+        {
+            "position": 3,
+            "title": "הבה נשגר לווין שיעקוב אחר גז חממה מאיים",
+            "link": "https://www.ted.com/talks/fred_krupp_let_s_launch_a_satellite_to_track_a_threatening_greenhouse_gas?language=he",
+            "thumbnail": "https://serpapi.com/searches/627cff3b1d986e14d0eeaecb/images/19fbd7da2e8915b941f03b5bfaa1d3a452a8f26d024aab7ae1e4b5e7076688b6.jpeg",
+            "duration": "8:33",
+            "platform": "TED",
+            "date": "15 באפר׳ 2018"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "גז חממה - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%92%D7%96_%D7%97%D7%9E%D7%9E%D7%94",
+            "displayed_link": "https://he.wikipedia.org › wiki › גז_חממה",
+            "snippet": "קיבול החום של גז תלוי לרוב במבנה המולקולרי שלו. אדי המים הם גז החממה היעיל ביותר באטמוספירת כדור הארץ (איור 1). העלייה בריכוזי גזי החממה באטמוספירה מאז ימי ...",
+            "snippet_highlighted_words": [
+                "גז",
+                "גז החממה",
+                "גזי החממה"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "מה זה גז חממה? - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/askexpert/%D7%9E%D7%94-%D7%96%D7%94-%D7%92%D7%96-%D7%97%D7%9E%D7%9E%D7%94",
+            "displayed_link": "https://davidson.weizmann.ac.il › online › askexpert › מ...",
+            "date": "22 בינו׳ 2018",
+            "snippet": "למרות שאין קשר אמתי בין התהליכים בחממה חקלאית לבין בליעת האנרגיה של גזים באטמוספירה, הם זכו להיקרא \"גזי חממה\" משום שהם שומרים את כדור הארץ ...",
+            "snippet_highlighted_words": [
+                "בחממה",
+                "גזי חממה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "גז חממה - אקו-ויקי",
+            "link": "https://ecowiki.org.il/wiki/%D7%92%D7%96_%D7%97%D7%9E%D7%9E%D7%94",
+            "displayed_link": "https://ecowiki.org.il › wiki › גז_חממה",
+            "date": "13 באפר׳ 2021",
+            "snippet": "גזי החממה בולעים את הקרינה האינפרה אדומה הזו, היא מומרת לחום ודבר זה גורם להתחממות האטמוספירה של כוכב הלכת. אפקט החממה הוא אפקט טבעי וחיוני ...",
+            "snippet_highlighted_words": [
+                "גזי החממה",
+                "החממה"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "גזי חממה - מה ההבדלים ביניהם ומדוע חשוב לעצור את פליטתם - הידען",
+            "link": "https://www.hayadan.org.il/%D7%92%D7%96%D7%99-%D7%97%D7%9E%D7%9E%D7%94-%D7%9E%D7%94-%D7%94%D7%94%D7%91%D7%93%D7%9C%D7%99%D7%9D-%D7%91%D7%99%D7%A0%D7%99%D7%94%D7%9D-%D7%95%D7%9E%D7%93%D7%95%D7%A2-%D7%97%D7%A9%D7%95%D7%91",
+            "displayed_link": "https://www.hayadan.org.il › גזי-חממה-מה-ההבדלים-ביניהם-ו...",
+            "date": "12 בינו׳ 2022",
+            "snippet": "רבות נאמר ונכתב על גזי-חממה שנפלטים כתוצאה מפעילות אנושית וגורמים להתחממות העולמית ולשינויי האקלים, נושא חשוב שראוי להסבר מפורט.",
+            "snippet_highlighted_words": [
+                "גזי",
+                "חממה"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "הפחתת פליטות גזי חממה | המשרד להגנת הסביבה - gov.il - אתר ...",
+            "link": "https://www.gov.il/he/departments/guides/reducing_greenhouse_gases_increasing_energy_efficiency",
+            "displayed_link": "https://www.gov.il › departments › guides › reducing_g...",
+            "snippet": "כדי לצמצם את ההשלכות של שינויי האקלים ולהתייעל בשימוש במשאבים, נוקטים בעולם פעולות ותוכניות להפחתת פליטות גזי חממה, בעיקר על ידי צמצום שרפת דלקים פוסיליים, ...",
+            "snippet_highlighted_words": [
+                "גזי חממה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "מה זה גז חממה - מילון עברי עברי - מילוג",
+            "link": "https://milog.co.il/%D7%92%D7%96_%D7%97%D7%9E%D7%9E%D7%94",
+            "displayed_link": "https://milog.co.il › גז_חממה",
+            "snippet": "גז חממה הוא שם כולל לחומרים במצב צבירה גז, שנמצאים באטמוספירה ובולעים או מחזירים קרינה תת⁻אדומה הנפלטת מכדור הארץ , ובכך תורמים לאפקט החממה.",
+            "snippet_highlighted_words": [
+                "גז חממה",
+                "גז",
+                "החממה"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "גזי חממה - גלובס",
+            "link": "https://www.globes.co.il/news/%D7%92%D7%96_%D7%97%D7%9E%D7%9E%D7%94.tag",
+            "displayed_link": "https://www.globes.co.il › גזי חממה",
+            "snippet": "20 חברות בשר וחלב פולטות יותר גזי חממה מאשר גרמניה או בריטניה. 12.09.2021 שני אשכנזי. תקציב מדינה ראשון עם יעדים בתחום פליטת גזי החממה?",
+            "snippet_highlighted_words": [
+                "גזי חממה",
+                "גזי החממה"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "גזי חממה - Greenhouse Gases - info spot",
+            "link": "http://infospot.co.il/gl/%D7%92%D7%96%D7%99_%D7%97%D7%9E%D7%9E%D7%94_Greenhouse_Gases_",
+            "displayed_link": "http://infospot.co.il › גזי_חממה_Greenhouse_Gases_",
+            "date": "1 ביוני 2021",
+            "snippet": "גזי חממה: מולקולות גז באטמוספירה, אשר קולטות קרינה תרמית מכדור הארץ ומחזירות אותה לכל הכיוונים, חלקה לכדור הארץ ובכך גורמות להתחממות (כמו ...",
+            "snippet_highlighted_words": [
+                "גזי חממה",
+                "גז"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "זיהום אוויר וגזי חממה- הגדרות והסברים - הלשכה המרכזית ...",
+            "link": "https://www.cbs.gov.il/he/subjects/Pages/%D7%96%D7%99%D7%94%D7%95%D7%9D-%D7%90%D7%95%D7%95%D7%99%D7%A8-%D7%95%D7%92%D7%96%D7%99-%D7%97%D7%9E%D7%9E%D7%94-%D7%94%D7%92%D7%93%D7%A8%D7%95%D7%AA-%D7%95%D7%94%D7%A1%D7%91%D7%A8%D7%99%D7%9D.aspx",
+            "displayed_link": "https://www.cbs.gov.il › subjects › Pages › זיהום-אוויר-וגז...",
+            "snippet": "נתוני צריכת גז טבעי מתקבלים מרשות הגז במשרד האנרגיה. נתוני צריכת דלקים (גז טבעי, פחם ומוצרי נפט) לייצור חשמל מתקבלים מסקר \"יצרני חשמל בתעשייה\". נתוני צריכת סולר ...",
+            "snippet_highlighted_words": [
+                "גז",
+                "גז"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "אפקט החממה הסבר לילדים",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%90%D7%A4%D7%A7%D7%98+%D7%94%D7%97%D7%9E%D7%9E%D7%94+%D7%94%D7%A1%D7%91%D7%A8+%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ1QJ6BAglEAE"
+        },
+        {
+            "query": "סוגי גזי חממה",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%A1%D7%95%D7%92%D7%99+%D7%92%D7%96%D7%99+%D7%97%D7%9E%D7%9E%D7%94&sa=X&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "כיצד נוצרים גזי חממה",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%9B%D7%99%D7%A6%D7%93+%D7%A0%D7%95%D7%A6%D7%A8%D7%99%D7%9D+%D7%92%D7%96%D7%99+%D7%97%D7%9E%D7%9E%D7%94&sa=X&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "גזי חממה פרות",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%92%D7%96%D7%99+%D7%97%D7%9E%D7%9E%D7%94+%D7%A4%D7%A8%D7%95%D7%AA&sa=X&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "איזה גז אינו גז חממה",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%90%D7%99%D7%96%D7%94+%D7%92%D7%96+%D7%90%D7%99%D7%A0%D7%95+%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&sa=X&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ1QJ6BAghEAE"
+        },
+        {
+            "query": "מתאן כגז חממה",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%9E%D7%AA%D7%90%D7%9F+%D7%9B%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&sa=X&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "גז חממה באנגלית",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94+%D7%91%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA&sa=X&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ1QJ6BAgeEAE"
+        },
+        {
+            "query": "אפקט החממה מצגת",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%90%D7%A4%D7%A7%D7%98+%D7%94%D7%97%D7%9E%D7%9E%D7%94+%D7%9E%D7%A6%D7%92%D7%AA&sa=X&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ1QJ6BAgdEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&gl=IL&hl=iw&ei=O_98Yr_EDqrn_Qby6KPgDA&start=10&sa=N&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ8NMDegQIAhBQ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&gl=IL&hl=iw&ei=O_98Yr_EDqrn_Qby6KPgDA&start=10&sa=N&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ8tMDegQIAhA-",
+            "3": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&gl=IL&hl=iw&ei=O_98Yr_EDqrn_Qby6KPgDA&start=20&sa=N&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ8tMDegQIAhBA",
+            "4": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&gl=IL&hl=iw&ei=O_98Yr_EDqrn_Qby6KPgDA&start=30&sa=N&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ8tMDegQIAhBC",
+            "5": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&gl=IL&hl=iw&ei=O_98Yr_EDqrn_Qby6KPgDA&start=40&sa=N&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ8tMDegQIAhBE",
+            "6": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&gl=IL&hl=iw&ei=O_98Yr_EDqrn_Qby6KPgDA&start=50&sa=N&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ8tMDegQIAhBG",
+            "7": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&gl=IL&hl=iw&ei=O_98Yr_EDqrn_Qby6KPgDA&start=60&sa=N&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ8tMDegQIAhBI",
+            "8": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&gl=IL&hl=iw&ei=O_98Yr_EDqrn_Qby6KPgDA&start=70&sa=N&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ8tMDegQIAhBK",
+            "9": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&gl=IL&hl=iw&ei=O_98Yr_EDqrn_Qby6KPgDA&start=80&sa=N&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ8tMDegQIAhBM",
+            "10": "https://www.google.com/search?q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&gl=IL&hl=iw&ei=O_98Yr_EDqrn_Qby6KPgDA&start=90&sa=N&ved=2ahUKEwj_zZbs_Nn3AhWqc98KHXL0CMwQ8tMDegQIAhBO"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=20&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=30&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=40&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=50&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=60&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=70&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=80&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%92%D7%96+%D7%97%D7%9E%D7%9E%D7%94&start=90&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D"
+        }
+    }
+}

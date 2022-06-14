@@ -1,0 +1,323 @@
+{
+    "search_metadata": {
+        "id": "629e3d0618ca86971f669124",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7ee21c3878bc4659/629e3d0618ca86971f669124.json",
+        "created_at": "2022-06-06 17:44:38 UTC",
+        "processed_at": "2022-06-06 17:44:38 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&oq=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7ee21c3878bc4659/629e3d0618ca86971f669124.html",
+        "total_time_taken": 2.02
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "מערכת השמש",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "מערכת השמש",
+        "total_results": 2820000,
+        "time_taken_displayed": 0.4
+    },
+    "knowledge_graph": {
+        "title": "מערכת השמש",
+        "type": "מערכת כוכבים",
+        "header_images": [
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%A9%D7%9E%D7%A9"
+            },
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%9B%D7%91_%D7%9C%D7%9B%D7%AA"
+            },
+            {
+                "source": "https://www.mokile.net/product-page/%D7%A4%D7%9C%D7%99%D7%99%D7%A1%D7%9E%D7%98-%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%94%D7%A9%D7%9E%D7%A9"
+            },
+            {
+                "source": "https://www.youtube.com/watch?v=hJ86ReuYpDw"
+            },
+            {
+                "source": "https://il.brainpop.com/category_54/subcategory_652/subjects_530/"
+            }
+        ],
+        "description": "מערכת השמש היא מערכת כוכבי לכת, שבה מקיפים לפחות שמונה כוכבי לכת וגופים נוספים רבים את השמש בהתאם לכוחות הכבידה הרלוונטיים. הגופים הגדולים העיקריים שסובבים את השמש הם שמונת כוכבי הלכת, ואליהם מצטרפים כוכבי לכת ננסיים ומספר גדול של גופים קטנים כמו אסטרואידים, שביטים ומטאורואידים.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%A9%D7%9E%D7%A9"
+        },
+        "גיל": "4.571E9 שנים",
+        "גיל_links": [
+            {
+                "text": "גיל",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9+%D7%92%D7%99%D7%9C&stick=H4sIAAAAAAAAAOPgE-LQz9U3MCswTddSyk620k8sLinKz8vPrdRPTs1JLS7JTMyJz0_KSk0usUpMT13EKnV93vVF11dcn319lcL1KddXArkrFa5Puj7z-hwAClg5kk0AAAA&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q6BMoAHoECFIQAg"
+            }
+        ],
+        "מה_עוד_אנשים_חיפשו": [
+            {
+                "name": "צדק",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A6%D7%93%D7%A7+(%D7%9B%D7%95%D7%9B%D7%91+%D7%9C%D7%9B%D7%AA)&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQQiEggMUP7VwWOnzMhIXUIsX5b6jV9wzCoaab0o7YTJAbhFYeFgMXyODWlzJ1dowdg5pfxK6Q3jVQRT2jXs-b9JnCgoZUp9T0LQfI7N6syHO_TmqtPzfN4mjRO3E8HE5K_p184l9hwdJM2vdMvKYL1cFnn2gKoBiN-liao1DzXw9QEYj4xi-VM2hg72nxikHzFrmYMGcPVnoKc5OP8nVSNU2Es5gQk612-LZHHw6IamYE7XNNU-ApycFzudyH8MVWJyZzEiN9dO1JnYuNCHAY9yi1ap&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8QxA16BAhWEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A6%D7%93%D7%A7+%28%D7%9B%D7%95%D7%9B%D7%91+%D7%9C%D7%9B%D7%AA%29&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQQiEggMUP7VwWOnzMhIXUIsX5b6jV9wzCoaab0o7YTJAbhFYeFgMXyODWlzJ1dowdg5pfxK6Q3jVQRT2jXs-b9JnCgoZUp9T0LQfI7N6syHO_TmqtPzfN4mjRO3E8HE5K_p184l9hwdJM2vdMvKYL1cFnn2gKoBiN-liao1DzXw9QEYj4xi-VM2hg72nxikHzFrmYMGcPVnoKc5OP8nVSNU2Es5gQk612-LZHHw6IamYE7XNNU-ApycFzudyH8MVWJyZzEiN9dO1JnYuNCHAY9yi1ap",
+                "image": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/192566de372c3fa6156acc2e9a9402063352ca3f63f78c43c6e8760bc6ff6d2a53c0490e516ceb43f4f277547ba7ecdc177cadfe56c2b5223f2e8cc1313eaf7c.jpeg"
+            },
+            {
+                "name": "השמש",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%94%D7%A9%D7%9E%D7%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdYVq0gL0Uv6__E7DXBQJfQufJSc-8CWkb2aEN7f9qZPH8tBNUbfETBouNM5em-W9TahcgSl00pTpd7OmzF6RVl8MqYP4SbjyHUWLG7Ml6B-rJ4bm1Qj7fuyaEupgIiVzWH54zA6O-g8cs6JR5B5g_0Tljv2iHU5boHe5Zo238tkDjvKBKFadWBQqgW5u7GVqNNLoT2SjpuJdXqn7puJ_JdA0jvWtzSmbmty1JK8qNs4Q5vXCKLlS4kPmkL2M9yycAZarkss%3D&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8QxA16BAhWEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A9%D7%9E%D7%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdYVq0gL0Uv6__E7DXBQJfQufJSc-8CWkb2aEN7f9qZPH8tBNUbfETBouNM5em-W9TahcgSl00pTpd7OmzF6RVl8MqYP4SbjyHUWLG7Ml6B-rJ4bm1Qj7fuyaEupgIiVzWH54zA6O-g8cs6JR5B5g_0Tljv2iHU5boHe5Zo238tkDjvKBKFadWBQqgW5u7GVqNNLoT2SjpuJdXqn7puJ_JdA0jvWtzSmbmty1JK8qNs4Q5vXCKLlS4kPmkL2M9yycAZarkss%3D",
+                "image": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/192566de372c3fa6156acc2e9a9402063352ca3f63f78c43c6e8760bc6ff6d2a53c0490e516ceb43f4f277547ba7ecdc65941fb306b4966f6c0432a71cedd057.jpeg"
+            },
+            {
+                "name": "כוכב חמה",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9B%D7%95%D7%9B%D7%91+%D7%97%D7%9E%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQq7cG1SrDot-5SZMtAttO6mRqVvt4IOn5IB1OnAB0ujTL04evR9MjyRhuA30r9G8HPclcZH3HHg9-5HF5O-ttfavlmd7cfaU7GkCHm-YtKgd2F_ObVrb_IEvNnKf40xgKxVZo_IWLKvq5Ts3ZHEwAPlkZlIJ0udEhJvs3HKXMSswEYSN8uZ4F9vrjITonDDLwv1ulunZVO0dFHRTNfbXTVBJmZHM9tNpiTDCKbkXFp3V0nqazzyOf7nA3AwAgupLDDUCBI%3D&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8QxA16BAhWEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9B%D7%95%D7%9B%D7%91+%D7%97%D7%9E%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQq7cG1SrDot-5SZMtAttO6mRqVvt4IOn5IB1OnAB0ujTL04evR9MjyRhuA30r9G8HPclcZH3HHg9-5HF5O-ttfavlmd7cfaU7GkCHm-YtKgd2F_ObVrb_IEvNnKf40xgKxVZo_IWLKvq5Ts3ZHEwAPlkZlIJ0udEhJvs3HKXMSswEYSN8uZ4F9vrjITonDDLwv1ulunZVO0dFHRTNfbXTVBJmZHM9tNpiTDCKbkXFp3V0nqazzyOf7nA3AwAgupLDDUCBI%3D",
+                "image": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/192566de372c3fa6156acc2e9a9402063352ca3f63f78c43c6e8760bc6ff6d2a53c0490e516ceb43f4f277547ba7ecdc818d6e68c2c9709b92163de6c86ba623.jpeg"
+            },
+            {
+                "name": "פלוטו",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A4%D7%9C%D7%95%D7%98%D7%95&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQ0HhRu0SMUNTBQCnEmXgKKeYq7YWw-rkPfaFUy3CFZsAuvTHMhVEQnup9xXNy3zPLbzgtbA2L943nqP56VHxOZ-Ba3uDr-WzgtL2FLhv058LK0vzx9ZgGQGe5UWJTxhNMratjj2Oy9M2HphQC7F9cV7KwDSo0qZKq-FC_Qc4uQMLlzoiFhIgaiVnVAfGBK4TRHhACVsJeaDk3GxlL8yvRwpOBaoyd8pm5ZbZbW6NQgbH9DV_5J2076REl6bsvnAmO71SjI%3D&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8QxA16BAhWEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A4%D7%9C%D7%95%D7%98%D7%95&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQ0HhRu0SMUNTBQCnEmXgKKeYq7YWw-rkPfaFUy3CFZsAuvTHMhVEQnup9xXNy3zPLbzgtbA2L943nqP56VHxOZ-Ba3uDr-WzgtL2FLhv058LK0vzx9ZgGQGe5UWJTxhNMratjj2Oy9M2HphQC7F9cV7KwDSo0qZKq-FC_Qc4uQMLlzoiFhIgaiVnVAfGBK4TRHhACVsJeaDk3GxlL8yvRwpOBaoyd8pm5ZbZbW6NQgbH9DV_5J2076REl6bsvnAmO71SjI%3D",
+                "image": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/192566de372c3fa6156acc2e9a9402063352ca3f63f78c43c6e8760bc6ff6d2a53c0490e516ceb43f4f277547ba7ecdc2930d08127e21e417e41ce6d67a755e7.jpeg"
+            }
+        ],
+        "מה_עוד_אנשים_חיפשו_link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&stick=H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7QEgzNTUssTK4v9UitKgktSC4oXsQpfn3d90fUV12dfX6Vwfcr1lUDuyh2sjADaN-esQgAAAA&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8QMSgAegQIVhAB",
+        "מה_עוד_אנשים_חיפשו_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCswTVeCs7QEgzNTUssTK4v9UitKgktSC4oXsQpfn3d90fUV12dfX6Vwfcr1lUDuyh2sjADaN-esQgAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "מערכת השמש מצגת לילדים בעברית קצת ידע כללי על החלל איזה כוכבי ...",
+            "link": "https://www.youtube.com/watch?v=QQt4YP_qvR4",
+            "thumbnail": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/68e91988a2b0c761808a5243e4468bc2885963ed157ec90125e733a085f91d63.jpeg",
+            "channel": "משחקי הכיף - לחשוב מתוך הקופסה Fun Games",
+            "duration": "10:12",
+            "platform": "YouTube",
+            "date": "30 ביוני 2020"
+        },
+        {
+            "position": 2,
+            "title": "כל מה שרציתם לדעת על מערכת השמש",
+            "link": "https://www.youtube.com/watch?v=kdRCRK3QSO0",
+            "thumbnail": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/68e91988a2b0c761bcaa14d8d144600fcc912820941a29bf5aa3df819be5414c.jpeg",
+            "channel": "1ilAstronomy",
+            "duration": "4:25",
+            "platform": "YouTube",
+            "date": "9 בינו׳ 2019"
+        },
+        {
+            "position": 3,
+            "title": "מערכת השמש: כוכב הלכת צדק וההיסטוריה של מאדים",
+            "link": "https://www.youtube.com/watch?v=Bf3y3B41J8I",
+            "thumbnail": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/68e91988a2b0c76104c4b968d8f549ccccf106790f49a06d97f29a7116c4179f.jpeg",
+            "channel": "ערוץ מזג האוויר",
+            "duration": "8:35",
+            "platform": "YouTube",
+            "date": "19 באוג׳ 2019"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "מערכת השמש - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%A9%D7%9E%D7%A9",
+            "displayed_link": "https://he.wikipedia.org › wiki › מערכת_השמש",
+            "thumbnail": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/2d2a88ed4fd0293e4361bca832ee134f691dc5264e3a01b4c04a520a322dbbc3.jpeg",
+            "snippet": "מערכת השמש היא מערכת כוכבי לכת, שבה מקיפים לפחות שמונה כוכבי לכת וגופים נוספים רבים את השמש בהתאם לכוחות הכבידה הרלוונטיים. הגופים הגדולים העיקריים שסובבים ...",
+            "snippet_highlighted_words": [
+                "מערכת השמש",
+                "מערכת",
+                "השמש"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "התפתחות מערכת השמש",
+                        "link": "https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A4%D7%AA%D7%97%D7%95%D7%AA_%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%A9%D7%9E%D7%A9"
+                    },
+                    {
+                        "title": "קטגוריה:מערכת השמש",
+                        "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%A9%D7%9E%D7%A9"
+                    },
+                    {
+                        "title": "יציבותה של מערכת השמש",
+                        "link": "https://he.wikipedia.org/wiki/%D7%99%D7%A6%D7%99%D7%91%D7%95%D7%AA%D7%94_%D7%A9%D7%9C_%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%A9%D7%9E%D7%A9"
+                    },
+                    {
+                        "title": "כוכב חמה",
+                        "link": "https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%9B%D7%91_%D7%97%D7%9E%D7%94"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "כוכב לכת - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%9B%D7%91_%D7%9C%D7%9B%D7%AA",
+            "displayed_link": "https://he.wikipedia.org › wiki › כוכב_לכת",
+            "thumbnail": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/2d2a88ed4fd0293e4361bca832ee134fdf8a4e203ff9a6b0351358e23ce28c4c.jpeg",
+            "snippet": "לערך העוסק ביצירה המוזיקלית בשם זה, ראו כוכבי הלכת (יצירה מוזיקלית). מערכת השמש החדשה. כּוֹכַב לֶכֶת או פלנטה (מיוונית: Πλανήτης, \"נע ונד\") הוא גרם שמיים, ...",
+            "snippet_highlighted_words": [
+                "מערכת השמש"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "מערכת השמש: איך היא נוצרה, וממה היא מורכבת?",
+            "link": "https://www.space.gov.il/%D7%AA%D7%92%D7%99%D7%95%D7%AA/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%94%D7%A9%D7%9E%D7%A9",
+            "displayed_link": "https://www.space.gov.il › תגיות › מערכת-השמש",
+            "thumbnail": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/2d2a88ed4fd0293e4361bca832ee134f93f20059a8f7da97ab213084fff4f197.jpeg",
+            "snippet": "במרכז מערכת השמש שלנו מצויה השמש, וסביבה חגים שמונת כוכבי הלכת הקלאסיים ועוד גופים רבים קטנים יותר. אך האם ישנם עוד כוכבי לכת תומכי חיים כמו כדור הארץ שלנו?",
+            "snippet_highlighted_words": [
+                "מערכת השמש",
+                "השמש"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "מהי מערכת השמש",
+            "link": "https://meyda.education.gov.il/files/Mazkirut_Pedagogit/MadaTechnologya/kdamyesodi/SolarSystemNirHaight.pdf",
+            "displayed_link": "https://meyda.education.gov.il › files › kdamyesodi",
+            "date": "45 דפים",
+            "snippet": "מערכת השמש התיכונה. \": מכילה ארבע פלנטות. –. כוכבי לכת. ) המצויים מעבר לחגורת. האסטרואידים. ,(. שמרחקם מהשמש גדול יותר באופן יחסי. ) ...",
+            "snippet_highlighted_words": [
+                "מערכת השמש",
+                "מהשמש"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "מערכת השמש - בריינפופ ישראל",
+            "link": "https://il.brainpop.com/category_54/subcategory_652/subjects_530/",
+            "displayed_link": "https://il.brainpop.com › subcategory_652 › subjects_530",
+            "snippet": "בסרטון זה תום ומובי מספרים על מערכת השמש. תחזרו בזמן לרגע לידתה של מערכת השמש, ותבינו כיצד היא נוצרה. תכירו את הסוגים של כוכבי הלכת, ואת שמותיהם כמובן!",
+            "snippet_highlighted_words": [
+                "מערכת השמש",
+                "מערכת השמש"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "כל מה שרציתם לדעת על מערכת השמש - Ynet",
+            "link": "https://www.ynet.co.il/articles/0,7340,L-4910276,00.html",
+            "displayed_link": "https://www.ynet.co.il › ynet - סביבה ומדע › מדע",
+            "snippet": "גופי מערכת השמש נחלקים לפי גודלם ולפי מקומות הימצאם. כוכבי הלכת הם הגופים הגדולים ביותר, והם (לפי הסדר, מהקרוב לשמש אל הרחוק ממנה): כוכב חמה, ...",
+            "snippet_highlighted_words": [
+                "מערכת השמש"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "בינו": 20
+                    },
+                    "extensions": [
+                        "20 בינו׳ 2017",
+                        "הועלה על",
+                        "ידי יוצר: אסף קוזין קריינות: שירי הדר, עריכה: אסף קוזין"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "סדר כוכבי הלכת במערכת השמש - לפי מרחק וגודל",
+            "link": "https://www.bareket-astro.com/solar-system/solar-system-planets-order",
+            "displayed_link": "https://www.bareket-astro.com › מערכת השמש",
+            "thumbnail": "https://serpapi.com/searches/629e3d0618ca86971f669124/images/2d2a88ed4fd0293e4361bca832ee134f3cff9472e8c5ad8ff96ff36a7f248f89.jpeg",
+            "snippet": "solar system 2. עוד בנושא : - בניית מודל של מערכת השמש, מרחקים וגדלים בקנה מידה - גדלים ומרחקים ביקום - כרטיסיות סיכום - הפלנטות במערכת השמש.",
+            "snippet_highlighted_words": [
+                "system",
+                "מערכת השמש",
+                "השמש"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "כוכבי הלכת - דפי מידע | סיכום מאפיינים מערכת השמש",
+            "link": "https://www.bareket-astro.com/solar-system/solar-system-planets-info-sheets",
+            "displayed_link": "https://www.bareket-astro.com › מערכת השמש",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcQYp2lr1RfSdAXM-10d1IOXD3MVORm8WNh3NHdLOllGYubbpB8nl&usqp=CAE&s",
+            "snippet": "מערכת השמש. מכילה כוכב ( שמש ) המוקף על ידי גופים קטנים יותר המכונים בשם כוכבי לכת (בלועזית פלנטות ). כוכבי הלכת נעים במסלולים מעוגלים יחסית ומוחזקים בכוח ...",
+            "snippet_highlighted_words": [
+                "מערכת השמש"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "מערכת השמש - מטח",
+            "link": "https://lib.cet.ac.il/pages/item.asp?item=7858",
+            "displayed_link": "https://lib.cet.ac.il › pages › item",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ57EAjk9VjK_7fKyFDWWAFGIMr-GKoey3qtuMkZNbTQ3XkTjrZWcZi&usqp=CAE&s",
+            "snippet": "מתי וכיצד נוצרה מערכת השמש שלנו? מי הם הגופים במערכת השמש? ומהו גודלה?",
+            "snippet_highlighted_words": [
+                "מערכת השמש",
+                "השמש"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "מערכת השמש דגם",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9+%D7%93%D7%92%D7%9D&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q1QJ6BAg_EAE"
+        },
+        {
+            "query": "מערכת השמש לילדים",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9+%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q1QJ6BAg7EAE"
+        },
+        {
+            "query": "כוכבי לכת במערכת השמש",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9B%D7%95%D7%9B%D7%91%D7%99+%D7%9C%D7%9B%D7%AA+%D7%91%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q1QJ6BAg2EAE"
+        },
+        {
+            "query": "מערכת השמש מצגת כיתה ה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9+%D7%9E%D7%A6%D7%92%D7%AA+%D7%9B%D7%99%D7%AA%D7%94+%D7%94&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q1QJ6BAgzEAE"
+        },
+        {
+            "query": "כמה כוכבים יש במערכת השמש",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9B%D7%9E%D7%94+%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D+%D7%99%D7%A9+%D7%91%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q1QJ6BAgtEAE"
+        },
+        {
+            "query": "הגופים במערכת השמש מסתובבים סביב כוכבי הלכת נקראים",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%94%D7%92%D7%95%D7%A4%D7%99%D7%9D+%D7%91%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9+%D7%9E%D7%A1%D7%AA%D7%95%D7%91%D7%91%D7%99%D7%9D+%D7%A1%D7%91%D7%99%D7%91+%D7%9B%D7%95%D7%9B%D7%91%D7%99+%D7%94%D7%9C%D7%9B%D7%AA+%D7%A0%D7%A7%D7%A8%D7%90%D7%99%D7%9D&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q1QJ6BAgsEAE"
+        },
+        {
+            "query": "מערכת השמש תמונות",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9+%D7%AA%D7%9E%D7%95%D7%A0%D7%95%D7%AA&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q1QJ6BAgrEAE"
+        },
+        {
+            "query": "מערכת השמש לצביעה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9+%D7%9C%D7%A6%D7%91%D7%99%D7%A2%D7%94&sa=X&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&gl=il&hl=iw&ei=Bz2eYvWENLynptQPw7Ww-AU&start=10&sa=N&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&gl=il&hl=iw&ei=Bz2eYvWENLynptQPw7Ww-AU&start=10&sa=N&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&gl=il&hl=iw&ei=Bz2eYvWENLynptQPw7Ww-AU&start=20&sa=N&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&gl=il&hl=iw&ei=Bz2eYvWENLynptQPw7Ww-AU&start=30&sa=N&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&gl=il&hl=iw&ei=Bz2eYvWENLynptQPw7Ww-AU&start=40&sa=N&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&gl=il&hl=iw&ei=Bz2eYvWENLynptQPw7Ww-AU&start=50&sa=N&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&gl=il&hl=iw&ei=Bz2eYvWENLynptQPw7Ww-AU&start=60&sa=N&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&gl=il&hl=iw&ei=Bz2eYvWENLynptQPw7Ww-AU&start=70&sa=N&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&gl=il&hl=iw&ei=Bz2eYvWENLynptQPw7Ww-AU&start=80&sa=N&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&gl=il&hl=iw&ei=Bz2eYvWENLynptQPw7Ww-AU&start=90&sa=N&ved=2ahUKEwi1pIS2sJn4AhW8k4kEHcMaDF8Q8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA+%D7%94%D7%A9%D7%9E%D7%A9&start=90"
+        }
+    }
+}

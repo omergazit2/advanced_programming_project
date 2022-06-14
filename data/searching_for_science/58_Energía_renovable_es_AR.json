@@ -1,0 +1,432 @@
+{
+    "search_metadata": {
+        "id": "627d000e1e803f24a181d85e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7842b72ae090d505/627d000e1e803f24a181d85e.json",
+        "created_at": "2022-05-12 12:39:42 UTC",
+        "processed_at": "2022-05-12 12:39:42 UTC",
+        "google_url": "https://www.google.com/search?q=Energ%C3%ADa+renovable&oq=Energ%C3%ADa+renovable&uule=w+CAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE=&hl=es&gl=AR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7842b72ae090d505/627d000e1e803f24a181d85e.html",
+        "total_time_taken": 0.78
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Energía renovable",
+        "uule": "w+CAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "AR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Energía renovable",
+        "total_results": 19400000,
+        "time_taken_displayed": 0.55
+    },
+    "ads": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "Energia Renovable - Expertos en Energia Renovable",
+            "link": "https://greenconnection.com.ar/sample-page-3/",
+            "displayed_link": "https://www.greenconnection.com.ar/energia/renovable",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABAEGgJ5bQ&ae=2&sig=AOD64_370Wu-xn_0NSqc_tLp878qzRXHkg&q&adurl",
+            "description": "La solución perfecta ante posibles cortes de luz. Amplia experiencia en energía renovable. Especialistas en climatización solar. Realizamos trabajo a medida. La solución perfecta. Sistema líder del mercado. Ahorrá Energía hoy. Presupuesto a medida. Solicita tu visita hoy."
+        },
+        {
+            "position": 2,
+            "block_position": "top",
+            "title": "SUSTENTATOR - Paneles Solares - Líder en energía renovable",
+            "link": "https://www.sustentator.com/",
+            "displayed_link": "https://www.sustentator.com/",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABACGgJ5bQ&ae=2&sig=AOD64_09dFhXdrDmdhL2T07gGGTUfhw27w&q&adurl",
+            "description": "¡Reducí el consumo eléctrico! Kit fotovoltaico que ya viene prearmado listo para instalar! Te..."
+        },
+        {
+            "position": 3,
+            "block_position": "bottom",
+            "title": "Energías Renovables - Abierta la inscripción",
+            "link": "https://uca.edu.ar/es/facultades/facultad-de-humanidades-y-ciencias-economicas/posgrado-online/diplomatura-en-energias-renovables-1",
+            "displayed_link": "https://www.uca.edu.ar/",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABADGgJ5bQ&ae=2&sig=AOD64_0R5pS_PKBsbr4WpUNRIQ3WtL12wA&q&adurl",
+            "extensions": [
+                "‎Carreras de Grado · ‎Carreras de Posgrado · ‎Facultades e Institutos · ‎Nuestra Historia"
+            ],
+            "description": "Alternativas energéticas renovables, reconociendo y optimizando los recursos autóctonos. Equipos y procesos para instalar, mantener y reparar estas tecnologías. Innovación.",
+            "sitelinks": [
+                {
+                    "title": "Carreras de Grado",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABAGGgJ5bQ&ae=2&sig=AOD64_0JB7V2qxVePTZ0wZ-r_ggXDkH49w&q=&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QpigoAHoECAMQBw&adurl="
+                },
+                {
+                    "title": "Carreras de Posgrado",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABAJGgJ5bQ&ae=2&sig=AOD64_0g6eGWBeQt0BVpfGrAniNA9t6u5A&q=&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QpigoAXoECAMQCA&adurl="
+                },
+                {
+                    "title": "Facultades e Institutos",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABALGgJ5bQ&ae=2&sig=AOD64_0yw6Kfug_0-OG5xnnEhnAIgTQLkA&q=&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QpigoAnoECAMQCQ&adurl="
+                },
+                {
+                    "title": "Nuestra Historia",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABAOGgJ5bQ&ae=2&sig=AOD64_0j4-NdKj8Wd4oo5dmGuy2e9bqGsQ&q=&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QpigoA3oECAMQCg&adurl="
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "block_position": "bottom",
+            "title": "Sistemas de Energía Renovable - En Teksan Jeneratör",
+            "link": "https://www.teksanuk.com/en/hybrid-power-systems/",
+            "displayed_link": "http://www.teksanuk.com/",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABAAGgJ5bQ&ae=2&sig=AOD64_0ZjQ1CNiW8QYqYlLUl34e2zLNGWw&q&adurl",
+            "description": "Tecnología Híbrida Respotuosa a Medio Ambiente Que Utiliza Recursos Renovables. Teksan Proporciona Productos Que Ofrecen Bajos Costos de Operación y Combustible."
+        },
+        {
+            "position": 5,
+            "block_position": "bottom",
+            "title": "Los costos ambientales de la energía renovable son asombrosos",
+            "link": "https://fee.org.es/articulos/los-costos-ambientales-de-la-energ%C3%ADa-renovable-son-asombrosos/",
+            "displayed_link": "https://www.fee.org.es/",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABABGgJ5bQ&ae=2&sig=AOD64_3pnfQ0u9qgwd33xmROkkSx9y2qfQ&q&adurl",
+            "extensions": [
+                "‎Free Courses · ‎Home · ‎Free Books · ‎Articles · ‎La FEE · ‎Our Events"
+            ],
+            "description": "Los mejores artículos sobre emprendimiento e innovación. La fuente de noticias para los librepensadores latinoamericanos. Materiales en español. Inspirando y educando. Servicios adicionales: investigación académica, noticias, artículos.",
+            "sitelinks": [
+                {
+                    "title": "Free Courses",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABAFGgJ5bQ&ae=2&sig=AOD64_3521bUUieIeWhtyq1Xt4Gnd911Rw&q=&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QpigoAHoECAcQBQ&adurl="
+                },
+                {
+                    "title": "Home",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABAIGgJ5bQ&ae=2&sig=AOD64_04Kf40DIILzfYyBBqCrmPjzx3oew&q=&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QpigoAXoECAcQBg&adurl="
+                },
+                {
+                    "title": "Free Books",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABAMGgJ5bQ&ae=2&sig=AOD64_1gWw075aBT2K9NRIlAFJysFyw5KA&q=&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QpigoAnoECAcQBw&adurl="
+                },
+                {
+                    "title": "Articles",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABANGgJ5bQ&ae=2&sig=AOD64_373MvpfJn4RLYl4sUoz70DBQ4gHQ&q=&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QpigoA3oECAcQCA&adurl="
+                },
+                {
+                    "title": "La FEE",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABAPGgJ5bQ&ae=2&sig=AOD64_2SgMkHXLa1pTF6Q7hTD4fRHLfzMA&q=&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QpigoBHoECAcQCQ&adurl="
+                },
+                {
+                    "title": "Our Events",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWtezQ_dn3AhXKOLMAHbjRDtkYABAQGgJ5bQ&ae=2&sig=AOD64_0GG31slZb-1qiRiciOKPO6wG1rWA&q=&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QpigoBXoECAcQCg&adurl="
+                }
+            ]
+        }
+    ],
+    "knowledge_graph": {
+        "title": "Energía renovable",
+        "header_images": [
+            {
+                "source": "https://www.factorenergia.com/es/blog/noticias/energias-renovables-caracteristicas-tipos-nuevos-retos/"
+            },
+            {
+                "source": "https://es.wikipedia.org/wiki/Energ%C3%ADa_renovable"
+            },
+            {
+                "source": "https://www.ambientum.com/ambientum/energia/el-futuro-de-la-energia-renovable.asp"
+            },
+            {
+                "source": "https://www.bbva.com/es/sostenibilidad/que-son-las-energias-renovables-y-por-que-son-importantes/"
+            },
+            {
+                "source": "https://www.ecologiaverde.com/energias-renovables-que-son-y-ejemplos-3568.html"
+            },
+            {
+                "source": "https://www.youtube.com/watch?v=4eEri5RivV8"
+            }
+        ],
+        "description": "Se denomina energía renovable a la energía que se obtiene a partir de fuentes naturales virtualmente inagotables, ya sea por la inmensa cantidad de energía que contienen, o porque son capaces de regenerarse por medios naturales.​",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://es.wikipedia.org/wiki/Energ%C3%ADa_renovable"
+        },
+        "también_se_buscó": [
+            {
+                "name": "Energía eólica",
+                "link": "https://www.google.com/search?hl=es&gl=AR&q=Energ%C3%ADa+e%C3%B3lica&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgMSX_leFmOdv-w6WhtNO6VGOQ4OiytzHdWxXt0RxSkE8J1mwivWpzKeeRidEwIcjMVxM76ucZnKByche0RZP9cwMuH6qmyqHOYaZaGhjteASDuUadtDd2sEvGNCbCDC7uTx4TLI0hKZpDRahmpDinAamNcwyGdVVYmCHKQ8OK3IUoEUDt1XKsdSoZO2LrTCOib2UKKpQT3o1px_Zh_J-FIkkQKP2Xma8ccTk0T_TPVCzOWbxvwxz40mw3WWMi3bYb6Yml9Q%3D&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QxA16BAhtEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+e%C3%B3lica&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgMSX_leFmOdv-w6WhtNO6VGOQ4OiytzHdWxXt0RxSkE8J1mwivWpzKeeRidEwIcjMVxM76ucZnKByche0RZP9cwMuH6qmyqHOYaZaGhjteASDuUadtDd2sEvGNCbCDC7uTx4TLI0hKZpDRahmpDinAamNcwyGdVVYmCHKQ8OK3IUoEUDt1XKsdSoZO2LrTCOib2UKKpQT3o1px_Zh_J-FIkkQKP2Xma8ccTk0T_TPVCzOWbxvwxz40mw3WWMi3bYb6Yml9Q%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d000e1e803f24a181d85e/images/88427b8542a19c9aca463ff67615ebe7ce564fa96da66e5147dd89804dac56a97f02cc70a777d03f2389e619723d7bf9.jpeg"
+            },
+            {
+                "name": "Energía",
+                "link": "https://www.google.com/search?hl=es&gl=AR&q=Energ%C3%ADa&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdR0bao-HbIFWkNNJeX6pxa9fa3sLO6rXWLxnYj4JEO_lLvSIAImQR5ETTA83wIugiRBY8zo5XH5EtlxDrZLvFA78Eg7mb1uSKI8GboZIcF2ub-47O_QuEOrEIHgcTuhEE0keZ_Yyxlk2UCI8m6AYjz4yjFYUu1gsCdkX0tT9X0rWfyl08dcXVYJzxk862EZduxoEU6InE_54HeJ3L-FCQDmkvB3XV8pr3oGX7NsxA4Ha2_csiRbRgWqaBFKbH8nzC10TzU0%3D&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QxA16BAhtEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdR0bao-HbIFWkNNJeX6pxa9fa3sLO6rXWLxnYj4JEO_lLvSIAImQR5ETTA83wIugiRBY8zo5XH5EtlxDrZLvFA78Eg7mb1uSKI8GboZIcF2ub-47O_QuEOrEIHgcTuhEE0keZ_Yyxlk2UCI8m6AYjz4yjFYUu1gsCdkX0tT9X0rWfyl08dcXVYJzxk862EZduxoEU6InE_54HeJ3L-FCQDmkvB3XV8pr3oGX7NsxA4Ha2_csiRbRgWqaBFKbH8nzC10TzU0%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d000e1e803f24a181d85e/images/88427b8542a19c9aca463ff67615ebe7ce564fa96da66e5147dd89804dac56a9a5b7bc3fd0ee33234fb38ec1d823511f.jpeg"
+            },
+            {
+                "name": "Energía solar",
+                "link": "https://www.google.com/search?hl=es&gl=AR&q=Energ%C3%ADa+solar&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVq-LzfzkCREL1QMKfKtH5SRrFqaz3B8_KRRcuNytQEw35b8CjVjM3sN9pmKS7DeZcjf5uzCfzIqSDqZPDotN6Uqu1onM1I2ec79a_SB0eHd6r34AaspqhvrYoU9xKLww25p0oTzS04LLbFzpiUXTUXVYJvQJUtZE_hI7oFsoejktrd27lv7lvE1b-TFLwnBsGujXPrbWUEkYIcBykQ_K-pJ7SGjMkWeScEyxkomkI1xVhyDMQUjYKO9anZveqsmcxUsUzM%3D&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QxA16BAhtEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+solar&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVq-LzfzkCREL1QMKfKtH5SRrFqaz3B8_KRRcuNytQEw35b8CjVjM3sN9pmKS7DeZcjf5uzCfzIqSDqZPDotN6Uqu1onM1I2ec79a_SB0eHd6r34AaspqhvrYoU9xKLww25p0oTzS04LLbFzpiUXTUXVYJvQJUtZE_hI7oFsoejktrd27lv7lvE1b-TFLwnBsGujXPrbWUEkYIcBykQ_K-pJ7SGjMkWeScEyxkomkI1xVhyDMQUjYKO9anZveqsmcxUsUzM%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d000e1e803f24a181d85e/images/88427b8542a19c9aca463ff67615ebe7ce564fa96da66e5147dd89804dac56a9827b22b0c9c23a2dcde1d8e2187c0fa6.jpeg"
+            },
+            {
+                "name": "Sostenibilidad",
+                "link": "https://www.google.com/search?hl=es&gl=AR&q=Sostenibilidad&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdU2q8NlT4yUitRH9kltF8rJ_g5S6enlK-RceiVMSaKFEE7jXuvaulqZ3nf6cGuWLK00CF_cBqTNTMhjGjYQJjT12_Pw6YgDdcIXSigZ82OXbc4div8BKluFlbJtu-PzZ2x5Iyb2ZzHLGzvQPWPBsn5YqKKLeGky13H8Z-OoObo-9ZsIZK6SYu94GKhSd49Tk_zhdv_VqZE4a_BQIvLYRkYrPXpECVFHKVBij6mHkBglN3LKP17MziysKlgq7DUSlNuZQ5zA%3D&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QxA16BAhtEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Sostenibilidad&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdU2q8NlT4yUitRH9kltF8rJ_g5S6enlK-RceiVMSaKFEE7jXuvaulqZ3nf6cGuWLK00CF_cBqTNTMhjGjYQJjT12_Pw6YgDdcIXSigZ82OXbc4div8BKluFlbJtu-PzZ2x5Iyb2ZzHLGzvQPWPBsn5YqKKLeGky13H8Z-OoObo-9ZsIZK6SYu94GKhSd49Tk_zhdv_VqZE4a_BQIvLYRkYrPXpECVFHKVBij6mHkBglN3LKP17MziysKlgq7DUSlNuZQ5zA%3D&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+                "image": "https://serpapi.com/searches/627d000e1e803f24a181d85e/images/88427b8542a19c9aca463ff67615ebe7ce564fa96da66e5147dd89804dac56a95486fb0602f9c0084c7698ef49c97666.jpeg"
+            }
+        ],
+        "también_se_buscó_link": "https://www.google.com/search?hl=es&gl=AR&q=Energ%C3%ADa+renovable&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCs7QEgzNTUssTK4v9UitKgktSC4oXsQq55qUWpR9em6hQlJqXX5aYlJO6g5URAH4uDX1BAAAA&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4QMSgAegQIbRAB",
+        "también_se_buscó_stick": "H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCs7QEgzNTUssTK4v9UitKgktSC4oXsQq55qUWpR9em6hQlJqXX5aYlJO6g5URAH4uDX1BAAAA"
+    },
+    "top_stories": [
+        {
+            "title": "\"Hoy la energía renovable es competitiva y, en este contexto, su demanda se acelera\"",
+            "link": "https://www.ambito.com/ambito-biz/ambito-debate/hoy-la-energia-renovable-es-competitiva-y-este-contexto-su-demanda-se-acelera-n5436035",
+            "source": "Ámbito",
+            "date": "hace 1 día",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJaj3cG7g02nlkBZpY3tr9yIdx0ZREffjiyALpRq4&usqp=CAI&s"
+        },
+        {
+            "title": "En 2035, la energía en Alemania será 100% renovable",
+            "link": "https://tradenews.com.ar/en-2035-la-energia-en-alemania-sera-100-renovable/",
+            "source": "Trade News",
+            "date": "hace 2 días"
+        },
+        {
+            "title": "Por qué las industrias brasileñas contratan ...",
+            "link": "https://www.bnamericas.com/es/reportajes/por-que-las-industrias-brasilenas-contratan-energia-renovable",
+            "source": "BNamericas",
+            "date": "hace 2 días",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFrq5YWQvAp6c1ljHCdANUuANsz-bNJnhPIcTXj9QAVSCXu1FXyGtR64&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=es&gl=AR&q=Energ%C3%ADa+renovable&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Qt8YBegQIIxAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&tbm=nws&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+    "related_questions": [
+        {
+            "question": "¿Cuáles son los tipos de energías renovables?",
+            "snippet": "Entre los diferentes tipos de energías renovables encontramos los siguientes: energía hidráulica, energía eólica, energía solar, energía geotérmica, energía mareomotriz, energía de la biomasa.",
+            "title": "Energías Renovables - Gobierno del Estado de Oaxaca",
+            "link": "https://www.oaxaca.gob.mx/semaedeso/energias-renovables/",
+            "displayed_link": "https://www.oaxaca.gob.mx › energias-renovables"
+        },
+        {
+            "question": "¿Qué es la energía renovable y ejemplos?",
+            "snippet": "Entendemos como energías renovables a toda aquella energía que es obtenida de una fuente natural y, virtualmente, inagotable. Estas fuentes se consideran inagotables por la gran cantidad de energía que poseen y porque se generan sin esfuerzo por parte de las personas; ejemplo de ello es el sol.17 feb 2021",
+            "title": "¿Qué son las energías renovables? - CEUPE",
+            "link": "https://www.ceupe.mx/blog/que-son-las-energias-renovables.html",
+            "displayed_link": "https://www.ceupe.mx › que-son-las-energias-renovables"
+        },
+        {
+            "question": "¿Qué es energía no renovable 5 ejemplos?",
+            "snippet": "Las energías no renovables son aquellas que provienen de fuentes de las que hay una cantidad limitada. Así que, cuando se terminan, no se pueden reponer. El petróleo, el carbón y el gas son las energías no renovables tradicionales que han movido el mundo desde la revolución industrial y, de hecho, todavía lo hacen.18 sept 2018",
+            "title": "Energías renovables y no renovables - Energya",
+            "link": "https://www.energyavm.es/energias-renovables-y-no-renovables/",
+            "displayed_link": "https://www.energyavm.es › energias-renovables-y-no-ren..."
+        },
+        {
+            "question": "¿Qué puede ser energía renovable?",
+            "snippet": "Entre estas fuentes de energía se consideran la hidráulica, la solar, la eólica y la de los océanos. De igual forma, dependiendo de su modo de explotación, también pueden ser catalogadas como renovables la energía proveniente de la biomasa, la energía geotérmica y los biocombustibles.",
+            "title": "¿Qué son las Energías Renovables?",
+            "link": "https://energia.gob.cl/educacion/que-son-las-energias-renovables",
+            "displayed_link": "https://energia.gob.cl › que-son-las-energias-renovables"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Se denomina “energías renovables” a aquellas fuentes energéticas basadas en la utilización del sol, el viento, el agua o la biomasa vegetal o animal -entre otras-. Se caracterizan por no utilizar combustibles fósiles –como sucede con las energías convencionales-, sino recursos capaces de renovarse ilimitadamente.",
+        "link": "https://www.argentina.gob.ar/economia/energia/energia-electrica/renovables/que-son-las-energias-renovables#:~:text=Se%20denomina%20%E2%80%9Cenerg%C3%ADas%20renovables%E2%80%9D%20a,recursos%20capaces%20de%20renovarse%20ilimitadamente.",
+        "displayed_link": "https://www.argentina.gob.ar › energia › renovables › que...",
+        "snippet": "Se denomina “energías renovables” a aquellas fuentes energéticas basadas en la utilización del sol, el viento, el agua o la biomasa vegetal o animal -entre otras-. Se caracterizan por no utilizar combustibles fósiles –como sucede con las energías convencionales-, sino recursos capaces de renovarse ilimitadamente.",
+        "thumbnail": "https://serpapi.com/searches/627d000e1e803f24a181d85e/images/437f10b191da1738ee2fa6a91e89ec2cd85d9530b297a7dc.png",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Energías Renovables | Argentina.gob.ar",
+            "link": "https://www.argentina.gob.ar/economia/energia/energia-electrica/renovables",
+            "displayed_link": "https://www.argentina.gob.ar › energia › energia-electrica",
+            "snippet": "Se denomina “energías renovables” a aquellas fuentes energéticas basadas en la utilización del sol, el viento, el agua o la biomasa vegetal o animal -entre ...",
+            "snippet_highlighted_words": [
+                "energías renovables"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "La importancia de las energías renovables | ACCIONA",
+            "link": "https://www.acciona.com/es/energias-renovables/",
+            "displayed_link": "https://www.acciona.com › energias-renovables",
+            "thumbnail": "https://serpapi.com/searches/627d000e1e803f24a181d85e/images/8945fe14d296a695e10d4c322662eb7ceb4be6d1728ba623f1b04b8165cc628c.jpeg",
+            "snippet": "¿QUÉ TIPOS DE ENERGÍAS RENOVABLES EXISTEN? · Energía eólica: la energía que se obtiene del viento · Energía solar: la energía que se obtiene del sol. · Energía ...",
+            "snippet_highlighted_words": [
+                "ENERGÍAS RENOVABLES"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Energía renovable - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Energ%C3%ADa_renovable",
+            "displayed_link": "https://es.wikipedia.org › wiki › Energía_renovable",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRv0nz3tJnzguNH8ygcmDiCXuwLBhrdf3G8BOaYiL425y4eFZAu1u&usqp=CAE&s",
+            "snippet": "Se denomina energía renovable a la energía que se obtiene a partir de fuentes naturales virtualmente inagotables, ya sea por la inmensa cantidad de energía ...",
+            "snippet_highlighted_words": [
+                "energía renovable"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "No renovables",
+                        "link": "https://es.wikipedia.org/wiki/Energ%C3%ADa_renovable#No_renovables"
+                    },
+                    {
+                        "title": "Renovables o verdes",
+                        "link": "https://es.wikipedia.org/wiki/Energ%C3%ADa_renovable#Renovables_o_verdes"
+                    },
+                    {
+                        "title": "Biomasa",
+                        "link": "https://es.wikipedia.org/wiki/Energ%C3%ADa_renovable#Biomasa"
+                    },
+                    {
+                        "title": "Impacto ambiental",
+                        "link": "https://es.wikipedia.org/wiki/Energ%C3%ADa_renovable#Impacto_ambiental"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "Energías renovables: ¿Qué son y para qué sirven? - Climate ...",
+            "link": "https://climate.selectra.com/es/que-es/energias-renovables",
+            "displayed_link": "https://climate.selectra.com › Inicio › Que Es",
+            "date": "25 mar 2022",
+            "snippet": "Se dice que una energía es renovable cuando su fuente de energía se basa en la utilización de recursos naturales inagotables, como el sol, el ...",
+            "snippet_highlighted_words": [
+                "energía",
+                "renovable",
+                "energía"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Tipos de energías renovables - Factorenergia",
+            "link": "https://www.factorenergia.com/es/blog/noticias/energias-renovables-caracteristicas-tipos-nuevos-retos/",
+            "displayed_link": "https://www.factorenergia.com › blog › noticias › energ...",
+            "date": "30 ago 2018",
+            "snippet": "Para empezar, vamos a definir qué son las energías renovables. Son aquellas fuentes de energía basadas en la utilización de recursos naturales: ...",
+            "snippet_highlighted_words": [
+                "energías renovables"
+            ],
+            "related_questions": [
+                {
+                    "question": "¿Qué son las energías renovables?",
+                    "snippet": "Son aquellas fuentes de energía basadas en la utilización de recursos naturales inagotables: el sol, el viento, el agua o la biomasa vegetal o animal. Se caracterizan por no utilizar combustibles fósiles, sino recursos naturales capaces de renovarse ilimitadamente. Saber más sobre las energías renovables"
+                },
+                {
+                    "question": "¿Qué características tienen las energías renovables?",
+                    "snippet": "Ayudan a potenciar el autoconsumoSon beneficiosas para el medio ambienteSon recursos naturales gratuitos e inagotablesPueden llegar a lugares aisladosSon un plus para lograr la independencia energética"
+                }
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Energías renovables: fuentes y tipos de energía - Enel Green ...",
+            "link": "https://www.enelgreenpower.com/es/learning-hub/energias-renovables",
+            "displayed_link": "https://www.enelgreenpower.com › energias-renovables",
+            "snippet": "Producir energía renovable significa utilizar el sol, la fuerza del viento o del agua y el calor de la tierra, presentes en la naturaleza de manera abundante y ...",
+            "snippet_highlighted_words": [
+                "energía renovable"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "¿Qué tipos de energías renovables existen y qué papel ...",
+            "link": "https://www.bbva.com/es/sostenibilidad/que-tipos-de-energias-renovables-existen-y-que-papel-juegan/",
+            "displayed_link": "https://www.bbva.com › sostenibilidad › que-tipos-de-e...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmMOxUHBmRVpSrjWibK4DpQzK3jNOVlIa-nk9wHWrMK0oswOCVSLa&usqp=CAE&s",
+            "snippet": "Las energías renovables son aquellas que se obtienen de fuentes naturales y son inagotables o con capacidad de renovación. Estas energías se han convertido ...",
+            "snippet_highlighted_words": [
+                "energías renovables"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Qué son las energías renovables y por qué son importantes",
+                    "link": "https://www.bbva.com/es/sostenibilidad/que-son-las-energias-renovables-y-por-que-son-importantes/",
+                    "displayed_link": "https://www.bbva.com › sostenibilidad › que-son-las-en...",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-WgRaIuzr2xvlbpm9CcHNxHFEqUBJf5sJXSa0MCKzWZcelesLCGB&usqp=CAE&s",
+                    "snippet": "Este tipo de energía es el mayor regalo posible de la naturaleza. Una energía inagotable como las fuentes renovables de las que procede: sol, viento, agua, ...",
+                    "snippet_highlighted_words": [
+                        "energía",
+                        "energía",
+                        "renovables"
+                    ]
+                }
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "energía renovables ejemplos",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Energ%C3%ADa+renovables+ejemplos&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q1QJ6BAgtEAE"
+        },
+        {
+            "query": "energía renovable y no renovable",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Energ%C3%ADa+renovable+y+no+renovable&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q1QJ6BAgsEAE"
+        },
+        {
+            "query": "energía renovable características",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Energ%C3%ADa+renovable+caracter%C3%ADsticas&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q1QJ6BAgqEAE"
+        },
+        {
+            "query": "porque es importante la energía renovable",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Porque+es+importante+la+energ%C3%ADa+renovable&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q1QJ6BAgoEAE"
+        },
+        {
+            "query": "diferencia entre energía renovable y no renovable? yahoo",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=diferencia+entre+energ%C3%ADa+renovable+y+no+renovable%3F+yahoo&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q1QJ6BAgmEAE"
+        },
+        {
+            "query": "utilizar energía renovable",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Utilizar+energ%C3%ADa+renovable&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q1QJ6BAglEAE"
+        },
+        {
+            "query": "importancia de las energías renovables pdf",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Importancia+de+las+energ%C3%ADas+renovables+PDF&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q1QJ6BAgkEAE"
+        },
+        {
+            "query": "subsidios para proyectos de energía renovable",
+            "link": "https://www.google.com/search?hl=es&gl=AR&q=Subsidios+para+proyectos+de+energ%C3%ADa+renovable&sa=X&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q1QJ6BAgiEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Energ%C3%ADa+renovable&hl=es&gl=AR&ei=DgB9Ypq5Dq-b_Qb2tpnwBQ&start=10&sa=N&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q8NMDegQIARBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Energ%C3%ADa+renovable&hl=es&gl=AR&ei=DgB9Ypq5Dq-b_Qb2tpnwBQ&start=10&sa=N&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q8tMDegQIARA_",
+            "3": "https://www.google.com/search?q=Energ%C3%ADa+renovable&hl=es&gl=AR&ei=DgB9Ypq5Dq-b_Qb2tpnwBQ&start=20&sa=N&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q8tMDegQIARBB",
+            "4": "https://www.google.com/search?q=Energ%C3%ADa+renovable&hl=es&gl=AR&ei=DgB9Ypq5Dq-b_Qb2tpnwBQ&start=30&sa=N&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q8tMDegQIARBD",
+            "5": "https://www.google.com/search?q=Energ%C3%ADa+renovable&hl=es&gl=AR&ei=DgB9Ypq5Dq-b_Qb2tpnwBQ&start=40&sa=N&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q8tMDegQIARBF",
+            "6": "https://www.google.com/search?q=Energ%C3%ADa+renovable&hl=es&gl=AR&ei=DgB9Ypq5Dq-b_Qb2tpnwBQ&start=50&sa=N&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q8tMDegQIARBH",
+            "7": "https://www.google.com/search?q=Energ%C3%ADa+renovable&hl=es&gl=AR&ei=DgB9Ypq5Dq-b_Qb2tpnwBQ&start=60&sa=N&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q8tMDegQIARBJ",
+            "8": "https://www.google.com/search?q=Energ%C3%ADa+renovable&hl=es&gl=AR&ei=DgB9Ypq5Dq-b_Qb2tpnwBQ&start=70&sa=N&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q8tMDegQIARBL",
+            "9": "https://www.google.com/search?q=Energ%C3%ADa+renovable&hl=es&gl=AR&ei=DgB9Ypq5Dq-b_Qb2tpnwBQ&start=80&sa=N&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q8tMDegQIARBN",
+            "10": "https://www.google.com/search?q=Energ%C3%ADa+renovable&hl=es&gl=AR&ei=DgB9Ypq5Dq-b_Qb2tpnwBQ&start=90&sa=N&ved=2ahUKEwia-OTQ_dn3AhWvTd8KHXZbBl4Q8tMDegQIARBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=10&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=20&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=30&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=40&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=50&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=60&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=70&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=80&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=AR&google_domain=google.com&hl=es&q=Energ%C3%ADa+renovable&start=90&uule=w%2BCAIQICIjQnVlbm9zIEFpcmVzLEJ1ZW5vcyBBaXJlcyxBcmdlbnRpbmE%3D"
+        }
+    }
+}

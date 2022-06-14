@@ -1,0 +1,304 @@
+{
+    "search_metadata": {
+        "id": "629e3d6cf26ac627a953f378",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/dcdcb47936271e53/629e3d6cf26ac627a953f378.json",
+        "created_at": "2022-06-06 17:46:20 UTC",
+        "processed_at": "2022-06-06 17:46:20 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&oq=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/dcdcb47936271e53/629e3d6cf26ac627a953f378.html",
+        "total_time_taken": 1.43
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "طاقة",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "طاقة",
+        "total_results": 33700000,
+        "time_taken_displayed": 0.6
+    },
+    "knowledge_graph": {
+        "title": "طاقة",
+        "header_images": [
+            {
+                "source": "https://www.ibelieveinsci.com/%D9%81%D8%B6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%B9%D8%A7%D9%85-%D9%82%D8%AF-%D8%AA%D8%AD%D9%81%D8%B8-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D8%A3%D9%88/"
+            },
+            {
+                "source": "https://www.dw.com/ar/%D9%87%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D9%86%D8%B8%D9%8A%D9%81%D8%A9-%D8%A5%D9%84%D9%8A%D9%83%D9%85-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AD%D9%82%D8%A7%D8%A6%D9%82/a-59823994"
+            },
+            {
+                "source": "https://www.edarabia.com/ar/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-7-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%84%D9%87%D8%A7-%D9%86%D8%A7%D9%81%D8%B9%D8%A9-%D9%84%D8%AD%D9%8A%D8%A7%D8%AA%D9%86%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9/"
+            },
+            {
+                "source": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D9%85%D8%B5%D8%A7%D8%AF%D8%B1_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9"
+            }
+        ],
+        "description": "الطاقة هي إحدى صور الوجود، فالكون مكون من أجرام وطاقة. منذ النظرية النسبية لأينشتاين نعرف تكافؤ المادة والطاقة، فالطاقة يمكن أن تتحول إلى مادة وبالعكس يمكن للمادة أن تتحول إلى طاقة. وقد رأينا تحول المادة إلى طاقة في اختراع القنبلة الذرية.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9"
+        },
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "مادة",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D8%A7%D8%AF%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTFWuWpkxU3jhIXUoTHuQMUrGcLhc0SlglZ3r9dwmj2kD-mB_O8LQia9DtWafkA3KxBguiffEpSvIgxyi_l3gRlnyuicXEwjCQL5b_wzVhZpVVnqMA0jo_Xxtaz4jDwEHbDubr9M0D_pP8nFj8LRv54c6-r8-gDoD-8mNOny8MrTQZsHfnabVHw0pChGAk1KeofQiKf5ptR4fIbUYlBwSJ1uzStZ3Z2-d1vjfU74g7V8HXpu5FYB09QLKisFlFglk-Tnt6s%3D&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQxA16BAhbEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%A7%D8%AF%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTFWuWpkxU3jhIXUoTHuQMUrGcLhc0SlglZ3r9dwmj2kD-mB_O8LQia9DtWafkA3KxBguiffEpSvIgxyi_l3gRlnyuicXEwjCQL5b_wzVhZpVVnqMA0jo_Xxtaz4jDwEHbDubr9M0D_pP8nFj8LRv54c6-r8-gDoD-8mNOny8MrTQZsHfnabVHw0pChGAk1KeofQiKf5ptR4fIbUYlBwSJ1uzStZ3Z2-d1vjfU74g7V8HXpu5FYB09QLKisFlFglk-Tnt6s%3D",
+                "image": "https://serpapi.com/searches/629e3d6cf26ac627a953f378/images/813c219b9296dcde2ad433e2e3787eb5ae707ef7deaca538ac4e340aed33515ac006eed8e03c1225516184225c49ffac8005fca41f4bf2b97a2c3f5b87ddd291.jpeg"
+            },
+            {
+                "name": "طاقة الرياح",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgEt-EYm3cdi7crRCZyC_-XzfqEK1Icy6pdDzZQ9QpC1tw3RxP1szP5hMpohBko9rstEEwTSACv4t_OAZuEWjGonWgfIsnawSoDpofGCNOzLvjQ1oxFruLhD8oOrt-sDJoiDxtlAnHwW_ToZf1T7TqzJZqTqKYr7o1QuA6g6v7DhwUSAU150g9QnmhY7vsbFrSHq-gziERL5I5jteMVsNe8rhgg_R3-SDrHAOoKnyIgaIRluW7G7E740_mdLKzGNN5Q4KN1I%3D&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQxA16BAhbEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgEt-EYm3cdi7crRCZyC_-XzfqEK1Icy6pdDzZQ9QpC1tw3RxP1szP5hMpohBko9rstEEwTSACv4t_OAZuEWjGonWgfIsnawSoDpofGCNOzLvjQ1oxFruLhD8oOrt-sDJoiDxtlAnHwW_ToZf1T7TqzJZqTqKYr7o1QuA6g6v7DhwUSAU150g9QnmhY7vsbFrSHq-gziERL5I5jteMVsNe8rhgg_R3-SDrHAOoKnyIgaIRluW7G7E740_mdLKzGNN5Q4KN1I%3D",
+                "image": "https://serpapi.com/searches/629e3d6cf26ac627a953f378/images/813c219b9296dcde2ad433e2e3787eb5ae707ef7deaca538ac4e340aed33515ac006eed8e03c1225516184225c49ffac8005fca41f4bf2b9e6553a447c5880c7.jpeg"
+            },
+            {
+                "name": "كهرباء",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUOUgZ0rZQOSpPKJ_qritN80F2ThwVI0uzbDYjKV0JsH1aA9kXTojvN6X7eCBt8bDM7zGeYNr6yc_6Zc1CXocwa2ER3-Rhc_S89Xapp_WbBD8QkY78362kqtIKWp27rPLhNBSnnzmXs6WqjBtpt-USO-NSPdwwmxGmdnPygywBrbTCGMFny8_VncZve11YC7IdJYSn8xn4QQnH1ODCoz_-3MY4mHTVR7nJ9sfArfw280KYlxoXP-N371_sYLean1Y3paqzQ%3D&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQxA16BAhbEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUOUgZ0rZQOSpPKJ_qritN80F2ThwVI0uzbDYjKV0JsH1aA9kXTojvN6X7eCBt8bDM7zGeYNr6yc_6Zc1CXocwa2ER3-Rhc_S89Xapp_WbBD8QkY78362kqtIKWp27rPLhNBSnnzmXs6WqjBtpt-USO-NSPdwwmxGmdnPygywBrbTCGMFny8_VncZve11YC7IdJYSn8xn4QQnH1ODCoz_-3MY4mHTVR7nJ9sfArfw280KYlxoXP-N371_sYLean1Y3paqzQ%3D",
+                "image": "https://serpapi.com/searches/629e3d6cf26ac627a953f378/images/813c219b9296dcde2ad433e2e3787eb5ae707ef7deaca538ac4e340aed33515ac006eed8e03c1225516184225c49ffac8005fca41f4bf2b95e8bf1f49435115e.jpeg"
+            },
+            {
+                "name": "قدرة",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%82%D8%AF%D8%B1%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZP942acTdr0bDYmr0aa4mzDLN68iLrO2gABZY1_ckF5CiXi_0Z7BWZ6PUCwwN72VwvT5fVbUF5j-aaz5mlspoQhHHgBHuW70WAwVd9mu96B1zvZO76WSav3U0xteuEn8lo_FG38o2YTd-ZJU_At4go3T2pUqXxZ3hHbeNw2mrbCEfsTeWteM-PtnOhe0qp35xitTKzCJ7ikE37YjfaDeXTHgf26LfP5rcRCh66HcG3yodQMC9qT35QINMWj1Ny2qhDsrEo%3D&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQxA16BAhbEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%82%D8%AF%D8%B1%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZP942acTdr0bDYmr0aa4mzDLN68iLrO2gABZY1_ckF5CiXi_0Z7BWZ6PUCwwN72VwvT5fVbUF5j-aaz5mlspoQhHHgBHuW70WAwVd9mu96B1zvZO76WSav3U0xteuEn8lo_FG38o2YTd-ZJU_At4go3T2pUqXxZ3hHbeNw2mrbCEfsTeWteM-PtnOhe0qp35xitTKzCJ7ikE37YjfaDeXTHgf26LfP5rcRCh66HcG3yodQMC9qT35QINMWj1Ny2qhDsrEo%3D",
+                "image": "https://serpapi.com/searches/629e3d6cf26ac627a953f378/images/813c219b9296dcde2ad433e2e3787eb5ae707ef7deaca538ac4e340aed33515ac006eed8e03c1225516184225c49ffac8005fca41f4bf2b9122b7812de79dac1.jpeg"
+            }
+        ],
+        "يبحث_الأشخاص_أيضًا_عن_link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D8%A7%D9%82%D8%A9&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCs7QEgzNTUssTK4v9UitKgktSC4oXsXLc2H5j-c2mGyt3sDICACEcMvg3AAAA&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQMSgAegQIWxAB",
+        "يبحث_الأشخاص_أيضًا_عن_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCs7QEgzNTUssTK4v9UitKgktSC4oXsXLc2H5j-c2mGyt3sDICACEcMvg3AAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "أشكال الطاقة",
+            "link": "https://www.youtube.com/watch?v=zP2xdZxlH1o",
+            "thumbnail": "https://i.ytimg.com/vi/zP2xdZxlH1o/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3ndTRpdtPS8Bv0Z2KHDBiiyK4Vagw",
+            "channel": "المعرفة قوة",
+            "duration": "6:34",
+            "platform": "YouTube",
+            "date": "20‏/10‏/2017"
+        },
+        {
+            "position": 2,
+            "title": "للقصة بقية | الطاقة المتجددة .. وضرورة استخدامها",
+            "link": "https://www.youtube.com/watch?v=l_48CQVED6s",
+            "thumbnail": "https://i.ytimg.com/vi/l_48CQVED6s/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3k6tqXMvSJXoE58AIYvDgC39JueBw",
+            "channel": "AlJazeera Channel قناة الجزيرة",
+            "duration": "49:37",
+            "platform": "YouTube",
+            "date": "19‏/10‏/2021"
+        },
+        {
+            "position": 3,
+            "title": "صناعة الطاقة - الطاقة والطبيعة : طاقة الرياح",
+            "link": "https://www.youtube.com/watch?v=aZ1gbRGUM0Q",
+            "thumbnail": "https://i.ytimg.com/vi/aZ1gbRGUM0Q/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nxiXftv_wVGAUA5DFwpuCgJa5KLA",
+            "channel": "AlJazeera Channel قناة الجزيرة",
+            "duration": "5:43",
+            "platform": "YouTube",
+            "date": "31‏/03‏/2008"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "الصين تفكك مشروعًا عملاقًا للطاقة الشمسية",
+            "link": "https://attaqa.net/2022/06/04/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D9%81%D9%83%D9%83-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%8B%D8%A7-%D8%B9%D9%85%D9%84%D8%A7%D9%82%D9%8B%D8%A7-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4/",
+            "source": "الطاقة",
+            "date": "قبل يومين (2)",
+            "thumbnail": "https://serpapi.com/searches/629e3d6cf26ac627a953f378/images/d545df2736c49f07a4810e785a0058d7cc2150adf08fcca4.jpeg"
+        },
+        {
+            "title": "التكلفة المستوية للكهرباء.. تقرير يكشف عن \"مغالطات\" طريقة الحساب الشائعة",
+            "link": "https://attaqa.net/2022/06/06/%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A9-%D9%84%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81/",
+            "source": "الطاقة",
+            "date": "قبل ساعتين (2)",
+            "thumbnail": "https://serpapi.com/searches/629e3d6cf26ac627a953f378/images/d545df2736c49f07894d735bbf46c996c3b2d9c8eb334fa6.jpeg"
+        },
+        {
+            "title": "\"مصدر\" تطور مشاريع لتحويل النفايات إلى طاقة في الخليج",
+            "link": "https://www.skynewsarabia.com/business/1528699-%D9%85%D8%B5%D8%AF%D8%B1-%D8%AA%D8%B7%D9%88%D8%B1-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D9%84%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%8A%D8%A7%D8%AA-%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC",
+            "source": "سكاي نيوز عربية",
+            "date": "قبل 7 ساعات",
+            "thumbnail": "https://serpapi.com/searches/629e3d6cf26ac627a953f378/images/d545df2736c49f07d079a1c6fc71ca2b1b64bcaf61056a61.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D8%A7%D9%82%D8%A9&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQt8YBegQIIxAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&tbm=nws",
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "طاقة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › طاقة",
+            "thumbnail": "https://serpapi.com/searches/629e3d6cf26ac627a953f378/images/e34eb4baa78fdafaa132adadb6c89d45a208db0b0151708a79b4f5c3e9fa0a1b.jpeg",
+            "snippet": "الطاقة هي إحدى صور الوجود، فالكون مكون من أجرام (أجسام) وطاقة. ... منذ النظرية النسبية لأينشتاين نعرف تكافؤ المادة والطاقة، فالطاقة يمكن أن تتحول إلى مادة وبالعكس ...",
+            "snippet_highlighted_words": [
+                "الطاقة",
+                "وطاقة",
+                "والطاقة",
+                "فالطاقة"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+            "link": "https://attaqa.net/",
+            "displayed_link": "https://attaqa.net",
+            "snippet": "الكل · التغير المناخي · تكنو طاقة · سيارات · طاقة متجددة · طاقة نووية · غاز · كهرباء ...",
+            "snippet_highlighted_words": [
+                "طاقة",
+                "طاقة",
+                "طاقة"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "طاقة متجددة",
+                        "link": "https://attaqa.net/category/renewable-energy/"
+                    },
+                    {
+                        "title": "روسيا وأوكرانيا",
+                        "link": "https://attaqa.net/category/russia-and-ukraine/"
+                    },
+                    {
+                        "title": "أخبار الطاقة المتجددة",
+                        "link": "https://attaqa.net/category/renewable-energy/news-renewable-energy/"
+                    },
+                    {
+                        "title": "أسعار النفط",
+                        "link": "https://attaqa.net/category/oil/oil-prices/"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "Powering a Thriving Future - TAQA",
+            "link": "https://www.taqa.com/ar/",
+            "displayed_link": "https://www.taqa.com › ...",
+            "snippet": "23 جيجاواط من القدرة الإنتاجية العالمية لتوليد الكهرباء * · 95 ٪ من احتياجات أبو ظبي من الكهرباء والمياه يتم تلبيتها · 1.4 ميجاواط من مصادر الطاقة المتجددة.",
+            "snippet_highlighted_words": [
+                "الطاقة"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "الوظائف - TAQA",
+            "link": "https://www.taqa.com/ar/careers/",
+            "displayed_link": "https://www.taqa.com › careers",
+            "snippet": "يرتكز نجاحنا في المقام الأول على توظيف مواهب وكفاءات متميزة ومبدعة، كما أننا ننظر إلى بناء المعارف وتطوير الخبرات الداخلية باعتباره النهج الأفضل لتحقيق ..."
+        },
+        {
+            "position": 5,
+            "title": "كيف يمكن أن تصبح الطاقة المتجدِّدة متنافسة من حيث التكاليف",
+            "link": "https://www.un.org/ar/chronicle/article/20309",
+            "displayed_link": "https://www.un.org › chronicle › article",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqdpzEcxhxc2ChzIXFUnJL5pQon_LVGlkN8CUh3ZL8RFORpf9UaFl&usqp=CAE&s",
+            "snippet": "من أجل التوصُّل إلى نظام للطاقة يتسم باستدامة حقيقية فلسوف يتعيّن أن تلعب الخلايا الشمسية الفولطاضوئية، إلى جانب طاقة الرياح دوراً يتزايد بسرعة فيما يتعلّق ...",
+            "snippet_highlighted_words": [
+                "للطاقة",
+                "طاقة"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "الصفحة الرئيسية - طاقة مصر - TAQA Misr",
+            "link": "https://www.taqamisr.com/ar/",
+            "displayed_link": "https://www.taqamisr.com › ...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZVybGHLHJC8kUj5MuuEuD2b2BCOWc8m21vivRew1kUsWOcj_Fyul1&usqp=CAE&s",
+            "snippet": "تطبيقاتنا · التسخين المركزي للمياه · التدفئة المركزية · تدفئة حمامات السباحة · دفايات اللهب · مضخات المياه المنزلية ..."
+        },
+        {
+            "position": 7,
+            "title": "طاقة | أخبار سكاي نيوز عربية",
+            "link": "https://www.skynewsarabia.com/topic/795889-%D8%B7%D8%A7%D9%82%D8%A9",
+            "displayed_link": "https://www.skynewsarabia.com › topic › 795889-طاقة",
+            "snippet": "آخر الأخبار · \"سيتي\" يتوقع نموا أضعف في الطلب على النفط في 2022 · مصارد الطاقة.. ولعبة عض الأصابع بين أوروبا وروسيا · \"طفرة ضخمة\" بصادرات الطاقة بمصر.. السر في هذه ...",
+            "snippet_highlighted_words": [
+                "الطاقة",
+                "الطاقة"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "هيئة الطاقة الجديدة والمتجددة: Home Page",
+            "link": "http://www.nrea.gov.eg/",
+            "displayed_link": "http://www.nrea.gov.eg",
+            "snippet": "طبقا للمستجدات والأحداث والتطورات السياسية التي شهدتها مصر خلال السنوات الماضية وتأثيرها على تنفيذ مشروعات الطاقة المتجددة بصفة خاصة، وحيث أن الاستراتيجيات ...",
+            "snippet_highlighted_words": [
+                "الطاقة"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "أنواع الطاقة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ1QJ6BAguEAE"
+        },
+        {
+            "query": "طاقة بالانجليزي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D8%A7%D9%82%D8%A9+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "طاقة شركة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D8%A7%D9%82%D8%A9+%D8%B4%D8%B1%D9%83%D8%A9&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "طاقة شمسية",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D8%A7%D9%82%D8%A9+%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "تعريف الطاقة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AA%D8%B9%D8%B1%D9%8A%D9%81+%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "الطاقة المتجددة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ1QJ6BAglEAE"
+        },
+        {
+            "query": "موقع طاقة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D9%88%D9%82%D8%B9+%D8%B7%D8%A7%D9%82%D8%A9&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ1QJ6BAghEAE"
+        },
+        {
+            "query": "طاقة السعودية",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&sa=X&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ1QJ6BAgfEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&ei=bT2eYsSDA-a0ggfP37_QCA&start=10&sa=N&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ8NMDegQIAxBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&ei=bT2eYsSDA-a0ggfP37_QCA&start=10&sa=N&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ8tMDegQIAxA9",
+            "3": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&ei=bT2eYsSDA-a0ggfP37_QCA&start=20&sa=N&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ8tMDegQIAxA_",
+            "4": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&ei=bT2eYsSDA-a0ggfP37_QCA&start=30&sa=N&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ8tMDegQIAxBB",
+            "5": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&ei=bT2eYsSDA-a0ggfP37_QCA&start=40&sa=N&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ8tMDegQIAxBD",
+            "6": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&ei=bT2eYsSDA-a0ggfP37_QCA&start=50&sa=N&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ8tMDegQIAxBF",
+            "7": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&ei=bT2eYsSDA-a0ggfP37_QCA&start=60&sa=N&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ8tMDegQIAxBH",
+            "8": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&ei=bT2eYsSDA-a0ggfP37_QCA&start=70&sa=N&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ8tMDegQIAxBJ",
+            "9": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&ei=bT2eYsSDA-a0ggfP37_QCA&start=80&sa=N&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ8tMDegQIAxBL",
+            "10": "https://www.google.com/search?q=%D8%B7%D8%A7%D9%82%D8%A9&hl=ar&gl=eg&ei=bT2eYsSDA-a0ggfP37_QCA&start=90&sa=N&ved=2ahUKEwiE7qTmsJn4AhVmmuAKHc_vD4oQ8tMDegQIAxBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A7%D9%82%D8%A9&start=90"
+        }
+    }
+}

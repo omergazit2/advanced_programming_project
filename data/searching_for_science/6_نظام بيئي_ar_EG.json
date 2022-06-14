@@ -1,0 +1,295 @@
+{
+    "search_metadata": {
+        "id": "629e3d5bc573d58c675af18a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8ac23d64140b41d1/629e3d5bc573d58c675af18a.json",
+        "created_at": "2022-06-06 17:46:03 UTC",
+        "processed_at": "2022-06-06 17:46:03 UTC",
+        "google_url": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&oq=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/8ac23d64140b41d1/629e3d5bc573d58c675af18a.html",
+        "total_time_taken": 0.88
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "نظام بيئي",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "نظام بيئي",
+        "total_results": 6340000,
+        "time_taken_displayed": 0.4
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "الأنظمة البيئية - ما هي مكونات النظام البيئي ؟ و ما النظام البيئي ...",
+            "link": "https://www.youtube.com/watch?v=rTxp3EOLHHs",
+            "thumbnail": "https://serpapi.com/searches/629e3d5bc573d58c675af18a/images/18cb9fb17a3777a27116c48f9bce3290cf1ec9b3dc196f7577e0238edae2f64d.jpeg",
+            "channel": "المعرفة قوة",
+            "duration": "13:14",
+            "platform": "YouTube",
+            "date": "07‏/04‏/2020"
+        },
+        {
+            "position": 2,
+            "title": "الأنظمة البيئية",
+            "link": "https://www.youtube.com/watch?v=4ZUrU__PUJ8",
+            "thumbnail": "https://serpapi.com/searches/629e3d5bc573d58c675af18a/images/18cb9fb17a3777a25e3f37857259e184cb25afb15f6e614081384eabcdd8ab30.jpeg",
+            "channel": "قناة العلوم",
+            "duration": "3:36",
+            "platform": "YouTube",
+            "date": "09‏/02‏/2019"
+        },
+        {
+            "position": 3,
+            "title": "المكونات غير الحية للنظام البيئي",
+            "link": "https://www.youtube.com/watch?v=VsE8HjwI2jc",
+            "thumbnail": "https://serpapi.com/searches/629e3d5bc573d58c675af18a/images/18cb9fb17a3777a219add9e620dd99ae192bca1283c79a506f696c7db12011ad.jpeg",
+            "channel": "قناة العلوم",
+            "duration": "3:24",
+            "platform": "YouTube",
+            "date": "09‏/02‏/2019"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ما هو نوع النظام البيئي؟",
+            "snippet": "يُعرف النظام البيئي بأنه منطقة جغرافية تتعايش فيها مجموعة متنوعة من النباتات والحيوانات والكائنات الحية الأخرى معاً. ويمكن أن تكون النظم البيئية ذات مساحة كبيرة مثل الصحراء أو صغيرة مثل البركة، وتحتوي على الكائنات الحية والأشياء غير الحية، مثل الصخور والرمال والرطوبة.",
+            "title": "#ForNature - UNEP",
+            "link": "https://www.unep.org/interactive/domino-effect-biodiversity-loss-why-it-matters/?lang=AR",
+            "displayed_link": "https://www.unep.org › interactive › domino-effect-bio..."
+        },
+        {
+            "question": "من أمثلة الأنظمة البيئية؟",
+            "snippet": "وقد تكون النظم البيئية كبيرة جدًا أو صغيرة جدًا مثل برك الماء التي تنشأ من المَدّ والجَزر في البحار والمحيطات، فهذه تُعدُّ أنظمة بيئية كاملة ومُصغرة تحتوي على الأعشاب البحرية وهي نوع من الطحالب التي تستخدم البناء الضوئي لإنتاج الغذاء.",
+            "title": "النظام البيئي | ما أهميته ومم يتكون وكيف يمكن الحفاظ عليه؟",
+            "link": "https://www.twinkl.com.eg/teaching-wiki/alnzam-albyyy",
+            "displayed_link": "https://www.twinkl.com.eg › alnzam-albyyy"
+        },
+        {
+            "question": "ما هو النظام الحيوي؟",
+            "snippet": "المنظومة البيئية أو النظام البيئي في علم البيئة هو أي مساحة طبيعية وما تحتويه من كائنات حية نباتية أو حيوانية أو مواد غير حية، البعض يعتبره الوحدة الرئيسية في علم البيئة، والنظام البيئي قد يكون بركة صغيرة أو صحراء كبيرة، ويمكن تعريف النظام البيئي كتجمع للكائنات الحية من نبات وحيوان وكائنات أخرى كمجتمع حيوي تتفاعل مع ...",
+            "title": "نظام بيئي - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D8%A8%D9%8A%D8%A6%D9%8A",
+            "displayed_link": "https://ar.wikipedia.org › wiki › نظام_بيئي"
+        },
+        {
+            "question": "ما هي فوائد النظام البيئي؟",
+            "snippet": "تزودنا البيئة بالمواد الأولية والطعام والمأوى والطاقة وموارد أخرى ضرورية من أجل رفاهيتنا الجسدية والأنشطة الاقتصادية المتنوعة. تُعرف هذه المصادر المادية بخدمات التزويد، الماء والطعام المواد الخام والموارد الطبية هي مثال على هذه الخدمات. الماء: تؤدي الأنظمة البيئية للماء العذب دورًا كبيرًا في تنظيم وتنقية المياه.18‏/08‏/2020",
+            "title": "ما هي خدمات النظام البيئي؟ - أنا أصدق العلم",
+            "link": "https://www.ibelieveinsci.com/%D9%85%D8%A7-%D9%87%D9%8A-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%9F/",
+            "displayed_link": "https://www.ibelieveinsci.com › ما-هي-خدمات-النظام-البيئي؟"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "نظام بيئي - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D8%A8%D9%8A%D8%A6%D9%8A",
+            "displayed_link": "https://ar.wikipedia.org › wiki › نظام_بيئي",
+            "snippet": "مكونات النظام البيئيعدل · مكونات غير حية : وهي المركبات والعناصر العضوية وغير العضوية مثل الكربون والهيدروجين والماء والفوسفات. · البيئة الفيزيائية :هي العلاقات ...",
+            "snippet_highlighted_words": [
+                "النظام البيئي"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "تعريف النظام البيئي - موضوع",
+            "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A",
+            "displayed_link": "https://mawdoo3.com › التلوث البيئي › علوم الأرض",
+            "snippet": "تعريف النظام البيئي لغةً . تعريف النظام البيئي اصطلاحاً . مكونات النظام البيئي . مكونات حية . المنتجات . المستهلكات . المحللات .",
+            "snippet_highlighted_words": [
+                "النظام البيئي",
+                "النظام البيئي",
+                "النظام البيئي"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "٢ تعريف النظام البيئي اصطلاحاً",
+                        "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A#.D8.AA.D8.B9.D8.B1.D9.8A.D9.81_.D8.A7.D9.84.D9.86.D8.B8.D8.A7.D9.85_.D8.A7.D9.84.D8.A8.D9.8A.D8.A6.D9.8A_.D8.A7.D8.B5.D8.B7.D9.84.D8.A7.D8.AD.D8.A7.D9.8B"
+                    },
+                    {
+                        "title": "٣ مكونات النظام البيئي",
+                        "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A#.D9.85.D9.83.D9.88.D9.86.D8.A7.D8.AA_.D8.A7.D9.84.D9.86.D8.B8.D8.A7.D9.85_.D8.A7.D9.84.D8.A8.D9.8A.D8.A6.D9.8A"
+                    },
+                    {
+                        "title": "٣.١ مكونات حية",
+                        "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A#.D9.85.D9.83.D9.88.D9.86.D8.A7.D8.AA_.D8.AD.D9.8A.D8.A9"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٢‏/٠٨‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "النظام البيئي | ما أهميته ومم يتكون وكيف يمكن الحفاظ عليه؟",
+            "link": "https://www.twinkl.com.eg/teaching-wiki/alnzam-albyyy",
+            "displayed_link": "https://www.twinkl.com.eg › alnzam-albyyy",
+            "snippet": "النظام البيئي هو مجموعة من الكائنات الحية التي تعيش وتتفاعل مع بعضها البعض في بيئة معينة كالغابات الاستوائية التي تتكون من كائنات حية تتفاعل فيما بينها.",
+            "snippet_highlighted_words": [
+                "النظام البيئي"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "النظام البيئي - Ecosystem - المعرفة",
+            "link": "https://www.marefa.org/%D9%86%D8%B8%D8%A7%D9%85_%D8%A8%D9%8A%D8%A6%D9%8A/simplified",
+            "displayed_link": "https://www.marefa.org › نظام_بيئي › simplified",
+            "snippet": "النظام البيئي (Ecosystem) في علم البيئة هو أي مساحة طبيعية وما تحتويه من كائنات حية نباتية أو حيوانية أو مواد غير حية ، البعض يعتبره الوحدة الرئيسية في علم ...",
+            "snippet_highlighted_words": [
+                "النظام البيئي"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "#ForNature - UNEP",
+            "link": "https://www.unep.org/interactive/domino-effect-biodiversity-loss-why-it-matters/?lang=AR",
+            "displayed_link": "https://www.unep.org › interactive › domino-effect-bio...",
+            "snippet": "يُعرف النظام البيئي بأنه منطقة جغرافية تتعايش فيها مجموعة متنوعة من النباتات والحيوانات والكائنات الحية الأخرى معاً. ويمكن أن تكون النظم البيئية ذات مساحة كبيرة ...",
+            "snippet_highlighted_words": [
+                "النظام البيئي"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "دعم إدارة النظام البيئي السليمة | أفريقيا | UNEP",
+            "link": "https://www.unep.org/ar/regions/africa/almbadrat-alaqlymyt/dm-adart-alnzam-albyyy-alslymt",
+            "displayed_link": "https://www.unep.org › dm-adart-alnzam-albyyy-alslymt",
+            "snippet": "دعم إدارة النظام البيئي السليمة ... النظم الإيكولوجية من خلال الدفع مقابل خدمات النظم الإيكولوجية وإدماج التنوع البيولوجي كنظام عمل لأداء النظام الإيكولوجي.",
+            "snippet_highlighted_words": [
+                "النظام البيئي"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "أنواع النظم البيئية | المرسال",
+            "link": "https://www.almrsal.com/post/923331",
+            "displayed_link": "https://www.almrsal.com › الطبيعة",
+            "snippet": "النظام البيئي هو الوحدة الهيكلية والوظيفية الإيكولوجيا حيث تتفاعل الكائنات الحية مع بعضها البعض والبيئة المحيطة ، بعبارة أخرى ، النظام البيئي هو ...",
+            "snippet_highlighted_words": [
+                "النظام البيئي",
+                "النظام البيئي"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٣٠‏/١٢‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "ما هي مكونات النظام البيئي - جيولوجي",
+            "link": "https://geolougy.com/k/%D9%85%D8%A7-%D9%87%D9%8A-%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A",
+            "displayed_link": "https://geolougy.com › ... › ما هي مكونات النظام البيئي",
+            "snippet": "مكونات النظام البيئي. تُقسم مكونات النظام البيئي إلى مكونين أساسيين، هما: المكونات الحيّة. يضمّ النظام البيئي مكونات حيّة، أهمها: النباتات، ...",
+            "snippet_highlighted_words": [
+                "النظام البيئي",
+                "النظام البيئي",
+                "النظام البيئي"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٧‏/٠٧‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "إعادة تفسير انهيار نظام بيئي - للعِلم - Scientific American",
+            "link": "https://www.scientificamerican.com/arabic/articles/news/reconstructing-the-end-of-an-ecosystem/",
+            "displayed_link": "https://www.scientificamerican.com › articles › news › r...",
+            "snippet": "ثمة عوامل عديدة قد تُسهم في انهيار نظامٍ بيئي على مدار آلاف ... الدور الذي أدته التغيرات المناخية في تدمير النظام البيئي الذي ازدهر يومًا ما ...",
+            "snippet_highlighted_words": [
+                "نظامٍ بيئي",
+                "النظام البيئي"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٢‏/٠٢‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "نظام بيئي صغير",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D8%A6%D9%8A+%D8%B5%D8%BA%D9%8A%D8%B1&sa=X&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "أمثلة على النظام البيئي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A3%D9%85%D8%AB%D9%84%D8%A9+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A&sa=X&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "هل تعتبر الصحراء نظام بيئي متكامل",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%87%D9%84+%D8%AA%D8%B9%D8%AA%D8%A8%D8%B1+%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1+%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D8%A6%D9%8A+%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84&sa=X&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "نظام بيئي كبير",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D8%A6%D9%8A+%D9%83%D8%A8%D9%8A%D8%B1&sa=X&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "مكونات النظام البيئي ppt",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A+ppt&sa=X&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ1QJ6BAguEAE"
+        },
+        {
+            "query": "النظام البيئي بحث",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A+%D8%A8%D8%AD%D8%AB&sa=X&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "النظام البيئي pdf",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A+pdf&sa=X&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "المكونات الحية في النظام البيئي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%8A%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A&sa=X&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ1QJ6BAgmEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&ei=XD2eYt2VA7fCqtsP_Nm9mAc&start=10&sa=N&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&ei=XD2eYt2VA7fCqtsP_Nm9mAc&start=10&sa=N&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&ei=XD2eYt2VA7fCqtsP_Nm9mAc&start=20&sa=N&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&ei=XD2eYt2VA7fCqtsP_Nm9mAc&start=30&sa=N&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&ei=XD2eYt2VA7fCqtsP_Nm9mAc&start=40&sa=N&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&ei=XD2eYt2VA7fCqtsP_Nm9mAc&start=50&sa=N&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&ei=XD2eYt2VA7fCqtsP_Nm9mAc&start=60&sa=N&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&ei=XD2eYt2VA7fCqtsP_Nm9mAc&start=70&sa=N&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&ei=XD2eYt2VA7fCqtsP_Nm9mAc&start=80&sa=N&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&hl=ar&gl=eg&ei=XD2eYt2VA7fCqtsP_Nm9mAc&start=90&sa=N&ved=2ahUKEwjds5fesJn4AhU3oWoFHfxsD3MQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D9%8A%D9%94%D9%8A&start=90"
+        }
+    }
+}

@@ -1,0 +1,383 @@
+{
+    "search_metadata": {
+        "id": "629e3ddaa5ad6dbef2dec942",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e914939219ddffa2/629e3ddaa5ad6dbef2dec942.json",
+        "created_at": "2022-06-06 17:48:10 UTC",
+        "processed_at": "2022-06-06 17:48:10 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&oq=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/e914939219ddffa2/629e3ddaa5ad6dbef2dec942.html",
+        "total_time_taken": 1.06
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "беспилотный автомобиль",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "беспилотный автомобиль",
+        "total_results": 543000,
+        "time_taken_displayed": 0.48
+    },
+    "knowledge_graph": {
+        "title": "Беспилотный автомобиль",
+        "header_images": [
+            {
+                "source": "https://bespilot.com/chastye-voprosy/kak-rabotaet-bespilotnyj-avtomobil"
+            },
+            {
+                "source": "https://www.autonews.ru/news/5d2c57659a79477f3da9027a"
+            },
+            {
+                "source": "https://www.computerra.ru/236971/bespilotnyj-avtomobil-v-moskve-uzh-v-mae/"
+            },
+            {
+                "source": "https://motor.ru/news/yandex-selfdriving-snowride-19-03-2021.htm"
+            },
+            {
+                "source": "https://seanews.ru/2020/10/21/taksovichkof-protestiroval-bespilotnyj-avtomobil/"
+            },
+            {
+                "source": "https://www.rbc.ru/technology_and_media/01/03/2016/56d4c2759a79472fa6d325fb"
+            }
+        ],
+        "description": "Беспило́тный автомоби́ль — транспортное средство, оборудованное системой автоматического управления, которое может передвигаться без участия человека.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C"
+        },
+        "Похожие_запросы": [
+            {
+                "name": "Электромобиль",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbmCjtUxaJcdLiUG_z_9HOq-CGhLdVJyX1TMPXb60L7Xk4R3rD7ltEjg4XrRbIHTiIH9eMsywmIORY14imRkafR8Folbcv7JuKngRxo8UNqCd3yZ-ZUYQY6hVM_6-iCEeLsakVtu493Lq7P2Dro4aeeQoJrkTqbcQ-Vlx7oPefBXTbFZzdgh7E8Qce9XfU34NxtTHYx7nbzWMuabfbQeVaJs1XSbZiMEtea_nYmHb9vCeN93mDAWsiobJjoj1zIpJitXeXDvb8V5QOmRCVOmXzj9j4Kvb&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQxA16BAhrEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbmCjtUxaJcdLiUG_z_9HOq-CGhLdVJyX1TMPXb60L7Xk4R3rD7ltEjg4XrRbIHTiIH9eMsywmIORY14imRkafR8Folbcv7JuKngRxo8UNqCd3yZ-ZUYQY6hVM_6-iCEeLsakVtu493Lq7P2Dro4aeeQoJrkTqbcQ-Vlx7oPefBXTbFZzdgh7E8Qce9XfU34NxtTHYx7nbzWMuabfbQeVaJs1XSbZiMEtea_nYmHb9vCeN93mDAWsiobJjoj1zIpJitXeXDvb8V5QOmRCVOmXzj9j4Kvb",
+                "image": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/e38fc6df3a7c25279933b55f592987645e32457738ae081f2ba8758dc5ca223dce190844399413fac9c7b72004eef1c488ade85b2af586df.jpeg"
+            },
+            {
+                "name": "Автобус",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddFmoKuTbcjC8j7k_iz9epdfa7SxO8_87JZFxUjEBgjNds5I5miNJwzF8zajs8O_STbKS1HpbjRonfiXAz1HlM34zZeq5rxyECl3JA7SLRl00lWlB6Bakt3eS-Bd1HRHAyYcVEbtyNLp50vnJopNelKxcvIQNvnc-H2nBcNw9LKr88A2LGTPdDEhh8yE6TPrmwzBmbEuaL0y44G0VF27kQv0mR4tMcd3hqnsAai_MsuhDbfvoFSN6sb5yGm_vfgBFYMrPDY%3D&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQxA16BAhrEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNddFmoKuTbcjC8j7k_iz9epdfa7SxO8_87JZFxUjEBgjNds5I5miNJwzF8zajs8O_STbKS1HpbjRonfiXAz1HlM34zZeq5rxyECl3JA7SLRl00lWlB6Bakt3eS-Bd1HRHAyYcVEbtyNLp50vnJopNelKxcvIQNvnc-H2nBcNw9LKr88A2LGTPdDEhh8yE6TPrmwzBmbEuaL0y44G0VF27kQv0mR4tMcd3hqnsAai_MsuhDbfvoFSN6sb5yGm_vfgBFYMrPDY%3D",
+                "image": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/e38fc6df3a7c25279933b55f592987645e32457738ae081f2ba8758dc5ca223dce190844399413fa522cb0533f781c867201dc7ad3ffff7b.jpeg"
+            },
+            {
+                "name": "Автомобиль класса люкс",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C+%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0+%D0%BB%D1%8E%D0%BA%D1%81&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBsZ-enRyVWGm0eQ3L2aVFxdcz-3MrIZa3JOIYzNuw5FViHJnpt2DTECpUB6X64OkA81obgRS68kYmS-GHFAQ_FS6z1MBMTzvvwL8mKkp8iQeiYV6l6fE1Y6zSeQR5owrR146oL1EUU-KVPmA7yEhFee2TWbydLy_qLNUGUyKBeU4rzybUCcff685OT3mFIHUQTRaVGHXdT99Ws91H_G7Ly20AA9hn9vdBl0hB27DeevDV5-PGqkvp3BXslGJuMvEHtjcI_MUDixZpFEPvudlrCfnZJnfBRyQapVHEiuEixSFgyuag%3D%3D&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQxA16BAhrEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C+%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0+%D0%BB%D1%8E%D0%BA%D1%81&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBsZ-enRyVWGm0eQ3L2aVFxdcz-3MrIZa3JOIYzNuw5FViHJnpt2DTECpUB6X64OkA81obgRS68kYmS-GHFAQ_FS6z1MBMTzvvwL8mKkp8iQeiYV6l6fE1Y6zSeQR5owrR146oL1EUU-KVPmA7yEhFee2TWbydLy_qLNUGUyKBeU4rzybUCcff685OT3mFIHUQTRaVGHXdT99Ws91H_G7Ly20AA9hn9vdBl0hB27DeevDV5-PGqkvp3BXslGJuMvEHtjcI_MUDixZpFEPvudlrCfnZJnfBRyQapVHEiuEixSFgyuag%3D%3D",
+                "image": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/e38fc6df3a7c25279933b55f592987645e32457738ae081f2ba8758dc5ca223dce190844399413facc1c8fb98984450ec690375f76f62bf4.jpeg"
+            },
+            {
+                "name": "Гибридное транспортное средство",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B5+%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%BE%D0%B5+%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgNPke3BuG9fce9wlWHNaCRTJMsDSi4fydsImfvyfTUJ8--8OpIihg3_bfDhJsoxxfpolTehj1TDXCnIBOLbfV_7GBBfCTv1ruAhm0Qdy6-BCrNjORi7wpQUD42cWrl_Bc_cls_KuinkEisddG5mBVEv7X3gf1XbZt_odorycTHkwtZLyYoy8_Pp6sYJTxIxmUhDhj8iDZE1Ae8y6yrmmEtgMmYV4B4I5Q5zTqwekLvAHkMRKksnIpD5DFa58igfLFoJOpZI74TPh3PCUrayzHZxA9OzAiskLnHcg_1fSr4fkpoPiCk-3XlV9capv8B4ep-hfv7A%3D&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQxA16BAhrEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B5+%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%BE%D0%B5+%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgNPke3BuG9fce9wlWHNaCRTJMsDSi4fydsImfvyfTUJ8--8OpIihg3_bfDhJsoxxfpolTehj1TDXCnIBOLbfV_7GBBfCTv1ruAhm0Qdy6-BCrNjORi7wpQUD42cWrl_Bc_cls_KuinkEisddG5mBVEv7X3gf1XbZt_odorycTHkwtZLyYoy8_Pp6sYJTxIxmUhDhj8iDZE1Ae8y6yrmmEtgMmYV4B4I5Q5zTqwekLvAHkMRKksnIpD5DFa58igfLFoJOpZI74TPh3PCUrayzHZxA9OzAiskLnHcg_1fSr4fkpoPiCk-3XlV9capv8B4ep-hfv7A%3D",
+                "image": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/e38fc6df3a7c25279933b55f592987645e32457738ae081f2ba8758dc5ca223dce190844399413fa1b72e14d9a6f50020d12d13a9af05e69.jpeg"
+            }
+        ],
+        "Похожие_запросы_link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7FqX5h4YevFxgv7L-y4sPvCvotNF_Ze7L6wU-HChgubgJx9F_YA8UaQ5MWeHayMAGi46M9cAAAA&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQMSgAegQIaxAB",
+        "Похожие_запросы_stick": "H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7FqX5h4YevFxgv7L-y4sPvCvotNF_Ze7L6wU-HChgubgJx9F_YA8UaQ5MWeHayMAGi46M9cAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Как устроен беспилотный автомобиль?",
+            "link": "https://www.youtube.com/watch?v=izoPwpPSGRc",
+            "thumbnail": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/b9b14f26802bf7d7c08d627b9b9b321798eb5621277b745071886f3450774992.jpeg",
+            "channel": "Яндекс",
+            "duration": "5:11",
+            "platform": "YouTube",
+            "date": "27 авг. 2021 г."
+        },
+        {
+            "position": 2,
+            "title": "#Беспилотное Авто | ЧЁ ПО НАУКЕ? | Коротко о ...",
+            "link": "https://www.youtube.com/watch?v=QUoZ7X5fNys",
+            "thumbnail": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/b9b14f26802bf7d7ceb9465c1d02c418e8758b0ac5c9528dc3d22546676e4655.jpeg",
+            "channel": "МАИ",
+            "duration": "11:56",
+            "platform": "YouTube",
+            "date": "17 янв. 2022 г."
+        },
+        {
+            "position": 3,
+            "title": "Беспилотный автомобиль StarLine",
+            "link": "https://www.youtube.com/watch?v=9GS6Bafpi04",
+            "thumbnail": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/b9b14f26802bf7d76487945505da516e9b0bd69e901bf350bc18b374b5f3210c.jpeg",
+            "channel": "StarLineRu",
+            "duration": "7:59",
+            "platform": "YouTube",
+            "date": "26 авг. 2019 г."
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "В каком году появился первый беспилотный автомобиль?",
+            "snippet": "Первые беспилотные эксперименты В историю беспилотных авто вошел 1961 год, когда учащийся Стэнфорда Джеймс Адамс создал и протестировал первую самоуправляемую тележку. Она управлялась обычным сигналом, посредством кабеля. Но уже второй прототип Стэнфордской тележки был радиоуправляемым.",
+            "title": "История беспилотных автомобилей",
+            "link": "https://bespilot.com/info/istoriya",
+            "displayed_link": "https://bespilot.com › info › istoriya"
+        },
+        {
+            "question": "Как ездят беспилотные машины?",
+            "snippet": "Беспилотные автомобили способны передвигаться самостоятельно, благодаря специальному программному обеспечению (ПО) и сенсорам. ПО управляет работой всех систем автомобиля: поворачиванием руля, сменой передач, газом и тормозом.",
+            "title": "Беспилотный автомобиль - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Беспилотный_автомо..."
+        },
+        {
+            "question": "Для чего беспилотные автомобили?",
+            "snippet": "Беспилотные автомобили — это машины, которые безопасно ездят по дорогам общего пользования без участия человека; ими управляет компьютер и датчики, объединенные в единую систему автономного вождения. Уровень автономности системы устанавливается его производителем.7 июл. 2021 г.",
+            "title": "Автопилот (беспилотный автомобиль) - TAdviser",
+            "link": "https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D0%BF%D0%B8%D0%BB%D0%BE%D1%82_(%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C)",
+            "displayed_link": "https://www.tadviser.ru › index.php › Статья:Автопилот..."
+        },
+        {
+            "question": "Как кратко описать работу беспилотных автомобилей?",
+            "snippet": "Данная система применяет радиоволны, чтобы определить дальность объектов, траекторию и скорость их движения. Радар излучает импульсы, они отражаются от препятствий и передаются на принимающую антенну. Таким образом радары становятся «глазами» авто и позволяют мгновенно реагировать на любые изменения ситуации.",
+            "title": "Как работает беспилотный автомобиль",
+            "link": "https://bespilot.com/chastye-voprosy/kak-rabotaet-bespilotnyj-avtomobil",
+            "displayed_link": "https://bespilot.com › kak-rabotaet-bespilotnyj-avtomobil"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Беспилотный автомобиль - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Беспилотный_автомо...",
+            "thumbnail": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/365f0d5959bf615bdcbd188fdbb2f79911233e7f48684de1f85e72a57f0c3e04.jpeg",
+            "snippet": "Беспило́тный автомоби́ль (также, робомоби́ль) — транспортное средство, оборудованное системой автоматического управления, которое может безопасно ...",
+            "snippet_highlighted_words": [
+                "Беспило́тный автомоби́ль"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Waymo",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C#Waymo"
+                    },
+                    {
+                        "title": "GM Cruise",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C#GM_Cruise"
+                    },
+                    {
+                        "title": "Uber",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C#Uber"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Беспилотные автомобили (мировой рынок) - TAdviser",
+            "link": "https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8_(%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D1%80%D1%8B%D0%BD%D0%BE%D0%BA)",
+            "displayed_link": "https://www.tadviser.ru › index.php › Статья:Беспилот...",
+            "thumbnail": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/365f0d5959bf615bdcbd188fdbb2f79943b8901abff54d322aae0e737209c6a7.jpeg",
+            "date": "16 февр. 2022 г.",
+            "snippet": "Статья Беспилотные автомобили (мировой рынок), Как устроен беспилотный автомобиль, Беспилотные автомобили в России, Беспилотные грузовики, ...",
+            "snippet_highlighted_words": [
+                "Беспилотные автомобили",
+                "беспилотный автомобиль",
+                "Беспилотные автомобили"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Новости и модели...",
+                        "link": "https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8_(%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D1%80%D1%8B%D0%BD%D0%BE%D0%BA)#.D0.9D.D0.BE.D0.B2.D0.BE.D1.81.D1.82.D0.B8_.D0.B8_.D0.BC.D0.BE.D0.B4.D0.B5.D0.BB.D0.B8_.D0.BF.D1.80.D0.BE.D0.B8.D0.B7.D0.B2.D0.BE.D0.B4.D0.B8.D1.82.D0.B5.D0.BB.D0.B5.D0.B9"
+                    },
+                    {
+                        "title": "Оценки рынка",
+                        "link": "https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8_(%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D1%80%D1%8B%D0%BD%D0%BE%D0%BA)#.D0.9E.D1.86.D0.B5.D0.BD.D0.BA.D0.B8_.D1.80.D1.8B.D0.BD.D0.BA.D0.B0"
+                    },
+                    {
+                        "title": "Мировые новости рынка",
+                        "link": "https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8_(%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D1%80%D1%8B%D0%BD%D0%BE%D0%BA)#.D0.9C.D0.B8.D1.80.D0.BE.D0.B2.D1.8B.D0.B5_.D0.BD.D0.BE.D0.B2.D0.BE.D1.81.D1.82.D0.B8_.D1.80.D1.8B.D0.BD.D0.BA.D0.B0"
+                    }
+                ]
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Беспилотные автомобили в России - TAdviser",
+                    "link": "https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+                    "displayed_link": "https://www.tadviser.ru › index.php › Статья:Беспилот...",
+                    "thumbnail": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/365f0d5959bf615bdcbd188fdbb2f7993cf2e8f9aedf5b0ab79cb027a6f3c7aabaf15d11645a00263445369bf38c37cb.jpeg",
+                    "date": "11 янв. 2022 г.",
+                    "snippet": "Статья Беспилотные автомобили в России, Как устроен беспилотный автомобиль, Мировой рынок, Беспилотные грузовики в России, Новости и модели ...",
+                    "snippet_highlighted_words": [
+                        "Беспилотные автомобили",
+                        "беспилотный автомобиль"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Что такое беспилотный автомобиль? (БА)",
+            "link": "https://bespilot.com/chastye-voprosy/chto-takoe-bespilotnyj-avtomobil-ba",
+            "displayed_link": "https://bespilot.com › chastye-voprosy › chto-takoe-bes...",
+            "thumbnail": "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/365f0d5959bf615bdcbd188fdbb2f799904a0f935bb4b6b826109b8d5e38ea03.jpeg",
+            "snippet": "Говоря техническим языком, беспилотный автомобиль – это усовершенствованное транспортное средство, оснащенное системой автоуправления и способное ...",
+            "snippet_highlighted_words": [
+                "беспилотный автомобиль"
+            ],
+            "images": [
+                "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/365f0d5959bf615bdcbd188fdbb2f7992f1247416c0042097d36bfc39f734580.jpeg",
+                "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/365f0d5959bf615bdcbd188fdbb2f7992f1247416c0042092d45d05c48ca2eef.jpeg",
+                "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/365f0d5959bf615bdcbd188fdbb2f7992f1247416c00420921af808d621a2c3c.jpeg",
+                "https://serpapi.com/searches/629e3ddaa5ad6dbef2dec942/images/365f0d5959bf615bdcbd188fdbb2f7992f1247416c004209214c53671eb948dd.jpeg"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "апр_г": 19
+                    },
+                    "extensions": [
+                        "19 апр. 2018 г.",
+                        "Добавлено пользователем kazakov"
+                    ]
+                }
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Как работает беспилотный автомобиль",
+                    "link": "https://bespilot.com/chastye-voprosy/kak-rabotaet-bespilotnyj-avtomobil",
+                    "displayed_link": "https://bespilot.com › kak-rabotaet-bespilotnyj-avtomobil",
+                    "snippet": "Как работает беспилотный автомобиль. Беспилотное вождение не такое далекое будущее, как нам казалось. Уже к 2025 году автомобили на автопилоте перестанут быть ...",
+                    "snippet_highlighted_words": [
+                        "беспилотный автомобиль"
+                    ],
+                    "rich_snippet": {
+                        "top": {
+                            "detected_extensions": {
+                                "апр_г": 19
+                            },
+                            "extensions": [
+                                "19 апр. 2018 г.",
+                                "Добавлено пользователем kazakov"
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "title": "беспилотные автомобили для начинающих",
+            "link": "https://smartcar.starline.ru/bespilotnie-avtomobili-dla-nachinajushih/",
+            "displayed_link": "https://smartcar.starline.ru › bespilotnie-avtomobili-dla-...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-MInNr5pE6idp1cMgrvhcsC-iI9VKaSTHjdu8hpMNvsqyF37M2ex&usqp=CAE&s",
+            "snippet": "Это автомобиль, оборудованный системой автоматического управления, способный передвигаться из точки А в точку Б без участия человека. Как работают беспилотные ...",
+            "snippet_highlighted_words": [
+                "автомобиль",
+                "беспилотные"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "На своем ходу. У Tesla начались проблемы в США. Как ...",
+            "link": "https://lenta.ru/articles/2021/10/17/autonomous/",
+            "displayed_link": "https://lenta.ru › articles › 2021/10/17 › autonomous",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS91bE9Mx_xUSg9xa3k53q7n91HzNBqYGNokuadh2lyg8huVOVKgWBo&usqp=CAE&s",
+            "date": "17 окт. 2021 г.",
+            "snippet": "Если беспилотный режим на электрокарах существует в бета-версии, то почему компания ... Как это повлияет на будущее беспилотных автомобилей?",
+            "snippet_highlighted_words": [
+                "беспилотных автомобилей"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Беспилотные автомобили: кто разрабатывает их в ...",
+            "link": "https://sk.ru/news/bespilotnye-avtomobili-kto-razrabatyvaet-ih-v-rossii-i-chto-meshaet-razvitiyu-rynka/",
+            "displayed_link": "https://sk.ru › news › bespilotnye-avtomobili-kto-razrab...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxTp0SCaQ1oq4DOgU5ji4Y2vfqQd9IpqcV9CgqMrRBISvuvs44XRq&usqp=CAE&s",
+            "date": "12 июн. 2020 г.",
+            "snippet": "Беспилотные автомобили — это машины, которые безопасно ездят по дорогам общего пользования без участия человека; ими управляет компьютер и ...",
+            "snippet_highlighted_words": [
+                "Беспилотные автомобили"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Россия разрешила беспилотным такси ездить без ...",
+            "link": "https://nplus1.ru/news/2022/03/18/self-driving",
+            "displayed_link": "https://nplus1.ru › news › 2022/03/18 › self-driving",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1Od_mgTzP_0-wOKH1IMbEGPWYZ1MIkDrwclhgsPNP5uZPzU9LCp9&usqp=CAE&s",
+            "date": "18 мар. 2022 г.",
+            "snippet": "Постановление вводит два вида беспилотных автомобилей, ... ВАТС 1 — это беспилотный автомобиль с водителем-испытателем с безаварийным стажем ...",
+            "snippet_highlighted_words": [
+                "беспилотных автомобилей",
+                "беспилотный автомобиль"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "беспилотный автомобиль тесла",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C+%D1%82%D0%B5%D1%81%D0%BB%D0%B0&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ1QJ6BAhZEAE"
+        },
+        {
+            "query": "беспилотный автомобиль купить",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ1QJ6BAhQEAE"
+        },
+        {
+            "query": "беспилотный автомобиль яндекс",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ1QJ6BAhREAE"
+        },
+        {
+            "query": "беспилотный автомобиль это",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C+%D1%8D%D1%82%D0%BE&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ1QJ6BAhUEAE"
+        },
+        {
+            "query": "беспилотный автомобиль цена",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C+%D1%86%D0%B5%D0%BD%D0%B0&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ1QJ6BAhWEAE"
+        },
+        {
+            "query": "как работает беспилотный автомобиль",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9A%D0%B0%D0%BA+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82+%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ1QJ6BAhXEAE"
+        },
+        {
+            "query": "беспилотный автомобиль реферат",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C+%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ1QJ6BAhSEAE"
+        },
+        {
+            "query": "первый беспилотный автомобиль",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9+%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&sa=X&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ1QJ6BAhPEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&ei=2j2eYo2dB_evqtsPt_2C2AE&start=10&sa=N&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&ei=2j2eYo2dB_evqtsPt_2C2AE&start=10&sa=N&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&ei=2j2eYo2dB_evqtsPt_2C2AE&start=20&sa=N&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&ei=2j2eYo2dB_evqtsPt_2C2AE&start=30&sa=N&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&ei=2j2eYo2dB_evqtsPt_2C2AE&start=40&sa=N&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&ei=2j2eYo2dB_evqtsPt_2C2AE&start=50&sa=N&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&ei=2j2eYo2dB_evqtsPt_2C2AE&start=60&sa=N&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&ei=2j2eYo2dB_evqtsPt_2C2AE&start=70&sa=N&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&ei=2j2eYo2dB_evqtsPt_2C2AE&start=80&sa=N&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&hl=ru&gl=ru&ei=2j2eYo2dB_evqtsPt_2C2AE&start=90&sa=N&ved=2ahUKEwiN8qWasZn4AhX3l2oFHbe-ABsQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B8%CC%86+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C&start=90"
+        }
+    }
+}

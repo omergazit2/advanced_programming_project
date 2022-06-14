@@ -1,0 +1,348 @@
+{
+    "search_metadata": {
+        "id": "629e3d859bddf770495027aa",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1612ce7b7599fc5b/629e3d859bddf770495027aa.json",
+        "created_at": "2022-06-06 17:46:45 UTC",
+        "processed_at": "2022-06-06 17:46:45 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&oq=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/1612ce7b7599fc5b/629e3d859bddf770495027aa.html",
+        "total_time_taken": 0.75
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "سيارة ذاتية القيادة",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "سيارة ذاتية القيادة",
+        "total_results": 1270000,
+        "time_taken_displayed": 0.52
+    },
+    "knowledge_graph": {
+        "title": "مركبة ذاتية القيادة",
+        "type": "فئة السيارة",
+        "header_images": [
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D9%83%D8%A8%D8%A9_%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9_%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9"
+            },
+            {
+                "source": "https://www.skynewsarabia.com/technology/1477910-%D8%A7%D9%84%D8%A7%D9%95%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AA%D8%A7%D9%94%D9%87%D8%A8-%D9%84%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D9%85%D8%B2%D8%A7%D9%8A%D8%A7%D9%87%D8%A7%D8%9F"
+            },
+            {
+                "source": "https://al-ain.com/article/how-self-driving-cars-work"
+            },
+            {
+                "source": "https://www.almasryalyoum.com/news/details/2409227"
+            },
+            {
+                "source": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=18072021&id=110ed6b4-55b6-4986-ade5-d4e6fbe64b46"
+            }
+        ],
+        "description": "مركبات ذاتية القيادة هي مركبات قادرة على استشعار البيئة المحيطة بها والملاحة دون تدخل بشري، ويجري تطوير العديد من المركبات الذاتية القيادة، لكن حتى فبراير/شباط 2017 فإن تلك المركبات المصرح لها بالسير في الطرقات العامة ليست ذاتية القيادة تماما، فتصنيع واستخدام هذه المركبات أمامه عقبات وتحديات تقنية عديدة.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D9%83%D8%A8%D8%A9_%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9_%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9"
+        },
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "سيارة كهربائية",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbvbNvuvSPfw_cnszMRpEtoc_hTUz5XO70zDQavXO4XX5Y4VBp6DlPrz84W_lZXAO34EbiDgAk291r260N4gpjI_IPZJYRE8nvEFVndbY9owHNWe3gnZg_BQXUXK4JwdumwYcccniM0Ef-4wgPYFHkz-gIM3PcJrhB4JSEFAw6d4Y8NiTnOlP-sQux2m40mDERWUaOh87tYxx7bswWU6WopUSnIkn_szyqcyX8fs62fx7z93V7bsTdqV7VMjK1ZKlEp6t_ctv2h0csNWPXrkrLe0ePaC7&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0QxA16BAhoEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbvbNvuvSPfw_cnszMRpEtoc_hTUz5XO70zDQavXO4XX5Y4VBp6DlPrz84W_lZXAO34EbiDgAk291r260N4gpjI_IPZJYRE8nvEFVndbY9owHNWe3gnZg_BQXUXK4JwdumwYcccniM0Ef-4wgPYFHkz-gIM3PcJrhB4JSEFAw6d4Y8NiTnOlP-sQux2m40mDERWUaOh87tYxx7bswWU6WopUSnIkn_szyqcyX8fs62fx7z93V7bsTdqV7VMjK1ZKlEp6t_ctv2h0csNWPXrkrLe0ePaC7",
+                "image": "https://serpapi.com/searches/629e3d859bddf770495027aa/images/71579ffad9081fe014a0f2f7ba2466a33435917398fbfb996779dadff5c36cf4f1ca10249654fed92c99e535ef1bf16cd9c6cdaa0ac1957a184e8d4b195ad5e9.jpeg"
+            },
+            {
+                "name": "حافلة",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AD%D8%A7%D9%81%D9%84%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTLgDE7rHOHqC4LRLGEM0ayklSg5g8k8mmOJO1n_UO5J8_bCxxhoX6huPCYOse3EXiblCvf8xND1pB1CJ-Madt2tuR2h8XFt7SrXl7ZEtMFecXhmqnR7iovM7AK_CjISRgwVduYWC2gGPFIEppu0SRcB5YtKALF1MtIu_JQQkZhZLka3zCywjvqBLrVImpKyxJFlZGOfxDHH7OvZkzSqKlEeIBBf8GCqjTVl9Tv-1UcCaiKMKQVhZLLHII-iz3NUKpf5cN4%3D&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0QxA16BAhoEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AD%D8%A7%D9%81%D9%84%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTLgDE7rHOHqC4LRLGEM0ayklSg5g8k8mmOJO1n_UO5J8_bCxxhoX6huPCYOse3EXiblCvf8xND1pB1CJ-Madt2tuR2h8XFt7SrXl7ZEtMFecXhmqnR7iovM7AK_CjISRgwVduYWC2gGPFIEppu0SRcB5YtKALF1MtIu_JQQkZhZLka3zCywjvqBLrVImpKyxJFlZGOfxDHH7OvZkzSqKlEeIBBf8GCqjTVl9Tv-1UcCaiKMKQVhZLLHII-iz3NUKpf5cN4%3D",
+                "image": "https://serpapi.com/searches/629e3d859bddf770495027aa/images/71579ffad9081fe014a0f2f7ba2466a33435917398fbfb996779dadff5c36cf4f1ca10249654fed92c99e535ef1bf16cd9c6cdaa0ac1957a7d0de0b094969b48.jpeg"
+            },
+            {
+                "name": "سيارة فارهة",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D9%81%D8%A7%D8%B1%D9%87%D8%A9&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgMDvGbezps32xAe7DfOAot64Wysv_K_yvaerlraFTEeGmz3p_X5DEDK_FTBQS5ZAz69DrFd55gD5CWJbkZof422Cm4h094WL03hlpgHF3Ucyx0LwqlVIOn6TavZc3T4FQExSUnnaHjsT1A9d79ak0jkH3265iWi2PYjFoel9AJvePzIrsMGq-PWolpciNanBk-ksz4rLzg1ugWa7VZqAG1Kj_nVS29ZWjxurw6SJXkx7cbqp-tuFjubf29GzcJh5B5qW1wCoPUEdKwR4zu8QVbJxe_ZG&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0QxA16BAhoEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D9%81%D8%A7%D8%B1%D9%87%D8%A9&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgMDvGbezps32xAe7DfOAot64Wysv_K_yvaerlraFTEeGmz3p_X5DEDK_FTBQS5ZAz69DrFd55gD5CWJbkZof422Cm4h094WL03hlpgHF3Ucyx0LwqlVIOn6TavZc3T4FQExSUnnaHjsT1A9d79ak0jkH3265iWi2PYjFoel9AJvePzIrsMGq-PWolpciNanBk-ksz4rLzg1ugWa7VZqAG1Kj_nVS29ZWjxurw6SJXkx7cbqp-tuFjubf29GzcJh5B5qW1wCoPUEdKwR4zu8QVbJxe_ZG",
+                "image": "https://serpapi.com/searches/629e3d859bddf770495027aa/images/71579ffad9081fe014a0f2f7ba2466a33435917398fbfb996779dadff5c36cf4f1ca10249654fed92c99e535ef1bf16cd9c6cdaa0ac1957a91aa2498481d8775.jpeg"
+            },
+            {
+                "name": "مركبة هجينة",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D8%B1%D9%83%D8%A8%D8%A9+%D9%87%D8%AC%D9%8A%D9%86%D8%A9&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgGMy8J82sUHaQrRZShU5aySIjIYkilhL_xjV04VuGemPNmAVXKmGpK_DakoQeNOWMmKGYEFgKu4s6sjxCfQKgIXwPB6s31icnFVyrR2hE_YEtoV7b9cmRPUXeTJC0X_V2CsWVtYFYnSA4nYYVbSdov68rAVTvg2WUo10QXOUcNr04gDDHSOVJGrwYgI1OrHRMIQb9rGkbpkmWVM7gLTuDITg6RieNa5e7GiEs14AJCKkUw5TWFC1BIO_hgqg0c9NUz18RVcN75uDk6cSoXByC4dNApts&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0QxA16BAhoEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%B1%D9%83%D8%A8%D8%A9+%D9%87%D8%AC%D9%8A%D9%86%D8%A9&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgGMy8J82sUHaQrRZShU5aySIjIYkilhL_xjV04VuGemPNmAVXKmGpK_DakoQeNOWMmKGYEFgKu4s6sjxCfQKgIXwPB6s31icnFVyrR2hE_YEtoV7b9cmRPUXeTJC0X_V2CsWVtYFYnSA4nYYVbSdov68rAVTvg2WUo10QXOUcNr04gDDHSOVJGrwYgI1OrHRMIQb9rGkbpkmWVM7gLTuDITg6RieNa5e7GiEs14AJCKkUw5TWFC1BIO_hgqg0c9NUz18RVcN75uDk6cSoXByC4dNApts",
+                "image": "https://serpapi.com/searches/629e3d859bddf770495027aa/images/71579ffad9081fe014a0f2f7ba2466a33435917398fbfb996779dadff5c36cf4f1ca10249654fed92c99e535ef1bf16cd9c6cdaa0ac1957abf0f30a7a3ed05c3.jpeg"
+            }
+        ],
+        "يبحث_الأشخاص_أيضًا_عن_link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D8%B1%D9%83%D8%A8%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7Gq3Gy9sfFm840VN1Yq3NhwY_mNVTe7QMzlN1tuNgGZy2-sv7FyBysjAE7y589VAAAA&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0QMSgAegQIaBAB",
+        "يبحث_الأشخاص_أيضًا_عن_stick": "H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7Gq3Gy9sfFm840VN1Yq3NhwY_mNVTe7QMzlN1tuNgGZy2-sv7FyBysjAE7y589VAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "أول سيارة ذاتية القيادة تعمل بواسطة الهيدروجين",
+            "link": "https://www.youtube.com/watch?v=W1cpD_bWtA4",
+            "thumbnail": "https://serpapi.com/searches/629e3d859bddf770495027aa/images/0d2e36d294d07abe8cde43468bd7a7acfbad8de2a5bc2609ba4736f45e879530.jpeg",
+            "channel": "BBC News عربي",
+            "duration": "23:24",
+            "platform": "YouTube",
+            "date": "31‏/07‏/2021"
+        },
+        {
+            "position": 2,
+            "title": "متى سيتم إصدار سيارة ذاتية القيادة كاملة؟ | #اون_ستريم",
+            "link": "https://www.youtube.com/watch?v=XVRIHu1UAQ0",
+            "thumbnail": "https://serpapi.com/searches/629e3d859bddf770495027aa/images/0d2e36d294d07abe4cbdd78a83c8b9590ce65fa0e39ffd781fc571c810d16d33.jpeg",
+            "channel": "سكاي نيوز عربية",
+            "duration": "2:11",
+            "platform": "YouTube",
+            "date": "13‏/05‏/2021"
+        },
+        {
+            "position": 3,
+            "title": "شاهد: سيارات ذاتية القيادة لتوصيل الطلبات في موسكو",
+            "link": "https://www.youtube.com/watch?v=C9uY3fBZcq4",
+            "thumbnail": "https://serpapi.com/searches/629e3d859bddf770495027aa/images/0d2e36d294d07abe0afac9d59beaf517dc713064309901d70717f5a20cb36297.jpeg",
+            "channel": "euronews (عــربي)",
+            "duration": "1:27",
+            "platform": "YouTube",
+            "date": "03‏/11‏/2020"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "هل هناك سيارات ذاتية القيادة؟",
+            "snippet": "يظن البعض أن التفكير في نظام القيادة الذاتية وليد الساعة، ولكن الحقيقة عكس ذلك تماماً، فتجارب صناعة سيارة ذاتية القيادة تعود إلى أكثر من 50 عاماً، وقد ظهرت أول سيارة ذاتية القيادة في عام 1984 وكانت من صناعة مختبر “نافلاب” التابع لجامعة كارنيغي ميلون، واستمر البحث والتطوير في هذه السيارات على مدى الأعوام المتعاقبة لتدخل ...",
+            "title": "معلومات عن السيارة ذاتية القيادة - مبدأ العمل - المزايا | دوبيزل ...",
+            "link": "https://www.dubizzle.com/blog/cars/ar/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9/",
+            "displayed_link": "https://www.dubizzle.com › blog › cars › معلومات-السيا..."
+        },
+        {
+            "question": "ما الذي تستخدمه السيارات ذاتية القيادة؟",
+            "snippet": "تعتمد السيارات الذاتية القيادة على خوارزميات رسم الخرائط والبيانات التي تحصل عليها من أجهزة استشعار متعددة مدمجة بها لتحديد مسار الطريق، وتتضمن أجهزة الاستشعار النموذجية نظام «ليدار»، وهو أشبه بالرادار، ونظام رؤية مجسمة، ونظام تحديد المواقع الجغرافية (جي بي أس)، ونظام التعرف البصري على الأشياء، ونظام تحديد الموقع في ...",
+            "title": "مركبة ذاتية القيادة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D9%83%D8%A8%D8%A9_%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9_%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › مركبة_ذاتية_القيادة"
+        },
+        {
+            "question": "من اول من اخترع سيارة ذاتية القيادة؟",
+            "snippet": "في عام 1986 انطلقت أول سيارة ذاتية القيادة، بعد محاولات استمرت ٨ سنوات، علي يد إرنست ديكمانس\" ، تفاجأ العالم بهذا الاختراع الذي لم تشاهده البشرية من قيل.17‏/07‏/2021",
+            "title": "تعرف على قصة أول سيارة ذاتية القيادة - صدى البلد",
+            "link": "https://www.elbalad.news/4893209",
+            "displayed_link": "https://www.elbalad.news › ..."
+        },
+        {
+            "question": "ما هي مزايا وعيوب استخدام السيارات ذاتية القيادة؟",
+            "snippet": "صديقة للبيئة على عكس المركبات التي تعمل بالبنزين أو الديزل، تستخدم السيارات ذاتية القيادة الكهرباء كوقود لها وبالتالي فهي صديقة للبيئة. بالإضافة إلى ذلك، فإن أنشطة مثل إعادة التسارع والكبح التي تؤدي إلى إنتاج انبعاثات ضارة يجب أن تكون غير موجودة أيضًا لأن كل مركبة ستضطر إلى الحفاظ على مسافة آمنة من بعضها البعض.",
+            "title": "فهم إيجابيات وسلبيات السيارات ذاتية القيادة - Quick Lease ...",
+            "link": "https://quicklease.ae/ar/blog/understanding-the-pros-and-cons-of-autonomous-cars/",
+            "displayed_link": "https://quicklease.ae › blog › understanding-the-pros-and-..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "مركبة ذاتية القيادة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D9%83%D8%A8%D8%A9_%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9_%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › مركبة_ذاتية_القيادة",
+            "thumbnail": "https://serpapi.com/searches/629e3d859bddf770495027aa/images/0a7b7b6e5564fab7e9ac51e6436d9125908c67288e537a587d27a7f2977cba01.jpeg",
+            "snippet": "مركبات ذاتية القيادة هي مركبات قادرة على استشعار البيئة المحيطة بها والملاحة دون تدخل بشري، ويجري تطوير العديد من المركبات الذاتية القيادة، لكن حتى ...",
+            "snippet_highlighted_words": [
+                "ذاتية القيادة",
+                "الذاتية القيادة"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "السيارات ذاتية القيادة: كيف ستغير عالمنا خلال عشر سنوات؟",
+            "link": "https://www.bbc.com/arabic/vert-fut-59455307",
+            "displayed_link": "https://www.bbc.com › arabic › vert-fut-59455307",
+            "thumbnail": "https://serpapi.com/searches/629e3d859bddf770495027aa/images/0a7b7b6e5564fab7e9ac51e6436d9125e585b0173c7cc418b2048327091a9192.jpeg",
+            "snippet": "أصبحت المركبات ذاتية القيادة حقيقة واقعة، على الرغم من العديد من العقبات التي يجب التغلب عليها، ويمكن لهذه السيارات أن تغير عالمنا ببعض ...",
+            "snippet_highlighted_words": [
+                "ذاتية القيادة",
+                "السيارات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠١‏/١٢‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "هل السيارات ذاتية القيادة هي المستقبل؟ - Kia",
+            "link": "https://www.kia.com/nmc/ar/discover-kia/ask/are-self-driving-cars-the-future.html",
+            "displayed_link": "https://www.kia.com › are-self-driving-cars-the-future",
+            "snippet": "المركبة ذاتية القيادة هي سيارة أو شاحنة تستطيع استشعار بيئتها والتحكم في تحركاتها دون تدخل بشري. توصلت SAE ، المعروفة أيضًا باسم جمعية مهندسي السيارات ، إلى ...",
+            "snippet_highlighted_words": [
+                "ذاتية القيادة",
+                "سيارة",
+                "السيارات"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "كيف تعمل السيارات ذاتية القيادة؟ | كيا موتورز المملكة ... - Kia",
+            "link": "https://www.kia.com/nmc/ar/discover-kia/ask/how-do-self-driving-cars-work.html",
+            "displayed_link": "https://www.kia.com › how-do-self-driving-cars-work",
+            "snippet": "تستخدم السيارات ذاتية القيادة LiDAR والرادار والكاميرات وأجهزة الاستشعار لاستشعار العالم من حولها والعثور على أفضل طريق إلى الوجهة بطريقة سريعة وآمنة.",
+            "snippet_highlighted_words": [
+                "ذاتية القيادة"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "معلومات عن السيارة ذاتية القيادة - مبدأ العمل - المزايا | دوبيزل ...",
+            "link": "https://www.dubizzle.com/blog/cars/ar/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9/",
+            "displayed_link": "https://www.dubizzle.com › blog › cars › معلومات-السيا...",
+            "snippet": "يمكننا تعريف السيارات ذاتية القيادة على أنها سيارة قادرة على استشعار البيئة المحيطة بها بشكل شبه كامل، وذلك عبر كاميرات ومستشعرات تعطي أوامر للحاسوب الذي ...",
+            "snippet_highlighted_words": [
+                "السيارات ذاتية القيادة",
+                "سيارة"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "أبرز 5 سيارات في مصر مزودة بتقنيات قيادة ذاتية.. الأسعار لا",
+            "link": "https://www.masrawy.com/autos/autos_news/details/2021/4/11/2003266/%D8%A3%D8%A8%D8%B1%D8%B2-5-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%85%D8%B2%D9%88%D8%AF%D8%A9-%D8%A8%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%84%D8%A7-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-650-%D8%A3%D9%84%D9%81-%D8%AC%D9%86%D9%8A%D9%87",
+            "displayed_link": "https://www.masrawy.com › autos › autos_news › details",
+            "snippet": "أبرز 5 سيارات في مصر مزودة بتقنيات قيادة ذاتية.. الأسعار لا تتجاوز 650 ألف جنيه · سوبارو XV · سيتروين C5 Aircross · نيسان قشقاي · سيات أتيكا · بيجو ...",
+            "snippet_highlighted_words": [
+                "سيارات",
+                "قيادة ذاتية"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١١‏/٠٤‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "القيادة الذاتية للسيارات.. تطوَّر يُنهي عصر السائقين",
+            "link": "https://www.almasryalyoum.com/news/details/2409227",
+            "displayed_link": "https://www.almasryalyoum.com › news › details",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBnqS2O4iSJ6ioeTyWpBEiQx3ksB1bKGlUZK0J3DULS67uATymBEYT&usqp=CAE&s",
+            "snippet": "السيارة ذاتية القيادة هي سيارات يتم قيادتها دون تدخل بشري وقادرة على استشعار البيئة المحيطة بالسيارة، وبدأت فكرة السيارة ذاتية القيادة في ...",
+            "snippet_highlighted_words": [
+                "السيارة ذاتية القيادة",
+                "سيارات",
+                "بالسيارة",
+                "السيارة ذاتية القيادة"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٢‏/٠٩‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "الإمارات تتأهب لتجربة السيارات ذاتية القيادة.. ما مزاياها؟",
+            "link": "https://www.skynewsarabia.com/technology/1477910-%D8%A7%D9%84%D8%A7%D9%95%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AA%D8%A7%D9%94%D9%87%D8%A8-%D9%84%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D9%85%D8%B2%D8%A7%D9%8A%D8%A7%D9%87%D8%A7%D8%9F",
+            "displayed_link": "https://www.skynewsarabia.com › technology › 147791...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-lxKPEm61W3V_B6wDLUiOD9dQE66cZGP6OZO7ut_NY1pel3tB8fD&usqp=CAE&s",
+            "snippet": "تستعد دولة الإمارات لتكون الدولة الأولى في الشرق الأوسط والثانية عالميا التي تختبر السيارات ذاتية القيادة في شوارعها، في خطوة اعتبرها خبراء ...",
+            "snippet_highlighted_words": [
+                "ذاتية القيادة"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٠‏/١١‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "هل يمكن أن تكون السيارات ذاتية القيادة مضرة بالبيئة؟",
+            "link": "https://www.independentarabia.com/node/299971",
+            "displayed_link": "https://www.independentarabia.com › node",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUQ1-3qeqVxTNDl8JhfK7exQtWGE8x69HWvwge8DwI7UKSjJ69cBO&usqp=CAE&s",
+            "snippet": "لسنوات عدة ظلت تكنولوجيا السيارات ذاتية القيادة محيرة حول مدى أمانها وحمايتها للبيئة، فعلى الرغم من الآمال العريضة المتوقعة منها إلا أن ...",
+            "snippet_highlighted_words": [
+                "ذاتية القيادة"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠١‏/٠٢‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "سعر سيارة ذاتية القيادة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B3%D8%B9%D8%B1+%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q1QJ6BAhNEAE"
+        },
+        {
+            "query": "سيارة ذاتية القيادة السعودية",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9+%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q1QJ6BAhMEAE"
+        },
+        {
+            "query": "السيارات ذاتية القيادة PDF",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9+PDF&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q1QJ6BAhKEAE"
+        },
+        {
+            "query": "سيارة ذاتية القيادة بالانجليزي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q1QJ6BAhJEAE"
+        },
+        {
+            "query": "مشروع سيارة ذاتية القيادة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D8%B4%D8%B1%D9%88%D8%B9+%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q1QJ6BAhIEAE"
+        },
+        {
+            "query": "السيارات ذاتية القيادة 2020",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9+2020&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q1QJ6BAhGEAE"
+        },
+        {
+            "query": "أنواع السيارات ذاتية القيادة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q1QJ6BAhFEAE"
+        },
+        {
+            "query": "الذكاء الاصطناعي في السيارات ذاتية القيادة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1+%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A+%D9%81%D9%8A+%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&sa=X&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q1QJ6BAhEEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&ei=hT2eYoKfB9GgqtsP1emh6Ao&start=10&sa=N&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&ei=hT2eYoKfB9GgqtsP1emh6Ao&start=10&sa=N&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&ei=hT2eYoKfB9GgqtsP1emh6Ao&start=20&sa=N&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&ei=hT2eYoKfB9GgqtsP1emh6Ao&start=30&sa=N&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&ei=hT2eYoKfB9GgqtsP1emh6Ao&start=40&sa=N&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&ei=hT2eYoKfB9GgqtsP1emh6Ao&start=50&sa=N&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&ei=hT2eYoKfB9GgqtsP1emh6Ao&start=60&sa=N&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&ei=hT2eYoKfB9GgqtsP1emh6Ao&start=70&sa=N&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&ei=hT2eYoKfB9GgqtsP1emh6Ao&start=80&sa=N&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&hl=ar&gl=eg&ei=hT2eYoKfB9GgqtsP1emh6Ao&start=90&sa=N&ved=2ahUKEwjC9eHxsJn4AhVRkGoFHdV0CK0Q8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9+%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9&start=90"
+        }
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "search_metadata": {
+        "id": "627cff15303eb1c5cbbf3bf7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7a305c5ce769dbd8/627cff15303eb1c5cbbf3bf7.json",
+        "created_at": "2022-05-12 12:35:33 UTC",
+        "processed_at": "2022-05-12 12:35:33 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&oq=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&uule=w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=&hl=iw&gl=IL&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7a305c5ce769dbd8/627cff15303eb1c5cbbf3bf7.html",
+        "total_time_taken": 1.14
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "תת תזונה",
+        "uule": "w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "IL",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "תת תזונה",
+        "total_results": 345000,
+        "time_taken_displayed": 0.41
+    },
+    "answer_box": {
+        "type": "organic_result",
+        "title": "תת־תזונה מתוארת כחוסר בקלוריות (כתוצאה מאכילה מועטה מאוד) ו/או כחוסר בחלבון. חוסר בקלוריות מלווה לרוב גם בחוסר ויטמינים, מינרלים ויסודות קורט.",
+        "link": "https://www.clalit.co.il/he/lifestyle/nutrition/Pages/malnutrition.aspx",
+        "displayed_link": "https://www.clalit.co.il › nutrition › Pages › malnutrition",
+        "snippet": "תת־תזונה מתוארת כחוסר בקלוריות (כתוצאה מאכילה מועטה מאוד) ו/או כחוסר בחלבון. חוסר בקלוריות מלווה לרוב גם בחוסר ויטמינים, מינרלים ויסודות קורט.",
+        "thumbnail": "https://serpapi.com/searches/627cff15303eb1c5cbbf3bf7/images/4c0a806bb9f2b53e855d67e7341df6d02f9db0a132327342.jpeg",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "תת-תזונה - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%AA%D7%AA-%D7%AA%D7%96%D7%95%D7%A0%D7%94",
+            "displayed_link": "https://he.wikipedia.org › wiki › תת-תזונה",
+            "snippet": "כמו כן, תת-תזונה עלולה להגרם מניצול לא תקין של הנוטריאנטים על ידי הגוף או מאיבוד של נוטריאנטים כתוצאה מהזעה מופרזת, דימום, שלשול או אי ספיקת כליות. תקופה ארוכה ...",
+            "snippet_highlighted_words": [
+                "תת",
+                "תזונה"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "תת תזונה - מהי ומי עלול ללקות בה? | אבוט - Abbot",
+            "link": "https://www.abbottnutrition.co.il/%D7%AA%D7%96%D7%95%D7%A0%D7%94-%D7%91%D7%92%D7%99%D7%9C-%D7%94%D7%A9%D7%9C%D7%99%D7%A9%D7%99/%D7%9E%D7%94%D7%99-%D7%AA%D7%AA-%D7%AA%D7%96%D7%95%D7%A0%D7%94-%D7%95%D7%9E%D7%99-%D7%A2%D7%9C%D7%95%D7%9C-%D7%9C%D7%9C%D7%A7%D7%95%D7%AA-%D7%91%D7%94/",
+            "displayed_link": "https://www.abbottnutrition.co.il › תזונה-בגיל-השלישי › מה...",
+            "snippet": "תת תזונה הינה מצב של חוסר איזון בין צריכה תזונתית לבין דרישה תזונתית של הגוף, אשר עלול להביא לסיכון בריאותי. מה גורם לתת תזונה ומהן והדרכים למניעה ולטיפול?",
+            "snippet_highlighted_words": [
+                "תת תזונה",
+                "תזונה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "תת תזונה (Undernutrition) - הסימפטומים, הבדיקות ודרכי הטיפול",
+            "link": "https://www.infomed.co.il/diseases/undernutrition/",
+            "displayed_link": "https://www.infomed.co.il › מחלות",
+            "snippet": "תת-תזונה, למרות מתן מזון מספיק, יכולה להיות כתוצאה ממחלה כרונית קשה או עקב תת-ספיגה במערכת העיכול על רקע בעיה חולפת או קבועה. יודגש שמחסור במרכיב תזונתי יחיד, ...",
+            "snippet_highlighted_words": [
+                "תת",
+                "תזונה",
+                "תת",
+                "תזונתי"
+            ],
+            "related_questions": [
+                {
+                    "question": "אני בת 13 וגובהי 1.46. אני שוקלת 45. לפני שבוע עשיתי דיאטת \"כסאח\" - פשוט לא אכלתי כלום, וכתוצאה מזה ירדתי ל-42 וחצי. מה את ממליצה לי לאכול שיהיה בריא ולא ישמין? אני לא נוגעת יותר במתוק. ועוד שאלה, אני בת 13 ומידה של החזה שלי A70. האם זה",
+                    "snippet": "על פי נתוני המשקל והגובה שמסרת, ה- BMI שלך כיום (היחס בין המשקל לגובה) הוא 19.7. הטווח התקין של ה- BMI הוא 18.5 עד 25, כלומר את נמצאת קרוב לגבול התחתון של המשקל הנורמלי. בהתייחס לנתונים אלה, אני ממליצה לך לשמור על משקלך הנוכחי ולא לרדת במשקל. ירידה במשקל עלולה לגרום לחסרים תזונתיים ופגיעה בכל מערכות הגוף. את נמצאת בגיל ההתבגרות בו דרישות הגוף ליסודות המזון השונים גבוהות ביותר על מנת להשלים את הצמיחה וההתפתחות. אם תמשיכי בדיאטת כאסח עלול להיווצר מצב בו הגוף לא יקבל את כל מרכיבי המזון להם הוא זקוק להשלמת הצמיחה. לשמירה על משקל תקין חשוב שתקפידי על לפחות 3 ארוחות... עוד"
+                },
+                {
+                    "question": "אני בחורה רזה (1.60 מטר, 44 ק\"ג). עד לאחרונה נהגתי לאכול בעיקר ג'אנק פוד במטרה לעלות קצת במשקל, ובנוסף לא עסקתי בשום פעילות גופנית, אך הדבר לא עזר, והמשקל שלי מעולם לא עלה על 45 קילו. כעת אני מנסה לאכול מזון בריא ולהתאמן, אך אני יורדת במשקל, וזה",
+                    "snippet": "תחילה חשוב שתיבדקי על ידי רופא המשפחה ותבצעי בדיקות דם על מנת לוודא שאין סיבה רפואית לתת-המשקל. הנחיות נוספות: חשוב שתעסקי בעיקר בפעילות גופנית המחזקת את השרירים (כגון שיעורי עיצוב וחיטוב, פילאטיס, עבודה עם מכשירים בחדר כושר) ופחות בפעילות אירובית (כגון שחיה, הליכה, ריצה). הגדלת מסת השריר תביא לעלייה במשקל ולמראה בריא יותר של הגוף. התפריט צריך לכלול ארוחות תכופות יחסית (כל 3 שעות). עשית נכון בכך שהפסקת לאכול ג'אנק פוד. מומלץ שתשלבי בתפריטך שמן זית, טחינה, אבוקדו, אגוזים, חלב (לא מתחת 3%) ומוצרי חלב (לא מתחת 5%), בשר (בקר/עוף/דג/הודו), ביצה, פסטה, אורז, לחם,... עוד"
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "title": "תת תזונה: הגדרה, תסמינים וטיפול - בריאות הנפש",
+            "link": "https://rosh-bari.co.il/%D7%94%D7%A4%D7%A8%D7%A2%D7%95%D7%AA-%D7%90%D7%9B%D7%99%D7%9C%D7%94/%D7%AA%D7%AA-%D7%AA%D7%96%D7%95%D7%A0%D7%94/",
+            "displayed_link": "https://rosh-bari.co.il › הפרעות-אכילה › תת-תזונה",
+            "snippet": "היכולת לזהות את השפעות התזונה הלקויה, יכולה לעזור לאנשים ולספקי שירותי הבריאות לאבחן ולטפל בנושאים הקשורים לתת תזונה או תזונת יתר. התסמינים של תת תזונה שנובעת ...",
+            "snippet_highlighted_words": [
+                "התזונה",
+                "תזונה",
+                "תת תזונה"
+            ],
+            "related_questions": [
+                {
+                    "question": "מיהן האוכלוסיות הנמצאות בסיכון לתת תזונה?",
+                    "snippet": "נשים בהריון הן רק אוכלוסיה אחת, מתוך רשימה ארוכה, הנמצאת בסיכון של תת תזונה. כל הרשימה במאמר הבא."
+                },
+                {
+                    "question": "מהם הגורמים השכיחים לתת תזונה?",
+                    "snippet": "צריכת אלכוהול מופרזת תשפיע על צריכה לא מספקת של חומרים שהגוף שלנו צריך. האלכוהול לא לבד, שאר הגורמים בהמשך."
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "title": "תת-תזונה בקשישים - Malnutrition in the elderly - ויקירפואה",
+            "link": "https://www.wikirefua.org.il/w/index.php/%D7%AA%D7%AA-%D7%AA%D7%96%D7%95%D7%A0%D7%94_%D7%91%D7%A7%D7%A9%D7%99%D7%A9%D7%99%D7%9D_%E2%80%93_Malnutrition_in_the_elderly",
+            "displayed_link": "https://www.wikirefua.org.il › index.php › תת-תזונה_בקש...",
+            "snippet": "ישנם גורמים שונים המשפיעים על התפתחות תת התזונה של הזקנה, כגון: שינויי תיאבון, שינויים בצריכת מזון ושינויים בהרכב הגוף. הגורמים הם רבים, משתלבים זה בזה, וחלקם ...",
+            "snippet_highlighted_words": [
+                "תת התזונה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "תת תזונה סכנות ותסמינים | השפעות תת תזונה על הגוף",
+            "link": "https://www.dayan-clinic.co.il/%D7%9E%D7%97%D7%9C%D7%95%D7%AA-%D7%AA%D7%AA-%D7%AA%D7%96%D7%95%D7%A0%D7%94-%D7%A1%D7%99%D7%9E%D7%A0%D7%99%D7%9D-%D7%98%D7%99%D7%A4%D7%95%D7%9C-%D7%99%D7%A2%D7%99%D7%9C-%D7%95%D7%A2%D7%95%D7%93/",
+            "displayed_link": "https://www.dayan-clinic.co.il › מחלות-תת-תזונה-סימנים-טיפ...",
+            "snippet": "סימנים של תת תזונה - מרכז מומחים ד”ר דיין לרפואה משולבת - רפואה קונבנציונאלית ורפואה משלימה. לפרטים ויצירת קשר היכנס/י לאתר עכשיו!",
+            "snippet_highlighted_words": [
+                "תת תזונה"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "האם אתם סובלים מתת-תזונה? תתפלאו, אולי כן - Ynet",
+            "link": "https://www.ynet.co.il/articles/0,7340,L-4327023,00.html",
+            "displayed_link": "https://www.ynet.co.il › ... › דיאטה",
+            "date": "1 בינו׳ 2013",
+            "snippet": "אנו רגילים לדמיין ילדים רעבים באפריקה בהקשר של תת-תזונה, אך למעשה חלקים הולכים וגדלים באוכלוסייה סובלים מחוסרים תזונתיים המשפיעים על בריאותם ...",
+            "snippet_highlighted_words": [
+                "תת",
+                "תזונה"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "תת תזונה - גורמים וסכנות - קופת חולים",
+            "link": "https://www.le-la.co.il/%D7%AA%D7%AA-%D7%AA%D7%96%D7%95%D7%A0%D7%94/",
+            "displayed_link": "https://www.le-la.co.il › תת-תזונה",
+            "snippet": "תת תזונה הנו מצב בו הגוף אינו מקבל את הצרכים התזונתיים הנדרשים לו לפעילות אפקטיבית ותקינה. כל מה שצריך לדעת על תת תזונה.",
+            "snippet_highlighted_words": [
+                "תת תזונה",
+                "תת תזונה"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "תת תזונה - אקו-ויקי",
+            "link": "https://ecowiki.org.il/wiki/%D7%AA%D7%AA_%D7%AA%D7%96%D7%95%D7%A0%D7%94",
+            "displayed_link": "https://ecowiki.org.il › wiki › תת_תזונה",
+            "date": "27 ביולי 2019",
+            "snippet": "תת תזונה במדינות עשירות נובעת לרוב מתזונה בלתי בריאה עם עודף אנרגיה, סוכר ושומנים ופחות מידי ויטמינים, מינרלים. צורה אחרת שת תזונה לקויה, השמנת ...",
+            "snippet_highlighted_words": [
+                "תת תזונה",
+                "מתזונה",
+                "תזונה"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "השלכות של תת תזונה",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%94%D7%A9%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%9C+%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&sa=X&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "תת תזונה בילדים",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94+%D7%91%D7%99%D7%9C%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "תת תזונה סימפטומים",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94+%D7%A1%D7%99%D7%9E%D7%A4%D7%98%D7%95%D7%9E%D7%99%D7%9D&sa=X&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "תת תזונה טיפול",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94+%D7%98%D7%99%D7%A4%D7%95%D7%9C&sa=X&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "חסך תזונתי",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%97%D7%A1%D7%9A+%D7%AA%D7%96%D7%95%D7%A0%D7%AA%D7%99&sa=X&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "תת תזונה תינוקות",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94+%D7%AA%D7%99%D7%A0%D7%95%D7%A7%D7%95%D7%AA&sa=X&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "חוסר תזונתי",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%97%D7%95%D7%A1%D7%A8+%D7%AA%D7%96%D7%95%D7%A0%D7%AA%D7%99&sa=X&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ1QJ6BAgdEAE"
+        },
+        {
+            "query": "תזונה נכונה תת משקל",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%AA%D7%96%D7%95%D7%A0%D7%94+%D7%A0%D7%9B%D7%95%D7%A0%D7%94+%D7%AA%D7%AA+%D7%9E%D7%A9%D7%A7%D7%9C&sa=X&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ1QJ6BAgcEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&gl=IL&hl=iw&ei=Ff98YqGtL_qLytMP27ucsAs&start=10&sa=N&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&gl=IL&hl=iw&ei=Ff98YqGtL_qLytMP27ucsAs&start=10&sa=N&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&gl=IL&hl=iw&ei=Ff98YqGtL_qLytMP27ucsAs&start=20&sa=N&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&gl=IL&hl=iw&ei=Ff98YqGtL_qLytMP27ucsAs&start=30&sa=N&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&gl=IL&hl=iw&ei=Ff98YqGtL_qLytMP27ucsAs&start=40&sa=N&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&gl=IL&hl=iw&ei=Ff98YqGtL_qLytMP27ucsAs&start=50&sa=N&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&gl=IL&hl=iw&ei=Ff98YqGtL_qLytMP27ucsAs&start=60&sa=N&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&gl=IL&hl=iw&ei=Ff98YqGtL_qLytMP27ucsAs&start=70&sa=N&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&gl=IL&hl=iw&ei=Ff98YqGtL_qLytMP27ucsAs&start=80&sa=N&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&gl=IL&hl=iw&ei=Ff98YqGtL_qLytMP27ucsAs&start=90&sa=N&ved=2ahUKEwjhi6ja_Nn3AhX6hXIEHdsdB7YQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=20&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=30&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=40&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=50&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=60&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=70&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=80&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%AA%D7%AA+%D7%AA%D7%96%D7%95%D7%A0%D7%94&start=90&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D"
+        }
+    }
+}

@@ -1,0 +1,321 @@
+{
+    "search_metadata": {
+        "id": "629e3d49dc02f19db86c8a62",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/03923279e2451c48/629e3d49dc02f19db86c8a62.json",
+        "created_at": "2022-06-06 17:45:45 UTC",
+        "processed_at": "2022-06-06 17:45:45 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&oq=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/03923279e2451c48/629e3d49dc02f19db86c8a62.html",
+        "total_time_taken": 2.49
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "חור שחור",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "חור שחור",
+        "total_results": 1820000,
+        "time_taken_displayed": 0.42
+    },
+    "knowledge_graph": {
+        "title": "חור שחור",
+        "header_images": [
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8_%D7%A9%D7%97%D7%95%D7%A8"
+            },
+            {
+                "source": "https://www.space.gov.il/%D7%AA%D7%92%D7%99%D7%95%D7%AA/%D7%97%D7%95%D7%A8-%D7%A9%D7%97%D7%95%D7%A8"
+            },
+            {
+                "source": "https://www.ynet.co.il/environment-science/article/S1EnqpO4u"
+            },
+            {
+                "source": "https://news.walla.co.il/item/3185658"
+            },
+            {
+                "source": "https://www.youtube.com/watch?v=YG3N0T0JKB4"
+            },
+            {
+                "source": "https://www.madatech.org.il/nature-a-glimpse-into-the-heart-of-a-quasar"
+            }
+        ],
+        "description": "חור שחור הוא גרם שמיים בעל שדה כבידה כה חזק, ששום עצם או קרינה הקרובים אליו יתר על המידה אינם יכולים להימלט ממנו, והם נבלעים לתוכו. כל מסלול תנועה אפשרי בתוך תחומי החור השחור מוליך לנקודה אחת ויחידה - המרכז. קרוב לחור השחור בכל כיוון שנתקדם, נגיע לבסוף אל המרכז. מהירות המילוט ממנו גבוהה יותר מאשר מהירות האור.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8_%D7%A9%D7%97%D7%95%D7%A8"
+        },
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "קוואזר",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A7%D7%95%D7%95%D7%90%D7%96%D7%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeSkquAnq5Z8uQlHtFH2XF8M_BRbhcO2DeXVBEfNbxIPwmWXlgkigvpnDt_5l8XALaL_MqCP1okt9PWBIq1fyxlidxXEHQw5FMXaiugtzC5zBxG9u8ZCPpR7BSeMqtUeotbp5Uv3k3QtdBjQw56p0x_nHNyBRxysMRHbVz8TzRuPLJWMtkEfHTwTgy-LKDuTDYcKyYEwKGHp6sAVWBSElFtggKO1DOzhwl3XmS6E9xreXPjhQi8uy7GQp13Z1cVr5H8G2nU%3D&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQxA16BAhWEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%95%D7%90%D7%96%D7%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeSkquAnq5Z8uQlHtFH2XF8M_BRbhcO2DeXVBEfNbxIPwmWXlgkigvpnDt_5l8XALaL_MqCP1okt9PWBIq1fyxlidxXEHQw5FMXaiugtzC5zBxG9u8ZCPpR7BSeMqtUeotbp5Uv3k3QtdBjQw56p0x_nHNyBRxysMRHbVz8TzRuPLJWMtkEfHTwTgy-LKDuTDYcKyYEwKGHp6sAVWBSElFtggKO1DOzhwl3XmS6E9xreXPjhQi8uy7GQp13Z1cVr5H8G2nU%3D",
+                "image": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/51f37c1de98276b8df53d2343a02a81cd5e446e3faf9fc62cb47630fd4d9e701c78a76e500ce444751be28b58dd64c799b0c56b7d8b87356.jpeg"
+            },
+            {
+                "name": "ננס לבן",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A0%D7%A0%D7%A1+%D7%9C%D7%91%D7%9F&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZ-DXS56i-JvlgsQfYDoU_7McFgE58AgNvfclwUMZ--YAN-uyeVHwdaw5R911RmUltbuPnhu3SZYOB_04dBkhHBjGIz7fTlU4_5zzoL_-2Phgt6XAbgGKCzLDGnAPZQi-wR_NY_AmOiA2PG6JBqCWBPDc1yDoFlkNRiUj9A2ZRoo89dDkB5--Gn_UBbv3sKnyAvLSRypa3cY11UL48nWbCLzD_qr1TVlq1b4lwHuXcjDOEmf5ZKQvcICHF9JKrHi4rz697g%3D&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQxA16BAhWEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A0%D7%A0%D7%A1+%D7%9C%D7%91%D7%9F&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZ-DXS56i-JvlgsQfYDoU_7McFgE58AgNvfclwUMZ--YAN-uyeVHwdaw5R911RmUltbuPnhu3SZYOB_04dBkhHBjGIz7fTlU4_5zzoL_-2Phgt6XAbgGKCzLDGnAPZQi-wR_NY_AmOiA2PG6JBqCWBPDc1yDoFlkNRiUj9A2ZRoo89dDkB5--Gn_UBbv3sKnyAvLSRypa3cY11UL48nWbCLzD_qr1TVlq1b4lwHuXcjDOEmf5ZKQvcICHF9JKrHi4rz697g%3D",
+                "image": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/51f37c1de98276b8df53d2343a02a81cd5e446e3faf9fc62cb47630fd4d9e701c78a76e500ce4447b1acbbe398a01788e8f418f0e23a9da3.jpeg"
+            },
+            {
+                "name": "גלקסיה",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%92%D7%9C%D7%A7%D7%A1%D7%99%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfslwB4Xo83_wZUSGufpzox-R-eOdvq4IcaLN-lRpS5QNjiN-YtHzXFExJ92AsI3wKCz8O-DSqspBPL0hFdqrf0ft9uEUIZlc0wmCgjEeC5l0iznUX4PkwtXOQxfhgclD2LwSPwWIcn53x15WfrxApsG4q0Odzfzb8VqwCWxTnaqfjqL8U66axvYiG7bxIPv_zW8xkykBj2ZPLeimlozdC8CgfAZz2ly6GVazpv7JxBJYqjLYb-daKuxnhdYqQnqdB1JYTQ%3D&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQxA16BAhWEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%92%D7%9C%D7%A7%D7%A1%D7%99%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfslwB4Xo83_wZUSGufpzox-R-eOdvq4IcaLN-lRpS5QNjiN-YtHzXFExJ92AsI3wKCz8O-DSqspBPL0hFdqrf0ft9uEUIZlc0wmCgjEeC5l0iznUX4PkwtXOQxfhgclD2LwSPwWIcn53x15WfrxApsG4q0Odzfzb8VqwCWxTnaqfjqL8U66axvYiG7bxIPv_zW8xkykBj2ZPLeimlozdC8CgfAZz2ly6GVazpv7JxBJYqjLYb-daKuxnhdYqQnqdB1JYTQ%3D",
+                "image": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/51f37c1de98276b8df53d2343a02a81cd5e446e3faf9fc62cb47630fd4d9e701c78a76e500ce4447b2d3187b0fa177dc68eb3aa1e59e4103.jpeg"
+            },
+            {
+                "name": "ערפילית",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A2%D7%A8%D7%A4%D7%99%D7%9C%D7%99%D7%AA&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbpe4Riup5EsXqsTnVg-vpsvwyMuF2cMJoJeLfWkxNZzuu4q9-UnGkl-u29zUXyBnDDRg1d5niz-cNvJ9J9hChbIvOhecHYsZ27Pt9Z-D__F1Qr0XQId6qGqfDHp9qHRUc9BMSFu39xWbWVj3LyVHDMCtoM_E0Huo8IZVmLNj3NmtFmNlQLzBkEcKYjLp6cX65e8XmGgGzet1R9K0CLDWUSPNStbYY52sw2SD68MNEO2-8Xn43TLFTuzitjS91CLdAkWUbs%3D&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQxA16BAhWEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A2%D7%A8%D7%A4%D7%99%D7%9C%D7%99%D7%AA&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbpe4Riup5EsXqsTnVg-vpsvwyMuF2cMJoJeLfWkxNZzuu4q9-UnGkl-u29zUXyBnDDRg1d5niz-cNvJ9J9hChbIvOhecHYsZ27Pt9Z-D__F1Qr0XQId6qGqfDHp9qHRUc9BMSFu39xWbWVj3LyVHDMCtoM_E0Huo8IZVmLNj3NmtFmNlQLzBkEcKYjLp6cX65e8XmGgGzet1R9K0CLDWUSPNStbYY52sw2SD68MNEO2-8Xn43TLFTuzitjS91CLdAkWUbs%3D",
+                "image": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/51f37c1de98276b8df53d2343a02a81cd5e446e3faf9fc62cb47630fd4d9e701c78a76e500ce44473d7173a44b563173c5009940c0c2f68d.jpeg"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&stick=H4sIAAAAAAAAAONgFuLQz9U3MMwwLFaCs7QEgzNTUssTK4v9UitKgktSC4oXsfJfn3596vUVCtdXQhg7WBkBviD_QD4AAAA&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQMSgAegQIVhAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMwwLFaCs7QEgzNTUssTK4v9UitKgktSC4oXsfJfn3596vUVCtdXQhg7WBkBviD_QD4AAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "הכל על חורים שחורים",
+            "link": "https://www.youtube.com/watch?v=bgW7pv2i9h4",
+            "thumbnail": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/d58e9f6d0a02554f512020a146ea0d14004d03e9b84598538e64e3a0304a1828.jpeg",
+            "channel": "ScienceReasonIsrael",
+            "duration": "20:37",
+            "platform": "YouTube",
+            "date": "22 בינו׳ 2017"
+        },
+        {
+            "position": 2,
+            "title": "מסע לתוך חור שחור",
+            "link": "https://www.youtube.com/watch?v=UHIdUXXyaTE",
+            "thumbnail": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/d58e9f6d0a02554f69b1862be0ca25833a5b6698a20a3666092145d136125023.jpeg",
+            "channel": "מכון דוידסון - סרטוני מדע",
+            "duration": "6:54",
+            "platform": "YouTube",
+            "date": "17 במרץ 2011"
+        },
+        {
+            "position": 3,
+            "title": "הדמייה: כיצד חור שחור בולע כוכב שנקלע בדרכו - קרדיט: נאס\"א",
+            "link": "https://www.youtube.com/watch?v=YG3N0T0JKB4",
+            "thumbnail": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/d58e9f6d0a02554f2dd2519e7e6ebf55c514f8870af567d41c24b48a1da42630.jpeg",
+            "channel": "Haaretz הארץ",
+            "duration": "0:43",
+            "platform": "YouTube",
+            "date": "25 באוק׳ 2015"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "חור שחור - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8_%D7%A9%D7%97%D7%95%D7%A8",
+            "displayed_link": "https://he.wikipedia.org › wiki › חור_שחור",
+            "thumbnail": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/b311a22275b49b2232075963af5cc4df150922273fcac00529b6efdacafa9680.jpeg",
+            "snippet": "כל מסלול תנועה אפשרי בתוך תחומי החור השחור מוליך לנקודה אחת ויחידה - המרכז (סינגולריות). קרוב לחור השחור (כלומר מעבר לאופק האירועים) בכל כיוון שנתקדם, נגיע ...",
+            "snippet_highlighted_words": [
+                "לחור"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "חור שחור כוכבי",
+                        "link": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8_%D7%A9%D7%97%D7%95%D7%A8_%D7%9B%D7%95%D7%9B%D7%91%D7%99"
+                    },
+                    {
+                        "title": "חור שחור (ניתוח מתמטי)",
+                        "link": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8_%D7%A9%D7%97%D7%95%D7%A8_(%D7%A0%D7%99%D7%AA%D7%95%D7%97_%D7%9E%D7%AA%D7%9E%D7%98%D7%99)"
+                    },
+                    {
+                        "title": "חור שחור זעיר",
+                        "link": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8_%D7%A9%D7%97%D7%95%D7%A8_%D7%96%D7%A2%D7%99%D7%A8"
+                    },
+                    {
+                        "title": "חור שחור על-מסיבי",
+                        "link": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8_%D7%A9%D7%97%D7%95%D7%A8_%D7%A2%D7%9C-%D7%9E%D7%A1%D7%99%D7%91%D7%99"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "חור שחור: איך נוצרים חורים שחורים? | סוכנות החלל הישראלית",
+            "link": "https://www.space.gov.il/%D7%AA%D7%92%D7%99%D7%95%D7%AA/%D7%97%D7%95%D7%A8-%D7%A9%D7%97%D7%95%D7%A8",
+            "displayed_link": "https://www.space.gov.il › תגיות › חור-שחור",
+            "thumbnail": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/b311a22275b49b2232075963af5cc4df6e3fdb2c9f4ac434a6280b15ec2444f9.jpeg",
+            "snippet": "מהם חורים שחורים? איך נוצר חור שחור, ואיך הוא משפיע על הזמן שעובר? קראו כאן על תופעת החורים השחורים שמציתה את הדמיון ומרתקת מדענים רבים.",
+            "snippet_highlighted_words": [
+                "חורים שחורים",
+                "חור שחור"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "צילום חושף לראשונה: חור שחור מאסיבי במרכז שביל החלב",
+            "link": "https://www.israelhayom.co.il/tech/article/10862580",
+            "displayed_link": "https://www.israelhayom.co.il › טכנולוגיה ומדע",
+            "thumbnail": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/b311a22275b49b2232075963af5cc4df63694fde874e32d0fce89f976fde37c7.jpeg",
+            "date": "12 במאי 2022",
+            "snippet": "התמונה המוצגת ברזולוציה שטרם נראתה, הוצגה היום בשש מסיבות עיתונאים שהתקיימו בו זמנית ברחבי העולם • חוקר: \"אם אתה רוצה להבין חורים שחורים ...",
+            "snippet_highlighted_words": [
+                "חורים שחורים"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "סודות החורים השחורים - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/sciencepanorama/%D7%A1%D7%95%D7%93%D7%95%D7%AA-%D7%94%D7%97%D7%95%D7%A8%D7%99%D7%9D-%D7%94%D7%A9%D7%97%D7%95%D7%A8%D7%99%D7%9D",
+            "displayed_link": "https://davidson.weizmann.ac.il › sciencepanorama › סו...",
+            "thumbnail": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/b311a22275b49b2232075963af5cc4df859210ba04830d002f1452bf5512d560.jpeg",
+            "date": "27 באוק׳ 2016",
+            "snippet": "אילו סוגים של חורים שחורים קיימים ביקום? ואילו שמועות, תיאוריות ומיתוסים חגים סביבם? מהו חור שחור? חור שחור הוא אזור בחלל שבו מרוכזת מסה של כוכב ...",
+            "snippet_highlighted_words": [
+                "חורים שחורים",
+                "חור שחור",
+                "חור שחור"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "מה קורה כשכוכב נבלע בתוך חור שחור? - Ynet",
+            "link": "https://www.ynet.co.il/environment-science/article/267U52A39",
+            "displayed_link": "https://www.ynet.co.il › ynet - סביבה ומדע › מדע",
+            "snippet": "אירוע ערעור כבידתי (Tidal Disruption Event או בקיצור TDE) מתרחש כאשר כוכב עובר ליד חור שחור סופר-מסיבי ומתפרק בגלל עוצמת המשיכה של החור ...",
+            "snippet_highlighted_words": [
+                "חור שחור"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "בפבר": 22
+                    },
+                    "extensions": [
+                        "22 בפבר׳ 2021",
+                        "הועלה על",
+                        "ידי ynet",
+                        "מדע"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "חור שחור - Ynet",
+            "link": "https://www.ynet.co.il/topics/%D7%97%D7%95%D7%A8_%D7%A9%D7%97%D7%95%D7%A8",
+            "displayed_link": "https://www.ynet.co.il › תגיות › טופיקס",
+            "snippet": "כנסו וקראו על כל הנושאים שהכי מעניינים אתכם. חדשות חמות , עידכונים ומבזקים. ynet חור שחור – מגוון כתבות אודות חור שחור באתר.",
+            "snippet_highlighted_words": [
+                "חור שחור",
+                "חור שחור"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "חורים שחורים - מטח",
+            "link": "https://lib.cet.ac.il/pages/item.asp?item=4420",
+            "displayed_link": "https://lib.cet.ac.il › pages › item",
+            "snippet": "שאלות ותשובות בנושא חורים שחורים - מהו חור שחור, כיצד הוא נוצר, האם ניתן לראותו ואם כן - כיצד, מה הקשר בין חור שחור להתפתחות השמש, למה כשחור שחור בולע עצם ...",
+            "snippet_highlighted_words": [
+                "חורים שחורים",
+                "חור שחור",
+                "חור שחור",
+                "שחור"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "מבט אל תוך לבו של חור שחור - מדעטק",
+            "link": "https://www.madatech.org.il/nature-a-glimpse-into-the-heart-of-a-quasar",
+            "displayed_link": "https://www.madatech.org.il › nature-a-glimpse-into-the...",
+            "thumbnail": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/b311a22275b49b2232075963af5cc4dffb6b44ce1e9a61d74715ddaa3f71a985.jpeg",
+            "snippet": "מה יש באותם חורים שחורים, בעלי מסה אדירה, כוח כבידה עצום שבולעים הכל אפילו קרני אור.",
+            "snippet_highlighted_words": [
+                "חורים שחורים"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "אסטרונומים חושבים שהבחינו לראשונה בחור שחור 'בלתי נראה' - הידען",
+            "link": "https://www.hayadan.org.il/%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%9D-%D7%97%D7%95%D7%A9%D7%91%D7%99%D7%9D-%D7%A9%D7%94%D7%91%D7%97%D7%99%D7%A0%D7%95-%D7%9C%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94-%D7%91%D7%97",
+            "displayed_link": "https://www.hayadan.org.il › אסטרונומים-חושבים-שהבחינו-ל...",
+            "thumbnail": "https://serpapi.com/searches/629e3d49dc02f19db86c8a62/images/b311a22275b49b2232075963af5cc4dfe8db96297be19adddad3472194a0fa83.jpeg",
+            "date": "12 בפבר׳ 2022",
+            "snippet": "חורים הצליחו לזהות חור שחור שחומר לא נופל לתוכו או שאינו חלק ממערכת בינארית, ובכך בעצם הוא לא חשוף לעין וכמעט לכל מכשיר אחר * כמה טלסקופים ...",
+            "snippet_highlighted_words": [
+                "חורים",
+                "חור שחור"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "חור שחור בים",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8+%D7%91%D7%99%D7%9D&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "חור שחור בתורה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8+%D7%91%D7%AA%D7%95%D7%A8%D7%94&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "חור שחור ויקיפדיה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8+%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "חור שחור משחק",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8+%D7%9E%D7%A9%D7%97%D7%A7&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "חור שחור הסבר לילדים",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8+%D7%94%D7%A1%D7%91%D7%A8+%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "כוכב שחור",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9B%D7%95%D7%9B%D7%91+%D7%A9%D7%97%D7%95%D7%A8&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "שחור קללה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A9%D7%97%D7%95%D7%A8+%D7%A7%D7%9C%D7%9C%D7%94&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "איך נוצר חור שחור ויקיפדיה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%99%D7%9A+%D7%A0%D7%95%D7%A6%D7%A8+%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8+%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94&sa=X&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ1QJ6BAgpEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&gl=il&hl=iw&ei=Sz2eYq_WLsvdqtsPt9OZ4A0&start=10&sa=N&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&gl=il&hl=iw&ei=Sz2eYq_WLsvdqtsPt9OZ4A0&start=10&sa=N&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&gl=il&hl=iw&ei=Sz2eYq_WLsvdqtsPt9OZ4A0&start=20&sa=N&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&gl=il&hl=iw&ei=Sz2eYq_WLsvdqtsPt9OZ4A0&start=30&sa=N&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&gl=il&hl=iw&ei=Sz2eYq_WLsvdqtsPt9OZ4A0&start=40&sa=N&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&gl=il&hl=iw&ei=Sz2eYq_WLsvdqtsPt9OZ4A0&start=50&sa=N&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&gl=il&hl=iw&ei=Sz2eYq_WLsvdqtsPt9OZ4A0&start=60&sa=N&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&gl=il&hl=iw&ei=Sz2eYq_WLsvdqtsPt9OZ4A0&start=70&sa=N&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&gl=il&hl=iw&ei=Sz2eYq_WLsvdqtsPt9OZ4A0&start=80&sa=N&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&gl=il&hl=iw&ei=Sz2eYq_WLsvdqtsPt9OZ4A0&start=90&sa=N&ved=2ahUKEwjvp7XWsJn4AhXLrmoFHbdpBtwQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%A8+%D7%A9%D7%97%D7%95%D7%A8&start=90"
+        }
+    }
+}

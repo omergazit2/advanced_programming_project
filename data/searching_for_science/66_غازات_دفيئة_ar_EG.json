@@ -1,0 +1,290 @@
+{
+    "search_metadata": {
+        "id": "627cff7cd5ecf45784f4ccbd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ab96366b0f0dadf6/627cff7cd5ecf45784f4ccbd.json",
+        "created_at": "2022-05-12 12:37:16 UTC",
+        "processed_at": "2022-05-12 12:37:16 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&oq=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&uule=w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=&hl=ar&gl=EG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ab96366b0f0dadf6/627cff7cd5ecf45784f4ccbd.html",
+        "total_time_taken": 2.85
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "غازات دفيئة",
+        "uule": "w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "EG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "غازات دفيئة",
+        "total_results": 22500,
+        "time_taken_displayed": 0.51
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=L2r8SXqBSXjh2M%252CBFUjUCVVo1-gDM%252C_%253BiSB5Gu3Bplu6oM%252CPqZnKYD1kRhJYM%252C_%253BSz1fVbeYvJYeZM%252CT2wVPWfZTClwoM%252C_%253BHMdPLwZrRpUSFM%252CYS78szNIsdceAM%252C_%253BRbh7O8quZJiRtM%252CBFUjUCVVo1-gDM%252C_%253BH6eQFlwQPMPuYM%252CBFUjUCVVo1-gDM%252C_%253BT7EuGWS5niSaNM%252C7abkI7D2Upzq7M%252C_%253BF5r7iCQFnLZVoM%252COBpcfHofzwXQfM%252C_%253BBKQjfwwk1qP8XM%252CAwStT4iCKOEPKM%252C_%253BoPOs3Y7j6jFp_M%252Cq38I_t20XbkijM%252C_&usg=AI4_-kT8W8GstG3-5w6zSY3KW4G2afrpbg&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q9QF6BAg6EAE#imgrc=L2r8SXqBSXjh2M",
+            "source": "https://ar.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%AF%D9%81%D9%8A%D8%A6%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSeE-clMYwwiMJhnFkbvAaQRKzJZbzAj733RZvofC35Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=L2r8SXqBSXjh2M%252CBFUjUCVVo1-gDM%252C_%253BiSB5Gu3Bplu6oM%252CPqZnKYD1kRhJYM%252C_%253BSz1fVbeYvJYeZM%252CT2wVPWfZTClwoM%252C_%253BHMdPLwZrRpUSFM%252CYS78szNIsdceAM%252C_%253BRbh7O8quZJiRtM%252CBFUjUCVVo1-gDM%252C_%253BH6eQFlwQPMPuYM%252CBFUjUCVVo1-gDM%252C_%253BT7EuGWS5niSaNM%252C7abkI7D2Upzq7M%252C_%253BF5r7iCQFnLZVoM%252COBpcfHofzwXQfM%252C_%253BBKQjfwwk1qP8XM%252CAwStT4iCKOEPKM%252C_%253BoPOs3Y7j6jFp_M%252Cq38I_t20XbkijM%252C_&usg=AI4_-kT8W8GstG3-5w6zSY3KW4G2afrpbg&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q9QF6BAhFEAE#imgrc=iSB5Gu3Bplu6oM",
+            "source": "https://stringfixer.com/ar/Greenhouse_gas",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1mWRtBoEvv0Q2TLVw3Rkyr8qHtcndKUEFuu8eUqqduw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=L2r8SXqBSXjh2M%252CBFUjUCVVo1-gDM%252C_%253BiSB5Gu3Bplu6oM%252CPqZnKYD1kRhJYM%252C_%253BSz1fVbeYvJYeZM%252CT2wVPWfZTClwoM%252C_%253BHMdPLwZrRpUSFM%252CYS78szNIsdceAM%252C_%253BRbh7O8quZJiRtM%252CBFUjUCVVo1-gDM%252C_%253BH6eQFlwQPMPuYM%252CBFUjUCVVo1-gDM%252C_%253BT7EuGWS5niSaNM%252C7abkI7D2Upzq7M%252C_%253BF5r7iCQFnLZVoM%252COBpcfHofzwXQfM%252C_%253BBKQjfwwk1qP8XM%252CAwStT4iCKOEPKM%252C_%253BoPOs3Y7j6jFp_M%252Cq38I_t20XbkijM%252C_&usg=AI4_-kT8W8GstG3-5w6zSY3KW4G2afrpbg&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q9QF6BAhHEAE#imgrc=Sz1fVbeYvJYeZM",
+            "source": "https://www.ibelieveinsci.com/%D8%AA%D8%AE%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%AF%D9%88%D9%86-%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA-%D8%AF%D9%81%D9%8A%D8%A6%D8%A9%D8%8C-%D9%83%D9%8A%D9%81-%D8%B3%D9%8A%D9%83%D9%88%D9%86/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRDcT8H6TkXxnwdllz92D8PwVq4RC0reLPpEF8wRv_A&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=L2r8SXqBSXjh2M%252CBFUjUCVVo1-gDM%252C_%253BiSB5Gu3Bplu6oM%252CPqZnKYD1kRhJYM%252C_%253BSz1fVbeYvJYeZM%252CT2wVPWfZTClwoM%252C_%253BHMdPLwZrRpUSFM%252CYS78szNIsdceAM%252C_%253BRbh7O8quZJiRtM%252CBFUjUCVVo1-gDM%252C_%253BH6eQFlwQPMPuYM%252CBFUjUCVVo1-gDM%252C_%253BT7EuGWS5niSaNM%252C7abkI7D2Upzq7M%252C_%253BF5r7iCQFnLZVoM%252COBpcfHofzwXQfM%252C_%253BBKQjfwwk1qP8XM%252CAwStT4iCKOEPKM%252C_%253BoPOs3Y7j6jFp_M%252Cq38I_t20XbkijM%252C_&usg=AI4_-kT8W8GstG3-5w6zSY3KW4G2afrpbg&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q9QF6BAhJEAE#imgrc=HMdPLwZrRpUSFM",
+            "source": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11ckqzUGcHv2s76yQ1Rd2alVbJU0ydOSgqwnffCS0&s=0"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=L2r8SXqBSXjh2M%252CBFUjUCVVo1-gDM%252C_%253BiSB5Gu3Bplu6oM%252CPqZnKYD1kRhJYM%252C_%253BSz1fVbeYvJYeZM%252CT2wVPWfZTClwoM%252C_%253BHMdPLwZrRpUSFM%252CYS78szNIsdceAM%252C_%253BRbh7O8quZJiRtM%252CBFUjUCVVo1-gDM%252C_%253BH6eQFlwQPMPuYM%252CBFUjUCVVo1-gDM%252C_%253BT7EuGWS5niSaNM%252C7abkI7D2Upzq7M%252C_%253BF5r7iCQFnLZVoM%252COBpcfHofzwXQfM%252C_%253BBKQjfwwk1qP8XM%252CAwStT4iCKOEPKM%252C_%253BoPOs3Y7j6jFp_M%252Cq38I_t20XbkijM%252C_&usg=AI4_-kT8W8GstG3-5w6zSY3KW4G2afrpbg&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q9QF6BAhLEAE#imgrc=Rbh7O8quZJiRtM",
+            "source": "https://ar.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%AF%D9%81%D9%8A%D8%A6%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-fjVZSqEBFLrpJtBzdMT37kUojq-k1a0R3NXeVao7A&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=L2r8SXqBSXjh2M%252CBFUjUCVVo1-gDM%252C_%253BiSB5Gu3Bplu6oM%252CPqZnKYD1kRhJYM%252C_%253BSz1fVbeYvJYeZM%252CT2wVPWfZTClwoM%252C_%253BHMdPLwZrRpUSFM%252CYS78szNIsdceAM%252C_%253BRbh7O8quZJiRtM%252CBFUjUCVVo1-gDM%252C_%253BH6eQFlwQPMPuYM%252CBFUjUCVVo1-gDM%252C_%253BT7EuGWS5niSaNM%252C7abkI7D2Upzq7M%252C_%253BF5r7iCQFnLZVoM%252COBpcfHofzwXQfM%252C_%253BBKQjfwwk1qP8XM%252CAwStT4iCKOEPKM%252C_%253BoPOs3Y7j6jFp_M%252Cq38I_t20XbkijM%252C_&usg=AI4_-kT8W8GstG3-5w6zSY3KW4G2afrpbg&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q9QF6BAhKEAE#imgrc=H6eQFlwQPMPuYM",
+            "source": "https://ar.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%AF%D9%81%D9%8A%D8%A6%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm_hWKdP0w5fqUVpPCJr_niL4QhCMD8041K3eQLnCLpg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=L2r8SXqBSXjh2M%252CBFUjUCVVo1-gDM%252C_%253BiSB5Gu3Bplu6oM%252CPqZnKYD1kRhJYM%252C_%253BSz1fVbeYvJYeZM%252CT2wVPWfZTClwoM%252C_%253BHMdPLwZrRpUSFM%252CYS78szNIsdceAM%252C_%253BRbh7O8quZJiRtM%252CBFUjUCVVo1-gDM%252C_%253BH6eQFlwQPMPuYM%252CBFUjUCVVo1-gDM%252C_%253BT7EuGWS5niSaNM%252C7abkI7D2Upzq7M%252C_%253BF5r7iCQFnLZVoM%252COBpcfHofzwXQfM%252C_%253BBKQjfwwk1qP8XM%252CAwStT4iCKOEPKM%252C_%253BoPOs3Y7j6jFp_M%252Cq38I_t20XbkijM%252C_&usg=AI4_-kT8W8GstG3-5w6zSY3KW4G2afrpbg&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q9QF6BAhEEAE#imgrc=T7EuGWS5niSaNM",
+            "source": "https://zh-cn.facebook.com/The.Muslim.researchers/photos/1548-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9-%D9%88%D8%B9%D9%84%D8%A7%D9%82%D8%AA%D9%87%EF%BF%BD/554382114723647/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4tiKuXTBf-48oYLLocBDbOkhJheFMqfDZKB94yFTTA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=L2r8SXqBSXjh2M%252CBFUjUCVVo1-gDM%252C_%253BiSB5Gu3Bplu6oM%252CPqZnKYD1kRhJYM%252C_%253BSz1fVbeYvJYeZM%252CT2wVPWfZTClwoM%252C_%253BHMdPLwZrRpUSFM%252CYS78szNIsdceAM%252C_%253BRbh7O8quZJiRtM%252CBFUjUCVVo1-gDM%252C_%253BH6eQFlwQPMPuYM%252CBFUjUCVVo1-gDM%252C_%253BT7EuGWS5niSaNM%252C7abkI7D2Upzq7M%252C_%253BF5r7iCQFnLZVoM%252COBpcfHofzwXQfM%252C_%253BBKQjfwwk1qP8XM%252CAwStT4iCKOEPKM%252C_%253BoPOs3Y7j6jFp_M%252Cq38I_t20XbkijM%252C_&usg=AI4_-kT8W8GstG3-5w6zSY3KW4G2afrpbg&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q9QF6BAhGEAE#imgrc=F5r7iCQFnLZVoM",
+            "source": "https://teb21.com/article/what-are-greenhouse-gases",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO0gTIkUbNnLQP7_61iI0K_NyyUJNLDq2TmGCmmOe0yA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=L2r8SXqBSXjh2M%252CBFUjUCVVo1-gDM%252C_%253BiSB5Gu3Bplu6oM%252CPqZnKYD1kRhJYM%252C_%253BSz1fVbeYvJYeZM%252CT2wVPWfZTClwoM%252C_%253BHMdPLwZrRpUSFM%252CYS78szNIsdceAM%252C_%253BRbh7O8quZJiRtM%252CBFUjUCVVo1-gDM%252C_%253BH6eQFlwQPMPuYM%252CBFUjUCVVo1-gDM%252C_%253BT7EuGWS5niSaNM%252C7abkI7D2Upzq7M%252C_%253BF5r7iCQFnLZVoM%252COBpcfHofzwXQfM%252C_%253BBKQjfwwk1qP8XM%252CAwStT4iCKOEPKM%252C_%253BoPOs3Y7j6jFp_M%252Cq38I_t20XbkijM%252C_&usg=AI4_-kT8W8GstG3-5w6zSY3KW4G2afrpbg&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q9QF6BAhDEAE#imgrc=BKQjfwwk1qP8XM",
+            "source": "http://kenanaonline.com/users/lobnamohamed/posts/352889",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJHjE-GVsjssgya6Txa1097epYW0_ppmgDhADJ7xKIA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=L2r8SXqBSXjh2M%252CBFUjUCVVo1-gDM%252C_%253BiSB5Gu3Bplu6oM%252CPqZnKYD1kRhJYM%252C_%253BSz1fVbeYvJYeZM%252CT2wVPWfZTClwoM%252C_%253BHMdPLwZrRpUSFM%252CYS78szNIsdceAM%252C_%253BRbh7O8quZJiRtM%252CBFUjUCVVo1-gDM%252C_%253BH6eQFlwQPMPuYM%252CBFUjUCVVo1-gDM%252C_%253BT7EuGWS5niSaNM%252C7abkI7D2Upzq7M%252C_%253BF5r7iCQFnLZVoM%252COBpcfHofzwXQfM%252C_%253BBKQjfwwk1qP8XM%252CAwStT4iCKOEPKM%252C_%253BoPOs3Y7j6jFp_M%252Cq38I_t20XbkijM%252C_&usg=AI4_-kT8W8GstG3-5w6zSY3KW4G2afrpbg&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q9QF6BAhCEAE#imgrc=oPOs3Y7j6jFp_M",
+            "source": "https://al-ain.com/article/humans-emitting-gases-ten-times-faster-volcanoes",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLNgZe70ESWQNbfaI_I_DkJMBZt6vHEmtv3D-cCkSJvQ&s"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "من انواع الغازات الدفيئة؟",
+            "snippet": "غاز ثاني أكسيدِ الكربون: ورمزه الكيميائي (CO2)، وينتج من احتراق الوقود الأحفوري، وأي مصدرٍ للدخان مثل عوادم السيارات. غاز أكسيدِ النيتروز ورمزه الكيميائي (N2O). غاز الميثان (بالإنجليزية: Methane)‏ ورمزه الكيميائي (CH4)، وينتج من فضلات الثروةِ الحيوانية. غاز الأوزون (بالإنجليزية: Ozone)‏ ورمزه الكيميائي (O3).",
+            "title": "غازات دفيئة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%AF%D9%81%D9%8A%D8%A6%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › غازات_دفيئة"
+        },
+        {
+            "question": "ما هي غازات الدفيئة ولماذا اطلق عليها هذا الاسم؟",
+            "snippet": "الغازات الدفيئة أو غازات البيت الزجاجي هي مجموعة من الغازات التي توجد في الغلاف الجوي، وقد تم وضعها تحت هذا الإسم لقيامها بامتصاص الاشعة تحت الحمراء التي تقوم الأرض بإشعاعها أو عكسها مما يقلل من كمية الطاقة الحراريّة المفقودة من الأرض وبالتالي زيادة درجة حرارة الغلاف الجوي والأرض بشكل عام.",
+            "title": "تعرف على ما هى الغازات الدفيئة - موسوعة - كله لك",
+            "link": "https://wiki.kololk.com/wiki74342-oloom-alard-%D8%AA%D8%B9%D8%B1%D9%81_%D8%B9%D9%84%D9%89_%D9%85%D8%A7_%D9%87%D9%89_%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9",
+            "displayed_link": "https://wiki.kololk.com › wiki74342-oloom-alard-تعرف_..."
+        },
+        {
+            "question": "ما معنى كلمة الغازات الدفيئة؟",
+            "snippet": "المعجم الغازات المستمدة من احتراق الوقود الأحفوري أو الخشب مثل ثاني اكسيد الكربون التي تتركز في الغلاف الجوي من خلال تشكيل غشاء يلتقط مكونات الطاقة من الأشعة الشمسية التي تعكسها الأرض، وبالتالي تضخيم ظاهرة الاحتباس الحراري مما يتسبب في ارتفاع درجة حرارة الهواء المحيط بالأرض.",
+            "title": "المصطلحات - انبعاثات غازات الدفيئة",
+            "link": "http://www.environnement.gov.tn/index.php/ar/glossaires-ar/gaz-a-effet-de-serre-ar",
+            "displayed_link": "http://www.environnement.gov.tn › gaz-a-effet-de-serre-ar"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "غازات دفيئة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%AF%D9%81%D9%8A%D8%A6%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › غازات_دفيئة",
+            "snippet": "غازات الدفيئة (ويشارُ إليها أحياناً برمز GHG اختصاراً) هي غازاتٌ توجد في الغلاف الجوي لكوكب الأرض (بالإنجليزية: Atmosphere)‏، وتتميز بقدرتها على امتصاص ...",
+            "snippet_highlighted_words": [
+                "غازات الدفيئة",
+                "غازاتٌ"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "تصنيف:غازات دفيئة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%AF%D9%81%D9%8A%D8%A6%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تصنيف:غازات_دفيئة",
+            "snippet": "صفحات تصنيف «غازات دفيئة» · *. غازات دفيئة · 1. 1-كلورو-1،1-ثنائي فلورو الإيثان · 1،1-ثنائي كلورو-1-فلورو الإيثان · 2. 2،1-ثنائي كلورو رباعي فلورو الإيثان · 2،1،1، ...",
+            "snippet_highlighted_words": [
+                "غازات دفيئة",
+                "غازات دفيئة"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "ما هي غازات الدفيئة - موضوع",
+            "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9",
+            "displayed_link": "https://mawdoo3.com › اسئلة علمية",
+            "snippet": "أهم غازات الدفيئة · ثاني أكسيد الكربون (CO2) · الميثان (CH4) · أكسيد النيتروس (N2O) · الغازات الصناعية ...",
+            "snippet_highlighted_words": [
+                "غازات الدفيئة",
+                "الغازات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٦‏/٠٦‏/٢٠١٩ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "غازات دفيئة - اليوم السابع",
+            "link": "https://www.youm7.com/Tags/index?id=1003490&tag=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20%D8%AF%D9%81%D9%8A%D8%A6%D8%A9",
+            "displayed_link": "https://www.youm7.com › Tags › tag=غازات دفيئة",
+            "snippet": "غازات دفيئة · دراسة تحذر من الأوزون ومضاعفاته على مناخ الأرض الجمعة، 01 أبريل 2022 08:00 ص · ما العلاقة بين الزبدة والاحتباس الحرارى؟ · تعرف على الغاز المسئول عن ...",
+            "snippet_highlighted_words": [
+                "غازات دفيئة",
+                "الغاز"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "غازات دفيئة - موسوعة عريق",
+            "link": "https://areq.net/m/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%AF%D9%81%D9%8A%D8%A6%D8%A9.html",
+            "displayed_link": "https://areq.net › غازات_دفيئة",
+            "snippet": "، وتعد الصين أكبر الدول في حجم انبعاثات الغازات الدفيئة. لقد اصبح من الثابت علمياً أن تراكم الأكاسيد الكربونية CO والأكاسيد النيتروجينية NO والمعروفة بغازات ...",
+            "snippet_highlighted_words": [
+                "الغازات الدفيئة",
+                "بغازات"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "غازات الاحتباس الحراري - Greenhouse gas - المعرفة",
+            "link": "https://www.marefa.org/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9/simplified",
+            "displayed_link": "https://www.marefa.org › غازات_الدفيئة › simplified",
+            "snippet": "غازات الدفيئة بالإنغليزية: Greenhouse gases هي غازات توجد في الغلاف الجوي تتميز بقدرتها على امتصاص الاشعة التي تفقدها الأرض ( الاشعة تحت الحمراء ) فتقلل ...",
+            "snippet_highlighted_words": [
+                "غازات",
+                "Greenhouse gases",
+                "غازات"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "٢.١ غازات الدفيئة - IPCC",
+            "link": "https://archive.ipcc.ch/publications_and_data/ar4/wg1/ar/tssts-2-1.html",
+            "displayed_link": "https://archive.ipcc.ch › publications_and_data › tssts-2-1",
+            "snippet": "تستقر غازات الدفيئة الطويلة العمر كثاني أكسيد الكربون (CO ٢) والميثان (CH٤) وأكسيد النيتروز (N٢O) كيميائياً وتبقى في الغلاف الجوي لفترة زمنية تتراوح بين العقد ...",
+            "snippet_highlighted_words": [
+                "غازات الدفيئة"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "لمحة عامة عن غازات الاحتباس الحراري - ناسا بالعربي",
+            "link": "https://nasainarabic.net/education/articles/view/overview-greenhouse-gases",
+            "displayed_link": "https://nasainarabic.net › overview-greenhouse-gases",
+            "snippet": "الغازات التي تَختزن الحرارة في الغلاف الجوي تسمى الغازات الدفيئة (greenhouse gases) يوفر هذا المقال بعض المعلومات عن الانبعاثات الحرارية ...",
+            "snippet_highlighted_words": [
+                "الغازات",
+                "الغازات",
+                "greenhouse gases"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٣‏/١٠‏/٢٠١٥ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "البشر يطلقون غازات دفيئة أسرع من البراكين بـ10 مرات - ...",
+            "link": "https://al-ain.com/article/humans-emitting-gases-ten-times-faster-volcanoes",
+            "displayed_link": "https://al-ain.com › article › humans-emitting-gases-ten-...",
+            "snippet": "أجرى علماء من جامعة كولومبيا الأمريكية دراسة، كشفت أن البشر يطلقون غازات دفيئة، وهي الغازات التي تساهم في ظاهرة الاحتباس الحراري، أكثر بعشر ...",
+            "snippet_highlighted_words": [
+                "غازات دفيئة",
+                "الغازات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٧‏/٠٩‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "أضرار الغازات الدفيئة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1+%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q1QJ6BAgwEAE"
+        },
+        {
+            "query": "الغازات الدفيئة المسببة للاحتباس الحراري",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9+%D8%A7%D9%84%D9%85%D8%B3%D8%A8%D8%A8%D8%A9+%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q1QJ6BAgvEAE"
+        },
+        {
+            "query": "أمثلة الغازات الدفيئة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D9%85%D8%AB%D9%84%D8%A9+%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q1QJ6BAguEAE"
+        },
+        {
+            "query": "أمثلة على الغازات الدفيئة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D9%85%D8%AB%D9%84%D8%A9+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q1QJ6BAgtEAE"
+        },
+        {
+            "query": "Greenhouse gases",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=Greenhouse+gases&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q1QJ6BAgsEAE"
+        },
+        {
+            "query": "نسبة الغازات الدفيئة في الجو",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%86%D8%B3%D8%A8%D8%A9+%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D8%AC%D9%88&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q1QJ6BAgrEAE"
+        },
+        {
+            "query": "ما معنى greenhouse gases بالانجليزي",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%85%D8%A7+%D9%85%D8%B9%D9%86%D9%89+greenhouse+gases+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q1QJ6BAgqEAE"
+        },
+        {
+            "query": "الحد من انبعاثات الغازات الدفيئة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A7%D9%84%D8%AD%D8%AF+%D9%85%D9%86+%D8%A7%D9%86%D8%A8%D8%B9%D8%A7%D8%AB%D8%A7%D8%AA+%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&sa=X&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q1QJ6BAglEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&ei=fv98YqHZMoWl_Qa0t5LoDw&start=10&sa=N&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&ei=fv98YqHZMoWl_Qa0t5LoDw&start=10&sa=N&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&ei=fv98YqHZMoWl_Qa0t5LoDw&start=20&sa=N&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&ei=fv98YqHZMoWl_Qa0t5LoDw&start=30&sa=N&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&ei=fv98YqHZMoWl_Qa0t5LoDw&start=40&sa=N&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&ei=fv98YqHZMoWl_Qa0t5LoDw&start=50&sa=N&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&ei=fv98YqHZMoWl_Qa0t5LoDw&start=60&sa=N&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&ei=fv98YqHZMoWl_Qa0t5LoDw&start=70&sa=N&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&ei=fv98YqHZMoWl_Qa0t5LoDw&start=80&sa=N&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&hl=ar&gl=EG&ei=fv98YqHZMoWl_Qa0t5LoDw&start=90&sa=N&ved=2ahUKEwihkLSM_dn3AhWFUt8KHbSbBP0Q8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=20&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=30&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=40&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=50&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=60&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=70&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=80&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA+%D8%AF%D9%81%D9%8A%D8%A6%D8%A9&start=90&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D"
+        }
+    }
+}

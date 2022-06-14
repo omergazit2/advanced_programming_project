@@ -1,0 +1,313 @@
+{
+    "search_metadata": {
+        "id": "629e3617272aa5249edd98b5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c374793d2e71106b/629e3617272aa5249edd98b5.json",
+        "created_at": "2022-06-06 17:15:03 UTC",
+        "processed_at": "2022-06-06 17:15:03 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&oq=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c374793d2e71106b/629e3617272aa5249edd98b5.html",
+        "total_time_taken": 1.48
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "אנרגיה",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "אנרגיה",
+        "total_results": 9300000,
+        "time_taken_displayed": 0.4
+    },
+    "knowledge_graph": {
+        "title": "אנרגיה",
+        "header_images": [
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94"
+            },
+            {
+                "source": "https://www.enerpoint.co.il/%D7%9E%D7%A8%D7%9B%D7%96-%D7%9E%D7%99%D7%93%D7%A2/43-%D7%9E%D7%94%D7%99-%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94-%D7%A1%D7%95%D7%9C%D7%90%D7%A8%D7%99%D7%AA"
+            },
+            {
+                "source": "https://www.ynet.co.il/articles/0,7340,L-5403226,00.html"
+            },
+            {
+                "source": "https://www.ebnlaw.co.il/he/%D7%AA%D7%97%D7%95%D7%9E%D7%99-%D7%94%D7%AA%D7%9E%D7%97%D7%95%D7%AA/energy-infrastructure/"
+            },
+            {
+                "source": "https://www.gov.il/he/departments/ministry_of_energy/govil-landing-page"
+            }
+        ],
+        "description": "בפיזיקה, אֵנֶרְגִּיָּה היא גודל פיזיקלי סקלרי, שמציין את כמות העבודה היכולה להיעשות על ידי כוח. המושג \"אנרגיה\" מסייע להבנה בכל תחומי הפיזיקה. לפי הגדרה כללית יותר, אנרגיה היא הגודל הפיזיקלי שנשמר כתוצאה מכך שחוקי הפיזיקה קבועים בזמן. ובמובן אחר, הכושר לבצע עבודה.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94"
+        },
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "חומר",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%95%D7%9E%D7%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeAf404NrHwu4odf5_DPWy1Ih8bd2Ae3G8ASPIbfbHbdJUZoYxLycq2KrCw0nlwjfQ9NLMxWBigX6DadRjoBLqRysLZ20m6LM1C1BH5qzVvpe6VGyozRRqdFyER-i327fb_2N5kKantiN4NdljHAtemuXCt3S0z7xmdm82H7zk7n1Zua6CkEWWBmYWlYeliAbvDeidZdab1ILAdR7kpRsYYKFEvTqB5pPCmDNGgS09Jl-jnAUb7tYbQh5GnZ1KgGDjUWc_g%3D&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQxA16BAhLEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%95%D7%9E%D7%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeAf404NrHwu4odf5_DPWy1Ih8bd2Ae3G8ASPIbfbHbdJUZoYxLycq2KrCw0nlwjfQ9NLMxWBigX6DadRjoBLqRysLZ20m6LM1C1BH5qzVvpe6VGyozRRqdFyER-i327fb_2N5kKantiN4NdljHAtemuXCt3S0z7xmdm82H7zk7n1Zua6CkEWWBmYWlYeliAbvDeidZdab1ILAdR7kpRsYYKFEvTqB5pPCmDNGgS09Jl-jnAUb7tYbQh5GnZ1KgGDjUWc_g%3D",
+                "image": "https://serpapi.com/searches/629e3617272aa5249edd98b5/images/cd6b8fb8e988fad3f41358e4eb9a7322b05024786082d9136abb8a26e81b56159103932c37f80cb6e8bdb931ab20f847057e65403203deca.jpeg"
+            },
+            {
+                "name": "אנרגיית רוח",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%99%D7%AA+%D7%A8%D7%95%D7%97&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgKZQbPbIrCC60R4IFPI6FUHXIhbY6BbjdRsLo7y8R_Keo9WGm0qyfdpUKT1IO4jzDL2qvBPCD76t6upndi6UY625teF3krI8h6i0B9U8bq5u37aiYEioenNs7uknd7b1HMjgHAX-jKm9C9gmadK87Kw2e8MEXYHmtWZ9DDx--EHKiLXEjWLKxpSmKfYlYinf7UCOlXnDyPJSeZxB1WnGIUIN6sqgoeviGA0We-tZ91F0uaR1tbDoirE4IcgMeaWlCUiL6I0%3D&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQxA16BAhLEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%99%D7%AA+%D7%A8%D7%95%D7%97&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgKZQbPbIrCC60R4IFPI6FUHXIhbY6BbjdRsLo7y8R_Keo9WGm0qyfdpUKT1IO4jzDL2qvBPCD76t6upndi6UY625teF3krI8h6i0B9U8bq5u37aiYEioenNs7uknd7b1HMjgHAX-jKm9C9gmadK87Kw2e8MEXYHmtWZ9DDx--EHKiLXEjWLKxpSmKfYlYinf7UCOlXnDyPJSeZxB1WnGIUIN6sqgoeviGA0We-tZ91F0uaR1tbDoirE4IcgMeaWlCUiL6I0%3D",
+                "image": "https://serpapi.com/searches/629e3617272aa5249edd98b5/images/cd6b8fb8e988fad3f41358e4eb9a7322b05024786082d9136abb8a26e81b56159103932c37f80cb62ae6d2f31ee9bde51c659b06147e01ad.jpeg"
+            },
+            {
+                "name": "חשמל",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%A9%D7%9E%D7%9C&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXpdbhWS0dvjnocKLVW9im9bHHsJbSJUUBcAuJ6UjvkHySqUkqTwaz6pSnkZyEnL56rR0zc_bRK-CQoRY1RJgdD4hkCYkPQhcody-e36sN4_Npje-I3Px0jnipWk5S_idYCZe7qzsrng3bS9iLqv3nJQLHFFho6RRpkn18IlI51_-oiJlCEyAGvHCauOvfuQOY0eMCZA0bXrr9r1dyKAtivGwjeL1mvK6Gtus6dJTBnHTyUZfCF0hV7duE0hJiCYRpgdw9Q%3D&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQxA16BAhLEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%97%D7%A9%D7%9E%D7%9C&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXpdbhWS0dvjnocKLVW9im9bHHsJbSJUUBcAuJ6UjvkHySqUkqTwaz6pSnkZyEnL56rR0zc_bRK-CQoRY1RJgdD4hkCYkPQhcody-e36sN4_Npje-I3Px0jnipWk5S_idYCZe7qzsrng3bS9iLqv3nJQLHFFho6RRpkn18IlI51_-oiJlCEyAGvHCauOvfuQOY0eMCZA0bXrr9r1dyKAtivGwjeL1mvK6Gtus6dJTBnHTyUZfCF0hV7duE0hJiCYRpgdw9Q%3D",
+                "image": "https://serpapi.com/searches/629e3617272aa5249edd98b5/images/cd6b8fb8e988fad3f41358e4eb9a7322b05024786082d9136abb8a26e81b56159103932c37f80cb6246b9d4c211b9699573e0e19100f431f.jpeg"
+            },
+            {
+                "name": "הספק",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%94%D7%A1%D7%A4%D7%A7&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWMZmyRPGEZn2JfZFGFIeFBxU5H567T92k-nWRinhsXS1NCh1I_ly_SrmNZPAhQY-AV2xA80Tj9Ku_NNwEfdygyogJA76UoTHyguZ-cNBGLR_85zhYYxDBAUgndKIxIpRHEvUijaoS-uMa_7OFY-DSyBkF6RlVqVa6ha5OEgyxKREwnQ5QSUGA_TEvK4yrAUF-LLP2f1OMZfYsmDgk9XK8t2o4a3vkyo1CqqRkbGVVAx9ZVZx6TV88AC6pRERvqUoVB_SF4%3D&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQxA16BAhLEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A1%D7%A4%D7%A7&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWMZmyRPGEZn2JfZFGFIeFBxU5H567T92k-nWRinhsXS1NCh1I_ly_SrmNZPAhQY-AV2xA80Tj9Ku_NNwEfdygyogJA76UoTHyguZ-cNBGLR_85zhYYxDBAUgndKIxIpRHEvUijaoS-uMa_7OFY-DSyBkF6RlVqVa6ha5OEgyxKREwnQ5QSUGA_TEvK4yrAUF-LLP2f1OMZfYsmDgk9XK8t2o4a3vkyo1CqqRkbGVVAx9ZVZx6TV88AC6pRERvqUoVB_SF4%3D",
+                "image": "https://serpapi.com/searches/629e3617272aa5249edd98b5/images/cd6b8fb8e988fad3f41358e4eb9a7322b05024786082d9136abb8a26e81b56159103932c37f80cb67c5c3f41ba80705c7b6f336fbb80e544.png"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&stick=H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCs7QEgzNTUssTK4v9UitKgktSC4oXsfJcn3B9wfUV1yddn3l9yg5WRgAUR__mOwAAAA&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQMSgAegQISxAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMrNjVeCs7QEgzNTUssTK4v9UitKgktSC4oXsfJcn3B9wfUV1yddn3l9yg5WRgAUR__mOwAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "לך, תדע - מה היא אנרגיה?",
+            "link": "https://www.youtube.com/watch?v=MtH3VOG4eR4",
+            "thumbnail": "https://serpapi.com/searches/629e3617272aa5249edd98b5/images/8bd2d4667d230913152d5b11aa99e9946a7cbd6854433cfc0802caf37d71a7c8.jpeg",
+            "channel": "רז קולר",
+            "duration": "8:24",
+            "platform": "YouTube",
+            "date": "18 בדצמ׳ 2016"
+        },
+        {
+            "position": 2,
+            "title": "כיתות: ו' מדעים - סוגי אנרגיה",
+            "link": "https://www.youtube.com/watch?v=nUR2r96KGpQ",
+            "thumbnail": "https://serpapi.com/searches/629e3617272aa5249edd98b5/images/8bd2d4667d230913b3a83d1c665ccc302281a993d78d1f721298dbe18975e558.jpeg",
+            "channel": "מערכת שידורים לאומית",
+            "duration": "16:12",
+            "platform": "YouTube",
+            "date": "21 באפר׳ 2020"
+        },
+        {
+            "position": 3,
+            "title": "Tuna - Energy \\\\ טונה - אנרגיה",
+            "link": "https://www.youtube.com/watch?v=bMAH5-RPMMQ",
+            "thumbnail": "https://serpapi.com/searches/629e3617272aa5249edd98b5/images/8bd2d4667d2309136fbcdfa2023d2978378a3b7c3702e1ace171d22698d32f75.jpeg",
+            "channel": "Tuna Official",
+            "duration": "3:14",
+            "platform": "YouTube",
+            "date": "24 במאי 2019"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "המסחר ננעל בעליות; דוראל אנרגיה קפצה ב-13%",
+            "link": "https://www.themarker.com/markets/2022-06-06/ty-article-live/.premium/00000181-37b4-dee8-aba7-3fbe9b910000",
+            "source": "דה מרקר",
+            "date": "לפני 9 שעות",
+            "thumbnail": "https://serpapi.com/searches/629e3617272aa5249edd98b5/images/ffb0c8734ea2d6ebed91fb1176f0ec44b611f43a83a1e43e.jpeg"
+        },
+        {
+            "title": "רפאל נדאל: \"הזכייה נותנת לי אנרגיה, אמשיך להילחם ולשחק\"",
+            "link": "https://sports.walla.co.il/item/3510396",
+            "source": "וואלה! ספורט",
+            "date": "לפני יום אחד",
+            "thumbnail": "https://serpapi.com/searches/629e3617272aa5249edd98b5/images/ffb0c8734ea2d6eb332fc65ffbc194a5d7059550aad137ab.jpeg"
+        },
+        {
+            "title": "רוח גבית מהלחימה: סאנפלאואר מוכרת את מלוא תפוקת החשמל שלה בפולין",
+            "link": "https://www.calcalist.co.il/market/article/b19zjv9oc",
+            "source": "כלכליסט",
+            "date": "לפני 22 שעות",
+            "thumbnail": "https://serpapi.com/searches/629e3617272aa5249edd98b5/images/ffb0c8734ea2d6eb0bc7b1867b3a9ec90dc24c6ef1b1b85e.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQt8YBegQIBRAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&tbm=nws",
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "אנרגיה - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94",
+            "displayed_link": "https://he.wikipedia.org › wiki › אנרגיה",
+            "snippet": "בפיזיקה, אֵנֶרְגִּיָּה היא גודל פיזיקלי סקלרי, שמציין את כמות העבודה היכולה ... זאת משום שירידה בגובה מלווה בירידה באנרגיה הפוטנציאלית, ולכן האנרגיה ...",
+            "snippet_highlighted_words": [
+                "אֵנֶרְגִּיָּה",
+                "באנרגיה",
+                "האנרגיה"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "אנרגיה מתחדשת",
+                        "link": "https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94_%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA"
+                    },
+                    {
+                        "title": "אנרגיה מכנית",
+                        "link": "https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94_%D7%9E%D7%9B%D7%A0%D7%99%D7%AA"
+                    },
+                    {
+                        "title": "קטגוריה:אנרגיה",
+                        "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94"
+                    },
+                    {
+                        "title": "אנרגיה קינטית",
+                        "link": "https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94_%D7%A7%D7%99%D7%A0%D7%98%D7%99%D7%AA"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "מהי אנרגיה? - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/askexpert/%D7%9E%D7%94%D7%99-%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94",
+            "displayed_link": "https://davidson.weizmann.ac.il › online › askexpert › מ...",
+            "date": "21 באפר׳ 2021",
+            "snippet": "כשגוף פיזיקלי נע במהירות מסוימת, זה אומר שיש לו אנרגיה קינטית שמתאימה למהירות הזו. האנרגיה הקינטית גדלה ככל שהמהירות גדלה, וגם ככל שמסת הגוף הנע ...",
+            "snippet_highlighted_words": [
+                "אנרגיה",
+                "האנרגיה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "מבוא: מהי אנרגיה? | אנרגיה בהיבט רב תחומי",
+            "link": "https://stwww1.weizmann.ac.il/energy/1-1-%D7%9E%D7%91%D7%95%D7%90-%D7%9E%D7%94%D7%99-%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94/",
+            "displayed_link": "https://stwww1.weizmann.ac.il › ... › 1.1 מבוא: מהי אנרגיה?",
+            "snippet": "כל יצור חי זקוק לאנרגיה כדי להתקיים: האנרגיה מסופקת באמצעות אוכל במקרה של האדם ובעלי החיים, ובאמצעות קרינת השמש ותהליך הפוטוסינתיזה, במקרה של צמחים ואצות ...",
+            "snippet_highlighted_words": [
+                "לאנרגיה",
+                "האנרגיה"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "מדעים : אנרגיה - בריינפופ ישראל",
+            "link": "https://il.brainpop.com/category_8/subcategory_94/",
+            "displayed_link": "https://il.brainpop.com › category_8 › subcategory_94",
+            "snippet": "סרטוני אנימציה לילדים בנושא אנרגיה מחכים לכם באתר בריינפופ. באתר, תלמדו על אנרגיה קינטית, אנרגיה פוטנציאלית, גלי אור, ותצפו בעוד סרטונים המותאמים לתוכנית ...",
+            "snippet_highlighted_words": [
+                "אנרגיה",
+                "אנרגיה",
+                "אנרגיה"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "ח.י. אנרגיה - קבוצת ח.י.",
+            "link": "https://www.hye.co.il/energy/",
+            "displayed_link": "https://www.hye.co.il › energy",
+            "snippet": "אנרגיה - תכנון וביצוע של פרויקטים בתחום האנרגיה: התייעלות אנרגטית - פתרונות תאורת LED ואנרגיה מתחדשת - מערכות סולאריות פוטו-וולטאיות (PV). ח.י.",
+            "snippet_highlighted_words": [
+                "אנרגיה",
+                "האנרגיה",
+                "ואנרגיה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "משרד האנרגיה",
+            "link": "https://www.gov.il/he/departments/ministry_of_energy/govil-landing-page",
+            "displayed_link": "https://www.gov.il › departments › govil-landing-page",
+            "snippet": "משרד האנרגיה אחראי על כל משקי האנרגיה ומשאבי הטבע של מדינת ישראל, בהם: חשמל, דלק, גז בישול, גז טבעי, התייעלות אנרגטית, חיפושי נפט, מחצבים, מחקר מדעי האדמה ...",
+            "snippet_highlighted_words": [
+                "האנרגיה",
+                "האנרגיה"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "אנרגיה ותשתיות - חדשות, ידיעות מהארץ והעולם - עיתון הארץ - דה ...",
+            "link": "https://www.themarker.com/dynamo",
+            "displayed_link": "https://www.themarker.com › dynamo",
+            "snippet": "אנרגיה ותשתיות - כל חדשות היום - הידיעות והחדשות בעיתון הארץ . סקופים, מאמרים, פרשנויות ותחקירי עומק בעיתון האיכותי בישראל.",
+            "snippet_highlighted_words": [
+                "אנרגיה"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "אנרגיה - דה מרקר",
+            "link": "https://www.themarker.com/ty-tag/0000017f-da27-d432-a77f-df3fd8610000",
+            "displayed_link": "https://www.themarker.com › ty-tag",
+            "snippet": "יו\"ר סוכנות האנרגיה הבינ\"ל: המשבר הנוכחי גדול הרבה יותר מזה בשנות ה-70 · יצוא הנפט מרוסיה להודו קפץ פי 25; זינוק של 1,000% בעסקות רובל-יואן · המספרים שממחישים למה ...",
+            "snippet_highlighted_words": [
+                "האנרגיה"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "מהי אנרגיה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%94%D7%99+%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "סוגי אנרגיה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A1%D7%95%D7%92%D7%99+%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "אנרגיה בגוף",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%91%D7%92%D7%95%D7%A3&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "אנרגיה טבעית",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%98%D7%91%D7%A2%D7%99%D7%AA&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ1QJ6BAguEAE"
+        },
+        {
+            "query": "מהי אנרגיה לכיתה ו",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%94%D7%99+%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9C%D7%9B%D7%99%D7%AA%D7%94+%D7%95&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "אנרגיה הגדרה לילדים",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%94%D7%92%D7%93%D7%A8%D7%94+%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "אנרגיה ויקיפדיה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "המרת אנרגיה ויקיפדיה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%94%D7%9E%D7%A8%D7%AA+%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94&sa=X&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ1QJ6BAgmEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&gl=il&hl=iw&ei=GDaeYoubIJ6iqtsPsdmIyAI&start=10&sa=N&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&gl=il&hl=iw&ei=GDaeYoubIJ6iqtsPsdmIyAI&start=10&sa=N&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&gl=il&hl=iw&ei=GDaeYoubIJ6iqtsPsdmIyAI&start=20&sa=N&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&gl=il&hl=iw&ei=GDaeYoubIJ6iqtsPsdmIyAI&start=30&sa=N&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&gl=il&hl=iw&ei=GDaeYoubIJ6iqtsPsdmIyAI&start=40&sa=N&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&gl=il&hl=iw&ei=GDaeYoubIJ6iqtsPsdmIyAI&start=50&sa=N&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&gl=il&hl=iw&ei=GDaeYoubIJ6iqtsPsdmIyAI&start=60&sa=N&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&gl=il&hl=iw&ei=GDaeYoubIJ6iqtsPsdmIyAI&start=70&sa=N&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&gl=il&hl=iw&ei=GDaeYoubIJ6iqtsPsdmIyAI&start=80&sa=N&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&gl=il&hl=iw&ei=GDaeYoubIJ6iqtsPsdmIyAI&start=90&sa=N&ved=2ahUKEwiLh7_nqZn4AhUekWoFHbEsAikQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94&start=90"
+        }
+    }
+}

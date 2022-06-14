@@ -1,0 +1,362 @@
+{
+    "search_metadata": {
+        "id": "629e3d9afa86753dcf5f2c7f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/28d83e7de2ae36d4/629e3d9afa86753dcf5f2c7f.json",
+        "created_at": "2022-06-06 17:47:06 UTC",
+        "processed_at": "2022-06-06 17:47:06 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&oq=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/28d83e7de2ae36d4/629e3d9afa86753dcf5f2c7f.html",
+        "total_time_taken": 2.09
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "الكويكبات",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "الكويكبات",
+        "total_results": 434000,
+        "time_taken_displayed": 0.47
+    },
+    "knowledge_graph": {
+        "title": "كويكب",
+        "header_images": [
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%8A%D9%83%D8%A8"
+            },
+            {
+                "source": "https://alkaoun.com/s/%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%82%D8%B5%D9%88%D8%AF-%D8%A8%D8%AD%D8%B2%D8%A7%D9%85-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA"
+            },
+            {
+                "source": "https://www.ibelieveinsci.com/%D9%83%D9%84-%D9%85%D8%A7-%D8%B9%D9%84%D9%8A%D9%83-%D9%85%D8%B9%D8%B1%D9%81%D8%AA%D9%87-%D8%B9%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA/"
+            },
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B2%D8%A7%D9%85_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA"
+            }
+        ],
+        "description": "كويكب أو كوكب سيّار، هو كوكب صغير يتخذ مداراً حول الشمس أو حول أحد الأجرام الكونية مثل كواكب المجموعة الشمسية، وتطلق هذه التسمية غالباً على تلك الموجودة في حدود المجموعة الشمسية الداخلية.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%8A%D9%83%D8%A8"
+        },
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "مذنب",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D8%B0%D9%86%D8%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZRekPGqNt72lQYcCF2HW8O0GAk6yiOPuxZb2CaOsQE17q0c76fdU-W8_UxTiWTlxqxXmoBqh7WiTqSq0SXoRtO1e-7gpHzAktqxCn6bVHsOthO4jKFQyRX8Gc7cH6JzaCwDi4I38Xv3mPVshJP0IvGPXRSVkuSyCBr6hW0V67c4zjt5Iyzsm5PR0FuT4lF7OApu0ExYVWyoHA-A_UsEjQUwveRDny0gvfH69FcCw1LzHpcF1Q%3D%3D&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQxA16BAh0EAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%B0%D9%86%D8%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZRekPGqNt72lQYcCF2HW8O0GAk6yiOPuxZb2CaOsQE17q0c76fdU-W8_UxTiWTlxqxXmoBqh7WiTqSq0SXoRtO1e-7gpHzAktqxCn6bVHsOthO4jKFQyRX8Gc7cH6JzaCwDi4I38Xv3mPVshJP0IvGPXRSVkuSyCBr6hW0V67c4zjt5Iyzsm5PR0FuT4lF7OApu0ExYVWyoHA-A_UsEjQUwveRDny0gvfH69FcCw1LzHpcF1Q%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d9afa86753dcf5f2c7f/images/f44636860bb80ad31a4a09a3487e78f8a30a25981d863aeb88088c065fcf70dbc9a3d73a10efe2207c8d26e52fbe24b93f6b7995c4ef283fb3f3ee68fc9f09a9.jpeg"
+            },
+            {
+                "name": "نيزك",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%86%D9%8A%D8%B2%D9%83&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVoH-81oQvwCLt11qT9RuHMzJexG_eobL0Mf9nMhbR7MUaGT5t2VxG30EcbxJ42CCDXlQ4YHAraPFdGE8ZE9WKLauw-M_G1ZBiILONHPf7JBBvp3I4XRPC1jIYdGJO8gEd2h1rN6A1DdwVbDoJzf2sRhwgQf2_P-Yw_QhP3AqiJEb1yoDCH6ADVTfdM8L5AN8BaOgKivy3s6EzkIGop9hVmbEVl6mBTaQ3h7c_aLldxB2Fdkbg%3D%3D&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQxA16BAh0EAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%86%D9%8A%D8%B2%D9%83&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVoH-81oQvwCLt11qT9RuHMzJexG_eobL0Mf9nMhbR7MUaGT5t2VxG30EcbxJ42CCDXlQ4YHAraPFdGE8ZE9WKLauw-M_G1ZBiILONHPf7JBBvp3I4XRPC1jIYdGJO8gEd2h1rN6A1DdwVbDoJzf2sRhwgQf2_P-Yw_QhP3AqiJEb1yoDCH6ADVTfdM8L5AN8BaOgKivy3s6EzkIGop9hVmbEVl6mBTaQ3h7c_aLldxB2Fdkbg%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d9afa86753dcf5f2c7f/images/f44636860bb80ad31a4a09a3487e78f8a30a25981d863aeb88088c065fcf70dbc9a3d73a10efe2207c8d26e52fbe24b93f6b7995c4ef283f3abd30df452c5b10.jpeg"
+            },
+            {
+                "name": "كوكب",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%83%D9%88%D9%83%D8%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWLkTxyiPBFx7sVPEB9rIeEm5d8QIGANkCLJE-pPhPGiWeHraIU-onfdEpPe3ko-UAZqqwmni9IBBk0DGY7Z-FBVQugaCk7WrEX8_V0YLC6pIx80K2FBHizdjpa6iu8bx-b5UFJH5s7MuSiLQpx7JyTs5Gkday359r366ppUq8udy3n4LooIPM74ZgpKv5RB0ZNBjzM2K9IYVH0c4A_LY-YwGNJwSy202oPiO5ccv6kTpqb40g%3D%3D&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQxA16BAh0EAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D9%83%D8%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWLkTxyiPBFx7sVPEB9rIeEm5d8QIGANkCLJE-pPhPGiWeHraIU-onfdEpPe3ko-UAZqqwmni9IBBk0DGY7Z-FBVQugaCk7WrEX8_V0YLC6pIx80K2FBHizdjpa6iu8bx-b5UFJH5s7MuSiLQpx7JyTs5Gkday359r366ppUq8udy3n4LooIPM74ZgpKv5RB0ZNBjzM2K9IYVH0c4A_LY-YwGNJwSy202oPiO5ccv6kTpqb40g%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d9afa86753dcf5f2c7f/images/f44636860bb80ad31a4a09a3487e78f8a30a25981d863aeb88088c065fcf70dbc9a3d73a10efe2207c8d26e52fbe24b93f6b7995c4ef283ffb45ac736966b9e2.jpeg"
+            },
+            {
+                "name": "كوكب قزم",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%83%D9%88%D9%83%D8%A8+%D9%82%D8%B2%D9%85&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgHDi4jVhpbu3YLShZmdKzWIx6B7DMIguVn2q2aXMjuCAIXk9C3VZ9R3Qs3Yq8Ai2vAuzkMooBJ-37O-jKjbn8iLDbnrTqYZVhJZFrK3Aho2_gUTvAD32z73JQnzb5f9iqhSnauMtkp5vlJp4LJfdLVuAozMkQI_pWZZ4nSr3kswN7pkmpcopQ4aweX-mSGmf0HqGNQy4vgaGTVvfIKA02lv7La9eYyZndt3ouCU4ZVdttktqpw0SdY0oH6p3X3eF5SCJWRA%3D&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQxA16BAh0EAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D9%83%D8%A8+%D9%82%D8%B2%D9%85&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgHDi4jVhpbu3YLShZmdKzWIx6B7DMIguVn2q2aXMjuCAIXk9C3VZ9R3Qs3Yq8Ai2vAuzkMooBJ-37O-jKjbn8iLDbnrTqYZVhJZFrK3Aho2_gUTvAD32z73JQnzb5f9iqhSnauMtkp5vlJp4LJfdLVuAozMkQI_pWZZ4nSr3kswN7pkmpcopQ4aweX-mSGmf0HqGNQy4vgaGTVvfIKA02lv7La9eYyZndt3ouCU4ZVdttktqpw0SdY0oH6p3X3eF5SCJWRA%3D",
+                "image": "https://serpapi.com/searches/629e3d9afa86753dcf5f2c7f/images/f44636860bb80ad31a4a09a3487e78f8a30a25981d863aeb88088c065fcf70dbc9a3d73a10efe2207c8d26e52fbe24b93f6b7995c4ef283ff3e95073f81bfc03.jpeg"
+            }
+        ],
+        "يبحث_الأشخاص_أيضًا_عن_link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%83%D9%88%D9%8A%D9%83%D8%A8&stick=H4sIAAAAAAAAAONgFmLXz9U3yCorVIIxtASDM1NSyxMri_1SK0qCS1ILihexct1svtlxs-tm840VO1gZAYRDfTg3AAAA&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQMSgAegQIdBAB",
+        "يبحث_الأشخاص_أيضًا_عن_stick": "H4sIAAAAAAAAAONgFmLXz9U3yCorVIIxtASDM1NSyxMri_1SK0qCS1ILihexct1svtlxs-tm840VO1gZAYRDfTg3AAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "حزام الكويكبات",
+            "link": "https://www.youtube.com/watch?v=tUIeCeilL9A",
+            "thumbnail": "https://i.ytimg.com/vi/tUIeCeilL9A/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lPE9yz1icxdiD9UGgsz8l60He2Ww",
+            "channel": "عشوائيات",
+            "duration": "8:33",
+            "platform": "YouTube",
+            "date": "01‏/08‏/2018"
+        },
+        {
+            "position": 2,
+            "title": "5 كويكبات سوف تصطدم بكوكب الأرض خلال السنوات القادمة !!",
+            "link": "https://www.youtube.com/watch?v=bV2BN7KqNuk",
+            "thumbnail": "https://i.ytimg.com/vi/bV2BN7KqNuk/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3m1ZbdqbuIn7A39I6JLtCF4kUVG6w",
+            "channel": "حقائق وأسرار",
+            "duration": "10:02",
+            "platform": "YouTube",
+            "date": "07‏/02‏/2020"
+        },
+        {
+            "position": 3,
+            "title": "كيف ستشعر و انت تعيش على كويكب ضمن حزام الكويكبات",
+            "link": "https://www.youtube.com/watch?v=2wz-Kk3MJCk",
+            "thumbnail": "https://i.ytimg.com/vi/2wz-Kk3MJCk/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3l0wpVFRdIP8Hsw6HpINbMdqrYJqQ",
+            "channel": "تعلم - TAALLAM",
+            "duration": "9:12",
+            "platform": "YouTube",
+            "date": "18‏/02‏/2021"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ما اسماء الكويكبات؟",
+            "title": "الكويكبات الأكبر",
+            "link": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA_%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9",
+            "list": [
+                "1 سيريس",
+                "4 فيستا",
+                "2 بالاس",
+                "10 هيجيا",
+                "31 يوفروسين"
+            ],
+            "displayed_link": "https://ar.wikipedia.org › wiki › قائمة_كويكبات_استثنا..."
+        },
+        {
+            "question": "ما هو اكبر الكويكبات حجما؟",
+            "snippet": "إن سيريس هو أكبر هذه الكويكبات وهو الكوكب القزم الوحيد في حزام الكويكبات ويبلغ قطره 950 كيلومتر، أي إن مساحته السطحية تبلغ مساحة العراق تقريبا، وقطر كويكبة بالاس (Pallas)، يبلغ 450 كيلو متر، تليها كويكبة فستا (Vesta)، التي يبلغ قطرها 385 كيلو متر، ثم هيجا، التي يبلغ قطرها من 350-500 كيلو متر، أما الكويكبات الأخرى فيبلغ ...",
+            "title": "حزام الكويكبات - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B2%D8%A7%D9%85_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA",
+            "displayed_link": "https://ar.wikipedia.org › wiki › حزام_الكويكبات"
+        },
+        {
+            "question": "ما الفرق بين الكواكب و الكويكبات؟",
+            "snippet": "فيما يلي الفرق بين الكوكب والكويكب من حيث الأعداد: الكوكب: تحتوي المجموعة الشمسيّة على 8 كواكب ولكلّ كوكب مدار حول الشمس. الكويكب: تحتوي المجموعة الشمسيّة على 1,092,422 كويكبًا، وتتواجد غالبيتها عند حزام الكويكبات بين كوكب المريخ والمشتري.14‏/06‏/2021",
+            "title": "ما هو الفرق بين الكوكب والكويكب؟ - الكون",
+            "link": "https://alkaoun.com/s/%D9%85%D8%A7-%D9%87%D9%88-%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A8-%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8",
+            "displayed_link": "https://alkaoun.com › ما-هو-الفرق-بين-الكوكب-والكويكب"
+        },
+        {
+            "question": "كم عدد الكويكبات؟",
+            "snippet": "كم يبلغ عدد الكويكبات؟ يوجد أكثر من 40 ألف كويكب في الحزام الكويكبي يزيد قطر الواحد منها على الكيلومتر ، صنف منها حوالي 3000 كويكب .",
+            "title": "كم يبلغ عدد الكويكبات؟ - الفلك_ سؤال وجواب",
+            "link": "http://www.schoolarabia.net/new_astronomy/ask_answer/asteroids/asteroids_answers1.htm",
+            "displayed_link": "http://www.schoolarabia.net › asteroids_answers1"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "كويكب - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%8A%D9%83%D8%A8",
+            "displayed_link": "https://ar.wikipedia.org › wiki › كويكب",
+            "thumbnail": "https://serpapi.com/searches/629e3d9afa86753dcf5f2c7f/images/4b4c3061564cd488adf8fb580b84237724c39ffb8a378cf19b071418adbb3842.jpeg",
+            "snippet": "كويكب أو كوكب سيّار، هو كوكب صغير يتخذ مداراً حول الشمس أو حول أحد الأجرام الكونية مثل كواكب المجموعة الشمسية، وتطلق هذه التسمية غالباً على تلك الموجودة في ...",
+            "snippet_highlighted_words": [
+                "كويكب"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "حزام الكويكبات",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B2%D8%A7%D9%85_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA"
+                    },
+                    {
+                        "title": "أنواع الكويكبات الطيفية",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D9%88%D8%A7%D8%B9_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%B7%D9%8A%D9%81%D9%8A%D8%A9"
+                    },
+                    {
+                        "title": "تنقيب الكويكبات",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D9%82%D9%8A%D8%A8_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA"
+                    },
+                    {
+                        "title": "استعمار الكويكبات",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D8%B1_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "حزام الكويكبات - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B2%D8%A7%D9%85_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA",
+            "displayed_link": "https://ar.wikipedia.org › wiki › حزام_الكويكبات",
+            "thumbnail": "https://serpapi.com/searches/629e3d9afa86753dcf5f2c7f/images/4b4c3061564cd488adf8fb580b84237743f29373172e42fba1332d7e81ea6a42.jpeg",
+            "snippet": "حزام الكويكبات هو قرص نجمي دوار يقع في منطقة تقع بين كوكبي المريخ والمشتري، وتدور في هذه المنطقة كمية هائلة من الكويكبات الصغيرة التي تتكون في الأساس من ...",
+            "snippet_highlighted_words": [
+                "الكويكبات",
+                "الكويكبات"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "ماهي الكويكبات؟ - مجلة ناشيونال جيوغرافيك العربية",
+            "link": "https://ngalarabiya.com/article/4211183/%D9%85%D8%A7%D9%87%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA",
+            "displayed_link": "https://ngalarabiya.com › article › ماهي-الكويكبات",
+            "thumbnail": "https://serpapi.com/searches/629e3d9afa86753dcf5f2c7f/images/4b4c3061564cd488adf8fb580b8423776721d640a8fb4f30e160cf0c29d07406.jpeg",
+            "snippet": "نظرًا لأن الكويكبات هي بقايا من الأيام الأولى للنظام الشمسي، يُمكن لهذه الصخور أن تخبر الباحثين الكثير عن بداية الكون.",
+            "snippet_highlighted_words": [
+                "الكويكبات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٨‏/٠٨‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "الكويكب - Asteroid - المعرفة",
+            "link": "https://www.marefa.org/%D9%83%D9%88%D9%8A%D9%83%D8%A8/simplified",
+            "displayed_link": "https://www.marefa.org › كويكب › simplified",
+            "thumbnail": "https://serpapi.com/searches/629e3d9afa86753dcf5f2c7f/images/4b4c3061564cd488adf8fb580b8423776aa9af844c2bf4cac8a4a410f29584f3.png",
+            "snippet": "الكويكبات، Asteroid هي عبارة عن مواد كونية صلبة، تبدو بهيئة الكواكب الصغيرة جداً ، المتعذر رؤيتها بالعين المجردة من على سطح الأرض لصغرها من جهة ، ولشدة ...",
+            "snippet_highlighted_words": [
+                "الكويكبات",
+                "Asteroid"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "الكويكبات | الكواكب: مقدمة قصيرة جدًّا | مؤسسة هنداوي",
+            "link": "https://www.hindawi.org/books/13941640/5/",
+            "displayed_link": "https://www.hindawi.org › books",
+            "thumbnail": "https://serpapi.com/searches/629e3d9afa86753dcf5f2c7f/images/4b4c3061564cd488adf8fb580b84237754ac6a578f63c0050e36ebb0246fb7fd.jpeg",
+            "snippet": "نحو كويكب واحد بين ٥٠ كويكبًا يكون له — على الأرجح — قمر تابع، ومن حسن الحظ أن ... ولجاذبية كوكب المشتري تأثير كبير على مدارات الكويكبات في الحزام الرئيسي، ...",
+            "snippet_highlighted_words": [
+                "كويكب",
+                "الكويكبات"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "كويكبان كبيران يمران قرب الأرض خلال بضعة أيام - روسيا اليوم",
+            "link": "https://arabic.rt.com/space/1350777-%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D9%8A%D8%B5%D8%B7%D8%AF%D9%85-%D8%A8%D9%83%D9%88%D9%83%D8%A8%D9%86%D8%A7/",
+            "displayed_link": "https://arabic.rt.com › space › 1350777-كويكبان-الأر...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNKjDmPS0qhEveI70QAgFmgbFikPQN2juyXvP4BLWIzu5LgaN1UxM&usqp=CAE&s",
+            "snippet": "إن تحليق الكويكبات فوق الأرض أمر شائع الحدوث، لكن وفقا لوكالة ناسا، فإن كوكبنا على وشك رؤية سباق نيزكي هائل من مسافة قريبة بشكل لا يصدق.",
+            "snippet_highlighted_words": [
+                "الكويكبات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٥‏/٠٥‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "ما هي الكويكبات؟ - موقع الأكاديمية بوست",
+            "link": "https://elakademiapost.com/%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA%D8%9F/",
+            "displayed_link": "https://elakademiapost.com › المقالات",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsbcL2S61DBGiX8zcHpQLlo7TfFw4bvIk3t-cs3tKuddrEKeTsAuG&usqp=CAE&s",
+            "snippet": "الكويكبات هي أجسام صخرية تدور حول الشمس وهي أصغر من أن نطلق عليها لفظ كواكب. في هذا المقال سنعرف ما هي الكويكبات؟",
+            "snippet_highlighted_words": [
+                "الكويكبات",
+                "الكويكبات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٥‏/١٢‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "حزام الكويكبات - اليوم السابع",
+            "link": "https://www.youm7.com/Tags/index?id=1718416&tag=%D8%AD%D8%B2%D8%A7%D9%85%20%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA",
+            "displayed_link": "https://www.youm7.com › Tags › tag=حزام الكويكبات",
+            "snippet": "الإمارات تعلن عن مهمة فضائية جديدة لاستكشاف كوكب الزهرة وحزام الكويكبات الثلاثاء، 05 أكتوبر 2021 01:17 م. نموذج فيزيائي يشرح أصل الشكل الماسى لكويكبي بينو ...",
+            "snippet_highlighted_words": [
+                "الكويكبات",
+                "لكويكبي"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "\"سيريس\".. ملك حزام الكويكبات يحمل ماء الحياة على سطحه - للعِلم",
+            "link": "https://www.scientificamerican.com/arabic/articles/news/ceres-king-of-asteroid-belt-carries-water-of-life-on-its-surface/",
+            "displayed_link": "https://www.scientificamerican.com › articles › news › c...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODTwWNke9IjH5ASj10zeG_CBCD4SeOnrLmAs4quCRp2h3isFGguPu&usqp=CAE&s",
+            "snippet": "ملك حزام الكويكبات يحمل ماء الحياة على سطحه. أظهرت نتائج دراسة حديثة أن الكوكب القزم \"سيريس\" يمكنه الاحتفاظ بكميات من \"الماء الجليدي\" أكبر بكثير ...",
+            "snippet_highlighted_words": [
+                "الكويكبات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٩‏/٠٩‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "الكويكبات في الخريطة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA+%D9%81%D9%8A+%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "أسماء الكويكبات",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A3%D8%B3%D9%85%D8%A7%D8%A1+%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "الكويكبات القريبة من الأرض",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A8%D8%A9+%D9%85%D9%86+%D8%A7%D9%84%D8%A3%D8%B1%D8%B6&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "الفرق بين الكواكب والكويكبات",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D9%81%D8%B1%D9%82+%D8%A8%D9%8A%D9%86+%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%83%D8%A8+%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "فوائد الكويكبات",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D9%88%D8%A7%D8%A6%D8%AF+%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "تعريف الكويكبات والمذنبات والشهب والنيازك",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AA%D8%B9%D8%B1%D9%8A%D9%81+%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA+%D9%88%D8%A7%D9%84%D9%85%D8%B0%D9%86%D8%A8%D8%A7%D8%AA+%D9%88%D8%A7%D9%84%D8%B4%D9%87%D8%A8+%D9%88%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%B2%D9%83&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "تقع الكويكبات بين كوكبي المريخ والمشتري",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AA%D9%82%D8%B9+%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA+%D8%A8%D9%8A%D9%86+%D9%83%D9%88%D9%83%D8%A8%D9%8A+%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE+%D9%88%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%8A&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ1QJ6BAgeEAE"
+        },
+        {
+            "query": "أول الكويكبات المكتشفة التي تعبر مدار المريخ",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A3%D9%88%D9%84+%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%B4%D9%81%D8%A9+%D8%A7%D9%84%D8%AA%D9%8A+%D8%AA%D8%B9%D8%A8%D8%B1+%D9%85%D8%AF%D8%A7%D8%B1+%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE&sa=X&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ1QJ6BAgcEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&ei=mz2eYtDyMM74_AaH_p1Q&start=10&sa=N&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&ei=mz2eYtDyMM74_AaH_p1Q&start=10&sa=N&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&ei=mz2eYtDyMM74_AaH_p1Q&start=20&sa=N&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&ei=mz2eYtDyMM74_AaH_p1Q&start=30&sa=N&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&ei=mz2eYtDyMM74_AaH_p1Q&start=40&sa=N&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&ei=mz2eYtDyMM74_AaH_p1Q&start=50&sa=N&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&ei=mz2eYtDyMM74_AaH_p1Q&start=60&sa=N&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&ei=mz2eYtDyMM74_AaH_p1Q&start=70&sa=N&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&ei=mz2eYtDyMM74_AaH_p1Q&start=80&sa=N&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&hl=ar&gl=eg&ei=mz2eYtDyMM74_AaH_p1Q&start=90&sa=N&ved=2ahUKEwiQrMr8sJn4AhVOPN8KHQd_BwoQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D9%83%D9%88%D9%8A%D9%83%D8%A8%D8%A7%D8%AA&start=90"
+        }
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "search_metadata": {
+        "id": "629e3d63629a01570464a0f8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a1764d0abbc4e35e/629e3d63629a01570464a0f8.json",
+        "created_at": "2022-06-06 17:46:11 UTC",
+        "processed_at": "2022-06-06 17:46:11 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&oq=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/a1764d0abbc4e35e/629e3d63629a01570464a0f8.html",
+        "total_time_taken": 1.41
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "מוטציות",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "מוטציות",
+        "total_results": 184000,
+        "time_taken_displayed": 0.33
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=5QFPKtIurRHUFM%252C5s3UXuoLhLNdKM%252C_%253Bny7UDNnVbSD-1M%252C1os8Z1jydTzGIM%252C_%253BvQ9PpyJQ5Y80dM%252COzhzbr6H7ocZVM%252C_%253BEfxPP9sRPO-4PM%252C05Wym44dtC1aPM%252C_%253BEsigCrB3BHMHxM%252CmoZ_mNqvbeZTVM%252C_%253BVMAcPLQzADD9_M%252CoPSosmDQCt9jSM%252C_%253BP--3D0WvFZ7Z0M%252CiCRRQEiu1tpGEM%252C_%253BwiEABHzJqFMXvM%252C5s3UXuoLhLNdKM%252C_%253BSdjb7q3LWhpk5M%252Cc5xNRYbTC1SyXM%252C_%253BTQQZMrQFQ0mieM%252COzhzbr6H7ocZVM%252C_&usg=AI4_-kRvYu7Vu86tEPdyoUArfX9xOAJBqg&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ9QF6BAgzEAE#imgrc=5QFPKtIurRHUFM",
+            "source": "https://www.mako.co.il/hix-bizarre/Article-e304ee0f0669551006.htm",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26Tjmsh6h3XhfDnnOLtyCho7F5-UQsz9IZCP0Bj-F5Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=5QFPKtIurRHUFM%252C5s3UXuoLhLNdKM%252C_%253Bny7UDNnVbSD-1M%252C1os8Z1jydTzGIM%252C_%253BvQ9PpyJQ5Y80dM%252COzhzbr6H7ocZVM%252C_%253BEfxPP9sRPO-4PM%252C05Wym44dtC1aPM%252C_%253BEsigCrB3BHMHxM%252CmoZ_mNqvbeZTVM%252C_%253BVMAcPLQzADD9_M%252CoPSosmDQCt9jSM%252C_%253BP--3D0WvFZ7Z0M%252CiCRRQEiu1tpGEM%252C_%253BwiEABHzJqFMXvM%252C5s3UXuoLhLNdKM%252C_%253BSdjb7q3LWhpk5M%252Cc5xNRYbTC1SyXM%252C_%253BTQQZMrQFQ0mieM%252COzhzbr6H7ocZVM%252C_&usg=AI4_-kRvYu7Vu86tEPdyoUArfX9xOAJBqg&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ9QF6BAg_EAE#imgrc=ny7UDNnVbSD-1M",
+            "source": "https://www.lbscience.org/2019/06/27/%D7%A2%D7%9C-%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA-%D7%95%D7%90%D7%A8%D7%99%D7%9B%D7%95%D7%AA-%D7%99%D7%9E%D7%99%D7%9D/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTqEtMa1LCAlbrnJKcmE7HPzfy6lGzeMJ22DvkUBHJAQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=5QFPKtIurRHUFM%252C5s3UXuoLhLNdKM%252C_%253Bny7UDNnVbSD-1M%252C1os8Z1jydTzGIM%252C_%253BvQ9PpyJQ5Y80dM%252COzhzbr6H7ocZVM%252C_%253BEfxPP9sRPO-4PM%252C05Wym44dtC1aPM%252C_%253BEsigCrB3BHMHxM%252CmoZ_mNqvbeZTVM%252C_%253BVMAcPLQzADD9_M%252CoPSosmDQCt9jSM%252C_%253BP--3D0WvFZ7Z0M%252CiCRRQEiu1tpGEM%252C_%253BwiEABHzJqFMXvM%252C5s3UXuoLhLNdKM%252C_%253BSdjb7q3LWhpk5M%252Cc5xNRYbTC1SyXM%252C_%253BTQQZMrQFQ0mieM%252COzhzbr6H7ocZVM%252C_&usg=AI4_-kRvYu7Vu86tEPdyoUArfX9xOAJBqg&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ9QF6BAhBEAE#imgrc=vQ9PpyJQ5Y80dM",
+            "source": "https://smnh.tau.ac.il/learn/%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKgP-DDuptmY1KgUUO1WaWU1brTJ56Op-0G2_GkYr7Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=5QFPKtIurRHUFM%252C5s3UXuoLhLNdKM%252C_%253Bny7UDNnVbSD-1M%252C1os8Z1jydTzGIM%252C_%253BvQ9PpyJQ5Y80dM%252COzhzbr6H7ocZVM%252C_%253BEfxPP9sRPO-4PM%252C05Wym44dtC1aPM%252C_%253BEsigCrB3BHMHxM%252CmoZ_mNqvbeZTVM%252C_%253BVMAcPLQzADD9_M%252CoPSosmDQCt9jSM%252C_%253BP--3D0WvFZ7Z0M%252CiCRRQEiu1tpGEM%252C_%253BwiEABHzJqFMXvM%252C5s3UXuoLhLNdKM%252C_%253BSdjb7q3LWhpk5M%252Cc5xNRYbTC1SyXM%252C_%253BTQQZMrQFQ0mieM%252COzhzbr6H7ocZVM%252C_&usg=AI4_-kRvYu7Vu86tEPdyoUArfX9xOAJBqg&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ9QF6BAhEEAE#imgrc=EfxPP9sRPO-4PM",
+            "source": "https://sites.google.com/site/insidednawow/mutant",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfx2kr7bdnJGxJ2FWCanzf7ta4D0rw_9iMxbSIfP3r&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=5QFPKtIurRHUFM%252C5s3UXuoLhLNdKM%252C_%253Bny7UDNnVbSD-1M%252C1os8Z1jydTzGIM%252C_%253BvQ9PpyJQ5Y80dM%252COzhzbr6H7ocZVM%252C_%253BEfxPP9sRPO-4PM%252C05Wym44dtC1aPM%252C_%253BEsigCrB3BHMHxM%252CmoZ_mNqvbeZTVM%252C_%253BVMAcPLQzADD9_M%252CoPSosmDQCt9jSM%252C_%253BP--3D0WvFZ7Z0M%252CiCRRQEiu1tpGEM%252C_%253BwiEABHzJqFMXvM%252C5s3UXuoLhLNdKM%252C_%253BSdjb7q3LWhpk5M%252Cc5xNRYbTC1SyXM%252C_%253BTQQZMrQFQ0mieM%252COzhzbr6H7ocZVM%252C_&usg=AI4_-kRvYu7Vu86tEPdyoUArfX9xOAJBqg&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ9QF6BAg8EAE#imgrc=EsigCrB3BHMHxM",
+            "source": "https://www.camoni.co.il/%D7%A7%D7%93%D7%97%D7%AA-%D7%99%D7%9D-%D7%AA%D7%99%D7%9B%D7%95%D7%A0%D7%99%D7%AA-%D7%95%D7%92%D7%A0%D7%98%D7%99%D7%A7%D7%94-%E2%80%93-%D7%9B%D7%9C-%D7%94%D7%A4%D7%A8%D7%98%D7%99%D7%9D",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uMeKLUrLPAu3f5LDK0fQY8l_CDdPfNp0cjHymjGaoQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=5QFPKtIurRHUFM%252C5s3UXuoLhLNdKM%252C_%253Bny7UDNnVbSD-1M%252C1os8Z1jydTzGIM%252C_%253BvQ9PpyJQ5Y80dM%252COzhzbr6H7ocZVM%252C_%253BEfxPP9sRPO-4PM%252C05Wym44dtC1aPM%252C_%253BEsigCrB3BHMHxM%252CmoZ_mNqvbeZTVM%252C_%253BVMAcPLQzADD9_M%252CoPSosmDQCt9jSM%252C_%253BP--3D0WvFZ7Z0M%252CiCRRQEiu1tpGEM%252C_%253BwiEABHzJqFMXvM%252C5s3UXuoLhLNdKM%252C_%253BSdjb7q3LWhpk5M%252Cc5xNRYbTC1SyXM%252C_%253BTQQZMrQFQ0mieM%252COzhzbr6H7ocZVM%252C_&usg=AI4_-kRvYu7Vu86tEPdyoUArfX9xOAJBqg&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ9QF6BAhAEAE#imgrc=VMAcPLQzADD9_M",
+            "source": "https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%94_%D7%A0%D7%A7%D7%95%D7%93%D7%AA%D7%99%D7%AA",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRig4UcPzQ5PCXBrmT92_OsWyQ2ReBycRmaFwqcRCw2oQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=5QFPKtIurRHUFM%252C5s3UXuoLhLNdKM%252C_%253Bny7UDNnVbSD-1M%252C1os8Z1jydTzGIM%252C_%253BvQ9PpyJQ5Y80dM%252COzhzbr6H7ocZVM%252C_%253BEfxPP9sRPO-4PM%252C05Wym44dtC1aPM%252C_%253BEsigCrB3BHMHxM%252CmoZ_mNqvbeZTVM%252C_%253BVMAcPLQzADD9_M%252CoPSosmDQCt9jSM%252C_%253BP--3D0WvFZ7Z0M%252CiCRRQEiu1tpGEM%252C_%253BwiEABHzJqFMXvM%252C5s3UXuoLhLNdKM%252C_%253BSdjb7q3LWhpk5M%252Cc5xNRYbTC1SyXM%252C_%253BTQQZMrQFQ0mieM%252COzhzbr6H7ocZVM%252C_&usg=AI4_-kRvYu7Vu86tEPdyoUArfX9xOAJBqg&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ9QF6BAhCEAE#imgrc=P--3D0WvFZ7Z0M",
+            "source": "https://lifestyle-medicine.mednet.co.il/2016/01/103191/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt9Fcfdytai8U6OvZ6g66rWMFTRLtD-2LiYJxbjeQd&s=0"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=5QFPKtIurRHUFM%252C5s3UXuoLhLNdKM%252C_%253Bny7UDNnVbSD-1M%252C1os8Z1jydTzGIM%252C_%253BvQ9PpyJQ5Y80dM%252COzhzbr6H7ocZVM%252C_%253BEfxPP9sRPO-4PM%252C05Wym44dtC1aPM%252C_%253BEsigCrB3BHMHxM%252CmoZ_mNqvbeZTVM%252C_%253BVMAcPLQzADD9_M%252CoPSosmDQCt9jSM%252C_%253BP--3D0WvFZ7Z0M%252CiCRRQEiu1tpGEM%252C_%253BwiEABHzJqFMXvM%252C5s3UXuoLhLNdKM%252C_%253BSdjb7q3LWhpk5M%252Cc5xNRYbTC1SyXM%252C_%253BTQQZMrQFQ0mieM%252COzhzbr6H7ocZVM%252C_&usg=AI4_-kRvYu7Vu86tEPdyoUArfX9xOAJBqg&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ9QF6BAhFEAE#imgrc=wiEABHzJqFMXvM",
+            "source": "https://www.mako.co.il/hix-bizarre/Article-e304ee0f0669551006.htm",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgBMnWyQKvjUUa4hccei_pICCLwBJXh3FtkFvqBa9wAw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=5QFPKtIurRHUFM%252C5s3UXuoLhLNdKM%252C_%253Bny7UDNnVbSD-1M%252C1os8Z1jydTzGIM%252C_%253BvQ9PpyJQ5Y80dM%252COzhzbr6H7ocZVM%252C_%253BEfxPP9sRPO-4PM%252C05Wym44dtC1aPM%252C_%253BEsigCrB3BHMHxM%252CmoZ_mNqvbeZTVM%252C_%253BVMAcPLQzADD9_M%252CoPSosmDQCt9jSM%252C_%253BP--3D0WvFZ7Z0M%252CiCRRQEiu1tpGEM%252C_%253BwiEABHzJqFMXvM%252C5s3UXuoLhLNdKM%252C_%253BSdjb7q3LWhpk5M%252Cc5xNRYbTC1SyXM%252C_%253BTQQZMrQFQ0mieM%252COzhzbr6H7ocZVM%252C_&usg=AI4_-kRvYu7Vu86tEPdyoUArfX9xOAJBqg&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ9QF6BAg-EAE#imgrc=Sdjb7q3LWhpk5M",
+            "source": "https://www.parkinsons.org.il/%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%94-%D7%92%D7%A0%D7%98%D7%99%D7%AA-%D7%A4%D7%A8%D7%A7%D7%99%D7%A0%D7%A1%D7%95%D7%9F/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvi8eYyaMOxLADPYNZUoGl4UiTNC9Ciw4UqJx9OzuvA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&tbm=isch&source=iu&ictx=1&vet=1&fir=5QFPKtIurRHUFM%252C5s3UXuoLhLNdKM%252C_%253Bny7UDNnVbSD-1M%252C1os8Z1jydTzGIM%252C_%253BvQ9PpyJQ5Y80dM%252COzhzbr6H7ocZVM%252C_%253BEfxPP9sRPO-4PM%252C05Wym44dtC1aPM%252C_%253BEsigCrB3BHMHxM%252CmoZ_mNqvbeZTVM%252C_%253BVMAcPLQzADD9_M%252CoPSosmDQCt9jSM%252C_%253BP--3D0WvFZ7Z0M%252CiCRRQEiu1tpGEM%252C_%253BwiEABHzJqFMXvM%252C5s3UXuoLhLNdKM%252C_%253BSdjb7q3LWhpk5M%252Cc5xNRYbTC1SyXM%252C_%253BTQQZMrQFQ0mieM%252COzhzbr6H7ocZVM%252C_&usg=AI4_-kRvYu7Vu86tEPdyoUArfX9xOAJBqg&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ9QF6BAhDEAE#imgrc=TQQZMrQFQ0mieM",
+            "source": "https://smnh.tau.ac.il/learn/%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5V1I-LWD_mHsg4YPxwU_6UB2b7ba4VbbY5tU_AQEU1g&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "מוטציות - חלק 1 | ביוטכנולוגיה לכיתות יא,יב",
+            "link": "https://www.youtube.com/watch?v=X2Uyvbttckc",
+            "thumbnail": "https://serpapi.com/searches/629e3d63629a01570464a0f8/images/68c32d73b321c0077fada6952663c2ca86f5b2293b124f93446933e23611e409.jpeg",
+            "channel": "מערכת שידורים לאומית",
+            "duration": "19:37",
+            "platform": "YouTube",
+            "date": "27 באפר׳ 2021"
+        },
+        {
+            "position": 2,
+            "title": "מוטציה באבולוציה",
+            "link": "https://www.youtube.com/watch?v=u5Xu4__qZVs",
+            "thumbnail": "https://serpapi.com/searches/629e3d63629a01570464a0f8/images/68c32d73b321c007fea1217c041c97cfbd3bde0b724e321620cf588b8c0d9340.jpeg",
+            "channel": "TAUVOD",
+            "duration": "4:29",
+            "platform": "YouTube",
+            "date": "7 במאי 2014"
+        },
+        {
+            "position": 3,
+            "title": "מוטציות נדירות בגידולים (MET+ROS1+RET+BRAF) - ד\"ר יאיר בר",
+            "link": "https://www.youtube.com/watch?v=1Erpmvx-obc",
+            "thumbnail": "https://serpapi.com/searches/629e3d63629a01570464a0f8/images/68c32d73b321c007295a7d785a2fff01a026cb6256100d987ded6514080b817f.jpeg",
+            "channel": "האגודה למלחמה בסרטן",
+            "duration": "15:51",
+            "platform": "YouTube",
+            "date": "8 בדצמ׳ 2019"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "מוטציה - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%94",
+            "displayed_link": "https://he.wikipedia.org › wiki › מוטציה",
+            "thumbnail": "https://serpapi.com/searches/629e3d63629a01570464a0f8/images/6e0e0a5d3ae8a52b6c0bf3d287e1548740795ee182af361749d24d6b8573c18a.jpeg",
+            "snippet": "מוטציה (באנגלית: mutation, בעברית תקנית: תַּשְׁנִית) הוא מונח בביולוגיה המתאר שינוי ברצף הנוקלאוטידים ב-DNA, דהיינו, שינוי בהרכב הגנטי של יצור מסוים.",
+            "snippet_highlighted_words": [
+                "מוטציה"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "מהי מוטציה גנטית? - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/maagarmada/life_sci/%D7%9E%D7%94%D7%99-%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%94-%D7%92%D7%A0%D7%98%D7%99%D7%AA",
+            "displayed_link": "https://davidson.weizmann.ac.il › maagarmada › life_sci",
+            "date": "9 בספט׳ 2009",
+            "snippet": "מוטציה גנטית היא טעות בשכפול הדנ\"א. טעות כזאת יכולה להיות חסרת משמעות או משמעותית מאוד – תלוי אם חל שינוי ברצף חומצות האמינו ואם מדובר ...",
+            "snippet_highlighted_words": [
+                "מוטציה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "מוטציה | מכבי שירותי בריאות",
+            "link": "https://www.maccabi4u.co.il/19111-he/Maccabi.aspx",
+            "displayed_link": "https://www.maccabi4u.co.il › ... › מילון מונחים",
+            "snippet": "מוטציה גנית פוגעת בגן אחד ואילו מוטציה כרומוזומלית פוגעת בכרומוזום (במספר רב של גנים), על ידי שינוי מבנה הכרומוזום או באמצעות שינוי מספר כרומוזומים. מילון ...",
+            "snippet_highlighted_words": [
+                "מוטציה",
+                "מוטציה"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "מוטציות - מוזיאון הטבע ע\"ש שטיינהרדט",
+            "link": "https://smnh.tau.ac.il/learn/%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA/",
+            "displayed_link": "https://smnh.tau.ac.il › learn › מוטציות",
+            "date": "3 במאי 2015",
+            "snippet": "מוטציות הן שינויים אקראיים בדנ\"א. רק למוטציות המתרחשות בתאי המין יכולה להיות משמעות אבולוציונית, שכן רק הדנ\"א שנמצא בתאי המין עובר לצאצאים.",
+            "snippet_highlighted_words": [
+                "מוטציות"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "במשפחתי אותרה מוטציה (שינוי גנטי) | מרכז רפואי רבין - בתי החולים ...",
+            "link": "https://hospitals.clalit.co.il/rabin/he/departments-and-clinics/genetics/Pages/familial_mutation.aspx",
+            "displayed_link": "https://hospitals.clalit.co.il › Pages › familial_mutation",
+            "snippet": "בדיקות גנטיות נעשות בכדי לדעת אם קיים בסיס תורשתי למחלה. חלק מהמחלות הן ׳גנטיות׳ - כלומר עוברות בתורשה. אם מוטציה גנטית התגלתה אצל בן משפחתי, ייתכן שמוטציה זו ...",
+            "snippet_highlighted_words": [
+                "מוטציה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "מוטציות גנטיות בסרטן | פייזר ישראל",
+            "link": "https://www.pfizer.co.il/lung_cancer/diagnosis/mutations_in_cancer",
+            "displayed_link": "https://www.pfizer.co.il › mutations_in_cancer",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsTpaPYPUdU75tC0K21ZLn7iIxUHe32P-I3wW1WR5W-ReMhRASXFK&usqp=CAE&s",
+            "snippet": "מוטציות גנטיות יכולות להיות סומטיות או תורשתיות: כל סוגי הסרטן נגרמים בעקבות שינויים גנטיים מסוג כלשהו. תאים סרטניים הם מוטציות של תאים תקינים – משהו השתנה ...",
+            "snippet_highlighted_words": [
+                "מוטציות",
+                "מוטציות"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "מוטציה - – המכלול",
+            "link": "https://www.hamichlol.org.il/%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%94",
+            "displayed_link": "https://www.hamichlol.org.il › מוטציה",
+            "date": "5 באוג׳ 2021",
+            "snippet": "מוטציה (באנגלית: mutation, בעברית תקנית: תַּשְׁנִית) הוא מונח בביולוגיה המתאר שינוי ברצף הנוקלאוטידים ב-DNA, דהיינו, שינוי בהרכב הגנטי ...",
+            "snippet_highlighted_words": [
+                "מוטציה"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "מוטציית ג'רמליין / מוטציה ג'רמנילית – Germline mutation - בדיקה ...",
+            "link": "https://www.fugene.co.il/%D7%9E%D7%99%D7%9C%D7%95%D7%9F-%D7%9E%D7%95%D7%A9%D7%92%D7%99%D7%9D/%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%99%D7%AA-%D7%92%D7%A8%D7%9E%D7%9C%D7%99%D7%99%D7%9F-%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%94-%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%9C%D7%99%D7%AA-germline-mut/",
+            "displayed_link": "https://www.fugene.co.il › מילון מושגים",
+            "date": "10 בינו׳ 2021",
+            "snippet": "מוטציות ג'רמליין (נקראות גם מוטציות ג'רמינליות, מוטציות גרמינליות, מוטציות גרמינטיביות ולעתים בפשטות \"מוטציות תורשתיות\"; באנגלית: germline ...",
+            "snippet_highlighted_words": [
+                "מוטציות",
+                "מוטציות",
+                "מוטציות",
+                "מוטציות",
+                "מוטציות"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "סוגי מוטציות",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A1%D7%95%D7%92%D7%99+%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "מוטציות נפוצות",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA+%D7%A0%D7%A4%D7%95%D7%A6%D7%95%D7%AA&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "מוטציות מצגת",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA+%D7%9E%D7%A6%D7%92%D7%AA&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "סוגי מוטציות גנטיות",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A1%D7%95%D7%92%D7%99+%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA+%D7%92%D7%A0%D7%98%D7%99%D7%95%D7%AA&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "האם מוטציה עוברת בתורשה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%94%D7%90%D7%9D+%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%94+%D7%A2%D7%95%D7%91%D7%A8%D7%AA+%D7%91%D7%AA%D7%95%D7%A8%D7%A9%D7%94&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "מנגנוני מוטציות",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%A0%D7%92%D7%A0%D7%95%D7%A0%D7%99+%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "מוטציות חיוביות",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA+%D7%97%D7%99%D7%95%D7%91%D7%99%D7%95%D7%AA&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "מוטציות נקודתיות",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA+%D7%A0%D7%A7%D7%95%D7%93%D7%AA%D7%99%D7%95%D7%AA&sa=X&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ1QJ6BAghEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=ZD2eYvDPD52iqtsPvYyNoAM&start=10&sa=N&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=ZD2eYvDPD52iqtsPvYyNoAM&start=10&sa=N&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=ZD2eYvDPD52iqtsPvYyNoAM&start=20&sa=N&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=ZD2eYvDPD52iqtsPvYyNoAM&start=30&sa=N&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=ZD2eYvDPD52iqtsPvYyNoAM&start=40&sa=N&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=ZD2eYvDPD52iqtsPvYyNoAM&start=50&sa=N&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=ZD2eYvDPD52iqtsPvYyNoAM&start=60&sa=N&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=ZD2eYvDPD52iqtsPvYyNoAM&start=70&sa=N&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=ZD2eYvDPD52iqtsPvYyNoAM&start=80&sa=N&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&hl=iw&gl=il&ei=ZD2eYvDPD52iqtsPvYyNoAM&start=90&sa=N&ved=2ahUKEwjwkYzisJn4AhUdkWoFHT1GAzQQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%95%D7%98%D7%A6%D7%99%D7%95%D7%AA&start=90"
+        }
+    }
+}

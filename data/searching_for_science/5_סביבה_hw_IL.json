@@ -1,0 +1,256 @@
+{
+    "search_metadata": {
+        "id": "629e3d7d2236e202d77be9d6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3aa0deb31263eaf8/629e3d7d2236e202d77be9d6.json",
+        "created_at": "2022-06-06 17:46:37 UTC",
+        "processed_at": "2022-06-06 17:46:37 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&oq=%D7%A1%D7%91%D7%99%D7%91%D7%94&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3aa0deb31263eaf8/629e3d7d2236e202d77be9d6.html",
+        "total_time_taken": 4.92
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "סביבה",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "סביבה",
+        "total_results": 9930000,
+        "time_taken_displayed": 0.44
+    },
+    "inline_images": [
+        {
+            "source": "https://www.2048.org.il/%D7%A1%D7%91%D7%99%D7%91%D7%94/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KWWqERh9ryavabE2XWDYYOvB1DdKaPkTYt11MZ_NJg&s"
+        },
+        {
+            "source": "http://pop.education.gov.il/tchumey_daat/geography_adam_sviva/yesodi/noseem_nilmadim/sviva-kayamut-gg/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHGP2gbgNnw0y0ZWx9_NIkE21boqv9VsSZ2exYER1NMw&s"
+        },
+        {
+            "source": "https://cbe.co.il/portfolio_entries/%D7%A1%D7%91%D7%99%D7%91%D7%94/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToHxNWAlkYvjr_lsRM80X3KQ4pILavPUtT81T0VyF6Xg&s"
+        },
+        {
+            "source": "https://lifesci.tau.ac.il/zoology/research/human_and_nature",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgAXcQDHyi68OOtP8m14M_jAYtGo_nmCPFAjaUqVCLA&s"
+        },
+        {
+            "source": "https://www.facebook.com/EnvironmentalLawIsrael/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrQG9-63vv-gpqvj-y_E48GFlTkOj9RY15AtSsoYjCA&s"
+        },
+        {
+            "source": "https://www.etos.co.il/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQtfdggAcPxzqf3BTqDdcxO0nxwSZyR2kEGR1QJHwVQ&s"
+        },
+        {
+            "source": "https://www.arimnews.co.il/news/29300",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyjizEZDzstSVnY5Sx4FvpS9CsMW1sC7xjhZCjQYnNg&s"
+        },
+        {
+            "source": "https://www.ynet.co.il/articles/0,7340,L-4665155,00.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU186nPlOoJlqV2QNy75py5btT4vydPvRgbhq1zHe5Zw&s"
+        },
+        {
+            "source": "https://www.tel-aviv.gov.il/Residents/Environment/Pages/EnvironmentalEducation.aspx",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrcO9vn_F9YDbWLLc_XWT7d-7BxRD0zxaphF1duTWawA&s"
+        },
+        {
+            "source": "http://www.argaman-sviva.co.il/%D7%A1%D7%91%D7%99%D7%91%D7%94-%D7%99%D7%A8%D7%95%D7%A7%D7%94",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJmR9SQWEH9LdCOEpc1mysTWAIBsaJfDotfKBM2BU5YA&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "כלכלת סביבה",
+            "link": "https://www.youtube.com/watch?v=7d9wLjpgwKA",
+            "thumbnail": "https://serpapi.com/searches/629e3d7d2236e202d77be9d6/images/cc19c1858795b245b24265beb18d709b529e03c9fbe18706860f55350f257e77.jpeg",
+            "channel": "המשרד להגנת הסביבה - הערוץ הרשמי",
+            "duration": "1:38",
+            "platform": "YouTube",
+            "date": "1 ביולי 2020"
+        },
+        {
+            "position": 2,
+            "title": "יחסי גומלין אדם סביבה (חלק א')",
+            "link": "https://www.youtube.com/watch?v=66QislQ8LWA",
+            "thumbnail": "https://serpapi.com/searches/629e3d7d2236e202d77be9d6/images/cc19c1858795b2450273d140dcfb29f855cf77b661b054acc5b19e0dce40d016.jpeg",
+            "channel": "מטח המרכז לטכנולוגיה חינוכית",
+            "duration": "4:30",
+            "platform": "YouTube",
+            "date": "14 בספט׳ 2014"
+        },
+        {
+            "position": 3,
+            "title": "חודש איכות הסביבה סביבה בימי הקורונה",
+            "link": "https://www.youtube.com/watch?v=wlBSnNWR6HQ",
+            "thumbnail": "https://serpapi.com/searches/629e3d7d2236e202d77be9d6/images/cc19c1858795b2453f5166a1d944497bd81d7e82e25a9b11080042aa544908f7.jpeg",
+            "channel": "המשרד להגנת הסביבה - הערוץ הרשמי",
+            "duration": "1:10",
+            "platform": "YouTube",
+            "date": "10 ביוני 2020"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "סביבה - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A1%D7%91%D7%99%D7%91%D7%94",
+            "displayed_link": "https://he.wikipedia.org › wiki › סביבה",
+            "snippet": "סביבה · מדעי הסביבה – התחומים המדעיים העוסקים בחקר הסביבה הטבעית וההשפעות האנושיות עליה. · איכות הסביבה – תחום עיסוק הנוגע ליחסי הגומלין בין האדם לבין סביבתו ...",
+            "snippet_highlighted_words": [
+                "סביבה",
+                "הסביבה",
+                "הסביבה",
+                "הסביבה"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "סביבה (פסיכולוגיה) - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A1%D7%91%D7%99%D7%91%D7%94_(%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94)",
+            "displayed_link": "https://he.wikipedia.org › wiki › סביבה_(פסיכולוגיה)",
+            "snippet": "סביבה היא מכלול הגורמים שאינם תורשתיים המשפיעים על התפתחות האדם, אישיותו וכישוריו. הסביבה מתייחסת לכל החוויות וההתנסויות של האדם. היא כוללת את כל הגירויים ...",
+            "snippet_highlighted_words": [
+                "סביבה",
+                "הסביבה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "מה זה סביבה - מילון עברי עברי",
+            "link": "https://milog.co.il/%D7%A1%D7%91%D7%99%D7%91%D7%94",
+            "displayed_link": "https://milog.co.il › סביבה",
+            "snippet": "תוצאות חיפוש לערך סביבה. ... חרוזים. התקבלו 8 פירושים במילון לסביבה ... במדע ובהנדסה, מערכת פיזיקלית היא החלק מהיקום אותו חוקרים, בעוד הסביבה היא שאר היקום, ...",
+            "snippet_highlighted_words": [
+                "סביבה",
+                "לסביבה",
+                "הסביבה"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "המשרד להגנת הסביבה - Gov",
+            "link": "https://www.gov.il/he/departments/ministry_of_environmental_protection/govil-landing-page",
+            "displayed_link": "https://www.gov.il › departments › govil-landing-page",
+            "snippet": "המשרד להגנת הסביבה פועל לשמירה על הסביבה ועל בריאות הציבור באמצעות קידום חוקים, תקנות ותקנים ופיקוח על יישומם ואכיפתם. המשרד פועל גם מתוקף אמנות בין לאומיות ...",
+            "snippet_highlighted_words": [
+                "הסביבה",
+                "הסביבה"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "סביבה - כתבות וחדשות - ynet",
+            "link": "https://www.ynet.co.il/environment-science/category/9468",
+            "displayed_link": "https://www.ynet.co.il › environment-science › category",
+            "snippet": "מדור סביבה של ynet מציג כתבות וידיעות בנושא סביבה כולל סיקור נושאי שינוי האקלים, המים, מיחזור ופסולת, אנרגיות מתחדשות ובניה ירוקה.",
+            "snippet_highlighted_words": [
+                "סביבה",
+                "סביבה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "סביבה באנגלית | פירוש סביבה בעברית - מילון מורפיקס",
+            "link": "https://www.morfix.co.il/%D7%A1%D7%91%D7%99%D7%91%D7%94",
+            "displayed_link": "https://www.morfix.co.il › סביבה",
+            "snippet": "סביבה באנגלית- תרגום לאנגלית של המילה סביבה על ידי אתר מורפיקס, מילון עברי אנגלי ואנגלי עברי חינמי המוביל ברשת, הכולל: תרגום, הקראת מילים, משפטי דוגמה, ...",
+            "snippet_highlighted_words": [
+                "סביבה",
+                "סביבה"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "סביבה - ויקימילון",
+            "link": "https://he.wiktionary.org/wiki/%D7%A1%D7%91%D7%99%D7%91%D7%94",
+            "displayed_link": "https://he.wiktionary.org › wiki › סביבה",
+            "snippet": "[מתמטיקה] קבוצה של נקודות, קטנה כרצוננו, המקיפות נקודה נתונה מכל עבר. אם פונקציה היא אנליטית בנקודה, אזי קיימת סביבה של הנקודה שבה הפונקציה גזירה. [תרמודינמיקה] ...",
+            "snippet_highlighted_words": [
+                "סביבה"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "חיים וסביבה - תשתית לתנועה הסביבתית |",
+            "link": "https://www.sviva.net/",
+            "displayed_link": "https://www.sviva.net",
+            "snippet": "... ארגוני הסביבה בישראל מאגד כ-130 ארגונים סביבתיים מכל רחבי הארץ, הפועלים במגוון תחומים ודרכי פעולה לקידום איכות הסביבה, בריאות הציבור וצדק סביבתי וחברתי.",
+            "snippet_highlighted_words": [
+                "סביבתי"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "סביבה פירוש",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94+%D7%A4%D7%99%D7%A8%D7%95%D7%A9&sa=X&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "סביבה ירוקה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94+%D7%99%D7%A8%D7%95%D7%A7%D7%94&sa=X&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "סביבה כלכלית",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94+%D7%9B%D7%9C%D7%9B%D7%9C%D7%99%D7%AA&sa=X&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "סביבה תרבותית",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94+%D7%AA%D7%A8%D7%91%D7%95%D7%AA%D7%99%D7%AA&sa=X&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "חקר סביבה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%A7%D7%A8+%D7%A1%D7%91%D7%99%D7%91%D7%94&sa=X&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "סביבה וטבע",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94+%D7%95%D7%98%D7%91%D7%A2&sa=X&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "איכות הסביבה נושאים",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%99%D7%9B%D7%95%D7%AA+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94+%D7%A0%D7%95%D7%A9%D7%90%D7%99%D7%9D&sa=X&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ1QJ6BAglEAE"
+        },
+        {
+            "query": "סביבה תרגום",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94+%D7%AA%D7%A8%D7%92%D7%95%D7%9D&sa=X&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ1QJ6BAgjEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=gT2eYvnTMe6HptQP_IqwuAY&start=10&sa=N&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=gT2eYvnTMe6HptQP_IqwuAY&start=10&sa=N&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=gT2eYvnTMe6HptQP_IqwuAY&start=20&sa=N&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=gT2eYvnTMe6HptQP_IqwuAY&start=30&sa=N&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=gT2eYvnTMe6HptQP_IqwuAY&start=40&sa=N&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=gT2eYvnTMe6HptQP_IqwuAY&start=50&sa=N&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=gT2eYvnTMe6HptQP_IqwuAY&start=60&sa=N&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=gT2eYvnTMe6HptQP_IqwuAY&start=70&sa=N&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=gT2eYvnTMe6HptQP_IqwuAY&start=80&sa=N&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D7%A1%D7%91%D7%99%D7%91%D7%94&gl=il&hl=iw&ei=gT2eYvnTMe6HptQP_IqwuAY&start=90&sa=N&ved=2ahUKEwi5mJjwsJn4AhXug4kEHXwFDGcQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A1%D7%91%D7%99%D7%91%D7%94&start=90"
+        }
+    }
+}

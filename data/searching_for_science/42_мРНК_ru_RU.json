@@ -1,0 +1,202 @@
+{
+    "search_metadata": {
+        "id": "629e3db9d5a53146b4fd344d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a76cdaf380c98d13/629e3db9d5a53146b4fd344d.json",
+        "created_at": "2022-06-06 17:47:37 UTC",
+        "processed_at": "2022-06-06 17:47:37 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&oq=%D0%BC%D0%A0%D0%9D%D0%9A&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/a76cdaf380c98d13/629e3db9d5a53146b4fd344d.html",
+        "total_time_taken": 0.57
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "мРНК",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "мРНК",
+        "total_results": 635000,
+        "time_taken_displayed": 0.38
+    },
+    "knowledge_graph": {
+        "title": "Матричная РНК",
+        "image": "https://serpapi.com/searches/629e3db9d5a53146b4fd344d/images/be33ec1b47c72cdbe132966ec153a2896c0a70ec09b820fe.png",
+        "description": "Ма́тричная рибонуклеи́новая кислота́ — РНК, содержащая информацию о первичной структуре белков. мРНК синтезируется на основе ДНК в ходе транскрипции, после чего, в свою очередь, используется в ходе трансляции как матрица для синтеза белков. Тем самым мРНК играет важную роль в «проявлении» генов.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%A0%D0%9D%D0%9A"
+        },
+        "Возможно_вы_искали": [
+            {
+                "name": "Рибонуклеиновая кислота",
+                "extensions": [
+                    "Химическое соединение"
+                ],
+                "image": "https://serpapi.com/searches/629e3db9d5a53146b4fd344d/images/be33ec1b47c72cdbe132966ec153a289397d4a0b759331f8fc301fbed36a00e0992d5f082fa09807a8394fb87ad403264dfd0ed247b2ec3e237a26e61a3bf94c.png"
+            }
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Матричная РНК - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%A0%D0%9D%D0%9A",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Матричная_РНК",
+            "snippet": "Ма́тричная рибонуклеи́новая кислота́ (мРНК, синоним — информацио́нная РНК, иРНК) — РНК, содержащая информацию о первичной структуре (аминокислотной ...",
+            "snippet_highlighted_words": [
+                "мРНК"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Разбираемся, как действуют мРНК ВАКЦИНЫ - Pfizer.ru",
+            "link": "https://www.pfizer.ru/%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%82-%D0%BC%D1%80%D0%BD%D0%BA-%D0%B2%D0%B0%D0%BA%D1%86%D0%B8%D0%BD%D1%8B",
+            "displayed_link": "https://www.pfizer.ru › разбираемся-как-действуют-м...",
+            "snippet": "Разбираемся, как действуют мРНК ВАКЦИНЫ ... Информация предназначена только для граждан Российской Федерации. Государства за пределами Российской Федерации могут ...",
+            "snippet_highlighted_words": [
+                "мРНК"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Как работают вакцины против COVID-19 на основе мРНК",
+            "link": "https://www.cdc.gov/coronavirus/2019-ncov/downloads/vaccines/COVID-19-mRNA-infographic_G_Russian.pdf",
+            "displayed_link": "https://www.cdc.gov › downloads › vaccines › C...",
+            "snippet": "идеальными мишенями для вакцин. Что такое мРНК? Матричная РНК или мРНК — это генетический материал, который сообщает вашему.",
+            "snippet_highlighted_words": [
+                "мРНК",
+                "Матричная РНК",
+                "мРНК"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "автор: СЛИП ВАКЦИНАЦИЮ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "Технология мРНК как одна из перспективных платформ ...",
+            "link": "https://vavilov.elpub.ru/jour/article/view/2824",
+            "displayed_link": "https://vavilov.elpub.ru › jour › article › view",
+            "snippet": "В обзоре рассматривается одна из перспективных вакцинных платформ, созданная на основе матричной РНК (мРНК). До недавнего времени мРНК-вакцинация не ...",
+            "snippet_highlighted_words": [
+                "матричной РНК",
+                "мРНК",
+                "мРНК"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "автор: АА Ильичев",
+                        "2020 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2020
+                    }
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "Вакцины против COVID-19 на основе информационной ...",
+            "link": "https://www.mskcc.org/ru/coronavirus/what-s-different-about-messenger-rna-vaccines-covid-19",
+            "displayed_link": "https://www.mskcc.org › coronavirus › what-s-different...",
+            "snippet": "В вакцинах Pfizer-BioNTech (Comirnaty®) и Moderna (Spikevax™) против COVID-19 использована информационная рибонуклеиновая кислота (иРНК), ..."
+        },
+        {
+            "position": 6,
+            "title": "\"Это прорыв\". Когда в России появятся собственные мРНК ...",
+            "link": "https://ria.ru/20211011/mrnk-vaktsina-1753687534.html",
+            "displayed_link": "https://ria.ru › Новости",
+            "date": "11 окт. 2021 г.",
+            "snippet": "В США лидируют мРНК-вакцины производства Pfizer и Moderna. По эффективности и безопасности они сравнимы с векторными.",
+            "snippet_highlighted_words": [
+                "мРНК"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Вакцины на основе мРНК: от борьбы с ковидом | 28.07.2021",
+            "link": "https://www.dw.com/ru/vakciny-na-osnove-mrnk-ot-borby-s-kovidom-k-borbe-s-rakom/a-58669184",
+            "displayed_link": "https://www.dw.com › vakciny-na-osnove-mrnk-ot-bor...",
+            "date": "28 июл. 2021 г.",
+            "snippet": "Первые клинические испытания препаратов на основе мРНК были проведены в процессе создания вакцин против COVID-19 компаниями BioNTech/Pfizer и ...",
+            "snippet_highlighted_words": [
+                "мРНК"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Что необходимо знать о вакцине против COVID-19 компании",
+            "link": "https://www.who.int/ru/news-room/feature-stories/detail/the-moderna-covid-19-mrna-1273-vaccine-what-you-need-to-know",
+            "displayed_link": "https://www.who.int › ... › Репортажи › Подробнее",
+            "date": "23 февр. 2022 г.",
+            "snippet": "СКГЭ рекомендует проводить иммунизацию вакциной мРНК-1273 компании «Модерна» в два этапа (100 мкг, каждый раз по 0,5 мл) с интервалом 8 недель.",
+            "snippet_highlighted_words": [
+                "мРНК"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "ВОЗ объявляет первых получателей технологии ...",
+                    "link": "https://www.who.int/ru/news/item/18-02-2022-who-announces-first-technology-recipients-of-mrna-vaccine-hub-with-strong-support-from-african-and-european-partners",
+                    "displayed_link": "https://www.who.int › ... › Пресс-релизы › item",
+                    "snippet": "Производство мРНК-вакцин планируется наладить в Египте, Кении, Нигерии, Сенегале, Южной Африке и Тунисе. 18 февраля 2022 г. Пресс-релиз. Женева | Брюссель.",
+                    "snippet_highlighted_words": [
+                        "мРНК"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 9,
+            "title": "НЕПРАВДА: мРНК-вакцины будут менять генетический ...",
+            "link": "https://voxukraine.org/ru/nepravda-mrnk-vaktsyny-budut-menyat-genetycheskyj-materyal-cheloveka/",
+            "displayed_link": "https://voxukraine.org › nepravda-mrnk-vaktsyny-bud...",
+            "date": "14 сент. 2021 г.",
+            "snippet": "Вакцина не будет менять генетический материал человека. мРНК-вакцина работает путем введения «в организм инструкций» для выработки антител. Под ...",
+            "snippet_highlighted_words": [
+                "мРНК"
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&gl=ru&hl=ru&ei=uT2eYo2ACoDCqtsPgqSOyAw&start=10&sa=N&ved=2ahUKEwjNwMqKsZn4AhUAoWoFHQKSA8kQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&gl=ru&hl=ru&ei=uT2eYo2ACoDCqtsPgqSOyAw&start=10&sa=N&ved=2ahUKEwjNwMqKsZn4AhUAoWoFHQKSA8kQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&gl=ru&hl=ru&ei=uT2eYo2ACoDCqtsPgqSOyAw&start=20&sa=N&ved=2ahUKEwjNwMqKsZn4AhUAoWoFHQKSA8kQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&gl=ru&hl=ru&ei=uT2eYo2ACoDCqtsPgqSOyAw&start=30&sa=N&ved=2ahUKEwjNwMqKsZn4AhUAoWoFHQKSA8kQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&gl=ru&hl=ru&ei=uT2eYo2ACoDCqtsPgqSOyAw&start=40&sa=N&ved=2ahUKEwjNwMqKsZn4AhUAoWoFHQKSA8kQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&gl=ru&hl=ru&ei=uT2eYo2ACoDCqtsPgqSOyAw&start=50&sa=N&ved=2ahUKEwjNwMqKsZn4AhUAoWoFHQKSA8kQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&gl=ru&hl=ru&ei=uT2eYo2ACoDCqtsPgqSOyAw&start=60&sa=N&ved=2ahUKEwjNwMqKsZn4AhUAoWoFHQKSA8kQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&gl=ru&hl=ru&ei=uT2eYo2ACoDCqtsPgqSOyAw&start=70&sa=N&ved=2ahUKEwjNwMqKsZn4AhUAoWoFHQKSA8kQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&gl=ru&hl=ru&ei=uT2eYo2ACoDCqtsPgqSOyAw&start=80&sa=N&ved=2ahUKEwjNwMqKsZn4AhUAoWoFHQKSA8kQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D0%BC%D0%A0%D0%9D%D0%9A&gl=ru&hl=ru&ei=uT2eYo2ACoDCqtsPgqSOyAw&start=90&sa=N&ved=2ahUKEwjNwMqKsZn4AhUAoWoFHQKSA8kQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BC%D0%A0%D0%9D%D0%9A&start=90"
+        }
+    }
+}

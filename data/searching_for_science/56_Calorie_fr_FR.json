@@ -1,0 +1,286 @@
+{
+    "search_metadata": {
+        "id": "627cffeae4a23d1579ecb120",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f002cfbf0520eefd/627cffeae4a23d1579ecb120.json",
+        "created_at": "2022-05-12 12:39:06 UTC",
+        "processed_at": "2022-05-12 12:39:06 UTC",
+        "google_url": "https://www.google.com/search?q=Calorie&oq=Calorie&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=&hl=fr&gl=FR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f002cfbf0520eefd/627cffeae4a23d1579ecb120.html",
+        "total_time_taken": 2.97
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Calorie",
+        "uule": "w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=",
+        "google_domain": "google.com",
+        "hl": "fr",
+        "gl": "FR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Calorie",
+        "total_results": 2470000000,
+        "time_taken_displayed": 0.43
+    },
+    "knowledge_graph": {
+        "title": "Calorie",
+        "description": "La calorie est une ancienne unité d'énergie. Elle est définie comme la quantité d'énergie nécessaire pour élever la température d’un gramme d'eau liquide de 1 °C sous une pression d'une atmosphère et vaut environ 4,184 joules. C'est une unité hors du système international.",
+        "source": {
+            "name": "Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/Calorie"
+        },
+        "recherches_associées": [
+            {
+                "name": "Graisse",
+                "link": "https://www.google.com/search?gl=FR&hl=fr&q=Graisse&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbs23KdnvG3QVTScP1rOqW8DyEjdG40qGHcHWms2iiqcPQY4-QzsqFTE4nVE-a5AFowksDR2Qay_PedM48Q4YL8YjSrrCSgxnavBTMyzz4KdyHFZ5OA_QdKwLRrQOmspJmSMPRW3vkSajQtsTHjYU9yPfEXUlhGGiKEvhC7x-FcpMkxmzwntSPZzuUV0IV3KkjgPXrZ8b5xf32B0TdVc6Rn1Zd8ioyaKa-qKYiwfYv0jw0gZbw%3D%3D&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQxA16BAhWEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Graisse&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbs23KdnvG3QVTScP1rOqW8DyEjdG40qGHcHWms2iiqcPQY4-QzsqFTE4nVE-a5AFowksDR2Qay_PedM48Q4YL8YjSrrCSgxnavBTMyzz4KdyHFZ5OA_QdKwLRrQOmspJmSMPRW3vkSajQtsTHjYU9yPfEXUlhGGiKEvhC7x-FcpMkxmzwntSPZzuUV0IV3KkjgPXrZ8b5xf32B0TdVc6Rn1Zd8ioyaKa-qKYiwfYv0jw0gZbw%3D%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffeae4a23d1579ecb120/images/a9fa28ee3a437ca4116a2d341ee2472969024c323634c9a47f81f1dd7e9475e4a5f512ea093606d4eee0663bb9386105.jpeg"
+            },
+            {
+                "name": "Cholestérol",
+                "link": "https://www.google.com/search?gl=FR&hl=fr&q=Cholest%C3%A9rol&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZnBmDQHU7Kx3aO7NUA8zdU-KBdTCWq06dK5sjkl_FMIvXht5yOY7vhzBVRdNVHvxbNsOB8La_81ahTKIG8XJI8cq-qXbAvRVPfrnBGBigDAPz9bZENF646SXdkFF8c_gkLxzsKIo_RVP5OFwHg1ajKZgXgdHYrdFDx7bOBQGNNX1Jx55w0ghQqAKLy4U457rztefYyIQdW1rGE8t4K459QNQoqypLv_vlpM86wPg3IIWXqWwDc0JbStdXxpS8S6q1mkIMc%3D&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQxA16BAhWEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Cholest%C3%A9rol&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZnBmDQHU7Kx3aO7NUA8zdU-KBdTCWq06dK5sjkl_FMIvXht5yOY7vhzBVRdNVHvxbNsOB8La_81ahTKIG8XJI8cq-qXbAvRVPfrnBGBigDAPz9bZENF646SXdkFF8c_gkLxzsKIo_RVP5OFwHg1ajKZgXgdHYrdFDx7bOBQGNNX1Jx55w0ghQqAKLy4U457rztefYyIQdW1rGE8t4K459QNQoqypLv_vlpM86wPg3IIWXqWwDc0JbStdXxpS8S6q1mkIMc%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffeae4a23d1579ecb120/images/a9fa28ee3a437ca4116a2d341ee2472969024c323634c9a47f81f1dd7e9475e4076e6a83a776cc798db457d8e5e2f9f3.png"
+            },
+            {
+                "name": "Énergie",
+                "link": "https://www.google.com/search?gl=FR&hl=fr&q=%C3%89nergie+(physique)&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVu_tQUum7SbddzPN9NSoriA-MlhBQfG9jCbPAj3t1ZCF4ibElM_7pOueFDGNBIrHWQiOL9isT4U5NMwP6ixHT9CrtEppgCNzs-TI4xx9G3_wg_aJ5Kxaz1WgK7ZEAkDF4XBzemJrA8sMPMKc456dMfWwy65T-fbDklt7FdKLzNseGRlg_xbHPLTK8lC12wV5gFSpvAFJPyFJJKd8-4hZpi3BmId6o2SNCtTBLlDBF85YRXiWIZ1gMrzbJVh8Tg7lP0d0U8%3D&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQxA16BAhWEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=%C3%89nergie+%28physique%29&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVu_tQUum7SbddzPN9NSoriA-MlhBQfG9jCbPAj3t1ZCF4ibElM_7pOueFDGNBIrHWQiOL9isT4U5NMwP6ixHT9CrtEppgCNzs-TI4xx9G3_wg_aJ5Kxaz1WgK7ZEAkDF4XBzemJrA8sMPMKc456dMfWwy65T-fbDklt7FdKLzNseGRlg_xbHPLTK8lC12wV5gFSpvAFJPyFJJKd8-4hZpi3BmId6o2SNCtTBLlDBF85YRXiWIZ1gMrzbJVh8Tg7lP0d0U8%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffeae4a23d1579ecb120/images/a9fa28ee3a437ca4116a2d341ee2472969024c323634c9a47f81f1dd7e9475e42223d2e4e575edd6cd22e1a12e4f44f4.jpeg"
+            },
+            {
+                "name": "Acides gras sat...",
+                "link": "https://www.google.com/search?gl=FR&hl=fr&q=Acides+gras+satur%C3%A9s&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgA4_0v9YkS5XOOw1oPL4hecl8k5VxbUQvg-fC5-ZOVRYlMgy-mjS4-MV9P4d0-XR2m3S1ZwQfD9aXXqd1jWcKpr-Xjkxder632mRODKRZ9jXQ03m7uQIf50181gTxjS8nMQ6kM5sV6l0SdfUDmma9chGq_-a8cZbuRZY7oMeVmlxZjNo1nJln0uEg_mcp7la8osfTjMusYmi1X4sc35ystWMUbSGuCR9dmsSnVVFUacxOXatRi59ar6e-UtrTb4RJB9Qz1s%3D&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQxA16BAhWEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Acides+gras+satur%C3%A9s&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgA4_0v9YkS5XOOw1oPL4hecl8k5VxbUQvg-fC5-ZOVRYlMgy-mjS4-MV9P4d0-XR2m3S1ZwQfD9aXXqd1jWcKpr-Xjkxder632mRODKRZ9jXQ03m7uQIf50181gTxjS8nMQ6kM5sV6l0SdfUDmma9chGq_-a8cZbuRZY7oMeVmlxZjNo1nJln0uEg_mcp7la8osfTjMusYmi1X4sc35ystWMUbSGuCR9dmsSnVVFUacxOXatRi59ar6e-UtrTb4RJB9Qz1s%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627cffeae4a23d1579ecb120/images/a9fa28ee3a437ca4116a2d341ee2472969024c323634c9a47f81f1dd7e9475e4fc467768cba3b201c11f41cdc9a4dd22.jpeg"
+            }
+        ],
+        "recherches_associées_link": "https://www.google.com/search?gl=FR&hl=fr&q=Calorie&stick=H4sIAAAAAAAAAONgFuLQz9U3MCwvM1KCs7QEgzNTUssTK4v9UitKgktSC4oXsbI7J-bkF2Wm7mBlBAAl3kkANgAAAA&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQMSgAegQIVhAB",
+        "recherches_associées_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCwvM1KCs7QEgzNTUssTK4v9UitKgktSC4oXsbI7J-bkF2Wm7mBlBAAl3kkANgAAAA",
+        "afficher_les_résultats_pour": [
+            {
+                "name": "calorie",
+                "extensions": [
+                    "Définition du dictionnaire"
+                ]
+            }
+        ]
+    },
+    "related_questions": [
+        {
+            "question": "Quelle quantité de kcal par jour ?",
+            "snippet": "Pour les hommes, le besoin énergétique moyen se situe entre 2400 et 2700 kcal. Pour les femmes, la recommandation est de 2000 à 2200 kcal.5 mai 2021",
+            "title": "Combien de calories par jour doit-on consommer - La Vie ...",
+            "link": "https://www.la-vie-naturelle.com/blog/post/combien-de-calories-par-jour",
+            "displayed_link": "https://www.la-vie-naturelle.com › blog › post › combi..."
+        },
+        {
+            "question": "Quel est l'aliment le plus riche en calories ?",
+            "snippet": "1- Les graines et les oléagineux, aliments les plus caloriques. Dans la liste des aliments les plus caloriques, nous retrouvons les oléagineux. Ce sont des végétaux dont nous pouvons extraire l'huile comme les amandes, les noix, les olives, l'avocat, la noix de coco… Ce qui explique leur teneur en calories.12 juil. 2021",
+            "title": "Aliments les plus caloriques : notre top 10 - Greenweez magazine",
+            "link": "https://www.greenweez.com/magazine/le-top-10-des-aliments-les-plus-caloriques-par-quoi-puis-je-les-remplacer-31012/",
+            "displayed_link": "https://www.greenweez.com › magazine › le-top-10-des-a..."
+        },
+        {
+            "question": "Quels sont les aliments hypercaloriques ?",
+            "title": "Aliments à densité énergétique élevée",
+            "link": "https://www.passeportsante.net/fr/Nutrition/Dietes/Fiche.aspx?doc=maigreur_diete",
+            "list": [
+                "Fruits secs.",
+                "Banane.",
+                "Mangue.",
+                "Raisin.",
+                "Cerises.",
+                "Nectar de fruits.",
+                "Avocat.",
+                "Olives."
+            ],
+            "displayed_link": "https://www.passeportsante.net › Nutrition › Dietes › Fiche"
+        },
+        {
+            "question": "Qu'est-ce que veut dire kcal ?",
+            "snippet": "Scientifiquement parlant, 1 kilocalorie (1 000 calories ou 1 kcal) est la quantité de chaleur nécessaire pour élever de 1 °C la température de 1 kilogramme d'eau.",
+            "title": "Quelle est la différence entre Kcal et Calories ? | Philips",
+            "link": "https://www.philips.fr/c-f/XC000010892/quelle-est-la-diff%C3%A9rence-entre-kcal-et-calories-",
+            "displayed_link": "https://www.philips.fr › quelle-est-la-différence-entre-kcal..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Une calorie (cal) représente la quantité de chaleur nécessaire pour élever de 1 °C la température de 1 gramme d'eau sous une pression atmosphérique normale. L'unité de mesure officielle internationale de l'énergie est le joule, mais la calorie est très largement utilisée, en particulier en diététique.",
+        "link": "https://www.larousse.fr/encyclopedie/medical/calorie/11736",
+        "displayed_link": "https://www.larousse.fr › encyclopedie › medical › calorie",
+        "snippet": "Une calorie (cal) représente la quantité de chaleur nécessaire pour élever de 1 °C la température de 1 gramme d'eau sous une pression atmosphérique normale. L'unité de mesure officielle internationale de l'énergie est le joule, mais la calorie est très largement utilisée, en particulier en diététique.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Calorie - Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/Calorie",
+            "displayed_link": "https://fr.wikipedia.org › wiki › Calorie",
+            "snippet": "La calorie est une ancienne unité d'énergie. Elle est définie comme la quantité d'énergie nécessaire pour élever la température d'un gramme d'eau liquide de ...",
+            "snippet_highlighted_words": [
+                "calorie"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Tableau des calories de chaque aliment - Santé sur le Net",
+            "link": "https://www.sante-sur-le-net.com/nutrition-bien-etre/nutrition/tableau-des-calories/",
+            "displayed_link": "https://www.sante-sur-le-net.com › ... › Nutrition",
+            "date": "3 nov. 2017",
+            "snippet": "Tableau des calories : les calories dans vos boissons, coquillages et crustacés, poissons, viandes et œufs, légumes, fruits, laitages...",
+            "snippet_highlighted_words": [
+                "calories",
+                "calories"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Définition | Calorie | Futura Santé",
+            "link": "https://www.futura-sciences.com/sante/definitions/nutrition-calorie-16189/",
+            "displayed_link": "https://www.futura-sciences.com › Santé › Définitions",
+            "snippet": "À la base, la calorie est une unité d'énergie utilisée en physique. Elle correspond à l'énergie nécessaire pour chauffer de 14,5 °C à 15,5 °C un gramme d'eau ...",
+            "snippet_highlighted_words": [
+                "calorie"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Tableau des calories : tous les secrets des calories !",
+            "link": "https://www.foodspring.fr/magazine/tableau-calories",
+            "displayed_link": "https://www.foodspring.fr › ... › Les bases",
+            "date": "29 nov. 2021",
+            "snippet": "Les calories c'est quoi ? ... On entend par kilocalories l'énergie que tu donnes à ton corps via ton alimentation : en gros le carburant dont tu ...",
+            "snippet_highlighted_words": [
+                "calories"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Le Dictionnaire des calories - Journal des Femmes Santé",
+            "link": "https://sante.journaldesfemmes.fr/calories",
+            "displayed_link": "https://sante.journaldesfemmes.fr › calories",
+            "snippet": "Calories, protéines, glucides, lipides, vitamines... Avec le Dictionnaire des calories, retrouvez toutes les informations nutritionnelles sur plus de 1400 ...",
+            "snippet_highlighted_words": [
+                "Calories",
+                "calories"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Combien de calories par jour doit-on consommer - La Vie ...",
+            "link": "https://www.la-vie-naturelle.com/blog/post/combien-de-calories-par-jour",
+            "displayed_link": "https://www.la-vie-naturelle.com › blog › post › combi...",
+            "date": "5 mai 2021",
+            "snippet": "La calorie peut être convertie en joule, où 1 calorie = 4,184 joules. Ainsi, 1000 calories = 1 kilocalorie, dont l'abréviation est kcal. C'est ...",
+            "snippet_highlighted_words": [
+                "calorie",
+                "calorie",
+                "calories"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Comment calculer vos besoins journaliers en calories",
+            "link": "https://www.doctissimo.fr/asp/quizz/visu_form_metabolisme.asp",
+            "displayed_link": "https://www.doctissimo.fr › ... › Outils minceur",
+            "date": "3 avr. 2015",
+            "snippet": "La quantité de calories consommée dépend de plusieurs facteurs : âge, poids, activité physique... Or le carburant nécessaire à votre corps est ...",
+            "snippet_highlighted_words": [
+                "calories"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "définition de calorie et synonymes de calorie (français)",
+            "link": "http://dictionnaire.sensagent.leparisien.fr/calorie/fr-fr/",
+            "displayed_link": "http://dictionnaire.sensagent.leparisien.fr › calorie › fr-fr",
+            "snippet": "La kilocalorie (égale à 1000 calories) est parfois appelée grande calorie. Symbole : cal. définition (complément). voir la définition de calorie dans le Littré.",
+            "snippet_highlighted_words": [
+                "calories",
+                "calorie",
+                "calorie"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "définition de \"Calorie\"\" - dictionnaire de cuisine - Supertoinette",
+            "link": "https://www.supertoinette.com/glossaire-cuisine/395/sante/calorie.html",
+            "displayed_link": "https://www.supertoinette.com › glossaire-cuisine › sante",
+            "snippet": "Une calorie est égale à 4,18 joules. Ces calories, nous allons les trouver dans les éléments de base de notre alimentation. L'énergie contenue dans les aliments ...",
+            "snippet_highlighted_words": [
+                "calorie",
+                "calories"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "calorie par jour",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Calorie+par+jour&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ1QJ6BAg_EAE"
+        },
+        {
+            "query": "calorie calcul",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Calorie+calcul&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ1QJ6BAg9EAE"
+        },
+        {
+            "query": "calorie aliment",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Calorie+aliment&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "table des calories",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Table+des+calories&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "tableau des calories gratuit",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Tableau+des+calories+gratuit&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "calorie pomme",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Calorie+pomme&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "1 kilocalorie = en calorie",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=1+kilocalorie+%3D+en+calorie&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "calorie banane",
+            "link": "https://www.google.com/search?gl=FR&hl=fr&q=Calorie+banane&sa=X&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ1QJ6BAgxEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Calorie&gl=FR&hl=fr&ei=6_98YoWJOcOyytMPtYeemAk&start=10&sa=N&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ8NMDegQIAhBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Calorie&gl=FR&hl=fr&ei=6_98YoWJOcOyytMPtYeemAk&start=10&sa=N&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ8tMDegQIAhA_",
+            "3": "https://www.google.com/search?q=Calorie&gl=FR&hl=fr&ei=6_98YoWJOcOyytMPtYeemAk&start=20&sa=N&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ8tMDegQIAhBB",
+            "4": "https://www.google.com/search?q=Calorie&gl=FR&hl=fr&ei=6_98YoWJOcOyytMPtYeemAk&start=30&sa=N&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ8tMDegQIAhBD",
+            "5": "https://www.google.com/search?q=Calorie&gl=FR&hl=fr&ei=6_98YoWJOcOyytMPtYeemAk&start=40&sa=N&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ8tMDegQIAhBF",
+            "6": "https://www.google.com/search?q=Calorie&gl=FR&hl=fr&ei=6_98YoWJOcOyytMPtYeemAk&start=50&sa=N&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ8tMDegQIAhBH",
+            "7": "https://www.google.com/search?q=Calorie&gl=FR&hl=fr&ei=6_98YoWJOcOyytMPtYeemAk&start=60&sa=N&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ8tMDegQIAhBJ",
+            "8": "https://www.google.com/search?q=Calorie&gl=FR&hl=fr&ei=6_98YoWJOcOyytMPtYeemAk&start=70&sa=N&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ8tMDegQIAhBL",
+            "9": "https://www.google.com/search?q=Calorie&gl=FR&hl=fr&ei=6_98YoWJOcOyytMPtYeemAk&start=80&sa=N&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ8tMDegQIAhBN",
+            "10": "https://www.google.com/search?q=Calorie&gl=FR&hl=fr&ei=6_98YoWJOcOyytMPtYeemAk&start=90&sa=N&ved=2ahUKEwjFqrfA_dn3AhVDmXIEHbWDB5MQ8tMDegQIAhBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=20&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=30&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=40&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=50&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=60&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=70&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=80&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Calorie&start=90&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D"
+        }
+    }
+}

@@ -1,0 +1,534 @@
+{
+    "search_metadata": {
+        "id": "629e3db4af5af14447faa953",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/89a1fa6ab4eef2fe/629e3db4af5af14447faa953.json",
+        "created_at": "2022-06-06 17:47:32 UTC",
+        "processed_at": "2022-06-06 17:47:32 UTC",
+        "google_url": "https://www.google.com/search?q=mRNA&oq=mRNA&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/89a1fa6ab4eef2fe/629e3db4af5af14447faa953.html",
+        "total_time_taken": 3.67
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "mRNA",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "mRNA",
+        "total_results": 338000000,
+        "time_taken_displayed": 0.55
+    },
+    "ads": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "Moderna - The science behind mRNA",
+            "link": "https://www.modernatx.com/",
+            "displayed_link": "https://www.modernatx.com/",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiD38CJsZn4AhWBiVsKHbzTA7MYABAAGgJ5bQ&sig=AOD64_2BGDFwUmPvQsUHFEuSJcZnY3ANgA&q&adurl",
+            "description": "Read more on how Moderna is researching and developing mRNA. vaccines to help activate immune responses against a variety of viruses. mRNA Research Platform. Learn about mRNA. mRNA Development Engine."
+        }
+    ],
+    "knowledge_graph": {
+        "see_results_about": [
+            {
+                "name": "RNA vaccine",
+                "extensions": [
+                    "An mRNA vaccine is a type of vaccine that uses a copy of a ..."
+                ]
+            },
+            {
+                "name": "Messenger RNA",
+                "extensions": [
+                    "In molecular biology, messenger ribonucleic acid is a single‑..."
+                ],
+                "image": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/434c2bec60678e51c613abe49cbdbb26eea88a7e4f95dae9c8b238e7c0eaf9e047e0c0612353905fa8c14fe9fc7ec458.jpeg"
+            },
+            {
+                "name": "RNA",
+                "extensions": [
+                    "Ribonucleic acid is a polymeric molecule essential in various ..."
+                ],
+                "image": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/434c2bec60678e51c613abe49cbdbb26eea88a7e4f95dae9c8b238e7c0eaf9e0181d063883f5ccbf86a66b198eeac5d6.png"
+            },
+            {
+                "name": "Moderna, NIAID vaccine"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "What is mRNA, and how does it work?",
+            "link": "https://www.youtube.com/watch?v=A7gSWqpXRsc",
+            "thumbnail": "https://i.ytimg.com/vi/A7gSWqpXRsc/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lnn-seAHEBuEhIjpEi4_zsYRfeWw",
+            "channel": "UNSW",
+            "duration": "1:19",
+            "platform": "YouTube",
+            "date": "Mar 20, 2022"
+        },
+        {
+            "position": 2,
+            "title": "Video: How do COVID-19 mRNA vaccines work?",
+            "link": "https://www.ecdc.europa.eu/en/publications-data/video-how-do-covid-19-mrna-vaccines-work",
+            "thumbnail": "https://i.ytimg.com/vi/o5rJTUQ7jp0/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lcsNH1kqz37ZE-qk3mhD6BexGcTg",
+            "channel": "ECDC",
+            "duration": "2:35",
+            "platform": "ECDC",
+            "date": "1 month ago"
+        },
+        {
+            "position": 3,
+            "title": "How mRNA Medicine Will Change the World | Melissa J ...",
+            "link": "https://www.youtube.com/watch?v=h5D3mv8ewCY",
+            "thumbnail": "https://i.ytimg.com/vi/h5D3mv8ewCY/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3m6_NDQjlltBq_RExmHJuZ4k3a3Kw",
+            "channel": "TED",
+            "duration": "18:04",
+            "platform": "YouTube",
+            "date": "3 weeks ago"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "COVID mRNA vaccines can be quickly updated for new variants. So, where's my Omicron booster?",
+            "link": "https://www.abc.net.au/news/science/2022-06-06/mrna-vaccines-covid-omicron-variant-booster-clinical-trials/101114566",
+            "source": "ABC",
+            "date": "23 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/ba6054344e9946ab5efe4ba006cb34b485db928c000cac51.jpeg"
+        },
+        {
+            "title": "The effect of BNT162b2 mRNA COVID-19 vaccine on human semen",
+            "link": "https://www.news-medical.net/news/20220603/The-effect-of-BNT162b2-mRNA-COVID-19-vaccine-on-human-semen.aspx",
+            "source": "News-Medical",
+            "date": "3 days ago",
+            "thumbnail": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/ba6054344e9946ab686b84fe0ec7206ad5fab09cd3d69310.jpeg"
+        },
+        {
+            "title": "BioNTech/Roche mRNA Therapy for Pancreatic Cancer Inspires Early Optimism",
+            "link": "https://www.biospace.com/article/biontech-has-favorable-phase-i-data-for-pancreatic-cancer/",
+            "source": "BioSpace",
+            "date": "3 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/ba6054344e9946abe43148b6c8a5fdc8928f9985441400eb.jpeg"
+        },
+        {
+            "title": "BioNTech/Roche's mRNA immunotherapy shows efficacy, response in pancreatic cancer trial",
+            "link": "https://seekingalpha.com/news/3845809-biontechroches-mrna-immunotherapy-shows-efficacy-response-in-pancreatic-cancer-trial",
+            "source": "Seeking Alpha",
+            "date": "7 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/ba6054344e9946abb509466be31462e51eac4e8712fb33e4.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=en&gl=us&q=mRNA&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Qt8YBegQIPRAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&tbm=nws",
+    "related_questions": [
+        {
+            "question": "How does the mRNA from the COVID-19 vaccine work?",
+            "snippet": "Messenger RNA is a type of RNA that is necessary for protein production. In cells, mRNA uses the information in genes to create a blueprint for making proteins. Once cells finish making a protein, they quickly break down the mRNA. mRNA from vaccines does not enter the nucleus and does not alter DNA.Feb 28, 2022",
+            "title": "What are mRNA vaccines and how do they work?",
+            "link": "https://medlineplus.gov/genetics/understanding/therapy/mrnavaccines/#:~:text=Messenger%20RNA%20is%20a%20type,does%20not%20alter%20DNA.",
+            "displayed_link": "https://medlineplus.gov › understanding › therapy › mrna..."
+        },
+        {
+            "question": "How long has the mRNA vaccine been around?",
+            "snippet": "mRNA vaccines have been studied before for flu, Zika, rabies, and cytomegalovirus (CMV). As soon as the necessary information about the virus that causes COVID-19 was available, scientists began designing the mRNA instructions for cells to build the unique spike protein into an mRNA vaccine.",
+            "title": "Understanding mRNA COVID-19 Vaccines | CDC",
+            "link": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html#:~:text=mRNA%20vaccines%20have%20been%20studied,into%20an%20mRNA%20vaccine.",
+            "displayed_link": "https://www.cdc.gov › vaccines › different-vaccines › mrna"
+        },
+        {
+            "question": "Will a COVID-19 vaccine alter my DNA?",
+            "snippet": "No. COVID-19 mRNA vaccines do not change or interact with your DNA in any way.",
+            "title": "Myths and Facts about COVID-19 Vaccines | CDC",
+            "link": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html#:~:text=No.%20COVID%2D19,DNA%20in%20any%20way.",
+            "displayed_link": "https://www.cdc.gov › coronavirus › 2019-ncov › facts"
+        },
+        {
+            "question": "Are mRNA COVID-19 vaccines safe?",
+            "snippet": "mRNA vaccines are safe and effective.mRNA vaccines have been held to the same rigorous safety and effectiveness standards as all other types of vaccines in the United States.",
+            "title": "Understanding mRNA COVID-19 Vaccines | CDC",
+            "link": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html#:~:text=mRNA%20vaccines%20are%20safe%20and,in%20the%20United%20States.",
+            "displayed_link": "https://www.cdc.gov › vaccines › different-vaccines › mrna"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Messenger RNA (mRNA) - National Human Genome ...",
+            "link": "https://www.genome.gov/genetics-glossary/messenger-rna",
+            "displayed_link": "https://www.genome.gov › genetics-glossary › messeng...",
+            "date": "3 days ago",
+            "snippet": "Messenger RNA (abbreviated mRNA) is a type of single-stranded RNA involved in protein synthesis. mRNA is made from a DNA template during the ...",
+            "snippet_highlighted_words": [
+                "Messenger RNA",
+                "mRNA",
+                "mRNA"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Transfer RNA (tRNA)",
+                        "link": "https://www.genome.gov/genetics-glossary/Transfer-RNA"
+                    },
+                    {
+                        "title": "Transcription",
+                        "link": "https://www.genome.gov/genetics-glossary/Transcription"
+                    },
+                    {
+                        "title": "Ribonucleic Acid (RNA)",
+                        "link": "https://www.genome.gov/genetics-glossary/RNA-Ribonucleic-Acid"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The National Human Genome Research Institute is an institute of the National Institutes of Health, located in Bethesda, Maryland.\nNHGRI began as the Office of Human Genome Research in The Office of the Director in 1988.",
+                    "icon": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/67601535c158750d3081ec2a315bba93ada4928607d6c6c69bb8b8f00a0c0644fecd548422486141d38ac0b8f03f8c21.png"
+                },
+                "keywords": [
+                    "mrna"
+                ],
+                "related_keywords": [
+                    "messenger rna"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.genome.gov/genetics-glossary/messenger-rna&tbm=ilp&ilps=ADNMCi2nMcosRcx6rNW4GfjyMyo_MXek8w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gW3m5Fhh4KQJ:https://www.genome.gov/genetics-glossary/messenger-rna+&cd=1&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Understanding mRNA COVID-19 Vaccines | CDC",
+            "link": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html",
+            "displayed_link": "https://www.cdc.gov › vaccines › different-vaccines",
+            "snippet": "Messenger RNA (mRNA) vaccines teach our cells how to make a protein that will trigger an immune response inside our bodies. Like all vaccines, mRNA vaccines ...",
+            "snippet_highlighted_words": [
+                "Messenger RNA",
+                "mRNA",
+                "mRNA"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Centers for Disease Control and Prevention is the national public health agency of the United States. It is a United States federal agency, under the Department of Health and Human Services, and is headquartered in Atlanta, Georgia.",
+                    "icon": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/67601535c158750d3081ec2a315bba93cd0bb6c9bdc62e0b19d6a50b320a49c112e65c3630767af78e2d2b3b3cff15db.png"
+                },
+                "keywords": [
+                    "mrna"
+                ],
+                "related_keywords": [
+                    "messenger rna"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html&tbm=ilp&ilps=ADNMCi37lkXUlT-NO7jM27dLsuzNmQi1qQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9iUYkBpj-wwJ:https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html+&cd=10&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Moderna: Pioneering mRNA technology",
+            "link": "https://www.modernatx.com/",
+            "displayed_link": "https://www.modernatx.com",
+            "snippet": "Messenger RNA (mRNA) already exists in your body. It carries a “message” - instructions that direct your cells what to do.",
+            "snippet_highlighted_words": [
+                "Messenger RNA",
+                "mRNA"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Messenger RNA (mRNA)",
+                        "link": "https://www.modernatx.com/power-of-mrna/science-of-mrna?"
+                    },
+                    {
+                        "title": "Careers",
+                        "link": "https://www.modernatx.com/careers/life-at-moderna?"
+                    },
+                    {
+                        "title": "mRNA vaccines",
+                        "link": "https://www.modernatx.com/research/product-pipeline?"
+                    },
+                    {
+                        "title": "Our Mission & Values",
+                        "link": "https://www.modernatx.com/about-us/our-mission"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Moderna, Inc., is an American pharmaceutical and biotechnology company based in Cambridge, Massachusetts that focuses on RNA therapeutics, primarily mRNA vaccines. These vaccines use a copy of a molecule called messenger RNA to produce an immune response.",
+                    "icon": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/67601535c158750d3081ec2a315bba939554dfe005c755b4f416077536ef7e0e93bd1d9165d13bd1913170485d039605.png"
+                },
+                "keywords": [
+                    "mrna"
+                ],
+                "related_keywords": [
+                    "messenger rna"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.modernatx.com/&tbm=ilp&ilps=ADNMCi1-xhL_70oWjrfzW_Of04wdQ-WsEw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:I79GLrcILgkJ:https://www.modernatx.com/+&cd=11&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.modernatx.com/+mRNA"
+        },
+        {
+            "position": 4,
+            "title": "Messenger RNA - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Messenger_RNA",
+            "displayed_link": "https://en.wikipedia.org › wiki › Messenger_RNA",
+            "snippet": "In molecular biology, messenger ribonucleic acid (mRNA) is a single-stranded molecule of RNA that corresponds to the genetic sequence of a gene, and is read ...",
+            "snippet_highlighted_words": [
+                "mRNA"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Eukaryotic pre-mRNA...",
+                        "link": "https://en.wikipedia.org/wiki/Messenger_RNA#Eukaryotic_pre-mRNA_processing"
+                    },
+                    {
+                        "title": "mRNA circularization",
+                        "link": "https://en.wikipedia.org/wiki/Messenger_RNA#mRNA_circularization"
+                    },
+                    {
+                        "title": "Eukaryotic mRNA turnover",
+                        "link": "https://en.wikipedia.org/wiki/Messenger_RNA#Eukaryotic_mRNA_turnover"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/67601535c158750d3081ec2a315bba93828e55abca27fc211c5f1452c75bbfcced2e542d2e0810246ba4aab6e5f7fc01.png"
+                },
+                "keywords": [
+                    "mrna"
+                ],
+                "related_keywords": [
+                    "messenger rna"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Messenger_RNA&tbm=ilp&ilps=ADNMCi3WdbyeyhaJW0apxzIuGhsSB-IvFA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IACh9oem2lMJ:https://en.wikipedia.org/wiki/Messenger_RNA+&cd=16&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://en.wikipedia.org/wiki/Messenger_RNA+mRNA"
+        },
+        {
+            "position": 5,
+            "title": "What are mRNA vaccines and how do they work? - MedlinePlus",
+            "link": "https://medlineplus.gov/genetics/understanding/therapy/mrnavaccines/",
+            "displayed_link": "https://medlineplus.gov › understanding › therapy › mr...",
+            "date": "Feb 28, 2022",
+            "snippet": "Messenger RNA is a type of RNA that is necessary for protein production. In cells, mRNA uses the information in genes to create a blueprint for ...",
+            "snippet_highlighted_words": [
+                "Messenger RNA",
+                "mRNA"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "MedlinePlus is an online information service produced by the United States National Library of Medicine. The service provides curated consumer health information in English and Spanish with select content in additional languages.",
+                    "icon": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/67601535c158750d3081ec2a315bba93a62005361ee6540c3d2f390a3c5871812b879f14791d83588eb0beb7f4a0eac9.png"
+                },
+                "keywords": [
+                    "mrna"
+                ],
+                "related_keywords": [
+                    "messenger rna"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://medlineplus.gov/genetics/understanding/therapy/mrnavaccines/&tbm=ilp&ilps=ADNMCi1i5gUGhVm9wswnJJrNweMi9bwR0w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZwboRr5Gj1oJ:https://medlineplus.gov/genetics/understanding/therapy/mrnavaccines/+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "mRNA vaccines — a new era in vaccinology - Nature",
+            "link": "https://www.nature.com/articles/nrd.2017.243",
+            "displayed_link": "https://www.nature.com › ... › review articles",
+            "snippet": "mRNA vaccines have elicited potent immunity against infectious disease targets in animal models of influenza virus, Zika virus, rabies virus ...",
+            "snippet_highlighted_words": [
+                "mRNA"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "by N Pardi",
+                        "2018",
+                        "Cited by 1920 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2018,
+                        "cited_by": 1920
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Nature is a British weekly scientific journal founded and based in London, England. As a multidisciplinary publication, Nature features peer-reviewed research from a variety of academic disciplines, mainly in science and technology.",
+                    "icon": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/67601535c158750d3081ec2a315bba93046ac4df9d791175d6a860074354f4978c37e080c20ef9d437be79dc6a365ae0.png"
+                },
+                "keywords": [
+                    "mrna"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nature.com/articles/nrd.2017.243&tbm=ilp&ilps=ADNMCi2o6913fmp3oEXcRczPAVecmy91xA"
+        },
+        {
+            "position": 7,
+            "title": "Moderna, Inc. (MRNA) Stock Price, News, Quote & History",
+            "link": "https://finance.yahoo.com/quote/MRNA/",
+            "displayed_link": "https://finance.yahoo.com › quote › MRNA",
+            "snippet": "Find the latest Moderna, Inc. (MRNA) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+            "snippet_highlighted_words": [
+                "MRNA"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Yahoo! Finance is a media property that is part of the Yahoo! network. It provides financial news, data and commentary including stock quotes, press releases, financial reports, and original content. It also offers some online tools for personal finance management.",
+                    "icon": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/67601535c158750d3081ec2a315bba933f6f85a235fd30925245f2ce95cf93c040fa359e6fcda9536fe7f0489c7f3fb1.png"
+                },
+                "keywords": [
+                    "mrna"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://finance.yahoo.com/quote/MRNA/&tbm=ilp&ilps=ADNMCi0KBzeNx2j4jM_z_rnXx2-tFIm4Pg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QV9p8peNjNAJ:https://finance.yahoo.com/quote/MRNA/+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "Messenger RNA - an overview | ScienceDirect Topics",
+            "link": "https://www.sciencedirect.com/topics/medicine-and-dentistry/messenger-rna",
+            "displayed_link": "https://www.sciencedirect.com › medicine-and-dentistry",
+            "snippet": "mRNA is “messenger” RNA. mRNA is synthesized in the nucleus using the nucleotide sequence of DNA as a template. This process requires nucleotide triphosphates ...",
+            "snippet_highlighted_words": [
+                "mRNA",
+                "messenger” RNA",
+                "mRNA"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "ScienceDirect is a website which provides access to a large bibliographic database of scientific and medical publications of the Dutch publisher Elsevier. It hosts over 18 million pieces of content from more than 4,000 academic journals and 30,000 e-books of this publisher.",
+                    "icon": "https://serpapi.com/searches/629e3db4af5af14447faa953/images/67601535c158750d3081ec2a315bba932cd88b706dc37933ca169174d80d154bea55d70a3a506cc61be35f58afc235a7.png"
+                },
+                "keywords": [
+                    "mrna"
+                ],
+                "related_keywords": [
+                    "messenger rna"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.sciencedirect.com/topics/medicine-and-dentistry/messenger-rna&tbm=ilp&ilps=ADNMCi1zqbKXEGlRCi3Oxe22WIhOCrlC1A"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "mrna function",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=mRNA+function&sa=X&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q1QJ6BAg2EAE"
+        },
+        {
+            "query": "mrna vaccine",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=mRNA+vaccine&sa=X&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q1QJ6BAg1EAE"
+        },
+        {
+            "query": "mrna wiki",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=mRNA+wiki&sa=X&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q1QJ6BAg0EAE"
+        },
+        {
+            "query": "mrna stands for",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=mRNA+stands+for&sa=X&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q1QJ6BAgzEAE"
+        },
+        {
+            "query": "mrna vaccine disadvantages",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=mRNA+vaccine+disadvantages&sa=X&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q1QJ6BAgrEAE"
+        },
+        {
+            "query": "mrna technology",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=mRNA+technology&sa=X&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q1QJ6BAgmEAE"
+        },
+        {
+            "query": "mrna vaccine history",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=mRNA+vaccine+history&sa=X&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q1QJ6BAglEAE"
+        },
+        {
+            "query": "is mrna safe",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Is+mRNA+safe&sa=X&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q1QJ6BAgkEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=mRNA&hl=en&gl=us&ei=tj2eYtT8L-fWptQP1tGA6Ao&start=10&sa=N&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q8NMDegQIAhBL",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=mRNA&hl=en&gl=us&ei=tj2eYtT8L-fWptQP1tGA6Ao&start=10&sa=N&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q8tMDegQIAhA5",
+            "3": "https://www.google.com/search?q=mRNA&hl=en&gl=us&ei=tj2eYtT8L-fWptQP1tGA6Ao&start=20&sa=N&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q8tMDegQIAhA7",
+            "4": "https://www.google.com/search?q=mRNA&hl=en&gl=us&ei=tj2eYtT8L-fWptQP1tGA6Ao&start=30&sa=N&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q8tMDegQIAhA9",
+            "5": "https://www.google.com/search?q=mRNA&hl=en&gl=us&ei=tj2eYtT8L-fWptQP1tGA6Ao&start=40&sa=N&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q8tMDegQIAhA_",
+            "6": "https://www.google.com/search?q=mRNA&hl=en&gl=us&ei=tj2eYtT8L-fWptQP1tGA6Ao&start=50&sa=N&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q8tMDegQIAhBB",
+            "7": "https://www.google.com/search?q=mRNA&hl=en&gl=us&ei=tj2eYtT8L-fWptQP1tGA6Ao&start=60&sa=N&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q8tMDegQIAhBD",
+            "8": "https://www.google.com/search?q=mRNA&hl=en&gl=us&ei=tj2eYtT8L-fWptQP1tGA6Ao&start=70&sa=N&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q8tMDegQIAhBF",
+            "9": "https://www.google.com/search?q=mRNA&hl=en&gl=us&ei=tj2eYtT8L-fWptQP1tGA6Ao&start=80&sa=N&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q8tMDegQIAhBH",
+            "10": "https://www.google.com/search?q=mRNA&hl=en&gl=us&ei=tj2eYtT8L-fWptQP1tGA6Ao&start=90&sa=N&ved=2ahUKEwjUr7mJsZn4AhVnq4kEHdYoAK0Q8tMDegQIAhBJ"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=mRNA&start=90"
+        }
+    }
+}

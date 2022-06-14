@@ -1,0 +1,285 @@
+{
+    "search_metadata": {
+        "id": "627cff1f37014cb429e51ba0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/55d26919f205679e/627cff1f37014cb429e51ba0.json",
+        "created_at": "2022-05-12 12:35:43 UTC",
+        "processed_at": "2022-05-12 12:35:43 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&oq=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&uule=w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=&hl=iw&gl=IL&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/55d26919f205679e/627cff1f37014cb429e51ba0.html",
+        "total_time_taken": 4.18
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "אנרגיה מתחדשת",
+        "uule": "w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "IL",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "אנרגיה מתחדשת",
+        "total_results": 341000,
+        "time_taken_displayed": 0.42
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&tbm=isch&source=iu&ictx=1&vet=1&fir=lvMhZEa7WEmoZM%252CsmCPo-CpH7HD2M%252C_%253BlVecpZf4JEa7TM%252C9Sop9CYzI43YYM%252C_%253B00zXLKy4GQ-w1M%252CqKu5vBCtX_hfQM%252C_%253BIXM5nqXOsT8NHM%252C6-x2LgtJ-L9vNM%252C_%253B5hXKOKWdhgkOuM%252CtjsWI5PI3z_t7M%252C_%253B13LtuVaGiFPlHM%252Cyn68uyIlqEf9pM%252C_%253Bce5ljB7ir6WkJM%252CbNxaJ7lxxXtL8M%252C_%253Byt-aJVDx3p_flM%252CqC92yPtr2rD-PM%252C_%253BXQDMjVOxcGOzXM%252CV7r7ez5dYbLyLM%252C_%253B49dPYFPg4DMeZM%252CWPYFSiM3DihxoM%252C_&usg=AI4_-kRPjbWf4ScFPIOV1MXbhuGYtSOqPA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ9QF6BAgoEAE#imgrc=lvMhZEa7WEmoZM",
+            "source": "https://www.ynet.co.il/articles/0,7340,L-5403226,00.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZ7gOFuPdqOuvBAEoPjoLURPri-ljXWFm0BgqrYbaww&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&tbm=isch&source=iu&ictx=1&vet=1&fir=lvMhZEa7WEmoZM%252CsmCPo-CpH7HD2M%252C_%253BlVecpZf4JEa7TM%252C9Sop9CYzI43YYM%252C_%253B00zXLKy4GQ-w1M%252CqKu5vBCtX_hfQM%252C_%253BIXM5nqXOsT8NHM%252C6-x2LgtJ-L9vNM%252C_%253B5hXKOKWdhgkOuM%252CtjsWI5PI3z_t7M%252C_%253B13LtuVaGiFPlHM%252Cyn68uyIlqEf9pM%252C_%253Bce5ljB7ir6WkJM%252CbNxaJ7lxxXtL8M%252C_%253Byt-aJVDx3p_flM%252CqC92yPtr2rD-PM%252C_%253BXQDMjVOxcGOzXM%252CV7r7ez5dYbLyLM%252C_%253B49dPYFPg4DMeZM%252CWPYFSiM3DihxoM%252C_&usg=AI4_-kRPjbWf4ScFPIOV1MXbhuGYtSOqPA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ9QF6BAg3EAE#imgrc=lVecpZf4JEa7TM",
+            "source": "https://www.tashtiot.co.il/2016/04/20/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94-%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA-230/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf06j8SXPwHEY8f9yCSmaWyiT-9Y6DgTXteRF1mCd7kw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&tbm=isch&source=iu&ictx=1&vet=1&fir=lvMhZEa7WEmoZM%252CsmCPo-CpH7HD2M%252C_%253BlVecpZf4JEa7TM%252C9Sop9CYzI43YYM%252C_%253B00zXLKy4GQ-w1M%252CqKu5vBCtX_hfQM%252C_%253BIXM5nqXOsT8NHM%252C6-x2LgtJ-L9vNM%252C_%253B5hXKOKWdhgkOuM%252CtjsWI5PI3z_t7M%252C_%253B13LtuVaGiFPlHM%252Cyn68uyIlqEf9pM%252C_%253Bce5ljB7ir6WkJM%252CbNxaJ7lxxXtL8M%252C_%253Byt-aJVDx3p_flM%252CqC92yPtr2rD-PM%252C_%253BXQDMjVOxcGOzXM%252CV7r7ez5dYbLyLM%252C_%253B49dPYFPg4DMeZM%252CWPYFSiM3DihxoM%252C_&usg=AI4_-kRPjbWf4ScFPIOV1MXbhuGYtSOqPA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ9QF6BAg_EAE#imgrc=00zXLKy4GQ-w1M",
+            "source": "https://environment.tau.ac.il/new/Armin_Sandhovel",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ80apq2qASlfjvBmrOEkCYj4Ew2jrgPoxlWw8dwGK83A&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&tbm=isch&source=iu&ictx=1&vet=1&fir=lvMhZEa7WEmoZM%252CsmCPo-CpH7HD2M%252C_%253BlVecpZf4JEa7TM%252C9Sop9CYzI43YYM%252C_%253B00zXLKy4GQ-w1M%252CqKu5vBCtX_hfQM%252C_%253BIXM5nqXOsT8NHM%252C6-x2LgtJ-L9vNM%252C_%253B5hXKOKWdhgkOuM%252CtjsWI5PI3z_t7M%252C_%253B13LtuVaGiFPlHM%252Cyn68uyIlqEf9pM%252C_%253Bce5ljB7ir6WkJM%252CbNxaJ7lxxXtL8M%252C_%253Byt-aJVDx3p_flM%252CqC92yPtr2rD-PM%252C_%253BXQDMjVOxcGOzXM%252CV7r7ez5dYbLyLM%252C_%253B49dPYFPg4DMeZM%252CWPYFSiM3DihxoM%252C_&usg=AI4_-kRPjbWf4ScFPIOV1MXbhuGYtSOqPA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ9QF6BAg2EAE#imgrc=IXM5nqXOsT8NHM",
+            "source": "https://skn.co.il/2021-%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94-%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77ZjUfcdC9iDEOFDH8RF-udM1kQIRuDJWLIB1qsDRgQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&tbm=isch&source=iu&ictx=1&vet=1&fir=lvMhZEa7WEmoZM%252CsmCPo-CpH7HD2M%252C_%253BlVecpZf4JEa7TM%252C9Sop9CYzI43YYM%252C_%253B00zXLKy4GQ-w1M%252CqKu5vBCtX_hfQM%252C_%253BIXM5nqXOsT8NHM%252C6-x2LgtJ-L9vNM%252C_%253B5hXKOKWdhgkOuM%252CtjsWI5PI3z_t7M%252C_%253B13LtuVaGiFPlHM%252Cyn68uyIlqEf9pM%252C_%253Bce5ljB7ir6WkJM%252CbNxaJ7lxxXtL8M%252C_%253Byt-aJVDx3p_flM%252CqC92yPtr2rD-PM%252C_%253BXQDMjVOxcGOzXM%252CV7r7ez5dYbLyLM%252C_%253B49dPYFPg4DMeZM%252CWPYFSiM3DihxoM%252C_&usg=AI4_-kRPjbWf4ScFPIOV1MXbhuGYtSOqPA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ9QF6BAg5EAE#imgrc=5hXKOKWdhgkOuM",
+            "source": "https://israel-trade.net/oecd/numbers/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94-%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOcb_8wdkbqoECHr8M9o4kqafzqZhQn1Vxl_FyQTpeYQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&tbm=isch&source=iu&ictx=1&vet=1&fir=lvMhZEa7WEmoZM%252CsmCPo-CpH7HD2M%252C_%253BlVecpZf4JEa7TM%252C9Sop9CYzI43YYM%252C_%253B00zXLKy4GQ-w1M%252CqKu5vBCtX_hfQM%252C_%253BIXM5nqXOsT8NHM%252C6-x2LgtJ-L9vNM%252C_%253B5hXKOKWdhgkOuM%252CtjsWI5PI3z_t7M%252C_%253B13LtuVaGiFPlHM%252Cyn68uyIlqEf9pM%252C_%253Bce5ljB7ir6WkJM%252CbNxaJ7lxxXtL8M%252C_%253Byt-aJVDx3p_flM%252CqC92yPtr2rD-PM%252C_%253BXQDMjVOxcGOzXM%252CV7r7ez5dYbLyLM%252C_%253B49dPYFPg4DMeZM%252CWPYFSiM3DihxoM%252C_&usg=AI4_-kRPjbWf4ScFPIOV1MXbhuGYtSOqPA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ9QF6BAg6EAE#imgrc=13LtuVaGiFPlHM",
+            "source": "https://www.msh.co.il/sector/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94-%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA-i-%D7%9E%D7%92%D7%93%D7%9C-%D7%A9%D7%95%D7%A7%D7%99-%D7%94%D7%95%D7%9F-%D7%91%D7%99%D7%AA-%D7%94%D7%A9%D7%A7%D7%A2%D7%95/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtDtppxBQnFiJl3cvya7T4t-kcs79d3oU0g85_7FP-Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&tbm=isch&source=iu&ictx=1&vet=1&fir=lvMhZEa7WEmoZM%252CsmCPo-CpH7HD2M%252C_%253BlVecpZf4JEa7TM%252C9Sop9CYzI43YYM%252C_%253B00zXLKy4GQ-w1M%252CqKu5vBCtX_hfQM%252C_%253BIXM5nqXOsT8NHM%252C6-x2LgtJ-L9vNM%252C_%253B5hXKOKWdhgkOuM%252CtjsWI5PI3z_t7M%252C_%253B13LtuVaGiFPlHM%252Cyn68uyIlqEf9pM%252C_%253Bce5ljB7ir6WkJM%252CbNxaJ7lxxXtL8M%252C_%253Byt-aJVDx3p_flM%252CqC92yPtr2rD-PM%252C_%253BXQDMjVOxcGOzXM%252CV7r7ez5dYbLyLM%252C_%253B49dPYFPg4DMeZM%252CWPYFSiM3DihxoM%252C_&usg=AI4_-kRPjbWf4ScFPIOV1MXbhuGYtSOqPA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ9QF6BAg1EAE#imgrc=ce5ljB7ir6WkJM",
+            "source": "https://www.hayadan.org.il/2702159-solar-and-wind-power-will-be-the-cheapest-forms-of-energy-in-the-future",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQqThM9joLWhW152uIHqhYkHwaR8PPacPhifcmD84ZAQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&tbm=isch&source=iu&ictx=1&vet=1&fir=lvMhZEa7WEmoZM%252CsmCPo-CpH7HD2M%252C_%253BlVecpZf4JEa7TM%252C9Sop9CYzI43YYM%252C_%253B00zXLKy4GQ-w1M%252CqKu5vBCtX_hfQM%252C_%253BIXM5nqXOsT8NHM%252C6-x2LgtJ-L9vNM%252C_%253B5hXKOKWdhgkOuM%252CtjsWI5PI3z_t7M%252C_%253B13LtuVaGiFPlHM%252Cyn68uyIlqEf9pM%252C_%253Bce5ljB7ir6WkJM%252CbNxaJ7lxxXtL8M%252C_%253Byt-aJVDx3p_flM%252CqC92yPtr2rD-PM%252C_%253BXQDMjVOxcGOzXM%252CV7r7ez5dYbLyLM%252C_%253B49dPYFPg4DMeZM%252CWPYFSiM3DihxoM%252C_&usg=AI4_-kRPjbWf4ScFPIOV1MXbhuGYtSOqPA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ9QF6BAg7EAE#imgrc=yt-aJVDx3p_flM",
+            "source": "https://www.youtube.com/watch?v=Ljuyf2EVHyk",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNUQC_8WIZuBmFOaDAX_q-L6FXBEtUhWBPiZmo41vpQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&tbm=isch&source=iu&ictx=1&vet=1&fir=lvMhZEa7WEmoZM%252CsmCPo-CpH7HD2M%252C_%253BlVecpZf4JEa7TM%252C9Sop9CYzI43YYM%252C_%253B00zXLKy4GQ-w1M%252CqKu5vBCtX_hfQM%252C_%253BIXM5nqXOsT8NHM%252C6-x2LgtJ-L9vNM%252C_%253B5hXKOKWdhgkOuM%252CtjsWI5PI3z_t7M%252C_%253B13LtuVaGiFPlHM%252Cyn68uyIlqEf9pM%252C_%253Bce5ljB7ir6WkJM%252CbNxaJ7lxxXtL8M%252C_%253Byt-aJVDx3p_flM%252CqC92yPtr2rD-PM%252C_%253BXQDMjVOxcGOzXM%252CV7r7ez5dYbLyLM%252C_%253B49dPYFPg4DMeZM%252CWPYFSiM3DihxoM%252C_&usg=AI4_-kRPjbWf4ScFPIOV1MXbhuGYtSOqPA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ9QF6BAg-EAE#imgrc=XQDMjVOxcGOzXM",
+            "source": "https://www.bizportal.co.il/capitalmarket/news/article/787064",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_jLkZOUdFk0loXUINyiZfFhcp4CRr9ZyvUTa5bYP0Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&tbm=isch&source=iu&ictx=1&vet=1&fir=lvMhZEa7WEmoZM%252CsmCPo-CpH7HD2M%252C_%253BlVecpZf4JEa7TM%252C9Sop9CYzI43YYM%252C_%253B00zXLKy4GQ-w1M%252CqKu5vBCtX_hfQM%252C_%253BIXM5nqXOsT8NHM%252C6-x2LgtJ-L9vNM%252C_%253B5hXKOKWdhgkOuM%252CtjsWI5PI3z_t7M%252C_%253B13LtuVaGiFPlHM%252Cyn68uyIlqEf9pM%252C_%253Bce5ljB7ir6WkJM%252CbNxaJ7lxxXtL8M%252C_%253Byt-aJVDx3p_flM%252CqC92yPtr2rD-PM%252C_%253BXQDMjVOxcGOzXM%252CV7r7ez5dYbLyLM%252C_%253B49dPYFPg4DMeZM%252CWPYFSiM3DihxoM%252C_&usg=AI4_-kRPjbWf4ScFPIOV1MXbhuGYtSOqPA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ9QF6BAg9EAE#imgrc=49dPYFPg4DMeZM",
+            "source": "https://www.calcalist.co.il/world_news/article/ByRbedWD00",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Kv6aNtAHzTQhrahUjfs0i6ftl7luGVjuFAlLYQEe7w&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Renewable energy - אנרגיות מתחדשות",
+            "link": "https://www.youtube.com/watch?v=Ljuyf2EVHyk",
+            "thumbnail": "https://serpapi.com/searches/627cff1f37014cb429e51ba0/images/69cd0800245399f33caf1997143f6fe534964a894ccc948be369016e846afd4b.jpeg",
+            "channel": "משרד האנרגיה",
+            "duration": "1:00",
+            "platform": "YouTube",
+            "date": "20 ביולי 2014"
+        },
+        {
+            "position": 2,
+            "title": "אנרגיה מתחדשת בכל בית",
+            "link": "https://www.youtube.com/watch?v=VJUj9ZtAEX0",
+            "thumbnail": "https://serpapi.com/searches/627cff1f37014cb429e51ba0/images/69cd0800245399f3cc49104badcb4d13644584dfffa5de0a5fa9c9f39fbaa38e.jpeg",
+            "channel": "זווית - מחברים אותך למדע ולסביבה",
+            "duration": "1:22",
+            "platform": "YouTube",
+            "date": "30 באוג׳ 2021"
+        },
+        {
+            "position": 3,
+            "title": "איך עוברים ל100% אנרגיות מתחדשות?",
+            "link": "https://www.youtube.com/watch?v=lxIztw8k6do",
+            "thumbnail": "https://serpapi.com/searches/627cff1f37014cb429e51ba0/images/69cd0800245399f351efd09accbdaef05d0ac5bc49ecb69b98372cae04bf9090.jpeg",
+            "channel": "גרינפיס ישראל",
+            "duration": "2:07",
+            "platform": "YouTube",
+            "date": "27 בדצמ׳ 2016"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "אנרגיה מתחדשת - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94_%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA",
+            "displayed_link": "https://he.wikipedia.org › wiki › אנרגיה_מתחדשת",
+            "snippet": "אנרגיה מתחדשת היא אנרגיה שמקורה בתהליכים טבעיים מתמשכים, שאינם מתכלים כתוצאה מרתימת האנרגיה האצורה בהם. מקורות אנרגיה מתחדשים נבדלים ממקורות אנרגיה כגון דלק ...",
+            "snippet_highlighted_words": [
+                "אנרגיה מתחדשת",
+                "אנרגיה",
+                "האנרגיה",
+                "אנרגיה מתחדשים",
+                "אנרגיה"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "אנרגיה מתחדשת - גלובס",
+            "link": "https://www.globes.co.il/news/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94_%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA.tag",
+            "displayed_link": "https://www.globes.co.il › אנרגיה מתחדשת",
+            "snippet": "נופר מתרחבת ברומניה: נכנסת לפרויקט בהספק של 169 מגוואט · ברנמילר וצים לוקחים את האנרגיה המתחדשת שלהם לנאסד\"ק · הדרך לאנרגיות מתחדשות עוברת בסין. · מגדל, מנורה ...",
+            "snippet_highlighted_words": [
+                "האנרגיה",
+                "מתחדשות"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "איגוד חברות אנרגיה ירוקה לישראל",
+            "link": "http://greenrg.org.il/",
+            "displayed_link": "http://greenrg.org.il",
+            "snippet": "ייצור חשמל ממקורות מתחדשים ושינוי עולם האנרגיה הנם מן האתגרים הגדולים של דורנו ... ענפי האנרגיה הירוקה: אנרגיה מתחדשת, התייעלות וניהול חשמל ותחבורה חשמלית.",
+            "snippet_highlighted_words": [
+                "מתחדשים",
+                "האנרגיה",
+                "האנרגיה",
+                "אנרגיה מתחדשת"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "אנרגיות מתחדשות | רשות החשמל - GOV",
+            "link": "https://www.gov.il/he/departments/topics/renewable-energy/govil-landing-page",
+            "displayed_link": "https://www.gov.il › topics › govil-landing-page",
+            "snippet": "בקרוב יוכלו צרכנים לרכוש אנרגיה ישירות ממתקני ייצור באנרגיות מתחדשות וממתקני ... 1 לקביעת תעריף הגנה לייצור חשמל מאנרגיה מתחדשת במתקנים המחוברים לרשת ההולכה ...",
+            "snippet_highlighted_words": [
+                "אנרגיה",
+                "מתחדשות",
+                "מאנרגיה מתחדשת"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "חדשות, עדכונים ומידע אודות אנרגיה מתחדשת | כלכליסט",
+            "link": "https://www.calcalist.co.il/home/0,7340,L-3704-2448,00.html",
+            "displayed_link": "https://www.calcalist.co.il › home",
+            "snippet": "אנרגיה מתחדשת - מחפשים מידע אודות אנרגיה מתחדשת? כל המידע, הכתבות, החדשות והפרשנויות אודות אנרגיה מתחדשת באתר כלכליסט, אצלכם בנייד!",
+            "snippet_highlighted_words": [
+                "אנרגיה מתחדשת",
+                "אנרגיה מתחדשת",
+                "אנרגיה מתחדשת"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "מהי אנרגיה מתחדשת? - סולארי",
+            "link": "https://www.solari.co.il/%D7%9E%D7%94%D7%99-%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94-%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA/",
+            "displayed_link": "https://www.solari.co.il › שווה קריאה",
+            "snippet": "אנרגיה לא מתחדשת, או מתכלה, כוללת דלקים מאובנים כמו נפט, גז ופחם. מקורות אנרגיה מתכלים זמינים רק בכמויות מוגבלות ולוקח זמן לחדש אותם. כשאנו ממלאים דלק בתחנת ...",
+            "snippet_highlighted_words": [
+                "אנרגיה",
+                "מתחדשת",
+                "אנרגיה"
+            ],
+            "related_questions": [
+                {
+                    "question": "האם קבוצת סולארי עוסקת בחשמל סולארי?",
+                    "snippet": "לא. למרות השם שבהחלט יכול להביא למסקנה זו, כיום קבוצת סולארי לא עוסקת כלל בחשמל ממקורות סולאריים, אבל השם נשאר איתנו למרות שעברנו כבר לפני שנים לעולם המרתק והחשוב של פתרונות חכמים ויעילים אנרגטית של חימום מים פרטי ומוסדי, מערכות חימום וקירור אוויר ושאר היבטי התייעלות אנרגטית."
+                },
+                {
+                    "question": "האם משאבת חום מנצלת אנרגיה מתחדשת?",
+                    "snippet": "כל משאבת חום פועלת על בסיס אספקת חשמל, כך שהיא בהחלט יכולה לפעול על בסיס מקור של אנרגיה מתחדשת, כולל מערכות פוטו-וולטאיות מתאימות. אבל זה לא הכרח ועל פי רוב משאבות החום שלנו מחוברות לאספקת החשמל הראשית, המגיעה מחברת חשמל כמובן."
+                }
+            ]
+        },
+        {
+            "position": 7,
+            "title": "אנרגיה מתחדשת בישראל - רקע וסוגיות לדיון - אתר הכנסת",
+            "link": "https://m.knesset.gov.il/activity/info/research/pages/incident.aspx?rid=6858",
+            "displayed_link": "https://m.knesset.gov.il › research › pages › incident",
+            "snippet": "מרכז המחקר והמידע - אנרגיה מתחדשת בישראל - רקע וסוגיות לדיון. ... דיון בוועדת הכלכלה של הכנסת בנושא דיווח מנכ\"ל משרד האנרגיה על ייצור חשמל מאנרגיה מתחדשת, ...",
+            "snippet_highlighted_words": [
+                "אנרגיה מתחדשת",
+                "האנרגיה",
+                "מאנרגיה מתחדשת"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "אנרגיות מתחדשות - Ynet",
+            "link": "https://www.ynet.co.il/tags/0,7340,L-8167-2655,00.html",
+            "displayed_link": "https://www.ynet.co.il › tags",
+            "snippet": "אנרגיות מתחדשות - מגוון כתבות אודות אנרגיות מתחדשות באתר ynet. כנסו וקראו על כל הנושאים שהכי מעניינים אתכם. חדשות חמות, עדכונים ומבזקים.",
+            "snippet_highlighted_words": [
+                "אנרגיות מתחדשות",
+                "אנרגיות מתחדשות"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "אנרגיה מתחדשת חברות",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA+%D7%97%D7%91%D7%A8%D7%95%D7%AA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "אנרגיה מתחדשת יתרונות וחסרונות",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA+%D7%99%D7%AA%D7%A8%D7%95%D7%A0%D7%95%D7%AA+%D7%95%D7%97%D7%A1%D7%A8%D7%95%D7%A0%D7%95%D7%AA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ1QJ6BAguEAE"
+        },
+        {
+            "query": "חברות אנרגיה מתחדשת בבורסה",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%97%D7%91%D7%A8%D7%95%D7%AA+%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA+%D7%91%D7%91%D7%95%D7%A8%D7%A1%D7%94&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "אנרגיה חלופית",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%97%D7%9C%D7%95%D7%A4%D7%99%D7%AA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "אנרגיה מתחדשת בעולם",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA+%D7%91%D7%A2%D7%95%D7%9C%D7%9D&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ1QJ6BAglEAE"
+        },
+        {
+            "query": "אנרגיה מתחדשת ויקיפדיה",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA+%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "אנרגיה מתחדשת פירוש",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA+%D7%A4%D7%99%D7%A8%D7%95%D7%A9&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "שיטות להפקת אנרגיה מתחדשת",
+            "link": "https://www.google.com/search?hl=iw&gl=IL&q=%D7%A9%D7%99%D7%98%D7%95%D7%AA+%D7%9C%D7%94%D7%A4%D7%A7%D7%AA+%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&sa=X&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ1QJ6BAghEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&ei=Iv98YomjN8KKggekrImoBg&start=10&sa=N&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&ei=Iv98YomjN8KKggekrImoBg&start=10&sa=N&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&ei=Iv98YomjN8KKggekrImoBg&start=20&sa=N&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&ei=Iv98YomjN8KKggekrImoBg&start=30&sa=N&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&ei=Iv98YomjN8KKggekrImoBg&start=40&sa=N&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&ei=Iv98YomjN8KKggekrImoBg&start=50&sa=N&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&ei=Iv98YomjN8KKggekrImoBg&start=60&sa=N&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&ei=Iv98YomjN8KKggekrImoBg&start=70&sa=N&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&ei=Iv98YomjN8KKggekrImoBg&start=80&sa=N&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&hl=iw&gl=IL&ei=Iv98YomjN8KKggekrImoBg&start=90&sa=N&ved=2ahUKEwiJvMng_Nn3AhVCheAKHSRWAmUQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=20&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=30&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=40&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=50&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=60&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=70&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=80&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94+%D7%9E%D7%AA%D7%97%D7%93%D7%A9%D7%AA&start=90&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D"
+        }
+    }
+}

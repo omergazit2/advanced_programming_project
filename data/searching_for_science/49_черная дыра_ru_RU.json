@@ -1,0 +1,408 @@
+{
+    "search_metadata": {
+        "id": "629e3de04d443d8936284d70",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/eda99e8d0018503a/629e3de04d443d8936284d70.json",
+        "created_at": "2022-06-06 17:48:16 UTC",
+        "processed_at": "2022-06-06 17:48:16 UTC",
+        "google_url": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&oq=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/eda99e8d0018503a/629e3de04d443d8936284d70.html",
+        "total_time_taken": 1.21
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "черная дыра",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "черная дыра",
+        "total_results": 3570000,
+        "time_taken_displayed": 0.56
+    },
+    "knowledge_graph": {
+        "title": "Чёрная дыра",
+        "header_images": [
+            {
+                "source": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%B4%D1%8B%D1%80%D0%B0"
+            },
+            {
+                "source": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%B4%D1%8B%D1%80%D0%B0"
+            },
+            {
+                "source": "https://naked-science.ru/article/top/chernyh-dyr-pyatnica"
+            },
+            {
+                "source": "https://naked-science.ru/article/nakedscience/viza-v-chernuyu-dyru"
+            },
+            {
+                "source": "https://indicator.ru/label/chernaya-dyra"
+            }
+        ],
+        "description": "Чёрная дыра́ — область пространства-времени, гравитационное притяжение которой настолько велико, что покинуть её не могут даже объекты, движущиеся со скоростью света, в том числе кванты самого света. Граница этой области называется горизонтом событий.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%B4%D1%8B%D1%80%D0%B0"
+        },
+        "Похожие_запросы": [
+            {
+                "name": "Квазар",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9A%D0%B2%D0%B0%D0%B7%D0%B0%D1%80&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZ5UD4-GWjHjFkF1XJ8J-h7hjgftbUhe0lzv9q0e7l8CdHvtKQGxLiSWGLa3CRBxhyFubkptcEGRX7XyYjT45o1xvIgeGILmUNEPMDcXJSFjS0B57vzlAjdYsxPWDJPRU_xklrwQ3dbTMKiBAORXavus5p-05SnqQV6KkRPIIeeUTmIuRSR4lesDC0UaOPL8XCWyvbmqfgDxHOB1Ji23-et-QTao1d6h1Ugac2fYLPkrfM25EeRMlDp7z4TDy7UajD9NidQ%3D&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQxA16BAhwEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9A%D0%B2%D0%B0%D0%B7%D0%B0%D1%80&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZ5UD4-GWjHjFkF1XJ8J-h7hjgftbUhe0lzv9q0e7l8CdHvtKQGxLiSWGLa3CRBxhyFubkptcEGRX7XyYjT45o1xvIgeGILmUNEPMDcXJSFjS0B57vzlAjdYsxPWDJPRU_xklrwQ3dbTMKiBAORXavus5p-05SnqQV6KkRPIIeeUTmIuRSR4lesDC0UaOPL8XCWyvbmqfgDxHOB1Ji23-et-QTao1d6h1Ugac2fYLPkrfM25EeRMlDp7z4TDy7UajD9NidQ%3D",
+                "image": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/c6114544a66eb3e375c85e6c04a0999bf59fbb4a1e72c4170a37de05abdd207e5b9b0473fc2b7d14fd5e8bc3135649ed158826f37311908c.jpeg"
+            },
+            {
+                "name": "Белый карлик",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%91%D0%B5%D0%BB%D1%8B%D0%B9+%D0%BA%D0%B0%D1%80%D0%BB%D0%B8%D0%BA&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQLORs4t6TpT6HHXH_9FiuWfFu1oKrJbY-5QPCpcMUxFSc8vSwgX2zVNqlvQKAKhFx2DQdl8C_gczxp6M-5PMkkprpNUs60wP73M5IZkk0sA0i4A8ouuw3WCZusSSHQ-ACL4Jk2RUEY3Tv2yyB1SL3ZBMKh0KlLiSu0aCtJii_p-RKy4oMt49yOhuOen6FyWniDJEbSsm2KgogASX4AVdm5Yro_B0U4Lv7It2hxQkSeVm-6imAW9CGSRHe1KP0fO_4nhQwI%3D&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQxA16BAhwEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%91%D0%B5%D0%BB%D1%8B%D0%B9+%D0%BA%D0%B0%D1%80%D0%BB%D0%B8%D0%BA&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQLORs4t6TpT6HHXH_9FiuWfFu1oKrJbY-5QPCpcMUxFSc8vSwgX2zVNqlvQKAKhFx2DQdl8C_gczxp6M-5PMkkprpNUs60wP73M5IZkk0sA0i4A8ouuw3WCZusSSHQ-ACL4Jk2RUEY3Tv2yyB1SL3ZBMKh0KlLiSu0aCtJii_p-RKy4oMt49yOhuOen6FyWniDJEbSsm2KgogASX4AVdm5Yro_B0U4Lv7It2hxQkSeVm-6imAW9CGSRHe1KP0fO_4nhQwI%3D",
+                "image": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/c6114544a66eb3e375c85e6c04a0999bf59fbb4a1e72c4170a37de05abdd207e5b9b0473fc2b7d14d3a030a38c7285c4cfb9c48d8d4cd973.jpeg"
+            },
+            {
+                "name": "Галактика",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%93%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbkVfJAbZrYZlMZUmbe1FHMYW-IZZ1HgqhM_3b393MBPhZlmWOaxuLjRY7liy6l4JojGsqcYvc8cdQJGb5fCICRkNAp_BQiv0fxMGDzo3-SiQfoEZGjvF-_MG2fjlNiBd4WR5Y50YEtXzTH-6VCGX4-wjeemgCIvnl0n8NnLAusFUELbJOoqRT_TyIE5KEBzTTTuZKVKF_fgba-OjR2FdM0BEqCBlR6WTjYpelKrBjZlzezbYA6oowQkSrNgRMNB4zr27FY%3D&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQxA16BAhwEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%93%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbkVfJAbZrYZlMZUmbe1FHMYW-IZZ1HgqhM_3b393MBPhZlmWOaxuLjRY7liy6l4JojGsqcYvc8cdQJGb5fCICRkNAp_BQiv0fxMGDzo3-SiQfoEZGjvF-_MG2fjlNiBd4WR5Y50YEtXzTH-6VCGX4-wjeemgCIvnl0n8NnLAusFUELbJOoqRT_TyIE5KEBzTTTuZKVKF_fgba-OjR2FdM0BEqCBlR6WTjYpelKrBjZlzezbYA6oowQkSrNgRMNB4zr27FY%3D",
+                "image": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/c6114544a66eb3e375c85e6c04a0999bf59fbb4a1e72c4170a37de05abdd207e5b9b0473fc2b7d1447ad485cb386182410c3373a590c8689.jpeg"
+            },
+            {
+                "name": "Туманность",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A2%D1%83%D0%BC%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUEOF9PzpE2_mjlcsQYEVETBbzfC4osOd2wRZS2hzZ0dEH5HkbDBjhFVlh9yIZZIpW7Qk_vb3_SNhEUVqGujYDXF_WhhlOpj4Jyt3LWB_yPruM4QKq94KPiQJt7c_PiTUjQLSEu35CEbVSTbAfAP9gEMsQTZkltH-TH2GG6tn0QwQui6d3odGTXyjmhUXK7-QuQYCozjZ9Yq5KZ9AJKHfQ47lOlvuFaZRncxujj4m_aGL77bel1mVjm_D4O7vLctOmCs0eQ%3D&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQxA16BAhwEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D1%83%D0%BC%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUEOF9PzpE2_mjlcsQYEVETBbzfC4osOd2wRZS2hzZ0dEH5HkbDBjhFVlh9yIZZIpW7Qk_vb3_SNhEUVqGujYDXF_WhhlOpj4Jyt3LWB_yPruM4QKq94KPiQJt7c_PiTUjQLSEu35CEbVSTbAfAP9gEMsQTZkltH-TH2GG6tn0QwQui6d3odGTXyjmhUXK7-QuQYCozjZ9Yq5KZ9AJKHfQ47lOlvuFaZRncxujj4m_aGL77bel1mVjm_D4O7vLctOmCs0eQ%3D",
+                "image": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/c6114544a66eb3e375c85e6c04a0999bf59fbb4a1e72c4170a37de05abdd207e5b9b0473fc2b7d14a1f4bb3bb58042b367bc2a7f34c6f17b.jpeg"
+            }
+        ],
+        "Похожие_запросы_link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&stick=H4sIAAAAAAAAAONgFuLQz9U3MMwwLFaCs7QEgzNTUssTK4v9UitKgktSC4oXsYpeWH5x4sWGC3svbLjYr3Bhy8VuIGfDDlZGABMS4VpEAAAA&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQMSgAegQIcBAB",
+        "Похожие_запросы_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMwwLFaCs7QEgzNTUssTK4v9UitKgktSC4oXsYpeWH5x4sWGC3svbLjYr3Bhy8VuIGfDDlZGABMS4VpEAAAA",
+        "Возможно_вы_искали": [
+            {
+                "name": "Чёрная дыра",
+                "extensions": [
+                    "Фильм, 2000"
+                ],
+                "image": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/c6114544a66eb3e375c85e6c04a0999b852b2f984095d0de33d3681819cad82ecc1d6e9a77d835a97af22089be2be7478f1d6920f63265ce5bb18e214dd718cb.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Чёрная дыра в центре нашей галактики [Veritasium]",
+            "link": "https://www.youtube.com/watch?v=rUj3yXBlLIk",
+            "thumbnail": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/28442ee91c6bf992030d27b0d030f9855c965d8e46cb24befb33fd40d5f52bd3.jpeg",
+            "channel": "Vert Dider",
+            "duration": "18:34",
+            "platform": "YouTube",
+            "date": "3 недели назад"
+        },
+        {
+            "position": 2,
+            "title": "Черные дыры | Космические убийцы | Discovery",
+            "link": "https://www.youtube.com/watch?v=4_muMnYZabw",
+            "thumbnail": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/28442ee91c6bf992d5fb7b03cac7835ed146d158b353043ccd045264665eddb0.jpeg",
+            "channel": "Discovery Channel Россия",
+            "duration": "44:03",
+            "platform": "YouTube",
+            "date": "7 февр. 2022 г."
+        },
+        {
+            "position": 3,
+            "title": "Черная дыра, сломавшая науку",
+            "link": "https://www.youtube.com/watch?v=3iB2jWZXuEE",
+            "thumbnail": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/28442ee91c6bf99202cb1c40835e1eb1ed850580094004c69ba5bc09dc2f2285.jpeg",
+            "channel": "AdMe",
+            "duration": "10:01",
+            "platform": "YouTube",
+            "date": "27 авг. 2019 г."
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Что происходит с человеком когда он попадает в черную дыру?",
+            "snippet": "В тот момент, когда вы попадете в черную дыру, реальность разделится надвое. В одной реальности вас мгновенно испепелит, в другой же - вы нырнете вглубь черной дыры живым и невредимым. Внутри черной дыры не действуют привычные нам законы физики. Согласно Альберту Эйнштейну, гравитация искривляет пространство.6 июл. 2015 г.",
+            "title": "Что с вами произойдет внутри черной дыры? - BBC",
+            "link": "https://www.bbc.com/russian/science/2015/07/150706_vert_ear_black_hole_clones_you",
+            "displayed_link": "https://www.bbc.com › russian › science › 2015/07 › 150..."
+        },
+        {
+            "question": "Что может быть внутри черной дыры?",
+            "snippet": "Понять, что происходит внутри черной дыры, невероятно сложно, поскольку ни заглянуть в нее, ни получить оттуда хоть какую-нибудь информацию невозможно. Даже увидеть ее нельзя! На той самой единственной фотографии видно лишь аккреционный диск: гигантское облако из раскаленного газа, вращающегося вокруг черной дыры.19 февр. 2021 г.",
+            "title": "Астрофизики нашли способ безопасно проникнуть в черную ...",
+            "link": "https://www.m24.ru/articles/nauka/19022021/157732",
+            "displayed_link": "https://www.m24.ru › articles › nauka"
+        },
+        {
+            "question": "Сколько лет живут черные дыры?",
+            "snippet": "Чёрная дыра, масса которой равна массе Солнца, исчезнет примерно через 10^67 лет. Крупные чёрные дыры испарятся примерно через 10^100 лет - это больше, чем возраст нашей Вселенной.11 сент. 2018 г.",
+            "title": "«Сколько живет черная дыра?» — Яндекс Кью",
+            "link": "https://yandex.ru/q/question/skolko_zhivet_chernaia_dyra_05aca001/",
+            "displayed_link": "https://yandex.ru › question"
+        },
+        {
+            "question": "Что будет если встретятся две черные дыры?",
+            "snippet": "«Ничто так не может влиять на черную дыру, кроме как другая черная дыра», — объясняют ученые. По их словам, в итоге столкновения произойдет сверхмасштабный выброс энергии, эквивалентный взрыву ста миллионов сверхновых, который может полностью уничтожить эту галактику.8 янв. 2015 г.",
+            "title": "Две черные дыры столкнутся - Научная Россия",
+            "link": "https://scientificrussia.ru/articles/dve-chernye-dyry-stolknutsia",
+            "displayed_link": "https://scientificrussia.ru › dve-chernye-dyry-stolknutsia"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Чёрная дыра - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%B4%D1%8B%D1%80%D0%B0",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Чёрная_дыра",
+            "thumbnail": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/bd6e0105ea97a7933a1d6c129e11d550b7afe5820909767acff10344bb0a22e3.jpeg",
+            "snippet": "Чёрная дыра́ — область пространства-времени, гравитационное притяжение которой настолько велико, что покинуть её не могут даже объекты, движущиеся со ...",
+            "snippet_highlighted_words": [
+                "Чёрная дыра́"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Планковская чёрная дыра",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%B4%D1%8B%D1%80%D0%B0"
+                    },
+                    {
+                        "title": "Белая дыра",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D0%B4%D1%8B%D1%80%D0%B0"
+                    },
+                    {
+                        "title": "Звёздной массы",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%B4%D1%8B%D1%80%D0%B0_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%81%D1%81%D1%8B"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "Характеристика ЧД: Без вращения",
+                        "Заряженная: Решение Рейснера — Нордст...",
+                        "Без заряда: Решение Шварцшильда"
+                    ]
+                }
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Сверхмассивная чёрная дыра - Википедия",
+                    "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%B4%D1%8B%D1%80%D0%B0",
+                    "displayed_link": "https://ru.wikipedia.org › wiki › Сверхмассивная_чёрн...",
+                    "snippet": "Сверхмасси́вная чёрная дыра́ — чёрная дыра с массой 105—1011 масс Солнца. Сверхмассивные чёрные дыры обнаружены в центре многих галактик, включая Млечный ...",
+                    "snippet_highlighted_words": [
+                        "чёрная дыра́",
+                        "чёрная дыра"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Черные дыры: фото, факты, комментарии ученых - РБК ...",
+            "link": "https://trends.rbc.ru/trends/futurology/60741be59a79470547496e3b",
+            "displayed_link": "https://trends.rbc.ru › РБК Тренды › Футурология",
+            "thumbnail": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/bd6e0105ea97a7933a1d6c129e11d550aba11058e570ce44e92cdbf3e12037c5.jpeg",
+            "date": "20 апр. 2021 г.",
+            "snippet": "Черная дыра — это экстремальный способ воздействия на пространство — когда в одном месте собрали так много вещества или энергии, что ...",
+            "snippet_highlighted_words": [
+                "Черная дыра"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Чёрная дыра — смотреть онлайн - Кинопоиск",
+            "link": "https://www.kinopoisk.ru/film/785/",
+            "displayed_link": "https://www.kinopoisk.ru › film",
+            "thumbnail": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/bd6e0105ea97a7933a1d6c129e11d550a05915574b72e503441cbb843ff693df.jpeg",
+            "snippet": "Чёрная дыра (1999). Pitch Black16+. Космический корабль терпит крушение на планете, полной кровожадных существ. Сай-фай-боевик с Вином Дизелем.",
+            "snippet_highlighted_words": [
+                "Чёрная дыра"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "янв_г": 1,
+                        "Рейтинг": 7.6,
+                        "голос": 101
+                    },
+                    "extensions": [
+                        "1 янв. 1999 г.",
+                        "Рейтинг: 7,6/10",
+                        "‎101 731 голос"
+                    ]
+                },
+                "bottom": {
+                    "detected_extensions": {
+                        "Год_производства": 1999,
+                        "рейтинг_mpaa_rлицам_до_лет_обязатель": 17,
+                        "Премьера_в_мире_февраля": 18,
+                        "price": 35,
+                        "currency": "Сборы в США $ сборы",
+                        "Премьера_в_мире_декабря": 18
+                    },
+                    "extensions": [
+                        "Год производства: 1999",
+                        "Рейтинг MPAA: Rлицам до 17 лет обязатель...",
+                        "Премьера в мире: 18 февраля 2000,...",
+                        "Сборы в США: $39 240 659",
+                        "Премьера в мире: 18 декабря 1979,...‎",
+                        "Режиссер: Гэри Нельсон",
+                        "Рейтинг MPAA: PGрекомендуется присутств...",
+                        "Сборы в США: $35 841 901сборы‎"
+                    ]
+                }
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Черная дыра (1979) - Кинопоиск",
+                    "link": "https://www.kinopoisk.ru/film/4099/",
+                    "displayed_link": "https://www.kinopoisk.ru › film",
+                    "thumbnail": "https://serpapi.com/searches/629e3de04d443d8936284d70/images/bd6e0105ea97a7933a1d6c129e11d55022f78a4b4d83aa88cde70d0f2bbc865b271da94af821cdc64c276b938c37e979.jpeg",
+                    "snippet": "Черная дыра (1979). The Black Hole16+. Астронавты попадают на корабль безумного ученого. Сюрреалистичная винтажная фантастика с Энтони Перкинсом.",
+                    "snippet_highlighted_words": [
+                        "Черная дыра"
+                    ],
+                    "rich_snippet": {
+                        "top": {
+                            "detected_extensions": {
+                                "Рейтинг": 6,
+                                "голос": 1
+                            },
+                            "extensions": [
+                                "Рейтинг: 6/10",
+                                "‎1 081 голос"
+                            ]
+                        },
+                        "bottom": {
+                            "detected_extensions": {
+                                "Премьера_в_мире_декабря": 18,
+                                "price": 35,
+                                "currency": "Сборы в США $ сборы"
+                            },
+                            "extensions": [
+                                "Премьера в мире: 18 декабря 1979,...‎",
+                                "Режиссер: Гэри Нельсон",
+                                "Рейтинг MPAA: PGрекомендуется присутств...",
+                                "Сборы в США: $35 841 901сборы‎"
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Черная дыра — все статьи и новости - Indicator.Ru",
+            "link": "https://indicator.ru/label/chernaya-dyra",
+            "displayed_link": "https://indicator.ru › label › chernaya-dyra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNm7voDRTS-geT9-3YtELzthSq4DHQBPUT9RCFpSe6O0MTJ9TfO7M&usqp=CAE&s",
+            "snippet": "Черная дыра — область пространства-времени с настолько сильным гравитационным полем, что ничто, включая свет, не может ее покинуть.",
+            "snippet_highlighted_words": [
+                "Черная дыра"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "черная дыра - последние новости сегодня",
+            "link": "https://ria.ru/keyword_chernaja_dyra/",
+            "displayed_link": "https://ria.ru › keyword_chernaja_dyra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Ml0iCa7-O2-dQhImjPrYIDrQNTZdYZ6ED6QYTSA2c0E2j9QV9VEk&usqp=CAE&s",
+            "snippet": "черная дыра. Читайте последние новости на тему в ленте новостей на сайте РИА Новости. Ученые коллаборации \"Телескопа горизонта событий\" сообщили, ...",
+            "snippet_highlighted_words": [
+                "черная дыра"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Монстр в центре галактики. Ученые впервые показали ...",
+            "link": "https://www.bbc.com/russian/news-61428787",
+            "displayed_link": "https://www.bbc.com › russian › news-61428787",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyN94qPntALGGhRQrBQh08Pb4g-ZbhG9tQozl3stJUva41I-yNOFl&usqp=CAE&s",
+            "date": "12 мая 2022 г.",
+            "snippet": "Астрономы впервые опубликовали фото гигантской черной дыры в центре ... (центральная депрессия яркости), где и обитает эта черная дыра.",
+            "snippet_highlighted_words": [
+                "черной дыры",
+                "черная дыра"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Там дыра - N+1",
+            "link": "https://nplus1.ru/material/2022/05/13/blackholeshadow",
+            "displayed_link": "https://nplus1.ru › 2022/05/13 › blackholeshadow",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf3RoVqDKhxs0EmjPOjDN75kpxwPGwPtwh-jEsXToQagr5SZQSFrg5&usqp=CAE&s",
+            "date": "13 мая 2022 г.",
+            "snippet": "Чем отличаются сверхмассивные черные дыры в M87 и Млечном Пути? Сверхмассивная черная дыра, которую EHT продемонстрировал в 2019 году, — гигант, ...",
+            "snippet_highlighted_words": [
+                "черная дыра"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "черная дыра что внутри",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A7%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0+%D1%87%D1%82%D0%BE+%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ1QJ6BAhdEAE"
+        },
+        {
+            "query": "что будет, если попасть в черную дыру",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A7%D1%82%D0%BE+%D0%B1%D1%83%D0%B4%D0%B5%D1%82,+%D0%B5%D1%81%D0%BB%D0%B8+%D0%BF%D0%BE%D0%BF%D0%B0%D1%81%D1%82%D1%8C+%D0%B2+%D1%87%D0%B5%D1%80%D0%BD%D1%83%D1%8E+%D0%B4%D1%8B%D1%80%D1%83&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ1QJ6BAheEAE"
+        },
+        {
+            "query": "черная дыра реальные фото",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A7%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0+%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D1%84%D0%BE%D1%82%D0%BE&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ1QJ6BAhcEAE"
+        },
+        {
+            "query": "черная дыра фото",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A7%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0+%D1%84%D0%BE%D1%82%D0%BE&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ1QJ6BAhaEAE"
+        },
+        {
+            "query": "черная дыра простыми словами",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A7%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0+%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8+%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ1QJ6BAhbEAE"
+        },
+        {
+            "query": "черная дыра'' на английском",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A7%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0%27%27+%D0%BD%D0%B0+%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ1QJ6BAhZEAE"
+        },
+        {
+            "query": "черная дыра видео",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A7%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0+%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ1QJ6BAhXEAE"
+        },
+        {
+            "query": "самая большая чёрная дыра",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A1%D0%B0%D0%BC%D0%B0%D1%8F+%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F+%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&sa=X&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ1QJ6BAhWEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&gl=ru&hl=ru&ei=4T2eYuj5Eo_cqtsPtuGPmA8&start=10&sa=N&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&gl=ru&hl=ru&ei=4T2eYuj5Eo_cqtsPtuGPmA8&start=10&sa=N&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&gl=ru&hl=ru&ei=4T2eYuj5Eo_cqtsPtuGPmA8&start=20&sa=N&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&gl=ru&hl=ru&ei=4T2eYuj5Eo_cqtsPtuGPmA8&start=30&sa=N&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&gl=ru&hl=ru&ei=4T2eYuj5Eo_cqtsPtuGPmA8&start=40&sa=N&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&gl=ru&hl=ru&ei=4T2eYuj5Eo_cqtsPtuGPmA8&start=50&sa=N&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&gl=ru&hl=ru&ei=4T2eYuj5Eo_cqtsPtuGPmA8&start=60&sa=N&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&gl=ru&hl=ru&ei=4T2eYuj5Eo_cqtsPtuGPmA8&start=70&sa=N&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&gl=ru&hl=ru&ei=4T2eYuj5Eo_cqtsPtuGPmA8&start=80&sa=N&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&gl=ru&hl=ru&ei=4T2eYuj5Eo_cqtsPtuGPmA8&start=90&sa=N&ved=2ahUKEwio7tydsZn4AhUPrmoFHbbwA_MQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F+%D0%B4%D1%8B%D1%80%D0%B0&start=90"
+        }
+    }
+}

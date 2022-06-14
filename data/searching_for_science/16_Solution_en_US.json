@@ -1,0 +1,510 @@
+{
+    "search_metadata": {
+        "id": "629e3d024b91eb070cecdb6a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d43b36b02d041803/629e3d024b91eb070cecdb6a.json",
+        "created_at": "2022-06-06 17:44:34 UTC",
+        "processed_at": "2022-06-06 17:44:34 UTC",
+        "google_url": "https://www.google.com/search?q=Solution&oq=Solution&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d43b36b02d041803/629e3d024b91eb070cecdb6a.html",
+        "total_time_taken": 2.39
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Solution",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Solution",
+        "total_results": 5050000000,
+        "time_taken_displayed": 0.66
+    },
+    "knowledge_graph": {
+        "title": "Solution",
+        "cite_name": "Solution Definition & Meaning - Merriam-Webster",
+        "cite_link": "https://www.merriam-webster.com/dictionary/solution",
+        "description": "In chemistry, a solution is a special type of homogeneous mixture composed of two or more substances. In such a mixture, a solute is a substance dissolved in another substance, known as a solvent.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Solution_(chemistry)"
+        },
+        "people_also_search_for": [
+            {
+                "name": "Colloid",
+                "link": "https://www.google.com/search?gl=us&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdboEYV4oEU21_eRm7Il3Lqe9L33VUtqKQOHjIpUCvOxRm1s6ZJmJZKpDO7oOR-ni95ckzdyu3KtgjT5IztLjyikK_flnQCH2Y_Ov90W_9MgZzIZHtipB8WglrftJnFLKEpyEbWzCqXH2mFU5_VBkhYeYwgGXWuw6uO90MnCRTTc65fN99f5mX98bfvhPmjslAFCI70E4B3eDeSGp1NqEz7yVjr_GzsbAoEGrOaktPwbZLQ2sKA%3D%3D&q=Colloid&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Qs9oBKAB6BAhkEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Colloid&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdboEYV4oEU21_eRm7Il3Lqe9L33VUtqKQOHjIpUCvOxRm1s6ZJmJZKpDO7oOR-ni95ckzdyu3KtgjT5IztLjyikK_flnQCH2Y_Ov90W_9MgZzIZHtipB8WglrftJnFLKEpyEbWzCqXH2mFU5_VBkhYeYwgGXWuw6uO90MnCRTTc65fN99f5mX98bfvhPmjslAFCI70E4B3eDeSGp1NqEz7yVjr_GzsbAoEGrOaktPwbZLQ2sKA%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/c458aa34f947847df4a0fcce5c6fda269e820f8324aef0752d7e6b4dfdb1b577af7c3813b196ab0dba050aac47ff4538.jpeg"
+            },
+            {
+                "name": "Chemistry",
+                "link": "https://www.google.com/search?gl=us&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeijlfprwUNAwBQdHkYBRmW6wEPIym68zALmn59C3zNnZRREynhFZJxkOQ7V8Q8jtn11JQGxyNjqjVE8yFytEy3JhvN2msF_3isoeczJCDlFHd2YrOhmhOUOvojSOBbWOproOAkHfMHt4NFvEWGUtp69IAlLr1bYFkBI0Jw1g51RFTPIH9UgNRMIxlG1WuKKdMY0MbZwlucDmxom2rdS5JJ0rJCL20dskgZ4uK-O0Vo01T-hzhCHCnphENkvFISQuQ8t1Xs%3D&q=Chemistry&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Qs9oBKAF6BAhkEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Chemistry&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeijlfprwUNAwBQdHkYBRmW6wEPIym68zALmn59C3zNnZRREynhFZJxkOQ7V8Q8jtn11JQGxyNjqjVE8yFytEy3JhvN2msF_3isoeczJCDlFHd2YrOhmhOUOvojSOBbWOproOAkHfMHt4NFvEWGUtp69IAlLr1bYFkBI0Jw1g51RFTPIH9UgNRMIxlG1WuKKdMY0MbZwlucDmxom2rdS5JJ0rJCL20dskgZ4uK-O0Vo01T-hzhCHCnphENkvFISQuQ8t1Xs%3D",
+                "image": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/c458aa34f947847df4a0fcce5c6fda269e820f8324aef0752d7e6b4dfdb1b577bd2e5a430517137092c0a4350e3b7e61.jpeg"
+            },
+            {
+                "name": "Science",
+                "link": "https://www.google.com/search?gl=us&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZt681Tjs-W2e2tugLpnHrhBBxi0D8UJQ25DcICQLGQBtq9Wq3URbYUyAzGxnytRJaN-4OlClIyk-N-89DhadMcgLU3pw82tp-lDiTOv0kdfRl5ZEKTVhlC-8gMafNUZKklmIQMgi02C5y5xx2l96zYFioETWJYpKfseOws9LNvN5fg24W-SCznbMUBTjtidMAuM4QDvinC7WQ5me7zxlwFf0pfijCqu2D7Ii06Z9iYH0wya8g%3D%3D&q=Science&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Qs9oBKAJ6BAhkEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Science&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZt681Tjs-W2e2tugLpnHrhBBxi0D8UJQ25DcICQLGQBtq9Wq3URbYUyAzGxnytRJaN-4OlClIyk-N-89DhadMcgLU3pw82tp-lDiTOv0kdfRl5ZEKTVhlC-8gMafNUZKklmIQMgi02C5y5xx2l96zYFioETWJYpKfseOws9LNvN5fg24W-SCznbMUBTjtidMAuM4QDvinC7WQ5me7zxlwFf0pfijCqu2D7Ii06Z9iYH0wya8g%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/c458aa34f947847df4a0fcce5c6fda269e820f8324aef0752d7e6b4dfdb1b57732bcab1bd65bc29de68996edcead6263.jpeg"
+            },
+            {
+                "name": "Chemical substance",
+                "link": "https://www.google.com/search?gl=us&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVs7w91EzZexdyNzHE3GvkM2Xjh7nmsAIPl0NrSkx4XIOPdLDcz2ySATZbU_CRQgptVYwmZ6BaMgEwEsgVQNofZbavGmImi_1iLQLz7hpsXmKSppP5DGPUpzjN8pImn9RPjHslKZbJIQvKuDac51SEFnuwr3xSljS1OPrBfb7TgcBzAfRfuorvQ4jghrz93yzAab64E5qKL7l45U2_SjUfBd05x4BfiwUyYCdNv5htysF3IfZNjBCBjjS5UwcZUCUTEmDdI%3D&q=Chemical+substance&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Qs9oBKAN6BAhkEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Chemical+substance&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVs7w91EzZexdyNzHE3GvkM2Xjh7nmsAIPl0NrSkx4XIOPdLDcz2ySATZbU_CRQgptVYwmZ6BaMgEwEsgVQNofZbavGmImi_1iLQLz7hpsXmKSppP5DGPUpzjN8pImn9RPjHslKZbJIQvKuDac51SEFnuwr3xSljS1OPrBfb7TgcBzAfRfuorvQ4jghrz93yzAab64E5qKL7l45U2_SjUfBd05x4BfiwUyYCdNv5htysF3IfZNjBCBjjS5UwcZUCUTEmDdI%3D",
+                "image": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/c458aa34f947847df4a0fcce5c6fda269e820f8324aef0752d7e6b4dfdb1b57736ceaca83c8a4aca68ee1fe6e982f78b.jpeg"
+            }
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?gl=us&hl=en&q=Solution&stick=H4sIAAAAAAAAAONgFuLQz9U3MDfOMVaCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWLlCM7PKS3JzM_bwcp4i02SwfRjK9NzcXd5xYbz5jO3dHSVZ6qo_F95OgQAlFYZ2GwAAAA&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q4qYDegQIZBAG",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MDfOMVaCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWLlCM7PKS3JzM_bwcp4i02SwfRjK9NzcXd5xYbz5jO3dHSVZ6qo_F95OgQAlFYZ2GwAAAA"
+    },
+    "top_stories": [
+        {
+            "title": "Man sparks debate with reaction to his wife’s ‘unfair’ vacation rule: ‘There’s no real solution here’",
+            "link": "https://www.intheknow.com/post/aita-reddit-wife-vacation-rule/",
+            "source": "In The Know",
+            "date": "2 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT25i7N7saMl2vAiL0ktho7MwAXq3c6oTBi3OxbLd1QT5n5Sxm7YfXGsIU&usqp=CAI&s"
+        },
+        {
+            "title": "Can't lose weight by eating less? Scientists say this may be the solution",
+            "link": "https://news.yahoo.com/cant-lose-weight-eating-less-100456379.html",
+            "source": "Yahoo News",
+            "date": "7 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKA-BoeUoNdmxRjcjsSHWElgam_7WD2KrKs9cdydg&usqp=CAI&s"
+        },
+        {
+            "title": "Nadal admits 'I can't keep going like this' but looking for solution",
+            "link": "https://sports.yahoo.com/nadal-admits-cant-keep-going-175453853.html",
+            "source": "Yahoo! Sports",
+            "date": "23 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhjvfgXfna-pqd6ML2N-xfBgFVNx54aGAMDQOplC9Nab1GQN4bvwX4YI&usqp=CAI&s"
+        },
+        {
+            "title": "Analysis | Solution to Evan Birnholz's June 5 crossword, “Color Separation”",
+            "link": "https://www.washingtonpost.com/magazine/2022/06/05/solution-evan-birnholzs-june-5-crossword-color-separation/",
+            "source": "The Washington Post",
+            "date": "1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUcDUUW3XWF0BCrLdt7gl9DfIaICxQwgxtZn1wv8&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=us&hl=en&q=Solution&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Qt8YBegQIWhAC",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&tbm=nws",
+    "related_questions": [
+        {
+            "question": "What is a simple definition of solution?",
+            "snippet": "A solution is a homogeneous mixture of one or more solutes dissolved in a solvent. solvent: the substance in which a solute dissolves to produce a homogeneous mixture. solute: the substance that dissolves in a solvent to produce a homogeneous mixture.",
+            "title": "What Is a Solution?",
+            "link": "https://www.chem.purdue.edu/gchelp/solutions/whatis.html",
+            "displayed_link": "https://www.chem.purdue.edu › gchelp › solutions › w..."
+        },
+        {
+            "question": "Which is an example of a solution?",
+            "snippet": "Some examples of solutions are salt water, rubbing alcohol, and sugar dissolved in water. When you look closely, upon mixing salt with water, you can't see the salt particles anymore, making this a homogeneous mixture.Sep 28, 2021",
+            "title": "What is a Solution in Science? - Definition & Examples - Study.com",
+            "link": "https://study.com/academy/lesson/what-is-a-solution-in-science-definition-examples.html",
+            "displayed_link": "https://study.com › academy › lesson › what-is-a-solution-..."
+        },
+        {
+            "question": "What is a solution to a problem?",
+            "snippet": "A solution to a problem or difficult situation is a way of dealing with it so that the difficulty is removed. Although he has sought to find a peaceful solution, he is facing pressure to use greater military force. Synonyms: answer, resolution, key, result More Synonyms of solution. countable noun.",
+            "title": "Solution definition and meaning | Collins English Dictionary",
+            "link": "https://www.collinsdictionary.com/us/dictionary/english/solution",
+            "displayed_link": "https://www.collinsdictionary.com › dictionary › solution"
+        },
+        {
+            "question": "What are 4 types of solutions?",
+            "title": "Examples of solutions",
+            "link": "https://www.vedantu.com/chemistry/types-of-solutions",
+            "displayed_link": "https://www.vedantu.com › chemistry › types-of-solutions"
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "so·lu·tion",
+        "word_type": "noun",
+        "definitions": [
+            "a means of solving a problem or dealing with a difficult situation.",
+            "a liquid mixture in which the minor component (the solute) is uniformly distributed within the major component (the solvent)."
+        ],
+        "extras": [
+            "mixture",
+            "mix",
+            "blend",
+            "compound",
+            "suspension",
+            "tincture",
+            "infusion",
+            "emulsion",
+            "colloid",
+            "gel",
+            "fluid",
+            "aerosol"
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Solution Definition & Meaning - Merriam-Webster",
+            "link": "https://www.merriam-webster.com/dictionary/solution",
+            "displayed_link": "https://www.merriam-webster.com › dictionary › solution",
+            "snippet": ": an action or process of solving a problem ; b : an answer to a problem : explanation specifically : a set of values of the variables that satisfies an equation.",
+            "about_this_result": {
+                "source": {
+                    "description": "Merriam-Webster, Inc. is an American company that publishes reference books and is especially known for its dictionaries. It is the oldest dictionary publisher in the United States.\nIn 1831, George and Charles Merriam founded the company as G & C Merriam Co. in Springfield, Massachusetts.",
+                    "icon": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/b1e4e8b24afd188833808a273670e609f3c39afc2426cef1ac4de5e07f85e960d982011c3a749543587b90d20b60feef.png"
+                },
+                "keywords": [
+                    "solution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.merriam-webster.com/dictionary/solution&tbm=ilp&ilps=ADNMCi09nMdylOV1mNQTDQCAwuU4VQucUQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uVIilRpaFNsJ:https://www.merriam-webster.com/dictionary/solution+&cd=12&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.merriam-webster.com/dictionary/solution+Solution"
+        },
+        {
+            "position": 2,
+            "title": "solution | Definition & Examples - Encyclopedia Britannica",
+            "link": "https://www.britannica.com/science/solution-chemistry",
+            "displayed_link": "https://www.britannica.com › ... › Earth Sciences",
+            "snippet": "solution, in chemistry, a homogenous mixture of two or more substances in relative amounts that can be varied continuously up to what is called the limit of ...",
+            "snippet_highlighted_words": [
+                "solution"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/b1e4e8b24afd188833808a273670e609c976235c8ce5bc472c90258cba37e3d1d27fd3451574ca8ec385ce6cf0b55223.png"
+                },
+                "keywords": [
+                    "solution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/solution-chemistry&tbm=ilp&ilps=ADNMCi1zMv9gQPYlWISBhgMHjiPMOJFqsg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uyH73h7aYA4J:https://www.britannica.com/science/solution-chemistry+&cd=13&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.britannica.com/science/solution-chemistry+Solution"
+        },
+        {
+            "position": 3,
+            "title": "Solution Definition & Meaning - Dictionary.com",
+            "link": "https://www.dictionary.com/browse/solution",
+            "displayed_link": "https://www.dictionary.com › browse › solution",
+            "snippet": "Chemistry A mixture in which particles of one or more substances (the solute) are distributed uniformly throughout another substance (the solvent), so that the ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Dictionary.com is an online dictionary whose domain was first registered on May 14, 1995. The primary content on Dictionary.com is a proprietary dictionary based on Random House Unabridged Dictionary, with editors for the site providing new and updated definitions.",
+                    "icon": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/b1e4e8b24afd188833808a273670e60919775984fe4aaae9f45fcab3896aa566b4fc5c4ad94e1cba2c7c1c70120fc961.png"
+                },
+                "keywords": [
+                    "solution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.dictionary.com/browse/solution&tbm=ilp&ilps=ADNMCi2zI7DFnZU0oHKAEaEHCNUlhaOQFA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_7IDaE7VDKoJ:https://www.dictionary.com/browse/solution+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Solution - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Solution",
+            "displayed_link": "https://en.wikipedia.org › wiki › Solution",
+            "snippet": "Solution (chemistry), a mixture where one substance is dissolved in another · Solution (equation), in mathematics. Numerical solution, in numerical analysis, ...",
+            "snippet_highlighted_words": [
+                "Solution",
+                "Solution",
+                "solution"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/b1e4e8b24afd188833808a273670e609671a57bbb4562d159f6bb751594a7d1f135576309e1654c4d738f204cd7704f9.png"
+                },
+                "keywords": [
+                    "solution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Solution&tbm=ilp&ilps=ADNMCi1cqe-zaDQ3aia1HX3rchHMguXd_Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xjTImjSDJKUJ:https://en.wikipedia.org/wiki/Solution+&cd=15&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://en.wikipedia.org/wiki/Solution+Solution"
+        },
+        {
+            "position": 5,
+            "title": "40 Synonyms & Antonyms for SOLUTION - Thesaurus.com",
+            "link": "https://www.thesaurus.com/browse/solution",
+            "displayed_link": "https://www.thesaurus.com › browse › solution",
+            "snippet": "solution · nounanswer, resolution · nounmixture of liquid and another substance ...",
+            "snippet_highlighted_words": [
+                "solution"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Solutions",
+                        "link": "https://www.thesaurus.com/browse/solutions"
+                    },
+                    {
+                        "title": "Quick fix",
+                        "link": "https://www.thesaurus.com/browse/quick%20fix"
+                    },
+                    {
+                        "title": "Elucidation",
+                        "link": "https://www.thesaurus.com/browse/elucidation"
+                    },
+                    {
+                        "title": "Solving",
+                        "link": "https://www.thesaurus.com/browse/solving"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "thesaurus.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/b1e4e8b24afd188833808a273670e609a9aed9686710bdedf855a37b3863c0e2fa8fddfe97bc9dc1a44c1dce4417c700.png"
+                },
+                "keywords": [
+                    "solution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.thesaurus.com/browse/solution&tbm=ilp&ilps=ADNMCi04chtyhd3p15IIH-RKxbYGjmzKpg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KucZmBKmPMsJ:https://www.thesaurus.com/browse/solution+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "SOLUTION | definition in the Cambridge English Dictionary",
+            "link": "https://dictionary.cambridge.org/us/dictionary/english/solution",
+            "displayed_link": "https://dictionary.cambridge.org › dictionary › solution",
+            "date": "5 days ago",
+            "snippet": "an answer to a problem: It seemed a reasonable solution to a difficult problem. solution noun ...",
+            "snippet_highlighted_words": [
+                "solution",
+                "solution"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Cambridge Advanced Learner's Dictionary was first published in 1995 under the name Cambridge International Dictionary of English, by the Cambridge University Press. The dictionary has over 140,000 words, phrases, and meanings. It is suitable for learners at CEF levels B2-C2.",
+                    "icon": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/b1e4e8b24afd188833808a273670e609fb098d527799679bf5f8cac63355e41edcf6e5139e088260bf8dce5a0bb45490.png"
+                },
+                "keywords": [
+                    "solution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://dictionary.cambridge.org/us/dictionary/english/solution&tbm=ilp&ilps=ADNMCi1p62uhS9LBy2R7kO2vsuU-F4ZLhw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IFutuTqv8dQJ:https://dictionary.cambridge.org/us/dictionary/english/solution+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "What Is a Solution?",
+            "link": "https://www.chem.purdue.edu/gchelp/solutions/whatis.html",
+            "displayed_link": "https://www.chem.purdue.edu › gchelp › solutions › w...",
+            "snippet": "A solution is a homogeneous mixture of one or more solutes dissolved in a solvent. solvent: the substance in which a solute dissolves to produce a homogeneous ...",
+            "snippet_highlighted_words": [
+                "solution"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Purdue University is a public land-grant research university in West Lafayette, Indiana, and the flagship campus of the Purdue University system. The university was founded in 1869 after Lafayette businessman John Purdue donated land and money to establish a college of science, technology, and agriculture in his name.",
+                    "icon": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/b1e4e8b24afd188833808a273670e6098c3696dacbfec84409253ffcf3c10e41bec551f806d60c96042db525c1324b04.png"
+                },
+                "keywords": [
+                    "solution"
+                ],
+                "related_keywords": [
+                    "solutions"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.chem.purdue.edu/gchelp/solutions/whatis.html&tbm=ilp&ilps=ADNMCi26QkJCwoAYw8rddCzBkND9vMFOrQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:s7_bEMXi-7IJ:https://www.chem.purdue.edu/gchelp/solutions/whatis.html+&cd=18&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.chem.purdue.edu/gchelp/solutions/whatis.html+Solution"
+        },
+        {
+            "position": 8,
+            "title": "Solution - Definition, Meaning & Synonyms - Vocabulary.com",
+            "link": "https://www.vocabulary.com/dictionary/solution",
+            "displayed_link": "https://www.vocabulary.com › dictionary › solution",
+            "snippet": "A solution is all about solving or dissolving. If you find an answer to a question, both the answer and how you got there is the solution.",
+            "snippet_highlighted_words": [
+                "solution",
+                "solution"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "vocabulary.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/b1e4e8b24afd188833808a273670e609408ba02141aaeae8a459a625ec9c74764d8e0f47223ec1ee4fec7a3eaafe403a.png"
+                },
+                "keywords": [
+                    "solution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.vocabulary.com/dictionary/solution&tbm=ilp&ilps=ADNMCi3-wxNjRAmfcBvdEqswCnzWvNa9pA",
+            "cached_page_link": "/search?gl=us&hl=en&q=related:https://www.vocabulary.com/dictionary/solution+Solution"
+        },
+        {
+            "position": 9,
+            "title": "Solution Definition in Chemistry - ThoughtCo",
+            "link": "https://www.thoughtco.com/definition-of-solution-604650",
+            "displayed_link": "https://www.thoughtco.com › Chemistry › Chemical Laws",
+            "date": "May 7, 2019",
+            "snippet": "A solution consists of a solute and a solvent. The solute is the substance that is dissolved in the solvent. The amount of solute that can ...",
+            "snippet_highlighted_words": [
+                "solution"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "thoughtco.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/b1e4e8b24afd188833808a273670e6094540d76576e6da0dc700edd988f95e6cbd7c08fb3de9fcf1b2c0b5e03e1fae08.png"
+                },
+                "keywords": [
+                    "solution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.thoughtco.com/definition-of-solution-604650&tbm=ilp&ilps=ADNMCi0BtaNd8WDnJoE3tXrDNxdysgKZxA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7gUZcqGcmd0J:https://www.thoughtco.com/definition-of-solution-604650+&cd=24&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.thoughtco.com/definition-of-solution-604650+Solution"
+        },
+        {
+            "position": 10,
+            "title": "Best 25 Definitions of Solution - YourDictionary",
+            "link": "https://www.yourdictionary.com/solution",
+            "displayed_link": "https://www.yourdictionary.com › solution",
+            "snippet": "(chemistry) A mixture in which particles of one or more substances (the solute) are distributed uniformly throughout another substance (the solvent), so that ...",
+            "about_this_result": {
+                "source": {
+                    "description": "yourdictionary.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d024b91eb070cecdb6a/images/b1e4e8b24afd188833808a273670e60976a25002b1fd8b569e82246f77153e3b9138915261a1d78c6d3760b767b547a3.png"
+                },
+                "keywords": [
+                    "solution"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.yourdictionary.com/solution&tbm=ilp&ilps=ADNMCi2u31oMLqBiigHFmwUURJ-RqspMRA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gwDwuGLYIgAJ:https://www.yourdictionary.com/solution+&cd=25&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "solution synonym",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Solution+synonym&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q1QJ6BAhVEAE"
+        },
+        {
+            "query": "solution in science",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Solution+in+Science&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q1QJ6BAhQEAE"
+        },
+        {
+            "query": "how to pronounce solution",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=How+to+pronounce+solution&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q1QJ6BAhMEAE"
+        },
+        {
+            "query": "solution meaning in english",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Solution+meaning+in+English&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q1QJ6BAhIEAE"
+        },
+        {
+            "query": "solution in math",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Solution+in+math&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q1QJ6BAhHEAE"
+        },
+        {
+            "query": "solution mixture",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Solution+mixture&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q1QJ6BAhDEAE"
+        },
+        {
+            "query": "solution definition math",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Solution+definition+math&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q1QJ6BAg_EAE"
+        },
+        {
+            "query": "what is water solution",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=What+is+water+solution&sa=X&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q1QJ6BAg7EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Solution&gl=us&hl=en&ei=BD2eYsicBKuvggeYs5n4Cw&start=10&sa=N&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q8NMDegQIAhBN",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Solution&gl=us&hl=en&ei=BD2eYsicBKuvggeYs5n4Cw&start=10&sa=N&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q8tMDegQIAhA7",
+            "3": "https://www.google.com/search?q=Solution&gl=us&hl=en&ei=BD2eYsicBKuvggeYs5n4Cw&start=20&sa=N&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q8tMDegQIAhA9",
+            "4": "https://www.google.com/search?q=Solution&gl=us&hl=en&ei=BD2eYsicBKuvggeYs5n4Cw&start=30&sa=N&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q8tMDegQIAhA_",
+            "5": "https://www.google.com/search?q=Solution&gl=us&hl=en&ei=BD2eYsicBKuvggeYs5n4Cw&start=40&sa=N&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q8tMDegQIAhBB",
+            "6": "https://www.google.com/search?q=Solution&gl=us&hl=en&ei=BD2eYsicBKuvggeYs5n4Cw&start=50&sa=N&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q8tMDegQIAhBD",
+            "7": "https://www.google.com/search?q=Solution&gl=us&hl=en&ei=BD2eYsicBKuvggeYs5n4Cw&start=60&sa=N&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q8tMDegQIAhBF",
+            "8": "https://www.google.com/search?q=Solution&gl=us&hl=en&ei=BD2eYsicBKuvggeYs5n4Cw&start=70&sa=N&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q8tMDegQIAhBH",
+            "9": "https://www.google.com/search?q=Solution&gl=us&hl=en&ei=BD2eYsicBKuvggeYs5n4Cw&start=80&sa=N&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q8tMDegQIAhBJ",
+            "10": "https://www.google.com/search?q=Solution&gl=us&hl=en&ei=BD2eYsicBKuvggeYs5n4Cw&start=90&sa=N&ved=2ahUKEwjIrp20sJn4AhWrl-AKHZhZBr8Q8tMDegQIAhBL"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Solution&start=90"
+        }
+    }
+}

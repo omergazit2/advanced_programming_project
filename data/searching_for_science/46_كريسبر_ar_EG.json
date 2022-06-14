@@ -1,0 +1,302 @@
+{
+    "search_metadata": {
+        "id": "629e3d19dc02f19d2475bbe5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/19f4c276c1f1978b/629e3d19dc02f19d2475bbe5.json",
+        "created_at": "2022-06-06 17:44:57 UTC",
+        "processed_at": "2022-06-06 17:44:57 UTC",
+        "google_url": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&oq=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/19f4c276c1f1978b/629e3d19dc02f19d2475bbe5.html",
+        "total_time_taken": 1.55
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "كريسبر",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "كريسبر",
+        "total_results": 66900,
+        "time_taken_displayed": 0.42
+    },
+    "knowledge_graph": {
+        "title": "كريسبر",
+        "header_images": [
+            {
+                "source": "https://arabicedition.nature.com/journal/2017/02/541280a"
+            },
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1"
+            },
+            {
+                "source": "https://www.scientificamerican.com/arabic/articles/news/crispr-cas9-does-making-superman-become-possible/"
+            },
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1"
+            },
+            {
+                "source": "https://www.ibelieveinsci.com/%D8%B9%D8%B4%D8%B1%D8%A9-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A1-%D9%85%D8%B0%D9%87%D9%84%D8%A9-%D8%AD%D9%82%D9%82%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D8%A8%D8%AA%D9%82%D9%86%D9%8A%D8%A9/"
+            }
+        ],
+        "description": "كريسبر أو التكرارات العنقودية المتناظرة القصيرة منتظمة التباعد ‏ هي نوع تسلسلات دنا توجد في بدائيات النوى كالبكتيريا والبكتيريا القديمة، فيها فواصل مقتطعة من بقايا الحمض النووي للفيروسات التي سبق أن هاجمت الكائن بدائي النواة.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "كيفية عمل تقنية كريسبر للتعديل الوراثي",
+            "link": "https://www.youtube.com/watch?v=5HnWfCcmqys",
+            "thumbnail": "https://serpapi.com/searches/629e3d19dc02f19d2475bbe5/images/09372ab180189d83a609aff0cec6b22bdebcecd9b895225738b860694e7d068a.jpeg",
+            "channel": "مرصد المستقبل",
+            "duration": "3:04",
+            "platform": "YouTube",
+            "date": "24‏/03‏/2019"
+        },
+        {
+            "position": 2,
+            "title": "كريسبر كاس 9: مقص جيني يفوز بجائزة نوبل للكيمياء..رغم ...",
+            "link": "https://www.youtube.com/watch?v=rL734mUk6lg",
+            "thumbnail": "https://serpapi.com/searches/629e3d19dc02f19d2475bbe5/images/09372ab180189d83eaa340533f6df1ff2879a42e6f16131390db153d2b84a8eb.jpeg",
+            "channel": "فرانس 24 / FRANCE 24 Arabic",
+            "duration": "13:12",
+            "platform": "YouTube",
+            "date": "09‏/10‏/2020"
+        },
+        {
+            "position": 3,
+            "title": "تقنية كريسبر CRISPR في التعديل الوراثي والجيني",
+            "link": "https://www.youtube.com/watch?v=WAsK0MyHskc",
+            "thumbnail": "https://serpapi.com/searches/629e3d19dc02f19d2475bbe5/images/09372ab180189d831377ef76f643fce546714a1290dec0c61de275f57cd14acb.jpeg",
+            "channel": "الباحثون المسلمون",
+            "duration": "4:14",
+            "platform": "YouTube",
+            "date": "04‏/10‏/2016"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ما هو ال Crispr؟",
+            "snippet": "تقنية كريسبر (من الإنجليزية Clustered Regularly Interspaced Short Palindromic Repeats) هي تقنية في الهندسة الوراثية يمكن من خلالها تعديل جينومات الكائنات الحية. طريقة من طرق تعديل الكائنات الحية وراثيا على أساس نسخة مبسطة من بروتين كريسبر المضاد للفيروسات.",
+            "title": "تعديل كريسبر - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B9%D8%AF%D9%8A%D9%84_%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تعديل_كريسبر"
+        },
+        {
+            "question": "كيف يمكن تغيير الجينات؟",
+            "snippet": "التعديل الوراثي للكائنات الحية هو تعديل مادتها الوراثية بواسطة الهندسة الوراثية لتصبح أكثر تطورا وتلبية للحاجات البشرية. أي أنها كائنات تم تغيير جيناتها عن طريق البيوتكنولوجية الحديثة التي منها الهندسة الوراثية والتي تستخدم تقنيات تعرف عموما بتقنية الدنا المؤشب ولم تتم عن طريق التوليف الطبيعي أو التكاثر.",
+            "title": "كائنات معدلة وراثيا - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%A6%D9%86%D8%A7%D8%AA_%D9%85%D8%B9%D8%AF%D9%84%D8%A9_%D9%88%D8%B1%D8%A7%D8%AB%D9%8A%D8%A7",
+            "displayed_link": "https://ar.wikipedia.org › wiki › كائنات_معدلة_وراثيا"
+        },
+        {
+            "question": "ما هي تقنيات التعديل الوراثي؟",
+            "snippet": "تقنية \"كريسبر\" (CRISPR) هي تقنية للتعديل الجيني تتيح تعديل الحمض النووي للكائن الحي، بما في ذلك البشر، ويسعى العلماء لاستخدامها في علاج الأمراض، مقابل وجود مخاوف منها.14‏/10‏/2017",
+            "title": "تقنية \"كريسبر\" للتعديل الجيني | طب وصحة | الجزيرة نت",
+            "link": "https://www.aljazeera.net/encyclopedia/encyclopedia-healthmedicine/2017/10/14/%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1-%D9%84%D9%84%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%8A",
+            "displayed_link": "https://www.aljazeera.net › encyclopedia › 2017/10/14"
+        },
+        {
+            "question": "هل من الممكن تغيير الجينات بعد تكوين الانسان؟",
+            "snippet": "نجحت تقنية تحرير الجينات المعروفة باسم \"كريسبر\" في إحداث تحوُّل كبير في عالم الأحياء، إذ منحت العلماء القدرة على تعديل الجينات لعلاج بعض الأمراض الوراثية أو الوقاية منها عن طريق تصحيح الطفرات الخطيرة وخلق مجموعة من النباتات والحيوانات الجديدة المُعدَّلة وراثيًّا.08‏/12‏/2019",
+            "title": "أداة جديدة لتحرير الجينات يمكنها إصلاح العيوب الوراثية مع ...",
+            "link": "https://www.scientificamerican.com/arabic/articles/features/new-gene-editing-tool-could-fix-genetic-defects-with-fewer-unwanted-effects1/",
+            "displayed_link": "https://www.scientificamerican.com › articles › features"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "كريسبر - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1",
+            "displayed_link": "https://ar.wikipedia.org › wiki › كريسبر",
+            "snippet": "كريسبر أو التكرارات العنقودية المتناظرة القصيرة منتظمة التباعد (بالإنجليزية: CRISPR )‏ هي نوع تسلسلات دنا توجد في بدائيات النوى كالبكتيريا والبكتيريا ...",
+            "snippet_highlighted_words": [
+                "كريسبر",
+                "CRISPR"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "تعديل كريسبر - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B9%D8%AF%D9%8A%D9%84_%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تعديل_كريسبر",
+            "snippet": "تقنية كريسبر (من الإنجليزية Clustered Regularly Interspaced Short Palindromic Repeats) هي تقنية في الهندسة الوراثية يمكن من خلالها تعديل جينومات الكائنات ...",
+            "snippet_highlighted_words": [
+                "كريسبر"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "المقص الجيني: أحدث ما تم التوصل إليه - WIPO",
+            "link": "https://www.wipo.int/wipo_magazine/ar/2020/04/article_0004.html",
+            "displayed_link": "https://www.wipo.int › 2020/04 › article_0004",
+            "snippet": "كريسبر: هو التكرارات العنقودية المتناظرة القصيرة منتظمة التباعد وهي نوع من تسلسلات الحمض النووي الريبوزي المتكررة. كاس: هو البروتين المرتبط بكريسبر وهو بروتين ...",
+            "snippet_highlighted_words": [
+                "كريسبر",
+                "بكريسبر"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "كريسبر- كاس9.. هل صار إنتاج السوبرمان ممكنًا؟ - للعِلم",
+            "link": "https://www.scientificamerican.com/arabic/articles/news/crispr-cas9-does-making-superman-become-possible/",
+            "displayed_link": "https://www.scientificamerican.com › articles › news › c...",
+            "thumbnail": "https://serpapi.com/searches/629e3d19dc02f19d2475bbe5/images/110ed15f286514d998f70b7d5a862b4774ce51a3e59841a0a7836de97c723400.jpeg",
+            "snippet": "لكن اكتشاف نظام كريسبر كاس 9 مثَّل نقلة نوعية في هذا المجال، إذ تعتمد هذه التقنية على تحديد الجزء المراد تعديله باستخدام دليل من الحمض ...",
+            "snippet_highlighted_words": [
+                "كريسبر"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٢‏/٠١‏/٢٠١٧ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "تقنية \"كريسبر\".. طفرة ثورية في الهندسة الوراثية - Nature ...",
+            "link": "https://arabicedition.nature.com/journal/2015/08/522020a",
+            "displayed_link": "https://arabicedition.nature.com › journal › 2015/08",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfI0csXM74-rXSGAABgS1KW756r70RpAph9ZLHo32rgJMFUJV4nmSz&usqp=CAE&s",
+            "snippet": "في عام 2012، قرأ كونكلين عن تقنية جديدة للهندسة الوراثية، نُشرت مؤخرًا، تُسمى تقنية \"كريسبر\" CRISPR، تتيح للباحثين تغيير الحمض النووي لأيّ كائن ...",
+            "snippet_highlighted_words": [
+                "كريسبر",
+                "CRISPR"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٥‏/٠٧‏/٢٠١٥ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "دراسة: تقنية \"كريسبر\" المثيرة للجدل قد تمنع فيروس كورونا ...",
+            "link": "https://arabic.rt.com/technology/1251278-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D8%AB%D9%8A%D8%B1%D8%A9-%D9%84%D9%84%D8%AC%D8%AF%D9%84-%D9%82%D8%AF-%D8%AA%D9%85%D9%86%D8%B9-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9/",
+            "displayed_link": "https://arabic.rt.com › technology › 1251278-دراسة-تق...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3HDtAPIk9yDBGrFqopyQMQydK3YkL4FyC2G5sofgAFuS5LK_0Xrg1&usqp=CAE&s",
+            "snippet": "وأظهرت تقنية \"كريسبر\" (CRISPR)، التي تسمح للعلماء بتغيير تسلسل الحمض النووي وتعديل وظيفة الجينات، بالفعل نتائج واعدة في القضاء على الترميز ...",
+            "snippet_highlighted_words": [
+                "كريسبر",
+                "CRISPR"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٣‏/٠٧‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "إلى أي مدى تقنية \"كريسبر\" للتعديل الجيني مهمة لعلاج الأمراض؟",
+            "link": "https://www.asharqbusiness.com/article/19289",
+            "displayed_link": "https://www.asharqbusiness.com › article",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWVCx7PhxY7GV85uF0M-P-FCc6aMUYX9q4q32wrwzr6H-MKGMpgBu&usqp=CAE&s",
+            "snippet": "تم تحرير المحادثة وتكثيفها. *إنه أول تعديل جيني ناجح نعرفه في البشر باستخدام \"كريسبر\" (Crispr)، ويبدو أنه يعمل بشكل جيد حقاً ...",
+            "snippet_highlighted_words": [
+                "كريسبر",
+                "Crispr"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠١‏/٠٧‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "«كريسبر»... تقنية التعديل الجيني لعلاج الأمراض الوراثية ...",
+            "link": "https://aawsat.com/home/article/2786026/%C2%AB%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1%C2%BB-%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%8A-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B9%D8%B5%D9%8A%D8%A9",
+            "displayed_link": "https://aawsat.com › home › article › «كريسبر»-تقن...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KGaz5zmOzbT8Kq6wD9A8RgNCbQF5hjxFvIX_pwmf0HjY-uRpOoF2&usqp=CAE&s",
+            "snippet": "وكيف يتم ذلك؟ عندما يهاجم فيروس خلية البكتيريا، تصنع البكتيريا نسخة من الحروف التي بين الكلمات المكررة، وترسلها لإنزيم كالمقص اسمه «كاس (CAS)» ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٤‏/٠٢‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "كريسبر منيو",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1+%D9%85%D9%86%D9%8A%D9%88&sa=X&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q1QJ6BAhMEAE"
+        },
+        {
+            "query": "كريسبر كاس",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1+%D9%83%D8%A7%D8%B3&sa=X&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q1QJ6BAhKEAE"
+        },
+        {
+            "query": "كريسبر كاس ٩",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1+%D9%83%D8%A7%D8%B3+%D9%A9&sa=X&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q1QJ6BAhIEAE"
+        },
+        {
+            "query": "كريسبر كاس 9 PDF",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1+%D9%83%D8%A7%D8%B3+9+PDF&sa=X&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q1QJ6BAhGEAE"
+        },
+        {
+            "query": "أضرار تقنية كريسبر",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1+%D8%AA%D9%82%D9%86%D9%8A%D8%A9+%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&sa=X&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q1QJ6BAhFEAE"
+        },
+        {
+            "query": "فوائد تقنية كريسبر",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%81%D9%88%D8%A7%D8%A6%D8%AF+%D8%AA%D9%82%D9%86%D9%8A%D8%A9+%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&sa=X&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q1QJ6BAhEEAE"
+        },
+        {
+            "query": "كريسبر جدة",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1+%D8%AC%D8%AF%D8%A9&sa=X&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q1QJ6BAhDEAE"
+        },
+        {
+            "query": "مطعم كريسبر",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%B7%D8%B9%D9%85+%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&sa=X&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q1QJ6BAhBEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&gl=eg&hl=ar&ei=Gj2eYv6LCLqHqtsPnsCU-Ac&start=10&sa=N&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&gl=eg&hl=ar&ei=Gj2eYv6LCLqHqtsPnsCU-Ac&start=10&sa=N&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&gl=eg&hl=ar&ei=Gj2eYv6LCLqHqtsPnsCU-Ac&start=20&sa=N&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&gl=eg&hl=ar&ei=Gj2eYv6LCLqHqtsPnsCU-Ac&start=30&sa=N&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&gl=eg&hl=ar&ei=Gj2eYv6LCLqHqtsPnsCU-Ac&start=40&sa=N&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&gl=eg&hl=ar&ei=Gj2eYv6LCLqHqtsPnsCU-Ac&start=50&sa=N&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&gl=eg&hl=ar&ei=Gj2eYv6LCLqHqtsPnsCU-Ac&start=60&sa=N&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&gl=eg&hl=ar&ei=Gj2eYv6LCLqHqtsPnsCU-Ac&start=70&sa=N&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&gl=eg&hl=ar&ei=Gj2eYv6LCLqHqtsPnsCU-Ac&start=80&sa=N&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&gl=eg&hl=ar&ei=Gj2eYv6LCLqHqtsPnsCU-Ac&start=90&sa=N&ved=2ahUKEwj-gOC-sJn4AhW6g2oFHR4gBX8Q8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D8%B1%D9%8A%D8%B3%D8%A8%D8%B1&start=90"
+        }
+    }
+}

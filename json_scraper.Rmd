@@ -1,0 +1,90 @@
+---
+title: "project_json_scrape"
+output: html_document
+---
+
+```{r setup}
+library(jsonlite)
+library(tidyverse)
+library(purrr)
+```
+
+## R Markdown
+
+
+## scrape data from a single json file
+
+```{r}
+json_scraper <- function(path, termId) {
+  #function get a path to json file and return data frame 
+  json_file <- read_json(path)
+  searchTerm <- json_file$search_parameters$q
+  language <- json_file$search_parameters$hl
+  country <- json_file$search_parameters$gl
+  resultNum <- json_file$search_information$total_results
+  resultTime <- json_file$search_metadata$total_time_taken
+  df <- tibble(
+      termId = integer(),
+      searchTerm = character(),
+      language = character(),
+      country = character(),
+      resultNum = numeric(),
+      resultTime = double(),
+      position = integer(), 
+      title = character(),
+      link = character()
+    )
+  
+  for (result in json_file$organic_results){
+    position <- result$position
+    link <- result$link
+    title <- result$title
+    df <- df %>% add_row(
+      termId = termId,
+      searchTerm = searchTerm,
+      language = language,
+      country = country,
+      resultNum = resultNum,
+      resultTime = resultTime,
+      position = position, 
+      title = title,
+      link = link
+    )
+  }
+  return(df)
+}
+```
+
+## scrape all json files in searching_for_science diractory 
+
+```{r pressure, echo=FALSE}
+path <- "~/Desktop/proj/data/searching_for_science"
+files <- dir(path, pattern = "*.json")
+df <- tibble(
+      searchTerm = character(),
+      language = character(),
+      country = character(),
+      resultNum = integer(),
+      resultTime = double(),
+      position = integer(), 
+      title = character(),
+      link = character()
+    )
+for (file in files){
+  search_df <- json_scraper(paste("~/Desktop/proj/data/searching_for_science/", file, sep = ""), as.integer(str_split(file,"_")[[1]][1])) 
+  df <- rbind(df, search_df)
+}
+df <- df %>% 
+  arrange(termId) %>% 
+  mutate_at(c("link"), URLdecode)
+```
+
+```{r pressure, echo=FALSE}
+search_df <- df %>% 
+  select(1:6) %>%
+  distinct()
+write_csv(search_df, "./data/search_data.csv")
+results_df <- df %>%
+  select(1,2,3,7,8,9)
+write_csv(results_df, "./data/results_data.csv")
+```

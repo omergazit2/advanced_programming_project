@@ -1,0 +1,356 @@
+{
+    "search_metadata": {
+        "id": "627d0001629a01f803d9ec05",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cea176c39b5049f0/627d0001629a01f803d9ec05.json",
+        "created_at": "2022-05-12 12:39:29 UTC",
+        "processed_at": "2022-05-12 12:39:29 UTC",
+        "google_url": "https://www.google.com/search?q=S%C3%A9cheresse&oq=S%C3%A9cheresse&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=&hl=fr&gl=FR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/cea176c39b5049f0/627d0001629a01f803d9ec05.html",
+        "total_time_taken": 1.64
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Sécheresse",
+        "uule": "w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=",
+        "google_domain": "google.com",
+        "hl": "fr",
+        "gl": "FR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Sécheresse",
+        "total_results": 118000000,
+        "time_taken_displayed": 1.0
+    },
+    "knowledge_graph": {
+        "title": "Sécheresse",
+        "header_images": [
+            {
+                "source": "https://www.cieau.com/connaitre-leau/secheresse-comment-agir/"
+            },
+            {
+                "source": "https://www.futura-sciences.com/planete/definitions/meteorologie-secheresse-6527/"
+            },
+            {
+                "source": "https://www.capital.fr/economie-politique/californie-face-a-la-secheresse-les-autorites-coupent-leau-au-monde-agricole-1411606"
+            },
+            {
+                "source": "https://www.francebleu.fr/infos/environnement/carte-secheresse-45-departements-en-alerte-1595507710"
+            },
+            {
+                "source": "https://www.futura-sciences.com/planete/actualites/rechauffement-climatique-quest-ce-secheresses-eclair-redoutent-scientifiques-97751/"
+            }
+        ],
+        "description": "La sécheresse ou sècheresse \\sɛʃ.ʁɛs\\ définit l'état d'un environnement confronté à un manque d'eau significativement long et important pour qu'il ait des impacts sur la flore, la faune et les sociétés. Sécheresse ne doit pas être confondu avec aridité. Une région aride peut connaître des épisodes de sécheresse.",
+        "source": {
+            "name": "Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/S%C3%A9cheresse"
+        },
+        "recherches_associées": [
+            {
+                "name": "Catastrophe naturelle",
+                "link": "https://www.google.com/search?hl=fr&gl=FR&q=Catastrophe+naturelle&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdV6tsEyy-YiKofLIRiM4LNvZC2CM81WyTOhId6PwrbjraeMF_F9IuUq1z56TvW-K5EjAfSQ9mFQlHGwQHyL4K8hh1PXA3MxsJ55NrEq0iEu-zhgj8OAuLhq5ocUhacI999izrEw_psU3KDE5Na3lMMkfqSLrkMcLXuD9MxK2esBX4nR2eZgDZr5gMA3c3s4QM18_NZxYqftjULD51NKKBM_9sYWxmN28ZsOtPgTs_Y9cSVnDOxOS0qU7lOYv2DAEUpDnD2A%3D&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQxA16BAhnEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Catastrophe+naturelle&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdV6tsEyy-YiKofLIRiM4LNvZC2CM81WyTOhId6PwrbjraeMF_F9IuUq1z56TvW-K5EjAfSQ9mFQlHGwQHyL4K8hh1PXA3MxsJ55NrEq0iEu-zhgj8OAuLhq5ocUhacI999izrEw_psU3KDE5Na3lMMkfqSLrkMcLXuD9MxK2esBX4nR2eZgDZr5gMA3c3s4QM18_NZxYqftjULD51NKKBM_9sYWxmN28ZsOtPgTs_Y9cSVnDOxOS0qU7lOYv2DAEUpDnD2A%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/142a6cb5c385a1266962b50efd75ffa113751304010578cfb8ead80c868da419ca3822b015f40541311caa11eb325f76.jpeg"
+            },
+            {
+                "name": "Tornade",
+                "link": "https://www.google.com/search?hl=fr&gl=FR&q=Tornade&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbUDyOvSmpu2qP-bggHNeD_30cizTaG4pcQQwz3IjB93-XdUrlBgE-UemEYMdwX0tcthg6frfQ0_82bBufU-SAcL0ODWRenRKZUfJChZToJ9GRqrwY15hkdgm_2sBpeygD56kMlx2c3rmiKDr1Jgb4vRZ9mnUJ2s-1B_gFdp2MlEM73Jd0g1qJ_1ss8I2axAzquXuxJdX8T2XtA-xYSZqesohnKLkRz0BlmHvtBaA7vFayrCMg%3D%3D&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQxA16BAhnEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Tornade&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbUDyOvSmpu2qP-bggHNeD_30cizTaG4pcQQwz3IjB93-XdUrlBgE-UemEYMdwX0tcthg6frfQ0_82bBufU-SAcL0ODWRenRKZUfJChZToJ9GRqrwY15hkdgm_2sBpeygD56kMlx2c3rmiKDr1Jgb4vRZ9mnUJ2s-1B_gFdp2MlEM73Jd0g1qJ_1ss8I2axAzquXuxJdX8T2XtA-xYSZqesohnKLkRz0BlmHvtBaA7vFayrCMg%3D%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/142a6cb5c385a1266962b50efd75ffa113751304010578cfb8ead80c868da4190d87cdf328dca37af93c29751cc8d542.jpeg"
+            },
+            {
+                "name": "Canicule",
+                "link": "https://www.google.com/search?hl=fr&gl=FR&q=Canicule&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgCeGk0jIaL9gwTHmUPj-O7lW2D_E3NDi9UPO4mx0fbFtYE9eJVPiWI8K-f2qz495Qpu3FWSeO5CF3xYhZQb68XXaTSAru6RDHHRTyDNc_2tw7-zfwfHxLsiErdq0UUloyXtGkIVxwJiUK3H7d4_yVAjHxRWf-ml2F9fX0cLEmFAsC9LB7j6XBqX3h30bmWXaOCE5YDr3aM49VIHF4AE1hHHlNDJUcmPnjzUiFS0bFjNUFdgaxxv19hg6w-gA9B-bgNOFJ6M%3D&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQxA16BAhnEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Canicule&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgCeGk0jIaL9gwTHmUPj-O7lW2D_E3NDi9UPO4mx0fbFtYE9eJVPiWI8K-f2qz495Qpu3FWSeO5CF3xYhZQb68XXaTSAru6RDHHRTyDNc_2tw7-zfwfHxLsiErdq0UUloyXtGkIVxwJiUK3H7d4_yVAjHxRWf-ml2F9fX0cLEmFAsC9LB7j6XBqX3h30bmWXaOCE5YDr3aM49VIHF4AE1hHHlNDJUcmPnjzUiFS0bFjNUFdgaxxv19hg6w-gA9B-bgNOFJ6M%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/142a6cb5c385a1266962b50efd75ffa113751304010578cfb8ead80c868da41968aaa7628307d4f585969a6779fa872e.png"
+            },
+            {
+                "name": "Feu de forêt",
+                "link": "https://www.google.com/search?hl=fr&gl=FR&q=Feu+de+for%C3%AAt&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbKMspKmZipNCLjsVIYp4B7_MP2L2aqyO2vaLWX-Xi1iESFa8TYnNtJN6Gg84HZQNROSRVk9DWRFRMHqMGNNqrqFBDJ8CsxRGin-sLemCjz7LwtWH9cjGXTildfCxYhvVvI-KI_yrYv6iMi30I9AHQtUVWVyxDvXhR7Ho7FgtMFhUjXx5pZ9FMBjUQsMPdg6tn-2c3ixj1hIZkWQm06rvZYLhEt_3dMm10M-IMmMg_D4f7dAiFVTAp4FTO47YJqFsY3v9MY%3D&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQxA16BAhnEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Feu+de+for%C3%AAt&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbKMspKmZipNCLjsVIYp4B7_MP2L2aqyO2vaLWX-Xi1iESFa8TYnNtJN6Gg84HZQNROSRVk9DWRFRMHqMGNNqrqFBDJ8CsxRGin-sLemCjz7LwtWH9cjGXTildfCxYhvVvI-KI_yrYv6iMi30I9AHQtUVWVyxDvXhR7Ho7FgtMFhUjXx5pZ9FMBjUQsMPdg6tn-2c3ixj1hIZkWQm06rvZYLhEt_3dMm10M-IMmMg_D4f7dAiFVTAp4FTO47YJqFsY3v9MY%3D&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+                "image": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/142a6cb5c385a1266962b50efd75ffa113751304010578cfb8ead80c868da419f2cd99251d8b3bb9881701c97efe1c37.jpeg"
+            }
+        ],
+        "recherches_associées_link": "https://www.google.com/search?hl=fr&gl=FR&q=S%C3%A9cheresse&stick=H4sIAAAAAAAAAONgFuLQz9U3sLTMKVCCs7QEgzNTUssTK4v9UitKgktSC4oXsXIHH16ZnJFalFpcnLqDlREAHoPtVjoAAAA&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQMSgAegQIZxAB",
+        "recherches_associées_stick": "H4sIAAAAAAAAAONgFuLQz9U3sLTMKVCCs7QEgzNTUssTK4v9UitKgktSC4oXsXIHH16ZnJFalFpcnLqDlREAHoPtVjoAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Sécheresse : les agriculteurs se rationnent - Journal de 13 ...",
+            "link": "https://www.tf1.fr/tf1/jt-13h/videos/secheresse-les-agriculteurs-se-rationnent-25139533.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24d0YJaw986rGQEUIN0lwPgCmGB13LKM8zwdXhglXSb8&s",
+            "duration": "1:36",
+            "platform": "TF1",
+            "date": "Il y a 1 heure"
+        },
+        {
+            "position": 2,
+            "title": "Une sécheresse en hiver • FRANCE 24",
+            "link": "https://www.youtube.com/watch?v=ZW3u2NTnvuE",
+            "thumbnail": "https://i.ytimg.com/vi/ZW3u2NTnvuE/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mkiNYoTGvrxYCqlFF2adGzz14P5Q",
+            "channel": "FRANCE 24",
+            "duration": "11:55",
+            "platform": "YouTube",
+            "date": "Il y a 1 mois"
+        },
+        {
+            "position": 3,
+            "title": "Climat : une inquiétante sécheresse en Espagne et au ...",
+            "link": "https://www.youtube.com/watch?v=_ugRZYWia4Y",
+            "thumbnail": "https://i.ytimg.com/vi/_ugRZYWia4Y/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kMgGNk_mR1xiiiUwDyIb2qCWxZLQ",
+            "channel": "FRANCE 24",
+            "duration": "1:08",
+            "platform": "YouTube",
+            "date": "14 févr. 2022"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Sécheresse : pourquoi les prochaines pluies ne seront pas suffisantes ?",
+            "link": "https://actualite.lachainemeteo.com/actualite-meteo/2022-05-12/secheresse-pourquoi-les-prochaines-pluies-ne-seront-pas-suffisantes-63307",
+            "source": "Actualités Météo",
+            "date": "Il y a 3 heures",
+            "thumbnail": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/cc63a08c843fc6b5569477d1ab06769c4020e88de8525334.jpeg"
+        },
+        {
+            "title": "Sécheresse : sept cartes pour comprendre les conséquences dans les départements français",
+            "link": "https://www.lefigaro.fr/sciences/secheresse-sept-cartes-pour-comprendre-les-consequences-dans-les-departements-francais-20220511",
+            "source": "Le Figaro",
+            "date": "Il y a 20 heures",
+            "thumbnail": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/cc63a08c843fc6b5742a61c9a0497832eac088e1eb5d2374.jpeg"
+        },
+        {
+            "title": "CARTE. Sécheresse : allez-vous manquer d'eau dans votre région ?",
+            "link": "https://www.ouest-france.fr/meteo/secheresse/carte-secheresse-allez-vous-manquer-d-eau-dans-votre-region-a6630122-d037-11ec-87e1-8d9db460936d",
+            "source": "Ouest-France",
+            "date": "Il y a 1 jour",
+            "thumbnail": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/cc63a08c843fc6b55e99aed2e332a07f5e4a04f17710d0c4.jpeg"
+        },
+        {
+            "title": "Sécheresse : \"Ce n'est plus possible\", s'alarme un agriculteur de l'Ain face aux restrictions d'eau",
+            "link": "https://www.francetvinfo.fr/meteo/secheresse/secheresse-ce-n-est-plus-possible-s-alarme-un-agriculteur-de-l-ain-face-aux-restrictions-d-eau_5131906.html",
+            "source": "Franceinfo",
+            "date": "Il y a 22 heures",
+            "thumbnail": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/cc63a08c843fc6b5670838901aa8388111ffea03f20f8281.jpeg"
+        },
+        {
+            "title": "Pourquoi les épisodes de forte sécheresse en France ne font que commencer",
+            "link": "https://www.nouvelobs.com/ecologie/20220511.OBS58283/pourquoi-les-episodes-de-forte-secheresse-en-france-ne-font-que-commencer.html",
+            "source": "L'Obs",
+            "date": "Il y a 23 heures",
+            "thumbnail": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/cc63a08c843fc6b5d718839b346d2b201d2ee37564831c8a.jpeg"
+        },
+        {
+            "title": "Sécheresse : une situation différente de celle de 1976",
+            "link": "https://actualite.lachainemeteo.com/actualite-meteo/2022-05-12/secheresse-une-situation-differente-de-celle-de-1976-63302",
+            "source": "Actualités Météo",
+            "date": "Il y a 21 heures",
+            "thumbnail": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/cc63a08c843fc6b5948b9bb4a6ede207210eed85ea72665f.jpeg"
+        },
+        {
+            "title": "Sécheresse : les agriculteurs se rationnent",
+            "link": "https://www.tf1.fr/player/2d38eb5b-ac5e-4c66-b1ca-3bc3c31c58c8",
+            "source": "TF1",
+            "date": "Il y a 19 minutes",
+            "thumbnail": "https://serpapi.com/searches/627d0001629a01f803d9ec05/images/cc63a08c843fc6b522ddfd48a7826c2526c47ac889d90e67.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=fr&gl=FR&q=S%C3%A9cheresse&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQt8YBegQIBBAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&tbm=nws&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+    "related_questions": [
+        {
+            "question": "Qu'est-ce que ça veut dire la sécheresse ?",
+            "snippet": "Une sécheresse est une longue période de temps pendant laquelle les quantités de précipitations sont en dessous des statistiques dans une région.",
+            "title": "Sécheresse - Définition - Actu Environnement",
+            "link": "https://www.actu-environnement.com/ae/dictionnaire_environnement/definition/secheresse.php4",
+            "displayed_link": "https://www.actu-environnement.com › secheresse"
+        },
+        {
+            "question": "Pourquoi il y a des Secheresses ?",
+            "snippet": "Le déficit d'eau et des températures élevées sont les principales causes de sécheresse. En cas de précipitations insuffisantes durant l'hiver et le printemps (entre septembre et mars), les réserves d'eau ne peuvent pas se recharger comme elles devraient pour maintenir un équilibre hydrologique.",
+            "title": "La sécheresse : mieux la comprendre pour mieux la prévenir",
+            "link": "https://www.cieau.com/connaitre-leau/secheresse-comment-agir/",
+            "displayed_link": "https://www.cieau.com › secheresse-comment-agir"
+        },
+        {
+            "question": "Quelles sont les solutions de la sécheresse ?",
+            "title": "10 conseils pour lutter contre la sécheresse",
+            "link": "https://www.aujardin.info/fiches/10-conseils-pour-lutter-contre-secheresse.php",
+            "list": [
+                " Stocker. ... ",
+                " Arroser à bon escient. ... ",
+                " Arroser souvent. ... ",
+                " Biner régulièrement. ... ",
+                " Pailler le sol. ... ",
+                " Laisser la pelouse jaunir sans inquiétude. ... ",
+                " Utiliser une tondeuse à mulching. ... ",
+                " Tailler long."
+            ],
+            "displayed_link": "https://www.aujardin.info › fiches › 10-conseils-pour-lutte..."
+        },
+        {
+            "question": "Quel sont les conséquence de la sécheresse ?",
+            "snippet": "Les épisodes de sécheresse ont de multiples impacts sur les milieux aquatiques, consécutifs à la baisse des niveaux d'eau. La biodiversité est directement touchée, et souffre aussi de la détérioration de la qualité de l'eau suite à l'échauffement et à la moindre dilution des pollutions.",
+            "title": "Les impacts de la sécheresse | Eaufrance",
+            "link": "https://www.eaufrance.fr/les-impacts-de-la-secheresse",
+            "displayed_link": "https://www.eaufrance.fr › les-impacts-de-la-secheresse"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Sécheresse : la France est dans une \"phase critique\" du ...",
+            "link": "https://www.france24.com/fr/france/20220510-s%C3%A9cheresse-la-france-est-entr%C3%A9e-dans-une-phase-critique-du-r%C3%A9chauffement-climatique",
+            "displayed_link": "https://www.france24.com › France 24 › France",
+            "date": "il y a 2 jours",
+            "snippet": "La menace d'une sécheresse plane sur la France. Avant même le début de l'été, quinze départements sont déjà soumis à des restrictions d'eau.",
+            "snippet_highlighted_words": [
+                "sécheresse"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "La sécheresse | Eaufrance",
+            "link": "https://www.eaufrance.fr/la-secheresse",
+            "displayed_link": "https://www.eaufrance.fr › la-secheresse",
+            "snippet": "La sécheresse est un phénomène naturel qui survient à la suite d'une période prolongée sans précipitations, généralement en période estivale.",
+            "snippet_highlighted_words": [
+                "sécheresse"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Sécheresse - Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/S%C3%A9cheresse",
+            "displayed_link": "https://fr.wikipedia.org › wiki › Sécheresse",
+            "date": "il y a 22 heures",
+            "snippet": "La sécheresse ou sècheresse \\sɛʃ.ʁɛs\\ définit l'état d'un environnement confronté à un manque d'eau significativement long et important pour qu'il ait des ...",
+            "snippet_highlighted_words": [
+                "sécheresse",
+                "sècheresse"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "CARTE. Sécheresse : allez-vous manquer d'eau dans votre ...",
+            "link": "https://www.ouest-france.fr/meteo/secheresse/carte-secheresse-allez-vous-manquer-d-eau-dans-votre-region-a6630122-d037-11ec-87e1-8d9db460936d",
+            "displayed_link": "https://www.ouest-france.fr › Météo › Sécheresse",
+            "date": "il y a 1 jour",
+            "snippet": "La sécheresse est inéquitable. Il y a des régions qui sont plutôt protégées alors que d'autres sont vraiment très exposées. C'est lié à la ...",
+            "snippet_highlighted_words": [
+                "sécheresse"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Propluvia - Accueil",
+            "link": "http://propluvia.developpement-durable.gouv.fr/",
+            "displayed_link": "http://propluvia.developpement-durable.gouv.fr",
+            "snippet": "AccueilA proposQuelles sont les origines de la sécheresse ?Comment sont décidées les mesures de restrictions ? Propluvia. AccueilA proposQuelles sont les ...",
+            "snippet_highlighted_words": [
+                "sécheresse"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Sécheresse : la France en proie à une vague de chaleur qui ...",
+            "link": "https://www.francetvinfo.fr/monde/environnement/crise-climatique/direct-secheresse-la-france-en-proie-a-une-vague-de-chaleur-qui-inquiete-les-agriculteurs_5128969.html",
+            "displayed_link": "https://www.francetvinfo.fr › ... › Crise climatique",
+            "date": "il y a 2 jours",
+            "snippet": "Après un hiver particulièrement doux sur l'Hexagone, 15 départements sont soumis à des restrictions d'eau, alors que la sécheresse menace ...",
+            "snippet_highlighted_words": [
+                "sécheresse"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Définition | Sécheresse | Futura Planète",
+            "link": "https://www.futura-sciences.com/planete/definitions/meteorologie-secheresse-6527/",
+            "displayed_link": "https://www.futura-sciences.com › Planète › Définitions",
+            "snippet": "Le terme sécheresse en général se rapporte à un épisode de manque d'eau plus ou moins long mais suffisant pour que les sols, la flore et la faune en soient ...",
+            "snippet_highlighted_words": [
+                "sécheresse"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Origine et gestion de la sécheresse - Ministère de la ...",
+            "link": "https://www.ecologie.gouv.fr/secheresse",
+            "displayed_link": "https://www.ecologie.gouv.fr › secheresse",
+            "date": "27 avr. 2022",
+            "snippet": "La sécheresse peut provenir d'un manque de pluie ou d'une utilisation intensive de la ressource en eau. Des restrictions d'eau peuvent être ...",
+            "snippet_highlighted_words": [
+                "sécheresse"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "sécheresse france 2022",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=S%C3%A9cheresse+France+2022&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ1QJ6BAhFEAE"
+        },
+        {
+            "query": "sécheresse 2022",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=S%C3%A9cheresse+2022&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ1QJ6BAhEEAE"
+        },
+        {
+            "query": "sécheresse définition",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=S%C3%A9cheresse+d%C3%A9finition&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ1QJ6BAhBEAE"
+        },
+        {
+            "query": "sécheresse synonyme",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=S%C3%A9cheresse+synonyme&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "carte sécheresse 2022",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Carte+s%C3%A9cheresse+2022&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "sécheresse 2021",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=S%C3%A9cheresse+2021&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "carte sécheresse 2021",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Carte+s%C3%A9cheresse+2021&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "sécheresse maroc",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=S%C3%A9cheresse+Maroc&sa=X&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ1QJ6BAguEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=S%C3%A9cheresse&hl=fr&gl=FR&ei=AQB9YtTtKM-uytMPm8qw4AE&start=10&sa=N&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=S%C3%A9cheresse&hl=fr&gl=FR&ei=AQB9YtTtKM-uytMPm8qw4AE&start=10&sa=N&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=S%C3%A9cheresse&hl=fr&gl=FR&ei=AQB9YtTtKM-uytMPm8qw4AE&start=20&sa=N&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=S%C3%A9cheresse&hl=fr&gl=FR&ei=AQB9YtTtKM-uytMPm8qw4AE&start=30&sa=N&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=S%C3%A9cheresse&hl=fr&gl=FR&ei=AQB9YtTtKM-uytMPm8qw4AE&start=40&sa=N&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=S%C3%A9cheresse&hl=fr&gl=FR&ei=AQB9YtTtKM-uytMPm8qw4AE&start=50&sa=N&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=S%C3%A9cheresse&hl=fr&gl=FR&ei=AQB9YtTtKM-uytMPm8qw4AE&start=60&sa=N&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=S%C3%A9cheresse&hl=fr&gl=FR&ei=AQB9YtTtKM-uytMPm8qw4AE&start=70&sa=N&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=S%C3%A9cheresse&hl=fr&gl=FR&ei=AQB9YtTtKM-uytMPm8qw4AE&start=80&sa=N&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=S%C3%A9cheresse&hl=fr&gl=FR&ei=AQB9YtTtKM-uytMPm8qw4AE&start=90&sa=N&ved=2ahUKEwiU8uXK_dn3AhVPl3IEHRslDBwQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=20&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=30&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=40&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=50&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=60&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=70&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=80&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=S%C3%A9cheresse&start=90&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D"
+        }
+    }
+}

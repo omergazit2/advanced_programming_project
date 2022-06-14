@@ -1,0 +1,271 @@
+{
+    "search_metadata": {
+        "id": "629e3d10fa86753dcf5f2c70",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7f74a869aee28c05/629e3d10fa86753dcf5f2c70.json",
+        "created_at": "2022-06-06 17:44:48 UTC",
+        "processed_at": "2022-06-06 17:44:48 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&oq=%D7%9E%D7%A9%D7%A7%D7%9C&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7f74a869aee28c05/629e3d10fa86753dcf5f2c70.html",
+        "total_time_taken": 1.93
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "משקל",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "משקל",
+        "total_results": 15200000,
+        "time_taken_displayed": 0.48
+    },
+    "knowledge_graph": {
+        "title": "משקל",
+        "type": "פיזיקה",
+        "header_images": [
+            {
+                "source": "https://www.youtube.com/watch?v=EPr3So0GQWE"
+            },
+            {
+                "source": "https://www.clalit.co.il/he/lifestyle/nutrition/Pages/BMI_Calculator.aspx"
+            },
+            {
+                "source": "https://shop.super-pharm.co.il/health/measuring-and-testing/human-weight/%D7%9C%D7%99%D7%99%D7%A3-%D7%9E%D7%A9%D7%A7%D7%9C-%D7%93%D7%99%D7%90%D7%92%D7%A0%D7%95%D7%A1%D7%98%D7%99/p/565309"
+            },
+            {
+                "source": "https://www.gana.co.il/%D7%9E%D7%A9%D7%A7%D7%9C-%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94.html"
+            },
+            {
+                "source": "https://www.zap.co.il/model.aspx?modelid=1084469"
+            }
+        ],
+        "description": "משקל של גוף מוגדר כתוצאה של שקילת הגוף; השקילה נעשית על ידי תליית הגוף על דינמומטר; הוריית הדינמומטר היא גודל המשקל, והכיוון שעליו מתייצב הדינמומטר הוא כיוון המשקל. המדידה צריכה להתבצע בתנאים שבהם הכוח היחיד הפועל על הגוף, מלבד הכוח שמפעיל עליו הדינמומטר, הוא כוח הכבידה.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%A7%D7%9C_(%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94)"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "מה זה משקל ואיך מזהים אותו? (במקום מורה פרטי ללשון)",
+            "link": "https://www.youtube.com/watch?v=lYDdVJtXOZM",
+            "thumbnail": "https://serpapi.com/searches/629e3d10fa86753dcf5f2c70/images/8ee9bf1424ee1aa00d11b757fdf7e3f7002e8fa057a90124e7bc454eba451c93.jpeg",
+            "channel": "Yochay Orlan",
+            "duration": "3:45",
+            "platform": "YouTube",
+            "date": "3 באפר׳ 2014"
+        },
+        {
+            "position": 2,
+            "title": "מהו משקל?",
+            "link": "https://www.youtube.com/watch?v=PPnpOJErJN8",
+            "thumbnail": "https://serpapi.com/searches/629e3d10fa86753dcf5f2c70/images/8ee9bf1424ee1aa0e61f4785d1c45df9f3465bfb91324ec5fb7c67db42886393.jpeg",
+            "channel": "Kushiyotnet",
+            "duration": "5:32",
+            "platform": "YouTube",
+            "date": "21 באוק׳ 2014"
+        },
+        {
+            "position": 3,
+            "title": "כיתות: ג', מתמטיקה - משקל",
+            "link": "https://www.youtube.com/watch?v=W2IZATCwIfo",
+            "thumbnail": "https://serpapi.com/searches/629e3d10fa86753dcf5f2c70/images/8ee9bf1424ee1aa05134eb358d7d72406e49bfaf912a346b54894c315d2debc9.jpeg",
+            "channel": "מערכת שידורים לאומית",
+            "duration": "20:01",
+            "platform": "YouTube",
+            "date": "10 באוג׳ 2020"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "משקל (פיזיקה) - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%A7%D7%9C_(%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94)",
+            "displayed_link": "https://he.wikipedia.org › wiki › משקל_(פיזיקה)",
+            "snippet": "משקל (באנגלית: Weight) של גוף מוגדר (אופרטיבית) כתוצאה של שקילת הגוף; השקילה נעשית על ידי תליית הגוף על דינמומטר (מד-כוח); הוריית הדינמומטר היא גודל המשקל, ...",
+            "snippet_highlighted_words": [
+                "משקל",
+                "Weight"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "משקל - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%A7%D7%9C",
+            "displayed_link": "https://he.wikipedia.org › wiki › משקל",
+            "snippet": "משקל (פיזיקה) – כוח הפעולה הנגדי של גוף על גוף אחר המפעיל עליו כוח נורמלי או כוח מתיחות. משקל - כינוי למאזניים - מכשיר למדידת משקל פיזיקלי. מסה – גודל פיזיקלי ...",
+            "snippet_highlighted_words": [
+                "משקל",
+                "משקל",
+                "משקל"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "מחשבון BMI: חשבו בקלות את ה־BMI שלכם - אתר כללית",
+            "link": "https://www.clalit.co.il/he/lifestyle/nutrition/Pages/BMI_Calculator.aspx",
+            "displayed_link": "https://www.clalit.co.il › Pages › BMI_Calculator",
+            "snippet": "המשקל שלכם תקין? יש לכם עודף משקל? אולי תת־משקל? חשוב לדעת כדי למנוע מחלות מסוכנות. הזינו 3 נתונים וקבלו תשובות והמלצות ממחשבון BMI של כללית.",
+            "snippet_highlighted_words": [
+                "משקל",
+                "משקל"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "מתכונים בריאים",
+                        "link": "https://www.clalit.co.il/he/lifestyle/nutrition/Pages/health_recipes.aspx"
+                    },
+                    {
+                        "title": "מניעת מחלות לב",
+                        "link": "https://www.clalit.co.il/he/your_health/family/heart/Pages/prevention_of_heart_disease.aspx"
+                    },
+                    {
+                        "title": "ספורט",
+                        "link": "https://www.clalit.co.il/he/lifestyle/sport/Pages/default.aspx"
+                    },
+                    {
+                        "title": "שוטפים את העוף לפני הבישול? עצרו!",
+                        "link": "https://www.clalit.co.il/he/your_health/Preventive_medicine/Pages/do_not_wash_chicken.aspx"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "משקל אדם | סופר-פארם",
+            "link": "https://shop.super-pharm.co.il/health/measuring-and-testing/human-weight/c/30221600",
+            "displayed_link": "https://shop.super-pharm.co.il › health › human-weight",
+            "snippet": "בקטגוריית משקל אדם מחכים לך מגוון מוצרים ומבצעים, לרכישה וקבלה במגוון אפשרויות: איסוף אקספרס מהסניף תוך 3 שעות, איסוף למחרת או במשלוח עד הבית, ...",
+            "snippet_highlighted_words": [
+                "משקל"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "משקלים - זאפ השוואת מחירים",
+            "link": "https://www.zap.co.il/models.aspx?sog=h-scales&pageinfo=11",
+            "displayed_link": "https://www.zap.co.il › לבית לגן ולמשרד › משקלים",
+            "snippet": "משקל ידני למזוודות HYE1502 משקל ידני ונוח למזוודה עם רמת דיוק משקל גבוהה ... משקל אדם חכם המתחבר באמצעות בלוטות' לטלפון הנייד ומאפשר מעקב יום יומי אחרי ...",
+            "snippet_highlighted_words": [
+                "משקל",
+                "משקל",
+                "משקל",
+                "משקל"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "משקלים ‏משקל אדם - זאפ השוואת מחירים",
+            "link": "https://www.zap.co.il/models.aspx?sog=h-scales&db751087=751090",
+            "displayed_link": "https://www.zap.co.il › לבית לגן ולמשרד › משקלים",
+            "snippet": "משקלים - ‏משקל אדם מבחר ענק של משקלי אדם, משקלי מטבח ומשקלי מזוודות של טובי היצרנים: Beurer, Sinbo, Tanita ועוד.",
+            "snippet_highlighted_words": [
+                "משקל"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "משקלים | הום סנטר",
+            "link": "https://www.homecenter.co.il/catalogue/toiletries/18055-weights",
+            "displayed_link": "https://www.homecenter.co.il › ... › מוצרי טיפוח › משקל אדם",
+            "snippet": "משקל אדם מכני ... משקל זכוכית דיגיטלי מודד שומנים עיגולים ... משקל דיאגנוסטי מזכוכית - מושלם לכל המשפחה beurer -למכירה באתר בלבד! Price: ₪14900. מחיר מועדון.",
+            "snippet_highlighted_words": [
+                "משקל",
+                "משקל",
+                "משקל"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "מחשבון BMI לגברים ונשים | איכילוב",
+            "link": "https://www.tasmc.org.il/Be-Well/calculators/Pages/BMI.aspx",
+            "displayed_link": "https://www.tasmc.org.il › Be-Well › calculators › Pages",
+            "snippet": "משקל הגוף משתנה מאדם לאדם ותלוי בגורמים רבים- תזונה, מין, גיל, גנטיקה ועוד. מקובל להעריך את עודף המשקל באמצעות התייחסות לפרופורציה בין גובהך למשקל שלך.",
+            "snippet_highlighted_words": [
+                "משקל"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "משקל מטבח - הכנה ערבול וחיתוך - מוצרים למטבח - שקם אלקטריק",
+            "link": "https://www.shekem-electric.co.il/mvcrim-lmtbh/hknh-erbvl-vhitvk/weight-scale.html",
+            "displayed_link": "https://www.shekem-electric.co.il › weight-scale",
+            "snippet": "משקל מטבח דיגיטלי שחור HOMESET. כפתורי מגע נוחים. משקל דיגיטלי למטבח. מאפשר שקילה עד 5 קילו; להמיר מידות מאפשר שקילת נוזלים. סוללת ליטיום חזקה שימוש ארוך ...",
+            "snippet_highlighted_words": [
+                "משקל",
+                "משקל"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "משקל פיזיקה",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%A9%D7%A7%D7%9C+%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94&sa=X&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "משקל ומסה",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%A9%D7%A7%D7%9C+%D7%95%D7%9E%D7%A1%D7%94&sa=X&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "משקל לפי גובה",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%A9%D7%A7%D7%9C+%D7%9C%D7%A4%D7%99+%D7%92%D7%95%D7%91%D7%94&sa=X&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "משקל הגדרה",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%A9%D7%A7%D7%9C+%D7%94%D7%92%D7%93%D7%A8%D7%94&sa=X&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "משקל תרגום",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%A9%D7%A7%D7%9C+%D7%AA%D7%A8%D7%92%D7%95%D7%9D&sa=X&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "מחשבון משקל",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%9F+%D7%9E%D7%A9%D7%A7%D7%9C&sa=X&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "משקל אדם מחסני חשמל",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%A9%D7%A7%D7%9C+%D7%90%D7%93%D7%9D+%D7%9E%D7%97%D7%A1%D7%A0%D7%99+%D7%97%D7%A9%D7%9E%D7%9C&sa=X&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ1QJ6BAguEAE"
+        },
+        {
+            "query": "משקל ויקיפדיה",
+            "link": "https://www.google.com/search?ucbcb=1&hl=iw&gl=il&q=%D7%9E%D7%A9%D7%A7%D7%9C+%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94&sa=X&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&ucbcb=1&hl=iw&gl=il&ei=ET2eYq-kJ8-GqtsP8Iai0AY&start=10&sa=N&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ8NMDegQIJhBO",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&ucbcb=1&hl=iw&gl=il&ei=ET2eYq-kJ8-GqtsP8Iai0AY&start=10&sa=N&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ8tMDegQIJhA8",
+            "3": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&ucbcb=1&hl=iw&gl=il&ei=ET2eYq-kJ8-GqtsP8Iai0AY&start=20&sa=N&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ8tMDegQIJhA-",
+            "4": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&ucbcb=1&hl=iw&gl=il&ei=ET2eYq-kJ8-GqtsP8Iai0AY&start=30&sa=N&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ8tMDegQIJhBA",
+            "5": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&ucbcb=1&hl=iw&gl=il&ei=ET2eYq-kJ8-GqtsP8Iai0AY&start=40&sa=N&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ8tMDegQIJhBC",
+            "6": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&ucbcb=1&hl=iw&gl=il&ei=ET2eYq-kJ8-GqtsP8Iai0AY&start=50&sa=N&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ8tMDegQIJhBE",
+            "7": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&ucbcb=1&hl=iw&gl=il&ei=ET2eYq-kJ8-GqtsP8Iai0AY&start=60&sa=N&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ8tMDegQIJhBG",
+            "8": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&ucbcb=1&hl=iw&gl=il&ei=ET2eYq-kJ8-GqtsP8Iai0AY&start=70&sa=N&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ8tMDegQIJhBI",
+            "9": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&ucbcb=1&hl=iw&gl=il&ei=ET2eYq-kJ8-GqtsP8Iai0AY&start=80&sa=N&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ8tMDegQIJhBK",
+            "10": "https://www.google.com/search?q=%D7%9E%D7%A9%D7%A7%D7%9C&ucbcb=1&hl=iw&gl=il&ei=ET2eYq-kJ8-GqtsP8Iai0AY&start=90&sa=N&ved=2ahUKEwjv8Nm6sJn4AhVPg2oFHXCDCGoQ8tMDegQIJhBM"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%A9%D7%A7%D7%9C&start=90"
+        }
+    }
+}

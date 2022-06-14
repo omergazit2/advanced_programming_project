@@ -1,0 +1,542 @@
+{
+    "search_metadata": {
+        "id": "629e3d0e87a0eed17ed5162a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/93be367509dee810/629e3d0e87a0eed17ed5162a.json",
+        "created_at": "2022-06-06 17:44:46 UTC",
+        "processed_at": "2022-06-06 17:44:46 UTC",
+        "google_url": "https://www.google.com/search?q=Mutation&oq=Mutation&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/93be367509dee810/629e3d0e87a0eed17ed5162a.html",
+        "total_time_taken": 1.09
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Mutation",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Mutation",
+        "total_results": 3610000000,
+        "time_taken_displayed": 0.46
+    },
+    "knowledge_graph": {
+        "title": "Mutation",
+        "description": "In biology, a mutation is an alteration in the nucleic acid sequence of the genome of an organism, virus, or extrachromosomal DNA. Viral genomes contain either DNA or RNA.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Mutation"
+        }
+    },
+    "related_questions": [
+        {
+            "question": "What is mutation in biology?",
+            "snippet": "A mutation is a change in the sequence of genetic letters, called bases, within a molecule of DNA. 12. Biology, Genetics. Image.May 19, 2022",
+            "title": "Mutation | National Geographic Society",
+            "link": "https://www.nationalgeographic.org/encyclopedia/mutation/",
+            "displayed_link": "https://www.nationalgeographic.org › encyclopedia › m..."
+        },
+        {
+            "question": "What is mutation example?",
+            "snippet": "Other common mutation examples in humans are Angelman syndrome, Canavan disease, color blindness, cri-du-chat syndrome, cystic fibrosis, Down syndrome, Duchenne muscular dystrophy, haemochromatosis, haemophilia, Klinefelter syndrome, phenylketonuria, Prader–Willi syndrome, Tay–Sachs disease, and Turner syndrome.Feb 18, 2022",
+            "title": "Mutation - Definition and Examples - Biology Online Dictionary",
+            "link": "https://www.biologyonline.com/dictionary/mutation",
+            "displayed_link": "https://www.biologyonline.com › dictionary › mutation"
+        },
+        {
+            "question": "What are the 4 mutation types?",
+            "title": "Summary",
+            "link": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_Introductory_Biology_(CK-12)/04%3A_Molecular_Biology/4.08%3A_Mutation_Types",
+            "list": [
+                "Germline mutations occur in gametes. Somatic mutations occur in other body cells.",
+                "Chromosomal alterations are mutations that change chromosome structure.",
+                "Point mutations change a single nucleotide.",
+                "Frameshift mutations are additions or deletions of nucleotides that cause a shift in the reading frame."
+            ],
+            "displayed_link": "https://bio.libretexts.org › 04:_Molecular_Biology › 4.08:..."
+        },
+        {
+            "question": "Is mutation good or bad?",
+            "snippet": "The majority of mutations are neutral in their effects on the organisms in which they occur. Beneficial mutations may become more common through natural selection. Harmful mutations may cause genetic disorders or cancer.Mar 5, 2021",
+            "title": "4.10: Mutation Effects - Biology LibreTexts",
+            "link": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_Introductory_Biology_(CK-12)/04%3A_Molecular_Biology/4.10%3A_Mutation_Effects",
+            "displayed_link": "https://bio.libretexts.org › 04:_Molecular_Biology › 4.10:..."
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "mu·ta·tion",
+        "word_type": "noun",
+        "definitions": [
+            "the action or process of mutating.",
+            "the changing of the structure of a gene, resulting in a variant form that may be transmitted to subsequent generations, caused by the alteration of single base units in DNA, or the deletion, insertion, or rearrangement of larger sections of genes or chromosomes."
+        ],
+        "extras": [
+            "alteration",
+            "change",
+            "variation",
+            "modification",
+            "transformation",
+            "metamorphosis",
+            "transmutation",
+            "transfiguration",
+            "sea change",
+            "evolution",
+            "alteration",
+            "change",
+            "variation",
+            "modification",
+            "transformation",
+            "metamorphosis",
+            "transmutation",
+            "transfiguration",
+            "sea change",
+            "evolution"
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Mutation - National Human Genome Research Institute",
+            "link": "https://www.genome.gov/genetics-glossary/Mutation",
+            "displayed_link": "https://www.genome.gov › genetics-glossary › Mutation",
+            "date": "3 days ago",
+            "snippet": "A mutation is a change in the DNA sequence of an organism. Mutations can result from errors in DNA replication during cell division, ...",
+            "snippet_highlighted_words": [
+                "mutation",
+                "Mutations"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Point Mutation",
+                        "link": "https://www.genome.gov/genetics-glossary/Point-Mutation"
+                    },
+                    {
+                        "title": "Missense Mutation",
+                        "link": "https://www.genome.gov/genetics-glossary/Missense-Mutation"
+                    },
+                    {
+                        "title": "Carcinogen",
+                        "link": "https://www.genome.gov/genetics-glossary/Carcinogen"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The National Human Genome Research Institute is an institute of the National Institutes of Health, located in Bethesda, Maryland.\nNHGRI began as the Office of Human Genome Research in The Office of the Director in 1988.",
+                    "icon": "https://serpapi.com/searches/629e3d0e87a0eed17ed5162a/images/d142f440c98d352b168190b6aee402f2bc710d43b9e8b111d8b221281d1b550ffb35a4e23b0dc36761626932e4e36cb6.png"
+                },
+                "keywords": [
+                    "mutation"
+                ],
+                "related_keywords": [
+                    "mutations"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.genome.gov/genetics-glossary/Mutation&tbm=ilp&ilps=ADNMCi2JT1-XiGeUlOhvPsLmCxIIsa-2YQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hrkRYbZvdRgJ:https://www.genome.gov/genetics-glossary/Mutation+&cd=12&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Mutation - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Mutation",
+            "displayed_link": "https://en.wikipedia.org › wiki › Mutation",
+            "snippet": "In biology, a mutation is an alteration in the nucleic acid sequence of the genome of an organism, virus, or extrachromosomal DNA.",
+            "snippet_highlighted_words": [
+                "mutation"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Frameshift mutation",
+                        "link": "https://en.wikipedia.org/wiki/Frameshift_mutation"
+                    },
+                    {
+                        "title": "Missense mutation",
+                        "link": "https://en.wikipedia.org/wiki/Missense_mutation"
+                    },
+                    {
+                        "title": "Germline mutation",
+                        "link": "https://en.wikipedia.org/wiki/Germline_mutation"
+                    },
+                    {
+                        "title": "Mutation rate",
+                        "link": "https://en.wikipedia.org/wiki/Mutation_rate"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3d0e87a0eed17ed5162a/images/d142f440c98d352b168190b6aee402f23c914e4c20da160fffd36f19a9a030f8ce8e6bf388f835daad06d974278afbab.png"
+                },
+                "keywords": [
+                    "mutation"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Mutation&tbm=ilp&ilps=ADNMCi35_m6V3DW3lsRjWPGfAeOqmJiwGA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7bbUhiH2Y78J:https://en.wikipedia.org/wiki/Mutation+&cd=13&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://en.wikipedia.org/wiki/Mutation+Mutation"
+        },
+        {
+            "position": 3,
+            "title": "What is a mutation? | Facts | yourgenome.org",
+            "link": "https://www.yourgenome.org/facts/what-is-a-mutation",
+            "displayed_link": "https://www.yourgenome.org › facts › what-is-a-mutation",
+            "date": "Jul 21, 2021",
+            "snippet": "A mutation is a change that occurs in our DNA sequence, either due to mistakes when the DNA is copied or as the result of environmental factors ...",
+            "snippet_highlighted_words": [
+                "mutation"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "yourgenome.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d0e87a0eed17ed5162a/images/d142f440c98d352b168190b6aee402f2bf2729480e8aa66203026ca6faec40fccd12cb07f001f742fa60846f5b14503f.png"
+                },
+                "keywords": [
+                    "mutation"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.yourgenome.org/facts/what-is-a-mutation&tbm=ilp&ilps=ADNMCi2C-W43SCTrsaXYQRDA_RJtnQMExw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nZ49Zp6G4vIJ:https://www.yourgenome.org/facts/what-is-a-mutation+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "mutation | Definition, Causes, Types, & Facts - Encyclopedia ...",
+            "link": "https://www.britannica.com/science/mutation-genetics",
+            "displayed_link": "https://www.britannica.com › ... › Genetics & Evolution",
+            "snippet": "mutation, an alteration in the genetic material (the genome) of a cell of a living organism or of a virus that is more or less permanent and that can be ...",
+            "snippet_highlighted_words": [
+                "mutation"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Point mutation",
+                        "link": "https://www.britannica.com/science/point-mutation"
+                    },
+                    {
+                        "title": "Mutation summary",
+                        "link": "https://www.britannica.com/summary/mutation-genetics"
+                    },
+                    {
+                        "title": "Somatic mutation",
+                        "link": "https://www.britannica.com/science/somatic-mutation"
+                    },
+                    {
+                        "title": "Oncogene",
+                        "link": "https://www.britannica.com/science/oncogene"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d0e87a0eed17ed5162a/images/d142f440c98d352b168190b6aee402f2ac2ff0d30c7a554fb25fd616d4e4fab20b2116af95afa8d7ef3d208d0072da99.png"
+                },
+                "keywords": [
+                    "mutation"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/mutation-genetics&tbm=ilp&ilps=ADNMCi0Zfj-bvhMP4Yf1nOm9BJrFWuMm1Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3RWbHiVtYlgJ:https://www.britannica.com/science/mutation-genetics+&cd=15&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.britannica.com/science/mutation-genetics+Mutation"
+        },
+        {
+            "position": 5,
+            "title": "Mutation | National Geographic Society",
+            "link": "https://www.nationalgeographic.org/encyclopedia/mutation/",
+            "displayed_link": "https://www.nationalgeographic.org › encyclopedia › m...",
+            "date": "May 19, 2022",
+            "snippet": "A mutation is a change in the structure of a gene, the unit of heredity. Genes are made of deoxyribonucleic acid (DNA), a long molecule composed ...",
+            "snippet_highlighted_words": [
+                "mutation"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "National Geographic Partners, LLC is a joint venture between The Walt Disney Company and the namesake non-profit scientific organization National Geographic Society. The company oversees all commercial activities related to the Society, including magazine publications and television channels.",
+                    "icon": "https://serpapi.com/searches/629e3d0e87a0eed17ed5162a/images/d142f440c98d352b168190b6aee402f29881a14a60120e9449da5e2c6f8224505c0c357654ab08fdcbcabd21a4266099.png"
+                },
+                "keywords": [
+                    "mutation"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nationalgeographic.org/encyclopedia/mutation/&tbm=ilp&ilps=ADNMCi1GNtPfVaYbziYSGGc3RqCYdHAyUA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gGW8EEUXxQcJ:https://www.nationalgeographic.org/encyclopedia/mutation/+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "mutation | Learn Science at Scitable - Nature",
+            "link": "https://www.nature.com/scitable/definition/mutation-8/",
+            "displayed_link": "https://www.nature.com › scitable › definition › mutation-8",
+            "snippet": "A mutation is a change in a genetic sequence. Mutations include changes as small as the substitution of a single DNA building block, or nucleotide base, ...",
+            "snippet_highlighted_words": [
+                "mutation",
+                "Mutations"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "Point mutation: Substitution",
+                        "Class of Mutation: Type of Mutation",
+                        "Chromosomal mutation: Inversion",
+                        "Copy number variation: Gene amplification"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Nature is a British weekly scientific journal founded and based in London, England. As a multidisciplinary publication, Nature features peer-reviewed research from a variety of academic disciplines, mainly in science and technology.",
+                    "icon": "https://serpapi.com/searches/629e3d0e87a0eed17ed5162a/images/d142f440c98d352b168190b6aee402f2100fb6d91290d3016fdc77b3a4005f825fdcd7da3d8f564a2824223c20e1bcdc.png"
+                },
+                "keywords": [
+                    "mutation"
+                ],
+                "related_keywords": [
+                    "mutations"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nature.com/scitable/definition/mutation-8/&tbm=ilp&ilps=ADNMCi1k5NHMGY91H0hPXGVRnY5Zq9XdFA",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Genetic Mutation | Learn Science at Scitable - Nature",
+                    "link": "http://www.nature.com/scitable/topicpage/genetic-mutation-441",
+                    "displayed_link": "http://www.nature.com › scitable › topicpage › genetic-...",
+                    "snippet": "While a mutation is defined as any alteration in the DNA sequence, biologists use the term \"single nucleotide polymorphism\" (SNP) to refer to a single base ...",
+                    "snippet_highlighted_words": [
+                        "mutation"
+                    ],
+                    "rich_snippet": {
+                        "bottom": {
+                            "extensions": [
+                                "Point mutation: Substitution",
+                                "Class of Mutation: Type of Mutation",
+                                "Chromosomal mutation: Inversion",
+                                "Copy number variation: Gene amplification"
+                            ]
+                        }
+                    },
+                    "about_this_result": {
+                        "source": {
+                            "description": "Nature is a British weekly scientific journal founded and based in London, England. As a multidisciplinary publication, Nature features peer-reviewed research from a variety of academic disciplines, mainly in science and technology.",
+                            "icon": "https://serpapi.com/searches/629e3d0e87a0eed17ed5162a/images/d142f440c98d352b168190b6aee402f25646f21a8750f73e94d0a5f76dad1a96d326f6ff025bcdcb9c6043d7ced7be3d2fbb09cf52db14165813de14eef4400d0236a9ecd86692db.png"
+                        },
+                        "keywords": [
+                            "mutation"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+http://www.nature.com/scitable/topicpage/genetic-mutation-441&tbm=ilp&ilps=ADNMCi2hJfXoixOtq97Kjo0KNDR3lQlVvA",
+                    "cached_page_link": "/search?gl=us&hl=en&q=related:www.nature.com/scitable/topicpage/genetic-mutation-441+Mutation"
+                }
+            ]
+        },
+        {
+            "position": 7,
+            "title": "What is a gene variant and how do variants occur?",
+            "link": "https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/",
+            "displayed_link": "https://medlineplus.gov › ... › Variants and Health",
+            "date": "Mar 25, 2021",
+            "snippet": "This type of genetic change used to be known as a gene mutation, but because changes in DNA do not always cause disease, it is thought that ...",
+            "snippet_highlighted_words": [
+                "mutation"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "MedlinePlus is an online information service produced by the United States National Library of Medicine. The service provides curated consumer health information in English and Spanish with select content in additional languages.",
+                    "icon": "https://serpapi.com/searches/629e3d0e87a0eed17ed5162a/images/d142f440c98d352b168190b6aee402f2d28ce1b72e6ea6ec9bb5a347fa8807573852859cd39ef524721bd327932909c0.png"
+                },
+                "keywords": [
+                    "mutation"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/&tbm=ilp&ilps=ADNMCi1-Ov7fQiLVJqnBkufj_7G2UI-aHw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qE0J1y-bbGMJ:https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "What is Mutation? - Learn Genetics Utah",
+            "link": "https://learn.genetics.utah.edu/content/basics/mutation/",
+            "displayed_link": "https://learn.genetics.utah.edu › content › basics › mutat...",
+            "snippet": "Mutation creates slightly different versions of the same genes, called alleles. These small differences in DNA sequence make every individual unique.",
+            "snippet_highlighted_words": [
+                "Mutation"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The University of Utah is a public research university in Salt Lake City, Utah. It is the flagship institution of the Utah System of Higher Education.",
+                    "icon": "https://serpapi.com/searches/629e3d0e87a0eed17ed5162a/images/d142f440c98d352b168190b6aee402f258363f87226ffdb32beca0008498f91f8ab322167a76bbc413cea4938a19acd6.png"
+                },
+                "keywords": [
+                    "mutation"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://learn.genetics.utah.edu/content/basics/mutation/&tbm=ilp&ilps=ADNMCi3L5OC6mFTuE_C2dDKUPSn8byRiYg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NygzUjDTiUIJ:https://learn.genetics.utah.edu/content/basics/mutation/+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "Mutation, Repair and Recombination - Genomes - NCBI",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK21114/",
+            "displayed_link": "https://www.ncbi.nlm.nih.gov › books › NBK21114",
+            "snippet": "A mutation (Section 14.1) is a change in the nucleotide sequence of a short region of a genome (Figure 14.1A). Many mutations are point mutations that replace ...",
+            "snippet_highlighted_words": [
+                "mutation",
+                "mutations",
+                "mutations"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "by TA Brown",
+                        "2002",
+                        "Cited by 33 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2002,
+                        "cited_by": 33
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The National Center for Biotechnology Information is part of the United States National Library of Medicine, a branch of the National Institutes of Health. It is approved and funded by the government of the United States.",
+                    "icon": "https://serpapi.com/searches/629e3d0e87a0eed17ed5162a/images/d142f440c98d352b168190b6aee402f2f7759d49cdc166a56ab4e0aef64d778c98228305689f9a90d6405b26c2b00b2b.png"
+                },
+                "keywords": [
+                    "mutation"
+                ],
+                "related_keywords": [
+                    "mutations"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ncbi.nlm.nih.gov/books/NBK21114/&tbm=ilp&ilps=ADNMCi10kqeymhzBoEDILIu8W4zrsWQVHw",
+            "cached_page_link": "/search?gl=us&hl=en&q=related:https://www.ncbi.nlm.nih.gov/books/NBK21114/+Mutation"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "mutation biology",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Mutation+Biology&sa=X&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ1QJ6BAg_EAE"
+        },
+        {
+            "query": "mutation examples",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Mutation+examples&sa=X&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ1QJ6BAhIEAE"
+        },
+        {
+            "query": "genetic mutation",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Genetic+mutation&sa=X&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ1QJ6BAhHEAE"
+        },
+        {
+            "query": "what causes mutation",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=What+causes+mutation&sa=X&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ1QJ6BAhGEAE"
+        },
+        {
+            "query": "5 causes of mutation",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=5+causes+of+mutation&sa=X&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ1QJ6BAg9EAE"
+        },
+        {
+            "query": "mutation ppt",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Mutation+ppt&sa=X&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "genetic mutations in humans",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Genetic+mutations+in+humans&sa=X&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ1QJ6BAhFEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Mutation&gl=us&hl=en&ei=Dj2eYvenM6GCytMPheuOuAI&start=10&sa=N&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ8NMDegQIAhBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Mutation&gl=us&hl=en&ei=Dj2eYvenM6GCytMPheuOuAI&start=10&sa=N&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ8tMDegQIAhA3",
+            "3": "https://www.google.com/search?q=Mutation&gl=us&hl=en&ei=Dj2eYvenM6GCytMPheuOuAI&start=20&sa=N&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ8tMDegQIAhA5",
+            "4": "https://www.google.com/search?q=Mutation&gl=us&hl=en&ei=Dj2eYvenM6GCytMPheuOuAI&start=30&sa=N&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ8tMDegQIAhA7",
+            "5": "https://www.google.com/search?q=Mutation&gl=us&hl=en&ei=Dj2eYvenM6GCytMPheuOuAI&start=40&sa=N&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ8tMDegQIAhA9",
+            "6": "https://www.google.com/search?q=Mutation&gl=us&hl=en&ei=Dj2eYvenM6GCytMPheuOuAI&start=50&sa=N&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ8tMDegQIAhA_",
+            "7": "https://www.google.com/search?q=Mutation&gl=us&hl=en&ei=Dj2eYvenM6GCytMPheuOuAI&start=60&sa=N&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ8tMDegQIAhBB",
+            "8": "https://www.google.com/search?q=Mutation&gl=us&hl=en&ei=Dj2eYvenM6GCytMPheuOuAI&start=70&sa=N&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ8tMDegQIAhBD",
+            "9": "https://www.google.com/search?q=Mutation&gl=us&hl=en&ei=Dj2eYvenM6GCytMPheuOuAI&start=80&sa=N&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ8tMDegQIAhBF",
+            "10": "https://www.google.com/search?q=Mutation&gl=us&hl=en&ei=Dj2eYvenM6GCytMPheuOuAI&start=90&sa=N&ved=2ahUKEwj35q65sJn4AhUhgXIEHYW1AycQ8tMDegQIAhBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mutation&start=90"
+        }
+    }
+}

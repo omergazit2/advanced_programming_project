@@ -1,0 +1,550 @@
+{
+    "search_metadata": {
+        "id": "629e3d2e34ff951e3760f232",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d8989f677790c684/629e3d2e34ff951e3760f232.json",
+        "created_at": "2022-06-06 17:45:18 UTC",
+        "processed_at": "2022-06-06 17:45:18 UTC",
+        "google_url": "https://www.google.com/search?q=CRISPR&oq=CRISPR&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d8989f677790c684/629e3d2e34ff951e3760f232.html",
+        "total_time_taken": 1.27
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "CRISPR",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "CRISPR",
+        "total_results": 131000000,
+        "time_taken_displayed": 0.57
+    },
+    "knowledge_graph": {
+        "title": "CRISPR",
+        "header_images": [
+            {
+                "source": "https://www.cambridge.org/core/journals/mrs-bulletin/news/crispr-implications-for-materials-science"
+            },
+            {
+                "source": "https://www.youtube.com/watch?v=qc6xgb4VXl0"
+            },
+            {
+                "source": "https://www.scientificamerican.com/article/the-dark-side-of-crispr/"
+            },
+            {
+                "source": "https://www.shutterstock.com/search/crispr"
+            },
+            {
+                "source": "https://www.iberdrola.com/innovation/genetic-modification-crispr"
+            }
+        ],
+        "description": "CRISPR is a family of DNA sequences found in the genomes of prokaryotic organisms such as bacteria and archaea. These sequences are derived from DNA fragments of bacteriophages that had previously infected the prokaryote. They are used to detect and destroy DNA from similar bacteriophages during subsequent infections.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/CRISPR"
+        },
+        "crispr_scientists": [
+            {
+                "name": "Jennifer Doudna",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Jennifer+Doudna&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4gIxc3IMC-INtUSyk630k_Nzc_PzrFLyy_PKE4tSilcxcgUnZ6bmlWQWlxQvYuX3Ss3Ly0xLLVJwyS9NyUvcwcoIAAu8XPNRAAAA&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQxA16BAhfEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Jennifer+Doudna&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4gIxc3IMC-INtUSyk630k_Nzc_PzrFLyy_PKE4tSilcxcgUnZ6bmlWQWlxQvYuX3Ss3Ly0xLLVJwyS9NyUvcwcoIAAu8XPNRAAAA",
+                "image": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/3998fd06ff612f9f0f52f02d85d5f6f1db330c4cda4a0a5621d6122c1a6cfbf1d40b3e9a9a8120ea0ad4815b4dd32444.jpeg"
+            },
+            {
+                "name": "Emmanuelle Charpentier",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Emmanuelle+Charpentier&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4tFP1zcsNDPLSy7Ky9ESyU620k_Oz83Nz7NKyS_PK08sSilexcgVnJyZmleSWVxSvIhVzDU3NzGvNDUnJ1XBOSOxqAAkk1q0g5URAJsuN8xaAAAA&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQxA16BAhfEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Emmanuelle+Charpentier&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4tFP1zcsNDPLSy7Ky9ESyU620k_Oz83Nz7NKyS_PK08sSilexcgVnJyZmleSWVxSvIhVzDU3NzGvNDUnJ1XBOSOxqAAkk1q0g5URAJsuN8xaAAAA",
+                "image": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/3998fd06ff612f9f0f52f02d85d5f6f1db330c4cda4a0a5621d6122c1a6cfbf1ff451e2194395fa00b3e19574cda6cb3.jpeg"
+            },
+            {
+                "name": "Feng Zhang",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Feng+Zhang&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4gIxMwxNsywLtESyk630k_Nzc_PzrFLyy_PKE4tSilcxcgUnZ6bmlWQWlxQvYuVyS81LV4jKSMxL38HKCADokkJyTAAAAA&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQxA16BAhfEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Feng+Zhang&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4gIxMwxNsywLtESyk630k_Nzc_PzrFLyy_PKE4tSilcxcgUnZ6bmlWQWlxQvYuVyS81LV4jKSMxL38HKCADokkJyTAAAAA",
+                "image": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/3998fd06ff612f9f0f52f02d85d5f6f1db330c4cda4a0a5621d6122c1a6cfbf19912b8895fa11ee092c58d2c871659f8.jpeg"
+            },
+            {
+                "name": "He Jiankui",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=He+Jiankui&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4tVP1zc0TMsoLswxTSnTEslOttJPzs_Nzc-zSskvzytPLEopXsXIFZycmZpXkllcUryIlcsjVcErMzEvuzRzBysjAJPMJ9tPAAAA&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQxA16BAhfEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=He+Jiankui&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4tVP1zc0TMsoLswxTSnTEslOttJPzs_Nzc-zSskvzytPLEopXsXIFZycmZpXkllcUryIlcsjVcErMzEvuzRzBysjAJPMJ9tPAAAA",
+                "image": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/3998fd06ff612f9f0f52f02d85d5f6f1db330c4cda4a0a5621d6122c1a6cfbf1e1f0d751380a754c84cc70b4318743da.jpeg"
+            }
+        ],
+        "crispr_books": [
+            {
+                "name": "Editing Humanity: The CRI...",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Editing+Humanity:+The+CRISPR+Revolution+and+the+New+Era+of+Genome+Editing&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4tVP1zc0zKjMtcguMUvXEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iNXTNSWzJDMvXcGjNDcxL7Ok0kohJCNVwTnIMzggSCEotSw_p7QkMz9PITEvRaEEKOOXWq7gWpSokJ-m4J6al5-bqgA1YQcrIwArQMGxiQAAAA&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQxA16BAhgEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Editing+Humanity%3A+The+CRISPR+Revolution+and+the+New+Era+of+Genome+Editing&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4tVP1zc0zKjMtcguMUvXEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iNXTNSWzJDMvXcGjNDcxL7Ok0kohJCNVwTnIMzggSCEotSw_p7QkMz9PITEvRaEEKOOXWq7gWpSokJ-m4J6al5-bqgA1YQcrIwArQMGxiQAAAA",
+                "image": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/3998fd06ff612f9f0f52f02d85d5f6f1e9924f71c4a782daedb3baf541eb1d2abc01039b81256dec.jpeg"
+            },
+            {
+                "name": "The Code Breaker",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=The+Code+Breaker&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4tVP1zc0zK5IL0rLzTDQEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iFUgJCNVwTk_JVXBqSg1MTu1aAcrIwCZU8e1UAAAAA&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQxA16BAhgEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Code+Breaker&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4tVP1zc0zK5IL0rLzTDQEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iFUgJCNVwTk_JVXBqSg1MTu1aAcrIwCZU8e1UAAAAA",
+                "image": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/3998fd06ff612f9f0f52f02d85d5f6f1e9924f71c4a782da3256c8181b32446446daf638dfae1bd4.jpeg"
+            },
+            {
+                "name": "A Crack in Creation: Gene Ed...",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=A+Crack+in+Creation:+Gene+Editing+and+the+Unthinkable+Power+to+Control+Evolution&stick=H4sIAAAAAAAAABXLMQ7CIBSA4TSGRAcX4wFeHF0o0Th006Zx7eIBKJBCgPeUotzH0RN4POv2D9-_XGxWPPL69DiWw27NRy6EEveIdqj3W68arihGwkZTwSKTnj4VuxD56c36M7RJKg8O5zAyu9nB1aCBTrvscASJGrI1cMNsHXo5BAM9FZMgE7SEOVGA7kXh-Z-_rPoBuzgOw5AAAAA&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQxA16BAhgEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=A+Crack+in+Creation%3A+Gene+Editing+and+the+Unthinkable+Power+to+Control+Evolution&stick=H4sIAAAAAAAAABXLMQ7CIBSA4TSGRAcX4wFeHF0o0Th006Zx7eIBKJBCgPeUotzH0RN4POv2D9-_XGxWPPL69DiWw27NRy6EEveIdqj3W68arihGwkZTwSKTnj4VuxD56c36M7RJKg8O5zAyu9nB1aCBTrvscASJGrI1cMNsHXo5BAM9FZMgE7SEOVGA7kXh-Z-_rPoBuzgOw5AAAAA",
+                "image": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/3998fd06ff612f9f0f52f02d85d5f6f1e9924f71c4a782dacf1bcf2bb8b3183ed6606898b66513bc.jpeg"
+            },
+            {
+                "name": "CRISPR People: The Scie...",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=CRISPR+People:+The+Science+and+Ethics+of+Editing+Humans&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4tVP1zc0TCtJsSiLtzDXEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iNXcOcgzOCBIISA1vyAn1UohJCNVITg5MzUvOVUhMS9FwbUkIzO5WCE_TcE1JbMkMy9dwaM0NzGveAcrIwDK1NV1dwAAAA&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQxA16BAhgEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR+People%3A+The+Science+and+Ethics+of+Editing+Humans&stick=H4sIAAAAAAAAAONgFuLUz9U3MCs0KTdW4tVP1zc0TCtJsSiLtzDXEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iNXcOcgzOCBIISA1vyAn1UohJCNVITg5MzUvOVUhMS9FwbUkIzO5WCE_TcE1JbMkMy9dwaM0NzGveAcrIwDK1NV1dwAAAA",
+                "image": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/3998fd06ff612f9f0f52f02d85d5f6f1e9924f71c4a782dad1d24f0c4056c9076bc227c3ad9f5130.jpeg"
+            }
+        ],
+        "see_results_about": [
+            {
+                "name": "CRISPR gene editing",
+                "extensions": [
+                    "CRISPR gene editing is a genetic engineering technique ..."
+                ],
+                "image": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/3998fd06ff612f9f0f52f02d85d5f6f190ba8d652dc2f6fa631c74699fdac6481dbf557072941289a2593646aca1a26b.png"
+            },
+            {
+                "name": "Cas9",
+                "extensions": [
+                    "Cas9 is a 160 kilodalton protein which plays a vital role in the ..."
+                ],
+                "image": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/3998fd06ff612f9f0f52f02d85d5f6f190ba8d652dc2f6fa631c74699fdac64895d8e7dddda46802f934652dd36f57f1.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "CRISPR Explained",
+            "link": "https://www.youtube.com/watch?v=UKbrwPL3wXE",
+            "thumbnail": "https://i.ytimg.com/vi/UKbrwPL3wXE/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kwV4XloPQJAwmEMN8pVtUskaJtyw",
+            "channel": "Mayo Clinic",
+            "duration": "1:39",
+            "platform": "YouTube",
+            "date": "Jul 24, 2018"
+        },
+        {
+            "position": 2,
+            "title": "Genome Editing with CRISPR-Cas9",
+            "link": "https://www.youtube.com/watch?v=2pp17E4E-O8",
+            "thumbnail": "https://i.ytimg.com/vi/2pp17E4E-O8/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3m-P1_tzERFtrlYFZsJ0iu9QX595g",
+            "channel": "McGovern Institute",
+            "duration": "4:13",
+            "platform": "YouTube",
+            "date": "Nov 5, 2014"
+        },
+        {
+            "position": 3,
+            "title": "CRISPR: Gene editing and beyond",
+            "link": "https://www.youtube.com/watch?v=4YKFw2KZA5o",
+            "thumbnail": "https://i.ytimg.com/vi/4YKFw2KZA5o/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mE9OgJ9nNMz8w6qtJbpn9Mmakxqw",
+            "channel": "nature video",
+            "duration": "4:32",
+            "platform": "YouTube",
+            "date": "Oct 31, 2017"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "CRISPR Scaling Law Helps Bacteria Balance Autoimmunity and Antiviral Defense",
+            "link": "https://www.genengnews.com/topics/genome-editing/crispr-scaling-law-helps-bacteria-balance-autoimmunity-and-antiviral-defense/",
+            "source": "Genetic Engineering and Biotechnology News",
+            "date": "9 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/d7cdb6293f4588cdb8812acdb13ef623d331f713600f7fff.jpeg"
+        },
+        {
+            "title": "New CRISPR Tool Protects Against Viruses Without Making Any DNA Cuts",
+            "link": "https://singularityhub.com/2022/06/06/new-crispr-tool-protects-against-viruses-without-making-any-dna-cuts/",
+            "source": "Singularity Hub",
+            "date": "10 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/d7cdb6293f4588cd5fe91b70d43eabc285acfb4e7864781a.jpeg"
+        },
+        {
+            "title": "CRISPR-Cas9 editing of the arginine–vasopressin V1a receptor produces paradoxical changes in social behavior in ...",
+            "link": "https://www.pnas.org/doi/10.1073/pnas.2121037119",
+            "source": "PNAS",
+            "date": "1 month ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/d7cdb6293f4588cd2d423cf90055d5f1ad1baf0c3e65e455.jpeg"
+        },
+        {
+            "title": "Better than CRISPR? Another way to fix gene problems may be safer and more versatile",
+            "link": "https://www.science.org/content/article/better-crispr-another-way-fix-gene-problems-may-be-safer-and-more-versatile",
+            "source": "Science",
+            "date": "4 days ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/d7cdb6293f4588cd85b3d9c60011ce5a23d1f64c3ec05d75.png"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=en&gl=us&q=CRISPR&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQt8YBegQIRhAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&tbm=nws",
+    "related_questions": [
+        {
+            "question": "Why is CRISPR unethical?",
+            "snippet": "While CRISPR has the power to cure some diseases, studies have shown that it could lead to mutations that lead to others down the line. If genetic edits are made to embryos, or to egg or sperm cells, these changes will be inherited by all future generations.",
+            "title": "CRISPR Ethical Concerns - Future Work Institute",
+            "link": "https://futureworkinstitute.com/crispr-ethical-concerns/",
+            "displayed_link": "https://futureworkinstitute.com › crispr-ethical-concerns"
+        },
+        {
+            "question": "Is CRISPR used in humans?",
+            "snippet": "In a landmark trial, a group of scientists from the U.K. and New Zealand showed that CRISPR can be used to successfully edit genes in the human body. Their work involved six patients with a devastating genetic disease called transthyretin amyloidosis, and was published in the New England Journal of Medicine in June.Jan 4, 2022",
+            "title": "CRISPR Gene-Editing Technology Enters the Body — and Space",
+            "link": "https://www.discovermagazine.com/health/crispr-gene-editing-technology-enters-the-body-and-space",
+            "displayed_link": "https://www.discovermagazine.com › health › crispr-gene..."
+        },
+        {
+            "question": "Can CRISPR change your DNA?",
+            "snippet": "The study uses CRISPR technology, which can alter DNA. For the first time, scientists are altering DNA in a living human. With more research the study could lead to the development of procedures that can help to correct other genetic disorders.May 18, 2021",
+            "title": "CRISPR Study Is First to Change DNA in Participants - Healthline",
+            "link": "https://www.healthline.com/health-news/crispr-study-is-first-to-change-dna-in-participants",
+            "displayed_link": "https://www.healthline.com › health-news › crispr-study-is..."
+        },
+        {
+            "question": "What is the CRISPR baby?",
+            "snippet": "In 2018, the world learned that He had implanted embryos in which he had used CRISPR–Cas9 to edit a gene known as CCR5, which encodes an HIV co-receptor, with the goal of making them resistant to the virus. The implantation led to the birth of twins in 2018, and a third child was later born to separate parents.Feb 25, 2022",
+            "title": "How to protect the first 'CRISPR babies' prompts ethical debate",
+            "link": "https://www.nature.com/articles/d41586-022-00512-w",
+            "displayed_link": "https://www.nature.com › articles"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "CRISPR is a technology that can be used to edit genes and, as such, will likely change the world. The essence of CRISPR is simple: it's a way of finding a specific bit of DNA inside a cell. After that, the next step in CRISPR gene editing is usually to alter that piece of DNA.",
+        "link": "https://www.newscientist.com/definition/what-is-crispr/",
+        "displayed_link": "https://www.newscientist.com › definition › what-is-crispr",
+        "snippet": "CRISPR is a technology that can be used to edit genes and, as such, will likely change the world. The essence of CRISPR is simple: it's a way of finding a specific bit of DNA inside a cell. After that, the next step in CRISPR gene editing is usually to alter that piece of DNA.",
+        "people_also_search_for": [],
+        "about_this_result": {
+            "source": {
+                "description": "New Scientist is a magazine covering all aspects of science and technology. Based in London, it publishes weekly English-language editions in the United Kingdom, the United States, and Australia. An editorially separate organisation publishes a monthly Dutch-language edition.",
+                "icon": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/27a62b9f962ba459f48706a3b37d085e1ee219b68441343961079846b27e35393b6b9168a45093e74e4f0edff0569638.png"
+            },
+            "keywords": [
+                "crispr"
+            ],
+            "languages": [
+                "English"
+            ],
+            "regions": [
+                "the United States"
+            ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://www.newscientist.com/definition/what-is-crispr/&tbm=ilp&ilps=ADNMCi1kgw7krPJHMtJFmP5OIj9WCKGt2Q"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Home Page | CRISPR",
+            "link": "http://www.crisprtx.com/",
+            "displayed_link": "http://www.crisprtx.com",
+            "snippet": "Gene-based medicines. Transforming the lives of patients with serious diseases. Learn More · Download CRISPR Therapeutics Corporate Presentation.",
+            "snippet_highlighted_words": [
+                "CRISPR"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Gene Editing",
+                        "link": "http://www.crisprtx.com/gene-editing/crispr-cas9"
+                    },
+                    {
+                        "title": "Careers",
+                        "link": "http://www.crisprtx.com/careers"
+                    },
+                    {
+                        "title": "Programs",
+                        "link": "http://www.crisprtx.com/programs/pipeline"
+                    },
+                    {
+                        "title": "CRISPR Therapeutics",
+                        "link": "http://ir.crisprtx.com/"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "CRISPR Therapeutics AG is a Swiss–American biotechnology company headquartered in Zug, Switzerland. In fiscal year 2019, the company had revenues of $289.59 million, with net income of $66.86 million. In the same year, the number of employees stood at 304.",
+                    "icon": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/a09299c0524a37838d1c8cc83b55aeb5a1bcb4fd6d59553062fcd4f4800bf31298a97cfec1ddcb3916b260ae0d5504ed.png"
+                },
+                "keywords": [
+                    "crispr"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+http://www.crisprtx.com/&tbm=ilp&ilps=ADNMCi3JLtmPcZBEg5tyEnv1PYLZH2hIbg",
+            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:IaVQrnOQpFoJ:www.crisprtx.com/+&cd=13&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:www.crisprtx.com/+CRISPR"
+        },
+        {
+            "position": 2,
+            "title": "What are genome editing and CRISPR-Cas9? - MedlinePlus",
+            "link": "https://medlineplus.gov/genetics/understanding/genomicresearch/genomeediting/",
+            "displayed_link": "https://medlineplus.gov › ... › Genomic Research",
+            "date": "Mar 22, 2022",
+            "snippet": "When infected with viruses, bacteria capture small pieces of the viruses' DNA and insert them into their own DNA in a particular pattern to ...",
+            "about_this_result": {
+                "source": {
+                    "description": "MedlinePlus is an online information service produced by the United States National Library of Medicine. The service provides curated consumer health information in English and Spanish with select content in additional languages.",
+                    "icon": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/a09299c0524a37838d1c8cc83b55aeb55b05ad81e20c02a51c2bbc142889f6544a8b4fa4924fa209588bd84014027148.png"
+                },
+                "keywords": [
+                    "crispr"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://medlineplus.gov/genetics/understanding/genomicresearch/genomeediting/&tbm=ilp&ilps=ADNMCi1ykDpKABDAuXPNlTW0kRTXrrVpkg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:L_TWu35-OwYJ:https://medlineplus.gov/genetics/understanding/genomicresearch/genomeediting/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Questions and Answers about CRISPR | Broad Institute",
+            "link": "https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/questions-and-answers-about-crispr",
+            "displayed_link": "https://www.broadinstitute.org › project-spotlight › que...",
+            "snippet": "A: “CRISPR” (pronounced “crisper”) stands for Clustered Regularly Interspaced Short Palindromic Repeats, which are the hallmark of a bacterial defense ...",
+            "snippet_highlighted_words": [
+                "CRISPR",
+                "Clustered Regularly Interspaced Short Palindromic Repeats"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Eli and Edythe L. Broad Institute of MIT and Harvard, often referred to as the Broad Institute, is a biomedical and genomic research center located in Cambridge, Massachusetts, United States.",
+                    "icon": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/a09299c0524a37838d1c8cc83b55aeb521c1fcd4ce9c154405bf27aa08fb70690fc54bc00ffea9e3d21d29c739cb8f72.png"
+                },
+                "keywords": [
+                    "crispr"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/questions-and-answers-about-crispr&tbm=ilp&ilps=ADNMCi0Vig_5NmcjinE8L2HW2BXzutlrDQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nRvtR3w79UkJ:https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/questions-and-answers-about-crispr+&cd=15&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/questions-and-answers-about-crispr+CRISPR"
+        },
+        {
+            "position": 4,
+            "title": "CRISPR - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/CRISPR",
+            "displayed_link": "https://en.wikipedia.org › wiki › CRISPR",
+            "snippet": "CRISPR (/ˈkrɪspər/) (an acronym for clustered regularly interspaced short palindromic repeats) is a family of DNA sequences found in the genomes of prokaryotic ...",
+            "snippet_highlighted_words": [
+                "CRISPR",
+                "clustered regularly interspaced short palindromic repeats"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "History",
+                        "link": "https://en.wikipedia.org/wiki/CRISPR#History"
+                    },
+                    {
+                        "title": "Locus structure",
+                        "link": "https://en.wikipedia.org/wiki/CRISPR#Locus_structure"
+                    },
+                    {
+                        "title": "Mechanism",
+                        "link": "https://en.wikipedia.org/wiki/CRISPR#Mechanism"
+                    },
+                    {
+                        "title": "Evolution",
+                        "link": "https://en.wikipedia.org/wiki/CRISPR#Evolution"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/a09299c0524a37838d1c8cc83b55aeb53d99a6844a9cb915625424ae9782e9cd29146a56b6a468afe00beb1fb6ccd7cd.png"
+                },
+                "keywords": [
+                    "crispr"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/CRISPR&tbm=ilp&ilps=ADNMCi1LPJUlIQjh8o6ubgg-c-uzMjZE6g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iIchTgahdgwJ:https://en.wikipedia.org/wiki/CRISPR+&cd=20&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://en.wikipedia.org/wiki/CRISPR+CRISPR"
+        },
+        {
+            "position": 5,
+            "title": "What is CRISPR? - The Jackson Laboratory",
+            "link": "https://www.jax.org/personalized-medicine/precision-medicine-and-you/what-is-crispr",
+            "displayed_link": "https://www.jax.org › precision-medicine-and-you › wh...",
+            "snippet": "CRISPR stands for Clustered Regularly Interspaced Short Palindromic Repeats ... Repetitive DNA sequences, called CRISPR, were observed in bacteria with “spacer” ...",
+            "snippet_highlighted_words": [
+                "CRISPR",
+                "CRISPR"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "oct": null
+                    },
+                    "extensions": [
+                        "Oct 1, 2019",
+                        "Uploaded by McGovern Institute"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Jackson Laboratory is an independent, non-profit biomedical research institution. It employs more than 2,100 employees in Bar Harbor, Maine; Sacramento, California; and a genomic medicine institute in Farmington, Connecticut.",
+                    "icon": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/a09299c0524a37838d1c8cc83b55aeb5b23b0ed7d1d6e0a154fcb240fb9b72c683ab8d05648d676847a6e2e70bd341ad.png"
+                },
+                "keywords": [
+                    "crispr"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.jax.org/personalized-medicine/precision-medicine-and-you/what-is-crispr&tbm=ilp&ilps=ADNMCi2Ax6yaAHJDQcbt_ZKWG9hGpNbAAg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8KqkX5wpGHsJ:https://www.jax.org/personalized-medicine/precision-medicine-and-you/what-is-crispr+&cd=24&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "What is CRISPR-Cas9? | Facts | yourgenome.org",
+            "link": "https://www.yourgenome.org/facts/what-is-crispr-cas9",
+            "displayed_link": "https://www.yourgenome.org › facts › what-is-crispr-cas9",
+            "date": "Feb 8, 2022",
+            "snippet": "CRISPR-Cas9 is a unique technology that enables geneticists and medical researchers to edit parts of the genome? by removing, adding or altering ...",
+            "snippet_highlighted_words": [
+                "CRISPR"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "yourgenome.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/a09299c0524a37838d1c8cc83b55aeb57a216f9f5c094c292dd9b5478efd07517b5d24529280e73795d1f869dcaa8b44.png"
+                },
+                "keywords": [
+                    "crispr"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.yourgenome.org/facts/what-is-crispr-cas9&tbm=ilp&ilps=ADNMCi3RCS3lsPOUnV3fGZelsMdEjl8A1g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pD3-REoV-iEJ:https://www.yourgenome.org/facts/what-is-crispr-cas9+&cd=25&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "What is CRISPR? | Live Science",
+            "link": "https://www.livescience.com/58790-crispr-explained.html",
+            "displayed_link": "https://www.livescience.com › 58790-crispr-explained",
+            "date": "Oct 20, 2021",
+            "snippet": "CRISPR is a powerful tool for editing genomes, meaning it allows researchers to easily alter DNA sequences and modify gene function.",
+            "snippet_highlighted_words": [
+                "CRISPR"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Live Science is a science news website run by Future via Purch, which it purchased from Imaginova in 2009. Stories and editorial commentary are typically syndicated to major news outlets, such as Yahoo!, MSNBC, AOL, and Fox News.",
+                    "icon": "https://serpapi.com/searches/629e3d2e34ff951e3760f232/images/a09299c0524a37838d1c8cc83b55aeb5650d2c7c781f787d90e7b135bb21889d22b4c48e78310f9b6540ebe7347c2948.png"
+                },
+                "keywords": [
+                    "crispr"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.livescience.com/58790-crispr-explained.html&tbm=ilp&ilps=ADNMCi0_I-Q5-e20v7QyRLLC1PwKoDKRYw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:r9uDx2i5nvMJ:https://www.livescience.com/58790-crispr-explained.html+&cd=26&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "crispr stock",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=CRISPR+stock&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "crispr company",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=CRISPR+company&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "who discovered crispr",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Who+discovered+CRISPR&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "crispr gene editing in humans",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=CRISPR+gene+editing+in+humans&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "crispr uses",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=CRISPR+uses&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "how does crispr work",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=How+does+CRISPR+work&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "crispr babies",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=CRISPR+babies&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "crispr news",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=CRISPR+news&sa=X&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ1QJ6BAgwEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=CRISPR&hl=en&gl=us&ei=Lj2eYs2oNKa4ggek1a6YAQ&start=10&sa=N&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ8NMDegQIAhBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=CRISPR&hl=en&gl=us&ei=Lj2eYs2oNKa4ggek1a6YAQ&start=10&sa=N&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ8tMDegQIAhA3",
+            "3": "https://www.google.com/search?q=CRISPR&hl=en&gl=us&ei=Lj2eYs2oNKa4ggek1a6YAQ&start=20&sa=N&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ8tMDegQIAhA5",
+            "4": "https://www.google.com/search?q=CRISPR&hl=en&gl=us&ei=Lj2eYs2oNKa4ggek1a6YAQ&start=30&sa=N&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ8tMDegQIAhA7",
+            "5": "https://www.google.com/search?q=CRISPR&hl=en&gl=us&ei=Lj2eYs2oNKa4ggek1a6YAQ&start=40&sa=N&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ8tMDegQIAhA9",
+            "6": "https://www.google.com/search?q=CRISPR&hl=en&gl=us&ei=Lj2eYs2oNKa4ggek1a6YAQ&start=50&sa=N&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ8tMDegQIAhA_",
+            "7": "https://www.google.com/search?q=CRISPR&hl=en&gl=us&ei=Lj2eYs2oNKa4ggek1a6YAQ&start=60&sa=N&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ8tMDegQIAhBB",
+            "8": "https://www.google.com/search?q=CRISPR&hl=en&gl=us&ei=Lj2eYs2oNKa4ggek1a6YAQ&start=70&sa=N&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ8tMDegQIAhBD",
+            "9": "https://www.google.com/search?q=CRISPR&hl=en&gl=us&ei=Lj2eYs2oNKa4ggek1a6YAQ&start=80&sa=N&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ8tMDegQIAhBF",
+            "10": "https://www.google.com/search?q=CRISPR&hl=en&gl=us&ei=Lj2eYs2oNKa4ggek1a6YAQ&start=90&sa=N&ved=2ahUKEwjN99DIsJn4AhUmnOAKHaSqCxMQ8tMDegQIAhBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=CRISPR&start=90"
+        }
+    }
+}

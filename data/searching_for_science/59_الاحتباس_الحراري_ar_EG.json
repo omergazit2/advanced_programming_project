@@ -1,0 +1,354 @@
+{
+    "search_metadata": {
+        "id": "627cff772348846ae42714bd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/02b3a2982eaf7c68/627cff772348846ae42714bd.json",
+        "created_at": "2022-05-12 12:37:11 UTC",
+        "processed_at": "2022-05-12 12:37:11 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&oq=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&uule=w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=&hl=ar&gl=EG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/02b3a2982eaf7c68/627cff772348846ae42714bd.html",
+        "total_time_taken": 1.43
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "الاحتباس الحراري",
+        "uule": "w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "EG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "الاحتباس الحراري",
+        "total_results": 1530000,
+        "time_taken_displayed": 0.49
+    },
+    "knowledge_graph": {
+        "title": "تقلب المناخ",
+        "header_images": [
+            {
+                "source": "https://slideplayer.com/slide/4385311/"
+            },
+            {
+                "source": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%88_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A"
+            },
+            {
+                "source": "https://gate.ahram.org.eg/News/3076433.aspx"
+            },
+            {
+                "source": "https://ngalarabiya.com/article/4256323/%D9%85%D8%A7-%D9%87%D9%88-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A"
+            }
+        ],
+        "description": "الاحتباس الحراري ‏ ازدياد درجة الحرارة السطحية المتوسطة في العالم مع زيادة كمية ثاني أكسيد الكربون، وغاز الميثان، وبعض الغازات الأخرى في الجو. هذه الغازات تسمى بالغازات الدفيئة لأنها تساهم في تدفئة جو الأرض السطحي، وهي الظاهرة التي تعرف باسم الاحتباس الحراري.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A"
+        },
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "تنوع حيوي",
+                "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%AA%D9%86%D9%88%D8%B9+%D8%AD%D9%8A%D9%88%D9%8A&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWu9HvtG-H17isz5A3lpms-4Ysb9fQ7XtKENeOfDz06-sTGjlqMxCiAXGpRrGc1-rw9vGnnPkbdhCamgKGqlKN5ILP3NrcpdybuE-Jdly5gjOQg8VpnJAOFGC0NN8_diApSdgr-3oqL1lUoFnzGNK6fiNENduI-ACcHW991T24wZAkCA6bvL36-6aJxYDb37dstJmSb1nT5uvvNkm5d3vD9AFrNKfhpesesLWZVh4GVrcRaQYa9Xu5oVJU2rbxSfc_9v0HjUwGfJugmLQANxZDZBY8u5&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQxA16BAheEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%AA%D9%86%D9%88%D8%B9+%D8%AD%D9%8A%D9%88%D9%8A&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWu9HvtG-H17isz5A3lpms-4Ysb9fQ7XtKENeOfDz06-sTGjlqMxCiAXGpRrGc1-rw9vGnnPkbdhCamgKGqlKN5ILP3NrcpdybuE-Jdly5gjOQg8VpnJAOFGC0NN8_diApSdgr-3oqL1lUoFnzGNK6fiNENduI-ACcHW991T24wZAkCA6bvL36-6aJxYDb37dstJmSb1nT5uvvNkm5d3vD9AFrNKfhpesesLWZVh4GVrcRaQYa9Xu5oVJU2rbxSfc_9v0HjUwGfJugmLQANxZDZBY8u5&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+                "image": "https://serpapi.com/searches/627cff772348846ae42714bd/images/7524252a409d47169f8dad62c37217b76345d3855e5bdb6e37d7429ef02e44e63ff83a163d0e7624fe399bb30350e9aee26964bb9af7de47f1c499c778c59f7a.jpeg"
+            },
+            {
+                "name": "نظام بيئي",
+                "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D8%A6%D9%8A&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdY6SM372DCUk7aCHZ1ibGc1dEGWn07G84LzBiYUrO2fXPPj4feGCMmXggq63Xh2trHHqZVbBGQyIEhVNZvUavFhY2vskbM9D5JF6q2IxVWJDOkiifDx3UC7I0Jz87BI78BACKoyhuZW_eZ4poj8XqThwtEg0CI1ZRc2_Y0CurkmJKUdftNyoQKahkS2d-w-B6oy4nCPKpZ5g_dggZzayGgnNEdfxcUMw3tSIVkokfwgjsn55NouUlCZP7YgpxuvOmsgCsgUY0l2ELUkvIulMA9lAvp3a&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQxA16BAheEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D9%86%D8%B8%D8%A7%D9%85+%D8%A8%D9%8A%D8%A6%D9%8A&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdY6SM372DCUk7aCHZ1ibGc1dEGWn07G84LzBiYUrO2fXPPj4feGCMmXggq63Xh2trHHqZVbBGQyIEhVNZvUavFhY2vskbM9D5JF6q2IxVWJDOkiifDx3UC7I0Jz87BI78BACKoyhuZW_eZ4poj8XqThwtEg0CI1ZRc2_Y0CurkmJKUdftNyoQKahkS2d-w-B6oy4nCPKpZ5g_dggZzayGgnNEdfxcUMw3tSIVkokfwgjsn55NouUlCZP7YgpxuvOmsgCsgUY0l2ELUkvIulMA9lAvp3a&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+                "image": "https://serpapi.com/searches/627cff772348846ae42714bd/images/7524252a409d47169f8dad62c37217b76345d3855e5bdb6e37d7429ef02e44e63ff83a163d0e7624fe399bb30350e9aee26964bb9af7de47393a69c2abb4222f.jpeg"
+            },
+            {
+                "name": "بيئة طبيعية",
+                "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A8%D9%8A%D8%A6%D8%A9+%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgNtl9sUCVJsxXodpuf8ClXh4SXFQjNwzNeX9AA639LJm7s7O7U4JOZ1t9Gaq6w1TW6uJc0SEPS2ymfQhcYGLeZqCwm3qmnzjV4zNaemEEjrvL5FqvmUTWcaVai_w_jqNd9mbskmZmlNDRsxTLyVZ8P2EfWLS9eBqR5a0JP1pwrK5ze7HpxbOTPSMy6kemR3huV_WyJu8PnOFf65ZQj1DoCwj3D1m6bwGdr---vCrUkZm-ZaaCybAidGI9cg32iAXz-QaWPNFDhVhG_liral5IRg7dqXA&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQxA16BAheEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A8%D9%8A%D8%A6%D8%A9+%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgNtl9sUCVJsxXodpuf8ClXh4SXFQjNwzNeX9AA639LJm7s7O7U4JOZ1t9Gaq6w1TW6uJc0SEPS2ymfQhcYGLeZqCwm3qmnzjV4zNaemEEjrvL5FqvmUTWcaVai_w_jqNd9mbskmZmlNDRsxTLyVZ8P2EfWLS9eBqR5a0JP1pwrK5ze7HpxbOTPSMy6kemR3huV_WyJu8PnOFf65ZQj1DoCwj3D1m6bwGdr---vCrUkZm-ZaaCybAidGI9cg32iAXz-QaWPNFDhVhG_liral5IRg7dqXA&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+                "image": "https://serpapi.com/searches/627cff772348846ae42714bd/images/7524252a409d47169f8dad62c37217b76345d3855e5bdb6e37d7429ef02e44e63ff83a163d0e7624fe399bb30350e9aee26964bb9af7de473e02b5bd13bd39f0.jpeg"
+            },
+            {
+                "name": "قضايا بيئية",
+                "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%82%D8%B6%D8%A7%D9%8A%D8%A7+%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbjFNJI-ZcZ6HKhIQyhQHqXQGOF5CuIOSgbF2sR-HuyHQUpTIijSolBtNMv9gErsNFVJ052FD0WflxIa7vbfQTO-taFUS-4rUcZb-yK1emfIBR5dU7eqqD83895x34KuNry99HnYyM2xLLEK-2a_JXRU8w0JQY9w3_lZcGuiV4iklXX1amp-kiCJddWTK8j4bw6jghN46geJgAr59KDqN65CUWkqwMHH2MyZNTvGe4cWkTI7RPYpw0WqiMPeEC89gTCUYssBewHdTerzPkmy5babzcCz5&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQxA16BAheEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D9%82%D8%B6%D8%A7%D9%8A%D8%A7+%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbjFNJI-ZcZ6HKhIQyhQHqXQGOF5CuIOSgbF2sR-HuyHQUpTIijSolBtNMv9gErsNFVJ052FD0WflxIa7vbfQTO-taFUS-4rUcZb-yK1emfIBR5dU7eqqD83895x34KuNry99HnYyM2xLLEK-2a_JXRU8w0JQY9w3_lZcGuiV4iklXX1amp-kiCJddWTK8j4bw6jghN46geJgAr59KDqN65CUWkqwMHH2MyZNTvGe4cWkTI7RPYpw0WqiMPeEC89gTCUYssBewHdTerzPkmy5babzcCz5&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+                "image": "https://serpapi.com/searches/627cff772348846ae42714bd/images/7524252a409d47169f8dad62c37217b76345d3855e5bdb6e37d7429ef02e44e63ff83a163d0e7624fe399bb30350e9aee26964bb9af7de47b13c6ae590af90bc.jpeg"
+            }
+        ],
+        "يبحث_الأشخاص_أيضًا_عن_link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%AF%D9%81%D8%A7+%D9%83%D9%88%D9%83%D8%A8%D9%89&stick=H4sIAAAAAAAAAONgFuLRT9c3NMwuTi8szK1UQuFpCQZnpqSWJ1YW-6VWlASXpBYUL2IVvLH-ZuON5Qo3m2923Gy-seJm5w5WRgC0F7EmSAAAAA&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQMSgAegQIXhAB",
+        "يبحث_الأشخاص_أيضًا_عن_stick": "H4sIAAAAAAAAAONgFuLRT9c3NMwuTi8szK1UQuFpCQZnpqSWJ1YW-6VWlASXpBYUL2IVvLH-ZuON5Qo3m2923Gy-seJm5w5WRgC0F7EmSAAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "ظاهرة الاحتباس الحراري ....إلى أين؟ - science",
+            "link": "https://www.youtube.com/watch?v=kktpshzEaTU",
+            "thumbnail": "https://serpapi.com/searches/627cff772348846ae42714bd/images/31adf08ba687b8c263ca8adbd681f855ae2f3415bfbabc46f2e58026ff6cb68f.jpeg",
+            "channel": "euronews (عــربي)",
+            "duration": "2:04",
+            "platform": "YouTube",
+            "date": "29‏/01‏/2016"
+        },
+        {
+            "position": 2,
+            "title": "ازدياد انبعاثات الكربون يزيد من ظاهرة الاحتباس الحراري | #COP26",
+            "link": "https://www.youtube.com/watch?v=lYUmfiV52z0",
+            "thumbnail": "https://serpapi.com/searches/627cff772348846ae42714bd/images/31adf08ba687b8c2106f8052f3429ac9ab9a0a5063f32c2460549ab286cec873.jpeg",
+            "channel": "سكاي نيوز عربية",
+            "duration": "2:25",
+            "platform": "YouTube",
+            "date": "28‏/10‏/2021"
+        },
+        {
+            "position": 3,
+            "title": "كيف يحدث الاحتباس الحراري؟",
+            "link": "https://www.youtube.com/watch?v=hAAg93RJwgU",
+            "thumbnail": "https://serpapi.com/searches/627cff772348846ae42714bd/images/31adf08ba687b8c2e732336d2bb64b4f72d68fd232eda8d4e393a358a0d52f31.jpeg",
+            "channel": "BBC News عربي",
+            "duration": "2:52",
+            "platform": "YouTube",
+            "date": "15‏/12‏/2009"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ما هو الاحتباس الحراري؟",
+            "snippet": "الاحتباس الحراري هو ارتفاع درجة الحرارة الأرض بسبب ارتفاع مستوى غاز ثاني أكسيد الكربون وغاز الميثان وبعض الغازات الأخرى في الجو، وهي الغازات الدفيئة.",
+            "title": "الاحتباس الحراري | ما أسبابه وما آثاره وما الحلول الممكنة؟ - Twinkl",
+            "link": "https://www.twinkl.co.uk/teaching-wiki/alahtbas-alhrary",
+            "displayed_link": "https://www.twinkl.co.uk › alahtbas-alhrary"
+        },
+        {
+            "question": "ماذا يحدث للارض عند الاحتباس الحراري؟",
+            "snippet": "سيؤدي استمرار الاحتباس الحراري إلى زيادة تكثيف دورة المياه العالمية، مما يجعلها أكثر تقلبًا، وتغير هطول الأمطار الموسمية وشدة الأحداث الرطبة والجافة. مع ارتفاع انبعاثات ثاني أكسيد الكربون، ستكون المحيطات والأرض أقل فعالية في امتصاص وإبطاء تراكم ثاني أكسيد الكربون في الغلاف الجوي.",
+            "title": "النتائج الرئيسية | الأمم المتحدة - the United Nations",
+            "link": "https://www.un.org/ar/climatechange/science/key-findings",
+            "displayed_link": "https://www.un.org › science › key-findings"
+        },
+        {
+            "question": "ما مدى خطوره الاحتباس الحراري؟",
+            "snippet": "تكمن خطورة الاحتباس الحراري وآثاره السلبية في حدة التقلبات المناخية والكوارث الطبيعية التي يمكن أن تحدث نتيجةً له، مثل الجفاف والفيضانات والإعصار وغيرها، إلى جانب ما ينتج عن ذلك من خسائر بشرية ومادية، ونقص الإنتاج الفلاحي، وحدوث المجاعات والهجرات السكانية.",
+            "title": "كل ما عليك معرفته عن ظاهرة الاحتباس الحراري وأسبابها ...",
+            "link": "https://www.bayut.com/mybayut/ar/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A/",
+            "displayed_link": "https://www.bayut.com › mybayut › الاحتباس-الحراري"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "الاحتباس الحراري - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A",
+            "displayed_link": "https://ar.wikipedia.org › wiki › الاحتباس_الحراري",
+            "snippet": "الاحتباس الحراري (بالإنجليزية: Global warming)‏ ازدياد درجة الحرارة السطحية المتوسطة في العالم مع زيادة كمية ثاني أكسيد الكربون، وغاز الميثان، وبعض الغازات ...",
+            "snippet_highlighted_words": [
+                "الاحتباس الحراري"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "تبعات الاحتباس الحراري",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A"
+                    },
+                    {
+                        "title": "الجدل حول الاحتباس الحراري",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%AF%D9%84_%D8%AD%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A"
+                    },
+                    {
+                        "title": "غازات دفيئة",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%AF%D9%81%D9%8A%D8%A6%D8%A9"
+                    },
+                    {
+                        "title": "ميثان",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D8%AB%D8%A7%D9%86"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "ما هو الاحتباس الحراري - موضوع",
+            "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%88_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A",
+            "displayed_link": "https://mawdoo3.com › ... › تعريفات وقوانين علمية",
+            "snippet": "تُعرّف ظاهرة الاحتباس الحراري، أو ظاهرة الاحترار العالمي (بالإنجيزيّة: Global Warming) أو ظاهرة الدفيئة (بالإنجليزية: Greenhouse)، على أنّها ارتفاع في معدّل ...",
+            "snippet_highlighted_words": [
+                "الاحتباس الحراري"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "تعريف الاحتباس الحراري",
+                        "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A"
+                    },
+                    {
+                        "title": "ما مكونات الغلاف الجوي",
+                        "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%BA%D9%84%D8%A7%D9%81_%D8%A7%D9%84%D8%AC%D9%88%D9%8A"
+                    },
+                    {
+                        "title": "ما هي غازات الدفيئة",
+                        "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D9%81%D9%8A%D8%A6%D8%A9"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "الاحتباس الحراري | ما أسبابه وما آثاره وما الحلول الممكنة؟ - Twinkl",
+            "link": "https://www.twinkl.co.uk/teaching-wiki/alahtbas-alhrary",
+            "displayed_link": "https://www.twinkl.co.uk › alahtbas-alhrary",
+            "snippet": "الاحتباس الحراري. هو ارتفاع درجة الحرارة السطحية المتوسطة لكوكب الأرض مع ارتفاع مستوى ثاني أكسيد الكربون وغاز الميثان وبعض الغازات الأخرى في الجو.",
+            "snippet_highlighted_words": [
+                "الاحتباس الحراري"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "النتائج الرئيسية | الأمم المتحدة - the United Nations",
+            "link": "https://www.un.org/ar/climatechange/science/key-findings",
+            "displayed_link": "https://www.un.org › science › key-findings",
+            "snippet": "سيؤدي استمرار الاحتباس الحراري إلى زيادة تكثيف دورة المياه العالمية، مما يجعلها أكثر تقلبًا، وتغير هطول الأمطار الموسمية وشدة الأحداث الرطبة والجافة.",
+            "snippet_highlighted_words": [
+                "الاحتباس الحراري"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "تغير المناخ: الأمم المتحدة تطلق \"صرخة مدوية\" لإنقاذ العالم من ...",
+            "link": "https://www.bbc.com/arabic/science-and-tech-59032274",
+            "displayed_link": "https://www.bbc.com › science-and-tech-59032274",
+            "snippet": "وهذا الأسبوع، أظهرت دراسة من المنظمة العالمية للأرصاد الجوية، أن غازات الاحتباس الحراري وصلت إلى مستوى مرتفع جديد العام الماضي، على الرغم من ...",
+            "snippet_highlighted_words": [
+                "الاحتباس الحراري"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٧‏/١٠‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "تغير المناخ: الاحتباس الحراري وموجات الحر والحرائق \"إنذار ...",
+            "link": "https://www.bbc.com/arabic/inthepress-58160038",
+            "displayed_link": "https://www.bbc.com › arabic › inthepress-58160038",
+            "snippet": "حذر عدد من الصحف العربية اليوم من أن ظاهرة الاحتباس الحراري قد تتسبب في حصول كوارث طبيعية \"غير مسبوقة\"، تهدد الوجود البشرى والحياة على كوكب ...",
+            "snippet_highlighted_words": [
+                "الاحتباس الحراري"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٠‏/٠٨‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "تقرير أممي يدق ناقوس الخطر بشأن الاحتباس الحراري - سكاي ...",
+            "link": "https://www.skynewsarabia.com/world/1456136-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A7%D9%94%D9%85%D9%85%D9%8A-%D9%8A%D8%AF%D9%82-%D9%86%D8%A7%D9%82%D9%88%D8%B3-%D8%A7%D9%84%D8%AE%D8%B7%D8%B1-%D8%A8%D8%B4%D8%A7%D9%94%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A",
+            "displayed_link": "https://www.skynewsarabia.com › world › 1456136-تق...",
+            "snippet": "والاحتباس الحراري أو احترار العالمي ظاهرة تعني ارتفاع درجة حرارة الأرض بسبب ازدياد كميات الغازات الدفيئة مثل ثاني أكسيد الكربون، أما التغير ...",
+            "snippet_highlighted_words": [
+                "والاحتباس الحراري"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٩‏/٠٨‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "الاحتباس الحراري | سكاي نيوز عربية",
+            "link": "https://www.skynewsarabia.com/tag?s=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A",
+            "displayed_link": "https://www.skynewsarabia.com › tag › s=الاحتباس+الح...",
+            "snippet": "ما أهمية العودة للطاقة الشمسية في عصر الاحتباس الحراري؟ l 13 ديسمبر 2021 · المجاعة والاحتباس الحراري ...",
+            "snippet_highlighted_words": [
+                "الاحتباس الحراري",
+                "والاحتباس الحراري"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "نشرة غازات الاحتباس الحراري: عام آخر ورقم قياسي آخر - World ...",
+            "link": "https://public.wmo.int/ar/media/%D8%A8%D9%8A%D8%A7%D9%86-%D8%B5%D8%AD%D9%81%D9%8A/%D9%86%D8%B4%D8%B1%D8%A9-%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A-%D8%B9%D8%A7%D9%85-%D8%A2%D8%AE%D8%B1-%D9%88%D8%B1%D9%82%D9%85-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A-%D8%A2%D8%AE%D8%B1",
+            "displayed_link": "https://public.wmo.int › media › بيان-صحفي › نشرة-غ...",
+            "snippet": "جنيف، 25 تشرين الأول/ أكتوبر 2021 (المنظمة العالمية للأرصاد الجوية (WMO)) – وصلت وفرة الغازات المسببة للاحتباس الحراري في الغلاف الجوي مجدداً ...",
+            "snippet_highlighted_words": [
+                "للاحتباس الحراري"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٥‏/١٠‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "أسباب الاحتباس الحراري",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "أضرار الاحتباس الحراري",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "حلول الاحتباس الحراري",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%AD%D9%84%D9%88%D9%84+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "بحث عن الاحتباس الحراري pdf",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A8%D8%AD%D8%AB+%D8%B9%D9%86+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A+pdf&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "بحث عن الاحتباس الحراري doc",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A8%D8%AD%D8%AB+%D8%B9%D9%86+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A+doc&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "فوائد الاحتباس الحراري",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%81%D9%88%D8%A7%D8%A6%D8%AF+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ1QJ6BAguEAE"
+        },
+        {
+            "query": "تأثير الاحتباس الحراري",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "أهمية الاحتباس الحراري",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A3%D9%87%D9%85%D9%8A%D8%A9+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&sa=X&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ1QJ6BAgpEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&hl=ar&gl=EG&ei=d_98Yq76N8KQ_Qbx3pzYDg&start=10&sa=N&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&hl=ar&gl=EG&ei=d_98Yq76N8KQ_Qbx3pzYDg&start=10&sa=N&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&hl=ar&gl=EG&ei=d_98Yq76N8KQ_Qbx3pzYDg&start=20&sa=N&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&hl=ar&gl=EG&ei=d_98Yq76N8KQ_Qbx3pzYDg&start=30&sa=N&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&hl=ar&gl=EG&ei=d_98Yq76N8KQ_Qbx3pzYDg&start=40&sa=N&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&hl=ar&gl=EG&ei=d_98Yq76N8KQ_Qbx3pzYDg&start=50&sa=N&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&hl=ar&gl=EG&ei=d_98Yq76N8KQ_Qbx3pzYDg&start=60&sa=N&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&hl=ar&gl=EG&ei=d_98Yq76N8KQ_Qbx3pzYDg&start=70&sa=N&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&hl=ar&gl=EG&ei=d_98Yq76N8KQ_Qbx3pzYDg&start=80&sa=N&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&hl=ar&gl=EG&ei=d_98Yq76N8KQ_Qbx3pzYDg&start=90&sa=N&ved=2ahUKEwjukY6J_dn3AhVCSN8KHXEvB-sQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=20&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=30&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=40&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=50&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=60&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=70&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=80&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A&start=90&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D"
+        }
+    }
+}

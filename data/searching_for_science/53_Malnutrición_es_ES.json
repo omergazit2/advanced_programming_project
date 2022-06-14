@@ -1,0 +1,262 @@
+{
+    "search_metadata": {
+        "id": "627cff9b1d986e14d0eeaeec",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/90095ef36c1721f7/627cff9b1d986e14d0eeaeec.json",
+        "created_at": "2022-05-12 12:37:47 UTC",
+        "processed_at": "2022-05-12 12:37:47 UTC",
+        "google_url": "https://www.google.com/search?q=Malnutrici%C3%B3n&oq=Malnutrici%C3%B3n&uule=w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=&hl=es&gl=ES&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/90095ef36c1721f7/627cff9b1d986e14d0eeaeec.html",
+        "total_time_taken": 8.68
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Malnutrición",
+        "uule": "w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "ES",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Malnutrición",
+        "total_results": 5410000,
+        "time_taken_displayed": 0.5
+    },
+    "related_questions": [
+        {
+            "question": "¿Qué ocasiona la malnutrición?",
+            "snippet": "La malnutrición, o las condiciones físicas indeseables o de enfermedad que se relacionan con la nutrición, se pueden deber a comer muy poco, demasiado, o por una dieta desequilibrada que no contiene todos los nutrientes necesarios para un buen estado nutricional.",
+            "title": "Parte I: Causas de la malnutrición - FAO",
+            "link": "https://www.fao.org/3/w0073s/w0073s05.htm",
+            "displayed_link": "https://www.fao.org › ..."
+        },
+        {
+            "question": "¿Cuál es la diferencia entre desnutrición y malnutrición?",
+            "snippet": "Una persona sufre de desnutrición cuando tiene un déficit alimentario. Es decir, no come todo lo que debería. En cambio, un individuo malnutrido puede ingerir alimentos incluso en exceso, pero no son sanos.",
+            "title": "¿Cuál es la diferencia entre malnutrición y desnutrición?",
+            "link": "https://www.accioncontraelhambre.org/es/diferencia-malnutricion-desnutricion",
+            "displayed_link": "https://www.accioncontraelhambre.org › diferencia-mal..."
+        },
+        {
+            "question": "¿Cómo detectar malnutrición?",
+            "title": "Signos y síntomas",
+            "link": "https://labtestsonline.es/conditions/malnutricion",
+            "list": [
+                "En los niños, retraso o enlentecimiento del crecimiento, distensión del abdomen, apatía y languidez.",
+                "Anemia.",
+                "Pérdida de peso y de masa muscular, debilidad.",
+                "Piel seca y escamosa.",
+                "Acumulación de líquidos (edema).",
+                "Cabello frágil y fino.",
+                "Uñas quebradizas y malformadas (en forma de cuchara)."
+            ],
+            "displayed_link": "https://labtestsonline.es › conditions › malnutricion"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "La malnutrición es el resultado de llevar una dieta desequilibrada en la cual hay una falta de nutrientes o bien cuya ingesta se da en la proporción errónea. La malnutrición aumenta el riesgo de padecer una infección o enfermedades infecciosas.",
+        "link": "https://www.topdoctors.es/diccionario-medico/malnutricion#:~:text=La%20malnutrici%C3%B3n%20es%20el%20resultado,una%20infecci%C3%B3n%20o%20enfermedades%20infecciosas.",
+        "displayed_link": "https://www.topdoctors.es › Diccionario médico › M",
+        "snippet": "La malnutrición es el resultado de llevar una dieta desequilibrada en la cual hay una falta de nutrientes o bien cuya ingesta se da en la proporción errónea. La malnutrición aumenta el riesgo de padecer una infección o enfermedades infecciosas.",
+        "thumbnail": "https://serpapi.com/searches/627cff9b1d986e14d0eeaeec/images/6c7e0bf8ac6eefd9c453576c9fc5619ba0bcfcecf876a1fc.jpeg",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Malnutrición - WHO | World Health Organization",
+            "link": "https://www.who.int/es/news-room/fact-sheets/detail/malnutrition",
+            "displayed_link": "https://www.who.int › ... › Notas descriptivas › Detail",
+            "date": "9 jun 2021",
+            "snippet": "El término «malnutrición» se refiere a las carencias, los excesos y los desequilibrios de la ingesta calórica y de nutrientes de una persona.",
+            "snippet_highlighted_words": [
+                "malnutrición"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Malnutrición - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Malnutrici%C3%B3n",
+            "displayed_link": "https://es.wikipedia.org › wiki › Malnutrición",
+            "snippet": "La malnutrición es el estado que aparece como resultado de una dieta desequilibrada, en la cual hay nutrientes que faltan, o de los cuales hay un exceso, ...",
+            "snippet_highlighted_words": [
+                "malnutrición"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Efectos",
+                        "link": "https://es.wikipedia.org/wiki/Malnutrici%C3%B3n#Efectos"
+                    },
+                    {
+                        "title": "Consecuencias",
+                        "link": "https://es.wikipedia.org/wiki/Malnutrici%C3%B3n#Consecuencias"
+                    },
+                    {
+                        "title": "Pobreza y precio de los...",
+                        "link": "https://es.wikipedia.org/wiki/Malnutrici%C3%B3n#Pobreza_y_precio_de_los_alimentos"
+                    },
+                    {
+                        "title": "Amenazas futuras",
+                        "link": "https://es.wikipedia.org/wiki/Malnutrici%C3%B3n#Amenazas_futuras"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "Malnutrición | Lab Tests Online-ES",
+            "link": "https://labtestsonline.es/conditions/malnutricion",
+            "displayed_link": "https://labtestsonline.es › conditions › malnutricion",
+            "date": "2 mar 2022",
+            "snippet": "La malnutrición significa esencialmente que hay una nutrición deficitaria o defectuosa y se trata de un desequilibrio entre la cantidad de ...",
+            "snippet_highlighted_words": [
+                "malnutrición"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "¿Cuál es la diferencia entre malnutrición y desnutrición?",
+            "link": "https://www.accioncontraelhambre.org/es/diferencia-malnutricion-desnutricion",
+            "displayed_link": "https://www.accioncontraelhambre.org › diferencia-mal...",
+            "snippet": "La malnutrición se refiere a una alimentación desequilibrada, ya sea por exceso o por la escasez de diversos componentes o nutrientes que el organismo necesita, ...",
+            "snippet_highlighted_words": [
+                "malnutrición"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "MALNUTRICIÓN - Sociedad Española de Geriatría y ...",
+            "link": "https://www.segg.es/download.asp?file=/tratadogeriatria/PDF/S35-05%2022_II.pdf",
+            "displayed_link": "https://www.segg.es › download › PDF",
+            "date": "16 páginas",
+            "snippet": "presenta malnutrición; de ellos el 70% son ancianos. Causas de malnutrición. La etiología de la malnutrición en el anciano es com- pleja y depende de la ...",
+            "snippet_highlighted_words": [
+                "malnutrición",
+                "malnutrición",
+                "malnutrición"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Cómo identificar la malnutrición en los mayores - Sanitas",
+            "link": "https://www.sanitas.es/sanitas/seguros/es/particulares/biblioteca-de-salud/tercera-edad/alimentacion/signos-malnutricion.html",
+            "displayed_link": "https://www.sanitas.es › ... › Tercera edad › Alimentación",
+            "snippet": "Las personas mayores son el grupo de población de los países desarrollados con mayor riesgo de sufrir malnutrición o desnutrición, especialmente cuando se ...",
+            "snippet_highlighted_words": [
+                "malnutrición"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "¿QUÉ ES MALNUTRICIÓN? EFECTOS EN LA SALUD ...",
+            "link": "http://www.fao.org/3/as603s/as603s.pdf",
+            "displayed_link": "http://www.fao.org › ...",
+            "date": "2 páginas",
+            "snippet": "La malnutrición se define como una condición fisiológica anormal causada por un consumo insuficiente, desequilibrado o excesivo de los macronutrientes que ...",
+            "snippet_highlighted_words": [
+                "malnutrición"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Malnutrición y desnutrición: sus diferencias | Ayuda en Acción",
+            "link": "https://ayudaenaccion.org/blog/derechos-humanos/diferencias-malnutricion-y-desnutricion/",
+            "displayed_link": "https://ayudaenaccion.org › blog › derechos-humanos",
+            "date": "12 ago 2019",
+            "snippet": "Según la Organización Mundial de la Salud (OMS), la palabra malnutrición se refiere a las carencias, los excesos y los desequilibrios de la ...",
+            "snippet_highlighted_words": [
+                "malnutrición"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "La malnutrición; problema de salud pública de escala mundial",
+            "link": "http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1028-48182020000100237",
+            "displayed_link": "http://scielo.sld.cu › scielo",
+            "snippet": "La malnutrición, la carencia de vitamina A, los trastornos por carencia de yodo y las anemias nutricionales son los problemas nutricionales más serios y de ...",
+            "snippet_highlighted_words": [
+                "malnutrición"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "de Z Fonseca González",
+                        "2020 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2020
+                    }
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "malnutrición síntomas",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Malnutrici%C3%B3n+s%C3%ADntomas&sa=X&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "malnutrición consecuencias",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Malnutrici%C3%B3n+consecuencias&sa=X&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "malnutrición y desnutrición",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Malnutrici%C3%B3n+y+desnutrici%C3%B3n&sa=X&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "malnutrición ejemplos",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Malnutrici%C3%B3n+ejemplos&sa=X&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "tipos de malnutrición",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Tipos+de+malnutrici%C3%B3n&sa=X&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "tratamiento malnutrición",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Tratamiento+malnutrici%C3%B3n&sa=X&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ1QJ6BAguEAE"
+        },
+        {
+            "query": "trastornos de la malnutrición",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Trastornos+de+la+malnutrici%C3%B3n&sa=X&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "malnutrición rae",
+            "link": "https://www.google.com/search?gl=ES&hl=es&q=Malnutrici%C3%B3n+RAE&sa=X&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ1QJ6BAgmEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Malnutrici%C3%B3n&gl=ES&hl=es&ei=o_98YpLDL4HL_QbAsJKwBQ&start=10&sa=N&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Malnutrici%C3%B3n&gl=ES&hl=es&ei=o_98YpLDL4HL_QbAsJKwBQ&start=10&sa=N&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=Malnutrici%C3%B3n&gl=ES&hl=es&ei=o_98YpLDL4HL_QbAsJKwBQ&start=20&sa=N&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=Malnutrici%C3%B3n&gl=ES&hl=es&ei=o_98YpLDL4HL_QbAsJKwBQ&start=30&sa=N&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=Malnutrici%C3%B3n&gl=ES&hl=es&ei=o_98YpLDL4HL_QbAsJKwBQ&start=40&sa=N&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=Malnutrici%C3%B3n&gl=ES&hl=es&ei=o_98YpLDL4HL_QbAsJKwBQ&start=50&sa=N&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=Malnutrici%C3%B3n&gl=ES&hl=es&ei=o_98YpLDL4HL_QbAsJKwBQ&start=60&sa=N&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=Malnutrici%C3%B3n&gl=ES&hl=es&ei=o_98YpLDL4HL_QbAsJKwBQ&start=70&sa=N&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=Malnutrici%C3%B3n&gl=ES&hl=es&ei=o_98YpLDL4HL_QbAsJKwBQ&start=80&sa=N&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=Malnutrici%C3%B3n&gl=ES&hl=es&ei=o_98YpLDL4HL_QbAsJKwBQ&start=90&sa=N&ved=2ahUKEwjSoIOe_dn3AhWBZd8KHUCYBFYQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=20&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=30&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=40&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=50&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=60&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=70&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=80&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Malnutrici%C3%B3n&start=90&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D"
+        }
+    }
+}

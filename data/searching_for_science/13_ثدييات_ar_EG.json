@@ -1,0 +1,382 @@
+{
+    "search_metadata": {
+        "id": "629e3d86e4a23d82b49184f9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/30d9df11c0888f96/629e3d86e4a23d82b49184f9.json",
+        "created_at": "2022-06-06 17:46:46 UTC",
+        "processed_at": "2022-06-06 17:46:46 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&oq=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/30d9df11c0888f96/629e3d86e4a23d82b49184f9.html",
+        "total_time_taken": 0.68
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "ثدييات",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "ثدييات",
+        "total_results": 6200000,
+        "time_taken_displayed": 0.4
+    },
+    "knowledge_graph": {
+        "title": "ثدييات",
+        "type": "حيوان",
+        "header_images": [
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA"
+            },
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B4%D8%A7%D9%85_%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B1%D8%B6%D8%A9"
+            },
+            {
+                "source": "https://www.animals-wd.com/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA/"
+            },
+            {
+                "source": "https://www.almrsal.com/post/736104"
+            },
+            {
+                "source": "https://sites.google.com/site/r4pnnn"
+            },
+            {
+                "source": "https://www.mosoah.com/career-and-education/education/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA/"
+            },
+            {
+                "source": "https://sotor.com/%D9%84%D9%85%D8%A7%D8%B0%D8%A7_%D8%B3%D9%85%D9%8A%D8%AA_%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA_%D8%A8%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%A7%D8%B3%D9%85"
+            }
+        ],
+        "description": "الثَّدْيِيَّات أو ذَوَاتُ الأَثْداء هي صف أو طائفة حيوية تتفرع من شعيبة الفقاريات في عالم الحيوان، اسمها يشتق من كلمة «ثدي». الثدديات أيضاً هي فرع حيوي من الحيوانات السلوية داخلية الحرارة.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA"
+        },
+        "الترتيب": "طائفة",
+        "الترتيب_links": [
+            {
+                "text": "الترتيب",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+%D8%A7%D9%84%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8&stick=H4sIAAAAAAAAAOPgE-LQz9U3MCnKrtTSyE620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zKkrMy17EKn1j9Y31N7tudt1YfmOVwo3lN1turLqx8cYqoMAKAKG7q0FUAAAA&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ6BMoAHoECF8QAg"
+            }
+        ],
+        "مملكة": "حيوان",
+        "مملكة_links": [
+            {
+                "text": "مملكة",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+%D9%85%D9%85%D9%84%D9%83%D8%A9&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ6BMoAHoECF0QAg"
+            }
+        ],
+        "شعبة": "حبليات",
+        "شعبة_links": [
+            {
+                "text": "شعبة",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+%D8%B4%D8%B9%D8%A8%D8%A9&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ6BMoAHoECFwQAg"
+            }
+        ],
+        "فوق_النطاق": "حيويات",
+        "فوق_النطاق_links": [
+            {
+                "text": "فوق النطاق",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+%D9%81%D9%88%D9%82+%D8%A7%D9%84%D9%86%D8%B7%D8%A7%D9%82&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ6BMoAHoECFsQAg"
+            }
+        ],
+        "التصنيفات_الأقل": [
+            {
+                "name": "كلب",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%83%D9%84%D8%A8&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlTiBLGSSixzirQss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Gy3Wy-2XJjxQ5WRgBtovjaXgAAAA&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQxA16BAhmEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%84%D8%A8&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlTiBLGSSixzirQss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Gy3Wy-2XJjxQ5WRgBtovjaXgAAAA",
+                "image": "https://serpapi.com/searches/629e3d86e4a23d82b49184f9/images/a5e39f07d5293b925f1d6f9eae6124fc80a148e23b4ac26cc3dca49c06370740cbe4a34813f0a7da68fcf4263773c476b0cf25c86ae05a8f.jpeg"
+            },
+            {
+                "name": "إنسان",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A5%D9%86%D8%B3%D8%A7%D9%86&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlTiBLFS0ssti7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Fy3Vh6s-3G5hvLb7btYGUEAH9KbxliAAAA&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQxA16BAhmEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A5%D9%86%D8%B3%D8%A7%D9%86&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlTiBLFS0ssti7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Fy3Vh6s-3G5hvLb7btYGUEAH9KbxliAAAA",
+                "image": "https://serpapi.com/searches/629e3d86e4a23d82b49184f9/images/a5e39f07d5293b925f1d6f9eae6124fc80a148e23b4ac26cc3dca49c06370740cbe4a34813f0a7da529810f60e6caca618772a002dfa9061.jpeg"
+            },
+            {
+                "name": "لواحم",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%84%D9%88%D8%A7%D8%AD%D9%85&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlQCswxzinK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexct1sudlxY_mNtTdbd7AyAgBij9rhYQAAAA&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQxA16BAhmEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D9%88%D8%A7%D8%AD%D9%85&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlQCswxzinK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexct1sudlxY_mNtTdbd7AyAgBij9rhYQAAAA",
+                "image": "https://serpapi.com/searches/629e3d86e4a23d82b49184f9/images/a5e39f07d5293b925f1d6f9eae6124fc80a148e23b4ac26cc3dca49c06370740cbe4a34813f0a7da9b5e0d2bd93ba73c1df34af494c74824.jpeg"
+            },
+            {
+                "name": "ماعز",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%A7%D8%B9%D8%B2&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlQCs4zTynO0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexctxsvbH8xs4bm3awMgIAEthfgV8AAAA&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQxA16BAhmEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D8%A7%D8%B9%D8%B2&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlQCs4zTynO0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexctxsvbH8xs4bm3awMgIAEthfgV8AAAA",
+                "image": "https://serpapi.com/searches/629e3d86e4a23d82b49184f9/images/a5e39f07d5293b925f1d6f9eae6124fc80a148e23b4ac26cc3dca49c06370740cbe4a34813f0a7da5248e1e345ceecf176c5daedde4fab61.jpeg"
+            }
+        ],
+        "التصنيفات_الأقل_link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA+%D8%A7%D9%84%D8%A3%D9%82%D9%84&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnKrlSCs7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Fq3Vh9Y_3NrptdN5bfWKVwY_nNlhurbmy92QYUakQILb7ZdLNlBysjAI0h9aiBAAAA&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQMSgAegQIZhAB",
+        "التصنيفات_الأقل_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCnKrlSCs7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Fq3Vh9Y_3NrptdN5bfWKVwY_nNlhurbmy92QYUakQILb7ZdLNlBysjAI0h9aiBAAAA"
+    },
+    "related_questions": [
+        {
+            "question": "ما هي الحيوانات التي من الثدييات؟",
+            "title": "أسماء الحيوانات الثدييات",
+            "link": "https://www.almrsal.com/post/946830",
+            "list": [
+                "الحمار.",
+                "مضرب.",
+                "يتحمل.",
+                "سمور.",
+                "قط.",
+                "شمبانزي.",
+                "بقرة.",
+                "زرافة."
+            ],
+            "displayed_link": "https://www.almrsal.com › post"
+        },
+        {
+            "question": "هل يعتبر الانسان من الثدييات؟",
+            "snippet": "الإنسان ، ككائن حي ، هو جزء من عالم الحيوان. تنتمي جنسنا إلى فصيلة الحبليات ، والفقرات الفرعية ، وفئة الثدييات ، والفئة الفرعية من الثدييات المشيمية ، ورتبة الرئيسيات ، وعائلة البشر ، والجنس البشري ، والأنواع البشرية العاقل (مخطط 1).10‏/09‏/2021",
+            "title": "السمات المشتركة للإنسان والثدييات. السمات المشتركة ... - ...",
+            "link": "https://goaravetisyan.ru/ar/obshchie-priznaki-cheloveka-i-mlekopitayushchih-obshchie-priznaki-cheloveka/",
+            "displayed_link": "https://goaravetisyan.ru › obshchie-priznaki-cheloveka-i-..."
+        },
+        {
+            "question": "ما هي الثدييات الكيسيه؟",
+            "snippet": "تعتبر الثدييات الكيسية من ضمن الحيوانات التي تنتمي للثدييات بنفس الخصائص الموجودة بها، وهي لديها بعض الخصائص مثل أن بها كيس أسفل البطن خاصة لدى الإناث تلد من خلاله وتوجد بها الأثداء لتغذية الصغير، وبها غدد لبنية في أسفل الكيس، ويقدر العلماء حوالي 270 نوع من الحيوانات التي تنتمي لرتبة الكيسية.",
+            "title": "ماذا تعرف عن الثدييات؟ 7 معلومات عن أهم الفصائل الحيوانية",
+            "link": "https://www.edarabia.com/ar/%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA%D8%9F-7-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A3%D9%87%D9%85/",
+            "displayed_link": "https://www.edarabia.com › ماذا-تعرف-عن-الثدييات؟-7-..."
+        },
+        {
+            "question": "هل كل الثدييات لها رئات؟",
+            "snippet": "عند طرح سؤال \"ما هي خصائص الثدييات\"، فإن جزء من الإجابة يعتمد على الشعر والفراء، حيث تتميز الثدييات بأنها تمتلك فراءً أو شعرًا، حيث يتخذ أشكالًا متنوعة وينمو خلال مراحل دورة حياتها في بعض أجزاء جسمها، مثل الشعيرات الطويلة أو الأشواك أو الفراء السميك أو الريش وحتى القرون، حيث يقدم الشعر العديد من الفوائد من أهمها حماية ...18‏/08‏/2021",
+            "title": "ما هي خصائص الثدييات - سطور",
+            "link": "https://sotor.com/%D9%85%D8%A7-%D9%87%D9%8A-%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5-%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA/",
+            "displayed_link": "https://sotor.com › ما-هي-خصائص-الثدييات"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "ثدييات - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA",
+            "displayed_link": "https://ar.wikipedia.org › wiki › ثدييات",
+            "thumbnail": "https://serpapi.com/searches/629e3d86e4a23d82b49184f9/images/b2e875790b98aafc07d4676ded34e18b3fa954acd4748c0fac05fdf850ecb479.jpeg",
+            "snippet": "ثدييات ; الثَّدْيِيَّات (جمع «ثَدْيِيّ») أو ذَوَاتُ الأَثْداء (باللاتينية: Mammalia) هي صف أو طائفة حيوية تتفرع من شعيبة الفقاريات ( ; ينظم الدماغ في الثدييات ...",
+            "snippet_highlighted_words": [
+                "ثدييات",
+                "الثدييات"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "شعبة فرعية: أشباه رباعيات الأطراف",
+                        "مملكة فرعية: ثانويات الفم",
+                        "مملكة عليا: حقيقيات النوى",
+                        "المرتبة التصنيفية: طائفة"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "بوابة:ثدييات - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA",
+            "displayed_link": "https://ar.wikipedia.org › wiki › بوابة:ثدييات",
+            "thumbnail": "https://serpapi.com/searches/629e3d86e4a23d82b49184f9/images/b2e875790b98aafc07d4676ded34e18b983ebf901edb3e9d27ace0a7214f11a0.jpeg",
+            "snippet": "الثدييَّات أو اللبونات هي طائفة من الحيوانات الفقاريَّة تتمتَّعُ بغُددٍ تعرُّقيَّةٍ، بما فيها الغُدد الثديية المُفرز للبن، وبأعضاءٍ جسديَّةٍ أُخرى ..."
+        },
+        {
+            "position": 3,
+            "title": "ما هي الثدييات - موضوع",
+            "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA",
+            "displayed_link": "https://mawdoo3.com › تعليم › علوم",
+            "snippet": "الثدييات (بالإنجليزية: Mammals)، هي فرعٌ حيويّ يَشمل الكائنات الحيّة التي يُغطّي جِسمها الشعر، وتُرضع صِغارها عن طريق الغُدَد الثديية، يوجد ...",
+            "snippet_highlighted_words": [
+                "الثدييات"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "٢ خصائص الثدييات",
+                        "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA#.D8.AE.D8.B5.D8.A7.D8.A6.D8.B5_.D8.A7.D9.84.D8.AB.D8.AF.D9.8A.D9.8A.D8.A7.D8.AA"
+                    },
+                    {
+                        "title": "٣ تصنيف الثدييات",
+                        "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA#.D8.AA.D8.B5.D9.86.D9.8A.D9.81_.D8.A7.D9.84.D8.AB.D8.AF.D9.8A.D9.8A.D8.A7.D8.AA"
+                    },
+                    {
+                        "title": "٨ الشكل والوظيفة للثدييات",
+                        "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA#.D8.A7.D9.84.D8.B4.D9.83.D9.84_.D9.88.D8.A7.D9.84.D9.88.D8.B8.D9.8A.D9.81.D8.A9_.D9.84.D9.84.D8.AB.D8.AF.D9.8A.D9.8A.D8.A7.D8.AA"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٧‏/١٠‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "أنواع الثدييات - موضوع",
+            "link": "https://mawdoo3.com/%D8%A3%D9%86%D9%88%D8%A7%D8%B9_%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA",
+            "displayed_link": "https://mawdoo3.com › ... › حيوانات و طيور",
+            "snippet": "يُمكن تعريف الثدييات (بالإنجليزية: Mammal) على أنّها نوع من أنواع الحيوانات الفقارية والتي تتميّز بامتلاكها لغدد ثديية تُنتج الحليب الذي ...",
+            "snippet_highlighted_words": [
+                "الثدييات"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "١ ما هي أنواع الثدييات؟",
+                        "link": "https://mawdoo3.com/%D8%A3%D9%86%D9%88%D8%A7%D8%B9_%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA#.D9.85.D8.A7_.D9.87.D9.8A_.D8.A3.D9.86.D9.88.D8.A7.D8.B9_.D8.A7.D9.84.D8.AB.D8.AF.D9.8A.D9.8A.D8.A7.D8.AA.D8.9F.C2.A0"
+                    },
+                    {
+                        "title": "١.١ الثدييات المشيمية",
+                        "link": "https://mawdoo3.com/%D8%A3%D9%86%D9%88%D8%A7%D8%B9_%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA#.D8.A7.D9.84.D8.AB.D8.AF.D9.8A.D9.8A.D8.A7.D8.AA_.D8.A7.D9.84.D9.85.D8.B4.D9.8A.D9.85.D9.8A.D8.A9"
+                    },
+                    {
+                        "title": "١.٢ أحاديات المسلك",
+                        "link": "https://mawdoo3.com/%D8%A3%D9%86%D9%88%D8%A7%D8%B9_%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA#.D8.A3.D8.AD.D8.A7.D8.AF.D9.8A.D8.A7.D8.AA_.D8.A7.D9.84.D9.85.D8.B3.D9.84.D9.83.C2.A0"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٩‏/١١‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "تعريف و شرح و معنى ثدييات بالعربي في معاجم اللغة ...",
+            "link": "https://www.almaany.com/ar/dict/ar-ar/%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA/",
+            "displayed_link": "https://www.almaany.com › dict › ar-ar › ثدييات",
+            "snippet": "تعريف و معنى ثدييات في معجم المعاني الجامع - معجم عربي عربي · الجمع : أَثْدٍ و أَثْداء و ثُدِيّ و ثِديّ · الثَّدْيُ : النتوء في صدر الرجل والمرأة، وهو فيها مجتمع ...",
+            "snippet_highlighted_words": [
+                "ثدييات"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "الثدييات | حديقة العين للحيوانات - Al Ain Zoo",
+            "link": "https://www.alainzoo.ae/ar/%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D9%81/%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D8%A7%D8%AA/%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA",
+            "displayed_link": "https://www.alainzoo.ae › استكشف › الحيوانات › الثد...",
+            "snippet": "الثدييات · الكبش البربري · الذئب الأفريقي · غزال الداما · قط السرفال · غوريلا السهول الغربية · الأسد الإفريقي · النمر الأبيض · قرد الباتاس ...",
+            "snippet_highlighted_words": [
+                "الثدييات"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "ثدييات — الفنون والثقافة من Google",
+            "link": "https://artsandculture.google.com/entity/m04rky?hl=ar",
+            "displayed_link": "https://artsandculture.google.com › entity",
+            "snippet": "الثَّدْيِيَّات أو ذَوَاتُ الأَثْداء هي صف أو طائفة حيوية تتفرع من شعيبة الفقاريات في عالم الحيوان، اسمها يشتق من كلمة \"ثدي\". الثدديات أيضاً هي فرع حيوي من ..."
+        },
+        {
+            "position": 8,
+            "title": "mammals - الترجمة إلى العربية - أمثلة الإنجليزية - Reverso ...",
+            "link": "https://context.reverso.net/%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%85%D8%A9/%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/mammals",
+            "displayed_link": "https://context.reverso.net › الترجمة › mammals",
+            "snippet": "الترجمات في سياق mammals في الإنجليزية-العربية من | Reverso Context: marine mammals. ... وإيجازاً للتأثيرات السمية المحتملة للبارافينات على الثدييات، فإن ...",
+            "snippet_highlighted_words": [
+                "الثدييات"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "خصائص الثدييات | المرسال",
+            "link": "https://www.almrsal.com/post/736104",
+            "displayed_link": "https://www.almrsal.com › حيوانات",
+            "snippet": "الثدييات هي الكائنات الحية التي يشمل جسمها شهر، وتقوم بإرضاع صغارها عن طريق الغدد الثدية الموجودة لديها، وهناك الكثير من الأنواع من الثدييات ...",
+            "snippet_highlighted_words": [
+                "الثدييات",
+                "الثدييات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "قبل ٥ أيام —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 10,
+            "title": "ماذا تعرف عن الثدييات؟ 7 معلومات عن أهم الفصائل الحيوانية",
+            "link": "https://www.edarabia.com/ar/%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA%D8%9F-7-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A3%D9%87%D9%85/",
+            "displayed_link": "https://www.edarabia.com › ماذا-تعرف-عن-الثدييات؟-7-...",
+            "thumbnail": "https://serpapi.com/searches/629e3d86e4a23d82b49184f9/images/b2e875790b98aafc07d4676ded34e18b002f8716c0895db76994d9dade19ad0e.jpeg",
+            "snippet": "الثدييات أو Mammals هي فرع حيوي من الفروع الحيوانية التي لها خصائص عدة، حيث من اهم هذه الخصائص ان جسمها لابد أن يكون مغطي بالشعر، ولدى الأمهات من هذه الفصيلة ...",
+            "snippet_highlighted_words": [
+                "الثدييات"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "بحث عن الثدييات",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A8%D8%AD%D8%AB+%D8%B9%D9%86+%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ1QJ6BAhIEAE"
+        },
+        {
+            "query": "الثدييات PDF",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+PDF&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ1QJ6BAhHEAE"
+        },
+        {
+            "query": "هل الطيور من الثدييات",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%87%D9%84+%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1+%D9%85%D9%86+%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ1QJ6BAhGEAE"
+        },
+        {
+            "query": "منقار البط من الثدييات الكيسية",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D9%86%D9%82%D8%A7%D8%B1+%D8%A7%D9%84%D8%A8%D8%B7+%D9%85%D9%86+%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+%D8%A7%D9%84%D9%83%D9%8A%D8%B3%D9%8A%D8%A9&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ1QJ6BAhFEAE"
+        },
+        {
+            "query": "أنواع الثدييات أول متوسط",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+%D8%A3%D9%88%D9%84+%D9%85%D8%AA%D9%88%D8%B3%D8%B7&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ1QJ6BAhDEAE"
+        },
+        {
+            "query": "اي الثدييات تلد عمياء",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%8A+%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+%D8%AA%D9%84%D8%AF+%D8%B9%D9%85%D9%8A%D8%A7%D8%A1&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ1QJ6BAhAEAE"
+        },
+        {
+            "query": "أمثلة على الثدييات الكيسية",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D9%85%D8%AB%D9%84%D8%A9+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+%D8%A7%D9%84%D9%83%D9%8A%D8%B3%D9%8A%D8%A9&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ1QJ6BAg_EAE"
+        },
+        {
+            "query": "تعريف الثدييات للاطفال",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%B9%D8%B1%D9%8A%D9%81+%D8%A7%D9%84%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA+%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84&sa=X&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ1QJ6BAg9EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&gl=eg&hl=ar&ei=hj2eYsy5NfygqtsPk_-1kAY&start=10&sa=N&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ8NMDegQIJBBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&gl=eg&hl=ar&ei=hj2eYsy5NfygqtsPk_-1kAY&start=10&sa=N&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ8tMDegQIJBA9",
+            "3": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&gl=eg&hl=ar&ei=hj2eYsy5NfygqtsPk_-1kAY&start=20&sa=N&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ8tMDegQIJBA_",
+            "4": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&gl=eg&hl=ar&ei=hj2eYsy5NfygqtsPk_-1kAY&start=30&sa=N&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ8tMDegQIJBBB",
+            "5": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&gl=eg&hl=ar&ei=hj2eYsy5NfygqtsPk_-1kAY&start=40&sa=N&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ8tMDegQIJBBD",
+            "6": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&gl=eg&hl=ar&ei=hj2eYsy5NfygqtsPk_-1kAY&start=50&sa=N&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ8tMDegQIJBBF",
+            "7": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&gl=eg&hl=ar&ei=hj2eYsy5NfygqtsPk_-1kAY&start=60&sa=N&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ8tMDegQIJBBH",
+            "8": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&gl=eg&hl=ar&ei=hj2eYsy5NfygqtsPk_-1kAY&start=70&sa=N&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ8tMDegQIJBBJ",
+            "9": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&gl=eg&hl=ar&ei=hj2eYsy5NfygqtsPk_-1kAY&start=80&sa=N&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ8tMDegQIJBBL",
+            "10": "https://www.google.com/search?q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&gl=eg&hl=ar&ei=hj2eYsy5NfygqtsPk_-1kAY&start=90&sa=N&ved=2ahUKEwjMlM3ysJn4AhV8kGoFHZN_DWIQ8tMDegQIJBBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AB%D8%AF%D9%8A%D9%8A%D8%A7%D8%AA&start=90"
+        }
+    }
+}

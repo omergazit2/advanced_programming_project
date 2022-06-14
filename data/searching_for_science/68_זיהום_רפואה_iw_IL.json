@@ -1,0 +1,222 @@
+{
+    "search_metadata": {
+        "id": "627cff3d79627c462d98d8ab",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1735d58fb1cab36a/627cff3d79627c462d98d8ab.json",
+        "created_at": "2022-05-12 12:36:13 UTC",
+        "processed_at": "2022-05-12 12:36:13 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&oq=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&uule=w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=&hl=iw&gl=IL&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/1735d58fb1cab36a/627cff3d79627c462d98d8ab.html",
+        "total_time_taken": 2.3
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "זיהום רפואה",
+        "uule": "w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "IL",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "זיהום רפואה",
+        "total_results": 756000,
+        "time_taken_displayed": 0.45
+    },
+    "answer_box": {
+        "type": "organic_result",
+        "title": "זיהום (בלועזית: אינפקציה) הוא תהליך של התיישבות מזיקה של גורם זר באורגניזם פונדקאי. האורגניזם המזהם פועל לניצול משאביו של גוף הפונדקאי כדי להתרבות על חשבונו. האורגניזם המזהם (נקרא גם פתוגן) מפריע לתפקודו הנורמלי של הפונדקאי ויכול לגרום לפצעים כרוניים, נמק, אובדן האיבר המזוהם ואפילו מוות.",
+        "link": "https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%94%D7%95%D7%9D_(%D7%A8%D7%A4%D7%95%D7%90%D7%94)",
+        "displayed_link": "https://he.wikipedia.org › wiki › זיהום_(רפואה)",
+        "snippet": "זיהום (בלועזית: אינפקציה) הוא תהליך של התיישבות מזיקה של גורם זר באורגניזם פונדקאי. האורגניזם המזהם פועל לניצול משאביו של גוף הפונדקאי כדי להתרבות על חשבונו. האורגניזם המזהם (נקרא גם פתוגן) מפריע לתפקודו הנורמלי של הפונדקאי ויכול לגרום לפצעים כרוניים, נמק, אובדן האיבר המזוהם ואפילו מוות.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "הרפואה המשלימה ומניעת זיהומים חוזרים - כללית רפואה משלימה",
+            "link": "https://www.clalitmashlima.co.il/%D7%9E%D7%A0%D7%99%D7%A2%D7%AA-%D7%96%D7%99%D7%94%D7%95%D7%9E%D7%99%D7%9D-%D7%97%D7%95%D7%96%D7%A8%D7%99%D7%9D/",
+            "displayed_link": "https://www.clalitmashlima.co.il › צמחי מרפא",
+            "snippet": "\"העולם האמיתי\" שלנו מצריך מאיתנו הרבה משאבים – הרבה זיהום אוויר, זיהום של רעש ... ברפואה המשלימה ננסה להבין מה הגורם שמשבש את הפעילות של מערכת החיסון.",
+            "snippet_highlighted_words": [
+                "זיהום",
+                "זיהום",
+                "ברפואה"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "זיהום (רפואה) - המכלול",
+            "link": "https://www.hamichlol.org.il/%D7%96%D7%99%D7%94%D7%95%D7%9D_(%D7%A8%D7%A4%D7%95%D7%90%D7%94)",
+            "displayed_link": "https://www.hamichlol.org.il › זיהום_(רפואה)",
+            "date": "14 בדצמ׳ 2021",
+            "snippet": "זיהום (רפואה) ... גוף הפונדקאי מגיב לזיהום בצורה של דלקת. ... ענפים רבים ברפואה ובמדעים קרובים לרפואה עוסקים במחלות זיהומיות ובפתוגנים, ...",
+            "snippet_highlighted_words": [
+                "זיהום",
+                "רפואה",
+                "לזיהום",
+                "רפואה",
+                "לרפואה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "זיהום (Infectious disease) - הסימפטומים, הבדיקות ודרכי הטיפול",
+            "link": "https://www.infomed.co.il/diseases/infectious-disease/",
+            "displayed_link": "https://www.infomed.co.il › מחלות",
+            "date": "6 ביוני 2010",
+            "snippet": "זיהום יכול לגרום למחלה קלה שדורשת טיפול ביתי בלבד אולם לעיתים ... ד\"ר רמית מעוז-סגל מומחית לאלרגיה, לאימונולוגיה קלינית ולרפואה פנימית.",
+            "snippet_highlighted_words": [
+                "זיהום",
+                "ולרפואה"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "זיהום | מכבי שירותי בריאות",
+            "link": "https://www.maccabi4u.co.il/16131-he/Maccabi.aspx",
+            "displayed_link": "https://www.maccabi4u.co.il › ... › מילון מונחים",
+            "snippet": "גורמי זיהום עיקריים הם חיידקים, נגיפים, שמרים, פטריות וטפילים. ... זיהומים נגיפיים רבים ניתנים למניעה באמצעות חיסון מתאים. ... מילון מונחים רפואי.",
+            "snippet_highlighted_words": [
+                "זיהום",
+                "זיהומים",
+                "רפואי"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "זהירות, זיהום: מה חשוב לדעת על מחלות זיהומיות - מאוחדת",
+            "link": "https://www.meuhedet.co.il/%D7%94%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%94%D7%A8%D7%A4%D7%95%D7%90%D7%99-%D7%A9%D7%9C-%D7%9E%D7%90%D7%95%D7%97%D7%93%D7%AA/%D7%96%D7%94%D7%99%D7%A8%D7%95%D7%AA-%D7%96%D7%99%D7%94%D7%95%D7%9D-%D7%9E%D7%94-%D7%97%D7%A9%D7%95%D7%91-%D7%9C%D7%93%D7%A2%D7%AA-%D7%A2%D7%9C-%D7%9E%D7%97%D7%9C%D7%95%D7%AA-%D7%96%D7%99%D7%94%D7%95%D7%9E%D7%99%D7%95%D7%AA/",
+            "displayed_link": "https://www.meuhedet.co.il › המדריך-הרפואי-של-מאוחדת › ז...",
+            "snippet": "פנייה לעזרה רפואית מומלצת אם מתפתחים בין היתר, קשיי נשימה, פרכוסים, פריחה או נפיחות, ... חיידקים: חיידקים גורמים למחלות כמו דלקות גרון או זיהום בדרכי השתן, ...",
+            "snippet_highlighted_words": [
+                "רפואית",
+                "זיהום"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "זיהומים כירורגים - ויקירפואה",
+            "link": "https://www.wikirefua.org.il/w/index.php?title=%D7%96%D7%99%D7%94%D7%95%D7%9E%D7%99%D7%9D_%D7%9B%D7%99%D7%A8%D7%95%D7%A8%D7%92%D7%99%D7%9D",
+            "displayed_link": "https://www.wikirefua.org.il › title=זיהומים_כירורגים",
+            "snippet": "זיהומים כירורגים מוגדרים כזיהומים המתרחשים לאורך קו חתך ושדה הניתוח -SSIS - (Surgical Site Infection). הגדרה זו היא רחבה יותר מקודמתה שהתייחסה רק לזיהומים ...",
+            "snippet_highlighted_words": [
+                "זיהומים",
+                "Infection"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "המרכז הארצי למניעת זיהומים ועמידות לאנטיביוטיקה - משרד הבריאות",
+            "link": "https://www.health.gov.il/UnitsOffice/HD/InfectionControl/Pages/default.aspx",
+            "displayed_link": "https://www.health.gov.il › InfectionControl › Pages",
+            "snippet": "המרכז הארצי למניעת זיהומים ועמידות לאנטיביוטיקה. אחריות המרכז לכוון ולרכז את הפעילות בכל הנושאים הקשורים בבקרה ומניעת זיהומים במוסדות רפואיים ובנושא עמידות ...",
+            "snippet_highlighted_words": [
+                "זיהומים",
+                "זיהומים",
+                "רפואיים"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "כתובת_רחוב_ויצמן_תל_אביב": 6,
+                        "יפו_מיקוד_פקס_דוא_ל_mitchells_tlvmcgovil": 64
+                    },
+                    "extensions": [
+                        "כתובת: --> --> רחוב ויצמן 6, תל אביב",
+                        "יפו מיקוד: 64...פקס: 03-6973024 דוא\"ל: mitchells@tlvmc.gov.il"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "רשלנות רפואית בשל זיהום מחיידק בית חולים | נסים-דר, עו\"ד",
+            "link": "https://www.gn-law.co.il/%D7%96%D7%99%D7%94%D7%95%D7%9E%D7%99%D7%9D-%D7%91%D7%91%D7%AA%D7%99-%D7%94%D7%97%D7%95%D7%9C%D7%99%D7%9D/",
+            "displayed_link": "https://www.gn-law.co.il › רשלנות רפואית בטיפול",
+            "date": "7 בדצמ׳ 2021",
+            "snippet": "רשלנות רפואית בשל זיהום מחיידק בית חולים עשויה לזכות בפיצוי. בין אם זה חיידק ה-kpc או חיידק המרסה. עורכי דין מסבירים מתי ניתן לתבוע פיצוי.",
+            "snippet_highlighted_words": [
+                "רפואית",
+                "זיהום"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "מחלות זיהומיות ומניעת זיהומים - המרכז הרפואי לגליל",
+            "link": "https://www.gmc.org.il/?CategoryID=1447",
+            "displayed_link": "https://www.gmc.org.il › ...",
+            "snippet": "השתתפות בהוראת סטודנטים לרפואה ומתמחים במחלקות השונות. צוות היחידה מבצע הדרכות בנושאי מניעת זיהומים, נהלי נטילת תרביות במסגרת פגישות צוות במחלקות השונות, ...",
+            "snippet_highlighted_words": [
+                "לרפואה",
+                "זיהומים"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "זיהום בדם אצל מבוגרים",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%91%D7%93%D7%9D+%D7%90%D7%A6%D7%9C+%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D&sa=X&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "זיהום אוויר",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%90%D7%95%D7%95%D7%99%D7%A8&sa=X&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "זיהום ויראלי",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%95%D7%99%D7%A8%D7%90%D7%9C%D7%99&sa=X&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "סוגי זיהומים",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%A1%D7%95%D7%92%D7%99+%D7%96%D7%99%D7%94%D7%95%D7%9E%D7%99%D7%9D&sa=X&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ1QJ6BAglEAE"
+        },
+        {
+            "query": "זיהום בדם חולה סרטן",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%91%D7%93%D7%9D+%D7%97%D7%95%D7%9C%D7%94+%D7%A1%D7%A8%D7%98%D7%9F&sa=X&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "זיהום הסביבה",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94&sa=X&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "זיהום בריאות",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA&sa=X&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ1QJ6BAghEAE"
+        },
+        {
+            "query": "זיהום בעור",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%91%D7%A2%D7%95%D7%A8&sa=X&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ1QJ6BAgeEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&gl=IL&hl=iw&ei=Pv98YqzCJai1qtsP1927yAE&start=10&sa=N&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&gl=IL&hl=iw&ei=Pv98YqzCJai1qtsP1927yAE&start=10&sa=N&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&gl=IL&hl=iw&ei=Pv98YqzCJai1qtsP1927yAE&start=20&sa=N&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&gl=IL&hl=iw&ei=Pv98YqzCJai1qtsP1927yAE&start=30&sa=N&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&gl=IL&hl=iw&ei=Pv98YqzCJai1qtsP1927yAE&start=40&sa=N&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&gl=IL&hl=iw&ei=Pv98YqzCJai1qtsP1927yAE&start=50&sa=N&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&gl=IL&hl=iw&ei=Pv98YqzCJai1qtsP1927yAE&start=60&sa=N&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&gl=IL&hl=iw&ei=Pv98YqzCJai1qtsP1927yAE&start=70&sa=N&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&gl=IL&hl=iw&ei=Pv98YqzCJai1qtsP1927yAE&start=80&sa=N&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&gl=IL&hl=iw&ei=Pv98YqzCJai1qtsP1927yAE&start=90&sa=N&ved=2ahUKEwis2eTt_Nn3AhWommoFHdfuDhkQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=20&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=30&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=40&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=50&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=60&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=70&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=80&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%96%D7%99%D7%94%D7%95%D7%9D+%D7%A8%D7%A4%D7%95%D7%90%D7%94&start=90&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D"
+        }
+    }
+}

@@ -1,0 +1,372 @@
+{
+    "search_metadata": {
+        "id": "627cfefaaf6304fd00b6acad",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cf188d465448972c/627cfefaaf6304fd00b6acad.json",
+        "created_at": "2022-05-12 12:35:06 UTC",
+        "processed_at": "2022-05-12 12:35:06 UTC",
+        "google_url": "https://www.google.com/search?q=Soil+contamination&oq=Soil+contamination&uule=w+CAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh&hl=en&gl=NG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/cf188d465448972c/627cfefaaf6304fd00b6acad.html",
+        "total_time_taken": 8.75
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Soil contamination",
+        "uule": "w+CAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "NG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Soil contamination",
+        "total_results": 2160000000,
+        "time_taken_displayed": 0.5
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Soil Contamination: Does it Exist Near You?",
+            "link": "https://www.youtube.com/watch?v=iAmHToVhm2A",
+            "thumbnail": "https://i.ytimg.com/vi/iAmHToVhm2A/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kSsIyfXaS24Tsu58LD1rMaORP_Sw",
+            "channel": "Paul Cochrane",
+            "duration": "3:30",
+            "platform": "YouTube",
+            "date": "9 Nov 2013"
+        },
+        {
+            "position": 2,
+            "title": "Soil Pollution, a hidden reality",
+            "link": "https://www.youtube.com/watch?v=wHcY-iFSYZM",
+            "thumbnail": "https://i.ytimg.com/vi/wHcY-iFSYZM/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3n5rShzDT8ZzbBOWWJU1o-7jXC5xw",
+            "channel": "Food and Agriculture Organization of the United Nations",
+            "duration": "2:20",
+            "platform": "YouTube",
+            "date": "2 May 2018"
+        },
+        {
+            "position": 3,
+            "title": "Soil Pollution",
+            "link": "https://www.youtube.com/watch?v=Ikrgh7vBzfA",
+            "thumbnail": "https://i.ytimg.com/vi/Ikrgh7vBzfA/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kPzHBV8_Ow5voNgcWF3JSYjCp9SQ",
+            "channel": "Macmillan Education India",
+            "duration": "3:58",
+            "platform": "YouTube",
+            "date": "3 Apr 2020"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What causes soil contamination?",
+            "snippet": "In urban areas, soil contamination is largely caused by human activities. Some examples are manufacturing, industrial dumping, land development, local waste disposal, and excessive pesticide or fertilizer use.",
+            "title": "Soil contaminants",
+            "link": "https://www.soils.org/about-soils/contaminants",
+            "displayed_link": "https://www.soils.org › about-soils › contaminants"
+        },
+        {
+            "question": "What is soil contamination effects?",
+            "snippet": "Soil pollution causes a chain reaction. It alters soils' biodiversity, reduces soil organic matter and soils' capacity to act as a filter. It also contaminates the water stored in the soil and groundwater, and causes an imbalance of soil nutrients.2 May 2018",
+            "title": "Polluting our soils is polluting our future | FAO Stories",
+            "link": "https://www.fao.org/fao-stories/article/en/c/1126974/",
+            "displayed_link": "https://www.fao.org › fao-stories › article"
+        },
+        {
+            "question": "What is the most common soil contaminant?",
+            "title": "Examples of the most common and problematic soil pollutants can be found below.",
+            "link": "https://www.environmentalpollutioncenters.org/soil/",
+            "list": [
+                "Lead (Pb) ... ",
+                "Mercury (Hg) ... ",
+                "Arsenic (As) ... ",
+                "Copper (Cu) ... ",
+                "Zinc (Zn) ... ",
+                "Nickel (Ni) ... ",
+                "PAHs (polyaromatic hydrocarbons) ... ",
+                "Herbicides/Insecticides."
+            ],
+            "displayed_link": "https://www.environmentalpollutioncenters.org › soil"
+        },
+        {
+            "question": "What are the causes and effects of soil contamination?",
+            "snippet": "The soil contamination can occur due to the presence of chemicals such as pesticides, herbicides, ammonia, petroleum hydrocarbons, lead, nitrate, mercury, naphthalene, etc in an excess amount. The primary cause of soil pollution is a lack of awareness in general people.",
+            "title": "What is Soil Pollution? Definition, Causes, Effects and Solutions",
+            "link": "https://www.toppr.com/guides/chemistry/environmental-chemistry/soil-pollution/",
+            "displayed_link": "https://www.toppr.com › guides › environmental-chemistry"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Soil contamination - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Soil_contamination",
+            "displayed_link": "https://en.wikipedia.org › wiki › Soil_contamination",
+            "snippet": "Soil contamination, soil pollution, or land pollution as a part of land degradation is caused by the presence of xenobiotic (human-made) chemicals or other ...",
+            "snippet_highlighted_words": [
+                "Soil contamination",
+                "soil pollution"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Polycyclic aromatic hydrocarbon",
+                        "link": "https://en.wikipedia.org/wiki/Polycyclic_aromatic_hydrocarbon"
+                    },
+                    {
+                        "title": "Xenobiotic",
+                        "link": "https://en.wikipedia.org/wiki/Xenobiotic"
+                    },
+                    {
+                        "title": "Waste",
+                        "link": "https://en.wikipedia.org/wiki/Waste"
+                    },
+                    {
+                        "title": "Benzo(a)pyrene",
+                        "link": "https://en.wikipedia.org/wiki/Benzo(a)pyrene"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "icon": "https://serpapi.com/searches/627cfefaaf6304fd00b6acad/images/02c468aa34351404e211ef0651aee53ac78684116ccf08725574a5c84fee9de3ef3a7f6d4ed3a4b8b2596351acd8defd.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Soil_contamination&tbm=ilp&ilps=ADNMCi06oMlBX1T0T_4l2Df5p0sst4derg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4z2trc4BBqEJ:https://en.wikipedia.org/wiki/Soil_contamination+&cd=1&hl=en&ct=clnk&gl=ng",
+            "related_pages_link": "https://www.google.com/search?gl=NG&hl=en&q=related:https://en.wikipedia.org/wiki/Soil_contamination+Soil+contamination"
+        },
+        {
+            "position": 2,
+            "title": "Soil contaminants",
+            "link": "https://www.soils.org/about-soils/contaminants",
+            "displayed_link": "https://www.soils.org › about-soils › contaminants",
+            "snippet": "Common contaminants in urban soils include pesticides, petroleum products, radon, asbestos, lead, chromated copper arsenate and creosote. In urban areas, soil ...",
+            "snippet_highlighted_words": [
+                "contaminants",
+                "soils",
+                "soil"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Soil Science Society of America, is the largest soil-specific society in the United States. It was formed in 1936 from the merger of the Soils Section of the American Society of Agronomy and the American Soil Survey Association.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Soil_Science_Society_of_America",
+                    "icon": "https://serpapi.com/searches/627cfefaaf6304fd00b6acad/images/02c468aa34351404e211ef0651aee53a44b37c89cc96d1aba116e507aca7cac10e277c20682c92260008dd58efb8535e.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.soils.org/about-soils/contaminants&tbm=ilp&ilps=ADNMCi1zqXj_PmPXpEoWNJ5mVHle24A03A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ig_HECAnc3YJ:https://www.soils.org/about-soils/contaminants+&cd=12&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 3,
+            "title": "Soil Contamination, Risk Assessment and Remediation",
+            "link": "https://www.intechopen.com/chapters/46032",
+            "displayed_link": "https://www.intechopen.com › chapters",
+            "snippet": "Soil pollution is defined as the build-up in soils of persistent toxic compounds, chemicals, salts, radioactive materials, or disease causing agents, which have ...",
+            "snippet_highlighted_words": [
+                "Soil pollution"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "by MA Ashraf",
+                        "2014",
+                        "Cited by 96 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2014,
+                        "cited_by": 96
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "intechopen.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfefaaf6304fd00b6acad/images/02c468aa34351404e211ef0651aee53a886bf2e5ac2b8ce1cca81fea647d20044a653b92059d175450444d6ebe4d2993.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.intechopen.com/chapters/46032&tbm=ilp&ilps=ADNMCi2MZikhOcV7oWlC8I24-ZxMC2Udyw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jvTAXYPOYGUJ:https://www.intechopen.com/chapters/46032+&cd=13&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 4,
+            "title": "Soil contamination - RECARE-Hub",
+            "link": "https://www.recare-hub.eu/soil-threats/contamination",
+            "displayed_link": "https://www.recare-hub.eu › soil-threats › contamination",
+            "snippet": "Soil contamination is the occurrence of contaminants in soil above a certain level causing deterioration or loss of one or more soil functions. ... It occurs in 2 ...",
+            "snippet_highlighted_words": [
+                "Soil contamination"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "recare-hub.eu was first indexed by Google in December 2013",
+                    "icon": "https://serpapi.com/searches/627cfefaaf6304fd00b6acad/images/02c468aa34351404e211ef0651aee53af88964ebfb2a9c2c9d6f45ac2a0700177b3cb6703cd825d26a089ad7f8f0fe12.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.recare-hub.eu/soil-threats/contamination&tbm=ilp&ilps=ADNMCi3ajjOU_0HR12ZXC5zAbp2tApQIQw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q7gnxXnzd5wJ:https://www.recare-hub.eu/soil-threats/contamination+&cd=14&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 5,
+            "title": "What Is Soil Pollution",
+            "link": "https://www.environmentalpollutioncenters.org/soil/",
+            "displayed_link": "https://www.environmentalpollutioncenters.org › soil",
+            "snippet": "Soil pollution is defined as the presence of toxic chemicals (pollutants or contaminants) in soil, in high enough concentrations to pose a risk to human ...",
+            "snippet_highlighted_words": [
+                "Soil pollution"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "environmentalpollutioncenters.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfefaaf6304fd00b6acad/images/02c468aa34351404e211ef0651aee53a7da0873f4742568d7593ac1b70724d48fb9bde54796354136d68ba427c03cf9d.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.environmentalpollutioncenters.org/soil/&tbm=ilp&ilps=ADNMCi0zCEJQ1nm4KI9Uh5iknGSqRetl_Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hzIw3EFSDKQJ:https://www.environmentalpollutioncenters.org/soil/+&cd=15&hl=en&ct=clnk&gl=ng",
+            "related_pages_link": "https://www.google.com/search?gl=NG&hl=en&q=related:https://www.environmentalpollutioncenters.org/soil/+Soil+contamination"
+        },
+        {
+            "position": 6,
+            "title": "Contaminated Soil - an overview | ScienceDirect Topics",
+            "link": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/contaminated-soil",
+            "displayed_link": "https://www.sciencedirect.com › topics › contaminated-soil",
+            "snippet": "A contaminated soil can be defined as a soil with a concentration of a contaminant that exceeds the level defined by applicable regulations (Castelo-Grande ...",
+            "snippet_highlighted_words": [
+                "contaminated soil",
+                "soil"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "ScienceDirect is a website which provides access to a large bibliographic database of scientific and medical publications of the Dutch publisher Elsevier. It hosts over 18 million pieces of content from more than 4,000 academic journals and 30,000 e-books of this publisher.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/ScienceDirect",
+                    "icon": "https://serpapi.com/searches/627cfefaaf6304fd00b6acad/images/02c468aa34351404e211ef0651aee53a9dc3bb80f50203d9e4313bfb8f3a6efc2b9b2a3d81eb69b9f98d7904ff325e86.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/contaminated-soil&tbm=ilp&ilps=ADNMCi06-ItD9U7MzGJTN3Bw-MIFbdWsSg",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Contaminated Soil - an overview | ScienceDirect Topics",
+                    "link": "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/contaminated-soil",
+                    "displayed_link": "https://www.sciencedirect.com › topics › contaminated-soil",
+                    "snippet": "Contaminated soils can present a human health risk by several routes. Contaminants released at the Earth's surface can be transported vertically and laterally ...",
+                    "snippet_highlighted_words": [
+                        "Contaminated soils",
+                        "Contaminants"
+                    ],
+                    "about_this_result": {
+                        "source": {
+                            "description": "ScienceDirect is a website which provides access to a large bibliographic database of scientific and medical publications of the Dutch publisher Elsevier. It hosts over 18 million pieces of content from more than 4,000 academic journals and 30,000 e-books of this publisher.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/ScienceDirect",
+                            "icon": "https://serpapi.com/searches/627cfefaaf6304fd00b6acad/images/02c468aa34351404e211ef0651aee53a3289fcd4f2e94d65094a234ac8db07c194673c4c7af3098d31288790556b329aa8bc4d70c35b31dffe5708dee2a97564a6523b077c538d02.png"
+                        }
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.sciencedirect.com/topics/earth-and-planetary-sciences/contaminated-soil&tbm=ilp&ilps=ADNMCi2iJUKGC8fY_HNDF8ar7Q5EAnc_Rw"
+                }
+            ]
+        },
+        {
+            "position": 7,
+            "title": "What is Soil Contamination? And Why Does It Happen?",
+            "link": "https://www.envirotech-online.com/news/health-and-safety/10/breaking-news/what-is-soil-contamination-and-why-does-it-happen/32581",
+            "displayed_link": "https://www.envirotech-online.com › breaking-news",
+            "date": "26 Nov 2014",
+            "snippet": "Soil contamination occurs when human-made chemicals, such as hydrocarbons and heavy metals, find their way into the earth, altering the ...",
+            "snippet_highlighted_words": [
+                "Soil contamination"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "envirotech-online.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfefaaf6304fd00b6acad/images/02c468aa34351404e211ef0651aee53a2f3027a4df501b624d916a56b1bf09e07f57151c1873e518ab1f815a2e869535.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.envirotech-online.com/news/health-and-safety/10/breaking-news/what-is-soil-contamination-and-why-does-it-happen/32581&tbm=ilp&ilps=ADNMCi31cqOFg6BzgISzAgpnTiWe78RPdw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Gx7XNOVpkTMJ:https://www.envirotech-online.com/news/health-and-safety/10/breaking-news/what-is-soil-contamination-and-why-does-it-happen/32581+&cd=18&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 8,
+            "title": "Soil Pollution: Definition, Causes, Effects and Solutions",
+            "link": "https://www.conserve-energy-future.com/causes-and-effects-of-soil-pollution.php",
+            "displayed_link": "https://www.conserve-energy-future.com › causes-and-...",
+            "snippet": "Soil pollution is a complex phenomenon, and it can be triggered by a variety of things and activities, from the littering of cigarette butts to excess use ...",
+            "snippet_highlighted_words": [
+                "Soil pollution"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "conserve-energy-future.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfefaaf6304fd00b6acad/images/02c468aa34351404e211ef0651aee53a88d30804009e83695ea794eea6df0cc2fc28d2636fdf9d43f9fc10fccfe106ef.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.conserve-energy-future.com/causes-and-effects-of-soil-pollution.php&tbm=ilp&ilps=ADNMCi0YFve0cpzT3pg4uWfC4IWIxFCIkQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hp7rMUwiiHIJ:https://www.conserve-energy-future.com/causes-and-effects-of-soil-pollution.php+&cd=19&hl=en&ct=clnk&gl=ng"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "soil contamination effects",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Soil+contamination+effects&sa=X&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "soil contamination examples",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Soil+contamination+examples&sa=X&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "oil in soil contamination",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Oil+in+soil+contamination&sa=X&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "soil contamination solution",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Soil+contamination+solution&sa=X&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "soil pollution pdf",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Soil+pollution+PDF&sa=X&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "soil pollution - wikipedia",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Soil+pollution+-+Wikipedia&sa=X&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "soil contamination pollution",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Soil+contamination+pollution&sa=X&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "effects of soil pollution on environment",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Effects+of+soil+pollution+on+environment&sa=X&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ1QJ6BAgxEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Soil+contamination&gl=NG&hl=en&ei=Av98Yr6fCMKxtQbChJXYCw&start=10&sa=N&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Soil+contamination&gl=NG&hl=en&ei=Av98Yr6fCMKxtQbChJXYCw&start=10&sa=N&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=Soil+contamination&gl=NG&hl=en&ei=Av98Yr6fCMKxtQbChJXYCw&start=20&sa=N&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=Soil+contamination&gl=NG&hl=en&ei=Av98Yr6fCMKxtQbChJXYCw&start=30&sa=N&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=Soil+contamination&gl=NG&hl=en&ei=Av98Yr6fCMKxtQbChJXYCw&start=40&sa=N&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=Soil+contamination&gl=NG&hl=en&ei=Av98Yr6fCMKxtQbChJXYCw&start=50&sa=N&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=Soil+contamination&gl=NG&hl=en&ei=Av98Yr6fCMKxtQbChJXYCw&start=60&sa=N&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=Soil+contamination&gl=NG&hl=en&ei=Av98Yr6fCMKxtQbChJXYCw&start=70&sa=N&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=Soil+contamination&gl=NG&hl=en&ei=Av98Yr6fCMKxtQbChJXYCw&start=80&sa=N&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=Soil+contamination&gl=NG&hl=en&ei=Av98Yr6fCMKxtQbChJXYCw&start=90&sa=N&ved=2ahUKEwi-qPnQ_Nn3AhXCWM0KHUJCBbsQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=20&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=30&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=40&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=50&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=60&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=70&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=80&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Soil+contamination&start=90&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh"
+        }
+    }
+}

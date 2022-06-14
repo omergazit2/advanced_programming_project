@@ -1,0 +1,250 @@
+{
+    "search_metadata": {
+        "id": "629e3dba7f83610e1c94f29b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ff0e525fa03f0ace/629e3dba7f83610e1c94f29b.json",
+        "created_at": "2022-06-06 17:47:38 UTC",
+        "processed_at": "2022-06-06 17:47:38 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&oq=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ff0e525fa03f0ace/629e3dba7f83610e1c94f29b.html",
+        "total_time_taken": 0.83
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Экосистема",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Экосистема",
+        "total_results": 4900000,
+        "time_taken_displayed": 0.44
+    },
+    "knowledge_graph": {
+        "Возможно_вы_искали": [
+            {
+                "name": "ЭКОСИСТЕ́МА",
+                "extensions": [
+                    "Определение в словаре"
+                ]
+            }
+        ]
+    },
+    "related_questions": [
+        {
+            "question": "Что такое экосистема и примеры?",
+            "snippet": "Природные экосистемы образуются на земле самостихийно, при участии сил природы. Например, естественные озера, реки, пустыни, горы, леса и т. д. Лесные экосистемы - это сообщество живых организмов, обитающих на деревьях.",
+            "title": "Экосистема. Виды и характеристика экосистем - Сезоны года",
+            "link": "https://xn----8sbiecm6bhdx8i.xn--p1ai/%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.html",
+            "displayed_link": "https://сезоны-года.рф › экосистема"
+        },
+        {
+            "question": "Что такое экосистема простыми словами?",
+            "snippet": "Экосистема (англ. ecosystem) — это система, объединяющая все живые организмы, а также их взаимодействие с природой и между собой. Она не имеет конкретного размера. Всё зависит от изучаемого объекта, например, реки, дерева, целого океана или пустыни.23 февр. 2021 г.",
+            "title": "Экосистема — что это такое и какие они бывают - IGIS.ru",
+            "link": "https://igis.ru/blog/item-16869",
+            "displayed_link": "https://igis.ru › blog › item-16869"
+        },
+        {
+            "question": "Какие бывают экосистемы в бизнесе?",
+            "title": "Существует два основных типа бизнес-экосистем:",
+            "link": "https://vc.ru/services/121003-stoit-li-sozdavat-biznes-ekosistemu-rassmotrim-preimushchestva-i-nedostatki",
+            "list": [
+                "Экосистемы решений создают или предоставляют товары или услуги, координируя различных участников рынка. ... ",
+                "Экосистемы транзакций связывают независимых производителей товаров или услуг с клиентами через единую платформу."
+            ],
+            "displayed_link": "https://vc.ru › services › 121003-stoit-li-sozdavat-biznes-e..."
+        },
+        {
+            "question": "Сколько экосистем в Кыргызстане?",
+            "snippet": "В Кыргызской республике идентифицированы 22 экосистемы, 14 из них-это горные экосистемы (см.",
+            "title": "Экосистемы и ресурсы гор Кыргызстана - О Кыргызстане",
+            "link": "http://www.welcome.kg/ru/kyrgyzstan/region/development/191.html",
+            "displayed_link": "http://www.welcome.kg › region › development"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Экосистема — это сложная динамическая система, которая включает в себя совокупность живых организмов и среды их обитания. Характеризуется наличием относительно замкнутых, стабильных в пространстве и времени потоков вещества и энергии между биотической и абиотической частями экосистемы.",
+        "link": "https://indicator.ru/label/ekosistema#:~:text=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%E2%80%94%20%D1%8D%D1%82%D0%BE%20%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0,%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B8%20%D0%B0%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%87%D0%B0%D1%81%D1%82%D1%8F%D0%BC%D0%B8%20%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B.",
+        "displayed_link": "https://indicator.ru › label › ekosistema",
+        "snippet": "Экосистема — это сложная динамическая система, которая включает в себя совокупность живых организмов и среды их обитания. Характеризуется наличием относительно замкнутых, стабильных в пространстве и времени потоков вещества и энергии между биотической и абиотической частями экосистемы.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Экосистема - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Экосистема",
+            "snippet": "-греч. οἶκος — жилище, местопребывание и σύστημα — система) — основная природная единица на поверхности Земли, совокупность совместно обитающих организмов ( ...",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Бизнес-экосистема",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"
+                    },
+                    {
+                        "title": "Водная экосистема",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"
+                    },
+                    {
+                        "title": "Наземная экосистема",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Экосистема - Техническая Библиотека Neftegaz.RU",
+            "link": "https://neftegaz.ru/tech-library/menedzhment/147972-ekosistema/",
+            "displayed_link": "https://neftegaz.ru › menedzhment › 147972-ekosistema",
+            "date": "7 апр. 2010 г.",
+            "snippet": "Экосистема - биосистема, состоящая из сообщества живых организмов (биоценоз), среды их обитания (биотоп), системы связей, ...",
+            "snippet_highlighted_words": [
+                "Экосистема"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Экосистема: понятие, структура и виды экосистем",
+            "link": "https://www.grandars.ru/shkola/geografiya/ekosistema.html",
+            "displayed_link": "https://www.grandars.ru › geografiya › ekosistema",
+            "snippet": "Экосистема (экологическая система) — основная функциональная единица экологии, представляющая собой единство живых организмов и среды их обитания, ...",
+            "snippet_highlighted_words": [
+                "Экосистема"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Экологический центр «Экосистема",
+            "link": "http://ecosystema.ru/",
+            "displayed_link": "http://ecosystema.ru",
+            "snippet": "С тех пор и по настоящее время \"Экосистема\" - это методический центр, ориентированный на работу с образовательными учреждениями и общественными ...",
+            "snippet_highlighted_words": [
+                "Экосистема"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Экосистема - Сбер",
+            "link": "https://www.sber.ru/ecosystem/",
+            "displayed_link": "https://www.sber.ru › ecosystem",
+            "snippet": "Получите специальные предложения от сервисов экосистемы Сбера. Подробнее. СберМобайл. Соберите удобный для себя тариф и оплачивайте связь бонусами.",
+            "snippet_highlighted_words": [
+                "экосистемы"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Что такое бизнес-экосистемы и зачем они нужны - РБК ...",
+            "link": "https://trends.rbc.ru/trends/innovation/6087e5899a7947ed35fdbbf3",
+            "displayed_link": "https://trends.rbc.ru › РБК Тренды › Инновации",
+            "snippet": "Этот термин в 1930-х годах ввел британский ботаник Артур Тэнсли. Экосистемой он назвал локальные сообщества организмов, которые взаимодействуют друг с другом и ...",
+            "snippet_highlighted_words": [
+                "Экосистемой"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "это... Что такое Экосистема? - Словари и энциклопедии на ...",
+            "link": "https://dic.academic.ru/dic.nsf/ruwiki/6539",
+            "displayed_link": "https://dic.academic.ru › dic.nsf › ruwiki",
+            "snippet": "Экосисте́ма, или экологи́ческая систе́ма (от др.-греч. οἶκος — жилище, местопребывание и σύστημα — система) — биологическая система, состоящая из сообщества ...",
+            "snippet_highlighted_words": [
+                "Экосисте́ма"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Экосистема - Геовикипедия",
+            "link": "https://wiki.web.ru/wiki/%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0",
+            "displayed_link": "https://wiki.web.ru › wiki › Экосистема",
+            "snippet": "Экосистема - основное понятие экологии. Это совокупность сосуществующих видов растений, животных, грибов, микроорганизмов, взаимодействующих между собой и с ...",
+            "snippet_highlighted_words": [
+                "Экосистема"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "Что такое экосистема. Объясняем простыми словами",
+            "link": "https://secretmag.ru/enciklopediya/chto-takoe-ekosistema-obyasnyaem-prostymi-slovami.htm",
+            "displayed_link": "https://secretmag.ru › enciklopediya › chto-takoe-ekosis...",
+            "date": "11 нояб. 2021 г.",
+            "snippet": "Экосистема — набор сервисов, объединённых вокруг одной компании. Большие компании строят экосистемы, чтобы продавать клиентам как можно ...",
+            "snippet_highlighted_words": [
+                "Экосистема",
+                "экосистемы"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "экосистема примеры",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B&sa=X&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ1QJ6BAhXEAE"
+        },
+        {
+            "query": "экосистема в экономике",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%B2+%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B5&sa=X&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ1QJ6BAhVEAE"
+        },
+        {
+            "query": "экосистема в бизнесе",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%B2+%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5&sa=X&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ1QJ6BAhWEAE"
+        },
+        {
+            "query": "экосистема биология",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F&sa=X&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ1QJ6BAhUEAE"
+        },
+        {
+            "query": "экосистема купить",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C&sa=X&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ1QJ6BAhTEAE"
+        },
+        {
+            "query": "экосистема 5 класс",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+5+%D0%BA%D0%BB%D0%B0%D1%81%D1%81&sa=X&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ1QJ6BAhREAE"
+        },
+        {
+            "query": "экосистема сбербанка",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0&sa=X&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ1QJ6BAhSEAE"
+        },
+        {
+            "query": "экосистема виды",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0+%D0%B2%D0%B8%D0%B4%D1%8B&sa=X&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ1QJ6BAhPEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&ei=uj2eYoa6G9SxqtsPoIyj4Aw&start=10&sa=N&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ8NMDegQIAhBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&ei=uj2eYoa6G9SxqtsPoIyj4Aw&start=10&sa=N&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ8tMDegQIAhA_",
+            "3": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&ei=uj2eYoa6G9SxqtsPoIyj4Aw&start=20&sa=N&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ8tMDegQIAhBB",
+            "4": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&ei=uj2eYoa6G9SxqtsPoIyj4Aw&start=30&sa=N&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ8tMDegQIAhBD",
+            "5": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&ei=uj2eYoa6G9SxqtsPoIyj4Aw&start=40&sa=N&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ8tMDegQIAhBF",
+            "6": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&ei=uj2eYoa6G9SxqtsPoIyj4Aw&start=50&sa=N&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ8tMDegQIAhBH",
+            "7": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&ei=uj2eYoa6G9SxqtsPoIyj4Aw&start=60&sa=N&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ8tMDegQIAhBJ",
+            "8": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&ei=uj2eYoa6G9SxqtsPoIyj4Aw&start=70&sa=N&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ8tMDegQIAhBL",
+            "9": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&ei=uj2eYoa6G9SxqtsPoIyj4Aw&start=80&sa=N&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ8tMDegQIAhBN",
+            "10": "https://www.google.com/search?q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&hl=ru&gl=ru&ei=uj2eYoa6G9SxqtsPoIyj4Aw&start=90&sa=N&ved=2ahUKEwiG_5iLsZn4AhXUmGoFHSDGCMwQ8tMDegQIAhBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&start=90"
+        }
+    }
+}

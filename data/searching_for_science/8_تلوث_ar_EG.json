@@ -1,0 +1,354 @@
+{
+    "search_metadata": {
+        "id": "629e3d9d58762ba744f7fd0e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0e40f5ff10c53411/629e3d9d58762ba744f7fd0e.json",
+        "created_at": "2022-06-06 17:47:09 UTC",
+        "processed_at": "2022-06-06 17:47:09 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&oq=%D8%AA%D9%84%D9%88%D8%AB&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/0e40f5ff10c53411/629e3d9d58762ba744f7fd0e.html",
+        "total_time_taken": 2.19
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "تلوث",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "تلوث",
+        "total_results": 20300000,
+        "time_taken_displayed": 0.5
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=ZNtBMC4vECEa5M%252CGKicteC3Qm4nxM%252C_%253B3CL93H0yKcd0CM%252Cqi1hZp7ofoYqJM%252C_%253BC8DcCc-Cvy-mZM%252CFdrXkR7wJ3n6wM%252C_%253B2fpZWGlRNnreiM%252COdV0_KIu5IsKjM%252C_%253BnRjC4EX57oz1jM%252Cg_SaA1LOtz79BM%252C_%253B_7gGp_r1Co8IZM%252C_YFffjFuXE_O3M%252C_%253BPAlPWepLePng4M%252CTaK0doCFV-svuM%252C_%253BwXbA7UbTDShLYM%252CyL4mbz3W5vc08M%252C_%253BVBTRWUwphdRNsM%252Cc_42C-coKOiLNM%252C_%253BbBiZLxTid8-XGM%252Cj6wR0TMAbWzBEM%252C_&usg=AI4_-kSJX-pGooIuEYt2hOvbWvXN9mUFnw&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q9QF6BAg4EAE#imgrc=ZNtBMC4vECEa5M",
+            "source": "https://www.almayadeen.net/environment/%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D9%88%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D9%88%D8%AD%D9%84%D9%88%D9%84",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMZb7fA3QgQIE4i3srDUlF3Y0QxnVEQ6BLepT7Ssu1w&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=ZNtBMC4vECEa5M%252CGKicteC3Qm4nxM%252C_%253B3CL93H0yKcd0CM%252Cqi1hZp7ofoYqJM%252C_%253BC8DcCc-Cvy-mZM%252CFdrXkR7wJ3n6wM%252C_%253B2fpZWGlRNnreiM%252COdV0_KIu5IsKjM%252C_%253BnRjC4EX57oz1jM%252Cg_SaA1LOtz79BM%252C_%253B_7gGp_r1Co8IZM%252C_YFffjFuXE_O3M%252C_%253BPAlPWepLePng4M%252CTaK0doCFV-svuM%252C_%253BwXbA7UbTDShLYM%252CyL4mbz3W5vc08M%252C_%253BVBTRWUwphdRNsM%252Cc_42C-coKOiLNM%252C_%253BbBiZLxTid8-XGM%252Cj6wR0TMAbWzBEM%252C_&usg=AI4_-kSJX-pGooIuEYt2hOvbWvXN9mUFnw&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q9QF6BAhTEAE#imgrc=3CL93H0yKcd0CM",
+            "source": "https://www.edarabia.com/ar/5-%D9%85%D9%86-%D8%A7%D9%87%D9%85-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D9%87%D9%84-%D9%83%D9%88%D9%83%D8%A8-%D8%A7%D9%84%D8%A7%D8%B1%D8%B6-%D9%81%DB%8C-%D8%AE%D8%B7%D8%B1/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwfzPG87ap86tsRuPGM7OqEtv5-IVE5Sn6H0OkxeXpg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=ZNtBMC4vECEa5M%252CGKicteC3Qm4nxM%252C_%253B3CL93H0yKcd0CM%252Cqi1hZp7ofoYqJM%252C_%253BC8DcCc-Cvy-mZM%252CFdrXkR7wJ3n6wM%252C_%253B2fpZWGlRNnreiM%252COdV0_KIu5IsKjM%252C_%253BnRjC4EX57oz1jM%252Cg_SaA1LOtz79BM%252C_%253B_7gGp_r1Co8IZM%252C_YFffjFuXE_O3M%252C_%253BPAlPWepLePng4M%252CTaK0doCFV-svuM%252C_%253BwXbA7UbTDShLYM%252CyL4mbz3W5vc08M%252C_%253BVBTRWUwphdRNsM%252Cc_42C-coKOiLNM%252C_%253BbBiZLxTid8-XGM%252Cj6wR0TMAbWzBEM%252C_&usg=AI4_-kSJX-pGooIuEYt2hOvbWvXN9mUFnw&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q9QF6BAhHEAE#imgrc=C8DcCc-Cvy-mZM",
+            "source": "https://mawdoo3.com/%D8%A8%D8%AD%D8%AB_%D8%AD%D9%88%D9%84_%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8dX4vdaMcdlf5HS04z_Wsg5gqaMNDgattyyXPB3F1Q&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=ZNtBMC4vECEa5M%252CGKicteC3Qm4nxM%252C_%253B3CL93H0yKcd0CM%252Cqi1hZp7ofoYqJM%252C_%253BC8DcCc-Cvy-mZM%252CFdrXkR7wJ3n6wM%252C_%253B2fpZWGlRNnreiM%252COdV0_KIu5IsKjM%252C_%253BnRjC4EX57oz1jM%252Cg_SaA1LOtz79BM%252C_%253B_7gGp_r1Co8IZM%252C_YFffjFuXE_O3M%252C_%253BPAlPWepLePng4M%252CTaK0doCFV-svuM%252C_%253BwXbA7UbTDShLYM%252CyL4mbz3W5vc08M%252C_%253BVBTRWUwphdRNsM%252Cc_42C-coKOiLNM%252C_%253BbBiZLxTid8-XGM%252Cj6wR0TMAbWzBEM%252C_&usg=AI4_-kSJX-pGooIuEYt2hOvbWvXN9mUFnw&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q9QF6BAhLEAE#imgrc=2fpZWGlRNnreiM",
+            "source": "https://e3arabi.com/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9/%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%A3%D9%86%D9%87%D8%A7%D8%B1-%D9%88%D8%A3%D8%AB%D8%B1%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-ARF3H8Yd7Ij_K9_tFUFYEooUyO0Th0THx9tfs4kow&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=ZNtBMC4vECEa5M%252CGKicteC3Qm4nxM%252C_%253B3CL93H0yKcd0CM%252Cqi1hZp7ofoYqJM%252C_%253BC8DcCc-Cvy-mZM%252CFdrXkR7wJ3n6wM%252C_%253B2fpZWGlRNnreiM%252COdV0_KIu5IsKjM%252C_%253BnRjC4EX57oz1jM%252Cg_SaA1LOtz79BM%252C_%253B_7gGp_r1Co8IZM%252C_YFffjFuXE_O3M%252C_%253BPAlPWepLePng4M%252CTaK0doCFV-svuM%252C_%253BwXbA7UbTDShLYM%252CyL4mbz3W5vc08M%252C_%253BVBTRWUwphdRNsM%252Cc_42C-coKOiLNM%252C_%253BbBiZLxTid8-XGM%252Cj6wR0TMAbWzBEM%252C_&usg=AI4_-kSJX-pGooIuEYt2hOvbWvXN9mUFnw&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q9QF6BAhOEAE#imgrc=nRjC4EX57oz1jM",
+            "source": "https://mawdoo3.com/%D8%A2%D8%AB%D8%A7%D8%B1_%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB_%D8%B9%D9%84%D9%89_%D8%B5%D8%AD%D8%A9_%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEb3O2K2OvUYAHNJ9Zx7FEqNQq95uxGCszYsENCkTnyA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=ZNtBMC4vECEa5M%252CGKicteC3Qm4nxM%252C_%253B3CL93H0yKcd0CM%252Cqi1hZp7ofoYqJM%252C_%253BC8DcCc-Cvy-mZM%252CFdrXkR7wJ3n6wM%252C_%253B2fpZWGlRNnreiM%252COdV0_KIu5IsKjM%252C_%253BnRjC4EX57oz1jM%252Cg_SaA1LOtz79BM%252C_%253B_7gGp_r1Co8IZM%252C_YFffjFuXE_O3M%252C_%253BPAlPWepLePng4M%252CTaK0doCFV-svuM%252C_%253BwXbA7UbTDShLYM%252CyL4mbz3W5vc08M%252C_%253BVBTRWUwphdRNsM%252Cc_42C-coKOiLNM%252C_%253BbBiZLxTid8-XGM%252Cj6wR0TMAbWzBEM%252C_&usg=AI4_-kSJX-pGooIuEYt2hOvbWvXN9mUFnw&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q9QF6BAhGEAE#imgrc=_7gGp_r1Co8IZM",
+            "source": "https://www.bbc.com/arabic/science-and-tech-39176181",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9TbSwadflji8xMNX4mkLQCyPBxjMKp28y1RyO7wxbSQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=ZNtBMC4vECEa5M%252CGKicteC3Qm4nxM%252C_%253B3CL93H0yKcd0CM%252Cqi1hZp7ofoYqJM%252C_%253BC8DcCc-Cvy-mZM%252CFdrXkR7wJ3n6wM%252C_%253B2fpZWGlRNnreiM%252COdV0_KIu5IsKjM%252C_%253BnRjC4EX57oz1jM%252Cg_SaA1LOtz79BM%252C_%253B_7gGp_r1Co8IZM%252C_YFffjFuXE_O3M%252C_%253BPAlPWepLePng4M%252CTaK0doCFV-svuM%252C_%253BwXbA7UbTDShLYM%252CyL4mbz3W5vc08M%252C_%253BVBTRWUwphdRNsM%252Cc_42C-coKOiLNM%252C_%253BbBiZLxTid8-XGM%252Cj6wR0TMAbWzBEM%252C_&usg=AI4_-kSJX-pGooIuEYt2hOvbWvXN9mUFnw&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q9QF6BAhIEAE#imgrc=PAlPWepLePng4M",
+            "source": "https://www.enabbaladi.net/archives/423859",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qzWQVSRra3I_raFtF5Y6EZAjWLHiB1lvlsdkf_8tcQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=ZNtBMC4vECEa5M%252CGKicteC3Qm4nxM%252C_%253B3CL93H0yKcd0CM%252Cqi1hZp7ofoYqJM%252C_%253BC8DcCc-Cvy-mZM%252CFdrXkR7wJ3n6wM%252C_%253B2fpZWGlRNnreiM%252COdV0_KIu5IsKjM%252C_%253BnRjC4EX57oz1jM%252Cg_SaA1LOtz79BM%252C_%253B_7gGp_r1Co8IZM%252C_YFffjFuXE_O3M%252C_%253BPAlPWepLePng4M%252CTaK0doCFV-svuM%252C_%253BwXbA7UbTDShLYM%252CyL4mbz3W5vc08M%252C_%253BVBTRWUwphdRNsM%252Cc_42C-coKOiLNM%252C_%253BbBiZLxTid8-XGM%252Cj6wR0TMAbWzBEM%252C_&usg=AI4_-kSJX-pGooIuEYt2hOvbWvXN9mUFnw&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q9QF6BAhCEAE#imgrc=wXbA7UbTDShLYM",
+            "source": "https://www.plasticcollectors.com/ar/blog/water-pollution-solutions/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzM3QFn8h-yNOa1VbkVuWLftObdkjJHBYTEO2u2RQQ-g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=ZNtBMC4vECEa5M%252CGKicteC3Qm4nxM%252C_%253B3CL93H0yKcd0CM%252Cqi1hZp7ofoYqJM%252C_%253BC8DcCc-Cvy-mZM%252CFdrXkR7wJ3n6wM%252C_%253B2fpZWGlRNnreiM%252COdV0_KIu5IsKjM%252C_%253BnRjC4EX57oz1jM%252Cg_SaA1LOtz79BM%252C_%253B_7gGp_r1Co8IZM%252C_YFffjFuXE_O3M%252C_%253BPAlPWepLePng4M%252CTaK0doCFV-svuM%252C_%253BwXbA7UbTDShLYM%252CyL4mbz3W5vc08M%252C_%253BVBTRWUwphdRNsM%252Cc_42C-coKOiLNM%252C_%253BbBiZLxTid8-XGM%252Cj6wR0TMAbWzBEM%252C_&usg=AI4_-kSJX-pGooIuEYt2hOvbWvXN9mUFnw&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q9QF6BAhEEAE#imgrc=VBTRWUwphdRNsM",
+            "source": "https://www.alkhaleej.ae/%D9%85%D9%84%D8%AD%D9%82/%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB-%D8%B7%D8%A7%D8%B9%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D8%B5%D8%B1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07BEE_hU2DqaYB6MO7dIzuYN6QmkbAweO5OZNy54A7w&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&tbm=isch&source=iu&ictx=1&vet=1&fir=ZNtBMC4vECEa5M%252CGKicteC3Qm4nxM%252C_%253B3CL93H0yKcd0CM%252Cqi1hZp7ofoYqJM%252C_%253BC8DcCc-Cvy-mZM%252CFdrXkR7wJ3n6wM%252C_%253B2fpZWGlRNnreiM%252COdV0_KIu5IsKjM%252C_%253BnRjC4EX57oz1jM%252Cg_SaA1LOtz79BM%252C_%253B_7gGp_r1Co8IZM%252C_YFffjFuXE_O3M%252C_%253BPAlPWepLePng4M%252CTaK0doCFV-svuM%252C_%253BwXbA7UbTDShLYM%252CyL4mbz3W5vc08M%252C_%253BVBTRWUwphdRNsM%252Cc_42C-coKOiLNM%252C_%253BbBiZLxTid8-XGM%252Cj6wR0TMAbWzBEM%252C_&usg=AI4_-kSJX-pGooIuEYt2hOvbWvXN9mUFnw&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q9QF6BAhDEAE#imgrc=bBiZLxTid8-XGM",
+            "source": "https://arabicpost.net/%D9%84%D8%A7%D9%8A%D9%81-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84/2019/08/25/%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D8%A7%D8%AB%D8%B1%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%A5/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMP1c3onworgz-0NZcE9be8RqWUhiSGx4ytYvS-7O8g&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "تقرير| التلوث البيئي.. كارثة يصنعها البشر تودي بحياة قرابة ...",
+            "link": "https://www.youtube.com/watch?v=-sDwQdUsIv4",
+            "thumbnail": "https://i.ytimg.com/vi/-sDwQdUsIv4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nHS8r1BFpHJS6UBcxEActGeXG7Ew",
+            "channel": "Alghad TV - قناة الغد",
+            "duration": "2:51",
+            "platform": "YouTube",
+            "date": "25‏/10‏/2018"
+        },
+        {
+            "position": 2,
+            "title": "7 أشياء يمكنك القيام بها لوقف تلوث التربة",
+            "link": "https://www.youtube.com/watch?v=EURfzuiTmrA",
+            "thumbnail": "https://i.ytimg.com/vi/EURfzuiTmrA/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3m8CQCcHxNWzGrxD3mrfaLyhWedew",
+            "channel": "Food and Agriculture Organization of the United Nations",
+            "duration": "0:49",
+            "platform": "YouTube",
+            "date": "18‏/12‏/2019"
+        },
+        {
+            "position": 3,
+            "title": "تقرير | تلوث الهواء في مصر تجاوز المسموح والمدن الكبرى الأكثر ...",
+            "link": "https://www.youtube.com/watch?v=bS1CIEFIjVs",
+            "thumbnail": "https://i.ytimg.com/vi/bS1CIEFIjVs/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nM6H-MwAaRRhBCxYlT6SqlSh7rvQ",
+            "channel": "Alghad TV - قناة الغد",
+            "duration": "3:20",
+            "platform": "YouTube",
+            "date": "05‏/06‏/2018"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ماذا يعني تلوث؟",
+            "snippet": "هو إدخال النفايات والمواد الكيميائية وغيرها من المخلفات للبيئات الطبيعية التي تسبب تغيرًا سلبيًا يؤثر على هذه البيئات والكائنات الحية التي تعيش بها، ويكون التلوث على شكل مواد كيميائية أو ملوثات توجد بشكل طبيعي.",
+            "title": "التلوث | أنواع التلوث وأسبابه ومصادره والحلول المقترحة - Twinkl",
+            "link": "https://www.twinkl.co.uk/teaching-wiki/altlwth",
+            "displayed_link": "https://www.twinkl.co.uk › teaching-wiki › altlwth"
+        },
+        {
+            "question": "ما هي اسباب تلوث؟",
+            "snippet": "نبذة عن ظاهرة التلوث البيئي يصنف التلوث البيئي على أنه ظاهرة غير طبيعية، وضرر يحدث للبيئة وينجم عن عناصر ملوثة تعمل على إحداث العديد من التغيرات السلبية على الطبيعة، ما يتسبب في إحداث نتائج كارثية قد تؤدي إلى تدمير البيئة. ينقسم التلوث البيئي إلى ثلاثة أنواع رئيسية، وهي: تلوث الماء تلوث التربة",
+            "title": "مصادر التلوث البيئي ودور الأفراد للحد من انتشاره في العالم | ...",
+            "link": "https://www.bayut.com/mybayut/ar/%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A/",
+            "displayed_link": "https://www.bayut.com › mybayut › التلوث-البيئي"
+        },
+        {
+            "question": "من التلوث البيئي؟",
+            "snippet": "تشمل أشكال التلوث الرئيسية: تلوث الهواء، والتلوث الضوئي، وإلقاء القمامة، والتلوث الضوضائي، وتلوث البلاستيك، وتلوث التربة، والتلوث الإشعاعي، والتلوث الحراري، والتلوث البصري، وتلوث المياه.",
+            "title": "تلوث - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%88%D8%AB",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تلوث"
+        },
+        {
+            "question": "ما هي خصائص التلوث؟",
+            "snippet": "التلوث البيئي هو إدخال الملوِّثات إلى البيئة الطبيعيّة ما يتسبّب في إلحاق الضرر بها وبكل الكائنات الحية التي تعيش فيها، وهذهِ الملوثات تكون بأشكالٍ مختلفة صلبة، وسائلة، وغازيّة، أو تكون على شكل طاقة كالحرارة، أو الصوت، أو أي نشاط إشعاعي يتجاوز النسبة التي يُمكن للبيئة أن تخزنها.",
+            "title": "أنواع التلوث البيئي وأسبابه، وأهم طرق الحفاظ على البيئة - ...",
+            "link": "https://www.annajah.net/%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D9%88%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8%D9%87-%D9%88%D8%A3%D9%87%D9%85-%D8%B7%D8%B1%D9%82-%D8%A7%D9%84%D8%AD%D9%81%D8%A7%D8%B8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-article-25237",
+            "displayed_link": "https://www.annajah.net › أنواع-التلوث-البيئي-وأسبابه-..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "تلوث - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%88%D8%AB",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تلوث",
+            "snippet": "يعرف التلوث بأنه إدخال الملوثات التي تسبب تغيرًا سلبيًا في البيئة الطبيعية. ... قد يكون التلوث على شكل مادة (صلبة أو سائلة أو غازية) أو على شكل طاقة (مثل النشاط ...",
+            "snippet_highlighted_words": [
+                "التلوث",
+                "التلوث"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "تلوث غير محدد المصدر",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%88%D8%AB_%D8%BA%D9%8A%D8%B1_%D9%85%D8%AD%D8%AF%D8%AF_%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1"
+                    },
+                    {
+                        "title": "تلوث الهواء",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A1"
+                    },
+                    {
+                        "title": "تلوث المياه",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%88%D8%AB_%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87"
+                    },
+                    {
+                        "title": "تلوث ضوضائي",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%88%D8%AB_%D8%B6%D9%88%D8%B6%D8%A7%D8%A6%D9%8A"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "تلوث الهواء المحيط (الهواء الخارجي) - WHO | World Health ...",
+            "link": "https://www.who.int/ar/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+            "displayed_link": "https://www.who.int › ... › صحائف الوقائع › Detail",
+            "snippet": "يشكّل تلوث الهواء أحد المخاطر البيئية الكبرى على الصحة. ومن خلال خفض مستويات تلوث الهواء يمكن للبلدان أن تحد من عبء المرض المترتب عليه ...",
+            "snippet_highlighted_words": [
+                "تلوث",
+                "تلوث"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٢‏/٠٩‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "تلوّث الهواء داخل المنزل والصحة - WHO | World Health ...",
+            "link": "https://www.who.int/ar/news-room/fact-sheets/detail/household-air-pollution-and-health",
+            "displayed_link": "https://www.who.int › ... › صحائف الوقائع › Detail",
+            "snippet": "ويشكل تلوث الهواء داخل المنزل عامل خطر لحدوث التهاب حاد في السبيل التنفسي السفلي (الالتهاب الرئوي) لدى البالغين، ويساهم في 28% من جميع وفيات ...",
+            "snippet_highlighted_words": [
+                "تلوث"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٢‏/٠٩‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "تعريف التلوث وأنواعه - موضوع",
+            "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB_%D9%88%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87",
+            "displayed_link": "https://mawdoo3.com › التلوث البيئي",
+            "snippet": "للمزيد من المعلومات حول تلوّث الغلاف الجويّ، وأنواعه، وطرق علاجه، وآثاره بإمكانك الانتقال إلى مقال بحث حول تلوث الهواء. تلوث الماء. يحدث تلوث الماء (بالإنجليزية ...",
+            "snippet_highlighted_words": [
+                "تلوّث",
+                "تلوث",
+                "تلوث",
+                "تلوث"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "١ تعريف التلوث",
+                        "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB_%D9%88%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87#.D8.AA.D8.B9.D8.B1.D9.8A.D9.81_.D8.A7.D9.84.D8.AA.D9.84.D9.88.D8.AB"
+                    },
+                    {
+                        "title": "٢ أنواع التلوث",
+                        "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB_%D9%88%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87#.D8.A3.D9.86.D9.88.D8.A7.D8.B9_.D8.A7.D9.84.D8.AA.D9.84.D9.88.D8.AB"
+                    },
+                    {
+                        "title": "٢.١ تلوث الهواء",
+                        "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB_%D9%88%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87#.D8.AA.D9.84.D9.88.D8.AB_.D8.A7.D9.84.D9.87.D9.88.D8.A7.D8.A1"
+                    },
+                    {
+                        "title": "٢.٢ تلوث الماء",
+                        "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB_%D9%88%D8%A3%D9%86%D9%88%D8%A7%D8%B9%D9%87#.D8.AA.D9.84.D9.88.D8.AB_.D8.A7.D9.84.D9.85.D8.A7.D8.A1"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 5,
+            "title": "المدن والتلوث | الأمم المتحدة - the United Nations",
+            "link": "https://www.un.org/ar/climatechange/climate-solutions/cities-pollution",
+            "displayed_link": "https://www.un.org › climate-solutions › cities-pollution",
+            "snippet": "المدن والتلوث. تعد المدن من المساهمين الرئيسيين في تغير المناخ. ووفقاً لموئل الأمم المتحدة، تستهلك المدن 78 في المائة من طاقة العالم وتنتج أكثر من 60 في ...",
+            "snippet_highlighted_words": [
+                "والتلوث"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "تلوث المياه الناجم عن الأنشطة الزراعية - FAO.org",
+            "link": "https://www.fao.org/3/cb7654ar/online/src/html/chapter-1-5.html",
+            "displayed_link": "https://www.fao.org › online › src › html › chapter-1-5",
+            "snippet": "يعدّ تلوث المياه أزمة عالمية متنامية تؤثر بشكل مباشر على الصحة والتنمية الاقتصادية والأمن الغذائي. وعلى الرغم من أن الأنشطة البشرية الأخرى مثل المستوطنات ...",
+            "snippet_highlighted_words": [
+                "تلوث"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "التلوث البيئي .. أسباب ومخاطر وحلول | الميادين",
+            "link": "https://www.almayadeen.net/environment/%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D9%88%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D9%88%D8%AD%D9%84%D9%88%D9%84",
+            "displayed_link": "https://www.almayadeen.net › environment › التلوث-ال...",
+            "snippet": "تلوث البيئة. لم يعد تلوّث البيئة مشكلة محلية أو تقتصر على الدول الصناعية الكبرى، فقد باتت مشكلة عالميّة بسبب تراكم تأثيراتها وتأجيل تنفيذ ...",
+            "snippet_highlighted_words": [
+                "تلوث",
+                "تلوّث"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٢‏/٠٨‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "معالجة تلوث المياه العالمية | UNEP - UN Environment ...",
+            "link": "https://www.unep.org/ar/explore-topics/water/what-we-do/maljt-tlwth-almyah-alalmyt",
+            "displayed_link": "https://www.unep.org › maljt-tlwth-almyah-alalmyt",
+            "snippet": "Once water is contaminated, it is difficult, costly, and often impossible to remove the pollutants. Still today, 80 per cent of global wastewater goes ...",
+            "snippet_highlighted_words": [
+                "pollutants"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "تلوث الهواء",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A1&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q1QJ6BAgxEAE"
+        },
+        {
+            "query": "التلوث البيئي",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q1QJ6BAgvEAE"
+        },
+        {
+            "query": "تلوث الماء",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D9%85%D8%A7%D8%A1&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q1QJ6BAguEAE"
+        },
+        {
+            "query": "التلوث PDF",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB+PDF&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q1QJ6BAgtEAE"
+        },
+        {
+            "query": "أنواع التلوث",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q1QJ6BAgsEAE"
+        },
+        {
+            "query": "أضرار التلوث",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1+%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q1QJ6BAgpEAE"
+        },
+        {
+            "query": "أسباب تلوث الهواء",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8+%D8%AA%D9%84%D9%88%D8%AB+%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A1&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q1QJ6BAgnEAE"
+        },
+        {
+            "query": "أسباب التلوث",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8+%D8%A7%D9%84%D8%AA%D9%84%D9%88%D8%AB&sa=X&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q1QJ6BAglEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&ei=nz2eYuPzBaSYptQPhMOs-A8&start=10&sa=N&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&ei=nz2eYuPzBaSYptQPhMOs-A8&start=10&sa=N&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&ei=nz2eYuPzBaSYptQPhMOs-A8&start=20&sa=N&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&ei=nz2eYuPzBaSYptQPhMOs-A8&start=30&sa=N&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&ei=nz2eYuPzBaSYptQPhMOs-A8&start=40&sa=N&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&ei=nz2eYuPzBaSYptQPhMOs-A8&start=50&sa=N&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&ei=nz2eYuPzBaSYptQPhMOs-A8&start=60&sa=N&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&ei=nz2eYuPzBaSYptQPhMOs-A8&start=70&sa=N&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&ei=nz2eYuPzBaSYptQPhMOs-A8&start=80&sa=N&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D8%AA%D9%84%D9%88%D8%AB&gl=eg&hl=ar&ei=nz2eYuPzBaSYptQPhMOs-A8&start=90&sa=N&ved=2ahUKEwijv5P-sJn4AhUkjIkEHYQhC_8Q8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%84%D9%88%D8%AB&start=90"
+        }
+    }
+}

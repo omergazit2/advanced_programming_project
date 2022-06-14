@@ -1,0 +1,308 @@
+{
+    "search_metadata": {
+        "id": "627cff7358762b6e1598df60",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3144fa3d06a8a27e/627cff7358762b6e1598df60.json",
+        "created_at": "2022-05-12 12:37:07 UTC",
+        "processed_at": "2022-05-12 12:37:07 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&oq=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&uule=w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=&hl=ar&gl=EG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3144fa3d06a8a27e/627cff7358762b6e1598df60.html",
+        "total_time_taken": 0.62
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "سعرة حرارية",
+        "uule": "w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "EG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "سعرة حرارية",
+        "total_results": 4150000,
+        "time_taken_displayed": 0.45
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=eQFJ1wyGzgPzUM%252CAKRXOTFpDGxrmM%252C_%253Bv5LLT_MYc3f1sM%252CuHsiyDkZXav_AM%252C_%253BDMzWFXcz2xZ3_M%252CuA3uYfKM0WR0hM%252C_%253BJYycYjOF6pFh-M%252CSuiudfydXjtHOM%252C_%253BXjqBEE9r1CFFYM%252CbzJFPaqw3opfNM%252C_%253BWhB1VLCyDmmQnM%252C2CsUVQumgWxHtM%252C_%253BMs3eGmsD5Q9j2M%252C95xFINVSygys4M%252C_%253BegKvnwJ6dnCglM%252CW8VQxI1ytuUxlM%252C_%253BLu_Ma5NLWnEqvM%252CO2fRHlqTphQX_M%252C_%253BkoxdST5Vg8dzVM%252CbzJFPaqw3opfNM%252C_&usg=AI4_-kTZNXN-s7Whl5t74fkdkGiS1UXnFw&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ9QF6BAhCEAE#imgrc=eQFJ1wyGzgPzUM",
+            "source": "https://www.albayan.ae/five-senses/mirrors/2018-05-23-1.3272817",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1ZogbroBkGJ4VIRUQurIv59wmNwIRh5uxKGoUegIkA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=eQFJ1wyGzgPzUM%252CAKRXOTFpDGxrmM%252C_%253Bv5LLT_MYc3f1sM%252CuHsiyDkZXav_AM%252C_%253BDMzWFXcz2xZ3_M%252CuA3uYfKM0WR0hM%252C_%253BJYycYjOF6pFh-M%252CSuiudfydXjtHOM%252C_%253BXjqBEE9r1CFFYM%252CbzJFPaqw3opfNM%252C_%253BWhB1VLCyDmmQnM%252C2CsUVQumgWxHtM%252C_%253BMs3eGmsD5Q9j2M%252C95xFINVSygys4M%252C_%253BegKvnwJ6dnCglM%252CW8VQxI1ytuUxlM%252C_%253BLu_Ma5NLWnEqvM%252CO2fRHlqTphQX_M%252C_%253BkoxdST5Vg8dzVM%252CbzJFPaqw3opfNM%252C_&usg=AI4_-kTZNXN-s7Whl5t74fkdkGiS1UXnFw&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ9QF6BAhNEAE#imgrc=v5LLT_MYc3f1sM",
+            "source": "https://arabic.cnn.com/health/article/2020/09/30/6-snacks-less-100-calories",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeyIOYzdA0GcLAzXpEkZII-vY8EfbxTtsTPTC8XzH&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=eQFJ1wyGzgPzUM%252CAKRXOTFpDGxrmM%252C_%253Bv5LLT_MYc3f1sM%252CuHsiyDkZXav_AM%252C_%253BDMzWFXcz2xZ3_M%252CuA3uYfKM0WR0hM%252C_%253BJYycYjOF6pFh-M%252CSuiudfydXjtHOM%252C_%253BXjqBEE9r1CFFYM%252CbzJFPaqw3opfNM%252C_%253BWhB1VLCyDmmQnM%252C2CsUVQumgWxHtM%252C_%253BMs3eGmsD5Q9j2M%252C95xFINVSygys4M%252C_%253BegKvnwJ6dnCglM%252CW8VQxI1ytuUxlM%252C_%253BLu_Ma5NLWnEqvM%252CO2fRHlqTphQX_M%252C_%253BkoxdST5Vg8dzVM%252CbzJFPaqw3opfNM%252C_&usg=AI4_-kTZNXN-s7Whl5t74fkdkGiS1UXnFw&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ9QF6BAhTEAE#imgrc=DMzWFXcz2xZ3_M",
+            "source": "https://twitter.com/alkamik/status/426084194692132864?lang=fr",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN7YN5iClTKQ04syCr-mt4-kOpqUP-bJiHpOJnkzO2&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=eQFJ1wyGzgPzUM%252CAKRXOTFpDGxrmM%252C_%253Bv5LLT_MYc3f1sM%252CuHsiyDkZXav_AM%252C_%253BDMzWFXcz2xZ3_M%252CuA3uYfKM0WR0hM%252C_%253BJYycYjOF6pFh-M%252CSuiudfydXjtHOM%252C_%253BXjqBEE9r1CFFYM%252CbzJFPaqw3opfNM%252C_%253BWhB1VLCyDmmQnM%252C2CsUVQumgWxHtM%252C_%253BMs3eGmsD5Q9j2M%252C95xFINVSygys4M%252C_%253BegKvnwJ6dnCglM%252CW8VQxI1ytuUxlM%252C_%253BLu_Ma5NLWnEqvM%252CO2fRHlqTphQX_M%252C_%253BkoxdST5Vg8dzVM%252CbzJFPaqw3opfNM%252C_&usg=AI4_-kTZNXN-s7Whl5t74fkdkGiS1UXnFw&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ9QF6BAhHEAE#imgrc=JYycYjOF6pFh-M",
+            "source": "https://www.pinterest.com/pin/722124121478285234/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lkkNk4ptmn9BVn_0B79N7rPXhAeseDKbdPyJaYI0JQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=eQFJ1wyGzgPzUM%252CAKRXOTFpDGxrmM%252C_%253Bv5LLT_MYc3f1sM%252CuHsiyDkZXav_AM%252C_%253BDMzWFXcz2xZ3_M%252CuA3uYfKM0WR0hM%252C_%253BJYycYjOF6pFh-M%252CSuiudfydXjtHOM%252C_%253BXjqBEE9r1CFFYM%252CbzJFPaqw3opfNM%252C_%253BWhB1VLCyDmmQnM%252C2CsUVQumgWxHtM%252C_%253BMs3eGmsD5Q9j2M%252C95xFINVSygys4M%252C_%253BegKvnwJ6dnCglM%252CW8VQxI1ytuUxlM%252C_%253BLu_Ma5NLWnEqvM%252CO2fRHlqTphQX_M%252C_%253BkoxdST5Vg8dzVM%252CbzJFPaqw3opfNM%252C_&usg=AI4_-kTZNXN-s7Whl5t74fkdkGiS1UXnFw&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ9QF6BAhREAE#imgrc=XjqBEE9r1CFFYM",
+            "source": "https://www.youtube.com/watch?v=5DxooXsi030",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHPyRHczIyDmxJBXAmL2Ep7FsAz7yhy5h7BnGhUtQerA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=eQFJ1wyGzgPzUM%252CAKRXOTFpDGxrmM%252C_%253Bv5LLT_MYc3f1sM%252CuHsiyDkZXav_AM%252C_%253BDMzWFXcz2xZ3_M%252CuA3uYfKM0WR0hM%252C_%253BJYycYjOF6pFh-M%252CSuiudfydXjtHOM%252C_%253BXjqBEE9r1CFFYM%252CbzJFPaqw3opfNM%252C_%253BWhB1VLCyDmmQnM%252C2CsUVQumgWxHtM%252C_%253BMs3eGmsD5Q9j2M%252C95xFINVSygys4M%252C_%253BegKvnwJ6dnCglM%252CW8VQxI1ytuUxlM%252C_%253BLu_Ma5NLWnEqvM%252CO2fRHlqTphQX_M%252C_%253BkoxdST5Vg8dzVM%252CbzJFPaqw3opfNM%252C_&usg=AI4_-kTZNXN-s7Whl5t74fkdkGiS1UXnFw&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ9QF6BAhJEAE#imgrc=WhB1VLCyDmmQnM",
+            "source": "https://akhbaar24.argaam.com/article/detail/542419",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqMuIrPi8pqrTXU8HrsEUDMKq7Xfbqk5pWm_PMXHLIIw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=eQFJ1wyGzgPzUM%252CAKRXOTFpDGxrmM%252C_%253Bv5LLT_MYc3f1sM%252CuHsiyDkZXav_AM%252C_%253BDMzWFXcz2xZ3_M%252CuA3uYfKM0WR0hM%252C_%253BJYycYjOF6pFh-M%252CSuiudfydXjtHOM%252C_%253BXjqBEE9r1CFFYM%252CbzJFPaqw3opfNM%252C_%253BWhB1VLCyDmmQnM%252C2CsUVQumgWxHtM%252C_%253BMs3eGmsD5Q9j2M%252C95xFINVSygys4M%252C_%253BegKvnwJ6dnCglM%252CW8VQxI1ytuUxlM%252C_%253BLu_Ma5NLWnEqvM%252CO2fRHlqTphQX_M%252C_%253BkoxdST5Vg8dzVM%252CbzJFPaqw3opfNM%252C_&usg=AI4_-kTZNXN-s7Whl5t74fkdkGiS1UXnFw&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ9QF6BAhKEAE#imgrc=Ms3eGmsD5Q9j2M",
+            "source": "https://www.almrsal.com/post/355669",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs29WShx3KQ6ZO2cLxTASOdos1h8cwNgtgO9R3sLKm&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=eQFJ1wyGzgPzUM%252CAKRXOTFpDGxrmM%252C_%253Bv5LLT_MYc3f1sM%252CuHsiyDkZXav_AM%252C_%253BDMzWFXcz2xZ3_M%252CuA3uYfKM0WR0hM%252C_%253BJYycYjOF6pFh-M%252CSuiudfydXjtHOM%252C_%253BXjqBEE9r1CFFYM%252CbzJFPaqw3opfNM%252C_%253BWhB1VLCyDmmQnM%252C2CsUVQumgWxHtM%252C_%253BMs3eGmsD5Q9j2M%252C95xFINVSygys4M%252C_%253BegKvnwJ6dnCglM%252CW8VQxI1ytuUxlM%252C_%253BLu_Ma5NLWnEqvM%252CO2fRHlqTphQX_M%252C_%253BkoxdST5Vg8dzVM%252CbzJFPaqw3opfNM%252C_&usg=AI4_-kTZNXN-s7Whl5t74fkdkGiS1UXnFw&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ9QF6BAhLEAE#imgrc=egKvnwJ6dnCglM",
+            "source": "https://www.pinterest.com/pin/404479610284120475/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUjHzhoXU1hUS1Wm3LkkAwxLvCvKjHC9Kv5qmfNzxjg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=eQFJ1wyGzgPzUM%252CAKRXOTFpDGxrmM%252C_%253Bv5LLT_MYc3f1sM%252CuHsiyDkZXav_AM%252C_%253BDMzWFXcz2xZ3_M%252CuA3uYfKM0WR0hM%252C_%253BJYycYjOF6pFh-M%252CSuiudfydXjtHOM%252C_%253BXjqBEE9r1CFFYM%252CbzJFPaqw3opfNM%252C_%253BWhB1VLCyDmmQnM%252C2CsUVQumgWxHtM%252C_%253BMs3eGmsD5Q9j2M%252C95xFINVSygys4M%252C_%253BegKvnwJ6dnCglM%252CW8VQxI1ytuUxlM%252C_%253BLu_Ma5NLWnEqvM%252CO2fRHlqTphQX_M%252C_%253BkoxdST5Vg8dzVM%252CbzJFPaqw3opfNM%252C_&usg=AI4_-kTZNXN-s7Whl5t74fkdkGiS1UXnFw&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ9QF6BAhFEAE#imgrc=Lu_Ma5NLWnEqvM",
+            "source": "https://m.facebook.com/gymboo1st/posts/3081576951876295:0",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwN7ZWpJAxpUd1IrvgVxUNfRNgex-QOKxMND22A1RTeQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&tbm=isch&source=iu&ictx=1&vet=1&fir=eQFJ1wyGzgPzUM%252CAKRXOTFpDGxrmM%252C_%253Bv5LLT_MYc3f1sM%252CuHsiyDkZXav_AM%252C_%253BDMzWFXcz2xZ3_M%252CuA3uYfKM0WR0hM%252C_%253BJYycYjOF6pFh-M%252CSuiudfydXjtHOM%252C_%253BXjqBEE9r1CFFYM%252CbzJFPaqw3opfNM%252C_%253BWhB1VLCyDmmQnM%252C2CsUVQumgWxHtM%252C_%253BMs3eGmsD5Q9j2M%252C95xFINVSygys4M%252C_%253BegKvnwJ6dnCglM%252CW8VQxI1ytuUxlM%252C_%253BLu_Ma5NLWnEqvM%252CO2fRHlqTphQX_M%252C_%253BkoxdST5Vg8dzVM%252CbzJFPaqw3opfNM%252C_&usg=AI4_-kTZNXN-s7Whl5t74fkdkGiS1UXnFw&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ9QF6BAhIEAE#imgrc=koxdST5Vg8dzVM",
+            "source": "https://www.youtube.com/watch?v=5DxooXsi030",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOuzfzxeQ9J9va9cSRZbeOZfx2xGG82h_m0VhzN-dR7g&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "السعرات الحرارية في الأطعمة, اعرف عدد السعرات calories في كل ...",
+            "link": "https://www.youtube.com/watch?v=5DxooXsi030",
+            "thumbnail": "https://i.ytimg.com/vi/5DxooXsi030/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kKwGpEYYSADobPSKbS5AQq9JlDfw",
+            "channel": "العالم بالأرقام - World In Data",
+            "duration": "3:06",
+            "platform": "YouTube",
+            "date": "07‏/06‏/2021"
+        },
+        {
+            "position": 2,
+            "title": "ماذا سيحدث إذا أكلت 100000 سعرة حرارية في يوم واحد؟",
+            "link": "https://www.youtube.com/watch?v=0bFL1eF2fQA",
+            "thumbnail": "https://i.ytimg.com/vi/0bFL1eF2fQA/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mpQLpXfQISw865DQ9c08qqMuGa1g",
+            "channel": "الجانب المُشرق | Bright Side Arabic",
+            "duration": "9:36",
+            "platform": "YouTube",
+            "date": "17‏/12‏/2019"
+        },
+        {
+            "position": 3,
+            "title": "ما عدد السعرات الحرارية التي ينبغي عليك استهلاكها لفقدان الوزن؟",
+            "link": "https://www.youtube.com/watch?v=JmoXDkWoSGM",
+            "thumbnail": "https://i.ytimg.com/vi/JmoXDkWoSGM/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lbks1OUMDiO605WMiChgbZ4Jdghg",
+            "channel": "الجانب المُشرق | Bright Side Arabic",
+            "duration": "12:46",
+            "platform": "YouTube",
+            "date": "14‏/10‏/2018"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ماذا تعني سعرة حرارية؟",
+            "snippet": "السعرة الحرارية هي وحدة قياس كمية الطاقة في الطعام، والتي من خلالها يتمكن جسم الإنسان من الحركة والقيام بمختلف الأنشطة في حياته اليومية؛ مثل: التفكير، والمشي. طبعاً يعبر عن السعرات الحرارية أحيانا بـالكيلو كالوري أو الكيلوجول وكلاهما وحدتان لقياس الطاقة.19‏/02‏/2019",
+            "title": "السعرات الحرارية - الهيئة العامة للغذاء والدواء",
+            "link": "https://old.sfda.gov.sa/ar/mediacenter/podcast/Pages/episode11.aspx",
+            "displayed_link": "https://old.sfda.gov.sa › podcast › Pages › episode11"
+        },
+        {
+            "question": "كم تساوي 500 سعرة حرارية؟",
+            "snippet": "يمكن حرق 500 سعر حراري يوميًا بتمارين معينة أو تقليل السعرات بهذا المقدار بخطوات بسيطة وعملية، وهي وسيلة مناسبة لخسارة ما يقارب 0.5 كيلو غرام أسبوعيًا.27‏/02‏/2021",
+            "title": "طرق تساعدك على حرق 500 سعرة حرارية في اليوم - سطور",
+            "link": "https://sotor.com/%D8%B7%D8%B1%D9%82-%D8%AA%D8%B3%D8%A7%D8%B9%D8%AF%D9%83-%D8%B9%D9%84%D9%89-%D8%AD%D8%B1%D9%82-500-%D8%B3%D8%B9%D8%B1%D8%A9-%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85/",
+            "displayed_link": "https://sotor.com › طرق-تساعدك-على-حرق-500-سعرة-حرار..."
+        },
+        {
+            "question": "كم عدد السعرات الحرارية في الطعام؟",
+            "title": "السعرات الحرارية هي وحدة لقياس محتوى الطاقة في الأطعمة والمشروبات، ولفقدان الوزن، نحتاج إلى تناول سعرات حرارية أقل مما تحرقه أجسامنا يوميًا....بالجدول مقدارالسعرات الحرارية فى الطعام",
+            "link": "https://www.supermama.me/posts/%D8%A8%D8%A7%D9%84%D8%AC%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B3%D8%B9%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9-%D9%84%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B7%D8%B9%D9%85%D8%A9",
+            "displayed_link": "https://www.supermama.me › posts › بالجدول-السعرات-ال..."
+        },
+        {
+            "question": "100 كالوري كم سعرة حرارية؟",
+            "snippet": "يتم حرق 39 سعر حراري خلال الدقيقة الواحدة أي أنه بعد مرور 10 دقائق يتم حرق 39 سعر. بـكابيتال لتر أو kcal. فى حالة المرأة يخصم 10 من هذا الرقم.",
+            "title": "100 كالوري كم كيلو",
+            "link": "https://islamkids.net/100-%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A-%D9%83%D9%85-%D9%83%D9%8A%D9%84%D9%88/",
+            "displayed_link": "https://islamkids.net › 100-كالوري-كم-كيلو"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "دليلك لفهم السعرات الحرارية - ويب طب",
+            "link": "https://www.webteb.com/articles/%D8%AF%D9%84%D9%8A%D9%84%D9%83-%D9%84%D9%81%D9%87%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9_15019",
+            "displayed_link": "https://www.webteb.com › articles › دليلك-لفهم-السعر...",
+            "snippet": "تعرف السعرات الحرارية على أنها مقياس الطاقة الذي يمدنا بها الغذاء، والسعرة الحرارية الواحدة (calories) هي كمية الحرارة اللازمة لرفع درجة ...",
+            "snippet_highlighted_words": [
+                "والسعرة الحرارية"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٧‏/١٠‏/٢٠١٤ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "سعرة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D8%B1%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › سعرة",
+            "snippet": "السعرة الحرارية أو الكالوري أو الحريرة، جمعها حريرات أو سعر، جمعه سعرات هي وحدة لقياس الطاقة الحرارية تُعرّف بأنها كمية الحرارة اللازمة لرفع درجة حرارة جرام ...",
+            "snippet_highlighted_words": [
+                "السعرة الحرارية"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "حاسبة السعرات الحرارية (BMR) | الكونسلتو",
+            "link": "https://www.elconsolto.com/calculator/bmr",
+            "displayed_link": "https://www.elconsolto.com › calculator › bmr",
+            "snippet": "حاسبة السعرات الحرارية (BMR) هي عملية حسابية تقوم على حساب عدد السعرات الحرارية المستهلكة يوميا للشخص (ذكر /أنثى) بناء على عدة عوامل مثل الطول, الوزن, ...",
+            "snippet_highlighted_words": [
+                "الحرارية",
+                "الحرارية"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "الأدوات الصحية - حساب السعرات الحرارية - وزارة الصحة",
+            "link": "https://www.moh.gov.sa/HealthAwareness/MedicalTools/Pages/CalorieCalculate.aspx",
+            "displayed_link": "https://www.moh.gov.sa › Pages › CalorieCalculate",
+            "snippet": "هي عملية حسابية تقوم على حساب عدد السعرات الحرارية المستهلكة يومياً للشخص (ذكر /أنثى) بناءً على عدة عوامل مثل الوزن، والطول، والعمر، ونوع ...",
+            "snippet_highlighted_words": [
+                "الحرارية"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٨‏/٠٦‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "حساب السعرات الحرارية: ارجع إلى أساسيات إنقاص الوزن - Mayo ...",
+            "link": "https://www.mayoclinic.org/ar/healthy-lifestyle/weight-loss/in-depth/calories/art-20048065",
+            "displayed_link": "https://www.mayoclinic.org › calories › art-20048065",
+            "snippet": "إن السعرات الحرارية هي الطاقة الكامنة في الغذاء. فيحتاج جسمك باستمرار إلى الطاقة ويستخدم السعرات الحرارية من الطعام للحفاظ على أداء وظيفته. وتعمل الطاقة ...",
+            "snippet_highlighted_words": [
+                "الحرارية",
+                "الحرارية"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "السعرات الحرارية - الهيئة العامة للغذاء والدواء",
+            "link": "https://old.sfda.gov.sa/ar/mediacenter/podcast/Pages/episode11.aspx",
+            "displayed_link": "https://old.sfda.gov.sa › podcast › Pages › episode11",
+            "snippet": "السعرة الحرارية هي وحدة قياس كمية الطاقة في الطعام، والتي من خلالها يتمكن جسم الإنسان من الحركة والقيام بمختلف الأنشطة في حياته اليومية؛ ...",
+            "snippet_highlighted_words": [
+                "السعرة الحرارية"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٩‏/٠٢‏/٢٠١٩ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "ما هي السعرات الحرارية - موضوع",
+            "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9",
+            "displayed_link": "https://mawdoo3.com › منوعات في الوزن والرشاقة",
+            "snippet": "تُعبّر السعرات الحرارية (بالإنجليزية: Calories) عن وحدة الطاقة الغذائية، وهي تُشير إلى الطاقة التي يحصل عليها الأشخاص من الطعام والشراب المُتناول، ...",
+            "snippet_highlighted_words": [
+                "الحرارية",
+                "Calories"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "كم السعرات الحرارية التي يحتاجها الجسم في اليوم - موضوع",
+            "link": "https://mawdoo3.com/%D9%83%D9%85_%D8%A7%D9%84%D8%B3%D8%B9%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D9%8A_%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC%D9%87%D8%A7_%D8%A7%D9%84%D8%AC%D8%B3%D9%85_%D9%81%D9%8A_%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+            "displayed_link": "https://mawdoo3.com › معلومات غذائية",
+            "snippet": "يختلف حساب السعرات الحراريّة التي يحتاجها الشخص يومياً اعتماداً على العديد من العوامل؛ كالعمر، والجنس، والطول، والوزن، ومستوى النشاط البدني، وأيضاً حسب حاجة ..."
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "السعرات الحرارية في الأطعمة",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A7%D9%84%D8%B3%D8%B9%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D8%A3%D8%B7%D8%B9%D9%85%D8%A9&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "1000 سعرة حرارية تساوي كم كيلو",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=1000+%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9+%D8%AA%D8%B3%D8%A7%D9%88%D9%8A+%D9%83%D9%85+%D9%83%D9%8A%D9%84%D9%88&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "1000 كالوري كم سعرة حرارية",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=1000+%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A+%D9%83%D9%85+%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "كم سعرة حرارية يحتاج الجسم في اليوم لإنقاص الوزن",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%83%D9%85+%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9+%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC+%D8%A7%D9%84%D8%AC%D8%B3%D9%85+%D9%81%D9%8A+%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B5+%D8%A7%D9%84%D9%88%D8%B2%D9%86&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "كم سعرة حرارية في الكيلو كالوري",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%83%D9%85+%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D9%83%D9%8A%D9%84%D9%88+%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "الكيلو كم سعرة حرارية",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%A7%D9%84%D9%83%D9%8A%D9%84%D9%88+%D9%83%D9%85+%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "حساب السعرات الحرارية للطعام",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D8%AD%D8%B3%D8%A7%D8%A8+%D8%A7%D9%84%D8%B3%D8%B9%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9+%D9%84%D9%84%D8%B7%D8%B9%D8%A7%D9%85&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "كم احتاج من سعرة حرارية لفقد 1 كيلو اسبوعيا",
+            "link": "https://www.google.com/search?hl=ar&gl=EG&q=%D9%83%D9%85+%D8%A7%D8%AD%D8%AA%D8%A7%D8%AC+%D9%85%D9%86+%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9+%D9%84%D9%81%D9%82%D8%AF+1+%D9%83%D9%8A%D9%84%D9%88+%D8%A7%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A7&sa=X&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ1QJ6BAgpEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&ei=c_98Yq2dIuOpggfsz7CYDA&start=10&sa=N&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&ei=c_98Yq2dIuOpggfsz7CYDA&start=10&sa=N&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&ei=c_98Yq2dIuOpggfsz7CYDA&start=20&sa=N&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&ei=c_98Yq2dIuOpggfsz7CYDA&start=30&sa=N&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&ei=c_98Yq2dIuOpggfsz7CYDA&start=40&sa=N&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&ei=c_98Yq2dIuOpggfsz7CYDA&start=50&sa=N&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&ei=c_98Yq2dIuOpggfsz7CYDA&start=60&sa=N&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&ei=c_98Yq2dIuOpggfsz7CYDA&start=70&sa=N&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&ei=c_98Yq2dIuOpggfsz7CYDA&start=80&sa=N&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&hl=ar&gl=EG&ei=c_98Yq2dIuOpggfsz7CYDA&start=90&sa=N&ved=2ahUKEwjtooSH_dn3AhXjlOAKHewnDMMQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=20&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=30&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=40&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=50&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=60&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=70&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=80&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B3%D8%B9%D8%B1%D8%A9+%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9&start=90&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D"
+        }
+    }
+}

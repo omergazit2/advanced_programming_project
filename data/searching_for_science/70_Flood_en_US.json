@@ -1,0 +1,597 @@
+{
+    "search_metadata": {
+        "id": "627cfedfce87f8ea4a81c838",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9fe24f0febd5317d/627cfedfce87f8ea4a81c838.json",
+        "created_at": "2022-05-12 12:34:39 UTC",
+        "processed_at": "2022-05-12 12:34:39 UTC",
+        "google_url": "https://www.google.com/search?q=Flood&oq=Flood&uule=w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz&hl=en&gl=US&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/9fe24f0febd5317d/627cfedfce87f8ea4a81c838.html",
+        "total_time_taken": 0.84
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Flood",
+        "uule": "w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "US",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Flood",
+        "total_results": 6080000000,
+        "time_taken_displayed": 0.67
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=Flood&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=NvJM43VPIXgvJM%252CTPOf6UEIloAFkM%252C_%253BtgM9SlSv6mg0jM%252CgQ8b18OofQcldM%252C_%253BgVA3vAYodgLHxM%252Cv51-TbX-wlm3dM%252C_%253BtIL4UT429I6HaM%252CQ7SHztQlhhmXRM%252C_%253BJvJHHCnO7KiliM%252CXv97KncHvmPtsM%252C_%253Btab-Kb2GWxCsGM%252C8lwfetnfIWMUmM%252C_%253BBHf2ciBs76Y8zM%252C2I8tiWP5Nr2hQM%252C_%253B1Shiy84B4veaFM%252C20PPtIvNxQlbMM%252C_%253BnQEIalf9zK4POM%252CGkaCzpBrGrUTVM%252C_%253BWkzsjq31y2vRXM%252CngvILfH9lWEzuM%252C_&usg=AI4_-kR9MevVSOY3i6XBJy4JL2LfAxh6ag&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q9QF6BAg2EAE#imgrc=NvJM43VPIXgvJM",
+            "source": "https://www.ready.gov/floods",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAweDu4sFQykdSIdkrjBChq0BncgQDaSQo9yldmTizew&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Flood&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=NvJM43VPIXgvJM%252CTPOf6UEIloAFkM%252C_%253BtgM9SlSv6mg0jM%252CgQ8b18OofQcldM%252C_%253BgVA3vAYodgLHxM%252Cv51-TbX-wlm3dM%252C_%253BtIL4UT429I6HaM%252CQ7SHztQlhhmXRM%252C_%253BJvJHHCnO7KiliM%252CXv97KncHvmPtsM%252C_%253Btab-Kb2GWxCsGM%252C8lwfetnfIWMUmM%252C_%253BBHf2ciBs76Y8zM%252C2I8tiWP5Nr2hQM%252C_%253B1Shiy84B4veaFM%252C20PPtIvNxQlbMM%252C_%253BnQEIalf9zK4POM%252CGkaCzpBrGrUTVM%252C_%253BWkzsjq31y2vRXM%252CngvILfH9lWEzuM%252C_&usg=AI4_-kR9MevVSOY3i6XBJy4JL2LfAxh6ag&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q9QF6BAhIEAE#imgrc=tgM9SlSv6mg0jM",
+            "source": "https://www.usatoday.com/story/money/2017/08/29/hurricane-harvey-houston-flood-insurance-damages-claims/611910001/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWu5PXonECu9Gi4-LsYXF5y_LKZ1jS9ioaPRBXlvP9g&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Flood&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=NvJM43VPIXgvJM%252CTPOf6UEIloAFkM%252C_%253BtgM9SlSv6mg0jM%252CgQ8b18OofQcldM%252C_%253BgVA3vAYodgLHxM%252Cv51-TbX-wlm3dM%252C_%253BtIL4UT429I6HaM%252CQ7SHztQlhhmXRM%252C_%253BJvJHHCnO7KiliM%252CXv97KncHvmPtsM%252C_%253Btab-Kb2GWxCsGM%252C8lwfetnfIWMUmM%252C_%253BBHf2ciBs76Y8zM%252C2I8tiWP5Nr2hQM%252C_%253B1Shiy84B4veaFM%252C20PPtIvNxQlbMM%252C_%253BnQEIalf9zK4POM%252CGkaCzpBrGrUTVM%252C_%253BWkzsjq31y2vRXM%252CngvILfH9lWEzuM%252C_&usg=AI4_-kR9MevVSOY3i6XBJy4JL2LfAxh6ag&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q9QF6BAhQEAE#imgrc=gVA3vAYodgLHxM",
+            "source": "https://theconversation.com/people-couldve-prepared-for-the-floods-better-if-the-impacts-of-weather-forecasts-were-clearly-communicated-178309",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwp8qdiq8cNF8ATL9bejw9IenaCoJiiDwdG9qIlv5kBA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Flood&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=NvJM43VPIXgvJM%252CTPOf6UEIloAFkM%252C_%253BtgM9SlSv6mg0jM%252CgQ8b18OofQcldM%252C_%253BgVA3vAYodgLHxM%252Cv51-TbX-wlm3dM%252C_%253BtIL4UT429I6HaM%252CQ7SHztQlhhmXRM%252C_%253BJvJHHCnO7KiliM%252CXv97KncHvmPtsM%252C_%253Btab-Kb2GWxCsGM%252C8lwfetnfIWMUmM%252C_%253BBHf2ciBs76Y8zM%252C2I8tiWP5Nr2hQM%252C_%253B1Shiy84B4veaFM%252C20PPtIvNxQlbMM%252C_%253BnQEIalf9zK4POM%252CGkaCzpBrGrUTVM%252C_%253BWkzsjq31y2vRXM%252CngvILfH9lWEzuM%252C_&usg=AI4_-kR9MevVSOY3i6XBJy4JL2LfAxh6ag&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q9QF6BAhKEAE#imgrc=tIL4UT429I6HaM",
+            "source": "https://www.usace.army.mil/Media/News/NewsSearch/Article/2491106/containing-the-flood-of-1996/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsIbkvjWhCaEUPu0daPzmkpwJt9wwWuoHUvE8sMfXjuQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Flood&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=NvJM43VPIXgvJM%252CTPOf6UEIloAFkM%252C_%253BtgM9SlSv6mg0jM%252CgQ8b18OofQcldM%252C_%253BgVA3vAYodgLHxM%252Cv51-TbX-wlm3dM%252C_%253BtIL4UT429I6HaM%252CQ7SHztQlhhmXRM%252C_%253BJvJHHCnO7KiliM%252CXv97KncHvmPtsM%252C_%253Btab-Kb2GWxCsGM%252C8lwfetnfIWMUmM%252C_%253BBHf2ciBs76Y8zM%252C2I8tiWP5Nr2hQM%252C_%253B1Shiy84B4veaFM%252C20PPtIvNxQlbMM%252C_%253BnQEIalf9zK4POM%252CGkaCzpBrGrUTVM%252C_%253BWkzsjq31y2vRXM%252CngvILfH9lWEzuM%252C_&usg=AI4_-kR9MevVSOY3i6XBJy4JL2LfAxh6ag&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q9QF6BAhOEAE#imgrc=JvJHHCnO7KiliM",
+            "source": "https://safetymanagement.eku.edu/blog/flood-basics-and-safety/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-ZcvB48tpu_84qWbdMItRK99Xq4eJv9-IQL1U9deWA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Flood&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=NvJM43VPIXgvJM%252CTPOf6UEIloAFkM%252C_%253BtgM9SlSv6mg0jM%252CgQ8b18OofQcldM%252C_%253BgVA3vAYodgLHxM%252Cv51-TbX-wlm3dM%252C_%253BtIL4UT429I6HaM%252CQ7SHztQlhhmXRM%252C_%253BJvJHHCnO7KiliM%252CXv97KncHvmPtsM%252C_%253Btab-Kb2GWxCsGM%252C8lwfetnfIWMUmM%252C_%253BBHf2ciBs76Y8zM%252C2I8tiWP5Nr2hQM%252C_%253B1Shiy84B4veaFM%252C20PPtIvNxQlbMM%252C_%253BnQEIalf9zK4POM%252CGkaCzpBrGrUTVM%252C_%253BWkzsjq31y2vRXM%252CngvILfH9lWEzuM%252C_&usg=AI4_-kR9MevVSOY3i6XBJy4JL2LfAxh6ag&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q9QF6BAhPEAE#imgrc=tab-Kb2GWxCsGM",
+            "source": "https://www.science.org/content/article/europe-s-deadly-floods-leave-scientists-stunned",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUSLBggBosEBF-iCS9nCTyTs28X6nhTub6Snfuik8kg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Flood&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=NvJM43VPIXgvJM%252CTPOf6UEIloAFkM%252C_%253BtgM9SlSv6mg0jM%252CgQ8b18OofQcldM%252C_%253BgVA3vAYodgLHxM%252Cv51-TbX-wlm3dM%252C_%253BtIL4UT429I6HaM%252CQ7SHztQlhhmXRM%252C_%253BJvJHHCnO7KiliM%252CXv97KncHvmPtsM%252C_%253Btab-Kb2GWxCsGM%252C8lwfetnfIWMUmM%252C_%253BBHf2ciBs76Y8zM%252C2I8tiWP5Nr2hQM%252C_%253B1Shiy84B4veaFM%252C20PPtIvNxQlbMM%252C_%253BnQEIalf9zK4POM%252CGkaCzpBrGrUTVM%252C_%253BWkzsjq31y2vRXM%252CngvILfH9lWEzuM%252C_&usg=AI4_-kR9MevVSOY3i6XBJy4JL2LfAxh6ag&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q9QF6BAhLEAE#imgrc=BHf2ciBs76Y8zM",
+            "source": "https://www.npr.org/2021/10/14/1046106672/floods-threaten-to-shut-down-a-quarter-of-u-s-roads-and-critical-buildings",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2FjlbuBsTqbm06IfWD0q4GfyfMZ1-JAi9Qe1plDdx&s=0"
+        },
+        {
+            "link": "https://www.google.com/search?q=Flood&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=NvJM43VPIXgvJM%252CTPOf6UEIloAFkM%252C_%253BtgM9SlSv6mg0jM%252CgQ8b18OofQcldM%252C_%253BgVA3vAYodgLHxM%252Cv51-TbX-wlm3dM%252C_%253BtIL4UT429I6HaM%252CQ7SHztQlhhmXRM%252C_%253BJvJHHCnO7KiliM%252CXv97KncHvmPtsM%252C_%253Btab-Kb2GWxCsGM%252C8lwfetnfIWMUmM%252C_%253BBHf2ciBs76Y8zM%252C2I8tiWP5Nr2hQM%252C_%253B1Shiy84B4veaFM%252C20PPtIvNxQlbMM%252C_%253BnQEIalf9zK4POM%252CGkaCzpBrGrUTVM%252C_%253BWkzsjq31y2vRXM%252CngvILfH9lWEzuM%252C_&usg=AI4_-kR9MevVSOY3i6XBJy4JL2LfAxh6ag&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q9QF6BAhYEAE#imgrc=1Shiy84B4veaFM",
+            "source": "https://www.voanews.com/a/europe_german-floods-kill-least-133-search-survivors-continues/6208368.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqpnK4-iO9jSRQoMMYsBWFBHX2bqXvyFqvtYSxEsovA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Flood&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=NvJM43VPIXgvJM%252CTPOf6UEIloAFkM%252C_%253BtgM9SlSv6mg0jM%252CgQ8b18OofQcldM%252C_%253BgVA3vAYodgLHxM%252Cv51-TbX-wlm3dM%252C_%253BtIL4UT429I6HaM%252CQ7SHztQlhhmXRM%252C_%253BJvJHHCnO7KiliM%252CXv97KncHvmPtsM%252C_%253Btab-Kb2GWxCsGM%252C8lwfetnfIWMUmM%252C_%253BBHf2ciBs76Y8zM%252C2I8tiWP5Nr2hQM%252C_%253B1Shiy84B4veaFM%252C20PPtIvNxQlbMM%252C_%253BnQEIalf9zK4POM%252CGkaCzpBrGrUTVM%252C_%253BWkzsjq31y2vRXM%252CngvILfH9lWEzuM%252C_&usg=AI4_-kR9MevVSOY3i6XBJy4JL2LfAxh6ag&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q9QF6BAhJEAE#imgrc=nQEIalf9zK4POM",
+            "source": "https://www.nbcnews.com/science/environment/flood-insurance-costs-rise-areas-deemed-lower-risk-rcna8042",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFIllUMdCCd04ICNXY-ojVdPyCiKqvCqbAEolIz-URA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Flood&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=NvJM43VPIXgvJM%252CTPOf6UEIloAFkM%252C_%253BtgM9SlSv6mg0jM%252CgQ8b18OofQcldM%252C_%253BgVA3vAYodgLHxM%252Cv51-TbX-wlm3dM%252C_%253BtIL4UT429I6HaM%252CQ7SHztQlhhmXRM%252C_%253BJvJHHCnO7KiliM%252CXv97KncHvmPtsM%252C_%253Btab-Kb2GWxCsGM%252C8lwfetnfIWMUmM%252C_%253BBHf2ciBs76Y8zM%252C2I8tiWP5Nr2hQM%252C_%253B1Shiy84B4veaFM%252C20PPtIvNxQlbMM%252C_%253BnQEIalf9zK4POM%252CGkaCzpBrGrUTVM%252C_%253BWkzsjq31y2vRXM%252CngvILfH9lWEzuM%252C_&usg=AI4_-kR9MevVSOY3i6XBJy4JL2LfAxh6ag&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q9QF6BAhSEAE#imgrc=Wkzsjq31y2vRXM",
+            "source": "https://cosmosmagazine.com/earth/climate/rebuilding-flood-resilience/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYjN6ICq2J01gtdCvpH1Rv5Ecthnh-AtppvJCm80nBw&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Queensland battling second flood emergency in three months ...",
+            "link": "https://www.youtube.com/watch?v=CvnpPT80E1g",
+            "thumbnail": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/0a2e595bd1790a722accfddcf11d1c4bd48a3fc06ff49b613cd0691282689ba2.jpeg",
+            "channel": "7NEWS Australia",
+            "duration": "11:02",
+            "platform": "YouTube",
+            "date": "3 hours ago"
+        },
+        {
+            "position": 2,
+            "title": "Watch as Bridge Disintegrates in Flood - Videos from The ...",
+            "link": "https://weather.com/news/weather/video/pakistan-bridge-collapses-from-glacial-lake-outburst-during-heat-wave",
+            "thumbnail": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/0a2e595bd1790a72274546ccb5d6d80cf80dfe5a68124a0d7d46d9c64da13265.jpeg",
+            "platform": "The Weather Channel",
+            "date": "2 days ago"
+        },
+        {
+            "position": 3,
+            "title": "Flood warning continues in Big Rapids | wzzm13.com",
+            "link": "https://www.wzzm13.com/video/weather/severe-weather/flood-warning-continues-in-big-rapids/69-4925c996-8137-460a-afc1-829e78dd6100",
+            "thumbnail": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/0a2e595bd1790a72ac9e4fa280df2b2dc462ee07609957fb2dee5094e584f01c.jpeg",
+            "platform": "WZZM 13",
+            "date": "2 hours ago"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "Floods in India",
+            "items": [
+                {
+                    "name": "2021 South India floods",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKXJ-ji0rBdZgeBov9tBneEyFS1XAIuEj13hcQ&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=2021+South+India+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxILrA0NzcrM-JPy8nPTylWyMwDopTMxChWN5DAKUZUdTB-UUq6RVZ2QTGMn2sZb5FtlJMBly9OMqpISjeE8dPMLIwM8ows4fzcZDOz7CwTOD-vID7DwCj9FyO_G9whniCHNLAwLmIVNzIwMlQIzi8tyYCIKkCce4tNksH0YyvT6wZpj5bgC1yhFX397X8f7__0ttMRAClfOL7kAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAB6BAg6EAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=2021+South+India+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxILrA0NzcrM-JPy8nPTylWyMwDopTMxChWN5DAKUZUdTB-UUq6RVZ2QTGMn2sZb5FtlJMBly9OMqpISjeE8dPMLIwM8ows4fzcZDOz7CwTOD-vID7DwCj9FyO_G9whniCHNLAwLmIVNzIwMlQIzi8tyYCIKkCce4tNksH0YyvT6wZpj5bgC1yhFX397X8f7__0ttMRAClfOL7kAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Uttarakhand floods",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0qUlxOLjaO5HfDhjpACZ4G3LaJSATTBbA9X1&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=Uttarakhand+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxKSbfIyi4oNuJPy8nPTylWyMwDopTMxChWN5DAKUaIuoLkAktzc7MyGB-mD8bPtYy3yDbKyYDLFycZVSSlG8L4aWYWRgZ5RpZwfm6ymVl2lgmcn1cQn2FglP6Lkd8N7hBPkEMaWBgXsQqFlpQkFiVmZyTmpShAXHqLTZLB9GMr0-sGaY-W4AtcoRV9_e1_H-__9LbTEQAoOprq3wAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAF6BAg6EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Uttarakhand+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxKSbfIyi4oNuJPy8nPTylWyMwDopTMxChWN5DAKUaIuoLkAktzc7MyGB-mD8bPtYy3yDbKyYDLFycZVSSlG8L4aWYWRgZ5RpZwfm6ymVl2lgmcn1cQn2FglP6Lkd8N7hBPkEMaWBgXsQqFlpQkFiVmZyTmpShAXHqLTZLB9GMr0-sGaY-W4AtcoRV9_e1_H-__9LbTEQAoOprq3wAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "2021 Uttarakhand flood",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAp0NkU1qERNa6vNq60LEjlkscDomS91qSzn2&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=2021+Uttarakhand+flood&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMy1jLfINsrJMOJPy8nPTylWyMwDopTMxChWN5DAKUaIuoLkAktzc7MyGL8oJd0iK7ugGMaHmQOXL04yqkhKN4Tx08wsjAzyjCzh_NxkM7PsLBM4P68gPsPAKP0XI78b3CGeIIc0sDAuYhUzMjAyVAgtKUksSszOSMxLUQA79xabJIPpx1am1w3SHi3BF7hCK_r62_8-3v_pbacjAMIa9LXjAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAJ6BAg6EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=2021+Uttarakhand+flood&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMy1jLfINsrJMOJPy8nPTylWyMwDopTMxChWN5DAKUaIuoLkAktzc7MyGL8oJd0iK7ugGMaHmQOXL04yqkhKN4Tx08wsjAzyjCzh_NxkM7PsLBM4P68gPsPAKP0XI78b3CGeIIc0sDAuYhUzMjAyVAgtKUksSszOSMxLUQA79xabJIPpx1am1w3SHi3BF7hCK_r62_8-3v_pbacjAMIa9LXjAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Mumbai floods",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEp0QU0k6EJfCBNDo9HWZ58QTCYnTNL8AgRlCk&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=Mumbai+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCwqTjKqSEo3NOJPy8nPTylWyMwDopTMxChWN5DAKUaIuoLkAktzc7MyGL8oJd0iK7ugGMbPtYy3yDbKyYDLQ82F8dPMLIwM8ows4fzcZDOz7CwTOD-vID7DwCj9FyO_G9whniCHNLAwLmLl9S3NTUrMVIA48habJIPpx1am1w3SHi3BF7hCK_r62_8-3v_pbacjABOpw0DaAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAN6BAg6EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Mumbai+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCwqTjKqSEo3NOJPy8nPTylWyMwDopTMxChWN5DAKUaIuoLkAktzc7MyGL8oJd0iK7ugGMbPtYy3yDbKyYDLQ82F8dPMLIwM8ows4fzcZDOz7CwTOD-vID7DwCj9FyO_G9whniCHNLAwLmLl9S3NTUrMVIA48habJIPpx1am1w3SHi3BF7hCK_r62_8-3v_pbacjABOpw0DaAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Kerala floods",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUpUG-26LL_OpoL-9ThtjLSI819OQ0rUHwj-Yw&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=Kerala+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwzszAyyDOyNOJPy8nPTylWyMwDopTMxChWN5DAKUaIuoLkAktzc7MyGL8oJd0iK7ugGMbPtYy3yDbKyYDLFycZVSSlG8L4MHvg_NxkM7PsLBM4P68gPsPAKP0XI78b3CGeIIc0sDAuYuX1Ti1KzElUgDjyFpskg-nHVqbXDdIeLcEXuEIr-vrb_z7e_-ltpyMA-w5eKtoAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAR6BAg6EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Kerala+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwzszAyyDOyNOJPy8nPTylWyMwDopTMxChWN5DAKUaIuoLkAktzc7MyGL8oJd0iK7ugGMbPtYy3yDbKyYDLFycZVSSlG8L4MHvg_NxkM7PsLBM4P68gPsPAKP0XI78b3CGeIIc0sDAuYuX1Ti1KzElUgDjyFpskg-nHVqbXDdIeLcEXuEIr-vrb_z7e_-ltpyMA-w5eKtoAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Nepal floods",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsztbPIhNV3kUQqkkm4VKYLC0XxQ7NLhUV8jd&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=Nepal+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzLTTYzy84yMeJPy8nPTylWyMwDopTMxChWN5DAKUaIuoLkAktzc7MyGL8oJd0iK7ugGMbPtYy3yDbKyYDLFycZVSSlG8L4aWYWRgZ5RpZwPtReOD-vID7DwCj9FyO_G9whniCHNLAwLmLl8UstSMxRgLjxFpskg-nHVqbXDdIeLcEXuEIr-vrb_z7e_-ltpyMAA003Y9kAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAV6BAg6EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Nepal+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzLTTYzy84yMeJPy8nPTylWyMwDopTMxChWN5DAKUaIuoLkAktzc7MyGL8oJd0iK7ugGMbPtYy3yDbKyYDLFycZVSSlG8L4aWYWRgZ5RpZwPtReOD-vID7DwCj9FyO_G9whniCHNLAwLmLl8UstSMxRgLjxFpskg-nHVqbXDdIeLcEXuEIr-vrb_z7e_-ltpyMAA003Y9kAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?gl=US&hl=en&q=Floods+in+India&stick=H4sIAAAAAAAAAOOQMeJPy8nPTylWyMwDopTMxChWN5DAKUZe_XR9Q8OC5AJLc3OzMhi_KCXdIiu7oBjGz7WMt8g2ysmAyxcnGVUkpRvC-GlmFkYGeUaWcH5usplZdpYJnJ9XEJ9hYJT-i5HfDe4QT5BDGlgYF7GiC95ik2Qw_djK9LpB2qMl-AJXaEVff_vfx_s_ve10BABA9oPPzQAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q4qYDegQIOhAI",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Floods+in+India&stick=H4sIAAAAAAAAAOOQMeJPy8nPTylWyMwDopTMxChWN5DAKUZe_XR9Q8OC5AJLc3OzMhi_KCXdIiu7oBjGz7WMt8g2ysmAyxcnGVUkpRvC-GlmFkYGeUaWcH5usplZdpYJnJ9XEJ9hYJT-i5HfDe4QT5BDGlgYF7GiC95ik2Qw_djK9LpB2qMl-AJXaEVff_vfx_s_ve10BABA9oPPzQAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        },
+        {
+            "title": "Floods in Australia",
+            "items": [
+                {
+                    "name": "Floods in Australia",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlOH5A_xHJKNPNYOWjnVnb052vb0YqJkJuHJT&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=Floods+in+Australia&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCoqqag0NhJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYkRSeIqRVz9d39CwIKmoqDC5whDGLyqsSC9LsqhC8MsMTTIMsmD8LMN4w4qUJKBhnCDDzKosi6p-MQq7wW11hNnawMK4iBWbxC02SQbTj61Mpd_WtS09zHJMVOLTSd5ddwtk_p3dCwBCGtShzgAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAB6BAg8EAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Floods+in+Australia&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCoqqag0NhJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYkRSeIqRVz9d39CwIKmoqDC5whDGLyqsSC9LsqhC8MsMTTIMsmD8LMN4w4qUJKBhnCDDzKosi6p-MQq7wW11hNnawMK4iBWbxC02SQbTj61Mpd_WtS09zHJMVOLTSd5ddwtk_p3dCwBCGtShzgAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "2021 Eastern Australia fl...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFPRAt9SvvZQgjcidGygfLSgaAVjH03YEop7Wr&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=2021+Eastern+Australia+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxIKioqTK4wNBJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYuTSz9U3MCoqqag0PsWIqhHGLyqsSC9LsqhC8MsMTTIMsmD8LMN4w4qUJKBhnCDDzKosi6p-MQq7wW11hNnawMK4iFXWyMDIUME1sbgktQhJTgHiyltskgymH1uZSr-ta1t6mOWYqMSnk7y77hbI_Du7FwC_Qp0Q2wAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAF6BAg8EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=2021+Eastern+Australia+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxIKioqTK4wNBJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYuTSz9U3MCoqqag0PsWIqhHGLyqsSC9LsqhC8MsMTTIMsmD8LMN4w4qUJKBhnCDDzKosi6p-MQq7wW11hNnawMK4iFXWyMDIUME1sbgktQhJTgHiyltskgymH1uZSr-ta1t6mOWYqMSnk7y77hbI_Du7FwC_Qp0Q2wAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Northern New South Wales floo...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgfdzYUrwqBehEGsJfJM3jokbRhAjA1hc_asw&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=Northern+New+South+Wales+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCwqrEgvS7KoMhJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYuTSz9U3MCoqqag0PsUI0ViQVFRUmFxhCOPDDELwywxNMgyyYPwsw3jDipQkoGGcIMPMqiyLqn4xCrvBbXWE2drAwriIVd4vv6gkI7UoT8EvtVwhOL-0JEMhPDEntVgB4s5bbJIMph9bmUq_rWtbepjlmKjEp5O8u-4WyPw7uxcAP9o7pN0AAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAJ6BAg8EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Northern+New+South+Wales+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCwqrEgvS7KoMhJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYuTSz9U3MCoqqag0PsUI0ViQVFRUmFxhCOPDDELwywxNMgyyYPwsw3jDipQkoGGcIMPMqiyLqn4xCrvBbXWE2drAwriIVd4vv6gkI7UoT8EvtVwhOL-0JEMhPDEntVgB4s5bbJIMph9bmUq_rWtbepjlmKjEp5O8u-4WyPw7uxcAP9o7pN0AAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Southeast Queensland floods",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWFgzTD2MHKRedVCDf8DRo_VjnR8RHeW0mxtl8&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=Southeast+Queensland+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCwqLDM0yTDIMhJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYuTSz9U3MCoqqag0PsUI0ViQVFRUmFxhCOMXFVaklyVZVCH4EINh_CzDeMOKlCSgYZwgw8yqLIuqfjEKu8FtdYTZ2sDCuIhVOji_tCQjNbG4RCGwNDU1rzgnMS9FAeLGW2ySDKYfW5lKv61rW3qY5ZioxKeTvLvuFsj8O7sXAOqPW4PZAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAN6BAg8EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Southeast+Queensland+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCwqLDM0yTDIMhJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYuTSz9U3MCoqqag0PsUI0ViQVFRUmFxhCOMXFVaklyVZVCH4EINh_CzDeMOKlCSgYZwgw8yqLIuqfjEKu8FtdYTZ2sDCuIhVOji_tCQjNbG4RCGwNDU1rzgnMS9FAeLGW2ySDKYfW5lKv61rW3qY5ZioxKeTvLvuFsj8O7sXAOqPW4PZAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "Queensland floods",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa7fzNkMNw3xZK2HtITU3V4c1RBkiOrVI4BH3W&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=Queensland+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwyjDesSElKMRJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYuTSz9U3MCoqqag0PsUI0ViQVFRUmFxhCOMXFVaklyVZVCH4ZYYmGQZZMD7MolOMnCDDzKosi6p-MQq7wW11hNnawMK4iFUwsDQ1Na84JzEvRQHisltskgymH1uZSr-ta1t6mOWYqMSnk7y77hbI_Du7FwB-66tfzwAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAR6BAg8EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Queensland+floods&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwyjDesSElKMRJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYuTSz9U3MCoqqag0PsUI0ViQVFRUmFxhCOMXFVaklyVZVCH4ZYYmGQZZMD7MolOMnCDDzKosi6p-MQq7wW11hNnawMK4iFUwsDQ1Na84JzEvRQHisltskgymH1uZSr-ta1t6mOWYqMSnk7y77hbI_Du7FwB-66tfzwAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                },
+                {
+                    "name": "1955 Hunter Valley floods",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8I3ZYZZKMpyOVC0NMXvBahxSOUJaxyZYB-XPx&s=0",
+                    "link": "https://www.google.com/search?gl=US&hl=en&q=1955+Hunter+Valley+floods&stick=H4sIAAAAAAAAAOOQUeLUz9U3MKuyLKoyEk7Lyc9PKVbIzFNILC0uKUrMyUyMYnUDCZ5i5AKpMyoqqag0PsXIq5-ub2hYkFRUVJhcYQjjFxVWpJclWVQh-GWGJhkGWTB-lmG8YUVKEtAwhKW_GIXd4LY6wmxtYGFcxCppaGlqquBRmleSWqQQlpiTk1qpAHHhLTZJBtOPrUyl39a1LT3MckxU4tNJ3l13C2T-nd0LAG6LhETTAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qs9oBKAV6BAg8EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=1955+Hunter+Valley+floods&stick=H4sIAAAAAAAAAOOQUeLUz9U3MKuyLKoyEk7Lyc9PKVbIzFNILC0uKUrMyUyMYnUDCZ5i5AKpMyoqqag0PsXIq5-ub2hYkFRUVJhcYQjjFxVWpJclWVQh-GWGJhkGWTB-lmG8YUVKEtAwhKW_GIXd4LY6wmxtYGFcxCppaGlqquBRmleSWqQQlpiTk1qpAHHhLTZJBtOPrUyl39a1LT3MckxU4tNJ3l13C2T-nd0LAG6LhETTAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?gl=US&hl=en&q=Floods+in+Australia&stick=H4sIAAAAAAAAAOOQMRJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYuTSz9U3MCoqqag0PsXIq5-ub2hYkFRUVJhcYQjjFxVWpJclWVQh-GWGJhkGWTB-lmG8YUVKEtAwTpBhZlWWRVW_GIXd4LY6wmxtYGFcxIpN4habJIPpx1am0m_r2pYeZjkmKvHpJO-uuwUy_87uBQCNXUrWwgAAAA&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q4qYDegQIPBAI",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Floods+in+Australia&stick=H4sIAAAAAAAAAOOQMRJOy8nPTylWyMxTSCwtLilKzMlMjGJ1AwmeYuTSz9U3MCoqqag0PsXIq5-ub2hYkFRUVJhcYQjjFxVWpJclWVQh-GWGJhkGWTB-lmG8YUVKEtAwTpBhZlWWRVW_GIXd4LY6wmxtYGFcxIpN4habJIPpx1am0m_r2pYeZjkmKvHpJO-uuwUy_87uBQCNXUrWwgAAAA&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Red River Flooding is Worst in a Decade",
+            "link": "https://earthobservatory.nasa.gov/images/149822/red-river-flooding-is-worst-in-a-decade",
+            "source": "NASA Earth Observatory",
+            "date": "14 hours ago",
+            "thumbnail": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/28d181780a20c26578b94d77657d122eff1df2230adb574f.jpeg"
+        },
+        {
+            "title": "Cities Brace for Apocalyptic Flooding As New Age of Super Storms Dawns",
+            "link": "https://www.newsweek.com/2022/05/27/cities-brace-apocalyptic-flooding-new-age-super-storms-dawns-1705402.html",
+            "source": "Newsweek",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/28d181780a20c265b50459a9aa7e8a444f1518ecd79b0d96.jpeg"
+        },
+        {
+            "title": "What do water levels mean for Ohio River, area rivers and creeks?",
+            "link": "https://www.cincinnati.com/story/weather/2022/05/12/what-river-levels-mean-floods-ohio-river-cincinnati/9728607002/",
+            "source": "Cincinnati Enquirer",
+            "date": "59 mins ago",
+            "thumbnail": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/28d181780a20c265fcb1ec51b6d2698f28fd6ab7bbb42ca1.jpeg"
+        },
+        {
+            "title": "Good Samaritan saves driver stranded in flood waters",
+            "link": "https://www.kare11.com/article/weather/good-samaritan-saves-driver-stranded-vadnais-heights/89-780ae969-08bc-4a9c-a88d-9ddcd589168b",
+            "source": "KARE 11",
+            "date": "30 mins ago",
+            "thumbnail": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/28d181780a20c265138de8a3e62d1f17300b159d8a2cca01.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=US&hl=en&q=Flood&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Qt8YBegQIAhAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&tbm=nws&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+    "related_questions": [
+        {
+            "question": "What is the flood?",
+            "snippet": "Overview. Floods are the most frequent type of natural disaster and occur when an overflow of water submerges land that is usually dry. Floods are often caused by heavy rainfall, rapid snowmelt or a storm surge from a tropical cyclone or tsunami in coastal areas.",
+            "title": "Floods - WHO | World Health Organization",
+            "link": "https://www.who.int/health-topics/floods",
+            "displayed_link": "https://www.who.int › health-topics › floods"
+        },
+        {
+            "question": "What causes flood?",
+            "snippet": "It occurs when drainage channels are filled and the rivers and streams can no longer accommodate the excessive water generated by severe weather conditions. The drainage channels then overtop their natural or artificial banks and water enters the surrounding lands to cause flooding.",
+            "title": "What Causes Floods? - National Emergency Management ...",
+            "link": "http://nemo.gov.vc/nemo/index.php/hazards/flooding/265-what-causes-flood",
+            "displayed_link": "http://nemo.gov.vc › flooding › 265-what-causes-flood"
+        },
+        {
+            "question": "What is flood easy answer?",
+            "snippet": "The Short Answer: A flood is an overflow of water onto land that is normally dry. Floods can happen almost anywhere. They can cover an area with just a few inches of water or they can bring enough water to cover the roof of a house. Floods can be dangerous for communities, lasting days, weeks or sometimes even longer.",
+            "title": "What Causes a Flood? | NOAA SciJinks – All About Weather",
+            "link": "https://scijinks.gov/flood/",
+            "displayed_link": "https://scijinks.gov › flood"
+        },
+        {
+            "question": "What happens during a floods?",
+            "snippet": "During a flood, water levels and the rate the water is flowing can quickly change. Remain aware and monitor local radio and television outlets. Avoid flood waters at all costs and evacuate immediately when water starts to rise.",
+            "title": "During a Flood - National Weather Service",
+            "link": "https://www.weather.gov/safety/flood-during",
+            "displayed_link": "https://www.weather.gov › safety › flood-during"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Flood - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Flood",
+            "displayed_link": "https://en.wikipedia.org › wiki › Flood",
+            "snippet": "A flood is an overflow of water that submerges land that is usually dry. In the sense of \"flowing water\", the word may also be applied to the inflow of the ...",
+            "snippet_highlighted_words": [
+                "flood"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Flash flood",
+                        "link": "https://en.wikipedia.org/wiki/Flash_flood"
+                    },
+                    {
+                        "title": "Flood control",
+                        "link": "https://en.wikipedia.org/wiki/Flood_control"
+                    },
+                    {
+                        "title": "Flood myth",
+                        "link": "https://en.wikipedia.org/wiki/Flood_myth"
+                    },
+                    {
+                        "title": "Flood stage",
+                        "link": "https://en.wikipedia.org/wiki/Flood_stage"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "icon": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/6df874fd3837dc3c84c1b841c0a90743aebc80b27f1fdaa2ee24383d4193fb9744be4b3ebdd6db21d7da2e83bf346ade.png"
+                },
+                "keywords": [
+                    "flood"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Flood&tbm=ilp&ilps=ADNMCi3A15nJ144DT1XxRvA_qf7MtjZncg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GNIJiRFHofkJ:https://en.wikipedia.org/wiki/Flood+&cd=15&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://en.wikipedia.org/wiki/Flood+Flood"
+        },
+        {
+            "position": 2,
+            "title": "Flood Basics - Severe Weather 101",
+            "link": "https://www.nssl.noaa.gov/education/svrwx101/floods/",
+            "displayed_link": "https://www.nssl.noaa.gov › svrwx101 › floods",
+            "snippet": "Flooding is an overflowing of water onto land that is normally dry. Floods can happen during heavy rains, when ocean waves come on shore, when snow melts ...",
+            "snippet_highlighted_words": [
+                "Flooding",
+                "Floods"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Severe Storms Laboratory is a National Oceanic and Atmospheric Administration weather research laboratory under the Office of Oceanic and Atmospheric Research. It is one of seven NOAA Research Laboratories.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/National_Severe_Storms_Laboratory",
+                    "icon": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/6df874fd3837dc3c84c1b841c0a90743536e8d807ad914f2624e01057e49a707561dd359fc3bbd72a501cf4ec47e4422.png"
+                },
+                "keywords": [
+                    "flood"
+                ],
+                "related_keywords": [
+                    "flooding",
+                    "floods"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nssl.noaa.gov/education/svrwx101/floods/&tbm=ilp&ilps=ADNMCi1sapg-qAh5C8_pVrMfp98tSeH0Qw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1L8AdqHISmUJ:https://www.nssl.noaa.gov/education/svrwx101/floods/+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Flood Insurance | FEMA.gov",
+            "link": "https://www.fema.gov/flood-insurance",
+            "displayed_link": "https://www.fema.gov › flood-insurance",
+            "date": "Mar 9, 2022",
+            "snippet": "The National Flood Insurance Program (NFIP) is managed by the FEMA and is delivered to the public by a network of more than 50 insurance ...",
+            "snippet_highlighted_words": [
+                "Flood"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Federal Emergency Management Agency is an agency of the United States Department of Homeland Security, initially created under President Jimmy Carter by Presidential Reorganization Plan No. 3 of 1978 and implemented by two Executive Orders on April 1, 1979.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Federal_Emergency_Management_Agency"
+                },
+                "keywords": [
+                    "flood"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.fema.gov/flood-insurance&tbm=ilp&ilps=ADNMCi2JMNXvGACslwGxqJhk1F4_eNLzMA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AMlhxPcvLmQJ:https://www.fema.gov/flood-insurance+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Floods | Ready.gov",
+            "link": "https://www.ready.gov/floods",
+            "displayed_link": "https://www.ready.gov › floods",
+            "date": "Dec 9, 2021",
+            "snippet": "Flooding is a temporary overflow of water onto land that is normally dry. Floods are the most common natural disaster in the United States.",
+            "snippet_highlighted_words": [
+                "Flooding",
+                "Floods"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Preparing For A Flood",
+                        "link": "https://www.ready.gov/floods#:~:text=Preparing%20for%20a%20Flood,-Know%20Your%20Risk%20for%20Floods"
+                    },
+                    {
+                        "title": "Staying Safe During A Flood",
+                        "link": "https://www.ready.gov/floods#:~:text=Staying%20Safe%20During%20a%20Flood"
+                    },
+                    {
+                        "title": "Staying Safe After A Flood",
+                        "link": "https://www.ready.gov/floods#:~:text=Staying%20Safe%20After%20a%20Flood"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "ready.gov was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/6df874fd3837dc3c84c1b841c0a90743e7bdf70f16e5d8a67e155497ffcf1a1b8c076466c55566f8739ec790eabf7a19.png"
+                },
+                "keywords": [
+                    "flood"
+                ],
+                "related_keywords": [
+                    "flooding",
+                    "floods"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ready.gov/floods&tbm=ilp&ilps=ADNMCi107Ohp8WK5DazmH4Sl2IWidFYnOg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TPOf6UEIloAJ:https://www.ready.gov/floods+&cd=21&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://www.ready.gov/floods+Flood"
+        },
+        {
+            "position": 5,
+            "title": "What is a Flood? | What Causes a Flood? - Earth Networks",
+            "link": "https://www.earthnetworks.com/flooding/",
+            "displayed_link": "https://www.earthnetworks.com › flooding",
+            "snippet": "A flood is an overflow of water that submerges land that is usually dry. Floods are an area of study in the discipline of hydrology. They are the most common ...",
+            "snippet_highlighted_words": [
+                "flood",
+                "Floods"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Flood Causes & Effects",
+                        "link": "https://www.earthnetworks.com/flooding/#:~:text=Flood%20Causes%20%26%20Effects"
+                    },
+                    {
+                        "title": "Flood Safety Tips",
+                        "link": "https://www.earthnetworks.com/flooding/#:~:text=Flood%20Safety%20Tips"
+                    },
+                    {
+                        "title": "What Do I Do Before A Flood?",
+                        "link": "https://www.earthnetworks.com/flooding/#:~:text=What%20Do%20I%20Do%20Before%20a%20Flood%3F"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "earthnetworks.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/6df874fd3837dc3c84c1b841c0a90743d4d5c14f7a97c36a40b78c82c0b8386e9fd3c422029f9340c5505d46c681b2f3.png"
+                },
+                "keywords": [
+                    "flood"
+                ],
+                "related_keywords": [
+                    "flooding",
+                    "floods"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.earthnetworks.com/flooding/&tbm=ilp&ilps=ADNMCi38vzY8XEb4oxfRC_1WFW6MYhEz5A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uxEO66oI2Y8J:https://www.earthnetworks.com/flooding/+&cd=22&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Flood - National Geographic Kids",
+            "link": "https://kids.nationalgeographic.com/science/article/flood",
+            "displayed_link": "https://kids.nationalgeographic.com › science › article",
+            "snippet": "A flood is a rise of water with no place to go. Floods come in all depths, from just a couple inches to many feet. The power of floodwater is extraordinary ...",
+            "snippet_highlighted_words": [
+                "flood",
+                "Floods"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "National Geographic Kids is a children's magazine published by the National Geographic Society. Its first issue was printed in September 1975 under the original title National Geographic World.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/National_Geographic_Kids",
+                    "icon": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/6df874fd3837dc3c84c1b841c0a907439d3fbf0c0544d431eb223cb0557488bc9d3004565bf1bc5a75bb625d50f7f121.jpeg"
+                },
+                "keywords": [
+                    "flood"
+                ],
+                "related_keywords": [
+                    "floods"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://kids.nationalgeographic.com/science/article/flood&tbm=ilp&ilps=ADNMCi3fqpLxPQJb0RIMrWVahlCXUSWhRQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wkaQwfMzIFUJ:https://kids.nationalgeographic.com/science/article/flood+&cd=23&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Flood Safety | Flood Preparedness | American Red Cross",
+            "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/flood.html",
+            "displayed_link": "https://www.redcross.org › types-of-emergencies › flood",
+            "snippet": "Floods are among the most frequent and costly natural disasters. Flooding often occurs following a hurricane, thawing snow, or several days of sustained ...",
+            "snippet_highlighted_words": [
+                "Floods",
+                "Flooding"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The American Red Cross, also known as The American National Red Cross, is a non-profit humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/American_Red_Cross",
+                    "icon": "https://serpapi.com/searches/627cfedfce87f8ea4a81c838/images/6df874fd3837dc3c84c1b841c0a907431ea13d25060667ed1b85230ed78a0aa4c1e80ebd8ef2bafa890b8a131a9e0ab5.png"
+                },
+                "keywords": [
+                    "flood"
+                ],
+                "related_keywords": [
+                    "flooding",
+                    "floods"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/flood.html&tbm=ilp&ilps=ADNMCi0efNfGF9bwRXk5mUQeFdhAeuKPTw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FKi-etc-HYUJ:https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/flood.html+&cd=34&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "causes of flood",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Causes+of+flood&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q1QJ6BAhEEAE"
+        },
+        {
+            "query": "floods in the world",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Floods+in+the+world&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q1QJ6BAhDEAE"
+        },
+        {
+            "query": "effects of flood",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Effects+of+flood&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q1QJ6BAhCEAE"
+        },
+        {
+            "query": "types of flood",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Types+of+flood&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q1QJ6BAhBEAE"
+        },
+        {
+            "query": "flood facts",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Flood+facts&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q1QJ6BAhAEAE"
+        },
+        {
+            "query": "precautions of flood",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Precautions+of+flood&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q1QJ6BAg_EAE"
+        },
+        {
+            "query": "floods definition and causes",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Floods+definition+and+causes&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q1QJ6BAhGEAE"
+        },
+        {
+            "query": "floods wikipedia",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Floods+wikipedia&sa=X&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q1QJ6BAhFEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Flood&gl=US&hl=en&ei=3_58YuyAIePI_QaTyZj4Bw&start=10&sa=N&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q8NMDegQIARBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Flood&gl=US&hl=en&ei=3_58YuyAIePI_QaTyZj4Bw&start=10&sa=N&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q8tMDegQIARA4",
+            "3": "https://www.google.com/search?q=Flood&gl=US&hl=en&ei=3_58YuyAIePI_QaTyZj4Bw&start=20&sa=N&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q8tMDegQIARA6",
+            "4": "https://www.google.com/search?q=Flood&gl=US&hl=en&ei=3_58YuyAIePI_QaTyZj4Bw&start=30&sa=N&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q8tMDegQIARA8",
+            "5": "https://www.google.com/search?q=Flood&gl=US&hl=en&ei=3_58YuyAIePI_QaTyZj4Bw&start=40&sa=N&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q8tMDegQIARA-",
+            "6": "https://www.google.com/search?q=Flood&gl=US&hl=en&ei=3_58YuyAIePI_QaTyZj4Bw&start=50&sa=N&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q8tMDegQIARBA",
+            "7": "https://www.google.com/search?q=Flood&gl=US&hl=en&ei=3_58YuyAIePI_QaTyZj4Bw&start=60&sa=N&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q8tMDegQIARBC",
+            "8": "https://www.google.com/search?q=Flood&gl=US&hl=en&ei=3_58YuyAIePI_QaTyZj4Bw&start=70&sa=N&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q8tMDegQIARBE",
+            "9": "https://www.google.com/search?q=Flood&gl=US&hl=en&ei=3_58YuyAIePI_QaTyZj4Bw&start=80&sa=N&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q8tMDegQIARBG",
+            "10": "https://www.google.com/search?q=Flood&gl=US&hl=en&ei=3_58YuyAIePI_QaTyZj4Bw&start=90&sa=N&ved=2ahUKEwis7LnA_Nn3AhVjZN8KHZMkBn8Q8tMDegQIARBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=20&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=30&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=40&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=50&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=60&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=70&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=80&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Flood&start=90&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        }
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "search_metadata": {
+        "id": "627cff6ca3f4ef44a725b522",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5f131a9d2c0129e0/627cff6ca3f4ef44a725b522.json",
+        "created_at": "2022-05-12 12:37:00 UTC",
+        "processed_at": "2022-05-12 12:37:00 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&oq=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&uule=w+CAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE=&hl=ru&gl=RU&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/5f131a9d2c0129e0/627cff6ca3f4ef44a725b522.html",
+        "total_time_taken": 1.01
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Засуха",
+        "uule": "w+CAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE=",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "RU",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Засуха",
+        "total_results": 3140000,
+        "time_taken_displayed": 0.44
+    },
+    "knowledge_graph": {
+        "title": "Засуха",
+        "header_images": [
+            {
+                "source": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0"
+            },
+            {
+                "source": "https://indicator.ru/earth-science/teplye-mesta-zasukha-bolshe-03-09-2019.htm"
+            },
+            {
+                "source": "https://ru.euronews.com/2018/08/14/europe-s-drought-explained-ru"
+            },
+            {
+                "source": "https://agbz.ru/articles/zasukha-otmenit-nelzya-operedit/"
+            }
+        ],
+        "description": "За́суха — это явление продолжительной нехватки воды, будь то атмосферные, поверхностные или грунтовые воды. Засуха может длиться месяцами или годами или может быть объявлена уже через 15 дней.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0"
+        },
+        "Возможно_вы_искали": [
+            {
+                "name": "ЗА́СУХА",
+                "extensions": [
+                    "Определение в словаре"
+                ]
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Засуха в Казахстане: причины и последствия | Экологика",
+            "link": "https://www.youtube.com/watch?v=_5pEGft4SIY",
+            "thumbnail": "https://i.ytimg.com/vi/_5pEGft4SIY/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lVq8RKVzoLDmQqkV_715RSvU_sng",
+            "channel": "Телеканал Хабар 24",
+            "duration": "10:04",
+            "platform": "YouTube",
+            "date": "1 день назад"
+        },
+        {
+            "position": 2,
+            "title": "Засуха обернулась голодом",
+            "link": "https://www.youtube.com/watch?v=5Qt6T5zCbGw",
+            "thumbnail": "https://i.ytimg.com/vi/5Qt6T5zCbGw/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nM7vOZDuFVtejzvzFe7m9_Cdyjww",
+            "channel": "Euronews по-русски",
+            "duration": "0:25",
+            "platform": "YouTube",
+            "date": "1 неделю назад"
+        },
+        {
+            "position": 3,
+            "title": "Засуха-2021 | Специальный репортаж",
+            "link": "https://www.youtube.com/watch?v=UuuIXpVf6g4",
+            "thumbnail": "https://i.ytimg.com/vi/UuuIXpVf6g4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mFrmLurFP0ndaAp8PdNJAXMa8fQw",
+            "channel": "Телеканал Хабар 24",
+            "duration": "14:28",
+            "platform": "YouTube",
+            "date": "2 авг. 2021 г."
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "В каких регионах Казахстана в мае ожидается сильная засуха",
+            "link": "https://informburo.kz/novosti/v-kakih-regionah-kazahstana-v-mae-ozhidaetsya-silnaya-zasuha",
+            "source": "Informburo.kz",
+            "date": "2 дня назад",
+            "thumbnail": "https://serpapi.com/searches/627cff6ca3f4ef44a725b522/images/13661e6349c1556827ae771e9abd9b60468feb30ed7f2e38.jpeg"
+        },
+        {
+            "title": "216 млн человек мигрируют из-за засухи",
+            "link": "https://ru.euronews.com/2022/05/12/drought-displaced",
+            "source": "Euronews",
+            "date": "4 часа назад",
+            "thumbnail": "https://serpapi.com/searches/627cff6ca3f4ef44a725b522/images/13661e6349c155683b91836ee6facf85b2343e30282531be.jpeg"
+        },
+        {
+            "title": "Засуха помогла курганцам вывести новые сорта пшеницы. Фото",
+            "link": "https://ura.news/news/1052552622",
+            "source": "Ura.ru",
+            "date": "1 час назад",
+            "thumbnail": "https://serpapi.com/searches/627cff6ca3f4ef44a725b522/images/13661e6349c155685baed9e78f5789afd97cc6c6915d678c.jpeg"
+        },
+        {
+            "title": "Засуха помешает французской пшенице спасти мир от дефицита",
+            "link": "https://www.profinance.ru/news/2022/05/12/c5ux-zasukha-pomeshaet-frantsuzskoj-pshenitse-spasti-mir-ot-defitsita.html",
+            "source": "ProFinance.Ru",
+            "date": "1 час назад",
+            "thumbnail": "https://serpapi.com/searches/627cff6ca3f4ef44a725b522/images/13661e6349c1556840a8dba53bc19251ad72c5ddae10bb7c.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=RU&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQt8YBegQIBRAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&tbm=nws&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+    "related_questions": [
+        {
+            "question": "Что такое засуха простыми словами?",
+            "snippet": "Засуха – это длительный период (от нескольких месяцев до нескольких лет), в течение которого атмосферных осадков выпадает меньше обычного. В результате засух возникает дефицит воды, необходимой для человеческой жизнедеятельности и/или ведения хозяйственной деятельности.8 сент. 2020 г.",
+            "title": "Что такое засухи и чем они грозят? - Региональный ...",
+            "link": "https://carececo.org/main/news/news/chto-takoe-zasukhi-i-chem-oni-grozyat/",
+            "displayed_link": "https://carececo.org › main › news › news › chto-takoe-..."
+        },
+        {
+            "question": "В чем причина засухи?",
+            "snippet": "Начало засухи обычно связано с установлением антициклона. Обилие солнечного тепла и сухость воздуха создают повышенную испаряемость (атмосферная засуха), и запасы почвенной влаги без пополнения их дождями истощаются (почвенная засуха). Почвенная засуха - иссушение почвы, связанное с атмосферной засухой, т.",
+            "title": "ЗАСУХА",
+            "link": "https://www.vniigochs.ru/storage/photos/4/%D0%94%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/Metodics/OMS/risk/risk_zasukha.pdf",
+            "displayed_link": "https://www.vniigochs.ru › risk › risk_zasukha"
+        },
+        {
+            "question": "Чем опасна засуха для людей?",
+            "snippet": "Опасность заключается в тепловом перегревании человека, т. е. угрозе повышения температуры его тела выше 37,1 ºC или теплонарушении – приближении температуры тела к 38,8 ºC .",
+            "title": "Засуха",
+            "link": "https://www.msu.ru/info/struct/gochs-mgu/docs/chs-z.pdf",
+            "displayed_link": "https://www.msu.ru › struct › gochs-mgu › docs › chs-z"
+        },
+        {
+            "question": "Каковы могут быть последствия засухи?",
+            "snippet": "Засуха и опустынивание иногда вызывают необратимые риски для биоразнообразия, обеднения почвы и растительности. Они включают модификацию флористического состава, сокращение производимой биомассы, возможности роста и размножения растительности.",
+            "title": "Засуха и Oпустывание - BeSafeNet",
+            "link": "https://besafenet.net/ru/hazards/drought-and-desertification/",
+            "displayed_link": "https://besafenet.net › hazards › drought-and-desertification"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Засуха - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Засуха",
+            "snippet": "За́суха — это явление продолжительной нехватки воды, будь то атмосферные (осадки ниже среднего), поверхностные или грунтовые воды. Засуха может длиться ..."
+        },
+        {
+            "position": 2,
+            "title": "Засуха: причины и методы борьбы. Справка - РИА Новости",
+            "link": "https://ria.ru/20090728/178965537.html",
+            "displayed_link": "https://ria.ru › Новости",
+            "date": "28 июл. 2009 г.",
+            "snippet": "Засуха – длительный и значительный недостаток осадков, чаще при повышенной температуре и пониженной влажности воздуха, в результате которого ..."
+        },
+        {
+            "position": 3,
+            "title": "это... Что такое Засуха? - Словари и энциклопедии на ...",
+            "link": "https://dic.academic.ru/dic.nsf/ruwiki/139715",
+            "displayed_link": "https://dic.academic.ru › dic.nsf › ruwiki",
+            "snippet": "За́суха — длительный (от нескольких недель до двух-трёх месяцев) период устойчивой погоды с высокими (для данной местности) температурами воздуха и малым ..."
+        },
+        {
+            "position": 4,
+            "title": "ЗАСУХА",
+            "link": "https://www.vniigochs.ru/storage/photos/4/%D0%94%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/Metodics/OMS/risk/risk_zasukha.pdf",
+            "displayed_link": "https://www.vniigochs.ru › risk › risk_zasukha",
+            "date": "5 страниц",
+            "snippet": "Засуха: длительный (от нескольких недель до двух-трёх месяцев) период устойчивой погоды с высокими (для данной местности) температурами воздуха и малым ..."
+        },
+        {
+            "position": 5,
+            "title": "Засуха - ICDO",
+            "link": "http://icdo.org/ru/katastrofyi/zasuxa",
+            "displayed_link": "http://icdo.org › katastrofyi › zasuxa",
+            "snippet": "Лесс - это гомогенный, обычно не расслаивающийся, пористый, рыхлый, слегка связный, часто известковый, мелкозернистый, илистый, бледно-желтый или ярко-желтый, ..."
+        },
+        {
+            "position": 6,
+            "title": "засуха - Викисловарь",
+            "link": "https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D1%81%D1%83%D1%85%D0%B0",
+            "displayed_link": "https://ru.wiktionary.org › wiki › засуха",
+            "snippet": "недостаток воды в почве, вызываемый длительным отсутствием дождей при сильном зное или сухих знойных ветрах и приводящий к полному или частичному выгоранию ..."
+        },
+        {
+            "position": 7,
+            "title": "Что такое засухи и чем они грозят? - Региональный ...",
+            "link": "https://carececo.org/main/news/news/chto-takoe-zasukhi-i-chem-oni-grozyat/",
+            "displayed_link": "https://carececo.org › main › news › news › chto-takoe-...",
+            "date": "8 сент. 2020 г.",
+            "snippet": "Засуха – это длительный период (от нескольких месяцев до нескольких лет), в течение которого атмосферных осадков выпадает меньше обычного."
+        },
+        {
+            "position": 8,
+            "title": "Засуха - Чс природного характера - ГУ МЧС России по ...",
+            "link": "https://42.mchs.gov.ru/deyatelnost/poleznaya-informaciya/rekomendacii-naseleniyu/chs-prirodnogo-haraktera/zasuha",
+            "displayed_link": "https://42.mchs.gov.ru › ... › Чс природного характера",
+            "snippet": "ЗАСУХА – продолжительный и значительный недостаток осадков, чаще при повышенной температуре и пониженной влажности воздуха. - Главное управление МЧС России ..."
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "засуха интересные факты",
+            "link": "https://www.google.com/search?gl=RU&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B5+%D1%84%D0%B0%D0%BA%D1%82%D1%8B&sa=X&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "почвенная засуха",
+            "link": "https://www.google.com/search?gl=RU&hl=ru&q=%D0%9F%D0%BE%D1%87%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F+%D0%B7%D0%B0%D1%81%D1%83%D1%85%D0%B0&sa=X&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "засуха последствия",
+            "link": "https://www.google.com/search?gl=RU&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0+%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F&sa=X&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "засуха примеры",
+            "link": "https://www.google.com/search?gl=RU&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0+%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B&sa=X&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "засуха в россии",
+            "link": "https://www.google.com/search?gl=RU&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0+%D0%B2+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&sa=X&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ1QJ6BAgeEAE"
+        },
+        {
+            "query": "засуха это кратко",
+            "link": "https://www.google.com/search?gl=RU&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0+%D1%8D%D1%82%D0%BE+%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE&sa=X&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ1QJ6BAgdEAE"
+        },
+        {
+            "query": "причины засухи",
+            "link": "https://www.google.com/search?gl=RU&hl=ru&q=%D0%9F%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D1%8B+%D0%B7%D0%B0%D1%81%D1%83%D1%85%D0%B8&sa=X&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ1QJ6BAgbEAE"
+        },
+        {
+            "query": "чем опасна засуха",
+            "link": "https://www.google.com/search?gl=RU&hl=ru&q=%D0%A7%D0%B5%D0%BC+%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B0+%D0%B7%D0%B0%D1%81%D1%83%D1%85%D0%B0&sa=X&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ1QJ6BAgaEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&gl=RU&hl=ru&ei=bP98YujzLrqzytMPnt-94AI&start=10&sa=N&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&gl=RU&hl=ru&ei=bP98YujzLrqzytMPnt-94AI&start=10&sa=N&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&gl=RU&hl=ru&ei=bP98YujzLrqzytMPnt-94AI&start=20&sa=N&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&gl=RU&hl=ru&ei=bP98YujzLrqzytMPnt-94AI&start=30&sa=N&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&gl=RU&hl=ru&ei=bP98YujzLrqzytMPnt-94AI&start=40&sa=N&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&gl=RU&hl=ru&ei=bP98YujzLrqzytMPnt-94AI&start=50&sa=N&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&gl=RU&hl=ru&ei=bP98YujzLrqzytMPnt-94AI&start=60&sa=N&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&gl=RU&hl=ru&ei=bP98YujzLrqzytMPnt-94AI&start=70&sa=N&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&gl=RU&hl=ru&ei=bP98YujzLrqzytMPnt-94AI&start=80&sa=N&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&gl=RU&hl=ru&ei=bP98YujzLrqzytMPnt-94AI&start=90&sa=N&ved=2ahUKEwjo2eWD_dn3AhW6mXIEHZ5vDywQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=10&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=10&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=10&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=20&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=30&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=40&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=50&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=60&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=70&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=80&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=RU&google_domain=google.com&hl=ru&q=%D0%97%D0%B0%D1%81%D1%83%D1%85%D0%B0&start=90&uule=w%2BCAIQICIUTW9zY293LE1vc2NvdyxSdXNzaWE%3D"
+        }
+    }
+}

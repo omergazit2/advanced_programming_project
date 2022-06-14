@@ -1,0 +1,296 @@
+{
+    "search_metadata": {
+        "id": "629e3d12b7b1cc169b434a56",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/907c61695e0fa606/629e3d12b7b1cc169b434a56.json",
+        "created_at": "2022-06-06 17:44:50 UTC",
+        "processed_at": "2022-06-06 17:44:50 UTC",
+        "google_url": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&oq=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/907c61695e0fa606/629e3d12b7b1cc169b434a56.html",
+        "total_time_taken": 2.81
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "сворачивание белка",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "сворачивание белка",
+        "total_results": 25100,
+        "time_taken_displayed": 0.49
+    },
+    "knowledge_graph": {
+        "title": "Фолдинг белка",
+        "header_images": [
+            {
+                "source": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3_%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0"
+            },
+            {
+                "source": "https://lifelib.info/biochemistry/leninger/25.html"
+            },
+            {
+                "source": "https://biomolecula.ru/articles/problema-foldinga-belka"
+            },
+            {
+                "source": "https://elementy.ru/time/biophysics/biophysics-folding-2.html"
+            },
+            {
+                "source": "https://lifelib.info/biochemistry/leninger/25.html"
+            },
+            {
+                "source": "https://biomolecula.ru/articles/problema-foldinga-belka"
+            },
+            {
+                "source": "https://lifelib.info/biochemistry/leninger/25.html"
+            },
+            {
+                "source": "https://elementy.ru/time/biophysics/biophysics-folding-3.html"
+            }
+        ],
+        "description": "В биохимии и молекулярной биологии фо́лдингом белка называют процесс спонтанного сворачивания полипептидной цепи в уникальную нативную пространственную структуру. Каждая молекула белка начинает формироваться как полипептид, транслируемый из последовательности мРНК в виде линейной цепочки аминокислот.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3_%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0"
+        },
+        "Возможно_вы_искали": [
+            {
+                "name": "Денатурация белков",
+                "extensions": [
+                    "Денатурация белков — изменение нативной ..."
+                ],
+                "image": "https://serpapi.com/searches/629e3d12b7b1cc169b434a56/images/69fa1ff702877cfd1f7af2ced6659195919211cc5fdd69576ab1abc2146834bb17b3e915f6fe5dc50464512ba01741d1f20b5223d31416bb8dd42964af6feef6.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Денатурация белка",
+            "link": "https://www.youtube.com/watch?v=fipUNkMCAwI",
+            "thumbnail": "https://serpapi.com/searches/629e3d12b7b1cc169b434a56/images/33083547265517c489a70af891012ff1c915a853ee430e4ecf4afefede6f1ab1.jpeg",
+            "channel": "Biology",
+            "duration": "1:48",
+            "platform": "YouTube",
+            "date": "2 нояб. 2017 г."
+        },
+        {
+            "position": 2,
+            "title": "Опыты по химии. Денатурация белков: нагреванием ...",
+            "link": "https://www.youtube.com/watch?v=LGXgR_yWYEw",
+            "thumbnail": "https://serpapi.com/searches/629e3d12b7b1cc169b434a56/images/33083547265517c4159c66e72c131f7236c73d51e709930b1a944ecce427b56b.jpeg",
+            "channel": "Видеопособия для школьников",
+            "duration": "1:54",
+            "platform": "YouTube",
+            "date": "9 мар. 2018 г."
+        },
+        {
+            "position": 3,
+            "title": "Биохимия. Денатурация и ренатурация белка. Строение ...",
+            "link": "https://www.youtube.com/watch?v=sjyKp_3mvaA",
+            "thumbnail": "https://serpapi.com/searches/629e3d12b7b1cc169b434a56/images/33083547265517c4f49580752999204106ab7f887d8e6439196edc01db911111.jpeg",
+            "channel": "День знаний",
+            "duration": "13:40",
+            "platform": "YouTube",
+            "date": "12 дек. 2015 г."
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Что такое денатурация белка простыми словами?",
+            "snippet": "ДЕНАТУРАЦИЯ БЕЛКОВ — потеря, изменение естественных свойств белков (растворимости, гидрофильности, вязкости и т. д.) вследствие нарушения естественной вторичной и третичной структур под влиянием высокой температуры, действия сильных кислот и щелочей, тяжелых металлов …",
+            "title": "это... Что такое денатурация белков? - Словари и ...",
+            "link": "https://dic.academic.ru/dic.nsf/dic_fwords/44625/%D0%B4%D0%B5%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
+            "displayed_link": "https://dic.academic.ru › dic.nsf › dic_fwords › денатура..."
+        },
+        {
+            "question": "Что происходит с белком при нагревании?",
+            "snippet": "При нагревании белка происходит денатурация. Молекулы белка меняют свою структуру, свернувшийся белок выпадает в виде мелких частиц и хлопьев. Свертывание белков при нагревании – необратимый процесс.",
+            "title": "Эксперимент по химии: Свертывание белков нагреванием",
+            "link": "https://paramitacenter.ru/node/451",
+            "displayed_link": "https://paramitacenter.ru › node"
+        },
+        {
+            "question": "Как сворачивается белок?",
+            "snippet": "В биохимии и молекулярной биологии фо́лдингом белка (укладкой белка, от англ. folding) называют процесс спонтанного сворачивания полипептидной цепи в уникальную нативную (естественную, от англ. native) пространственную структуру (так называемая третичная структура).",
+            "title": "Фолдинг белка - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3_%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Фолдинг_белка"
+        },
+        {
+            "question": "Что происходит с белком при добавлении в формалине?",
+            "snippet": "Применение Формалин свёртывает белки и предотвращает их разложение. Поэтому он применяется для дубления желатина при производстве кинофотоплёнки, для сохранения анатомических и зоологических влажных препаратов, используется при бальзамировании, как фиксатор в микроскопии, а также как антисептик.",
+            "title": "Формалин - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%B8%D0%BD",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Формалин"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Сворачивание (биология) — Белок до и после сворачивания Сворачивание белка процесс, аналогичный денатурации белка: в коллоидном растворе белковых молекул под действием внешних воздействий происходит процесс агрегации частиц белка в более крупные.",
+        "link": "https://dic.academic.ru/dic.nsf/ruwiki/1140971#:~:text=%D0%A1%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)%20%E2%80%94%20%D0%91%D0%B5%D0%BB%D0%BE%D0%BA%20%D0%B4%D0%BE,%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%86%20%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5.",
+        "displayed_link": "https://dic.academic.ru › dic.nsf › ruwiki",
+        "snippet": "Сворачивание (биология) — Белок до и после сворачивания Сворачивание белка процесс, аналогичный денатурации белка: в коллоидном растворе белковых молекул под действием внешних воздействий происходит процесс агрегации частиц белка в более крупные.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Фолдинг белка - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3_%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Фолдинг_белка",
+            "snippet": "В биохимии и молекулярной биологии фо́лдингом белка (укладкой белка, от англ. folding) называют процесс спонтанного сворачивания полипептидной цепи в ...",
+            "snippet_highlighted_words": [
+                "белка",
+                "белка",
+                "сворачивания"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Денатурация белков - Википедия",
+                    "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B1%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2",
+                    "displayed_link": "https://ru.wikipedia.org › wiki › Денатурация_белков",
+                    "snippet": "Денатурация белков (лат. denaturatus — лишённый природных свойств; от de- — приставка, означающая отделение, удаление + natura — природа, ...",
+                    "snippet_highlighted_words": [
+                        "белков"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Свертывание белков - chem.msu.su",
+            "link": "http://www.chem.msu.su/rus/teaching/kolman/80.htm",
+            "displayed_link": "http://www.chem.msu.su › rus › teaching › kolman",
+            "snippet": "Тем не менее в клетке имеются специальные белки (шапероны, см. с. 230), функция которых обеспечивать свертывание полипептидных цепей вновь синтезируемых белков.",
+            "snippet_highlighted_words": [
+                "белки",
+                "белков"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Фолдинг белка — все самое интересное на ПостНауке",
+            "link": "https://postnauka.ru/video/32627",
+            "displayed_link": "https://postnauka.ru › video",
+            "snippet": "Разрушение структуры белка называется денатурацией. Денатурация — это переход молекулы из сформированной формы в беспорядочный клубок. Мы все существуем на ...",
+            "snippet_highlighted_words": [
+                "белка"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Фолдинг белков: 1. Физическая основа жизни - Элементы ...",
+            "link": "https://elementy.ru/time/biophysics/biophysics-folding-1.html",
+            "displayed_link": "https://elementy.ru › biophysics › biophysics-folding-1",
+            "snippet": "Когда белок синтезируется в клетке, он появляется в виде длинной и тонкой молекулярной цепочки, а затем сворачивается в свою естественную (нативную) форму.",
+            "snippet_highlighted_words": [
+                "белок",
+                "сворачивается"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Свертывание белков при нагревании",
+            "link": "http://school-collection.edu.ru/catalog/res/2dde89f6-f095-3b1e-6480-f0c9cf6a9c8f/view/",
+            "displayed_link": "http://school-collection.edu.ru › catalog › res › view",
+            "snippet": "Свертывание белков при нагревании. В пробирку нальем немного раствора белка. Нагреем раствор до кипения. Раствор мутнеет, белок выпадает в виде хлопьев.",
+            "snippet_highlighted_words": [
+                "белков",
+                "белка",
+                "белок"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "ИИ смоделировал процесс сворачивания белка: что это ...",
+            "link": "https://trends.rbc.ru/trends/industry/5ffc2c979a794785b2f3968d",
+            "displayed_link": "https://trends.rbc.ru › РБК Тренды › Индустрия 4.0",
+            "date": "11 янв. 2021 г.",
+            "snippet": "Команда DeepMind, которая принадлежит Google, с помощью ИИ смогла смоделировать процесс сворачивания белка. Над этой задачей ученые бились ...",
+            "snippet_highlighted_words": [
+                "сворачивания белка"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Проблема фолдинга белка - «Биомолекула»",
+            "link": "https://biomolecula.ru/articles/problema-foldinga-belka",
+            "displayed_link": "https://biomolecula.ru › problema-foldinga-belka",
+            "date": "16 окт. 2016 г.",
+            "snippet": "Процесс сворачивания белка и называется фолдингом (от англ. folding — сворачивание, укладка; отметим, что термин «фолдинг» применим не ...",
+            "snippet_highlighted_words": [
+                "сворачивания белка"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "сворачивание белка температура",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A1%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0&sa=X&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "денатурация белка у человека",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%94%D0%B5%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D1%83+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0&sa=X&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "денатурация белка реакция",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%94%D0%B5%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D1%80%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%8F&sa=X&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "денатурация белка примеры",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%94%D0%B5%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B&sa=X&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ1QJ6BAguEAE"
+        },
+        {
+            "query": "денатурация и ренатурация белка",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%94%D0%B5%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F+%D0%B8+%D1%80%D0%B5%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&sa=X&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "фолдинг белка шапероны",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D1%88%D0%B0%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D1%8B&sa=X&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "денатурация белка простыми словами",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%94%D0%B5%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8+%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8&sa=X&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "фолдинг белка этапы",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D1%8D%D1%82%D0%B0%D0%BF%D1%8B&sa=X&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ1QJ6BAgmEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&ei=FT2eYq_rCIfFqtsPgquruAg&start=10&sa=N&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&ei=FT2eYq_rCIfFqtsPgquruAg&start=10&sa=N&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&ei=FT2eYq_rCIfFqtsPgquruAg&start=20&sa=N&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&ei=FT2eYq_rCIfFqtsPgquruAg&start=30&sa=N&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&ei=FT2eYq_rCIfFqtsPgquruAg&start=40&sa=N&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&ei=FT2eYq_rCIfFqtsPgquruAg&start=50&sa=N&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&ei=FT2eYq_rCIfFqtsPgquruAg&start=60&sa=N&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&ei=FT2eYq_rCIfFqtsPgquruAg&start=70&sa=N&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&ei=FT2eYq_rCIfFqtsPgquruAg&start=80&sa=N&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&ei=FT2eYq_rCIfFqtsPgquruAg&start=90&sa=N&ved=2ahUKEwjvya-8sJn4AhWHomoFHYLVCocQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D1%81%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=90"
+        }
+    }
+}

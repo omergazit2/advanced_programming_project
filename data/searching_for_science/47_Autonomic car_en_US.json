@@ -1,0 +1,605 @@
+{
+    "search_metadata": {
+        "id": "629e3d28e4a23d82b49184eb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8becc498464901d7/629e3d28e4a23d82b49184eb.json",
+        "created_at": "2022-06-06 17:45:12 UTC",
+        "processed_at": "2022-06-06 17:45:12 UTC",
+        "google_url": "https://www.google.com/search?q=Autonomic+car&oq=Autonomic+car&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/8becc498464901d7/629e3d28e4a23d82b49184eb.html",
+        "total_time_taken": 1.41
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Autonomic car",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Including results for spelling fix",
+        "query_displayed": "Autonomic car",
+        "total_results": 23300000,
+        "time_taken_displayed": 0.73,
+        "showing_results_for": "Autonomic car",
+        "spelling_fix": "Autonomous car"
+    },
+    "ads": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "Self Driving Cars Information - Learn About Driverless Cars",
+            "link": "https://ltad.com/",
+            "displayed_link": "https://www.ltad.com/",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiuzP_FsJn4AhVQCq0GHbrLALoYABAAGgJwdg&ae=2&sig=AOD64_2TF71sFiFJb4NVKCXCXkMlmuyTmg&q&adurl",
+            "description": "Learn how self driving vehicles could reshape the mobility options for many communities. Let's Talk Autonomous Driving aims to educate the public on self driving transportation."
+        }
+    ],
+    "knowledge_graph": {
+        "title": "Self-driving car",
+        "header_images": [
+            {
+                "source": "https://www.theguardian.com/commentisfree/2022/apr/23/a-self-driving-revolution-dont-believe-the-hype-were-barely-out-of-second-gear"
+            },
+            {
+                "source": "https://www.cubictelecom.com/blog/self-driving-cars-future-of-autonomous-vehicles-automotive-vehicles-2030/"
+            },
+            {
+                "source": "https://innovationatwork.ieee.org/autonomous-vehicles-for-today-and-for-the-future/"
+            },
+            {
+                "source": "https://www.aspeninstitute.org/blog-posts/autonomous-vehicles-ces/"
+            }
+        ],
+        "description": "A self-driving car, also known as an autonomous vehicle, autonomous car, driver-less car, or robotic car, is a car incorporating vehicular automation, that is, a ground vehicle that is capable of sensing its environment and moving safely with little or no human input.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Self-driving_car"
+        },
+        "self_driving_car_books": [
+            {
+                "name": "Introduction to Self‑Driv...",
+                "link": "https://www.google.com/search?gl=us&hl=en&q=Introduction+to+Self-Driving+Vehicle+Technology&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0zDBJzy0sqyjUEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iFXfM6-kKD-lNLkkMz9PoSRfITg1J03XpSizLDMvXSEsNSMzOSdVISQ1OSMvPyc_vXIHKyMAnEp5om8AAAA&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQxA16BAhuEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Introduction+to+Self-Driving+Vehicle+Technology&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0zDBJzy0sqyjUEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iFXfM6-kKD-lNLkkMz9PoSRfITg1J03XpSizLDMvXSEsNSMzOSdVISQ1OSMvPyc_vXIHKyMAnEp5om8AAAA",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf4d73854e5a96883292b6db5ff760099952385eecb366ecb6e37a210bfe81796f7.jpeg"
+            },
+            {
+                "name": "Applied Deep Learning...",
+                "link": "https://www.google.com/search?gl=us&hl=en&q=Applied+Deep+Learning+and+Computer+Vision+for+Self-Driving+Cars:+Build+Autonomous+Vehicles+Using+Deep+Neural+Networks+and+Behavior-cloning+Techniques&stick=H4sIAAAAAAAAAB2NO07DQBBAZSFLUNAgDjCiRIoWUwBxFyclogHSr3Yn9mg_Y2a8MRfhApScgONBXL3m6b3zs6sLk8xdE-L68ebS9KZpwmc_PT3cr2-vg2uN45Q4t57nPFvx-lPVHXPQ7_qr2oxjJPSwQxzhGa1kyj3Y7GHLaSwTCuxJiTMcWOAV42G1EzqepK0VbaErFD1sysSZExeFPQ7kIiq868lawi9YxMZ_TDNL0KXf4WCPxLJykZfpG7oh00dB_a2rPzWg_3vWAAAA&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQxA16BAhuEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Applied+Deep+Learning+and+Computer+Vision+for+Self-Driving+Cars%3A+Build+Autonomous+Vehicles+Using+Deep+Neural+Networks+and+Behavior-cloning+Techniques&stick=H4sIAAAAAAAAAB2NO07DQBBAZSFLUNAgDjCiRIoWUwBxFyclogHSr3Yn9mg_Y2a8MRfhApScgONBXL3m6b3zs6sLk8xdE-L68ebS9KZpwmc_PT3cr2-vg2uN45Q4t57nPFvx-lPVHXPQ7_qr2oxjJPSwQxzhGa1kyj3Y7GHLaSwTCuxJiTMcWOAV42G1EzqepK0VbaErFD1sysSZExeFPQ7kIiq868lawi9YxMZ_TDNL0KXf4WCPxLJykZfpG7oh00dB_a2rPzWg_3vWAAAA",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf4d73854e5a96883292b6db5ff76009995f497c03bf86197d538871b60751d76a6.jpeg"
+            },
+            {
+                "name": "Autonomy: The Quest to Build t...",
+                "link": "https://www.google.com/search?gl=us&hl=en&q=Autonomy:+The+Quest+to+Build+the+Driverless+Car%E2%80%94And+How+It+Will+Reshape+Our+World&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0TMvOKciILzPWEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iDXYsbQkPy8_t9JKISQjVSGwNLW4RKEkX8GpNDMnRaEEKORSlFmWWpSTWlys4JxY9KhhimNeioJHfrmCZ4lCeGZOjkJQanFGYkGqgn9pkUJ4flFOyg5WRgA66OEKkwAAAA&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQxA16BAhuEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomy%3A+The+Quest+to+Build+the+Driverless+Car%E2%80%94And+How+It+Will+Reshape+Our+World&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0TMvOKciILzPWEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iDXYsbQkPy8_t9JKISQjVSGwNLW4RKEkX8GpNDMnRaEEKORSlFmWWpSTWlys4JxY9KhhimNeioJHfrmCZ4lCeGZOjkJQanFGYkGqgn9pkUJ4flFOyg5WRgA66OEKkwAAAA",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf4d73854e5a96883292b6db5ff760099951640554985727984eff3c5bf76014269.jpeg"
+            },
+            {
+                "name": "Driverless: Intelligent Cars an...",
+                "link": "https://www.google.com/search?gl=us&hl=en&q=Driverless:+Intelligent+Cars+and+the+Road+Ahead&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0TDbMja_KMjHREslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iFXfpSizLLUoJ7W42ErBM68kNScnMz01r0TBObGoWCExL0WhJCNVISg_MUXBMSM1MWUHKyMAmKLvVm8AAAA&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQxA16BAhuEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Driverless%3A+Intelligent+Cars+and+the+Road+Ahead&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0TDbMja_KMjHREslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iFXfpSizLLUoJ7W42ErBM68kNScnMz01r0TBObGoWCExL0WhJCNVISg_MUXBMSM1MWUHKyMAmKLvVm8AAAA",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf4d73854e5a96883292b6db5ff76009995589dc5311d2182d46c327e1c799d4900.jpeg"
+            }
+        ],
+        "autonomous_vehicle_podcast": [
+            {
+                "name": "The Autonomous Vehicles...",
+                "link": "https://www.google.com/search?gl=us&hl=en&q=The+Autonomous+Vehicles+Podcast&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0zDA0qKwsLjLREslOttJPzs_Nzc-zSskvzytPLEopXsXIG5CfkpxYXBKcWpSZWryIVT4kI1XBsbQkPy8_N7-0WCEsNSMzOSe1WAGqbgcrIwDfkc1UZwAAAA&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQxA16BAhtEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Autonomous+Vehicles+Podcast&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0zDA0qKwsLjLREslOttJPzs_Nzc-zSskvzytPLEopXsXIG5CfkpxYXBKcWpSZWryIVT4kI1XBsbQkPy8_N7-0WCEsNSMzOSe1WAGqbgcrIwDfkc1UZwAAAA",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf4da4bce5d23c57662ccc9be5b1a25e46dc46f10605ebe07451820e5ac0c93c78c4bd04f47414a9e4b.png"
+            },
+            {
+                "name": "Autonomous Cars with Marc Ho...",
+                "link": "https://www.google.com/search?gl=us&hl=en&q=Autonomous+Cars+with+Marc+Hoag&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0TDM3NjQ0MU7SEslOttJPzs_Nzc-zSskvzytPLEopXsXIG5CfkpxYXBKcWpSZWryIVc6xtCQ_Lz83v7RYwTmxqFihPLMkQ8E3sShZwSM_MX0HKyMAeerJy2YAAAA&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQxA16BAhtEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomous+Cars+with+Marc+Hoag&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0TDM3NjQ0MU7SEslOttJPzs_Nzc-zSskvzytPLEopXsXIG5CfkpxYXBKcWpSZWryIVc6xtCQ_Lz83v7RYwTmxqFihPLMkQ8E3sShZwSM_MX0HKyMAeerJy2YAAAA",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf4da4bce5d23c57662ccc9be5b1a25e46dc46f10605ebe07457d72af06b572a69b9193b9b4282bf52d.jpeg"
+            },
+            {
+                "name": "Matrickz Daily Tech",
+                "link": "https://www.google.com/search?gl=us&hl=en&q=Matrickz+Daily+Tech&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0TMs2tDBPSqnUEslOttJPzs_Nzc-zSskvzytPLEopXsXIG5CfkpxYXBKcWpSZWryIVdg3saQoMzm7SsElMTOnUiEkNTljBysjADnM5b9bAAAA&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQxA16BAhtEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Matrickz+Daily+Tech&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0TMs2tDBPSqnUEslOttJPzs_Nzc-zSskvzytPLEopXsXIG5CfkpxYXBKcWpSZWryIVdg3saQoMzm7SsElMTOnUiEkNTljBysjADnM5b9bAAAA",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf4da4bce5d23c57662ccc9be5b1a25e46dc46f10605ebe07454fdc613d29d2efef116191210ad3d40b.jpeg"
+            },
+            {
+                "name": "Autonocast",
+                "link": "https://www.google.com/search?gl=us&hl=en&q=Autonocast&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0zIgvL0hKSsrTEslOttJPzs_Nzc-zSskvzytPLEopXsXIG5CfkpxYXBKcWpSZWryIlcuxtCQ_Lx8ktIOVEQBcQCj9UgAAAA&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQxA16BAhtEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonocast&stick=H4sIAAAAAAAAAONgFuLUz9U3MMzOsTRX4tVP1zc0zIgvL0hKSsrTEslOttJPzs_Nzc-zSskvzytPLEopXsXIG5CfkpxYXBKcWpSZWryIlcuxtCQ_Lx8ktIOVEQBcQCj9UgAAAA",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf4da4bce5d23c57662ccc9be5b1a25e46dc46f10605ebe0745a3e5fb87382503626ff48c7c72b2c87e.png"
+            }
+        ],
+        "people_also_search_for": [
+            {
+                "name": "Electric car",
+                "link": "https://www.google.com/search?gl=us&hl=en&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbq3tIFQiY2inFBxFHRy2dlk4xDtkPcRC4yGDcR2o5eGtQXWrRO3gi_dj4FyDV0QGar7yzB7MuVJza2AsupG1NNrY8C-Z_7u-gwRULuYjHhSJ9iMUpbzXOBUTQvpUYsQ0cQlKi67ca6y9Jkh8aJuCNk6XDYrRV2JsZrjkVmBxEmH_V3PxAeZJbzstTmdggG02Uyy3hqnl4kCtD1gfh0g16Kew13Q5xc_ssTQMPwtAlHzc_MM43v-EPbFseMMQQcZyMjFFPVc%3D&q=Electric+car&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQs9oBKAB6BAhsEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Electric+car&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbq3tIFQiY2inFBxFHRy2dlk4xDtkPcRC4yGDcR2o5eGtQXWrRO3gi_dj4FyDV0QGar7yzB7MuVJza2AsupG1NNrY8C-Z_7u-gwRULuYjHhSJ9iMUpbzXOBUTQvpUYsQ0cQlKi67ca6y9Jkh8aJuCNk6XDYrRV2JsZrjkVmBxEmH_V3PxAeZJbzstTmdggG02Uyy3hqnl4kCtD1gfh0g16Kew13Q5xc_ssTQMPwtAlHzc_MM43v-EPbFseMMQQcZyMjFFPVc%3D",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf400fa15e85aebe3f541062c1c95beb07ecc813073f2cc453d4a369d015e714633.jpeg"
+            },
+            {
+                "name": "Bus",
+                "link": "https://www.google.com/search?gl=us&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdR0Qx4rVgJvCFjheZZGgYCCYExWlAWzXtDefhU8oSQohrO3oDaaK2U-UsKfwxy1FYg1g6Qt1elvE0ocv3xdXVbK9iJAB1koS1-vRM7Z1L5Sb3gFqIGd6H7lxoqAqA5t2o5wr18mJJpQ6F0BK7oWCtRp5EUVs9qgoVI_6ZV6X1oqi_DqQ3FohZD7WLFwTyOe60_DnRmClqIF5Gapyfxbant8ocgyZKAVZWxuauum_Sm2B6rhCaQ%3D%3D&q=Bus&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQs9oBKAF6BAhsEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Bus&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdR0Qx4rVgJvCFjheZZGgYCCYExWlAWzXtDefhU8oSQohrO3oDaaK2U-UsKfwxy1FYg1g6Qt1elvE0ocv3xdXVbK9iJAB1koS1-vRM7Z1L5Sb3gFqIGd6H7lxoqAqA5t2o5wr18mJJpQ6F0BK7oWCtRp5EUVs9qgoVI_6ZV6X1oqi_DqQ3FohZD7WLFwTyOe60_DnRmClqIF5Gapyfxbant8ocgyZKAVZWxuauum_Sm2B6rhCaQ%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf400fa15e85aebe3f541062c1c95beb07edf281343810a84aaef614a425c16f0ab.jpeg"
+            },
+            {
+                "name": "Luxury car",
+                "link": "https://www.google.com/search?gl=us&hl=en&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgI2S01KAslk9wZE8qlDp6fhlN9MLq06EketBceTt9F4lvMCVIoja8aCPSpnjFq2pHKNf07HenKgr51OgwktIX2sIKCXymRx_g2EohDeB5BvtWoRydALIbC30EiB1qfUt-8u1CO2by5cm64_KTfvv30_qAXPWdWfwjeePJre7iX2cN0Rije23DzE2sg4t98XzaWqpuLLhBzBThDTse0w5NjNdOvk47di06WxHRdBaSon-Lk5FgJEe-2QFbAwaGRCIZ-__eok%3D&q=Luxury+car&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQs9oBKAJ6BAhsEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Luxury+car&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgI2S01KAslk9wZE8qlDp6fhlN9MLq06EketBceTt9F4lvMCVIoja8aCPSpnjFq2pHKNf07HenKgr51OgwktIX2sIKCXymRx_g2EohDeB5BvtWoRydALIbC30EiB1qfUt-8u1CO2by5cm64_KTfvv30_qAXPWdWfwjeePJre7iX2cN0Rije23DzE2sg4t98XzaWqpuLLhBzBThDTse0w5NjNdOvk47di06WxHRdBaSon-Lk5FgJEe-2QFbAwaGRCIZ-__eok%3D",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf400fa15e85aebe3f541062c1c95beb07e88bc03316989b8998e2d277c91521ad3.jpeg"
+            },
+            {
+                "name": "Hybrid vehicle",
+                "link": "https://www.google.com/search?gl=us&hl=en&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgHQ4QfyaY3Wt9sx0FN9yfdyB2X4nG4VADdDkLb419kh3TnNT2XB0cNhBMfUQEnrlSfHiWv1lDV6M0e9_rLTqwITJVqym9NnrsYlV8E7hO79lMt3q_ijfmU80R1ycveRNzZXJ-aFUk7vfUHpEvLcH0X0k3g12mm1TZnXTGS3YH4CjzsI6KTEC2czsGIKjJyktCZbzpbJQqrjDI3hC01i6ozIkNb2TCKDv_lVLgtqwtqU_BPcynnnTsSnejgNqhNP_dFxZm1U%3D&q=Hybrid+vehicle&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQs9oBKAN6BAhsEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hybrid+vehicle&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgHQ4QfyaY3Wt9sx0FN9yfdyB2X4nG4VADdDkLb419kh3TnNT2XB0cNhBMfUQEnrlSfHiWv1lDV6M0e9_rLTqwITJVqym9NnrsYlV8E7hO79lMt3q_ijfmU80R1ycveRNzZXJ-aFUk7vfUHpEvLcH0X0k3g12mm1TZnXTGS3YH4CjzsI6KTEC2czsGIKjJyktCZbzpbJQqrjDI3hC01i6ozIkNb2TCKDv_lVLgtqwtqU_BPcynnnTsSnejgNqhNP_dFxZm1U%3D",
+                "image": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/9fe5bf76aea932af4dd860b9a9802cf400fa15e85aebe3f541062c1c95beb07e97252f043f1b27f88d8da667177af090.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Mobileye Autonomous Car is Leading the Self Driving Car ...",
+            "link": "https://www.youtube.com/watch?v=L1Bmc61l99A",
+            "thumbnail": "https://i.ytimg.com/vi/L1Bmc61l99A/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kMqFLyeOQmFuO0MW-GaFWtKYylyA",
+            "channel": "Mobileye an Intel Company",
+            "duration": "1:50",
+            "platform": "YouTube",
+            "date": "Feb 5, 2017"
+        },
+        {
+            "position": 2,
+            "title": "Unedited 40 Minute Ride in Mobileye's Autonomous Car",
+            "link": "https://www.youtube.com/watch?v=kJD5R_yQ9aw",
+            "thumbnail": "https://i.ytimg.com/vi/kJD5R_yQ9aw/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mTb-9dsRdNjHBMbKzOdTQ0gXwSlQ",
+            "channel": "Mobileye an Intel Company",
+            "duration": "25:57",
+            "platform": "YouTube",
+            "date": "May 28, 2020"
+        },
+        {
+            "position": 3,
+            "title": "Autonomous car / self-driving car - How it works! (Animation)",
+            "link": "https://www.youtube.com/watch?v=gEy91PGGLR0",
+            "thumbnail": "https://i.ytimg.com/vi/gEy91PGGLR0/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lnrogtrvc47M_zqo2ul88L7jOdEQ",
+            "channel": "Thomas Schwenke",
+            "duration": "3:12",
+            "platform": "YouTube",
+            "date": "May 26, 2018"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is a automated car?",
+            "snippet": "An autonomous car is a vehicle capable of sensing its environment and operating without human involvement. A human passenger is not required to take control of the vehicle at any time, nor is a human passenger required to be present in the vehicle at all.",
+            "title": "What is an Autonomous Car? – How Self-Driving Cars Work",
+            "link": "https://www.synopsys.com/automotive/what-is-autonomous-car.html",
+            "displayed_link": "https://www.synopsys.com › automotive › what-is-auto..."
+        },
+        {
+            "question": "What is an example of an autonomous vehicle?",
+            "snippet": "Google's Waymo project is an example of a self-driving car that is almost entirely autonomous. It still requires a human driver to be present but only to override the system when necessary. It is not self-driving in the purest sense, but it can drive itself in ideal conditions. It has a high level of autonomy.",
+            "title": "What are Self-Driving Cars and How Do They Work? - TechTarget",
+            "link": "https://www.techtarget.com/searchenterpriseai/definition/driverless-car",
+            "displayed_link": "https://www.techtarget.com › definition › driverless-car"
+        },
+        {
+            "question": "Are there any fully autonomous cars?",
+            "snippet": "And companies like Waymo and Cruise are testing fully autonomous driving — in some cities, you can already hop in a driverless taxi. But if you want a genuinely self-driving car of your own, you're out of luck. Yes, vehicles are getting better at controlling their own steering and acceleration in more situations.Dec 22, 2021",
+            "title": "Why self-driving cars still require a lot of human supervision - NPR",
+            "link": "https://www.npr.org/2021/12/22/1064598337/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-na",
+            "displayed_link": "https://www.npr.org › 2021/12/22 › cars-are-getting-bette..."
+        },
+        {
+            "question": "Is autonomous car better than driver?",
+            "snippet": "Autonomous vehicles are orders of magnitude safer in preventing many types of accidents that have to do with human driver error — for instance, simply rear-ending another vehicle because the driver wasn't paying attention. These types of accidents will practically never happen with autonomous cars.May 5, 2022",
+            "title": "Are autonomous vehicles safer than cars operated by humans?",
+            "link": "https://www.techopedia.com/are-self-driving-cars-safer-than-cars-driven-by-humans/7/33437",
+            "displayed_link": "https://www.techopedia.com › are-self-driving-cars-safer-t..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "What is an Autonomous Car? – How Self-Driving Cars Work",
+            "link": "https://www.synopsys.com/automotive/what-is-autonomous-car.html",
+            "displayed_link": "https://www.synopsys.com › automotive › what-is-auto...",
+            "snippet": "An autonomous car is a vehicle capable of sensing its environment and operating without human involvement. A human passenger is not required to take control ...",
+            "snippet_highlighted_words": [
+                "autonomous car"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Synopsys is an American electronic design automation company that focuses on silicon design and verification, silicon intellectual property and software security and quality.",
+                    "icon": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc6ea45e82cf494e2bfcb5bd50314a21bf39f0d72fed2aba892feee12c933a9cdb6.png"
+                },
+                "keywords": [
+                    "car"
+                ],
+                "related_keywords": [
+                    "autonomous",
+                    "automotive",
+                    "cars"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.synopsys.com/automotive/what-is-autonomous-car.html&tbm=ilp&ilps=ADNMCi2wV0fACJyU9u8OmLR5jCIDni4v8A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rXpPgw0P2UUJ:https://www.synopsys.com/automotive/what-is-autonomous-car.html+&cd=1&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Self-driving car - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Self-driving_car",
+            "displayed_link": "https://en.wikipedia.org › wiki › Self-driving_car",
+            "thumbnail": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc6550b04bb248348df14d9e280c8ec43cc.jpeg",
+            "snippet": "A self-driving car, also known as an autonomous vehicle (AV), autonomous car, driver-less car, or robotic car (robo-car), is a ...",
+            "snippet_highlighted_words": [
+                "autonomous vehicle",
+                "autonomous car"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "History",
+                        "link": "https://en.wikipedia.org/wiki/Self-driving_car#History"
+                    },
+                    {
+                        "title": "Definitions",
+                        "link": "https://en.wikipedia.org/wiki/Self-driving_car#Definitions"
+                    },
+                    {
+                        "title": "Classifications",
+                        "link": "https://en.wikipedia.org/wiki/Self-driving_car#Classifications"
+                    },
+                    {
+                        "title": "Technology",
+                        "link": "https://en.wikipedia.org/wiki/Self-driving_car#Technology"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Autonomous vs. automated —"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc635a03fd86d9883997051db9d865a56c18737d34d792753e0077ee4eb3da4a93d.png"
+                },
+                "keywords": [
+                    "car"
+                ],
+                "related_keywords": [
+                    "autonomous",
+                    "vehicle"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Self-driving_car&tbm=ilp&ilps=ADNMCi2wDgqZk6vnIeS6bU3uWf1dxxRTeA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GxJN6_7MCgQJ:https://en.wikipedia.org/wiki/Self-driving_car+&cd=12&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "How Google's Self-Driving Car Will Change Everything",
+            "link": "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp",
+            "displayed_link": "https://www.investopedia.com › ... › Lifestyle Advice",
+            "thumbnail": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc648f4665feee2c13ce6238d8c156faf2c.jpeg",
+            "snippet": "Self-driving vehicles, also known as autonomous vehicles, are coming fast. Find out how Google's self-driving car may radically change transportation.",
+            "snippet_highlighted_words": [
+                "autonomous vehicles"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Basic Technology Already In Use",
+                        "link": "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp#toc-basic-technology-already-in-use"
+                    },
+                    {
+                        "title": "Changing Oil Demand",
+                        "link": "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp#toc-changing-oil-demand"
+                    },
+                    {
+                        "title": "Safety Dividend",
+                        "link": "https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp#toc-safety-dividend"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Investopedia is a financial media website headquartered in New York City. Founded in 1999, Investopedia provides investment dictionaries, advice, reviews, ratings, and comparisons of financial products such as securities accounts.",
+                    "icon": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc62afa7c5b50d8adf2872caab2e2eb95a4c28fc069d8fbb455a1f7892d12ccacf5.png"
+                },
+                "keywords": [
+                    "car"
+                ],
+                "related_keywords": [
+                    "cars"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp&tbm=ilp&ilps=ADNMCi0jYtCzKkC9D4LCCBnRqLw5jze8rg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kcGpiEucTgsJ:https://www.investopedia.com/articles/investing/052014/how-googles-selfdriving-car-will-change-everything.asp+&cd=13&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Self-Driving Cars: Everything You Need to Know",
+            "link": "https://www.kbb.com/car-advice/self-driving-cars/",
+            "displayed_link": "https://www.kbb.com › Advice",
+            "thumbnail": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc618d9b03ec97ed07eec147009423b30a6.jpeg",
+            "date": "Aug 3, 2021",
+            "snippet": "In our guide, we'll tell you about self-driving cars, how the tech ... Honda 100 Legend Flagship car is the first Level 3 autonomous car.",
+            "snippet_highlighted_words": [
+                "autonomous car"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Kelley Blue Book is an Irvine, California-based vehicle valuation and automotive research company that is recognized by both consumers and the automotive industry. The company is owned by the Cox Automotive subsidiary of Cox Enterprises.",
+                    "icon": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc6bc588450a452f8a4e60695c90093f13ee3ffbfeac66010f2c8b65e066a057a7b.png"
+                },
+                "keywords": [
+                    "car"
+                ],
+                "related_keywords": [
+                    "autonomous",
+                    "cars"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.kbb.com/car-advice/self-driving-cars/&tbm=ilp&ilps=ADNMCi1wQt8awOlrGD_P927ziGgtBsPaFg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KSIkUxJiAoUJ:https://www.kbb.com/car-advice/self-driving-cars/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Autonomic: Home",
+            "link": "https://autonomic.com/",
+            "displayed_link": "https://autonomic.com",
+            "thumbnail": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc6f01406315115285fc00310a163e24e96.jpeg",
+            "snippet": "Autonomic is leading the charge. Our Transportation Mobility Cloud (TMC) is the first real-time, unifying platform for connected vehicle data.",
+            "snippet_highlighted_words": [
+                "Autonomic",
+                "vehicle"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "autonomic.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc628735516cda6d4704cdb1aeca1b145dab277ecbdfde4444da2478a981e1ba351.png"
+                },
+                "keywords": [
+                    "autonomic"
+                ],
+                "related_keywords": [
+                    "vehicle"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://autonomic.com/&tbm=ilp&ilps=ADNMCi2O2up4f2IjmMIc2fAqM5BMiGwq5w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2xIQzLx5eu8J:https://autonomic.com/+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Waymo: Home",
+            "link": "https://waymo.com/",
+            "displayed_link": "https://waymo.com",
+            "snippet": "Waymo—formerly the Google self-driving car project—stands for a new way forward in mobility. Our mission is to make it safe and easy for people and things ...",
+            "snippet_highlighted_words": [
+                "car"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Waymo LLC is an American autonomous driving technology development company. It is a subsidiary of Alphabet Inc, the parent company of Google. Waymo operates a commercial self-driving taxi service in the greater Phoenix, Arizona area called \"Waymo One\", with Chandler, Arizona fully mapped.",
+                    "icon": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc660af7e52e32cdfe30a749aa6b6bfc5f2c6a2df852864b3594a54496e2517d52b.png"
+                },
+                "keywords": [
+                    "car"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://waymo.com/&tbm=ilp&ilps=ADNMCi3dkjmZKLfGaiUEdCEnWXXdjD-lMw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jH6OCbvTOPQJ:https://waymo.com/+&cd=16&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://waymo.com/+Autonomic+car"
+        },
+        {
+            "position": 7,
+            "title": "Cars That Are Almost Self-Driving in 2022 | U.S. News",
+            "link": "https://cars.usnews.com/cars-trucks/cars-that-are-almost-self-driving",
+            "displayed_link": "https://cars.usnews.com › cars-trucks › cars-that-are-almos...",
+            "date": "May 23, 2022",
+            "snippet": "While automakers haven't introduced a fully autonomous vehicle yet, these cars have advanced driver assistance systems that nearly allow ...",
+            "snippet_highlighted_words": [
+                "autonomous vehicle"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "U.S. News & World Report is an American media company that publishes news, consumer advice, rankings, and analysis. It was launched in 1948 as the merger of domestic-focused weekly newspaper U.S. News and international-focused weekly magazine World Report.",
+                    "icon": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc64583df7bca180b69c33ffc7049cd150271bccc5bfd0efed26d0f0c7f13f3c599.png"
+                },
+                "keywords": [
+                    "car"
+                ],
+                "related_keywords": [
+                    "autonomous",
+                    "cars",
+                    "vehicle"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://cars.usnews.com/cars-trucks/cars-that-are-almost-self-driving&tbm=ilp&ilps=ADNMCi0Bqa0GIWpPFR7aEWvTzc7HZX4Pnw"
+        },
+        {
+            "position": 8,
+            "title": "Autonomous Vehicles: News, Tech, Safety - Car and Driver",
+            "link": "https://www.caranddriver.com/autonomous-vehicles/",
+            "displayed_link": "https://www.caranddriver.com › autonomous-vehicles",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfTbdRNDPtdcqk_dEdQHNIibHsmhggu3eB_rfpQhWKN8FmVWWkMbe1&usqp=CAE&s",
+            "snippet": "The future of self-driving cars is here. Get in-depth news, analysis, and opinion on the artificial intelligence used to drive this mode of transportation.",
+            "snippet_highlighted_words": [
+                "cars"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Car and Driver is an American automotive enthusiast magazine. In 2006 its total circulation was 1.23 million. It is owned by Hearst Magazines, who purchased prior owner Hachette Filipacchi Media U.S. in 2011. It was founded as Sports Cars Illustrated.",
+                    "icon": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc634fd2366476cfcab8f8e9a29d7534f18fbb83598b743f9cd8c11d6740aa1f41e.png"
+                },
+                "keywords": [
+                    "car"
+                ],
+                "related_keywords": [
+                    "autonomous",
+                    "cars",
+                    "vehicles"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.caranddriver.com/autonomous-vehicles/&tbm=ilp&ilps=ADNMCi1rlvRA70zdflS6tAbj5obI-22VIQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zk8NZ74cnbYJ:https://www.caranddriver.com/autonomous-vehicles/+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "Autonomous Vehicles | Latest News, Photos & Videos | WIRED",
+            "link": "https://www.wired.com/tag/autonomous-vehicles/",
+            "displayed_link": "https://www.wired.com › tag › autonomous-vehicles",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshnivYtziDYRyXjws-_YHuCuUdCr484TVTCcweAF5yd2pOhHmlf9dJYaG-zugRQ1ixek&s",
+            "snippet": "You May Be Able to Own a Self-Driving Car After All ... For years, automakers focused on using autonomous technology for “robotaxis,” akin to a shared Uber. A GM ...",
+            "snippet_highlighted_words": [
+                "Car",
+                "autonomous"
+            ],
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshnivYtziDYRyXjws-_YHuCuUdCr484TVTCcweAF5yd2pOhHmlf9dJYaG-zugRQ1ixek&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6704-nIvsue9e9e-le51uNFWIMMqBPFA8UNcPGpsGc3nbg1M9DkybqMzV9_SFMoxEFxQ&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFiK_jq895tkXsPG4dF90MR2IjVWQhGnUhN6Q5ccK6rIAXzBLPpC6v6P8wd0a5zt7mWM&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4nnn1wNWAU4bSHzdgvvisvCah0EKmC3Glcd51duoGgFvItAGCrZNdfgRYQf-kpBYXJ8iN&s"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Wired is a monthly American magazine, published in print and online editions, that focuses on how emerging technologies affect culture, the economy, and politics. Owned by Condé Nast, it is headquartered in San Francisco, California, and has been in publication since March/April 1993.",
+                    "icon": "https://serpapi.com/searches/629e3d28e4a23d82b49184eb/images/36bb0c73466327012d6216f932ff8dc65e3465435aa6694f97a161dc2b171242ebff51ccfb07b11c2b6cdd0620fb2b99.png"
+                },
+                "keywords": [
+                    "car"
+                ],
+                "related_keywords": [
+                    "autonomous",
+                    "vehicles"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.wired.com/tag/autonomous-vehicles/&tbm=ilp&ilps=ADNMCi23oDcwf1AJN5bEB573MLIf1-G9jQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MWAkpCRRXtEJ:https://www.wired.com/tag/autonomous-vehicles/+&cd=22&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.wired.com/tag/autonomous-vehicles/+Autonomic+car"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "benefits of autonomous vehicles",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Benefits+of+autonomous+vehicles&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "autonomous vehicles research",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Autonomous+vehicles+research&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "autonomous vehicles technology",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Autonomous+vehicles+technology&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "self-driving car companies",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Self-driving+car+companies&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "self-driving cars for sale",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Self-driving+cars+for+sale&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "autonomous vehicles examples",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Autonomous+vehicles+examples&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ1QJ6BAguEAE"
+        },
+        {
+            "query": "driverless cars pros and cons",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Driverless+cars+pros+and+cons&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "self-driving car tesla",
+            "link": "https://www.google.com/search?gl=us&hl=en&q=Self-driving+car+Tesla&sa=X&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Autonomic+car&gl=us&hl=en&ei=KT2eYpGfA7KgkPIPu_2coAM&start=10&sa=N&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ8NMDegQIAhBO",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Autonomic+car&gl=us&hl=en&ei=KT2eYpGfA7KgkPIPu_2coAM&start=10&sa=N&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ8tMDegQIAhA8",
+            "3": "https://www.google.com/search?q=Autonomic+car&gl=us&hl=en&ei=KT2eYpGfA7KgkPIPu_2coAM&start=20&sa=N&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ8tMDegQIAhA-",
+            "4": "https://www.google.com/search?q=Autonomic+car&gl=us&hl=en&ei=KT2eYpGfA7KgkPIPu_2coAM&start=30&sa=N&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ8tMDegQIAhBA",
+            "5": "https://www.google.com/search?q=Autonomic+car&gl=us&hl=en&ei=KT2eYpGfA7KgkPIPu_2coAM&start=40&sa=N&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ8tMDegQIAhBC",
+            "6": "https://www.google.com/search?q=Autonomic+car&gl=us&hl=en&ei=KT2eYpGfA7KgkPIPu_2coAM&start=50&sa=N&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ8tMDegQIAhBE",
+            "7": "https://www.google.com/search?q=Autonomic+car&gl=us&hl=en&ei=KT2eYpGfA7KgkPIPu_2coAM&start=60&sa=N&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ8tMDegQIAhBG",
+            "8": "https://www.google.com/search?q=Autonomic+car&gl=us&hl=en&ei=KT2eYpGfA7KgkPIPu_2coAM&start=70&sa=N&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ8tMDegQIAhBI",
+            "9": "https://www.google.com/search?q=Autonomic+car&gl=us&hl=en&ei=KT2eYpGfA7KgkPIPu_2coAM&start=80&sa=N&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ8tMDegQIAhBK",
+            "10": "https://www.google.com/search?q=Autonomic+car&gl=us&hl=en&ei=KT2eYpGfA7KgkPIPu_2coAM&start=90&sa=N&ved=2ahUKEwjR1-7FsJn4AhUyEEQIHbs-BzQQ8tMDegQIAhBM"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Autonomic+car&start=90"
+        }
+    }
+}

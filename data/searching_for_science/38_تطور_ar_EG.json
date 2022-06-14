@@ -1,0 +1,311 @@
+{
+    "search_metadata": {
+        "id": "629e3d8d0574f5dbe2ec9e75",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/79b846d0eb5829bd/629e3d8d0574f5dbe2ec9e75.json",
+        "created_at": "2022-06-06 17:46:53 UTC",
+        "processed_at": "2022-06-06 17:46:53 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&oq=%D8%AA%D8%B7%D9%88%D8%B1&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/79b846d0eb5829bd/629e3d8d0574f5dbe2ec9e75.html",
+        "total_time_taken": 0.95
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "تطور",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "تطور",
+        "total_results": 150000000,
+        "time_taken_displayed": 0.49
+    },
+    "knowledge_graph": {
+        "title": "تطور",
+        "header_images": [
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D8%B1"
+            },
+            {
+                "source": "https://sotor.com/%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1_%D8%B9%D9%86_%D8%AA%D8%B7%D9%88%D8%B1_%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7"
+            },
+            {
+                "source": "https://mawdoo3.com/%D9%85%D8%B1%D8%A7%D8%AD%D9%84_%D8%AA%D8%B7%D9%88%D8%B1_%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86"
+            },
+            {
+                "source": "https://wikiyat.com/wiki/28514"
+            }
+        ],
+        "description": "التطور هو التغير في السمات الوراثية الخاصة بأفراد التجمع الأحيائي عبر الأجيال المتلاحقة. السيرورات التطورية تُحدث تنوعاً حيوياً في كل المستويات التصنيفية، بما فيها الأنواع، وأفراد الكائنات الحية، والجزيئات كالدنا والبروتينات. نشأت الحياة على الأرض ومن ثم تطورت من سلف شامل أخير منذ نحو 3.7 مليار سنة.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D8%B1"
+        },
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "تطور الإنسان",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1+%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdft8qule5lHokSicDul5SBBlBAQCfaoyawNITtQT4fSXd7hr9UbJHni5TfZ4qftNO9ypm-hPTWffK48uwCXW8GSW7WuDKd1qC2aUJc9-EKdkxBhb_bnNn9L3HvyLc38B7ZO20qwnc89_ugM_VHdCgmp07MlgWbnUh40VaY-vHUPN39tjk5D6kzCP0u4ETqUUDOlPkk_fDMJUHM8lagEoHUAmIPpbSBGR6td_qrAdEvbAfnlX_kTNv2yh-GaquioVNTp913U%3D&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQxA16BAhKEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1+%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdft8qule5lHokSicDul5SBBlBAQCfaoyawNITtQT4fSXd7hr9UbJHni5TfZ4qftNO9ypm-hPTWffK48uwCXW8GSW7WuDKd1qC2aUJc9-EKdkxBhb_bnNn9L3HvyLc38B7ZO20qwnc89_ugM_VHdCgmp07MlgWbnUh40VaY-vHUPN39tjk5D6kzCP0u4ETqUUDOlPkk_fDMJUHM8lagEoHUAmIPpbSBGR6td_qrAdEvbAfnlX_kTNv2yh-GaquioVNTp913U%3D",
+                "image": "https://serpapi.com/searches/629e3d8d0574f5dbe2ec9e75/images/dee41acf1f14712bc31d9335df1fe8f374c0cd504d1a7d5d29e814e416c52624e2349095ce7c828c9ebe0e4ed5f86c4d24f6ead10426d7b4045eda0790a15615.jpeg"
+            },
+            {
+                "name": "علم الوراثة",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B9%D9%84%D9%85+%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D8%AB%D8%A9&si=AC1wQDC0KliLIoeyh35S2UVSh9d0at62ormA4JRB9xLdTgvlecnO8HTxKiGVX1dmzJWF22i1iAP0xeJm_V-S2p2EP2zX32YrZ0Y3w6t1o3wgEAQMaWAbvbTrLKYr_d60paLfNUPjcdZpyEZlGilky2T7vLn7geR81yiOIm76zfk-sb0yLqWsHhXjqlGmc949GGsSFjEZpFKbyU6OK0PkCQcsDju0AgqrWJ4cnaBM1wy_p_RVp3X7Km_oPKGvGDeAYVd4yqJPmQJL303q0rckXIRZx4vg7d_5egxkXytMkTFcG-5OnuRE2QOZY5imLusZB5N8pj9xK65n&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQxA16BAhKEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D9%85+%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D8%AB%D8%A9&si=AC1wQDC0KliLIoeyh35S2UVSh9d0at62ormA4JRB9xLdTgvlecnO8HTxKiGVX1dmzJWF22i1iAP0xeJm_V-S2p2EP2zX32YrZ0Y3w6t1o3wgEAQMaWAbvbTrLKYr_d60paLfNUPjcdZpyEZlGilky2T7vLn7geR81yiOIm76zfk-sb0yLqWsHhXjqlGmc949GGsSFjEZpFKbyU6OK0PkCQcsDju0AgqrWJ4cnaBM1wy_p_RVp3X7Km_oPKGvGDeAYVd4yqJPmQJL303q0rckXIRZx4vg7d_5egxkXytMkTFcG-5OnuRE2QOZY5imLusZB5N8pj9xK65n",
+                "image": "https://serpapi.com/searches/629e3d8d0574f5dbe2ec9e75/images/dee41acf1f14712bc31d9335df1fe8f374c0cd504d1a7d5d29e814e416c52624e2349095ce7c828c9ebe0e4ed5f86c4d24f6ead10426d7b4cbeed9f841457a09.jpeg"
+            },
+            {
+                "name": "تنوع حيوي",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D9%86%D9%88%D8%B9+%D8%AD%D9%8A%D9%88%D9%8A&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWu9HvtG-H17isz5A3lpms-zja79RqJGhA_LOFbvuA2w_u_OWBgC45obLLXRP9_nq16oBKko7tYO9EeLv8HXpIW1713Is04e2MnihQhq-YxoRG1XV1QKI_U83-R72dpxR73TYQP_sEKer4wNRUUE_Y9LOcLVIhTDugDX6nzbIaj1YJH4dYdj1Qh-lz6L300Rd1DF5zDZNN_nXTnyxb5U26WIS4HravcfE6raH-3n8RZ3rnNKzBFDZ0sooJ30Uuqe8WSRyqk%3D&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQxA16BAhKEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%86%D9%88%D8%B9+%D8%AD%D9%8A%D9%88%D9%8A&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWu9HvtG-H17isz5A3lpms-zja79RqJGhA_LOFbvuA2w_u_OWBgC45obLLXRP9_nq16oBKko7tYO9EeLv8HXpIW1713Is04e2MnihQhq-YxoRG1XV1QKI_U83-R72dpxR73TYQP_sEKer4wNRUUE_Y9LOcLVIhTDugDX6nzbIaj1YJH4dYdj1Qh-lz6L300Rd1DF5zDZNN_nXTnyxb5U26WIS4HravcfE6raH-3n8RZ3rnNKzBFDZ0sooJ30Uuqe8WSRyqk%3D",
+                "image": "https://serpapi.com/searches/629e3d8d0574f5dbe2ec9e75/images/dee41acf1f14712bc31d9335df1fe8f374c0cd504d1a7d5d29e814e416c52624e2349095ce7c828c9ebe0e4ed5f86c4d24f6ead10426d7b48e8127e67971f6c4.jpeg"
+            },
+            {
+                "name": "علم الأجنة",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B9%D9%84%D9%85+%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A9&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgAVFfYq3-3loU1EtnDIfY3-3hPGMZTaAKp4e5iPSt_WZYXbTIbiQTTdAHI57YEL2S61li-KYeeOb7ssPPh26AaGQn-rh0fsu9pp5o7zA2wwt8QDj-4flOeZGlm7KZ8lLldmf5WslmUHdt_x2BzMWIXZwPm_qfx7MqNZqlG3DuWr9Q6WgPxnWRsmV8cn8rgRKVIkL0hH6oTkBS3G7H5vBMXHy--dKc4qRh_1ye3VBN-yzyjU9gvpdBTIEpfqp2YLBOIg2Crw%3D&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQxA16BAhKEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D9%85+%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A9&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgAVFfYq3-3loU1EtnDIfY3-3hPGMZTaAKp4e5iPSt_WZYXbTIbiQTTdAHI57YEL2S61li-KYeeOb7ssPPh26AaGQn-rh0fsu9pp5o7zA2wwt8QDj-4flOeZGlm7KZ8lLldmf5WslmUHdt_x2BzMWIXZwPm_qfx7MqNZqlG3DuWr9Q6WgPxnWRsmV8cn8rgRKVIkL0hH6oTkBS3G7H5vBMXHy--dKc4qRh_1ye3VBN-yzyjU9gvpdBTIEpfqp2YLBOIg2Crw%3D",
+                "image": "https://serpapi.com/searches/629e3d8d0574f5dbe2ec9e75/images/dee41acf1f14712bc31d9335df1fe8f374c0cd504d1a7d5d29e814e416c52624e2349095ce7c828c9ebe0e4ed5f86c4d24f6ead10426d7b4d23f27be452beb3a.jpeg"
+            }
+        ],
+        "يبحث_الأشخاص_أيضًا_عن_link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&stick=H4sIAAAAAAAAAONgFuLQz9U3MMqyqFKCs7QEgzNTUssTK4v9UitKgktSC4oXsXLcWHVj-82OGxt3sDICANXGqNI3AAAA&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQMSgAegQIShAB",
+        "يبحث_الأشخاص_أيضًا_عن_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMqyqFKCs7QEgzNTUssTK4v9UitKgktSC4oXsXLcWHVj-82OGxt3sDICANXGqNI3AAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "ماهي الأدلة على التطور ؟",
+            "link": "https://www.youtube.com/watch?v=9MTPzUT3ljU",
+            "thumbnail": "https://serpapi.com/searches/629e3d8d0574f5dbe2ec9e75/images/ba4c330321b2fa73e8a1dec38b230a81a7bb508e0032fa8280cab0605fc6e55e.jpeg",
+            "channel": "Stated Clearly",
+            "duration": "11:53",
+            "platform": "YouTube",
+            "date": "08‏/10‏/2016"
+        },
+        {
+            "position": 2,
+            "title": "هل نظرية التطور مهمة فعلًا؟",
+            "link": "https://www.youtube.com/watch?v=MpPKYUueF18",
+            "thumbnail": "https://serpapi.com/searches/629e3d8d0574f5dbe2ec9e75/images/ba4c330321b2fa734a6dc21b9b163cd9a7afceedad7442f1431b98855543466e.jpeg",
+            "channel": "Stated Clearly",
+            "duration": "10:02",
+            "platform": "YouTube",
+            "date": "19‏/04‏/2018"
+        },
+        {
+            "position": 3,
+            "title": "Evolution of Arabic Music | تطور الموسيقى العربية",
+            "link": "https://www.youtube.com/watch?v=cPvyl6MYxlg",
+            "thumbnail": "https://serpapi.com/searches/629e3d8d0574f5dbe2ec9e75/images/ba4c330321b2fa7386d14f482d5f0b13ccede60b16ebfa1c629f5f499f057af2.jpeg",
+            "channel": "Alaa Wardi",
+            "duration": "6:18",
+            "platform": "YouTube",
+            "date": "26‏/04‏/2016"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "تطور - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D8%B1",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تطور",
+            "snippet": "التطور هو التغير في السمات الوراثية الخاصة بأفراد التجمع الأحيائي عبر الأجيال المتلاحقة. السيرورات التطورية تُحدث تنوعاً حيوياً في كل المستويات التصنيفية، ...",
+            "snippet_highlighted_words": [
+                "التطور"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "نقد التطور",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%AF_%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1"
+                    },
+                    {
+                        "title": "مدخل إلى التطور",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D8%AE%D9%84_%D8%A5%D9%84%D9%89_%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1"
+                    },
+                    {
+                        "title": "تطور الإنسان",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D8%B1_%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86"
+                    },
+                    {
+                        "title": "تطور العين",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D8%B1_%D8%A7%D9%84%D8%B9%D9%8A%D9%86"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "تطور - ويكيبيديا",
+            "link": "https://arz.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D8%B1",
+            "displayed_link": "https://arz.wikipedia.org › wiki › تطور",
+            "snippet": "التطور( فى البيولوجيا-علم الحياة) هو العملية اللى يتغير فيها صفات الكائنات الحية بمرور الزمن . ويقصد بالتطور ايضا التغييرات البسيطة اللى تحصل فى الچينات من ...",
+            "snippet_highlighted_words": [
+                "التطور",
+                "بالتطور"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "نظرية التطور: بعد 162عاما على صدوره، \"في أصل الأنواع\" ما زال ...",
+            "link": "https://www.bbc.com/arabic/science-and-tech-59368293",
+            "displayed_link": "https://www.bbc.com › science-and-tech-59368293",
+            "snippet": "ولماذا تفادى داروين الحديث عن تطور الجنس البشري في كتابه؟ ... انطباعا خاطئا في بعض الأحيان بأن نظرية التطور (النشوء والارتقاء) تفتق عنها ذهن ...",
+            "snippet_highlighted_words": [
+                "تطور",
+                "التطور"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٤‏/١١‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "هل كان داروين على خطأ؟ ثماني حقائق صادمة عن تطور الإنسان - BBC",
+            "link": "https://www.bbc.com/arabic/science-and-tech-50042500",
+            "displayed_link": "https://www.bbc.com › science-and-tech-50042500",
+            "snippet": "لقد انحرف المسار الحيوي لتطور البشر عن مسار تطور الشمبانزي والغوريلا منذ حوالي ستة ملايين عام. وهذا الأمر يجعل من القرود أبناء عمومة بعيدين لنا ...",
+            "snippet_highlighted_words": [
+                "لتطور",
+                "تطور"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٥‏/١٠‏/٢٠١٩ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "تعريف و معنى تطور في معجم المعاني الجامع - معجم عربي عربي",
+            "link": "https://www.almaany.com/ar/dict/ar-ar/%D8%AA%D8%B7%D9%88%D8%B1/",
+            "displayed_link": "https://www.almaany.com › dict › ar-ar › تطور",
+            "snippet": "تعريف و معنى تطور في معجم المعاني الجامع - معجم عربي عربي · التَّطَوُّرُ : التغيّر التدريجيّ الذي يحدث في بِنْيّةِ الكائناتِ الحَيَّةِ وسلوكِها، ويُطلَقُ أَيضاً ...",
+            "snippet_highlighted_words": [
+                "تطور"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "تطور - الترجمة إلى الإنجليزية - أمثلة العربية | Reverso Context",
+            "link": "https://context.reverso.net/%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%85%D8%A9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9/%D8%AA%D8%B7%D9%88%D8%B1",
+            "displayed_link": "https://context.reverso.net › الترجمة › تطور",
+            "snippet": "لقد تابع الوفد الصيني بدقة تطور الوضع في كوسوفو. The Chinese delegation has been closely observing the development of the situation in Kosovo.",
+            "snippet_highlighted_words": [
+                "تطور",
+                "development"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "ما هي نظرية التطور - موضوع",
+            "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D9%86%D8%B8%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1",
+            "displayed_link": "https://mawdoo3.com › تعليم › علوم",
+            "snippet": "التعريف بنظرية التطور. يُعرَّف التَّطور (بالإنجليزية: Evolution) بأنَّه التغيُّر فِي الصّفات الوراثية المُتَوارَثَة بَين الكائنات الحية مَع الوَقتِ، مما ...",
+            "snippet_highlighted_words": [
+                "التطور",
+                "Evolution"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "تطوُّر أخبار وأبحاث - للعِلم - Scientific American",
+            "link": "https://www.scientificamerican.com/arabic/evolution/",
+            "displayed_link": "https://www.scientificamerican.com › arabic › evolution",
+            "snippet": "تطوُّر · علماء مصريون يرشحون لك 10 كتب علمية مثيرة لتقرأها · الحيوانات المبكرة طورت أنظمة بيئية معقدة قبل الانفجار الكامبري · الحيوانات الاجتماعية تسعى لفرض قوتها ...",
+            "snippet_highlighted_words": [
+                "تطوُّر"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "نظرية التطور.. هل تعني الإلحاد؟ | الجزيرة نت",
+            "link": "https://www.aljazeera.net/blogs/2017/11/27/%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1-%D9%87%D9%84-%D8%AA%D8%B9%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D9%84%D8%AD%D8%A7%D8%AF",
+            "displayed_link": "https://www.aljazeera.net › blogs › 2017/11/27 › نظرية...",
+            "snippet": "تعتبر نظرية التطور لصاحبها ”داروين” السلاح الأقوى الذي يستخدمه الطرف الملحد في مناظراته مع الطرف المؤمن، ولا تكاد تمر معركة بين الإيمان ...",
+            "snippet_highlighted_words": [
+                "التطور"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٧‏/١١‏/٢٠١٧ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "تطور بالانجليزي",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "نظرية التطور",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%86%D8%B8%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "أنواع التطور",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "نظرية التطور في القرآن",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%86%D8%B8%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1+%D9%81%D9%8A+%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "مفهوم التطور PDF",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D9%81%D9%87%D9%88%D9%85+%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1+PDF&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ1QJ6BAglEAE"
+        },
+        {
+            "query": "هل نظرية التطور مثبتة علميا",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%87%D9%84+%D9%86%D8%B8%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1+%D9%85%D8%AB%D8%A8%D8%AA%D8%A9+%D8%B9%D9%84%D9%85%D9%8A%D8%A7&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "صاحب نظرية التطور",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B5%D8%A7%D8%AD%D8%A8+%D9%86%D8%B8%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ1QJ6BAghEAE"
+        },
+        {
+            "query": "فوائد نظرية التطور",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%81%D9%88%D8%A7%D8%A6%D8%AF+%D9%86%D8%B8%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1&sa=X&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ1QJ6BAgfEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&gl=eg&hl=ar&ei=jT2eYsqxLM-iqtsPhvCZgA0&start=10&sa=N&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&gl=eg&hl=ar&ei=jT2eYsqxLM-iqtsPhvCZgA0&start=10&sa=N&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&gl=eg&hl=ar&ei=jT2eYsqxLM-iqtsPhvCZgA0&start=20&sa=N&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&gl=eg&hl=ar&ei=jT2eYsqxLM-iqtsPhvCZgA0&start=30&sa=N&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&gl=eg&hl=ar&ei=jT2eYsqxLM-iqtsPhvCZgA0&start=40&sa=N&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&gl=eg&hl=ar&ei=jT2eYsqxLM-iqtsPhvCZgA0&start=50&sa=N&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&gl=eg&hl=ar&ei=jT2eYsqxLM-iqtsPhvCZgA0&start=60&sa=N&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&gl=eg&hl=ar&ei=jT2eYsqxLM-iqtsPhvCZgA0&start=70&sa=N&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&gl=eg&hl=ar&ei=jT2eYsqxLM-iqtsPhvCZgA0&start=80&sa=N&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D8%B1&gl=eg&hl=ar&ei=jT2eYsqxLM-iqtsPhvCZgA0&start=90&sa=N&ved=2ahUKEwiKrO_1sJn4AhVPkWoFHQZ4BtAQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1&start=90"
+        }
+    }
+}

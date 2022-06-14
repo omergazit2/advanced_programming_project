@@ -1,0 +1,532 @@
+{
+    "search_metadata": {
+        "id": "629e37d366440a1dddfc55fa",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/48971c33d223d934/629e37d366440a1dddfc55fa.json",
+        "created_at": "2022-06-06 17:22:27 UTC",
+        "processed_at": "2022-06-06 17:22:27 UTC",
+        "google_url": "https://www.google.com/search?q=protein+folding&oq=protein+folding&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/48971c33d223d934/629e37d366440a1dddfc55fa.html",
+        "total_time_taken": 1.11
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "protein folding",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "protein folding",
+        "total_results": 75900000,
+        "time_taken_displayed": 0.46
+    },
+    "knowledge_graph": {
+        "title": "Protein folding",
+        "image": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/bd9047d86c45d7b46a8910898f291366855011c662916c30.jpeg",
+        "description": "Protein folding is the physical process by which a protein chain is translated to its native three-dimensional structure, typically a \"folded\" conformation by which the protein becomes biologically functional.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Protein_folding"
+        },
+        "people_also_search_for": [
+            {
+                "name": "Translation",
+                "link": "https://www.google.com/search?si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgDAp7h-TeAEdfVj_E7H_sjKm-_Cvzs9_Z_BYKKkwQAoX1piDgErUCJMye0QmOA6okoBCon4Z9wS4la3kCGvG912aARTM_YUiQpAtSM_EGSCndw6nDuj7wXFOGa6tK_1x5-1AKozentptJ2o4oUhGU7bx8sLhIz5Jh4w_vU2Lqg4noQhwUuZ_GBtFU3jnsJ-ovTLDLz7DwJOaqTut1H82xx6j_L6-DQXrwlHxuj289EIgHnKRlcvAA1k6UvhgJDWxHKfgIbg%3D&q=Translation+(biology)&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQs9oBKAB6BAhcEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Translation+%28biology%29&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgDAp7h-TeAEdfVj_E7H_sjKm-_Cvzs9_Z_BYKKkwQAoX1piDgErUCJMye0QmOA6okoBCon4Z9wS4la3kCGvG912aARTM_YUiQpAtSM_EGSCndw6nDuj7wXFOGa6tK_1x5-1AKozentptJ2o4oUhGU7bx8sLhIz5Jh4w_vU2Lqg4noQhwUuZ_GBtFU3jnsJ-ovTLDLz7DwJOaqTut1H82xx6j_L6-DQXrwlHxuj289EIgHnKRlcvAA1k6UvhgJDWxHKfgIbg%3D",
+                "image": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/bd9047d86c45d7b46a8910898f291366d4132fbf2c39dd0f78160b94d0d551ef9df3272df95a49a3087dbca5b3619f0c.jpeg"
+            },
+            {
+                "name": "Denaturation",
+                "link": "https://www.google.com/search?si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdY6M4aiJcOnTM_5cZVWuiooiKwshCzFwCUbLO6bXQIfOhQlkkKOjVGFOabBa605Q0MlmMVQ4qyH248QCv9cZ93nc4SxIqUYNxjbFRNxZyU5z9hShtO-bFNSUKb5r0oAjDIml4CAeI9N98OjeWqTQLet4ZZ7iK-vFsw9Mw6YRqifzGmLM1nJhC4JRV0FRAQKKjLIM_UUm26TtYuFhUf0LwSRxDg_K0FGLvvobFR22BwiYh7-30Xj_cX38TgLoyMYocYb-si4%3D&q=Denaturation&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQs9oBKAF6BAhcEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Denaturation&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdY6M4aiJcOnTM_5cZVWuiooiKwshCzFwCUbLO6bXQIfOhQlkkKOjVGFOabBa605Q0MlmMVQ4qyH248QCv9cZ93nc4SxIqUYNxjbFRNxZyU5z9hShtO-bFNSUKb5r0oAjDIml4CAeI9N98OjeWqTQLet4ZZ7iK-vFsw9Mw6YRqifzGmLM1nJhC4JRV0FRAQKKjLIM_UUm26TtYuFhUf0LwSRxDg_K0FGLvvobFR22BwiYh7-30Xj_cX38TgLoyMYocYb-si4%3D",
+                "image": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/bd9047d86c45d7b46a8910898f291366d4132fbf2c39dd0f78160b94d0d551eff9e2d1c7fb55aca9b2b2411f052020db.png"
+            },
+            {
+                "name": "Ubiquitination",
+                "link": "https://www.google.com/search?si=AC1wQDC0KliLIoeyh35S2UVSh9d0at62ormA4JRB9xLdTgvleVbPoA33NaEjLMhkyISSVtI4W1FvT7abwl8S7XaYAiIKoL_GZYjF8MehFAfLTMHImt8LwNaeyyjf_dpXm8Pv0_WGqBOhQ3C9o3-jXGs9ZPDkxTXEkAI6D47BLNr0rX2fXd17rUx68hUX0jprtKP44iy-0vVXdlRDXboNOiPsfmIbEhv8byvkmlBimzb4wW7QhLzf6egiH9OLWcR8-CGfbFUYL7_g7WG12651V9HrfoF0IKDJzsS0qC0tpKQ5lN8KUUMfxOs%3D&q=Ubiquitination&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQs9oBKAJ6BAhcEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ubiquitination&si=AC1wQDC0KliLIoeyh35S2UVSh9d0at62ormA4JRB9xLdTgvleVbPoA33NaEjLMhkyISSVtI4W1FvT7abwl8S7XaYAiIKoL_GZYjF8MehFAfLTMHImt8LwNaeyyjf_dpXm8Pv0_WGqBOhQ3C9o3-jXGs9ZPDkxTXEkAI6D47BLNr0rX2fXd17rUx68hUX0jprtKP44iy-0vVXdlRDXboNOiPsfmIbEhv8byvkmlBimzb4wW7QhLzf6egiH9OLWcR8-CGfbFUYL7_g7WG12651V9HrfoF0IKDJzsS0qC0tpKQ5lN8KUUMfxOs%3D",
+                "image": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/bd9047d86c45d7b46a8910898f291366d4132fbf2c39dd0f78160b94d0d551efa114b90d2d0072758b1c1715d05711ba.jpeg"
+            },
+            {
+                "name": "Apoptosis",
+                "link": "https://www.google.com/search?si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGSklK8Uv81-IMBfZtDWhS9Ge31iNMGnhkBmbigrTDfyah8eEhWikUizgRWduYL6NlUkRwjcnlt5NkcmQ_pXioUy-oDUcObsQ1jmmw4tCmNPsRcR9P7KZN7LNYCt0f_X5MhRgHLehhh35i3Z1jr-PY_Rj-lQ__o74ssPZXigo-GZX_qbBFdnEVTvXsXVi6nnfI4K8yfITAauqFxQdkAjL0p33a8cCs-OrcSTZo9AwC45yVavqyA%3D%3D&q=Apoptosis&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQs9oBKAN6BAhcEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apoptosis&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGSklK8Uv81-IMBfZtDWhS9Ge31iNMGnhkBmbigrTDfyah8eEhWikUizgRWduYL6NlUkRwjcnlt5NkcmQ_pXioUy-oDUcObsQ1jmmw4tCmNPsRcR9P7KZN7LNYCt0f_X5MhRgHLehhh35i3Z1jr-PY_Rj-lQ__o74ssPZXigo-GZX_qbBFdnEVTvXsXVi6nnfI4K8yfITAauqFxQdkAjL0p33a8cCs-OrcSTZo9AwC45yVavqyA%3D%3D",
+                "image": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/bd9047d86c45d7b46a8910898f291366d4132fbf2c39dd0f78160b94d0d551efb4dacd5f008ecd40169bfb8e07c88738.png"
+            }
+        ],
+        "protein_folding_book": [
+            {
+                "name": "Protein Folding: An Introd...",
+                "link": "https://www.google.com/search?q=Protein+Folding:+An+Introduction+Cl%C3%A1udio+M.+Gomes&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFbi0U_XNzTKNTA2tSg00xLJTrbST87Pzc3Ps0rJL88rTyxKKV7FyOqUn59dvIjVKKAovyQ1M0_BLT8nJTMv3UrBMU_BM6-kKD-lNLkkMz9PwTnn8MLSlMx8BV89Bff83NTiHayMAB0-tAhwAAAA&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQxA16BAhdEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Protein+Folding%3A+An+Introduction+Cl%C3%A1udio+M.+Gomes&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFbi0U_XNzTKNTA2tSg00xLJTrbST87Pzc3Ps0rJL88rTyxKKV7FyOqUn59dvIjVKKAovyQ1M0_BLT8nJTMv3UrBMU_BM6-kKD-lNLkkMz9PwTnn8MLSlMx8BV89Bff83NTiHayMAB0-tAhwAAAA",
+                "image": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/bd9047d86c45d7b46a8910898f29136616a8e45916ff9c1280d7146ac27e3927fdc694a676a4b5fb982ee70b5d7339fd.jpeg"
+            },
+            {
+                "name": "Molecular Biology of Protein F...",
+                "link": "https://www.google.com/search?q=molecular+biology+of+protein+folding,+part+b&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFbi1U_XNzRMMjNItyzIsNASyU620k_Oz83Nz7NKyS_PK08sSilexcjqlJ-fXbyIVSc3Pyc1uTQnsUghKTM_Jz-9UiE_TaGgKL8kNTNPIS0_JyUzL11HoSCxqEQhaQcrIwC1hgWPawAAAA&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQxA16BAhdEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=molecular+biology+of+protein+folding%2C+part+b&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFbi1U_XNzRMMjNItyzIsNASyU620k_Oz83Nz7NKyS_PK08sSilexcjqlJ-fXbyIVSc3Pyc1uTQnsUghKTM_Jz-9UiE_TaGgKL8kNTNPIS0_JyUzL11HoSCxqEQhaQcrIwC1hgWPawAAAA",
+                "image": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/bd9047d86c45d7b46a8910898f29136616a8e45916ff9c1280d7146ac27e39270197f3a9a7c85dfcd4307e39888d9a7a.jpeg"
+            },
+            {
+                "name": "Protein folding",
+                "link": "https://www.google.com/search?q=Protein+folding+Charis+Gh%C3%A9lis&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFbiArGSTUxyTY20RLKTrfST83Nz8_OsUvLL88oTi1KKVzGyOuXnZxcvYpULKMovSc3MU0jLz0nJzEtXcM5ILMosVnDPOLwyJ7N4BysjAN_aJQ9aAAAA&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQxA16BAhdEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Protein+folding+Charis+Gh%C3%A9lis&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFbiArGSTUxyTY20RLKTrfST83Nz8_OsUvLL88oTi1KKVzGyOuXnZxcvYpULKMovSc3MU0jLz0nJzEtXcM5ILMosVnDPOLwyJ7N4BysjAN_aJQ9aAAAA",
+                "image": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/bd9047d86c45d7b46a8910898f29136616a8e45916ff9c1280d7146ac27e392743847ccfd342ba22ed355a97650afc60.jpeg"
+            },
+            {
+                "name": "The Protein Folding...",
+                "link": "https://www.google.com/search?q=The+Protein+Folding+Problem+and+Its+Solutions&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFbi0U_XNzRKys01qSo21BLJTrbST87Pzc3Ps0rJL88rTyxKKV7FyOqUn59dvIhVNyQjVSGgKL8kNTNPwS0_JyUzLx3ET8pJzVVIzEtR8CwpVgjOzyktyczPK97ByggA54BZrWsAAAA&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQxA16BAhdEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Protein+Folding+Problem+and+Its+Solutions&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFbi0U_XNzRKys01qSo21BLJTrbST87Pzc3Ps0rJL88rTyxKKV7FyOqUn59dvIhVNyQjVSGgKL8kNTNPwS0_JyUzLx3ET8pJzVVIzEtR8CwpVgjOzyktyczPK97ByggA54BZrWsAAAA",
+                "image": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/bd9047d86c45d7b46a8910898f29136616a8e45916ff9c1280d7146ac27e3927e20aaaf649f0f9bc06ba5498f4fc2e67.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "PROTEIN FOLDING",
+            "link": "https://www.youtube.com/watch?v=1peFJ_-N7V8",
+            "thumbnail": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/63acff656c9f60f46557f6e6348a1b2bd4727e6713cf9403d39854141ea14014.jpeg",
+            "channel": "Neural Academy",
+            "duration": "4:32",
+            "platform": "YouTube",
+            "date": "Mar 2, 2019"
+        },
+        {
+            "position": 2,
+            "title": "Protein Structure and Folding",
+            "link": "https://www.youtube.com/watch?v=hok2hyED9go",
+            "thumbnail": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/63acff656c9f60f41d45abdd285c938f8e556abf9e8982b73df2f5ad77752f82.jpeg",
+            "channel": "Amoeba Sisters",
+            "duration": "7:46",
+            "platform": "YouTube",
+            "date": "Sep 24, 2018"
+        },
+        {
+            "position": 3,
+            "title": "Protein folding explained",
+            "link": "https://www.youtube.com/watch?v=KpedmJdrTpY&vl=en",
+            "thumbnail": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/63acff656c9f60f4ffc46df061b212ba1752c21d6338e9cc5bdad8b7c9ebce32.jpeg",
+            "channel": "DeepMind",
+            "duration": "1:52",
+            "platform": "YouTube",
+            "date": "Nov 30, 2020"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is protein folding and why is it important?",
+            "snippet": "Protein folding occurs in a cellular compartment called the endoplasmic reticulum. This is a vital cellular process because proteins must be correctly folded into specific, three-dimensional shapes in order to function correctly. Unfolded or misfolded proteins contribute to the pathology of many diseases.",
+            "title": "Protein Folding - an overview | ScienceDirect Topics",
+            "link": "https://www.sciencedirect.com/topics/neuroscience/protein-folding",
+            "displayed_link": "https://www.sciencedirect.com › topics › neuroscience › p..."
+        },
+        {
+            "question": "What is the process of protein folding?",
+            "snippet": "Protein folding is a process by which a polypeptide chain folds to become a biologically active protein in its native 3D structure. Protein structure is important and is linked to its function. Folded Proteins are held together by various molecular interactions.",
+            "title": "Protein folding, misfolding, and coping mechanism of cells–A ...",
+            "link": "https://www.peertechzpublications.com/articles/OJCPS-4-103.php",
+            "displayed_link": "https://www.peertechzpublications.com › OJCPS-4-103"
+        },
+        {
+            "question": "What are the 4 stages of protein folding?",
+            "snippet": "There are four stages of protein folding, primary, secondary, tertiary and quarternary. The secondary structure is the protein beginning to fold up. It can have two types of structure: the alpha helix, a coil shape held by hydrogen bonds in the same direction as the coil.",
+            "title": "Explain what the stages of protein folding are and how the ... - MyTutor",
+            "link": "https://www.mytutor.co.uk/answers/5581/A-Level/Biology/Explain-what-the-stages-of-protein-folding-are-and-how-the-protein-is-held-in-its-3-D-shape/",
+            "displayed_link": "https://www.mytutor.co.uk › answers › A-Level › Biology"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Protein folding is the physical process by which a protein chain is translated to its native three-dimensional structure, typically a \"folded\" conformation by which the protein becomes biologically functional.",
+        "link": "https://en.wikipedia.org/wiki/Protein_folding#:~:text=Protein%20folding%20is%20the%20physical,the%20protein%20becomes%20biologically%20functional.",
+        "displayed_link": "https://en.wikipedia.org › wiki › Protein_folding",
+        "snippet": "Protein folding is the physical process by which a protein chain is translated to its native three-dimensional structure, typically a \"folded\" conformation by which the protein becomes biologically functional.",
+        "people_also_search_for": [],
+        "about_this_result": {
+            "source": {
+                "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                "icon": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/a5421a2bd7c188f072c040ecee6192478eaea351d862ec508a02ceeb307dbdbb9c0765200cb2aa95ae19023d277b2243.png"
+            },
+            "keywords": [
+                "protein",
+                "folding"
+            ],
+            "languages": [
+                "English"
+            ],
+            "regions": [
+                "the United States"
+            ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Protein_folding&tbm=ilp&ilps=ADNMCi2ZZRsUCPuVDJNXNdLfoL1kKK01eg"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Protein Folding: The Good, the Bad, and the Ugly - Science In ...",
+            "link": "https://sitn.hms.harvard.edu/flash/2010/issue65/",
+            "displayed_link": "https://sitn.hms.harvard.edu › flash › issue65",
+            "date": "Feb 28, 2010",
+            "snippet": "Proteins fold into a functional shape. A protein starts off in the cell as a long chain of, on average, 300 building blocks called amino acids.",
+            "snippet_highlighted_words": [
+                "Proteins fold"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Harvard Medical School is the graduate medical school of Harvard University and is located in the Longwood Medical Area of Boston, Massachusetts."
+                },
+                "keywords": [
+                    "protein",
+                    "folding"
+                ],
+                "related_keywords": [
+                    "proteins",
+                    "fold"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://sitn.hms.harvard.edu/flash/2010/issue65/&tbm=ilp&ilps=ADNMCi1GdMIAjESnYHQN6kX6_IR6CkrYFQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:j_pUhjiaRWwJ:https://sitn.hms.harvard.edu/flash/2010/issue65/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "'It will change everything': DeepMind's AI makes gigantic leap ...",
+            "link": "https://www.nature.com/articles/d41586-020-03348-4",
+            "displayed_link": "https://www.nature.com › news",
+            "date": "Nov 30, 2020",
+            "snippet": "AI protein-folding algorithms solve structures faster than ever. The ability to accurately predict protein structures from their amino-acid ...",
+            "snippet_highlighted_words": [
+                "protein",
+                "folding"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "The Structure Problem",
+                        "link": "https://www.nature.com/articles/d41586-020-03348-4#:~:text=The%20structure%20problem"
+                    },
+                    {
+                        "title": "Startling Accuracy",
+                        "link": "https://www.nature.com/articles/d41586-020-03348-4#:~:text=Startling%20accuracy,-CASP%20takes%20place%20over%20several"
+                    },
+                    {
+                        "title": "Faster Structures",
+                        "link": "https://www.nature.com/articles/d41586-020-03348-4#:~:text=Faster%20structures"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Nature is a British weekly scientific journal founded and based in London, England. As a multidisciplinary publication, Nature features peer-reviewed research from a variety of academic disciplines, mainly in science and technology.",
+                    "icon": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/3b60e6d16fcd9445ba3b85fe0bb1be22db1e00f44efa1a4fce3df7c3b634485864660f7d37533c158e53775547a08562.png"
+                },
+                "keywords": [
+                    "protein",
+                    "folding"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nature.com/articles/d41586-020-03348-4&tbm=ilp&ilps=ADNMCi1Nz1RweZH5jEl34wJOI50etnkdlg"
+        },
+        {
+            "position": 3,
+            "title": "Protein Folding - News-Medical.net",
+            "link": "https://www.news-medical.net/life-sciences/Protein-Folding.aspx",
+            "displayed_link": "https://www.news-medical.net › life-sciences › Protein-...",
+            "snippet": "Protein folding is a process by which a polypeptide chain folds to become a biologically active protein in its native 3D structure. Protein structure is ...",
+            "snippet_highlighted_words": [
+                "Protein folding"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "news-medical.net was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/3b60e6d16fcd9445ba3b85fe0bb1be22d1e1ab0b3173c8edc9a8976751b1d3852e1b6d7a80cea2195f302afdad1e0c64.png"
+                },
+                "keywords": [
+                    "protein",
+                    "folding"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.news-medical.net/life-sciences/Protein-Folding.aspx&tbm=ilp&ilps=ADNMCi2_M4yBT6rKJN5HpG8-1ElPyRKHJA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:V6JQ5R0E02EJ:https://www.news-medical.net/life-sciences/Protein-Folding.aspx+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Protein Folding - an overview | ScienceDirect Topics",
+            "link": "https://www.sciencedirect.com/topics/neuroscience/protein-folding",
+            "displayed_link": "https://www.sciencedirect.com › topics › neuroscience › p...",
+            "snippet": "Protein folding occurs in a cellular compartment called the endoplasmic reticulum. This is a vital cellular process because proteins must be correctly folded ...",
+            "snippet_highlighted_words": [
+                "Protein folding"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Protein Synthesis And...",
+                        "link": "https://www.sciencedirect.com/topics/neuroscience/protein-folding#:~:text=Protein%20Synthesis%20and%20Turnover"
+                    },
+                    {
+                        "title": "Summary",
+                        "link": "https://www.sciencedirect.com/topics/neuroscience/protein-folding#:~:text=Summary"
+                    },
+                    {
+                        "title": "Proteomics And Systems...",
+                        "link": "https://www.sciencedirect.com/topics/neuroscience/protein-folding#:~:text=Proteomics%20and%20Systems%20Biology"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "ScienceDirect is a website which provides access to a large bibliographic database of scientific and medical publications of the Dutch publisher Elsevier. It hosts over 18 million pieces of content from more than 4,000 academic journals and 30,000 e-books of this publisher.",
+                    "icon": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/3b60e6d16fcd9445ba3b85fe0bb1be22c8d32f22f80600f62f536928b5234f35317d2f890f04abb9d94b1922b54fcff8.png"
+                },
+                "keywords": [
+                    "protein",
+                    "folding"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.sciencedirect.com/topics/neuroscience/protein-folding&tbm=ilp&ilps=ADNMCi03GUpbgEY9B99Zon58-g0BFYrd-A"
+        },
+        {
+            "position": 5,
+            "title": "Protein folding: Much more intricate than we thought - C&EN",
+            "link": "https://cen.acs.org/articles/95/i31/Protein-folding-Much-intricate-thought.html",
+            "displayed_link": "https://cen.acs.org › articles › Protein-folding-Much-int...",
+            "date": "Jul 31, 2017",
+            "snippet": "Protein folding is a constantly ongoing, complicated biological opera itself, with a huge cast of performers, an intricate plot, and dramatic ...",
+            "snippet_highlighted_words": [
+                "Protein folding"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Chemical & Engineering News is a weekly news magazine published by the American Chemical Society, providing professional and technical news and analysis in the fields of chemistry and chemical engineering.",
+                    "icon": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/3b60e6d16fcd9445ba3b85fe0bb1be22e0d4082c0eda5396d02aa21f614e0628744c8ea6c09fe38841e9432f32a10d53.png"
+                },
+                "keywords": [
+                    "protein",
+                    "folding"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://cen.acs.org/articles/95/i31/Protein-folding-Much-intricate-thought.html&tbm=ilp&ilps=ADNMCi3Nd7BYwBK9EfFH072blBT37JhVyA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:znBD-2u9TvwJ:https://cen.acs.org/articles/95/i31/Protein-folding-Much-intricate-thought.html+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "DeepMind's protein-folding AI has solved a 50-year-old grand ...",
+            "link": "https://www.technologyreview.com/2020/11/30/1012712/deepmind-protein-folding-ai-solved-biology-science-drugs-disease/",
+            "displayed_link": "https://www.technologyreview.com › 2020/11/30 › dee...",
+            "date": "Nov 30, 2020",
+            "snippet": "DeepMind's protein-folding AI has solved a 50-year-old grand challenge of biology ... AlphaFold can predict the shape of proteins to within the ...",
+            "snippet_highlighted_words": [
+                "protein",
+                "folding"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "MIT Technology Review is a bimonthly magazine wholly owned by the Massachusetts Institute of Technology, and editorially independent of the university. It was founded in 1899 as The Technology Review, and was re-launched without \"The\" in its name on April 23, 1998 under then publisher R. Bruce Journey.",
+                    "icon": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/3b60e6d16fcd9445ba3b85fe0bb1be223e31466dfcc660bf7ff95f801f9cf8a8cba93f06e7dee60cb2ba39c544df096d.png"
+                },
+                "keywords": [
+                    "protein",
+                    "folding"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.technologyreview.com/2020/11/30/1012712/deepmind-protein-folding-ai-solved-biology-science-drugs-disease/&tbm=ilp&ilps=ADNMCi2aIilrG67hbqvlGkJNv5QZJo8MKA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lgCYaktQpXQJ:https://www.technologyreview.com/2020/11/30/1012712/deepmind-protein-folding-ai-solved-biology-science-drugs-disease/+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Protein Folding and Processing - The Cell - NCBI Bookshelf",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK9843/",
+            "displayed_link": "https://www.ncbi.nlm.nih.gov › books › NBK9843",
+            "snippet": "The classic principle of protein folding is that all the information required for a protein to adopt the correct three-dimensional conformation is provided ...",
+            "snippet_highlighted_words": [
+                "protein folding"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Chaperones And Protein...",
+                        "link": "https://www.ncbi.nlm.nih.gov/books/NBK9843/#:~:text=Chaperones%20and%20Protein%20Folding,-The%20three%2Ddimensional%20conformations"
+                    },
+                    {
+                        "title": "Protein Cleavage",
+                        "link": "https://www.ncbi.nlm.nih.gov/books/NBK9843/#:~:text=Protein%20Cleavage,-Cleavage%20of%20the%20polypeptide%20chain"
+                    },
+                    {
+                        "title": "Glycosylation",
+                        "link": "https://www.ncbi.nlm.nih.gov/books/NBK9843/#:~:text=Glycosylation,-Many%20proteins%2C%20particularly%20in"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The National Center for Biotechnology Information is part of the United States National Library of Medicine, a branch of the National Institutes of Health. It is approved and funded by the government of the United States.",
+                    "icon": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/3b60e6d16fcd9445ba3b85fe0bb1be223c964d75e14e33ba4e0812ec8c9f912a7249dffa8afde3cac6ec126d92573567.png"
+                },
+                "keywords": [
+                    "protein",
+                    "folding"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ncbi.nlm.nih.gov/books/NBK9843/&tbm=ilp&ilps=ADNMCi2S8OVboOANAIL_M44sUlZxiaQfuA",
+            "cached_page_link": "/search?q=related:https://www.ncbi.nlm.nih.gov/books/NBK9843/+protein+folding"
+        },
+        {
+            "position": 8,
+            "title": "Protein folding, misfolding, and coping mechanism of cells–A ...",
+            "link": "https://www.peertechzpublications.com/articles/OJCPS-4-103.php",
+            "displayed_link": "https://www.peertechzpublications.com › OJCPS-4-103",
+            "snippet": "Protein folding is a process by which a polypeptide chain folds to become a biologically active protein in its native 3D structure. Protein structure is ...",
+            "snippet_highlighted_words": [
+                "Protein folding"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Inroduction",
+                        "link": "https://www.peertechzpublications.com/articles/OJCPS-4-103.php#:~:text=Inroduction,-Proteins%20are%20not%20rigid%20structures"
+                    },
+                    {
+                        "title": "Protein Dynamics And Protein...",
+                        "link": "https://www.peertechzpublications.com/articles/OJCPS-4-103.php#:~:text=Protein%20dynamics%20and%20protein%20folding,-In%20this%20mini%2Dreview"
+                    },
+                    {
+                        "title": "How A Protein Folds",
+                        "link": "https://www.peertechzpublications.com/articles/OJCPS-4-103.php#:~:text=How%20a%20protein%20folds,-Above%20all%20the%20wide%20variety"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "peertechzpublications.com was first indexed by Google in September 2020",
+                    "icon": "https://serpapi.com/searches/629e37d366440a1dddfc55fa/images/3b60e6d16fcd9445ba3b85fe0bb1be22a6b12957853a6d604c6d2638c7b7693a93a330053a22f8602966b031d615737e.png"
+                },
+                "keywords": [
+                    "protein",
+                    "folding"
+                ],
+                "related_keywords": [
+                    "misfolding"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.peertechzpublications.com/articles/OJCPS-4-103.php&tbm=ilp&ilps=ADNMCi0q5g5TLA5My4XEVKCv8lQMbree4A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Bj_f7b6QRUMJ:https://www.peertechzpublications.com/articles/OJCPS-4-103.php+&cd=21&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "protein folding problem",
+            "link": "https://www.google.com/search?q=Protein+folding+problem&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "protein folding ppt",
+            "link": "https://www.google.com/search?q=Protein+folding+ppt&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "protein folding simulation",
+            "link": "https://www.google.com/search?q=Protein+folding+simulation&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "protein folding steps",
+            "link": "https://www.google.com/search?q=Protein+folding+steps&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "protein folding slideshare",
+            "link": "https://www.google.com/search?q=Protein+folding+SlideShare&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "protein folding ai",
+            "link": "https://www.google.com/search?q=Protein+folding+AI&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ1QJ6BAguEAE"
+        },
+        {
+            "query": "protein folding deepmind",
+            "link": "https://www.google.com/search?q=Protein+folding+DeepMind&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "protein folding notes",
+            "link": "https://www.google.com/search?q=Protein+folding+Notes&sa=X&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ1QJ6BAgnEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=protein+folding&ei=0zeeYsrPNdOGqtsPzPOskA4&start=10&sa=N&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ8NMDegQIAhBM",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=protein+folding&ei=0zeeYsrPNdOGqtsPzPOskA4&start=10&sa=N&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ8tMDegQIAhA6",
+            "3": "https://www.google.com/search?q=protein+folding&ei=0zeeYsrPNdOGqtsPzPOskA4&start=20&sa=N&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ8tMDegQIAhA8",
+            "4": "https://www.google.com/search?q=protein+folding&ei=0zeeYsrPNdOGqtsPzPOskA4&start=30&sa=N&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ8tMDegQIAhA-",
+            "5": "https://www.google.com/search?q=protein+folding&ei=0zeeYsrPNdOGqtsPzPOskA4&start=40&sa=N&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ8tMDegQIAhBA",
+            "6": "https://www.google.com/search?q=protein+folding&ei=0zeeYsrPNdOGqtsPzPOskA4&start=50&sa=N&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ8tMDegQIAhBC",
+            "7": "https://www.google.com/search?q=protein+folding&ei=0zeeYsrPNdOGqtsPzPOskA4&start=60&sa=N&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ8tMDegQIAhBE",
+            "8": "https://www.google.com/search?q=protein+folding&ei=0zeeYsrPNdOGqtsPzPOskA4&start=70&sa=N&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ8tMDegQIAhBG",
+            "9": "https://www.google.com/search?q=protein+folding&ei=0zeeYsrPNdOGqtsPzPOskA4&start=80&sa=N&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ8tMDegQIAhBI",
+            "10": "https://www.google.com/search?q=protein+folding&ei=0zeeYsrPNdOGqtsPzPOskA4&start=90&sa=N&ved=2ahUKEwiKhfO6q5n4AhVTg2oFHcw5C-IQ8tMDegQIAhBK"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protein+folding&start=90"
+        }
+    }
+}

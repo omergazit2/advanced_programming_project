@@ -1,0 +1,664 @@
+{
+    "search_metadata": {
+        "id": "629e3d16b5961eaeb7c270c8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ed6e92548318a49a/629e3d16b5961eaeb7c270c8.json",
+        "created_at": "2022-06-06 17:44:54 UTC",
+        "processed_at": "2022-06-06 17:44:54 UTC",
+        "google_url": "https://www.google.com/search?q=Atom&oq=Atom&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ed6e92548318a49a/629e3d16b5961eaeb7c270c8.html",
+        "total_time_taken": 1.78
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Atom",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Atom",
+        "total_results": 1230000000,
+        "time_taken_displayed": 0.56
+    },
+    "knowledge_graph": {
+        "title": "Atom",
+        "header_images": [
+            {
+                "source": "https://commons.wikimedia.org/wiki/File:Atom_editor_logo_black.svg"
+            },
+            {
+                "source": "https://www.elegantthemes.com/blog/wordpress/best-atom-packages"
+            },
+            {
+                "source": "https://github.com/atom"
+            },
+            {
+                "source": "https://atom.io/"
+            },
+            {
+                "source": "https://flight-manual.atom.io/getting-started/sections/atom-basics/"
+            }
+        ],
+        "description": "Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, and embedded Git Control. Developed by GitHub, Atom is a desktop application built using web technologies.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Atom_(text_editor)"
+        },
+        "developer_s": "GitHub (subsidiary of Microsoft)",
+        "developer_s_links": [
+            {
+                "text": "GitHub",
+                "link": "https://www.google.com/search?q=GitHub&stick=H4sIAAAAAAAAAONgVuLSz9U3KLZMzqjIXsTK5p5Z4lGaBADK3ifpFwAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoAHoECGQQAg"
+            },
+            {
+                "text": "Microsoft",
+                "link": "https://www.google.com/search?q=Microsoft&stick=H4sIAAAAAAAAAONgVuLQz9U3MCkuM1nEyumbmVyUX5yfVgIAEdSQixgAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoAXoECGQQAw"
+            }
+        ],
+        "repository": "github.com/atom/atom",
+        "size": "87–180 MB",
+        "license": "MIT License (free software)",
+        "license_links": [
+            {
+                "text": "MIT License",
+                "link": "https://www.google.com/search?q=MIT+License&stick=H4sIAAAAAAAAAONgVuLQz9U3MCkryF3Eyu3rGaLgk5mcmlecCgA_x3mRGgAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoAHoECGEQAg"
+            }
+        ],
+        "written_in": "CoffeeScript, JavaScript, Less, HTML (front-end/UI)",
+        "written_in_links": [
+            {
+                "text": "CoffeeScript",
+                "link": "https://www.google.com/search?q=CoffeeScript&stick=H4sIAAAAAAAAAONgVuLSz9U3yMhKNs01WMTK45yflpaaGpxclFlQAgAuOLJ-HQAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoAHoECGIQAg"
+            },
+            {
+                "text": "JavaScript",
+                "link": "https://www.google.com/search?q=JavaScript&stick=H4sIAAAAAAAAAONgVuLQz9U3MCqwNF_EyuWVWJYYnFyUWVACABxPL_8ZAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoAXoECGIQAw"
+            },
+            {
+                "text": "Less",
+                "link": "https://www.google.com/search?q=Less&stick=H4sIAAAAAAAAAONgVuLSz9U3SM9KMcgqW8TK4pNaXAwAEv6LmRUAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoAnoECGIQBA"
+            },
+            {
+                "text": "HTML",
+                "link": "https://www.google.com/search?q=HTML&stick=H4sIAAAAAAAAAONgVuLQz9U3ME43MljEyuIR4usDAAsohqoTAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoA3oECGIQBQ"
+            },
+            {
+                "text": "front-end",
+                "link": "https://www.google.com/search?q=front-end&stick=H4sIAAAAAAAAAONgVuLWz9U3MDRILyyJL1jEyplWlJ9XopualwIA_KQqpxsAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoBHoECGIQBg"
+            }
+        ],
+        "initial_release": "26 February 2014; 8 years ago",
+        "operating_system": "macOS 10.9 or later, Windows 7 and later, and Linux",
+        "operating_system_links": [
+            {
+                "text": "macOS",
+                "link": "https://www.google.com/search?q=macOS&stick=H4sIAAAAAAAAAONgVuLQz9U3MDWtLFrEypqbmOwfDADb5b_yFAAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoAHoECGUQAg"
+            },
+            {
+                "text": "Windows",
+                "link": "https://www.google.com/search?q=Windows&stick=H4sIAAAAAAAAAONgVuLQz9U3MCmKt1jEyh6emZeSX14MAFTjqsQWAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoAXoECGUQAw"
+            },
+            {
+                "text": "Linux",
+                "link": "https://www.google.com/search?q=Linux&stick=H4sIAAAAAAAAAONgVuLUz9U3SCuoqipYxMrqk5lXWgEATgerNhUAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQmxMoAnoECGUQBA"
+            }
+        ],
+        "see_results_about": [
+            {
+                "name": "Atom",
+                "extensions": [
+                    "An atom is the smallest unit of ordinary matter that forms a ..."
+                ],
+                "image": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/d945c47770b2fa0285f929035cc83388419ad99d5c298fcd800a7deb4bd8b7af9646f4cf43ce1e0e5c608f4cc7f1a995.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "A Better Way To Picture Atoms",
+            "link": "https://www.youtube.com/watch?v=W2Xb2GFK2yc",
+            "thumbnail": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/4eb9fed9f6cc2f8a227a22620877e9f3d10350cc149fd9f373ed838f59a2fc3b.jpeg",
+            "channel": "minutephysics",
+            "duration": "5:35",
+            "platform": "YouTube",
+            "date": "May 19, 2021"
+        },
+        {
+            "position": 2,
+            "title": "10 Essential Atom Editor Packages & Setup",
+            "link": "https://www.youtube.com/watch?v=aiXNKHKWlmY",
+            "thumbnail": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/4eb9fed9f6cc2f8a99dcd479b286fa512b348a77b308832771c0b85ce421b3ff.jpeg",
+            "channel": "Traversy Media",
+            "duration": "27:08",
+            "platform": "YouTube",
+            "date": "Jun 26, 2017"
+        },
+        {
+            "position": 3,
+            "title": "What Is an Atom and How Do We Know?",
+            "link": "https://www.youtube.com/watch?v=LhveTGblGHY&vl=en",
+            "thumbnail": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/4eb9fed9f6cc2f8afb4873411809c1a704ead8094b72080cddd7573e09f50fb1.jpeg",
+            "channel": "Stated Clearly",
+            "duration": "12:15",
+            "platform": "YouTube",
+            "date": "Sep 18, 2018"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "Types of atoms",
+            "items": [
+                {
+                    "name": "Proton",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD2NGsLw-T2r1vmJUJyKWgH7OUldbywCIzim5D&s=0",
+                    "link": "https://www.google.com/search?q=protons&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC0xLTDiK6ksSC1WyE9TSCzJzy2OYnEEUqcY4QqgTKMc8wqYaFJK5SlGLrBohmVSZRVU3LikqAjOtMiGKTEtyS4EmsKtn65vaGRokmtkVgnnlRklpWX9YuQLQXFDAwvjIlb2gqL8kvy84ltskgymH1uZVl0VdlZeJj4jI0Doe0Tx51MCQeL_AF5GtG_JAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQs9oBKAB6BAgwEAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=protons&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC0xLTDiK6ksSC1WyE9TSCzJzy2OYnEEUqcY4QqgTKMc8wqYaFJK5SlGLrBohmVSZRVU3LikqAjOtMiGKTEtyS4EmsKtn65vaGRokmtkVgnnlRklpWX9YuQLQXFDAwvjIlb2gqL8kvy84ltskgymH1uZVl0VdlZeJj4jI0Doe0Tx51MCQeL_AF5GtG_JAAAA"
+                },
+                {
+                    "name": "Electron",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgYnILs-fW0fSIk6LJO8pFtdjKs-sCJgdC2AVO&s=0",
+                    "link": "https://www.google.com/search?q=Electron&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMoxrzDiK6ksSC1WyE9TSCzJzy2OYnEEUqcYwQpMS0wLoEyQWphoUkrlKUYusGiGZVJlFVTcuKSoCM60yIYpMS3JLgSawq2frm9oZGiSa2RWCeeVGSWlZf1i5AtBcUMDC-MiVg7XnNTkkqL8vFtskgymH1uZVl0VdlZeJj4jI0Doe0Tx51MCQeL_ANhWosHKAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQs9oBKAF6BAgwEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Electron&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMoxrzDiK6ksSC1WyE9TSCzJzy2OYnEEUqcYwQpMS0wLoEyQWphoUkrlKUYusGiGZVJlFVTcuKSoCM60yIYpMS3JLgSawq2frm9oZGiSa2RWCeeVGSWlZf1i5AtBcUMDC-MiVg7XnNTkkqL8vFtskgymH1uZVl0VdlZeJj4jI0Doe0Tx51MCQeL_ANhWosHKAAAA"
+                },
+                {
+                    "name": "Neutron",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnM8HNKop9Ch3OhdnUXKzs-04bAgUFMqFKQW0&s=0",
+                    "link": "https://www.google.com/search?q=Neutron&stick=H4sIAAAAAAAAAOOQUeLQz9U3ME1KqTTiK6ksSC1WyE9TSCzJzy2OYnEEUqcYIQpKTAugTKMc8wqYKFDbKUYusGiGZVJlFVTcuKSoCM60yIYpMS3JLgSawq2frm9oZGiSa2RWCeeVGSWlZf1i5AtBcUMDC-MiVna_1NKSovy8W2ySDKYfW5lWXRV2Vl4mPiMjQOh7RPHnUwJB4v8AytG3NckAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQs9oBKAJ6BAgwEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Neutron&stick=H4sIAAAAAAAAAOOQUeLQz9U3ME1KqTTiK6ksSC1WyE9TSCzJzy2OYnEEUqcYIQpKTAugTKMc8wqYKFDbKUYusGiGZVJlFVTcuKSoCM60yIYpMS3JLgSawq2frm9oZGiSa2RWCeeVGSWlZf1i5AtBcUMDC-MiVna_1NKSovy8W2ySDKYfW5lWXRV2Vl4mPiMjQOh7RPHnUwJB4v8AytG3NckAAAA"
+                },
+                {
+                    "name": "Hydrogen",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Z-Umnmthm11zBHP7_nkvIS5Kxgq1ZERdcRzgoNkIgUSiRbIOgvHQ&s=0",
+                    "link": "https://www.google.com/search?q=Hydrogen&stick=H4sIAAAAAAAAAOOQUeLSz9U3MMqwTKqsMuIrqSxILVbIT1NILMnPLY5icQRSpxg5QEpMS0wLoEyjHPMKmGhSSuUpRiQzoOLGJUVFcKZFNkyJaUl2IdAUbv10fUMjQ5NcI7NKOK_MKCkt6xcjXwiKGxpYGBexcnhUphTlp6fm3WKTZDD92Mq06qqws_Iy8RkZAULfI4o_nxIIEv8HAKvLxtzMAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQs9oBKAN6BAgwEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hydrogen&stick=H4sIAAAAAAAAAOOQUeLSz9U3MMqwTKqsMuIrqSxILVbIT1NILMnPLY5icQRSpxg5QEpMS0wLoEyjHPMKmGhSSuUpRiQzoOLGJUVFcKZFNkyJaUl2IdAUbv10fUMjQ5NcI7NKOK_MKCkt6xcjXwiKGxpYGBexcnhUphTlp6fm3WKTZDD92Mq06qqws_Iy8RkZAULfI4o_nxIIEv8HAKvLxtzMAAAA"
+                },
+                {
+                    "name": "Isotope",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvtRuu5K_LTrPWvFGEJFRAz-mywvC9QJKqXKK4R83E9pBxLipAqnw&s=0",
+                    "link": "https://www.google.com/search?q=Isotope&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC4pKjLiK6ksSC1WyE9TSCzJzy2OYnEEUqcYwQpMS0wLoEyjHPMKmGhSSuUpRi6waIZlUmUVVBxkHJxpkQ1TYlqSXQg0hVs_Xd_QyNAk18isEs4rM0pKy_rFyBeC4oYGFsZFrOyexfkl-QWpt9gkGUw_tjKtuirsrLxMfEZGgND3iOLPpwSCxP8BAIppOpzJAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQs9oBKAR6BAgwEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Isotope&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC4pKjLiK6ksSC1WyE9TSCzJzy2OYnEEUqcYwQpMS0wLoEyjHPMKmGhSSuUpRi6waIZlUmUVVBxkHJxpkQ1TYlqSXQg0hVs_Xd_QyNAk18isEs4rM0pKy_rFyBeC4oYGFsZFrOyexfkl-QWpt9gkGUw_tjKtuirsrLxMfEZGgND3iOLPpwSCxP8BAIppOpzJAAAA"
+                },
+                {
+                    "name": "Ion",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoa4oTT5cNFSCyFdjeT-jPPmEGVa8P61X9AguUOSWh28zLe0a1m7v&s=0",
+                    "link": "https://www.google.com/search?q=Ion&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC6xyDbiK6ksSC1WyE9TSCzJzy2OYnEEUqcYwQpMS0wLoEyjHPMKmGhSSuUpRi6waIZlUmUVVNy4pKgIzrTIhikxLckuBJrCrZ-ub2hkaJJrZFYJ55UZJaVl_WLkC0FxQwML4yJWZs_8vFtskgymH1uZVl0VdlZeJj4jI0Doe0Tx51MCQeL_AIBL4ZTFAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQs9oBKAV6BAgwEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ion&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC6xyDbiK6ksSC1WyE9TSCzJzy2OYnEEUqcYwQpMS0wLoEyjHPMKmGhSSuUpRi6waIZlUmUVVNy4pKgIzrTIhikxLckuBJrCrZ-ub2hkaJJrZFYJ55UZJaVl_WLkC0FxQwML4yJWZs_8vFtskgymH1uZVl0VdlZeJj4jI0Doe0Tx51MCQeL_AIBL4ZTFAAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Types+of+atoms&stick=H4sIAAAAAAAAAOOQMeIrqSxILVbIT1NILMnPLY5icQRSpxg59HP1DUxLTAugTKMc8wqYaFJK5SlGLrBohmVSZRVU3LikqAjOtMiGKTEtyS4EmsKtn65vaGRokmtkVgnnlRklpWX9YuQLQXFDAwvjIlY0sVtskgymH1uZVl0VdlZeJj4jI0Doe0Tx51MCQeL_ADTltz_GAAAA&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ4qYDegQIMBAI",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Types+of+atoms&stick=H4sIAAAAAAAAAOOQMeIrqSxILVbIT1NILMnPLY5icQRSpxg59HP1DUxLTAugTKMc8wqYaFJK5SlGLrBohmVSZRVU3LikqAjOtMiGKTEtyS4EmsKtn65vaGRokmtkVgnnlRklpWX9YuQLQXFDAwvjIlY0sVtskgymH1uZVl0VdlZeJj4jI0Doe0Tx51MCQeL_ADTltz_GAAAA"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is a atom simple definition?",
+            "snippet": "An atom is a particle of matter that uniquely defines achemical element. An atom consists of a central nucleus that is usually surrounded by one or more electrons. Each electron is negatively charged. The nucleus is positively charged, and contains one or more relatively heavy particles known as protons and neutrons.",
+            "title": "What is atom? - Definition from WhatIs.com - TechTarget",
+            "link": "https://www.techtarget.com/searchcio/definition/atom",
+            "displayed_link": "https://www.techtarget.com › searchcio › definition › atom"
+        },
+        {
+            "question": "What are atoms exactly?",
+            "snippet": "An atom is the basic building block of chemistry. It is the smallest unit into which matter can be divided without the release of electrically charged particles. It also is the smallest unit of matter that has the characteristic properties of a chemical element.Apr 26, 2022",
+            "title": "atom | Definition, Structure, History, Examples, Diagram, & Facts",
+            "link": "https://www.britannica.com/science/atom",
+            "displayed_link": "https://www.britannica.com › ... › Matter & Energy"
+        },
+        {
+            "question": "What are the examples of atoms?",
+            "title": "Here are some examples of atoms:",
+            "link": "https://www.thoughtco.com/what-are-some-examples-of-atoms-603804",
+            "list": [
+                "Neon (Ne)",
+                "Hydrogen (H)",
+                "Argon (Ar)",
+                "Iron (Fe)",
+                "Calcium (Ca)",
+                "Deuterium, an isotope of hydrogen that has one proton and one neutron.",
+                "Plutonium (Pu)",
+                "F-, a fluorine anion."
+            ],
+            "displayed_link": "https://www.thoughtco.com › what-are-some-examples-of..."
+        },
+        {
+            "question": "Is there anything smaller than an atom?",
+            "snippet": "Thus, protons and neutrons are no more indivisible than atoms are; indeed, they contain still smaller particles, which are called quarks.",
+            "title": "subatomic particle | Definition, Examples, & Classes | Britannica",
+            "link": "https://www.britannica.com/science/subatomic-particle",
+            "displayed_link": "https://www.britannica.com › science › subatomic-particle"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Atom",
+            "link": "https://atom.io/",
+            "displayed_link": "https://atom.io",
+            "snippet": "Atom is a desktop application built with HTML, JavaScript, CSS, and Node.js integration. It runs on Electron, a framework for building cross platform apps using ...",
+            "snippet_highlighted_words": [
+                "Atom"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Installing Atom",
+                        "link": "https://flight-manual.atom.io/getting-started/sections/installing-atom/"
+                    },
+                    {
+                        "title": "Release Notes",
+                        "link": "https://atom.io/releases"
+                    },
+                    {
+                        "title": "Packages",
+                        "link": "https://atom.io/packages"
+                    },
+                    {
+                        "title": "GitHub for Atom",
+                        "link": "https://github.atom.io/"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, and embedded Git Control. Developed by GitHub, Atom is a desktop application built using web technologies.",
+                    "icon": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/d800577227d5c69ab91628ff789fb825e82b5dada9b4cb3c086089b172fb856c496e605c8f15eaad4fb9de6d42b2b361.png"
+                },
+                "keywords": [
+                    "atom"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://atom.io/&tbm=ilp&ilps=ADNMCi3vnraUw-50OmEPzIVAwC3Z4VvdDQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A_3aU_YzimwJ:https://atom.io/+&cd=1&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://atom.io/+Atom"
+        },
+        {
+            "position": 2,
+            "title": "Movies: Find Showtimes, Buy Movie Tickets & More | Atom ...",
+            "link": "https://www.atomtickets.com/",
+            "displayed_link": "https://www.atomtickets.com",
+            "snippet": "Atom Tickets is movie-going for the 21st century. Find the perfect movie & showtimes, buy your tickets, select seats, & order concessions all online, today!",
+            "snippet_highlighted_words": [
+                "Atom"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Movie Theaters Near You",
+                        "link": "https://www.atomtickets.com/theaters"
+                    },
+                    {
+                        "title": "Log In",
+                        "link": "https://www.atomtickets.com/login"
+                    },
+                    {
+                        "title": "Atom Rewards",
+                        "link": "https://www.atomtickets.com/rewards"
+                    },
+                    {
+                        "title": "Atom Events",
+                        "link": "https://www.atomtickets.com/atom-events"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Atom Tickets is a company based in Santa Monica, California that sells movie tickets and services through its app and website.",
+                    "icon": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/d800577227d5c69ab91628ff789fb825a8a9a15fa6131130bce4f4c04adff25cca5f121e11e679e9301ef827a7c12c0e.png"
+                },
+                "keywords": [
+                    "atom"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.atomtickets.com/&tbm=ilp&ilps=ADNMCi3j_ErHo5Xh0ZpBGj5OQXqb4DBozw",
+            "cached_page_link": "/search?q=related:https://www.atomtickets.com/+Atom"
+        },
+        {
+            "position": 3,
+            "title": "Atom - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Atom",
+            "displayed_link": "https://en.wikipedia.org › wiki › Atom",
+            "snippet": "An atom is the smallest unit of ordinary matter that forms a chemical element. ... Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms.",
+            "snippet_highlighted_words": [
+                "atom",
+                "atoms"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "History of atomic theory",
+                        "link": "https://en.wikipedia.org/wiki/Atom#History_of_atomic_theory"
+                    },
+                    {
+                        "title": "Structure",
+                        "link": "https://en.wikipedia.org/wiki/Atom#Structure"
+                    },
+                    {
+                        "title": "Properties",
+                        "link": "https://en.wikipedia.org/wiki/Atom#Properties"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "Electric charge: zero (neutral), or ion charge",
+                        "Mass range: 1.67×10−27 to 4.52×10−25 kg",
+                        "Components: Electrons and a compact nucleus ...‎",
+                        "Diameter range: 62 pm (He‎) to 520 pm (‎Cs‎) ...‎",
+                        "Preview release: 1.61.0-beta0 / 7 March 2022",
+                        "Written in: CoffeeScript, ‎JavaScript‎, ‎Less‎, ‎HTML‎ ...‎",
+                        "Stable release: 1.60.0 / 8 March 2022",
+                        "License: MIT License (‎free software‎)‎"
+                    ],
+                    "detected_extensions": {
+                        "mass_range_×−_to_×−_kg": 1.67,
+                        "diameter_range_pm_he_to_pm_cs": 62,
+                        "preview_release_beta_march": null,
+                        "stable_release_march": null
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/d800577227d5c69ab91628ff789fb8259373a528d73ac8a354cd65e092e02e4872fb3671f8cf23558be32f801e6ec8a9.png"
+                },
+                "keywords": [
+                    "atom"
+                ],
+                "related_keywords": [
+                    "atoms"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Atom&tbm=ilp&ilps=ADNMCi1za2I7owKFSdT1RV_p5-mig8eANQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:U_7Vh2m3deoJ:https://en.wikipedia.org/wiki/Atom+&cd=14&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Atom+Atom",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Atom (text editor) - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Atom_(text_editor)",
+                    "displayed_link": "https://en.wikipedia.org › wiki › Atom_(text_editor)",
+                    "snippet": "Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, ...",
+                    "snippet_highlighted_words": [
+                        "Atom"
+                    ],
+                    "rich_snippet": {
+                        "bottom": {
+                            "detected_extensions": {
+                                "preview_release_beta_march": null,
+                                "stable_release_march": null
+                            },
+                            "extensions": [
+                                "Preview release: 1.61.0-beta0 / 7 March 2022",
+                                "Written in: CoffeeScript, ‎JavaScript‎, ‎Less‎, ‎HTML‎ ...‎",
+                                "Stable release: 1.60.0 / 8 March 2022",
+                                "License: MIT License (‎free software‎)‎"
+                            ]
+                        }
+                    },
+                    "about_this_result": {
+                        "source": {
+                            "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                            "icon": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/d800577227d5c69ab91628ff789fb825753af7c9f12c27651d6082986dfb632d542d95ff2c23d17a70f1e89f351848ce212f8a9bcc2d5aa6aa2cab7a389b3eb57ff41ef2304f3d91.png"
+                        },
+                        "keywords": [
+                            "atom"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Atom_(text_editor)&tbm=ilp&ilps=ADNMCi0vVO_1Q-VES-IuJCNVIYI6bs3IEw",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2X8wfsyo5HcJ:https://en.wikipedia.org/wiki/Atom_(text_editor)+&cd=15&hl=en&ct=clnk&gl=us",
+                    "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Atom_(text_editor)+Atom"
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "title": "atom: The hackable text editor - GitHub",
+            "link": "https://github.com/atom/atom",
+            "displayed_link": "https://github.com › atom › atom",
+            "snippet": "Atom is a hackable text editor for the 21st century, built on Electron, and based on everything we love about our favorite editors.",
+            "snippet_highlighted_words": [
+                "Atom"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.",
+                    "icon": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/d800577227d5c69ab91628ff789fb825cfc03ce5d4a287679a5258f446bb1a8b892422b41a22e7026dfb1d322f7f33cc.png"
+                },
+                "keywords": [
+                    "atom"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://github.com/atom/atom&tbm=ilp&ilps=ADNMCi2_d4sRZAiCkPPRWm6xaLWqZDXecw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QKMk5NRMKtMJ:https://github.com/atom/atom+&cd=19&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://github.com/atom/atom+Atom"
+        },
+        {
+            "position": 5,
+            "title": "atom | Definition, Structure, History, Examples, Diagram, & Facts",
+            "link": "https://www.britannica.com/science/atom",
+            "displayed_link": "https://www.britannica.com › ... › Matter & Energy",
+            "date": "Apr 26, 2022",
+            "snippet": "atom, smallest unit into which matter can be divided without the release of electrically charged particles. It also is the smallest unit of ...",
+            "snippet_highlighted_words": [
+                "atom"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/d800577227d5c69ab91628ff789fb825600e1b9d0f26e37895b32eb3ffb766225a5451b319188883a4c7df3c4ba2f991.png"
+                },
+                "keywords": [
+                    "atom"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/atom&tbm=ilp&ilps=ADNMCi0dbhNv1JfrWIQb9pF3g5XX5IXZ_g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hWHKw1vJUZAJ:https://www.britannica.com/science/atom+&cd=20&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.britannica.com/science/atom+Atom"
+        },
+        {
+            "position": 6,
+            "title": "Atom Definition & Meaning | Dictionary.com",
+            "link": "https://www.dictionary.com/browse/atom",
+            "displayed_link": "https://www.dictionary.com › browse › atom",
+            "snippet": "A unit of matter; the smallest unit of a chemical element. Each atom consists of a nucleus, which has a positive charge, and a set of electrons that move around ...",
+            "snippet_highlighted_words": [
+                "atom"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Dictionary.com is an online dictionary whose domain was first registered on May 14, 1995. The primary content on Dictionary.com is a proprietary dictionary based on Random House Unabridged Dictionary, with editors for the site providing new and updated definitions.",
+                    "icon": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/d800577227d5c69ab91628ff789fb825d6b4a3707b73a70ef91e13ba73e8bdddf8e7b20077239da334b1b8766f1f6141.png"
+                },
+                "keywords": [
+                    "atom"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.dictionary.com/browse/atom&tbm=ilp&ilps=ADNMCi2KTcwaw8caSFeDgnQjFrWOO2uPLQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pZZrcOAfUYgJ:https://www.dictionary.com/browse/atom+&cd=21&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Cosmos: The Internet of Blockchains",
+            "link": "https://cosmos.network/",
+            "displayed_link": "https://cosmos.network",
+            "snippet": "With the upcoming Interchain Security feature, ATOM will soon be securing many chains, in exchange for additional staking rewards.",
+            "snippet_highlighted_words": [
+                "ATOM"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "cosmos.network was first indexed by Google in August 2016",
+                    "icon": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/d800577227d5c69ab91628ff789fb825ee7e0d6810ad4d46472b9ba28617d084125f3a68c29502f5f723abfb8e19e599.png"
+                },
+                "keywords": [
+                    "atom"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://cosmos.network/&tbm=ilp&ilps=ADNMCi2Jm4HTvGy8ExOwhXGvspCiuqPPVg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aGg8C6dl-qgJ:https://cosmos.network/+&cd=22&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://cosmos.network/+Atom"
+        },
+        {
+            "position": 8,
+            "title": "Atom - Movie Tickets & Times on the App Store - Apple",
+            "link": "https://apps.apple.com/us/app/atom-movie-tickets-times/id926058555",
+            "displayed_link": "https://apps.apple.com › app › atom-movie-tickets-times",
+            "date": "Apr 29, 2022",
+            "snippet": "Atom is the only mobile movie ticketing app that lets you buy movie tickets, make movie plans with friends & get a VIP experience at the ...",
+            "snippet_highlighted_words": [
+                "Atom"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4.9,
+                        "reviews": 127795
+                    },
+                    "extensions": [
+                        "Rating: 4.9",
+                        "‎127,795 reviews",
+                        "‎Free",
+                        "‎iOS",
+                        "‎Entertainment"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "This result comes from apps.apple.com",
+                    "icon": "https://serpapi.com/searches/629e3d16b5961eaeb7c270c8/images/d800577227d5c69ab91628ff789fb8252562f7789ba036d91c9d3ed2871e9cd58867fb6333c0c221bbc351c9048ac294.png"
+                },
+                "keywords": [
+                    "atom"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://apps.apple.com/us/app/atom-movie-tickets-times/id926058555&tbm=ilp&ilps=ADNMCi3f6h7hTs3gVMDCjY8xJJwzR11Sdw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1ReB77NGybIJ:https://apps.apple.com/us/app/atom-movie-tickets-times/id926058555+&cd=23&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "atom download",
+            "link": "https://www.google.com/search?q=Atom+download&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ1QJ6BAg9EAE"
+        },
+        {
+            "query": "atom movies",
+            "link": "https://www.google.com/search?q=Atom+movies&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ1QJ6BAg8EAE"
+        },
+        {
+            "query": "atom structure",
+            "link": "https://www.google.com/search?q=Atom+structure&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "atom tickets",
+            "link": "https://www.google.com/search?q=Atom+Tickets&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "atom learning",
+            "link": "https://www.google.com/search?q=Atom+Learning&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "atom editor",
+            "link": "https://www.google.com/search?q=Atom+editor&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "atom python",
+            "link": "https://www.google.com/search?q=Atom+Python&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "atom app",
+            "link": "https://www.google.com/search?q=Atom+app&sa=X&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ1QJ6BAg_EAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Atom&ei=Fz2eYvPqI7-pqtsPgeyqsAg&start=10&sa=N&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Atom&ei=Fz2eYvPqI7-pqtsPgeyqsAg&start=10&sa=N&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Atom&ei=Fz2eYvPqI7-pqtsPgeyqsAg&start=20&sa=N&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Atom&ei=Fz2eYvPqI7-pqtsPgeyqsAg&start=30&sa=N&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Atom&ei=Fz2eYvPqI7-pqtsPgeyqsAg&start=40&sa=N&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Atom&ei=Fz2eYvPqI7-pqtsPgeyqsAg&start=50&sa=N&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Atom&ei=Fz2eYvPqI7-pqtsPgeyqsAg&start=60&sa=N&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Atom&ei=Fz2eYvPqI7-pqtsPgeyqsAg&start=70&sa=N&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Atom&ei=Fz2eYvPqI7-pqtsPgeyqsAg&start=80&sa=N&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Atom&ei=Fz2eYvPqI7-pqtsPgeyqsAg&start=90&sa=N&ved=2ahUKEwiz0sS9sJn4AhW_lGoFHQG2CoYQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Atom&start=90"
+        }
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "search_metadata": {
+        "id": "629e3d6b979054847bbdf255",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/af71be39afe75ee3/629e3d6b979054847bbdf255.json",
+        "created_at": "2022-06-06 17:46:19 UTC",
+        "processed_at": "2022-06-06 17:46:19 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&oq=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/af71be39afe75ee3/629e3d6b979054847bbdf255.html",
+        "total_time_taken": 0.57
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "אסטרואיד",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "אסטרואיד",
+        "total_results": 104000,
+        "time_taken_displayed": 0.36
+    },
+    "knowledge_graph": {
+        "title": "אסטרואיד",
+        "header_images": [
+            {
+                "source": "https://www.mako.co.il/hix-nature/space/Article-8674c4ba4b23971027.htm"
+            },
+            {
+                "source": "https://www.ynet.co.il/articles/0,7340,L-5540005,00.html"
+            },
+            {
+                "source": "https://www.mako.co.il/hix-nature/space/Article-41e679e5fb1ea71027.htm"
+            },
+            {
+                "source": "https://www.space.gov.il/node/131518"
+            }
+        ],
+        "description": "אסטרואיד הוא גוף קטן במערכת השמש, הנמצא במסלול סביב השמש. אסטרואידים קטנים קרויים \"מטאורואידים\". באוגוסט 2006 הגדיר האיגוד האסטרונומי הבינלאומי את המונח \"גופים קטנים במערכת השמש\" שהם גופים שאינם כוכבי לכת ואינם כוכבי לכת ננסיים. מלבד קרס, כל האסטרואידים מוגדרים כגופים קטנים במערכת השמש.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93"
+        },
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "שביט",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A9%D7%91%D7%99%D7%98&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWT7J88lf3-oTOEUqkwQEGGMJEzCkkYV2Yu1bGwbaM1DGcV3nnFZOzwhn-O6YCwqsHsDaa1OzdC0rtWu1LIlvLO2LZj8mUUtNWBvhKycQxLoZTuNON1FYA33ww7HPYmJjgj-doP-VzhvaA0gBebR2JkJ9OdIR8fA4GKEZjlQE5yhlXdpq0BoLKN1-mwx3K0ABruS8PwOVCx0IhwDzMcFo8BdEyCLYOusIXVn72ZhtLORi5-Bcw%3D%3D&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQxA16BAhLEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A9%D7%91%D7%99%D7%98&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWT7J88lf3-oTOEUqkwQEGGMJEzCkkYV2Yu1bGwbaM1DGcV3nnFZOzwhn-O6YCwqsHsDaa1OzdC0rtWu1LIlvLO2LZj8mUUtNWBvhKycQxLoZTuNON1FYA33ww7HPYmJjgj-doP-VzhvaA0gBebR2JkJ9OdIR8fA4GKEZjlQE5yhlXdpq0BoLKN1-mwx3K0ABruS8PwOVCx0IhwDzMcFo8BdEyCLYOusIXVn72ZhtLORi5-Bcw%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d6b979054847bbdf255/images/41ba94ff4deb1db0a31c740f783c32a020a10273972dc0f0e9a5ec35fb5937fe39ee0c3c079306c57786cfb66c3034f9d1ac57fc8a3302e7.jpeg"
+            },
+            {
+                "name": "מטאורואיד",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%98%D7%90%D7%95%D7%A8%D7%95%D7%90%D7%99%D7%93&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdb8CsxUJVNSPcJ2w9yXHgFiGMZFZsZFCXqbQmKjNrX2ylEkARiMGezOuFVNSGbGhVc5h0E_2SB_IqLI2vvXZkTqbxKtqMifNt6Saxfm_V59qe8HEk9EEENQRaPtuw2W6w9whx1cFr8Cejt57zM3Q0W_JcuJDZi8yiVjqUxwWC1KpUu5cAAF6dEO5Zti03K5xn1IBIBLSqLhS0dgnhZawIAEVPG48mblowWfnJSA8tW3JHxY6-WvTUXn4Wuw1wWaiDGgt7xI%3D&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQxA16BAhLEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%98%D7%90%D7%95%D7%A8%D7%95%D7%90%D7%99%D7%93&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdb8CsxUJVNSPcJ2w9yXHgFiGMZFZsZFCXqbQmKjNrX2ylEkARiMGezOuFVNSGbGhVc5h0E_2SB_IqLI2vvXZkTqbxKtqMifNt6Saxfm_V59qe8HEk9EEENQRaPtuw2W6w9whx1cFr8Cejt57zM3Q0W_JcuJDZi8yiVjqUxwWC1KpUu5cAAF6dEO5Zti03K5xn1IBIBLSqLhS0dgnhZawIAEVPG48mblowWfnJSA8tW3JHxY6-WvTUXn4Wuw1wWaiDGgt7xI%3D",
+                "image": "https://serpapi.com/searches/629e3d6b979054847bbdf255/images/41ba94ff4deb1db0a31c740f783c32a020a10273972dc0f0e9a5ec35fb5937fe39ee0c3c079306c564c82e26637e601a094725d81a1df825.jpeg"
+            },
+            {
+                "name": "כוכב לכת",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9B%D7%95%D7%9B%D7%91+%D7%9C%D7%9B%D7%AA&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSCyHBaZsdVsWkHY0r5zS5d4uP_Luq8Pe7kMTvaQk1BqSBc9c2QuQI1IF_-qMqKqer9saoxuYA06gLNw1DM9Ay8yLdXXuBtWa1P24SJUSf_PAqHYJWTkOOhVNCsyHQi-DwLJLdLrUEEkN-CiPSD6sLeyN3DFDUEKxrkxPVGvSiaRL6F8ShS2z5ji3lwBnd6OK5c4Jes1vtLTdAIXjY21xuGwXdeuEnKfvA-QrQ_iJy2WD829FXjgGemih3GNS6qm5KMcQcs%3D&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQxA16BAhLEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9B%D7%95%D7%9B%D7%91+%D7%9C%D7%9B%D7%AA&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSCyHBaZsdVsWkHY0r5zS5d4uP_Luq8Pe7kMTvaQk1BqSBc9c2QuQI1IF_-qMqKqer9saoxuYA06gLNw1DM9Ay8yLdXXuBtWa1P24SJUSf_PAqHYJWTkOOhVNCsyHQi-DwLJLdLrUEEkN-CiPSD6sLeyN3DFDUEKxrkxPVGvSiaRL6F8ShS2z5ji3lwBnd6OK5c4Jes1vtLTdAIXjY21xuGwXdeuEnKfvA-QrQ_iJy2WD829FXjgGemih3GNS6qm5KMcQcs%3D",
+                "image": "https://serpapi.com/searches/629e3d6b979054847bbdf255/images/41ba94ff4deb1db0a31c740f783c32a020a10273972dc0f0e9a5ec35fb5937fe39ee0c3c079306c547c58a70f6ff4a6d0c40fbcbe5e35856.jpeg"
+            },
+            {
+                "name": "כוכב לכת ננסי",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9B%D7%95%D7%9B%D7%91+%D7%9C%D7%9B%D7%AA+%D7%A0%D7%A0%D7%A1%D7%99&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgGYIaSyJqXl9iHswBSqSohtFucTLikU60Ytd2YdSKMq8NSy1UYtcqEnQ8sglvkjjE2X9biDJBA515jU5Ol6U94mep5WTq1QSx3BbRY3jEZdSdptFJzm4Vt-Zjhyv8Onqn1VIA5cKmqTA1K-tFYvyqe36-AuK3PrFAzwkQkVt3jXMHyWuvvUk_hfWM1CHyVdRY6BrsXIxjj3xjjClWP3VGcajqIH2rOIgg6CuIe2zfGsQDcxWkMdBWSGnVie48QFM_sApA-tHNqeTNc2NT-onx8YT1ThG&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQxA16BAhLEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9B%D7%95%D7%9B%D7%91+%D7%9C%D7%9B%D7%AA+%D7%A0%D7%A0%D7%A1%D7%99&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgGYIaSyJqXl9iHswBSqSohtFucTLikU60Ytd2YdSKMq8NSy1UYtcqEnQ8sglvkjjE2X9biDJBA515jU5Ol6U94mep5WTq1QSx3BbRY3jEZdSdptFJzm4Vt-Zjhyv8Onqn1VIA5cKmqTA1K-tFYvyqe36-AuK3PrFAzwkQkVt3jXMHyWuvvUk_hfWM1CHyVdRY6BrsXIxjj3xjjClWP3VGcajqIH2rOIgg6CuIe2zfGsQDcxWkMdBWSGnVie48QFM_sApA-tHNqeTNc2NT-onx8YT1ThG",
+                "image": "https://serpapi.com/searches/629e3d6b979054847bbdf255/images/41ba94ff4deb1db0a31c740f783c32a020a10273972dc0f0e9a5ec35fb5937fe39ee0c3c079306c5c308c5509e2aaa573dce390ddca001fb.jpeg"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&stick=H4sIAAAAAAAAAONgFmLXz9U3yCorVIIxtASDM1NSyxMri_1SK0qCS1ILihexClyfcH3h9RnXV1yfCmTNvD55BysjAI9ltEA9AAAA&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQMSgAegQISxAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFmLXz9U3yCorVIIxtASDM1NSyxMri_1SK0qCS1ILihexClyfcH3h9RnXV1yfCmTNvD55BysjAI9ltEA9AAAA"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "אסטרואיד - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93",
+            "displayed_link": "https://he.wikipedia.org › wiki › אסטרואיד",
+            "snippet": "מלבד קרס (האסטרואיד הראשון שהתגלה ומאז סיווגו שונה), כל האסטרואידים מוגדרים כגופים קטנים במערכת השמש. ישנם ארבעה סוגים עיקריים של אסטרואידים (מחולקים לפי סוג ...",
+            "snippet_highlighted_words": [
+                "האסטרואיד",
+                "אסטרואידים"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "אפופיס",
+                        "link": "https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%95%D7%A4%D7%99%D7%A1_(%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93)"
+                    },
+                    {
+                        "title": "קטגוריה:אסטרואידים",
+                        "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93%D7%99%D7%9D"
+                    },
+                    {
+                        "title": "חגורת האסטרואידים",
+                        "link": "https://he.wikipedia.org/wiki/%D7%97%D7%92%D7%95%D7%A8%D7%AA_%D7%94%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93%D7%99%D7%9D"
+                    },
+                    {
+                        "title": "אסטרואידים",
+                        "link": "https://he.wikipedia.org/wiki/%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93%D7%99%D7%9D"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "מהו אסטרואיד, והאם הוא עלול לסכן את כדור הארץ? - סוכנות החלל ...",
+            "link": "https://www.space.gov.il/%D7%AA%D7%92%D7%99%D7%95%D7%AA/%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93",
+            "displayed_link": "https://www.space.gov.il › תגיות › אסטרואיד",
+            "snippet": "אסטרואיד הוא גוף אשר גודלו יכול לנוע בין 10 מטרים ועד כמה מאות ק\"מ. רוב האסטרואידים מצויים בין מאדים לצדק, אך יש גם כאלה בקרבה מסוכנת למסלול כדור הארץ!",
+            "snippet_highlighted_words": [
+                "אסטרואיד"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "אסטרואידים - מטח",
+            "link": "https://lib.cet.ac.il/pages/item.asp?item=8200",
+            "displayed_link": "https://lib.cet.ac.il › pages › item",
+            "snippet": "אסטרואידים הם גושי סלע שנעים בחלל בין מסלוליהם של כוכבי הלכת מאדים וצדק. כמה אסטרואידים יש? ממה הם מורכבים? כיצד נוצרו? תשובות לשאלות אלה ועוד מידע רב על ...",
+            "snippet_highlighted_words": [
+                "אסטרואידים",
+                "אסטרואידים"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "אסטרואיד - Ynet",
+            "link": "https://www.ynet.co.il/topics/%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93",
+            "displayed_link": "https://www.ynet.co.il › תגיות › טופיקס",
+            "snippet": "המכתש החדש שהתגלה בסין · יוגב ישראלי · 06.03.22 ; אסטרואיד 16 פסיכה עשוי ממתכות · ynet · 21.02.22 ; האסטרואידים הצעירים · משי אייד · 08.02.22 ; הדמיה של האסטרואיד.",
+            "snippet_highlighted_words": [
+                "אסטרואיד",
+                "האסטרואיד"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "מפחיד: אסטרואיד עצום יחלוף מחר סמוך לכדור הארץ - וואלה! טכנולוגיה",
+            "link": "https://tech.walla.co.il/item/3502966",
+            "displayed_link": "https://tech.walla.co.il › item",
+            "date": "27 באפר׳ 2022",
+            "snippet": "האסטרואיד 2008 AG33 יחלוף במרחק בטוח של 3.2 מיליון ק\"מ מאיתנו, אך בשל גודלו של הגוף השמיימי - בנאס\"א עוקבים אחריו.",
+            "snippet_highlighted_words": [
+                "האסטרואיד"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "\"עלול להיות מסוכן\": אסטרואיד בדרכו לכדור הארץ - וואלה! טכנולוגיה",
+            "link": "https://tech.walla.co.il/item/3489470",
+            "displayed_link": "https://tech.walla.co.il › פרטיות ואבטחה",
+            "date": "18 בפבר׳ 2022",
+            "snippet": "בשבוע הבא צפוי לעבור לא רחוק מאיתנו אסטרואיד ענק, ולמרות שאין שום סיכוי שהוא יתנגש בכדור הארץ, הוא הוגדר כבעל פוטנציאל לנזק בגלל המרחק הקטן ...",
+            "snippet_highlighted_words": [
+                "אסטרואיד"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "ניסוי ראשון בהתגוננות מפני אסטרואיד - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/sciencenews/%D7%A0%D7%99%D7%A1%D7%95%D7%99-%D7%A8%D7%90%D7%A9%D7%95%D7%9F-%D7%91%D7%94%D7%AA%D7%92%D7%95%D7%A0%D7%A0%D7%95%D7%AA-%D7%9E%D7%A4%D7%A0%D7%99-%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93",
+            "displayed_link": "https://davidson.weizmann.ac.il › online › sciencenews",
+            "date": "22 בנוב׳ 2021",
+            "snippet": "חללית ראשונה מסוגה תשוגר בקרוב להתנגש באסטרואיד בחלל, בדרך לפיתוח מערכת הגנה לכדור הארץ מפני אסטרואידים שעלולים לפגוע בנו. יום שטוף שמש אי ...",
+            "snippet_highlighted_words": [
+                "באסטרואיד",
+                "אסטרואידים"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "אסטרואיד - ויקימילון",
+            "link": "https://he.wiktionary.org/wiki/%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93",
+            "displayed_link": "https://he.wiktionary.org › wiki › אסטרואיד",
+            "snippet": "האסטרואיד גספרה. כינוי לכוכב לכת קטנטן הנמצא במסלול סביב השמש. ”המדען הבריטי הזכיר, כי ב־1908 פגע אסטרואיד בסיביר והשמיד 250 קמ\"מ של יער.",
+            "snippet_highlighted_words": [
+                "האסטרואיד",
+                "אסטרואיד"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "אסטרואיד - חגורת האסטרואידים - מצפה הכוכבים ברקת",
+            "link": "https://www.bareket-astro.com/solar-system/asteroid-belt-in-between-jupiter-mars",
+            "displayed_link": "https://www.bareket-astro.com › מערכת השמש",
+            "snippet": "אסטרואיד - חגורת האסטרואידים. בין מסלול ההקפה של מאדים למסלולו של צדק קיים פער גדול, בו אין כוכבי לכת . פער זה מאוכלס על ידי אלפי אסטרואידים שכולם מקיפים את ...",
+            "snippet_highlighted_words": [
+                "אסטרואיד",
+                "אסטרואידים"
+            ]
+        },
+        {
+            "position": 10,
+            "title": "אסטרואיד | mako",
+            "link": "https://www.mako.co.il/Tagit/%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93",
+            "displayed_link": "https://www.mako.co.il › Tagit › אסטרואיד",
+            "snippet": "אסטרואיד · אסטרואיד באורך של מגדל אייפל בדרך לכדור הארץ · במעקב צמוד: אסטרואיד עצום בדרך אלינו · \"המטאור יפגע באירופה ואין דבר שנוכל לעשות\" · איך מתגוננים מפני ...",
+            "snippet_highlighted_words": [
+                "אסטרואיד",
+                "אסטרואיד",
+                "אסטרואיד"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "אסטרואיד 2022",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93+2022&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "מה יקרה אם אסטרואיד יפגע בכדור הארץ",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%94+%D7%99%D7%A7%D7%A8%D7%94+%D7%90%D7%9D+%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93+%D7%99%D7%A4%D7%92%D7%A2+%D7%91%D7%9B%D7%93%D7%95%D7%A8+%D7%94%D7%90%D7%A8%D7%A5&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "אסטרואיד 2029",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93+2029&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "אסטרואיד ענק",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93+%D7%A2%D7%A0%D7%A7&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "אסטרואיד 2068",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93+2068&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "מה זה אסטרואיד",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%94+%D7%96%D7%94+%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "אסטרואיד מטח",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93+%D7%9E%D7%98%D7%97&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "אסטרואיד 2021",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93+2021&sa=X&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ1QJ6BAgoEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&hl=iw&gl=il&ei=az2eYoHaHPCHqtsP_tabsA8&start=10&sa=N&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ8NMDegQIAhBL",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&hl=iw&gl=il&ei=az2eYoHaHPCHqtsP_tabsA8&start=10&sa=N&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&hl=iw&gl=il&ei=az2eYoHaHPCHqtsP_tabsA8&start=20&sa=N&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&hl=iw&gl=il&ei=az2eYoHaHPCHqtsP_tabsA8&start=30&sa=N&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&hl=iw&gl=il&ei=az2eYoHaHPCHqtsP_tabsA8&start=40&sa=N&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&hl=iw&gl=il&ei=az2eYoHaHPCHqtsP_tabsA8&start=50&sa=N&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&hl=iw&gl=il&ei=az2eYoHaHPCHqtsP_tabsA8&start=60&sa=N&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&hl=iw&gl=il&ei=az2eYoHaHPCHqtsP_tabsA8&start=70&sa=N&ved=2ahUKEwjBu8TlsJn4AhXwg2oFHX7rBvYQ8tMDegQIAhBJ"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A1%D7%98%D7%A8%D7%95%D7%90%D7%99%D7%93&start=70"
+        }
+    }
+}

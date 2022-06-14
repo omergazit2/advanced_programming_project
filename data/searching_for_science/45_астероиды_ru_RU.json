@@ -1,0 +1,293 @@
+{
+    "search_metadata": {
+        "id": "629e3db2925641f2940f80cd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ea8a809b8e92dfa1/629e3db2925641f2940f80cd.json",
+        "created_at": "2022-06-06 17:47:30 UTC",
+        "processed_at": "2022-06-06 17:47:30 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&oq=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ea8a809b8e92dfa1/629e3db2925641f2940f80cd.html",
+        "total_time_taken": 0.81
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "астероиды",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "астероиды",
+        "total_results": 1050000,
+        "time_taken_displayed": 0.36
+    },
+    "knowledge_graph": {
+        "title": "Астероид",
+        "description": "Астеро́ид — относительно небольшое небесное тело Солнечной системы, движущееся по орбите вокруг Солнца. Астероиды значительно уступают по массе и размерам планетам, имеют неправильную форму и не имеют атмосферы, хотя при этом и у них могут быть спутники. Входят в категорию малых тел Солнечной системы.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4"
+        },
+        "Похожие_запросы": [
+            {
+                "name": "Комета",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9A%D0%BE%D0%BC%D0%B5%D1%82%D0%B0&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTKPf3kierhLBmU8p0f6TZaUuBFijIt5z-XY_3GQnhvCSB15Y764PYC31AaX4PE7-oZtSZZqx7p6P1Lsme1rtCYDDcI-4vglfWCw1gfrLL7Gf7LBXP0KVAjm4yUcpj9IXMn0ylps8bJkcpLB1cWMjZliQPhr5XXC5W-I2ODcPwrSLzPr8MOPDNbufQq053N5ogluW_qtV8iKAT1D5Rpgy0Q2vB7BkZKz6ArEaxjB2XdDqgOZ4TWSN0auj3gL-Z5vF8C0vig%3D&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQxA16BAhhEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9A%D0%BE%D0%BC%D0%B5%D1%82%D0%B0&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTKPf3kierhLBmU8p0f6TZaUuBFijIt5z-XY_3GQnhvCSB15Y764PYC31AaX4PE7-oZtSZZqx7p6P1Lsme1rtCYDDcI-4vglfWCw1gfrLL7Gf7LBXP0KVAjm4yUcpj9IXMn0ylps8bJkcpLB1cWMjZliQPhr5XXC5W-I2ODcPwrSLzPr8MOPDNbufQq053N5ogluW_qtV8iKAT1D5Rpgy0Q2vB7BkZKz6ArEaxjB2XdDqgOZ4TWSN0auj3gL-Z5vF8C0vig%3D",
+                "image": "https://serpapi.com/searches/629e3db2925641f2940f80cd/images/f4f2d56de0841a3bc9a180fe9ef6a029bcfd187e6e1b6b657382520540b7ad4198436aa1cfd7b32eac9b514ab36a46315b31516c021ecdec.jpeg"
+            },
+            {
+                "name": "Метеороид",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%BE%D0%B8%D0%B4&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTkhG_9u2qHoErYpuL8VnUD2jo4L50jVMXgcdJHWQGjUGQRmb-nkHfApVHPljYsHoLd0lckf8o552yP5XzZ5bKnii9n8xJtBIUW0unv26h21erDpN6bBkARBve0V2KA-SWcsh-bZ0cDOUC22CtQgG-V8gd99pvQ2R-xuGqf1_BXBDH3ZWGHvA2zlp9ztTEx7hcPCC235VkNzpyBpUUxepv409TRRcZy1KAv_AWPNvlVW5iJ_DKtb6DMXvyk7cefrwC9CHvM%3D&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQxA16BAhhEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%BE%D0%B8%D0%B4&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTkhG_9u2qHoErYpuL8VnUD2jo4L50jVMXgcdJHWQGjUGQRmb-nkHfApVHPljYsHoLd0lckf8o552yP5XzZ5bKnii9n8xJtBIUW0unv26h21erDpN6bBkARBve0V2KA-SWcsh-bZ0cDOUC22CtQgG-V8gd99pvQ2R-xuGqf1_BXBDH3ZWGHvA2zlp9ztTEx7hcPCC235VkNzpyBpUUxepv409TRRcZy1KAv_AWPNvlVW5iJ_DKtb6DMXvyk7cefrwC9CHvM%3D",
+                "image": "https://serpapi.com/searches/629e3db2925641f2940f80cd/images/f4f2d56de0841a3bc9a180fe9ef6a029bcfd187e6e1b6b657382520540b7ad4198436aa1cfd7b32e0f38dc0cff871d6a0de87bbfaa729d2a.jpeg"
+            },
+            {
+                "name": "Планета",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRQqzmOCtq46IoMXkgKyO3MWh_FkHYK5qYMqqV6ZmL2A4dOU83WWR3BJ3xTBSF6jyeeXixGiLykuexlJovTN5Q8nkk_wzD79XnhFwqPBla5OsgSS3tKb2fe21JMjhrsVpET__VkrHQTjZGUi8PegM8YEOavp9kplPn55ZFeMSaLVqA-EQ0B-DNR1VeUqEBDKrXQBXCV5wzdssZkiIadBYJOFJcGOReW4rRFclb9YSSdey_18pUSB76CTHKmk25NQg8A1wTA%3D&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQxA16BAhhEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRQqzmOCtq46IoMXkgKyO3MWh_FkHYK5qYMqqV6ZmL2A4dOU83WWR3BJ3xTBSF6jyeeXixGiLykuexlJovTN5Q8nkk_wzD79XnhFwqPBla5OsgSS3tKb2fe21JMjhrsVpET__VkrHQTjZGUi8PegM8YEOavp9kplPn55ZFeMSaLVqA-EQ0B-DNR1VeUqEBDKrXQBXCV5wzdssZkiIadBYJOFJcGOReW4rRFclb9YSSdey_18pUSB76CTHKmk25NQg8A1wTA%3D",
+                "image": "https://serpapi.com/searches/629e3db2925641f2940f80cd/images/f4f2d56de0841a3bc9a180fe9ef6a029bcfd187e6e1b6b657382520540b7ad4198436aa1cfd7b32e930c9e7aac85aeb6bb7f54db321dc3c9.jpeg"
+            },
+            {
+                "name": "Карликовая планета",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9A%D0%B0%D1%80%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F+%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLhnLo0zPIuj-xzdzHxXobMkW_br5TWF6hLliOJ73KoAp0-wyDnf1x3Rv07VfvrcPldDbbEzmyzSVXNq60n5EH8-Fv2Jkr6U-AVXvworMXKyJDVnfjqXgwmdaF1zarRTlLmO2QIT1lRidqJ1y2MrTzt3_ZFDKO1X2jrj7GehpgRwjjMLfHyukLSWbFGLAGwBw2jxWudVhQPHNzqTGa1IeOz1Xyr2esyWeiPyKVf_xi5AjvcQ4dZTYJzYrWC4wIGVQ4Y1D-jZ36VMM0H2j4xiB6rTSnGq&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQxA16BAhhEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9A%D0%B0%D1%80%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F+%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLhnLo0zPIuj-xzdzHxXobMkW_br5TWF6hLliOJ73KoAp0-wyDnf1x3Rv07VfvrcPldDbbEzmyzSVXNq60n5EH8-Fv2Jkr6U-AVXvworMXKyJDVnfjqXgwmdaF1zarRTlLmO2QIT1lRidqJ1y2MrTzt3_ZFDKO1X2jrj7GehpgRwjjMLfHyukLSWbFGLAGwBw2jxWudVhQPHNzqTGa1IeOz1Xyr2esyWeiPyKVf_xi5AjvcQ4dZTYJzYrWC4wIGVQ4Y1D-jZ36VMM0H2j4xiB6rTSnGq",
+                "image": "https://serpapi.com/searches/629e3db2925641f2940f80cd/images/f4f2d56de0841a3bc9a180fe9ef6a029bcfd187e6e1b6b657382520540b7ad4198436aa1cfd7b32ee2ed0f639ed1a0b2226b70117e431ea6.jpeg"
+            }
+        ],
+        "Похожие_запросы_link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4&stick=H4sIAAAAAAAAAONgFmLXz9U3yCorVIIxtASDM1NSyxMri_1SK0qCS1ILihexClyYcLHxYtOFrRcbLuy7sOPClh2sjAA2xAfkPQAAAA&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQMSgAegQIYRAB",
+        "Похожие_запросы_stick": "H4sIAAAAAAAAAONgFmLXz9U3yCorVIIxtASDM1NSyxMri_1SK0qCS1ILihexClyYcLHxYtOFrRcbLuy7sOPClh2sjAA2xAfkPQAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Защита Земли от астероидов | ДЕТАЛИ",
+            "link": "https://www.youtube.com/watch?v=dyqNmTVCOE0",
+            "thumbnail": "https://i.ytimg.com/vi/dyqNmTVCOE0/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lrWymXKyir3Rsx9Vm4L4-cwcnjhQ",
+            "channel": "Настоящее Время",
+            "duration": "57:22",
+            "platform": "YouTube",
+            "date": "28 июл. 2020 г."
+        },
+        {
+            "position": 2,
+            "title": "САМЫЙ ОПАСНЫЙ АСТЕРОИД. Факты о космосе.",
+            "link": "https://www.youtube.com/watch?v=IWLSzAZHoX0",
+            "thumbnail": "https://i.ytimg.com/vi/IWLSzAZHoX0/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mYdmu4OqX4AHCCozL_r4_KGPkW1A",
+            "channel": "Роскосмос ТВ",
+            "duration": "1:31",
+            "platform": "YouTube",
+            "date": "3 янв. 2018 г."
+        },
+        {
+            "position": 3,
+            "title": "Что, если астероид ударит в Землю 20.03.2022 [Что нас ...",
+            "link": "https://www.youtube.com/watch?v=OS4jOQ9E7og",
+            "thumbnail": "https://i.ytimg.com/vi/OS4jOQ9E7og/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kZGM6cdct5uXqYYDjD_mhM8gODuw",
+            "channel": "Artur Sharifov",
+            "duration": "25:53",
+            "platform": "YouTube",
+            "date": "23 сент. 2021 г."
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "По древним астероидам ученые узнали, что в ранней Солнечной системе царил хаос",
+            "link": "https://hightech.fm/2022/06/06/solar-system-total-mayhem",
+            "source": "Хайтек",
+            "date": "10 часов назад",
+            "thumbnail": "https://serpapi.com/searches/629e3db2925641f2940f80cd/images/90456a9a41c5ce1ce029948514c5fccb068d279798bfcd6b.jpeg"
+        },
+        {
+            "title": "6 июня потенциально опасный астероид пересечет орбиту Земли",
+            "link": "https://www.1rre.ru/414447-v22-potencialno-opasnyj-asteroid-peresechet-orbitu-zemli-utrom-6-iyunya-2022-goda.html",
+            "source": "1RRE",
+            "date": "22 часа назад",
+            "thumbnail": "https://serpapi.com/searches/629e3db2925641f2940f80cd/images/90456a9a41c5ce1cfe31890d2748b7564206d07001c30358.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQt8YBegQINxAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&tbm=nws",
+    "related_questions": [
+        {
+            "question": "Где самое большое количество астероидов?",
+            "snippet": "Немного о главном поясе астероидов Главный и самый крупный пояс астероидов находится между Марсом и Юпитером. Он насчитывает, по мнению ученных, не менее 1,7 млн. объектов, из них могут наблюдаться 100 000. Пояс астероидов – скопление небесных тел неправильной формы разных размеров.",
+            "title": "Самый крупный объект Главного пояса астероидов - Четыре глаза",
+            "link": "https://www.4glaza.ru/articles/samyy-krupnyy-obyekt-glavnogo-poyasa-asteroidov/",
+            "displayed_link": "https://www.4glaza.ru › articles › samyy-krupnyy-obyekt-..."
+        },
+        {
+            "question": "Сколько астероидов в поясе астероидов?",
+            "snippet": "На сегодняшний день, пояс астероидов насчитывает свыше 300 000 именованных объектов. По состоянию на 6 сентября 2011 года количество именованных астероидов пояса достигло 285 075. Крупнейшие образования пояса астероидов названы в честь римских божеств: Церера, Веста, Паллада и Гигея.3 дек. 2014 г.",
+            "title": "Пояс астероидов - Spacegid.com",
+            "link": "https://spacegid.com/poyas-asteroidov.html",
+            "displayed_link": "https://spacegid.com › poyas-asteroidov"
+        },
+        {
+            "question": "Каков химический состав астероида?",
+            "snippet": "S-тип, 17%: относительно светлые (альбедо 0.10-0.22); химический состав - смесь металлов (железа и никеля) с железно-магниевыми силикатами; M-тип, в него попадают большинство из оставшихся астероидов: светлые (альбедо 0.10-0.18); состоят из чистого железа и никеля.",
+            "title": "Астероиды - Астронет",
+            "link": "http://www.astronet.ru/db/msg/1170734/asteroids.html",
+            "displayed_link": "http://www.astronet.ru › msg › asteroids"
+        },
+        {
+            "question": "Как происходит движение астероидов?",
+            "snippet": "Астероиды - это твердые каменистые тела, которые подобно планетам движутся по околосолнечным эллиптическим орбитам. Но размеры этих тел намного меньше, чем у обычных планет, поэтому их еще называют малыми планетами.",
+            "title": "АСТЕРОИДЫ",
+            "link": "http://selena.sai.msu.ru/Home/SolarSystem/asteroids/asteroids.htm",
+            "displayed_link": "http://selena.sai.msu.ru › Home › asteroids › asteroids"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Астеро́ид (распространённый до 2006 года синоним — малая планета) — относительно небольшое небесное тело Солнечной системы, движущееся по орбите вокруг Солнца. Астероиды значительно уступают по массе и размерам планетам, имеют неправильную форму и не имеют атмосферы, хотя при этом и у них могут быть спутники.",
+        "link": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4",
+        "displayed_link": "https://ru.wikipedia.org › wiki › Астероид",
+        "snippet": "Астеро́ид (распространённый до 2006 года синоним — малая планета) — относительно небольшое небесное тело Солнечной системы, движущееся по орбите вокруг Солнца. Астероиды значительно уступают по массе и размерам планетам, имеют неправильную форму и не имеют атмосферы, хотя при этом и у них могут быть спутники.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "АСТЕРОИДЫ",
+            "link": "http://selena.sai.msu.ru/Home/SolarSystem/asteroids/asteroids.htm",
+            "displayed_link": "http://selena.sai.msu.ru › Home › asteroids › asteroids",
+            "snippet": "Астероиды - это твердые каменистые тела, которые подобно планетам движутся по околосолнечным эллиптическим орбитам. Но размеры этих тел намного меньше, ...",
+            "snippet_highlighted_words": [
+                "Астероиды"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Астероид — все статьи и новости - Индикатор - Indicator.Ru",
+            "link": "https://indicator.ru/label/asteroid",
+            "displayed_link": "https://indicator.ru › label › asteroid",
+            "snippet": "Астероид — небесное тело неправильной формы и небольшого, по сравнению с планетами, размера. Астероиды не имеют атмосферы. В Солнечной системе астероиды ...",
+            "snippet_highlighted_words": [
+                "Астероид",
+                "Астероиды",
+                "астероиды"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Что такое астероиды и угрожают ли они Земле | РБК Тренды",
+            "link": "https://trends.rbc.ru/trends/futurology/622afff69a7947c546373f4c",
+            "displayed_link": "https://trends.rbc.ru › РБК Тренды › Футурология",
+            "date": "11 мар. 2022 г.",
+            "snippet": "Астероиды — это твердые каменистые тела, которые вращаются вокруг Солнца. Этим они повторяют поведение планет, но не могут называться так ...",
+            "snippet_highlighted_words": [
+                "Астероиды"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Астероиды — урок. География, 5 класс. - ЯКласс",
+            "link": "https://www.yaklass.ru/p/geografiya/5-klass/zemlia-vo-vselennoi-163477/nebesnye-tela-163963/re-8f1e045b-c428-4651-b89c-a90a80493a5e",
+            "displayed_link": "https://www.yaklass.ru › ... › Небесные тела",
+            "snippet": "Астероид — относительно небольшое небесное тело Солнечной системы, движущееся по орбите вокруг Солнца. Астероиды значительно уступают планетам по массе и ...",
+            "snippet_highlighted_words": [
+                "Астероид",
+                "Астероиды"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Астероиды - Астрономический словарь Санько Н.Ф.",
+            "link": "http://www.iki.rssi.ru/hend/Dictionary/Asteroids.htm",
+            "displayed_link": "http://www.iki.rssi.ru › hend › Dictionary › Asteroids",
+            "snippet": "планеты · Солнечной системы, чаще всего неправильной формы, имеющие средний диаметр меньше 1500 км, называются астероидами. До недавнего времени считалось, что ...",
+            "snippet_highlighted_words": [
+                "астероидами"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Астероиды — источники опасности и объекты исследований",
+            "link": "https://elementy.ru/nauchno-populyarnaya_biblioteka/432766/Asteroidy_istochniki_opasnosti_i_obekty_issledovaniy",
+            "displayed_link": "https://elementy.ru › nauchno-populyarnaya_biblioteka",
+            "snippet": "Весьма неожиданный способ исследования астероидов был предложен проектом по перемещению астероида (Asteroid Redirect Mission), или, как его называют, проектом ...",
+            "snippet_highlighted_words": [
+                "астероидов",
+                "астероида"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Самые большие астероиды и их движение: топ-10 - Моя ...",
+            "link": "https://moya-planeta.ru/travel/view/samye_bolshie_asteroidy_i_ikh_dvizhenie_top10",
+            "displayed_link": "https://moya-planeta.ru › travel › view › samye_bolshie...",
+            "date": "27 янв. 2022 г.",
+            "snippet": "Астероиды — это небесные тела нашей системы, которые движутся вокруг Солнца. На сегодняшний день их открыто более 1 млн.",
+            "snippet_highlighted_words": [
+                "Астероиды"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "астероиды названия",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B+%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ1QJ6BAhAEAE"
+        },
+        {
+            "query": "астероиды кратко",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B+%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ1QJ6BAg_EAE"
+        },
+        {
+            "query": "астероиды доклад",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B+%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ1QJ6BAg9EAE"
+        },
+        {
+            "query": "известные астероиды",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5+%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ1QJ6BAg8EAE"
+        },
+        {
+            "query": "астероиды примеры",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B+%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "астероиды состав",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B+%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "астероиды геологические характеристики",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B+%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "происхождение астероидов",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9F%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D0%BE%D0%B2&sa=X&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ1QJ6BAgxEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&gl=ru&hl=ru&ei=sz2eYuHUDr-hptQP_uSHoAk&start=10&sa=N&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ8NMDegQIARBQ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&gl=ru&hl=ru&ei=sz2eYuHUDr-hptQP_uSHoAk&start=10&sa=N&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ8tMDegQIARA-",
+            "3": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&gl=ru&hl=ru&ei=sz2eYuHUDr-hptQP_uSHoAk&start=20&sa=N&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ8tMDegQIARBA",
+            "4": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&gl=ru&hl=ru&ei=sz2eYuHUDr-hptQP_uSHoAk&start=30&sa=N&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ8tMDegQIARBC",
+            "5": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&gl=ru&hl=ru&ei=sz2eYuHUDr-hptQP_uSHoAk&start=40&sa=N&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ8tMDegQIARBE",
+            "6": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&gl=ru&hl=ru&ei=sz2eYuHUDr-hptQP_uSHoAk&start=50&sa=N&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ8tMDegQIARBG",
+            "7": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&gl=ru&hl=ru&ei=sz2eYuHUDr-hptQP_uSHoAk&start=60&sa=N&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ8tMDegQIARBI",
+            "8": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&gl=ru&hl=ru&ei=sz2eYuHUDr-hptQP_uSHoAk&start=70&sa=N&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ8tMDegQIARBK",
+            "9": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&gl=ru&hl=ru&ei=sz2eYuHUDr-hptQP_uSHoAk&start=80&sa=N&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ8tMDegQIARBM",
+            "10": "https://www.google.com/search?q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&gl=ru&hl=ru&ei=sz2eYuHUDr-hptQP_uSHoAk&start=90&sa=N&ved=2ahUKEwih-uCHsZn4AhW_kIkEHX7yAZQQ8tMDegQIARBO"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&start=90"
+        }
+    }
+}

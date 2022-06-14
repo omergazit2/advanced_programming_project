@@ -1,0 +1,456 @@
+{
+    "search_metadata": {
+        "id": "629e3d544b91eb079f0742fa",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f5b1b777bc37e2fe/629e3d544b91eb079f0742fa.json",
+        "created_at": "2022-06-06 17:45:56 UTC",
+        "processed_at": "2022-06-06 17:45:56 UTC",
+        "google_url": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&oq=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f5b1b777bc37e2fe/629e3d544b91eb079f0742fa.html",
+        "total_time_taken": 1.23
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "فطر",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "فطر",
+        "total_results": 123000000,
+        "time_taken_displayed": 0.53
+    },
+    "knowledge_graph": {
+        "title": "فطر",
+        "type": "طعام",
+        "description": "فُطْر وجمعه فُطْريات أو فطور من مملكة الكائنات الحية ضمن نطاق حقيقية النوى، وتشكل أنواعه العديدة مملكة الفطريات. تتميز بأنها تهضم طعامها خارجيا وتمتص الجزيئات المغذية إلى ضمن خلاياه بعد إتمام عملية الهضم؛ وهذه تتم بإفراز هيدرولازات تذيب خلايا الأنسجة النباتية أو الحيوانية أو المواد العضوية التي تتغذى عليها.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%81%D8%B7%D8%B1"
+        },
+        "الترتيب": "مملكة",
+        "الترتيب_links": [
+            {
+                "text": "الترتيب",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D8%B7%D8%B1+%D8%A7%D9%84%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8&stick=H4sIAAAAAAAAAAFOALH_CA4SCC9tLzAzMTU0KihrYzovYmlvbG9neS9vcmdhbmlzbV9jbGFzc2lmaWNhdGlvbjpyYW5rogUV2YHYt9ixINin2YTYqtix2KrZitio1bMwhU4AAAA&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ6BMoAHoECFwQAg"
+            }
+        ],
+        "التصنيفات_الأقل": [
+            {
+                "name": "فطريات زقية",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D8%B7%D8%B1%D9%8A%D8%A7%D8%AA+%D8%B2%D9%82%D9%8A%D8%A9&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMzFK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexit5svLH9xsabXTeW31ilcGPTzSYgc-UOVkYAmlOUq2wAAAA&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQxA16BAhgEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1%D9%8A%D8%A7%D8%AA+%D8%B2%D9%82%D9%8A%D8%A9&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMzFK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexit5svLH9xsabXTeW31ilcGPTzSYgc-UOVkYAmlOUq2wAAAA",
+                "image": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/6f28a3fca8f88540a7dc796ec5e155bd540f45858c9ffba2aab85a083ee147d560d94f2315374e3f3753fe18fa91d2aafa6e063c05592e96.jpeg"
+            },
+            {
+                "name": "دعاميات",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AF%D8%B9%D8%A7%D9%85%D9%8A%D8%A7%D8%AA&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMTCu0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8t1Yf2PnjeU3W2923Vh-Y9UOVkYApagoQ2UAAAA&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQxA16BAhgEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AF%D8%B9%D8%A7%D9%85%D9%8A%D8%A7%D8%AA&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMTCu0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8t1Yf2PnjeU3W2923Vh-Y9UOVkYApagoQ2UAAAA",
+                "image": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/6f28a3fca8f88540a7dc796ec5e155bd540f45858c9ffba2aab85a083ee147d560d94f2315374e3f693f1861a1322f9d103b23eb52ec451f.jpeg"
+            },
+            {
+                "name": "الفطر الأبيض",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%BA%D8%A7%D8%B1%D9%8A%D9%82%D9%88%D9%86+%D8%AB%D9%86%D8%A7%D8%A6%D9%89+%D8%A7%D9%84%D8%A8%D9%88%D8%BA&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLEMi5PKs7Uss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Gq3Nh1Y_mNjTe7bjbd7LjZpnBj9c02oMCym50KN5bfbLmx4mbHjV07WBkBVs8V-XwAAAA&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQxA16BAhgEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B1%D9%8A%D9%82%D9%88%D9%86+%D8%AB%D9%86%D8%A7%D8%A6%D9%89+%D8%A7%D9%84%D8%A8%D9%88%D8%BA&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLEMi5PKs7Uss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Gq3Nh1Y_mNjTe7bjbd7LjZpnBj9c02oMCym50KN5bfbLmx4mbHjV07WBkBVs8V-XwAAAA",
+                "image": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/6f28a3fca8f88540a7dc796ec5e155bd540f45858c9ffba2aab85a083ee147d560d94f2315374e3fff82202d14fbe53f24a72bf27d50c9be.jpeg"
+            },
+            {
+                "name": "غاريقون",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%BA%D8%A7%D8%B1%D9%8A%D9%82%D9%88%D9%86&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLFMs8yLC7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Hy3dh1Y_mNjTe7bjbd7LjZtoOVEQAnc6pfZgAAAA&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQxA16BAhgEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B1%D9%8A%D9%82%D9%88%D9%86&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLFMs8yLC7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Hy3dh1Y_mNjTe7bjbd7LjZtoOVEQAnc6pfZgAAAA",
+                "image": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/6f28a3fca8f88540a7dc796ec5e155bd540f45858c9ffba2aab85a083ee147d560d94f2315374e3f4983b7b76705244d0f3dde671feea9c4.jpeg"
+            }
+        ],
+        "التصنيفات_الأقل_link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D8%B7%D8%B1+%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA+%D8%A7%D9%84%D8%A3%D9%82%D9%84&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVGCs7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Gq3Gy8sf3GRoUby2-23Fh1Y-vNtptdQKHlN1ZBhBbfbLrZsoOVEQCI7LcoewAAAA&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQMSgAegQIYBAB",
+        "التصنيفات_الأقل_stick": "H4sIAAAAAAAAAONgFuLQz9U3MDY0NVGCs7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Gq3Gy8sf3GRoUby2-23Fh1Y-vNtptdQKHlN1ZBhBbfbLrZsoOVEQCI7LcoewAAAA",
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "طحالب",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D8%AD%D8%A7%D9%84%D8%A8&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGdAUICOFAYmdnvlm2ZugXjhrA8vuo4cJBX0N1F9oRIeNtAmOCUA8gWl83wZlm83Pes16nQI9Sy8aI5_q3hEgRETEk1-_gplzEVe-_E5ZwRzFEt2ltcHOada4_w_3EHJF5D-0EXHKg2IGrKac9_MnlqqCWtEz2QdotPpOT0b7cGS9dDaC37N2xvKxcFbWumNlk-h9ax8HSMM_dOV9A6Ofl42K6viEzT_LtT2rnPPjbrHeifIKecgd5rw3j8EYi-5xv74rsCM%3D&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQxA16BAhfEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%AD%D8%A7%D9%84%D8%A8&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGdAUICOFAYmdnvlm2ZugXjhrA8vuo4cJBX0N1F9oRIeNtAmOCUA8gWl83wZlm83Pes16nQI9Sy8aI5_q3hEgRETEk1-_gplzEVe-_E5ZwRzFEt2ltcHOada4_w_3EHJF5D-0EXHKg2IGrKac9_MnlqqCWtEz2QdotPpOT0b7cGS9dDaC37N2xvKxcFbWumNlk-h9ax8HSMM_dOV9A6Ofl42K6viEzT_LtT2rnPPjbrHeifIKecgd5rw3j8EYi-5xv74rsCM%3D",
+                "image": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/6f28a3fca8f88540a7dc796ec5e155bdd511bc370d97ea3bc5fda9acd94397d07ced4eefe747b3bafade2169c8fdafa8cbaae63473646e8f9d7e8565878d3d92.jpeg"
+            },
+            {
+                "name": "عيش الغراب",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B9%D9%8A%D8%B4+%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSc63QM4HgpGU0CjLzltEvypC7D0G0V8hYs8dObgmORJyXfzPIjvxnm_SnOVdZoW-NHVhCQmO_4TW-9ZIzJBIlaJJa9AuCv4YyGaFm3h5O-faZTbz7c98tdFMBhKbgoY0jYqHdlbGzv6LvsCywX01JEC8KfxHUEW1GfppWx7FQFAZOwdXgm40T79NwBPfk0mCZ12LX1CO1YAoWi3NNZ3yukLZi_kisUYxuj6El3xFYQbpFl-0bCzwRQ45G5F_Zee2TfAt0U%3D&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQxA16BAhfEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%8A%D8%B4+%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSc63QM4HgpGU0CjLzltEvypC7D0G0V8hYs8dObgmORJyXfzPIjvxnm_SnOVdZoW-NHVhCQmO_4TW-9ZIzJBIlaJJa9AuCv4YyGaFm3h5O-faZTbz7c98tdFMBhKbgoY0jYqHdlbGzv6LvsCywX01JEC8KfxHUEW1GfppWx7FQFAZOwdXgm40T79NwBPfk0mCZ12LX1CO1YAoWi3NNZ3yukLZi_kisUYxuj6El3xFYQbpFl-0bCzwRQ45G5F_Zee2TfAt0U%3D",
+                "image": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/6f28a3fca8f88540a7dc796ec5e155bdd511bc370d97ea3bc5fda9acd94397d07ced4eefe747b3bafade2169c8fdafa8cbaae63473646e8f260184e1cdd99b76.jpeg"
+            },
+            {
+                "name": "غاريقون",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%BA%D8%A7%D8%B1%D9%8A%D9%82%D9%88%D9%86&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgG5W3ZeZ3NERfyD5S1LRNAMaT7DDrzlOOh2Y1AUKjv1yf3YZkwfTEYscNFs8XBm0vwlBt7S8u0HZc5IsA0vcQY-J_xyxTT69zB_xKzfOUYuWCp2bK0MwnceUVQEHxJ81phyNXtHkiUxKm-xq3zU4UYvR6Npqyu6mfad93az9tE1b4qAaTQ3ZhdQfOFNHRH8BnYEKVY_Ss_oeLdLiBWDvVaLMHRa5xTeEiMBZIU3lSVi44NIHIumhf5WLV1WGPKNq0Rpt3Nc%3D&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQxA16BAhfEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%BA%D8%A7%D8%B1%D9%8A%D9%82%D9%88%D9%86&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgG5W3ZeZ3NERfyD5S1LRNAMaT7DDrzlOOh2Y1AUKjv1yf3YZkwfTEYscNFs8XBm0vwlBt7S8u0HZc5IsA0vcQY-J_xyxTT69zB_xKzfOUYuWCp2bK0MwnceUVQEHxJ81phyNXtHkiUxKm-xq3zU4UYvR6Npqyu6mfad93az9tE1b4qAaTQ3ZhdQfOFNHRH8BnYEKVY_Ss_oeLdLiBWDvVaLMHRa5xTeEiMBZIU3lSVi44NIHIumhf5WLV1WGPKNq0Rpt3Nc%3D",
+                "image": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/6f28a3fca8f88540a7dc796ec5e155bdd511bc370d97ea3bc5fda9acd94397d07ced4eefe747b3bafade2169c8fdafa8cbaae63473646e8f1036e34ec04d4925.jpeg"
+            },
+            {
+                "name": "فطريات صالحة للأكل",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D8%B7%D8%B1%D9%8A%D8%A7%D8%AA+%D8%B5%D8%A7%D9%84%D8%AD%D8%A9+%D9%84%D9%84%D8%A3%D9%83%D9%84&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgIVp_NU4cgHgPlZEmfo4VAiBmpXl1VqIhLHVirEOOskRjMuj3mBblAVBG4tdH7w99bLytJcEeVftpVDy_0-6pm2TZfEQ9aDOJZcRdwSklN_6mdf8FcA4AHcF-hHlnRer3wdncGTnQzpUUh1s23pk0h6LgeE3rEvzv9NkEGfZ5GtWCOnuDv4vM_J51OwvnRxVTD7xZMR1qysq9LvtS-BW_43lZflUZJqIClu-mCRyS677AxjoC77MmM5gsmLEEyOpoFRrSZTz1Oll3bukDaeXXlnkQmTU&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQxA16BAhfEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1%D9%8A%D8%A7%D8%AA+%D8%B5%D8%A7%D9%84%D8%AD%D8%A9+%D9%84%D9%84%D8%A3%D9%83%D9%84&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgIVp_NU4cgHgPlZEmfo4VAiBmpXl1VqIhLHVirEOOskRjMuj3mBblAVBG4tdH7w99bLytJcEeVftpVDy_0-6pm2TZfEQ9aDOJZcRdwSklN_6mdf8FcA4AHcF-hHlnRer3wdncGTnQzpUUh1s23pk0h6LgeE3rEvzv9NkEGfZ5GtWCOnuDv4vM_J51OwvnRxVTD7xZMR1qysq9LvtS-BW_43lZflUZJqIClu-mCRyS677AxjoC77MmM5gsmLEEyOpoFRrSZTz1Oll3bukDaeXXlnkQmTU",
+                "image": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/6f28a3fca8f88540a7dc796ec5e155bdd511bc370d97ea3bc5fda9acd94397d07ced4eefe747b3bafade2169c8fdafa8cbaae63473646e8fc2b8fd153efffc6f.jpeg"
+            }
+        ],
+        "يبحث_الأشخاص_أيضًا_عن_link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D8%B7%D8%B1&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVGCs7QEgzNTUssTK4v9UitKgktSC4oXsbLdbLyx_cbGHayMAAWY3Ak1AAAA&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQMSgAegQIXxAB",
+        "يبحث_الأشخاص_أيضًا_عن_stick": "H4sIAAAAAAAAAONgFuLQz9U3MDY0NVGCs7QEgzNTUssTK4v9UitKgktSC4oXsbLdbLyx_cbGHayMAAWY3Ak1AAAA",
+        "list": {
+            "ليبيد": [
+                "0.3 g",
+                "0.3 g"
+            ],
+            "دهن_مشبع": [
+                "0.1 g",
+                "0.1 g"
+            ],
+            "كولسترول": [
+                "0 mg",
+                "0 mg"
+            ],
+            "صوديوم": [
+                "5 mg",
+                "5 mg"
+            ],
+            "بوتاسيوم": [
+                "318 mg",
+                "318 mg"
+            ],
+            "سكريات": [
+                "3.3 g",
+                "3.3 g"
+            ],
+            "ألياف_غذائية": [
+                "1 g",
+                "1 g"
+            ],
+            "سكر": [
+                "2 g",
+                "2 g"
+            ],
+            "بروتين": [
+                "3.1 g",
+                "3.1 g"
+            ],
+            "فيتامين_سي": [
+                "2.1 mg"
+            ],
+            "كالسيوم": [
+                "3 mg"
+            ],
+            "حديد": [
+                "0.5 mg"
+            ],
+            "فيتامين_دي": [
+                "7 IU"
+            ],
+            "فيتامين_ب6": [
+                "0.1 mg"
+            ],
+            "كوبالامين": [
+                "0 µg"
+            ],
+            "مغنيسيوم": [
+                "9 mg"
+            ]
+        }
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgHEAE#imgrc=RFB5Tb_Xd1z0lM",
+            "source": "https://aawsat.com/home/article/3020521/%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%B5%D8%AD%D9%8A%D8%A9",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635d6295ef9d781d358990e23d74f28f51d679ecc39cb16177a.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgLEAE#imgrc=_dusFAEafkUvkM",
+            "source": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635819654f97885c47fe2aa0e1d7575436f59e9f9900f330f8c.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgXEAE#imgrc=84Sxykkh_Dv2VM",
+            "source": "https://www.carrefourksa.com/mafsau/ar/root-maf-category//fruits-vegetables/vegetables/mushrooms/mushroom-white-local-punnet-250-gms/p/78567",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a63526bb4d09c26d5348a3a1021f845482f8bcdeeb780c70a94e.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgMEAE#imgrc=u4g_O91vehgixM",
+            "source": "https://www.alarabiya.net/science/2017/06/01/%D8%B9%D9%84%D9%85%D9%8A%D8%A7-%D9%87%D8%B0%D9%87-%D8%A3%D9%81%D8%B6%D9%84-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D9%84%D8%B7%D9%87%D9%8A-%D8%A7%D9%84%D9%81%D8%B7%D8%B1",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635c4080095db2d3784665b6cbe78f42254de90cff61fe293f9.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgUEAE#imgrc=5cmFHz-xDg5QaM",
+            "source": "https://arsco.org/article-detail-777-8-0",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635e83d126fb461bdf222cdb0bfe6ca7f5bc239901153ad7296.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgYEAE#imgrc=PUs60gv86Lrl3M",
+            "source": "https://www.ibelieveinsci.com/%D8%B3%D8%AA%D8%A9-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%AA%D8%B4%D8%AC%D8%B9%D9%86%D8%A7-%D8%B9%D9%84%D9%89-%D8%AA%D9%86%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-%D8%A7%D9%84/",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635ef9c448516771b93413669b98b35c14e50fb5407e89f7da9.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgaEAE#imgrc=o8ArzBIJJka9QM",
+            "source": "https://www.facebook.com/%D9%81%D8%B7%D8%B1-%D8%B7%D8%A7%D8%B2%D8%AC-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-112200063702923/posts",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a63594a029250466452be0e6470f595844cf4bcbd3332177401e.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgOEAE#imgrc=YxruYnUdluBvhM",
+            "source": "https://www.amazon.sa/%D9%81%D8%B7%D8%B1-%D9%85%D9%82%D8%B7%D8%B9-%D8%B4%D8%B1%D8%A7%D8%A6%D8%AD-%D9%85%D9%86-%D9%82%D9%88%D8%AF%D9%8A/dp/B07PBCPJ9V",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a6351311b5c6403984cfb01901fc403556b293cab8cd1d32d88a.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgSEAE#imgrc=MMLj5AjtHG_GpM",
+            "source": "https://www.carrefourksa.com/mafsau/ar/root-maf-category//food-cupboard/tins-jars-packets/canned-vegetables-/mushrooms/goody-mushroom-pc-and-stems-400g/p/126309",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635df46353c41795e6524d64bca83fcb2145fe910f8feaf2a7f.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgVEAE#imgrc=rzfUH-MlFQGMDM",
+            "source": "https://www.dw.com/ar/%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D8%A7%D9%84%D8%B3%D8%AD%D8%B1%D9%8A-%D8%AF%D9%88%D8%A7%D8%A1-%D9%81%D8%B9%D8%A7%D9%84-%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8/a-40953969",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635f88baa7d30c9c6e3e4f6055987e3e2320c041a62d25c4ca5.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgWEAE#imgrc=4iLhV8IdbKKsyM",
+            "source": "https://arabicedition.nature.com/journal/2019/12/d41586-019-03614-0/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%8E%D8%B2%D9%92%D8%B1%D9%8E%D9%82%D9%91-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D8%A7%D9%84%D8%B3%D8%AD%D8%B1%D9%8A%D8%9F",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635ad746ca423383e2efab6fdb3ae76b772d3a1e478981669ef.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgZEAE#imgrc=cdwdt4JpHSryKM",
+            "source": "https://tafkah.com/product/%D9%81%D8%B7%D8%B1/",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635f3586ed0038bfd9ecbd87d31693bd200d1ba896e494d1510.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgTEAE#imgrc=uAyVlvbFYlu4BM",
+            "source": "https://www.sharbatly.club/a/l/ar/products/mushroom-enoki-generic-generic-sharbatly-club-100-gm-punnet-production",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635274584e73dc0c9629c9488160fc64bdb87da735f00d7aa07.jpeg"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=RFB5Tb_Xd1z0lM%252CrRizfj6FOU8YrM%252C_%253B_dusFAEafkUvkM%252Cos28FZMhzUtBsM%252C_%253B84Sxykkh_Dv2VM%252CbityEYT0afLwPM%252C_%253Bu4g_O91vehgixM%252CCq05jVtPGDtxVM%252C_%253B5cmFHz-xDg5QaM%252C5JnNx4bpPk2Q-M%252C_%253BPUs60gv86Lrl3M%252C02cnv5oBhoXpXM%252C_%253Bo8ArzBIJJka9QM%252CaAQbY99oE6e-qM%252C_%253BYxruYnUdluBvhM%252CAUTUic_XV8xM1M%252C_%253BMMLj5AjtHG_GpM%252Cwb5ZpkOGj45VEM%252C_%253BrzfUH-MlFQGMDM%252CxZ8H0qfEj7_rNM%252C_%253B4iLhV8IdbKKsyM%252C0GOMu2dP7tfUQM%252C_%253Bcdwdt4JpHSryKM%252CYJgrQPO4ndIksM%252C_%253BuAyVlvbFYlu4BM%252ClA_PYycgV6kq5M%252C_%253BY-E-fJP0jMNDqM%252CTaylh-wYDIQJtM%252C_&usg=AI4_-kSeYC24ApeXGiMk4PiRtDuIK6Xj_g&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ9QF6BAgKEAE#imgrc=Y-E-fJP0jMNDqM",
+            "source": "http://www.taw9eel.com/mushroom-holland-pack-250-g.html",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/5f87de05d6c3a635f4f099ce0a5dd148aa9fb0197b8cb26c7958325bd6a5bfb2.jpeg"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "\"فطر باريس\".. فطر فريد ذو طعم لذيذ تنتجه العاصمة الفرنسية",
+            "link": "https://www.youtube.com/watch?v=gJQaPowNb58",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/9d0035b0eafcc80e6d85284843ea96d11c1d0ea8483b9b33cbaf9eedc163d0fb.jpeg",
+            "channel": "فرانس 24 / FRANCE 24 Arabic",
+            "duration": "2:00",
+            "platform": "YouTube",
+            "date": "26‏/10‏/2021"
+        },
+        {
+            "position": 2,
+            "title": "حكاية.. تجربة نازحين سوريين في زراعة الفطر",
+            "link": "https://www.youtube.com/watch?v=zqY-lDcGR6M",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/9d0035b0eafcc80e60e98956473e6e310072ec0ca19b4fabaa5f19d0c270aab4.jpeg",
+            "channel": "Al Jazeera Mubasher قناة الجزيرة مباشر",
+            "duration": "8:47",
+            "platform": "YouTube",
+            "date": "15‏/01‏/2022"
+        },
+        {
+            "position": 3,
+            "title": "البحث عن الفطر.. رحلة صباحية ومصدر رزق - سوريا",
+            "link": "https://www.youtube.com/watch?v=9wZSWbOR7-A",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/9d0035b0eafcc80e1ccbd520ec48c392b496832b43a5066ba36799a99b9254c0.jpeg",
+            "channel": "تلفزيون أورينت Orient TV",
+            "duration": "2:40",
+            "platform": "YouTube",
+            "date": "20‏/12‏/2018"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "فطر - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%81%D8%B7%D8%B1",
+            "displayed_link": "https://ar.wikipedia.org › wiki › فطر",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/98306a42191750d95f2f54c40e22d2c3c6f22fbef8d638dc92dab7ab9e0a425f.jpeg",
+            "snippet": "الفطريات هي كائنات حية ثالوسية تنتشر انتشاراً واسعاً في الأوساط المختلفة فهي توجد في التربة الرطبة والجافة، وفي المياه العذبة والمالحة وفي الهواء حتى ارتفاعات ...",
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "غير مصنف: خلفيات السوط",
+                        "المرتبة التصنيفية: مملكة",
+                        "المملكة: الفطريات; (لينيوس‏, 1753) R.T. Moore, ...‏"
+                    ],
+                    "detected_extensions": {
+                        "المملكة_الفطريات_لينيوس‏_rt_moore_‏": null
+                    }
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "عيش الغراب - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D8%B4_%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8",
+            "displayed_link": "https://ar.wikipedia.org › wiki › عيش_الغراب",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/98306a42191750d95f2f54c40e22d2c3dd5da8a1bab1d8a990f735502d695142.jpeg",
+            "snippet": "عيش الغراب (بالإنجليزية: Mushroom)‏، هو فطر مثمر الذي ينمو فوق الأرض. حيث توجد أصناف كثيرة من الفطريات اللحيمة، التي تشبه المظلة في شكلها.",
+            "snippet_highlighted_words": [
+                "Mushroom",
+                "فطر"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "فوائد الفطر وأشهر أنواعه - ويب طب",
+            "link": "https://www.webteb.com/articles/%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%88%D8%A7%D9%86%D9%88%D8%A7%D8%B9%D9%87_15328",
+            "displayed_link": "https://www.webteb.com › فوائد-الفطر-وانواعه_15328",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/98306a42191750d95f2f54c40e22d2c3b9b8900a5503e49a82a77705b39475b9.jpeg",
+            "snippet": "فطر المحار (Oyster mushroom). هو فطر ذو بنية هشة ومخملية يشبه بشكله المحار أو يمكن تشبيهه بالبوق، ألوانه تتنوع عادة ما بين البني والرمادي ...",
+            "snippet_highlighted_words": [
+                "فطر",
+                "mushroom",
+                "فطر"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٩‏/٠٤‏/٢٠١٥ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "6 فوائد صحية للمشروم - ويب طب",
+            "link": "https://www.webteb.com/articles/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-6-%D9%85%D9%86-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D9%85-%D9%84%D8%B5%D8%AD%D8%AA%D9%83-%E2%80%8D_15122",
+            "displayed_link": "https://www.webteb.com › articles › تعرف-على-6-من-ف...",
+            "thumbnail": "https://serpapi.com/searches/629e3d544b91eb079f0742fa/images/98306a42191750d95f2f54c40e22d2c3af79f5cb9a7fda3baac2b913fb663855.jpeg",
+            "snippet": "يعد المشروم (Mushrooms) أو ما يعرف بعش الغراب نوع من أنواع الفطريات (Fungi)، بعضها قابل للأكل وبعضها الآخر سام، أما النوع القابل للاستهلاك ...",
+            "snippet_highlighted_words": [
+                "Fungi"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٧‏/١٢‏/٢٠١٤ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "الفطر مفيد لصحتك.. أشهره فطر المحار ينظم السكر ويحسن ...",
+            "link": "https://www.youm7.com/story/2021/12/6/%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%85%D9%81%D9%8A%D8%AF-%D9%84%D8%B5%D8%AD%D8%AA%D9%83-%D8%A3%D8%B4%D9%87%D8%B1%D9%87-%D9%81%D8%B7%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B1-%D9%8A%D9%86%D8%B8%D9%85-%D8%A7%D9%84%D8%B3%D9%83%D8%B1-%D9%88%D9%8A%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D8%A9/5565872",
+            "displayed_link": "https://www.youm7.com › story › 2021/12 › الفطر-مف...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTYpvue8EUdGhUmhbQ0uzjd1KKye_Jmru7EujDNj9byqzT2W1PZEn&usqp=CAE&s",
+            "snippet": "الفطر من الأطعمة التي يتم استهلاكها بشكل شائع وهي ليست فواكه ولا خضروات،لكن الفطريات تعتبر بديلاً شائعًا للحوم للنباتيين.",
+            "snippet_highlighted_words": [
+                "الفطر"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٦‏/١٢‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "أنواع الفطر",
+            "link": "http://website.paaf.gov.kw/paaf/ershad/c187.jsp",
+            "displayed_link": "http://website.paaf.gov.kw › paaf › ershad",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Oq01hnKW1o5zMd87neCnZEHcB3T4Hqo_wQ_HicQ_zO6McZsaWL_B&usqp=CAE&s",
+            "snippet": "أنواع الفطر. تختلف أنواع فطر عيش الغراب اختلافا بينيا من حيث صلاحيتها للأكل , فبعضها سام قاتل وبعضها يسبب القيء أو الإغماء, والبعض مفيد صالح للأكل وهو الذي ...",
+            "snippet_highlighted_words": [
+                "الفطر",
+                "فطر"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "الفطر... فوائد غذائية وصحية | الشرق الأوسط",
+            "link": "https://aawsat.com/home/article/3020521/%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%B5%D8%AD%D9%8A%D8%A9",
+            "displayed_link": "https://aawsat.com › home › article › الفطر-فوائد-غذائ...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMm46Mb708eq-V-8_PjB6KUG64zQiw87XnCon1Hiq03TQdmfrb0Bz5&usqp=CAE&s",
+            "snippet": "يكتسب تناول الفطر (عيش الغراب) Mushrooms اهتماماً طبياً، نظراً لاستهلاكه الواسع النطاق عالمياً كغذاء وظيفي Functional Food نتيجة غناه ...",
+            "snippet_highlighted_words": [
+                "الفطر"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٠‏/٠٦‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "التَّسمُّم بالفطر (الغَاريقون السَّامّ) - الإصابات والتَّسمُّم - MSD ...",
+            "link": "https://www.msdmanuals.com/ar/home/%D8%A7%D9%84%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D8%B3%D9%85%D9%91%D9%8F%D9%85/%D8%A7%D9%84%D8%AA%D9%91%D9%8E%D8%B3%D9%85%D9%91%D9%8F%D9%85/%D8%A7%D9%84%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D9%91%D9%8E%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D9%84%D8%A9",
+            "displayed_link": "https://www.msdmanuals.com › ... › التَّسمُّم",
+            "snippet": "يؤدي تناول الفطر الذي يُسبِّبُ ظهور الأعراض المَعِدِيَّة المِعَوِيَّة المُبكِّرة (مثل المولبيدية اليَخْضورية Chlorophyllum molybdates والقليل من الفطريات ...",
+            "snippet_highlighted_words": [
+                "الفطر"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "فطر معلب",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D8%B7%D8%B1+%D9%85%D8%B9%D9%84%D8%A8&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "فوائد الفطر",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D9%88%D8%A7%D8%A6%D8%AF+%D8%A7%D9%84%D9%81%D8%B7%D8%B1&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "فطر بني",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D8%B7%D8%B1+%D8%A8%D9%86%D9%8A&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "فطر أبيض",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D8%B7%D8%B1+%D8%A3%D8%A8%D9%8A%D8%B6&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "فطر سام",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%81%D8%B7%D8%B1+%D8%B3%D8%A7%D9%85&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "تركيب الفطريات",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AA%D8%B1%D9%83%D9%8A%D8%A8+%D8%A7%D9%84%D9%81%D8%B7%D8%B1%D9%8A%D8%A7%D8%AA&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "دورة حياة فطر عيش الغراب",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AF%D9%88%D8%B1%D8%A9+%D8%AD%D9%8A%D8%A7%D8%A9+%D9%81%D8%B7%D8%B1+%D8%B9%D9%8A%D8%B4+%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "خصائص الفطريات",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5+%D8%A7%D9%84%D9%81%D8%B7%D8%B1%D9%8A%D8%A7%D8%AA&sa=X&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ1QJ6BAggEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&ei=VD2eYvTKIaHN9AOPtZyYDA&start=10&sa=N&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&ei=VD2eYvTKIaHN9AOPtZyYDA&start=10&sa=N&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&ei=VD2eYvTKIaHN9AOPtZyYDA&start=20&sa=N&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&ei=VD2eYvTKIaHN9AOPtZyYDA&start=30&sa=N&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&ei=VD2eYvTKIaHN9AOPtZyYDA&start=40&sa=N&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&ei=VD2eYvTKIaHN9AOPtZyYDA&start=50&sa=N&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&ei=VD2eYvTKIaHN9AOPtZyYDA&start=60&sa=N&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&ei=VD2eYvTKIaHN9AOPtZyYDA&start=70&sa=N&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&ei=VD2eYvTKIaHN9AOPtZyYDA&start=80&sa=N&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D9%81%D8%B7%D8%B1&hl=ar&gl=eg&ei=VD2eYvTKIaHN9AOPtZyYDA&start=90&sa=N&ved=2ahUKEwj0xM3asJn4AhWhJn0KHY8aB8MQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%81%D8%B7%D8%B1&start=90"
+        }
+    }
+}

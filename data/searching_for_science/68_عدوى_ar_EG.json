@@ -1,0 +1,277 @@
+{
+    "search_metadata": {
+        "id": "627cff81fdca3e08553b38cf",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1e794e86674493e3/627cff81fdca3e08553b38cf.json",
+        "created_at": "2022-05-12 12:37:21 UTC",
+        "processed_at": "2022-05-12 12:37:21 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&oq=%D8%B9%D8%AF%D9%88%D9%89&uule=w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=&hl=ar&gl=EG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/1e794e86674493e3/627cff81fdca3e08553b38cf.html",
+        "total_time_taken": 3.05
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "عدوى",
+        "uule": "w+CAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ=",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "EG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "عدوى",
+        "total_results": 10200000,
+        "time_taken_displayed": 0.63
+    },
+    "related_questions": [
+        {
+            "question": "ما هي عدوى المستشفيات؟",
+            "snippet": "تعرف عدوى المستشفيات (Nosocomial Infection) على أنها عدوى أو إنتان يكتسبه المريض بعد دخوله إلى المستشفى (أي أن الشخص لم يكن مصاباً به عند دخوله المستشفى) ولا تظهر إلا بعد 72 ساعة أو أكثر من دخوله إليه.02‏/09‏/2015",
+            "title": "عدوى المستشفيات : خطر يمكن تجنبه - منظمة المجتمع العلمي ...",
+            "link": "https://arsco.org/article-detail-736-8-0",
+            "displayed_link": "https://arsco.org › article-detail-736-8-0"
+        },
+        {
+            "question": "ما هو عدوي في الجسم؟",
+            "snippet": "تحدث العدوى، وتعد غالبًا الخطوة الأولى، عندما تدخل البكتيريا أو الفيروسات أو الميكروبات الأخرى المسببة للمرض إلى الجسم وتبدأ بالتكاثر. ثم يحدث المرض عندما تتلف خلايا بالجسم — نتيجة للعدوى — وتظهر مؤشرات المرض وأعراضه. ويتفاعل الجهاز المناعي استجابةً للعدوى.",
+            "title": "الجراثيم: تعرف على البكتيريا والفيروسات والعدوى، واحمِ ...",
+            "link": "https://www.mayoclinic.org/ar/diseases-conditions/infectious-diseases/in-depth/germs/art-20045289",
+            "displayed_link": "https://www.mayoclinic.org › germs › art-20045289"
+        },
+        {
+            "question": "ما هي أنواع العدوي؟",
+            "title": "تشمل العدوى الناتجة عن البكتيريا ما يلي: التهاب الحلق العقدي السل عدوى المسالك البولية...الفيروسات",
+            "link": "https://www.mayoclinic.org/ar/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098",
+            "list": [
+                "الجديري المائي",
+                "الإيدز",
+                "نزلات البرد"
+            ],
+            "displayed_link": "https://www.mayoclinic.org › faq-20058098"
+        },
+        {
+            "question": "هل العدوي خطيرة؟",
+            "snippet": "وتؤدي حالات العدوى هذه إلى الوفاة غالبًا.",
+            "title": "لمحة عامة عن حالات العدوى الفيروسيَّة - MSD Manuals",
+            "link": "https://www.msdmanuals.com/ar/home/%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%8E%D8%AF%D9%88%D9%89/%D9%84%D9%85%D8%AD%D8%A9-%D8%B9%D8%A7%D9%85%D9%91%D8%A9-%D8%B9%D9%86-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D9%89-%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3%D9%8A%D9%91%D9%8E%D8%A9/%D9%84%D9%85%D8%AD%D8%A9-%D8%B9%D8%A7%D9%85%D8%A9-%D8%B9%D9%86-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D9%89-%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3%D9%8A%D9%91%D9%8E%D8%A9",
+            "displayed_link": "https://www.msdmanuals.com › home › حالات-العَدوى"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "عدوى - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D9%88%D9%89",
+            "displayed_link": "https://ar.wikipedia.org › wiki › عدوى",
+            "snippet": "العدوى هي استعمار كائن حي مضيف من قبل كائن متطفل أجنبي يسعى إلى استخدام موارد الكائن المضيف من أجل مضاعفة الكائن الأجنبي عادة على حساب المضيف، كانتقال ...",
+            "snippet_highlighted_words": [
+                "العدوى"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "عدوى انتهازية",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D9%88%D9%89_%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%B2%D9%8A%D8%A9"
+                    },
+                    {
+                        "title": "عدوى فطرية",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D9%88%D9%89_%D9%81%D8%B7%D8%B1%D9%8A%D8%A9"
+                    },
+                    {
+                        "title": "عدوى الآيروموناس",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D9%88%D9%89_%D8%A7%D9%84%D8%A2%D9%8A%D8%B1%D9%88%D9%85%D9%88%D9%86%D8%A7%D8%B3"
+                    },
+                    {
+                        "title": "عدوى منتقلة عموديا",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D9%88%D9%89_%D9%85%D9%86%D8%AA%D9%82%D9%84%D8%A9_%D8%B9%D9%85%D9%88%D8%AF%D9%8A%D8%A7"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "عدوى (فيلم) - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D9%88%D9%89_(%D9%81%D9%8A%D9%84%D9%85)",
+            "displayed_link": "https://ar.wikipedia.org › wiki › عدوى_(فيلم)",
+            "snippet": "عدوى (بالإنجليزية: Contagion)‏ هو فيلم تشويق أميركي من إخراج ستيفن سودربرغ إنتاج عام 2011. يضم طاقم عمل الفيلم كلا من ماريون كوتيار، براين كرانستون، مات ...",
+            "snippet_highlighted_words": [
+                "عدوى"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "تاريخ_الصدور": 2011
+                    },
+                    "extensions": [
+                        "تاريخ الصدور: 2011",
+                        "مواقع التصوير: سان فرانسيسكو — جنيف — ف...",
+                        "موقع الويب: (الإنجليزية) www.warnerbros.com/..."
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "حدوثُ العدوى - حالات العَدوى - دليل MSD الإرشادي إصدار المُستخدِم",
+            "link": "https://www.msdmanuals.com/ar/home/%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%8E%D8%AF%D9%88%D9%89/%D8%A8%D9%8E%D9%8A%D9%8F%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%85%D9%8F%D8%B9%D9%92%D8%AF%D9%90%D9%8A%D9%8E%D8%A9/%D8%AD%D8%AF%D9%88%D8%AB%D9%8F-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D9%89",
+            "displayed_link": "https://www.msdmanuals.com › home › حالات-العَدوى",
+            "snippet": "وبذلك، قد تغزو الجسم عن طريق الاتصال الجنسي بشريك مصاب بالعدوى. يُمكن أن تسمحَ عضات الإنسان والحيوان وغيرها من الجروح التي تُخرِّبُ الجلد للكائنات الحيَّة ...",
+            "snippet_highlighted_words": [
+                "بالعدوى"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "لمحة عامة عن حالات العدوى الفيروسيَّة - MSD Manuals",
+            "link": "https://www.msdmanuals.com/ar/home/%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%8E%D8%AF%D9%88%D9%89/%D9%84%D9%85%D8%AD%D8%A9-%D8%B9%D8%A7%D9%85%D9%91%D8%A9-%D8%B9%D9%86-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D9%89-%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3%D9%8A%D9%91%D9%8E%D8%A9/%D9%84%D9%85%D8%AD%D8%A9-%D8%B9%D8%A7%D9%85%D8%A9-%D8%B9%D9%86-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D9%89-%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3%D9%8A%D9%91%D9%8E%D8%A9",
+            "displayed_link": "https://www.msdmanuals.com › home › حالات-العَدوى",
+            "snippet": "تتحكَّم المادةُ الجينية للفيروس في الخلية، وتجبرها على نسخ الفيروس.وتموت الخلية المصابة بالعدوى عادةً، لأن الفيروسَ يُعيقها عن أداء وظائفها الطبيعية.وعندما تموت ...",
+            "snippet_highlighted_words": [
+                "بالعدوى"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "أنواع العدوى المنقولة جنسياً - WHO | World Health Organization",
+            "link": "https://www.who.int/ar/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)",
+            "displayed_link": "https://www.who.int › ... › صحائف الوقائع › Detail",
+            "snippet": "في عام 2018، ارتبطت عدوى فيروس الورم الحليمي البشري بحدوث 000 570 حالة سرطان في عنق الرحم، وأكثر من 000 311 حالة وفاة جراء الإصابة بسرطان عنق ...",
+            "snippet_highlighted_words": [
+                "عدوى"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٢‏/١١‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "العدوى: هل هي بكتيرية أم فيروسية؟ - Mayo Clinic (مايو كلينك)",
+            "link": "https://www.mayoclinic.org/ar/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098",
+            "displayed_link": "https://www.mayoclinic.org › faq-20058098",
+            "snippet": "تشمل العدوى الناتجة عن البكتيريا ما يلي: التهاب الحلق العقدي; السل; عدوى المسالك البولية. لقد ساعد استخدام المضادات الحيوية بشكل غير سليم في تكوّن أمراض بكتيرية ...",
+            "snippet_highlighted_words": [
+                "العدوى",
+                "عدوى"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "عدوى فيروسية صغيرة - الأعراض والأسباب - Mayo Clinic",
+            "link": "https://www.mayoclinic.org/ar/diseases-conditions/parvovirus-infection/symptoms-causes/syc-20376085",
+            "displayed_link": "https://www.mayoclinic.org › syc-20376085",
+            "snippet": "عدوى الفيروسة الصغيرة هو مرض شائع وشديد العدوى من أمراض مرحلة الطفولة. ويطلق عليها أحيانًا مرض الخد الصفعي بسبب ظهور طفح جلدي مميز على الوجه.",
+            "snippet_highlighted_words": [
+                "عدوى",
+                "العدوى"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "الوقاية من العدوى - كلنا معاً - St. Jude Together",
+            "link": "https://together.stjude.org/ar-sa/care-support/immunity-illness-infection/preventing-infection.html",
+            "displayed_link": "https://together.stjude.org › ar-sa › preventing-infection",
+            "snippet": "الوقاية من العدوى · غسل اليدين · ممارسة عادات النظافة الشخصية الجيدة. · المحافظة على نظافة المناطق التي يُوجد بها المريض · تجنب التلامس · الحصول على اللقاحات.",
+            "snippet_highlighted_words": [
+                "العدوى"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "عدوى,خمج ( Infection ) | الطبي",
+            "link": "https://altibbi.com/%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%A9/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D8%A7%D8%B6/%D8%B9%D8%AF%D9%88%D9%89",
+            "displayed_link": "https://altibbi.com › مصطلحات طبية › علم الأمراض",
+            "snippet": "اعرف المزيد عن عدوى - Infection, خمج اسبابه و اعراضه و طرق علاجه و غيرها من الامراض المتعلقة ب علم الامراض من الطبي . انضم الآن إلى شبكة الطبي.",
+            "snippet_highlighted_words": [
+                "عدوى",
+                "Infection"
+            ]
+        },
+        {
+            "position": 10,
+            "title": "خبير يرجح تحول فيروس كورونا إلى عدوى موسمية أو انتقاله ...",
+            "link": "https://arabic.rt.com/health/1347233-%D8%AE%D8%A8%D9%8A%D8%B1-%D9%8A%D8%B1%D8%AC%D8%AD-%D8%AA%D8%AD%D9%88%D9%84-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A5%D9%84%D9%89-%D8%B9%D8%AF%D9%88%D9%89-%D9%85%D9%88%D8%B3%D9%85%D9%8A%D8%A9-%D8%A3%D9%88-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%D9%87-%D9%84%D9%85%D8%B6%D9%8A%D9%81-%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D9%8A/",
+            "displayed_link": "https://arabic.rt.com › health › 1347233-خبير-يرجح-ت...",
+            "snippet": "رجّح عالم المناعة الروسي فلاديسلاف جيمتشوغوف أن يصبح فيروس كورونا عدوى موسمية أو أن يكتسب مضيفا حيوانيا له في الطبيعة.",
+            "snippet_highlighted_words": [
+                "عدوى"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٤‏/٠٤‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "معنى عدوى",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D9%85%D8%B9%D9%86%D9%89+%D8%B9%D8%AF%D9%88%D9%89&sa=X&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "عدوى ترجمة",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89+%D8%AA%D8%B1%D8%AC%D9%85%D8%A9&sa=X&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ1QJ6BAguEAE"
+        },
+        {
+            "query": "أنواع العدوى",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D9%89&sa=X&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "عدوى المستشفيات",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89+%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA&sa=X&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "عدوى بالانجليزي",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "أسباب العدوى",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8+%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D9%89&sa=X&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "عدوى العناية المركزة",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89+%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D8%A9&sa=X&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "أنواع العدوى الفيروسية",
+            "link": "https://www.google.com/search?gl=EG&hl=ar&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D9%89+%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3%D9%8A%D8%A9&sa=X&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ1QJ6BAgcEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&gl=EG&hl=ar&ei=gv98YoeqMs-HwbkPtPmhyA8&start=10&sa=N&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&gl=EG&hl=ar&ei=gv98YoeqMs-HwbkPtPmhyA8&start=10&sa=N&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&gl=EG&hl=ar&ei=gv98YoeqMs-HwbkPtPmhyA8&start=20&sa=N&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&gl=EG&hl=ar&ei=gv98YoeqMs-HwbkPtPmhyA8&start=30&sa=N&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&gl=EG&hl=ar&ei=gv98YoeqMs-HwbkPtPmhyA8&start=40&sa=N&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&gl=EG&hl=ar&ei=gv98YoeqMs-HwbkPtPmhyA8&start=50&sa=N&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&gl=EG&hl=ar&ei=gv98YoeqMs-HwbkPtPmhyA8&start=60&sa=N&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&gl=EG&hl=ar&ei=gv98YoeqMs-HwbkPtPmhyA8&start=70&sa=N&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&gl=EG&hl=ar&ei=gv98YoeqMs-HwbkPtPmhyA8&start=80&sa=N&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D8%B9%D8%AF%D9%88%D9%89&gl=EG&hl=ar&ei=gv98YoeqMs-HwbkPtPmhyA8&start=90&sa=N&ved=2ahUKEwiH86eO_dn3AhXPQzABHbR8CPkQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=10&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=20&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=30&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=40&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=50&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=60&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=70&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=80&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=EG&google_domain=google.com&hl=ar&q=%D8%B9%D8%AF%D9%88%D9%89&start=90&uule=w%2BCAIQICIdQ2Fpcm8sQ2Fpcm8gR292ZXJub3JhdGUsRWd5cHQ%3D"
+        }
+    }
+}

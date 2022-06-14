@@ -1,0 +1,296 @@
+{
+    "search_metadata": {
+        "id": "627cffe4e4a23d1579ecb11d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d9f96bc5915814b6/627cffe4e4a23d1579ecb11d.json",
+        "created_at": "2022-05-12 12:39:00 UTC",
+        "processed_at": "2022-05-12 12:39:00 UTC",
+        "google_url": "https://www.google.com/search?q=Malnutrition&oq=Malnutrition&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=&hl=fr&gl=FR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d9f96bc5915814b6/627cffe4e4a23d1579ecb11d.html",
+        "total_time_taken": 1.17
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Malnutrition",
+        "uule": "w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=",
+        "google_domain": "google.com",
+        "hl": "fr",
+        "gl": "FR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Malnutrition",
+        "total_results": 183000000,
+        "time_taken_displayed": 0.54
+    },
+    "knowledge_graph": {
+        "afficher_les_résultats_pour": [
+            {
+                "name": "malnutrition",
+                "extensions": [
+                    "Définition du dictionnaire"
+                ]
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "La malnutrition : l'histoire - Corpus - réseau Canopé",
+            "link": "https://www.reseau-canope.fr/corpus/video/la-malnutrition-l%E2%80%99histoire-195.html",
+            "thumbnail": "https://serpapi.com/searches/627cffe4e4a23d1579ecb11d/images/19d38d45c919504fdc113335100eb665c5bb214fee1b86c080182a9b4fcb59b8.jpeg",
+            "duration": "2:49",
+            "platform": "Réseau Canopé",
+            "date": "10 juin 2016"
+        },
+        {
+            "position": 2,
+            "title": "La malnutrition : le corps - Corpus - réseau Canopé",
+            "link": "https://www.reseau-canope.fr/corpus/video/la-malnutrition-le-corps-197.html",
+            "thumbnail": "https://serpapi.com/searches/627cffe4e4a23d1579ecb11d/images/19d38d45c919504f3e641450511a741ee3d367c7dee60b39f133e43d7dce54ff.jpeg",
+            "duration": "2:55",
+            "platform": "Réseau Canopé",
+            "date": "28 oct. 2018"
+        },
+        {
+            "position": 3,
+            "title": "La malnutrition : le soin - Corpus - réseau Canopé",
+            "link": "https://www.reseau-canope.fr/corpus/video/la-malnutrition-le-soin-198.html",
+            "thumbnail": "https://serpapi.com/searches/627cffe4e4a23d1579ecb11d/images/19d38d45c919504f9a0c132dfff7f111a5444ae388542352113427c11b36d46a.jpeg",
+            "duration": "2:33",
+            "platform": "Réseau Canopé",
+            "date": "10 juin 2016"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Quels sont les symptômes de la malnutrition ?",
+            "snippet": "Quels sont les symptômes d'une malnutrition ? Chez l'enfant, la malnutrition entraîne un retard de croissance, des difficultés de concentration, une prise de poids importante ou au contraire un amaigrissement, une fatigue chronique, des troubles du sommeil, des faiblesses, des douleurs articulaires et/ou musculaires.12 avr. 2022",
+            "title": "Malnutrition : symptômes, conséquences, cause - Journal des ...",
+            "link": "https://sante.journaldesfemmes.fr/fiches-nutrition/2804697-malnutrition-symptomes-consequence-cause/",
+            "displayed_link": "https://sante.journaldesfemmes.fr › fiches-nutrition › 28..."
+        },
+        {
+            "question": "Quels sont les deux formes de la malnutrition ?",
+            "snippet": "Il existe deux formes de malnutrition : la malnutrition aiguë et la malnutrition chronique.3 avr. 2019",
+            "title": "Quatre questions sur la malnutrition | Terre des hommes",
+            "link": "https://www.tdh.ch/fr/actualite/question-malnutrition",
+            "displayed_link": "https://www.tdh.ch › actualite › question-malnutrition"
+        },
+        {
+            "question": "Quand Parle-t-on de malnutrition ?",
+            "snippet": "Selon l'OMS, la malnutrition se définit par les carences, les excès ou les déséquilibres dans l'apport énergétique et/ou nutritionnel d'une personne. ² C'est un état nutritionnel qui est la conséquence d'une alimentation mal équilibrée en quantité et/ou en qualité.19 juin 2020",
+            "title": "Qu'est-ce que la malnutrition ? - Action contre la Faim",
+            "link": "https://www.actioncontrelafaim.org/a-la-une/quest-ce-que-la-malnutrition/",
+            "displayed_link": "https://www.actioncontrelafaim.org › Accueil › À la Une"
+        },
+        {
+            "question": "Quels sont les maladies causées par la malnutrition ?",
+            "snippet": "Les carences en fer peuvent engendrer des problèmes de croissance et de développement intellectuel, ainsi qu'un affaiblissement du système immunitaire et une plus grande exposition aux maladies présentes dans les régions défavorisées : pneumonie, diarrhée, paludisme, rougeole et sida.",
+            "title": "Les problèmes liés à la malnutrition - Humanium",
+            "link": "https://www.humanium.org/fr/comprendre-droits-enfant/droit-a-l-alimentation/malnutrition/",
+            "displayed_link": "https://www.humanium.org › droit-a-l-alimentation › m..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Par «malnutrition», on entend les carences, les excès ou les déséquilibres dans l'apport énergétique et/ou nutritionnel d'une personne.9 juin 2021",
+        "link": "https://www.who.int/fr/news-room/fact-sheets/detail/malnutrition#:~:text=Par%20%C2%ABmalnutrition%C2%BB%2C%20on%20entend,ou%20nutritionnel%20d'une%20personne.",
+        "displayed_link": "https://www.who.int › ... › Principaux repères › Détail",
+        "date": "9 juin 2021",
+        "snippet": "Par «malnutrition», on entend les carences, les excès ou les déséquilibres dans l'apport énergétique et/ou nutritionnel d'une personne.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Qu'est-ce que la malnutrition ? - Action contre la Faim",
+            "link": "https://www.actioncontrelafaim.org/a-la-une/quest-ce-que-la-malnutrition/",
+            "displayed_link": "https://www.actioncontrelafaim.org › Accueil › À la Une",
+            "date": "19 juin 2020",
+            "snippet": "Selon l'OMS, la malnutrition se définit par les carences, les excès ou les déséquilibres dans l'apport énergétique et/ou nutritionnel d'une ...",
+            "snippet_highlighted_words": [
+                "malnutrition"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Malnutrition - Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/Malnutrition",
+            "displayed_link": "https://fr.wikipedia.org › wiki › Malnutrition",
+            "snippet": "La malnutrition est un état physiopathologique résultant de l'influence combinée de la sur- ou sous-nutrition (déficience ou excès de calories ou d'un ou ...",
+            "snippet_highlighted_words": [
+                "malnutrition"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Effets",
+                        "link": "https://fr.wikipedia.org/wiki/Malnutrition#Effets"
+                    },
+                    {
+                        "title": "Psychologie",
+                        "link": "https://fr.wikipedia.org/wiki/Malnutrition#Psychologie"
+                    },
+                    {
+                        "title": "Cancer",
+                        "link": "https://fr.wikipedia.org/wiki/Malnutrition#Cancer"
+                    },
+                    {
+                        "title": "Lutte contre la malnutrition",
+                        "link": "https://fr.wikipedia.org/wiki/Malnutrition#Lutte_contre_la_malnutrition"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 10,
+                        "currency": "CIM- E",
+                        "cim": 9
+                    },
+                    "extensions": [
+                        "CIM-10 : E46",
+                        "CIM-9 : 263.9"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "Les problèmes liés à la malnutrition - Humanium",
+            "link": "https://www.humanium.org/fr/comprendre-droits-enfant/droit-a-l-alimentation/malnutrition/",
+            "displayed_link": "https://www.humanium.org › droit-a-l-alimentation › m...",
+            "snippet": "La sous alimentation et la malnutrition ont des conséquences graves sur la santé des enfants, surtout pour les plus jeunes. Les trois carences majeures en ...",
+            "snippet_highlighted_words": [
+                "malnutrition"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Les enfants : attention, population fragile",
+            "link": "https://www.msf.fr/decryptages/les-enfants-attention-population-fragile",
+            "displayed_link": "https://www.msf.fr › Nos décryptages",
+            "snippet": "La malnutrition pourrait être plus efficacement combattue grâce à l'utilisation à grande échelle d'aliments thérapeutiques et de la généralisation du suivi de ...",
+            "snippet_highlighted_words": [
+                "malnutrition"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "LA MALNUTRITION",
+            "link": "https://www.unicef.fr/sites/default/files/fiche_thematique_malnutrition.pdf",
+            "displayed_link": "https://www.unicef.fr › sites › default › files › fich...",
+            "snippet": "La malnutrition entraine des séquelles physiques, parfois mentales Les 1 000 premiers jours de la vie de l'enfant sont les plus déterminants car une ...",
+            "snippet_highlighted_words": [
+                "malnutrition"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Nutrition",
+                    "link": "https://www.unicef.fr/dossier/nutrition",
+                    "displayed_link": "https://www.unicef.fr › dossier › nutrition",
+                    "snippet": "La malnutrition entraine des séquelles physiques, parfois mentales Les 1 000 premiers jours de la vie de l'enfant sont les plus déterminants car une ...",
+                    "snippet_highlighted_words": [
+                        "malnutrition"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Définitions : malnutrition - Dictionnaire de français Larousse",
+            "link": "https://www.larousse.fr/dictionnaires/francais/malnutrition/48936",
+            "displayed_link": "https://www.larousse.fr › dictionnaires › francais › maln...",
+            "snippet": "État nutritionnel qui s'écarte de la normale définie par les physiologistes et qui est la conséquence d'une alimentation mal équilibrée en quantité et/ou en ..."
+        },
+        {
+            "position": 7,
+            "title": "Malnutrition : symptômes, conséquences, cause - Journal des ...",
+            "link": "https://sante.journaldesfemmes.fr/fiches-nutrition/2804697-malnutrition-symptomes-consequence-cause/",
+            "displayed_link": "https://sante.journaldesfemmes.fr › fiches-nutrition › 28...",
+            "date": "12 avr. 2022",
+            "snippet": "La malnutrition se caractérise par une alimentation qui ne correspond pas aux besoins de l'organisme. Selon l'Organisation Mondiale de la ...",
+            "snippet_highlighted_words": [
+                "malnutrition"
+            ],
+            "related_questions": [
+                {
+                    "question": "Définition : quand parle-t-on de malnutrition ?",
+                    "snippet": "La malnutrition se caractérise par une alimentation qui ne correspond pas aux besoins de l'organisme. Selon l'Organisation Mondiale de la Santé (OMS), la malnutrition se définit par \"les carences, les excès ou les déséquilibres dans l'apport énergétique et/ou nutritionnel d'une personne\".Lire la suite"
+                },
+                {
+                    "question": "Quels sont les types de malnutrition ?",
+                    "snippet": "Le terme de malnutrition recouvre trois grands groupes d'affections : Lire la suite"
+                }
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "malnutrition symptômes",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Malnutrition+sympt%C3%B4mes&sa=X&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "malnutrition définition",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Malnutrition+d%C3%A9finition&sa=X&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "malnutrition dans le monde",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Malnutrition+dans+le+monde&sa=X&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "types de malnutrition",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Types+de+malnutrition&sa=X&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "définition malnutrition oms",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=D%C3%A9finition+malnutrition+OMS&sa=X&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "malnutrition conséquences",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Malnutrition+cons%C3%A9quences&sa=X&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "malnutrition pdf",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Malnutrition+pdf&sa=X&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "la malnutrition: causes, conséquences et solutions",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=la+malnutrition:+causes,+cons%C3%A9quences+et+solutions&sa=X&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Malnutrition&hl=fr&gl=FR&ei=5f98YoXKEPCigge48ZygAQ&start=10&sa=N&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ8NMDegQIAhBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Malnutrition&hl=fr&gl=FR&ei=5f98YoXKEPCigge48ZygAQ&start=10&sa=N&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ8tMDegQIAhA_",
+            "3": "https://www.google.com/search?q=Malnutrition&hl=fr&gl=FR&ei=5f98YoXKEPCigge48ZygAQ&start=20&sa=N&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ8tMDegQIAhBB",
+            "4": "https://www.google.com/search?q=Malnutrition&hl=fr&gl=FR&ei=5f98YoXKEPCigge48ZygAQ&start=30&sa=N&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ8tMDegQIAhBD",
+            "5": "https://www.google.com/search?q=Malnutrition&hl=fr&gl=FR&ei=5f98YoXKEPCigge48ZygAQ&start=40&sa=N&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ8tMDegQIAhBF",
+            "6": "https://www.google.com/search?q=Malnutrition&hl=fr&gl=FR&ei=5f98YoXKEPCigge48ZygAQ&start=50&sa=N&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ8tMDegQIAhBH",
+            "7": "https://www.google.com/search?q=Malnutrition&hl=fr&gl=FR&ei=5f98YoXKEPCigge48ZygAQ&start=60&sa=N&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ8tMDegQIAhBJ",
+            "8": "https://www.google.com/search?q=Malnutrition&hl=fr&gl=FR&ei=5f98YoXKEPCigge48ZygAQ&start=70&sa=N&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ8tMDegQIAhBL",
+            "9": "https://www.google.com/search?q=Malnutrition&hl=fr&gl=FR&ei=5f98YoXKEPCigge48ZygAQ&start=80&sa=N&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ8tMDegQIAhBN",
+            "10": "https://www.google.com/search?q=Malnutrition&hl=fr&gl=FR&ei=5f98YoXKEPCigge48ZygAQ&start=90&sa=N&ved=2ahUKEwjF0KC9_dn3AhVwkeAKHbg4BxQQ8tMDegQIAhBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=20&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=30&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=40&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=50&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=60&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=70&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=80&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Malnutrition&start=90&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D"
+        }
+    }
+}

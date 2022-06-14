@@ -1,0 +1,246 @@
+{
+    "search_metadata": {
+        "id": "627cff405fc493a371e1e0f5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1851c1b6c87e1a85/627cff405fc493a371e1e0f5.json",
+        "created_at": "2022-05-12 12:36:16 UTC",
+        "processed_at": "2022-05-12 12:36:16 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&oq=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&uule=w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=&hl=iw&gl=IL&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/1851c1b6c87e1a85/627cff405fc493a371e1e0f5.html",
+        "total_time_taken": 0.92
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "שיטפון",
+        "uule": "w+CAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw=",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "IL",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "שיטפון",
+        "total_results": 334000,
+        "time_taken_displayed": 0.39
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "שיטפון בנחל צין",
+            "link": "https://www.youtube.com/watch?v=ef0qWaXp2CU",
+            "thumbnail": "https://serpapi.com/searches/627cff405fc493a371e1e0f5/images/aba9a56133940744d0544a230c2413666d812ec992f62b80b8ca3768811347d2.jpeg",
+            "channel": "ynet",
+            "duration": "2:56",
+            "platform": "YouTube",
+            "date": "1 בינו׳ 2022"
+        },
+        {
+            "position": 2,
+            "title": "שיטפון ראשון החורף בנחל קומראן",
+            "link": "https://www.youtube.com/watch?v=qKJ4LFiDNkk",
+            "thumbnail": "https://serpapi.com/searches/627cff405fc493a371e1e0f5/images/aba9a561339407440b725c45c1beb6e52b671dd243759c365be53d4797c6654d.jpeg",
+            "channel": "ynet",
+            "duration": "1:06",
+            "platform": "YouTube",
+            "date": "19 בנוב׳ 2021"
+        },
+        {
+            "position": 3,
+            "title": "צפו: שיטפונות בדרום",
+            "link": "https://www.youtube.com/watch?v=xX--dS3At8I",
+            "thumbnail": "https://serpapi.com/searches/627cff405fc493a371e1e0f5/images/aba9a5613394074443c7e1e37ec6f9292e41f61d72172833eb63be26adb155a8.jpeg",
+            "channel": "ynet",
+            "duration": "5:28",
+            "platform": "YouTube",
+            "date": "2 בינו׳ 2022"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "שיטפון - ויקיפדיה",
+        "link": "https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F",
+        "displayed_link": "https://he.wikipedia.org › wiki › שיטפון",
+        "snippet": "שיטפון הוא אירוע שבו מים מציפים קרקע שהיא יבשה בדרך כלל בהיקף נרחב שעלול לגרום לנזק ואבדות בנפש וברכוש....תוכן עניינים",
+        "list": [
+            "1.1 הצפת נהרות",
+            "1.2 צונאמי",
+            "1.3 שיטפון בזק"
+        ],
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "שיטפון בזק - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F_%D7%91%D7%96%D7%A7",
+            "displayed_link": "https://he.wikipedia.org › wiki › שיטפון_בזק",
+            "thumbnail": "https://serpapi.com/searches/627cff405fc493a371e1e0f5/images/8d4c9d4bc0e48ad58de655ebe0a69dc6ec68d759c6f31ece4bf8b118ed8b3096.jpeg",
+            "snippet": "שיטפון בזק הוא שטף מים פתאומי בוואדיות ובאפיקי נחל יבשים במרבית ימות השנה, האופייני לאזורים מדבריים. לשיטפונות תפקיד חשוב בעיצוב הנוף המדברי, ...",
+            "snippet_highlighted_words": [
+                "שיטפון"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "הנחיות להתמודדות עם שיטפון - פורטל חירום לאומי",
+            "link": "https://www.oref.org.il/12635-17916-he/Pakar.aspx",
+            "displayed_link": "https://www.oref.org.il › Pakar",
+            "thumbnail": "https://serpapi.com/searches/627cff405fc493a371e1e0f5/images/8d4c9d4bc0e48ad58de655ebe0a69dc614efaa915bef00a1e0d462ded3069440.jpeg",
+            "snippet": "מזג אוויר סוער עלול לגרום לסכנת הצפות ושיטפונות. סכנה זו נשקפת בעיקר בחניונים ומעליות, וכן בקרבת נחלים ומקורות מים. כיצד מזהים שיטפון? במקרה ...",
+            "snippet_highlighted_words": [
+                "שיטפון"
+            ],
+            "related_questions": [
+                {
+                    "question": "איך נערכים לשיטפון?",
+                    "snippet": "מומלץ להכין תיק חירום שיסייע באירוע של שיטפון, הן במקרה של הסתגרות בבתים או לחילופין, במקרה של פינוי מהבית. מומלץ לניילן פריטים כמו מסמכים ובגדים כדי שלא יירטבו."
+                },
+                {
+                    "question": "ממה נגרמים שיטפונות?",
+                    "snippet": "שיטפונות נגרמים בדרך כלל ממי הגשמים ולעיתים מסופות, רעידות אדמה, ועלייה של נהרות על גדותיהם."
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "title": "שיטפון - משרד החינוך - אופק",
+            "link": "https://lo.cet.ac.il/player/?document=add1e5f5-53c0-4ce6-990c-7f97a5415b26&language=he",
+            "displayed_link": "https://lo.cet.ac.il › player",
+            "snippet": "היחידה פותחה על ידי משרד החינוך. יחידה זו מזמינה את התלמידים לתרגל מיומנויות דיגיטליות כמו: חיפוש ברשת, קריאה של דף תוצאות; בחירה בקישור המתאים; ..."
+        },
+        {
+            "position": 4,
+            "title": "שיטפון - Ynet",
+            "link": "http://www.ynet.co.il/tags/%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F",
+            "displayed_link": "http://www.ynet.co.il › tags › שיטפון",
+            "snippet": "שיטפון - מגוון כתבות אודות שיטפון באתר ynet. כנסו וקראו על כל הנושאים שהכי מעניינים אתכם. חדשות חמות, עדכונים ומבזקים.",
+            "snippet_highlighted_words": [
+                "שיטפון",
+                "שיטפון"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "מהר, חזק, בשקט ובפתאומיות: כך נוצר שיטפון - Ynet",
+            "link": "https://www.ynet.co.il/articles/0,7340,L-5242446,00.html",
+            "displayed_link": "https://www.ynet.co.il › ... › חדשות בארץ › כללי",
+            "date": "27 באפר׳ 2018",
+            "snippet": "מהר, חזק, בשקט ובפתאומיות: כך נוצר שיטפון. המטאורולוג ד\"ר ברוך זיו מסביר כי למטיילים בנחל קשה לראות את המים מתקרבים, והרעש מגיע באיחור. הנחלים ...",
+            "snippet_highlighted_words": [
+                "שיטפון"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "איפה אפשר לראות שיטפונות בדרום? – טיולי שיטפונות בהר הנגב",
+            "link": "https://www.negevtour.co.il/harnegev/desert-floods/",
+            "displayed_link": "https://www.negevtour.co.il › harnegev › desert-floods",
+            "snippet": "טיול שיטפונות בנגב: איפה רואים שיטפונות? מה זה גל ראשון ולמה כולם מתלהבים ממנו? איך לצפות בשטפון באופן בטוח? ואיפה מתעדכנים על שטפונות צפויים?",
+            "snippet_highlighted_words": [
+                "שיטפונות",
+                "שיטפונות"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "בינו": 10
+                    },
+                    "extensions": [
+                        "10 בינו׳ 2021",
+                        "הועלה על",
+                        "ידי Omri Ginzburg"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "מה זה שיטפון - מילון עברי עברי - מילוג",
+            "link": "https://milog.co.il/%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F",
+            "displayed_link": "https://milog.co.il › שיטפון",
+            "snippet": "שִׁיטָּפוֹן - זכר. 1. זרם גדול וחזק; הצפה. \"הגשם גרם לשיטפון בדירות הקרקע.\" 2. כמות גדולה מאוד; שפע. \"קיבלנו שיטפון של מכתבי תגובה למאמר שפירסמנו.\".",
+            "snippet_highlighted_words": [
+                "שִׁיטָּפוֹן",
+                "שיטפון"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "שיטפון!",
+            "link": "https://meyda.education.gov.il/files/Mazkirut_Pedagogit/HebrewPrimary/learning-teaching/models-units/flood.pdf",
+            "displayed_link": "https://meyda.education.gov.il › files › flood",
+            "date": "19 דפים",
+            "snippet": "שיטפון הוא זרם מים חזק, בדרך כלל פתאומי, שמציף שטחים נמוכים. בתקופה האחרונה. שומעים יותר ויותר על שיטפונות במקומות שונים בעולם, על אנשים.",
+            "snippet_highlighted_words": [
+                "שיטפון",
+                "שיטפונות"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "שיטפון טקסט כיתה ד",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F+%D7%98%D7%A7%D7%A1%D7%98+%D7%9B%D7%99%D7%AA%D7%94+%D7%93&sa=X&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "איך נוצר שיטפון",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%90%D7%99%D7%9A+%D7%A0%D7%95%D7%A6%D7%A8+%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&sa=X&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "שיטפונות היום",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%A0%D7%95%D7%AA+%D7%94%D7%99%D7%95%D7%9D&sa=X&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ1QJ6BAguEAE"
+        },
+        {
+            "query": "שיטפון במדבר",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F+%D7%91%D7%9E%D7%93%D7%91%D7%A8&sa=X&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "איך מתחיל שיטפון",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%90%D7%99%D7%9A+%D7%9E%D7%AA%D7%97%D7%99%D7%9C+%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&sa=X&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "שיטפון בישראל",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F+%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C&sa=X&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "שיטפון משרד החינוך",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F+%D7%9E%D7%A9%D7%A8%D7%93+%D7%94%D7%97%D7%99%D7%A0%D7%95%D7%9A&sa=X&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "שיטפון בעולם",
+            "link": "https://www.google.com/search?gl=IL&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F+%D7%91%D7%A2%D7%95%D7%9C%D7%9D&sa=X&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ1QJ6BAgmEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&gl=IL&hl=iw&ei=Qf98Yo6uA4OHytMPgZuPmAI&start=10&sa=N&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ8NMDegQIARBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&gl=IL&hl=iw&ei=Qf98Yo6uA4OHytMPgZuPmAI&start=10&sa=N&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ8tMDegQIARA_",
+            "3": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&gl=IL&hl=iw&ei=Qf98Yo6uA4OHytMPgZuPmAI&start=20&sa=N&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ8tMDegQIARBB",
+            "4": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&gl=IL&hl=iw&ei=Qf98Yo6uA4OHytMPgZuPmAI&start=30&sa=N&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ8tMDegQIARBD",
+            "5": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&gl=IL&hl=iw&ei=Qf98Yo6uA4OHytMPgZuPmAI&start=40&sa=N&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ8tMDegQIARBF",
+            "6": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&gl=IL&hl=iw&ei=Qf98Yo6uA4OHytMPgZuPmAI&start=50&sa=N&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ8tMDegQIARBH",
+            "7": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&gl=IL&hl=iw&ei=Qf98Yo6uA4OHytMPgZuPmAI&start=60&sa=N&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ8tMDegQIARBJ",
+            "8": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&gl=IL&hl=iw&ei=Qf98Yo6uA4OHytMPgZuPmAI&start=70&sa=N&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ8tMDegQIARBL",
+            "9": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&gl=IL&hl=iw&ei=Qf98Yo6uA4OHytMPgZuPmAI&start=80&sa=N&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ8tMDegQIARBN",
+            "10": "https://www.google.com/search?q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&gl=IL&hl=iw&ei=Qf98Yo6uA4OHytMPgZuPmAI&start=90&sa=N&ved=2ahUKEwjO0vnu_Nn3AhWDg3IEHYHNAyMQ8tMDegQIARBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=10&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=20&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=30&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=40&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=50&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=60&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=70&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=80&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=IL&google_domain=google.com&hl=iw&q=%D7%A9%D7%99%D7%98%D7%A4%D7%95%D7%9F&start=90&uule=w%2BCAIQICIjSmVydXNhbGVtLEplcnVzYWxlbSBEaXN0cmljdCxJc3JhZWw%3D"
+        }
+    }
+}

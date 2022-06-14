@@ -1,0 +1,506 @@
+{
+    "search_metadata": {
+        "id": "627cfef6303eb1c5cbbf3be3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cf50d8e91f9e42a7/627cfef6303eb1c5cbbf3be3.json",
+        "created_at": "2022-05-12 12:35:02 UTC",
+        "processed_at": "2022-05-12 12:35:02 UTC",
+        "google_url": "https://www.google.com/search?q=Climate+change&oq=Climate+change&uule=w+CAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh&hl=en&gl=NG&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/cf50d8e91f9e42a7/627cfef6303eb1c5cbbf3be3.html",
+        "total_time_taken": 1.65
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Climate change",
+        "uule": "w+CAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "NG",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Climate change",
+        "total_results": 4230000000,
+        "time_taken_displayed": 0.68
+    },
+    "knowledge_graph": {
+        "title": "Climate change",
+        "cite_name": "What Is Climate Change? - the United Nations",
+        "cite_link": "https://www.un.org/en/climatechange/what-is-climate-change#:~:text=Climate%20change%20refers%20to%20long,like%20coal%2C%20oil%20and%20gas.",
+        "header_images": [
+            {
+                "source": "https://climate.nasa.gov/solutions/adaptation-mitigation/"
+            },
+            {
+                "source": "https://climate.nasa.gov/effects/"
+            },
+            {
+                "source": "https://en.wikipedia.org/wiki/Climate_change"
+            },
+            {
+                "source": "https://www.itu.int/en/mediacentre/backgrounders/Pages/climate-change.aspx"
+            }
+        ],
+        "description": "Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle. But since the 1800s, human activities have been the main driver of climate change, primarily due to burning fossil fuels like coal, oil and gas.",
+        "books_climate_change": [
+            {
+                "name": "The Uninhabitable Earth",
+                "link": "https://www.google.com/search?gl=NG&hl=en&q=The+Uninhabitable+Earth&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5T4tVP1zc0zDCrMM0uMivWEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iFU8JCNVITQvMy8jMSmzJDEpJ1XBNbGoJGMHKyMALhKHTFcAAAA&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQxA16BAg5EAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=The+Uninhabitable+Earth&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5T4tVP1zc0zDCrMM0uMivWEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iFU8JCNVITQvMy8jMSmzJDEpJ1XBNbGoJGMHKyMALhKHTFcAAAA&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/8f3437927c0b3f7c1f8e4cc4ca613d423446486c80b08e714aae630db6b1a95faf706dbd7a175191633405cae4ef82a6.png"
+            },
+            {
+                "name": "Drawdown: The Most Compre...",
+                "link": "https://www.google.com/search?gl=NG&hl=en&q=Drawdown:+The+Most+Comprehensive+Plan+Ever+Proposed+to+Reverse+Global+Warming&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5T4tVP1zc0TDZNKrKoSsvSEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iNXXpSixHCRupRCSkargm19couCcn1tQlJqRmlecWZaqEJCTmKfgWpZapBBQlF-QX5yaolCSrxCUChQpTlVwz8lPSsxRCE8sys3MS9_ByggA-hPQ9I0AAAA&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQxA16BAg5EAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Drawdown%3A+The+Most+Comprehensive+Plan+Ever+Proposed+to+Reverse+Global+Warming&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5T4tVP1zc0TDZNKrKoSsvSEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iNXXpSixHCRupRCSkargm19couCcn1tQlJqRmlecWZaqEJCTmKfgWpZapBBQlF-QX5yaolCSrxCUChQpTlVwz8lPSsxRCE8sys3MS9_ByggA-hPQ9I0AAAA&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/8f3437927c0b3f7c1f8e4cc4ca613d423446486c80b08e714aae630db6b1a95f4628d95c010221fca2f1800cf76aa2eb.png"
+            },
+            {
+                "name": "Losing Earth",
+                "link": "https://www.google.com/search?gl=NG&hl=en&q=Losing+Earth&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5T4tVP1zc0TMuuKCwxSivQEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iJXHJ784My9dwTWxqCRjBysjAMmvnX9MAAAA&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQxA16BAg5EAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Losing+Earth&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5T4tVP1zc0TMuuKCwxSivQEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iJXHJ784My9dwTWxqCRjBysjAMmvnX9MAAAA&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/8f3437927c0b3f7c1f8e4cc4ca613d423446486c80b08e714aae630db6b1a95fdf4c98fcc146f8b22c1be965e1be8ae1.jpeg"
+            },
+            {
+                "name": "This Changes Everythi...",
+                "link": "https://www.google.com/search?gl=NG&hl=en&q=This+Changes+Everything:+Capitalism+vs.+The+Climate&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5T4gYxDQ0rjMqNcrVEspOt9JPzc3Pz86xS8svzyhOLUopXMbI65ednFy9iNQ7JyCxWcM5IzEtPLVZwLUstqizJyMxLt1JwTizILEnMySzOVSgr1lMIyUhVcM7JzE0sSd3ByggAPcoVY3EAAAA&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQxA16BAg5EAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=This+Changes+Everything%3A+Capitalism+vs.+The+Climate&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5T4gYxDQ0rjMqNcrVEspOt9JPzc3Pz86xS8svzyhOLUopXMbI65ednFy9iNQ7JyCxWcM5IzEtPLVZwLUstqizJyMxLt1JwTizILEnMySzOVSgr1lMIyUhVcM7JzE0sSd3ByggAPcoVY3EAAAA&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/8f3437927c0b3f7c1f8e4cc4ca613d423446486c80b08e714aae630db6b1a95f27e7ee1d1cb5dc8d3e34fc694ea47fbf.png"
+            }
+        ],
+        "people_also_search_for": [
+            {
+                "name": "Globalization",
+                "link": "https://www.google.com/search?gl=NG&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdcbr5ZEUFmgr6kIXVdkYnLaYdQwVSlJX04rnesQGLx_oIu1ATZBmQUNrdP03fzLnCb1B-rayytrk6dbHudT3vnBhNaXzhRl_d4uE4Ve0Li1OrAebFQSVYikper0yqeXLWH4cjC8CnHPyazaX5SdwXeLiNO9FHbjBBiSU8rcg6Aca-K4ArZ0adVGQNUq5jyOlh7cjcK50Kg6v3fBiOXQ3QSHuU1D7anzKImWFiU1-Lmp-ltzu8vuY-8VPLS3Uv_r2y7-jYy4%3D&q=Globalization&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQs9oBKAB6BAg4EAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Globalization&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdcbr5ZEUFmgr6kIXVdkYnLaYdQwVSlJX04rnesQGLx_oIu1ATZBmQUNrdP03fzLnCb1B-rayytrk6dbHudT3vnBhNaXzhRl_d4uE4Ve0Li1OrAebFQSVYikper0yqeXLWH4cjC8CnHPyazaX5SdwXeLiNO9FHbjBBiSU8rcg6Aca-K4ArZ0adVGQNUq5jyOlh7cjcK50Kg6v3fBiOXQ3QSHuU1D7anzKImWFiU1-Lmp-ltzu8vuY-8VPLS3Uv_r2y7-jYy4%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/8f3437927c0b3f7c1f8e4cc4ca613d4214cb6fd751a281121d4ab4262e78527d2a29df2fafc5f1adcba31972c7a7e68c.jpeg"
+            },
+            {
+                "name": "Global warming",
+                "link": "https://www.google.com/search?gl=NG&hl=en&si=AC1wQDAucy7H-VMlAQxLR0kUB4oSPiLoG226A20xOQCOsxIwAxiY4Ag_gaStVdVkzEnvwMU7e8KR5QuZ-gZ0UvuekL0LJuHS6Pbs44jhhVsNC96u2DPSjLK3i8ydvHrnAfsCLvgWj9Wg2a49943LaFnbfSWzSXtpJ_isB_x2m53YhCAiEizmNS_S9WoHVESIfJgv4ZZusBkBwIr-g_LOgjmJDgvG6Of3UiXtCIzGC4JK4W8Nh4M9Kcet1tcE0dMKFyHHvLV-YfGDxoIzU1rdcFxtldzpavuH4JQWgkczjNgNMCR8vCeoXRo83VWkPTT2ul_ABbVr1SQU&q=Global+warming&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQs9oBKAF6BAg4EAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Global+warming&si=AC1wQDAucy7H-VMlAQxLR0kUB4oSPiLoG226A20xOQCOsxIwAxiY4Ag_gaStVdVkzEnvwMU7e8KR5QuZ-gZ0UvuekL0LJuHS6Pbs44jhhVsNC96u2DPSjLK3i8ydvHrnAfsCLvgWj9Wg2a49943LaFnbfSWzSXtpJ_isB_x2m53YhCAiEizmNS_S9WoHVESIfJgv4ZZusBkBwIr-g_LOgjmJDgvG6Of3UiXtCIzGC4JK4W8Nh4M9Kcet1tcE0dMKFyHHvLV-YfGDxoIzU1rdcFxtldzpavuH4JQWgkczjNgNMCR8vCeoXRo83VWkPTT2ul_ABbVr1SQU&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/8f3437927c0b3f7c1f8e4cc4ca613d4214cb6fd751a281121d4ab4262e78527db4158cfa772bd5349a8fd1cadf1307c9.jpeg"
+            },
+            {
+                "name": "Sustainability",
+                "link": "https://www.google.com/search?gl=NG&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVe_uCAmf4NvedTRuLgGgHkYupBkPeBTP8dmhCGdHidHoBc_hFAuHPG5oAok-FWMcUNtXBS_3gK825hP9QBqqUidNHy7vZ3l7QOj7fdpysfObLu6g7x6OaFrf_jR97jxxIdCNKV8nkcPQb1VwHwsao-69lnK67XrQyCk9bLOAJKRMVWyHv7ImQrvz_baZBmLV8qw9mzbfnkSVNk_lXMh7kP3fq4SwIBcUIgI8g4J33bX17gfMGnKBxnXHKMeyKjme6igHb4%3D&q=Sustainability&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQs9oBKAJ6BAg4EAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Sustainability&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVe_uCAmf4NvedTRuLgGgHkYupBkPeBTP8dmhCGdHidHoBc_hFAuHPG5oAok-FWMcUNtXBS_3gK825hP9QBqqUidNHy7vZ3l7QOj7fdpysfObLu6g7x6OaFrf_jR97jxxIdCNKV8nkcPQb1VwHwsao-69lnK67XrQyCk9bLOAJKRMVWyHv7ImQrvz_baZBmLV8qw9mzbfnkSVNk_lXMh7kP3fq4SwIBcUIgI8g4J33bX17gfMGnKBxnXHKMeyKjme6igHb4%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/8f3437927c0b3f7c1f8e4cc4ca613d4214cb6fd751a281121d4ab4262e78527dd6597834c89d137c6d8ef322d35bdc42.jpeg"
+            },
+            {
+                "name": "Biodiversity",
+                "link": "https://www.google.com/search?gl=NG&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSQ1D_SKxEgHik0sGuKfjpEPLgpzA4xlP4Fti6JIpHHSqt5x1RUPPdxlpySLAEWRKVws3yb7WQqsxYaAKh0ufswb99OckXwGxP009eBg4TQDoBu5tVJ9qSw9ZokzchsFNVp1HH70FwfSJ-dud2JkIN4OMSebEiR35YzWKdlEHHCH_SwlB0vPQMgE9CM4eLktGWtCTicQJcX1BFNRYtV8hAEq4ffLGbRXk0z03G3RVIgtrOt88gLflcM3rp0TmkrqGKJmX94%3D&q=Biodiversity&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQs9oBKAN6BAg4EAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Biodiversity&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSQ1D_SKxEgHik0sGuKfjpEPLgpzA4xlP4Fti6JIpHHSqt5x1RUPPdxlpySLAEWRKVws3yb7WQqsxYaAKh0ufswb99OckXwGxP009eBg4TQDoBu5tVJ9qSw9ZokzchsFNVp1HH70FwfSJ-dud2JkIN4OMSebEiR35YzWKdlEHHCH_SwlB0vPQMgE9CM4eLktGWtCTicQJcX1BFNRYtV8hAEq4ffLGbRXk0z03G3RVIgtrOt88gLflcM3rp0TmkrqGKJmX94%3D&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+                "image": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/8f3437927c0b3f7c1f8e4cc4ca613d4214cb6fd751a281121d4ab4262e78527dd95d37341fad78ce194e01d2efad1b9e.jpeg"
+            }
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?gl=NG&hl=en&q=Climate+change&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtP3cHKeItNksH0YyvTc3F3ecWG8-Yzt3R0lWeqqPxfeToEAKvcMFh0AAAA&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ4qYDegQIOBAG",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtP3cHKeItNksH0YyvTc3F3ecWG8-Yzt3R0lWeqqPxfeToEAKvcMFh0AAAA",
+        "see_results_about": [
+            {
+                "name": "Global warming",
+                "extensions": [
+                    "Climate variability includes all the variations in the climate ..."
+                ],
+                "image": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/8f3437927c0b3f7c1f8e4cc4ca613d426a8ac58cd6738304f19b12f9d80219095245f894d2d62246d99e2260f5f791d5.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "We WILL Fix Climate Change!",
+            "link": "https://www.youtube.com/watch?v=LxgMdjyw8uw",
+            "thumbnail": "https://i.ytimg.com/vi/LxgMdjyw8uw/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kfYMYU7yXnC9S7ZCGjEiiSKdxXlw",
+            "channel": "Kurzgesagt – In a Nutshell",
+            "duration": "16:11",
+            "platform": "YouTube",
+            "date": "1 month ago"
+        },
+        {
+            "position": 2,
+            "title": "Can YOU Fix Climate Change?",
+            "link": "https://www.youtube.com/watch?v=yiw6_JakZFc",
+            "thumbnail": "https://i.ytimg.com/vi/yiw6_JakZFc/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3k80JBVOxRWos9IMQCJoUdN6Y5bbQ",
+            "channel": "Kurzgesagt – In a Nutshell",
+            "duration": "15:50",
+            "platform": "YouTube",
+            "date": "22 Sept 2021"
+        },
+        {
+            "position": 3,
+            "title": "IPCC Press Conference for CLIMATE CHANGE 2022 ...",
+            "link": "https://www.youtube.com/watch?v=STFoSxqFQXU",
+            "thumbnail": "https://i.ytimg.com/vi/STFoSxqFQXU/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lzNHMWcxPTGiF4ER_8TaMxD2I6mw",
+            "channel": "Intergovernmental Panel on Climate Change (IPCC)",
+            "duration": "1:43:52",
+            "platform": "YouTube",
+            "date": "1 month ago"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "France’s unprecedented drought shows climate change is ‘spiralling out of control’",
+            "link": "https://www.france24.com/en/environment/20220511-france-s-unprecedented-drought-shows-climate-change-is-spiralling-out-of-control",
+            "source": "France 24",
+            "date": "21 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9k2XV8dCOvHpNubnYAzoTewByo02fCu1nzxpt-lKsbmvHTP28qSiHrkU&usqp=CAI&s"
+        },
+        {
+            "title": "Climate change is devastating the Global South",
+            "link": "https://www.aljazeera.com/opinions/2022/5/11/climate-change-is-devastating-the-global-south",
+            "source": "Al Jazeera",
+            "date": "1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpcjeifkAUtiP47EkQKITjmebnRA_C0DJyGm6KfSdDLf7xuawQrbVm4ks&usqp=CAI&s"
+        },
+        {
+            "title": "Authorities blame climate change after 6 died, 42 injured in Yobe",
+            "link": "https://www.pulse.ng/news/metro/authorities-blame-climate-change-after-6-died-42-injured-in-yobe/0233zzs",
+            "source": "Pulse Nigeria",
+            "date": "21 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnguM26DNGf5on3zr2XipNpcjJx2ADej51BAN69CbAVMo4WMgu5jJXPOg&usqp=CAI&s"
+        },
+        {
+            "title": "The North and South Poles Are Melting. Time To Take it Seriously",
+            "link": "https://time.com/6174966/north-south-pole-melting-climate-change/",
+            "source": "TIME",
+            "date": "1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWdntr6RXtlubRgr4v5qiNR5itJplEjEfGGd1kpixOyyundDoIslpx4A&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=NG&hl=en&q=Climate+change&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQt8YBegUIjwEQAg",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&tbm=nws&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+    "related_questions": [
+        {
+            "question": "What are the 5 effects of climate change?",
+            "snippet": "More frequent and intense drought, storms, heat waves, rising sea levels, melting glaciers and warming oceans can directly harm animals, destroy the places they live, and wreak havoc on people's livelihoods and communities.",
+            "title": "Effects of Climate Change | Threats | WWF",
+            "link": "https://www.worldwildlife.org/threats/effects-of-climate-change",
+            "displayed_link": "https://www.worldwildlife.org › threats › effects-of-climat..."
+        },
+        {
+            "question": "What is climate change simple definition?",
+            "snippet": "Climate change is a long-term change in the average weather patterns that have come to define Earth's local, regional and global climates. These changes have a broad range of observed effects that are synonymous with the term.",
+            "title": "Overview: Weather, Global Warming and Climate Change",
+            "link": "https://climate.nasa.gov/resources/global-warming-vs-climate-change/",
+            "displayed_link": "https://climate.nasa.gov › resources › global-warming-vs-..."
+        },
+        {
+            "question": "What is climate change and its causes and effects?",
+            "snippet": "Climate change is the long-term increase in the earth's average surface temperature and the large-scale changes in global, regional, and local weather patterns that result from that increase, caused by a significant increase in the levels of greenhouse gases that are produced by the use of fossil fuels.",
+            "title": "What Is Climate Change? (Definition, Causes, and Effects) - Palmetto solar",
+            "link": "https://palmetto.com/learning-center/blog/what-is-climate-change-definition-causes-effects",
+            "displayed_link": "https://palmetto.com › learning-center › blog › what-is-cli..."
+        },
+        {
+            "question": "What happens in climate change?",
+            "snippet": "Temperatures are rising world-wide due to greenhouse gases trapping more heat in the atmosphere. Droughts are becoming longer and more extreme around the world. Tropical storms becoming more severe due to warmer ocean water temperatures.",
+            "title": "Why is climate change happening and what are the causes? - USGS",
+            "link": "https://www.usgs.gov/faqs/why-climate-change-happening-and-what-are-causes",
+            "displayed_link": "https://www.usgs.gov › faqs › why-climate-change-happe..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle. But since the 1800s, human activities have been the main driver of climate change, primarily due to burning fossil fuels like coal, oil and gas.",
+        "link": "https://www.un.org/en/climatechange/what-is-climate-change#:~:text=Climate%20change%20refers%20to%20long,like%20coal%2C%20oil%20and%20gas.",
+        "displayed_link": "https://www.un.org › climatechange › what-is-climate-cha...",
+        "snippet": "Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle. But since the 1800s, human activities have been the main driver of climate change, primarily due to burning fossil fuels like coal, oil and gas.",
+        "people_also_search_for": [],
+        "about_this_result": {
+            "source": {
+                "description": "The United Nations is an intergovernmental organization whose purpose is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation, and be a centre for harmonizing the actions of nations.",
+                "source_info_link": "https://en.wikipedia.org/wiki/United_Nations",
+                "icon": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/d93662e8f046190f645fdd8641db3d1d9425e6b8afdf120f69c767d81f67e33f8ee8d803ad86fd4095b3d137b5759303.png"
+            }
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://www.un.org/en/climatechange/what-is-climate-change&tbm=ilp&ilps=ADNMCi0702uNhYhI30Vsr1JUjE2A52jFTw"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Climate change - WHO | World Health Organization",
+            "link": "https://www.who.int/health-topics/climate-change",
+            "displayed_link": "https://www.who.int › Health topics",
+            "snippet": "Climate change is impacting human lives and health in a variety of ways. It threatens the essential ingredients of good health – clean air, safe drinking ...",
+            "snippet_highlighted_words": [
+                "Climate change"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Health",
+                        "link": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health"
+                    },
+                    {
+                        "title": "Climate Change and Health",
+                        "link": "https://www.who.int/teams/environment-climate-change-and-health/climate-change-and-health"
+                    },
+                    {
+                        "title": "Adaptation Action Coalition...",
+                        "link": "https://www.who.int/news-room/events/detail/2021/05/06/default-calendar/adaptation-action-coalition-health-launch"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The World Health Organization is a specialized agency of the United Nations responsible for international public health. The WHO Constitution states its main objective as \"the attainment by all peoples of the highest possible level of health\".",
+                    "source_info_link": "https://en.wikipedia.org/wiki/World_Health_Organization",
+                    "icon": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/4fc020c2a951c85eba852ab85785ca9863d3cfe7d054fde9df5aa1d48f8ade7a00b1e96d0e9bb6df10b5a49490bf53e2.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.who.int/health-topics/climate-change&tbm=ilp&ilps=ADNMCi2FN0Q7Fcz6Cd3itug7MitY2Foe9w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:M3iN6gIMsOgJ:https://www.who.int/health-topics/climate-change+&cd=14&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 2,
+            "title": "climate change | Definition, Causes, Effects, & Facts | Britannica",
+            "link": "https://www.britannica.com/science/climate-change",
+            "displayed_link": "https://www.britannica.com › ... › Earth Sciences",
+            "snippet": "climate change, periodic modification of Earth's climate brought about as a result of changes in the atmosphere as well as interactions between the ...",
+            "snippet_highlighted_words": [
+                "climate change"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Evidence for climate change",
+                        "link": "https://www.britannica.com/science/climate-change/Evidence-for-climate-change"
+                    },
+                    {
+                        "title": "Climate change since the...",
+                        "link": "https://www.britannica.com/science/climate-change/Climate-change-since-the-advent-of-humans"
+                    },
+                    {
+                        "title": "Greenhouse gases",
+                        "link": "https://www.britannica.com/science/climate-change/Greenhouse-gases"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/4fc020c2a951c85eba852ab85785ca98b9e84e0f47b4503cf24b5a0c2d7f4473cee6419cc8e2352a13135914ab361934.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/climate-change&tbm=ilp&ilps=ADNMCi3dQvYNcb1a9fs4egjzBEBz2DeRnA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LB-PHOO-Hn4J:https://www.britannica.com/science/climate-change+&cd=15&hl=en&ct=clnk&gl=ng",
+            "related_pages_link": "https://www.google.com/search?gl=NG&hl=en&q=related:https://www.britannica.com/science/climate-change+Climate+change"
+        },
+        {
+            "position": 3,
+            "title": "Climate Change - United Nations Sustainable Development",
+            "link": "https://www.un.org/sustainabledevelopment/climate-change/",
+            "displayed_link": "https://www.un.org › sustainabledevelopment › climate-ch...",
+            "snippet": "Climate change is affecting every country on every continent. It is disrupting national economies and affecting lives. Weather patterns are changing, ...",
+            "snippet_highlighted_words": [
+                "Climate change"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "sept": 22
+                    },
+                    "extensions": [
+                        "22 Sept 2019",
+                        "Uploaded by World Meteorological Organization",
+                        "WMO"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The United Nations is an intergovernmental organization whose purpose is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation, and be a centre for harmonizing the actions of nations.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/United_Nations",
+                    "icon": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/4fc020c2a951c85eba852ab85785ca9818790f08687701bb65c33aff745e512ceaeb0da7161479d272240acba9658299.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.un.org/sustainabledevelopment/climate-change/&tbm=ilp&ilps=ADNMCi1-qYvVGBVkjWiQ6y_m1vwqNSuEiw"
+        },
+        {
+            "position": 4,
+            "title": "Vital Signs of the Planet - Causes | Facts – Climate Change",
+            "link": "https://climate.nasa.gov/causes/",
+            "displayed_link": "https://climate.nasa.gov › causes",
+            "date": "12 Jul 2009",
+            "snippet": "Climate change can cause new patterns of pests and diseases to emerge, affecting plants, animals and humans, and posing new risks for food security, food safety ...",
+            "snippet_highlighted_words": [
+                "Climate change"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civilian space program, as well as aeronautics and space research.\nNASA was established in 1958, succeeding the National Advisory Committee for Aeronautics.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/NASA",
+                    "icon": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/4fc020c2a951c85eba852ab85785ca9827a76ed5b4a8eb35bcc11a51794b306410f226272a077fa55da6227d7f4375c1.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://climate.nasa.gov/causes/&tbm=ilp&ilps=ADNMCi2Mu3yO8-3nvoRHFgIyOsMYxdt6jA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fO90kCSMD8MJ:https://climate.nasa.gov/causes/+&cd=28&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 5,
+            "title": "Vital Signs of the Planet - Effects | Facts – Climate Change",
+            "link": "https://climate.nasa.gov/effects/",
+            "displayed_link": "https://climate.nasa.gov › effects",
+            "snippet": "Global climate change has already had observable effects on the environment. Glaciers have shrunk, ice on rivers and lakes is breaking up earlier, plant and ...",
+            "snippet_highlighted_words": [
+                "climate change"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civilian space program, as well as aeronautics and space research.\nNASA was established in 1958, succeeding the National Advisory Committee for Aeronautics.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/NASA",
+                    "icon": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/4fc020c2a951c85eba852ab85785ca988c7c3ba0f9ad2c51d2593cca90b634ee3a7e18552ae8a1439daff653408b83db.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://climate.nasa.gov/effects/&tbm=ilp&ilps=ADNMCi3IvhAQLVlxq1kUePO83wJwpm8VSw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kz83r1N8_EUJ:https://climate.nasa.gov/effects/+&cd=29&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 6,
+            "title": "Climate change: evidence and causes | Royal Society",
+            "link": "https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/basics-of-climate-change/",
+            "displayed_link": "https://royalsociety.org › basics-of-climate-change",
+            "snippet": "Warming and precipitation changes are altering the geographical ranges of many plant and animal species and the timing of their life cycles. In addition to the ...",
+            "snippet_highlighted_words": [
+                "changes"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Royal Society, formally The Royal Society of London for Improving Natural Knowledge, is a learned society and the United Kingdom's national academy of sciences.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Royal_Society",
+                    "icon": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/4fc020c2a951c85eba852ab85785ca98f4a90858fdf4c05858544b10e70d3ff394bc16a95224fc6af2fa870e3793be93.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/basics-of-climate-change/&tbm=ilp&ilps=ADNMCi1Gqx7X0svgRvp68fMgtDLVwbv_Pg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BJelGA4sYBIJ:https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/basics-of-climate-change/+&cd=30&hl=en&ct=clnk&gl=ng",
+            "related_pages_link": "https://www.google.com/search?gl=NG&hl=en&q=related:https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/basics-of-climate-change/+Climate+change"
+        },
+        {
+            "position": 7,
+            "title": "united nations framework convention on climate change ...",
+            "link": "https://unfccc.int/files/essential_background/background_publications_htmlpdf/application/pdf/conveng.pdf",
+            "displayed_link": "https://unfccc.int › application › pdf › conveng",
+            "date": "33 pages",
+            "snippet": "For the purposes of this Convention: 1. \"Adverse effects of climate change\" means changes in the physical environment or biota resulting from climate change ...",
+            "snippet_highlighted_words": [
+                "climate change"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The United Nations Framework Convention on Climate Change established an international environmental treaty to combat \"dangerous human interference with the climate system\", in part by stabilizing greenhouse gas concentrations in the atmosphere.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change",
+                    "icon": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/4fc020c2a951c85eba852ab85785ca98d5de3cc085aee58bf33775dc7640dcc36d7982de73e5581b8f1b4fd0a7a45a3b.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://unfccc.int/files/essential_background/background_publications_htmlpdf/application/pdf/conveng.pdf&tbm=ilp&ilps=ADNMCi0f4GrAwdiGXTZCB6f3yWpTq5WviQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cr2n0YMwmkEJ:https://unfccc.int/files/essential_background/background_publications_htmlpdf/application/pdf/conveng.pdf+&cd=31&hl=en&ct=clnk&gl=ng",
+            "related_pages_link": "https://www.google.com/search?gl=NG&hl=en&q=related:https://unfccc.int/files/essential_background/background_publications_htmlpdf/application/pdf/conveng.pdf+Climate+change"
+        },
+        {
+            "position": 8,
+            "title": "Causes of climate change - European Commission",
+            "link": "https://ec.europa.eu/clima/climate-change/causes-climate-change_en",
+            "displayed_link": "https://ec.europa.eu › clima › causes-climate-change_en",
+            "snippet": "CO2 produced by human activities is the largest contributor to global warming. By 2020, its concentration in the atmosphere had risen to 48% above its pre- ...",
+            "snippet_highlighted_words": [
+                "global warming"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "ec.europa.eu was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/4fc020c2a951c85eba852ab85785ca98de087e883cdd22ff43abe6bdcb9e6a7782d47c1fac456a8cff4c9a4b47ad294b.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://ec.europa.eu/clima/climate-change/causes-climate-change_en&tbm=ilp&ilps=ADNMCi2MUkQf-YRC1kb1Zn9XRnrdgmTOgw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:67iEgRMhJeUJ:https://ec.europa.eu/clima/climate-change/causes-climate-change_en+&cd=32&hl=en&ct=clnk&gl=ng"
+        },
+        {
+            "position": 9,
+            "title": "Causes of Climate Change | US EPA",
+            "link": "https://www.epa.gov/climatechange-science/causes-climate-change",
+            "displayed_link": "https://www.epa.gov › climatechange-science › causes-c...",
+            "date": "23 Feb 2022",
+            "snippet": "Burning fossil fuels changes the climate more than any other human activity.",
+            "snippet_highlighted_words": [
+                "changes",
+                "climate"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Environmental Protection Agency is an independent executive agency of the United States federal government tasked with environmental protection matters. President Richard Nixon proposed the establishment of EPA on July 9, 1970; it began operation on December 2, 1970, after Nixon signed an executive order.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency",
+                    "icon": "https://serpapi.com/searches/627cfef6303eb1c5cbbf3be3/images/4fc020c2a951c85eba852ab85785ca988b93cd606e663f195adcf98b16614cddee2f4e8572740a40e9b6f9369b6e6bb0.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.epa.gov/climatechange-science/causes-climate-change&tbm=ilp&ilps=ADNMCi1NeCTWtjHV1S29Hc-VTi4abRxUVA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VJoFzoo2U9gJ:https://www.epa.gov/climatechange-science/causes-climate-change+&cd=33&hl=en&ct=clnk&gl=ng"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "types of climate change",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Types+of+climate+change&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ1QJ6BAhiEAE"
+        },
+        {
+            "query": "climate change - wikipedia",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Climate+change+-+Wikipedia&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ1QJ6BAhhEAE"
+        },
+        {
+            "query": "climate change definition pdf",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Climate+change+definition+PDF&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ1QJ6BAhfEAE"
+        },
+        {
+            "query": "climate change essay",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Climate+change+essay&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ1QJ6BAhdEAE"
+        },
+        {
+            "query": "causes and effects of climate change",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Causes+and+effects+of+climate+change&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ1QJ6BAhZEAE"
+        },
+        {
+            "query": "climate change articles",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Climate+change+articles&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ1QJ6BAhUEAE"
+        },
+        {
+            "query": "why is climate change important",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=Why+is+climate+change+important&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ1QJ6BAhREAE"
+        },
+        {
+            "query": "un climate change",
+            "link": "https://www.google.com/search?gl=NG&hl=en&q=UN+climate+change&sa=X&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ1QJ6BAhLEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Climate+change&gl=NG&hl=en&ei=9_58Yp-HCuGa_Qafuq24DQ&start=10&sa=N&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ8NMDegQIAhBM",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Climate+change&gl=NG&hl=en&ei=9_58Yp-HCuGa_Qafuq24DQ&start=10&sa=N&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ8tMDegQIAhA6",
+            "3": "https://www.google.com/search?q=Climate+change&gl=NG&hl=en&ei=9_58Yp-HCuGa_Qafuq24DQ&start=20&sa=N&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ8tMDegQIAhA8",
+            "4": "https://www.google.com/search?q=Climate+change&gl=NG&hl=en&ei=9_58Yp-HCuGa_Qafuq24DQ&start=30&sa=N&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ8tMDegQIAhA-",
+            "5": "https://www.google.com/search?q=Climate+change&gl=NG&hl=en&ei=9_58Yp-HCuGa_Qafuq24DQ&start=40&sa=N&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ8tMDegQIAhBA",
+            "6": "https://www.google.com/search?q=Climate+change&gl=NG&hl=en&ei=9_58Yp-HCuGa_Qafuq24DQ&start=50&sa=N&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ8tMDegQIAhBC",
+            "7": "https://www.google.com/search?q=Climate+change&gl=NG&hl=en&ei=9_58Yp-HCuGa_Qafuq24DQ&start=60&sa=N&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ8tMDegQIAhBE",
+            "8": "https://www.google.com/search?q=Climate+change&gl=NG&hl=en&ei=9_58Yp-HCuGa_Qafuq24DQ&start=70&sa=N&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ8tMDegQIAhBG",
+            "9": "https://www.google.com/search?q=Climate+change&gl=NG&hl=en&ei=9_58Yp-HCuGa_Qafuq24DQ&start=80&sa=N&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ8tMDegQIAhBI",
+            "10": "https://www.google.com/search?q=Climate+change&gl=NG&hl=en&ei=9_58Yp-HCuGa_Qafuq24DQ&start=90&sa=N&ved=2ahUKEwjf3tvL_Nn3AhVhTd8KHR9dC9cQ8tMDegQIAhBK"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=10&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=20&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=30&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=40&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=50&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=60&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=70&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=80&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=NG&google_domain=google.com&hl=en&q=Climate+change&start=90&uule=w%2BCAIQICInQWJ1amEsRmVkZXJhbCBDYXBpdGFsIFRlcnJpdG9yeSxOaWdlcmlh"
+        }
+    }
+}

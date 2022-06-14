@@ -1,0 +1,616 @@
+{
+    "search_metadata": {
+        "id": "629e3d1b8b7ed20acb37aeb5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ffa37ed63eeece9d/629e3d1b8b7ed20acb37aeb5.json",
+        "created_at": "2022-06-06 17:44:59 UTC",
+        "processed_at": "2022-06-06 17:44:59 UTC",
+        "google_url": "https://www.google.com/search?q=Fungus&oq=Fungus&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ffa37ed63eeece9d/629e3d1b8b7ed20acb37aeb5.html",
+        "total_time_taken": 4.03
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Fungus",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Fungus",
+        "total_results": 734000000,
+        "time_taken_displayed": 1.87
+    },
+    "recipes_results": [
+        {
+            "title": "Fungi",
+            "link": "https://cooking.nytimes.com/recipes/1022093-fungi",
+            "source": "NYT Cooking - The New York Times",
+            "rating": 4.0,
+            "reviews": 90,
+            "total_time": "15 min",
+            "ingredients": [
+                "Frozen okra",
+                "yellow cornmeal",
+                "black pepper"
+            ],
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/9a02f7292438938445c798ff086e86a2f42d151f482ca8ebd447c46f5a9015c9.jpeg"
+        },
+        {
+            "title": "Snow Fungus Salad",
+            "link": "https://chawjcreations.com/2021/03/13/snow-fungus-salad/",
+            "source": "CHawjCreations.com",
+            "rating": 5.0,
+            "reviews": 1,
+            "ingredients": [
+                "Pork",
+                "sweet chili sauce",
+                "white fungus",
+                "ham",
+                "bell peppers"
+            ],
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/9a02f7292438938445c798ff086e86a2e04c5bd948ce5f7d0dfa69327c2a1608.jpeg"
+        },
+        {
+            "title": "Ginger and Black Fungus Chicken",
+            "link": "https://rasamalaysia.com/recipe-ginger-and-black-fungus-chicken/",
+            "source": "Rasa Malaysia",
+            "rating": 5.0,
+            "reviews": 6,
+            "total_time": "20 min",
+            "ingredients": [
+                "Dried black fungus",
+                "boneless chicken breast",
+                "oyster sauce",
+                "sweet soy sauce",
+                "soy beans"
+            ],
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/9a02f7292438938445c798ff086e86a2d8fb5185bbfeb43745b5494c9ac98508.jpeg"
+        },
+        {
+            "title": "Snow Fungus Dessert Soup (雪耳糖水)",
+            "link": "https://www.wokandkin.com/snow-fungus-dessert-soup/",
+            "source": "Wok and Kin",
+            "rating": 5.0,
+            "reviews": 7,
+            "total_time": "45 min",
+            "ingredients": [
+                "Snow fungus",
+                "pearl barley",
+                "red dates",
+                "dried longan",
+                "lotus seeds"
+            ],
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/9a02f7292438938445c798ff086e86a2b6f97a001732f692330859a59a4f42b9.jpeg"
+        }
+    ],
+    "knowledge_graph": {
+        "title": "Fungus",
+        "cite_name": "Fungus - Wikipedia",
+        "cite_link": "https://en.wikipedia.org/wiki/Fungus",
+        "description": "A fungus is any member of the group of eukaryotic organisms that includes microorganisms such as yeasts and molds, as well as the more familiar mushrooms.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Fungus"
+        },
+        "sources_include": "USDAMushrooms, white4 Calories - 1 medium (18 g)",
+        "lower_classifications": [
+            {
+                "name": "Sac fungi",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Ascomycota&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMzFK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexcjkWJ-fnVibnlyQCAHAfM1FeAAAA&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQxA16BAhLEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Ascomycota&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMzFK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexcjkWJ-fnVibnlyQCAHAfM1FeAAAA",
+                "image": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/2634fbf2aff66fd5d2020a56f4ee7eb7120f6bad7de746868d5513f33480ab7aaf5b2870ae078c8133665d8f80daa60f.jpeg"
+            },
+            {
+                "name": "Basidiomycetes",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Basidiomycota&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMTCu0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8jolFmemZObnVibnlyQCAOF1jpVhAAAA&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQxA16BAhLEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Basidiomycota&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVECs1KMTCu0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8jolFmemZObnVibnlyQCAOF1jpVhAAAA",
+                "image": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/2634fbf2aff66fd5d2020a56f4ee7eb7120f6bad7de746868d5513f33480ab7a831f9425e816a1506b6d9c924d3b5e68.jpeg"
+            },
+            {
+                "name": "Agaricus bisporus",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Agaricus+bisporus&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLEMi5PKs7Uss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7EKOqYnFmUmlxYrJGUWF-QXlRYDAJDXk0lmAAAA&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQxA16BAhLEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Agaricus+bisporus&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLEMi5PKs7Uss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7EKOqYnFmUmlxYrJGUWF-QXlRYDAJDXk0lmAAAA",
+                "image": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/2634fbf2aff66fd5d2020a56f4ee7eb7120f6bad7de746868d5513f33480ab7a371ceafb3fbaee2747abcae1cef8eb52.jpeg"
+            },
+            {
+                "name": "Agaricus",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Agaricus&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLFMs8yLC7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7FyOKYnFmUmlxYDADazVTxdAAAA&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQxA16BAhLEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Agaricus&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVHiBLFMs8yLC7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7FyOKYnFmUmlxYDADazVTxdAAAA",
+                "image": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/2634fbf2aff66fd5d2020a56f4ee7eb7120f6bad7de746868d5513f33480ab7a2bdf488c9d75b60e98797087c9013219.jpeg"
+            }
+        ],
+        "people_also_search_for": [
+            {
+                "name": "Algae",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGedFFbVHvA2UNgtZX41YfezP1TYx_F20TlgaExfzQh4WvD1dGtILAH40FX0vUx15dBiUkTY-zdjAtW8dVAyUNP5GVP3QlqmCINzWV6VM3i50Vigsifh1rY1c11bdu0sWkN4OodFL-FS-617e8Kw1_Rxqmv7O&q=Algae&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQs9oBKAB6BAhIEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Algae&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGedFFbVHvA2UNgtZX41YfezP1TYx_F20TlgaExfzQh4WvD1dGtILAH40FX0vUx15dBiUkTY-zdjAtW8dVAyUNP5GVP3QlqmCINzWV6VM3i50Vigsifh1rY1c11bdu0sWkN4OodFL-FS-617e8Kw1_Rxqmv7O",
+                "image": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/2634fbf2aff66fd5d2020a56f4ee7eb7c716a87db34e17fdb515f295447c83fa4b2eb8e4967e004fd739bd7a627bb80b.jpeg"
+            },
+            {
+                "name": "Mushroom",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXTtl7XMcxrGS6_Ymu__U_7pijT7a-Yg-oDIAFrlUQAPI2RKaGsctpQK6K6MAxwggPYATDrLEGFp4b2rnj9ciQikQ_-lb9yU0QSWtL136VP-JG3Fl4hs6tQxVkMcSgbHCCJ08jzQKZTd9s6L36-0wRRdXb_m&q=Mushroom&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQs9oBKAF6BAhIEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mushroom&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXTtl7XMcxrGS6_Ymu__U_7pijT7a-Yg-oDIAFrlUQAPI2RKaGsctpQK6K6MAxwggPYATDrLEGFp4b2rnj9ciQikQ_-lb9yU0QSWtL136VP-JG3Fl4hs6tQxVkMcSgbHCCJ08jzQKZTd9s6L36-0wRRdXb_m",
+                "image": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/2634fbf2aff66fd5d2020a56f4ee7eb7c716a87db34e17fdb515f295447c83fa9f9bafd2a8afb379fbaf50f669c18eb0.jpeg"
+            },
+            {
+                "name": "Agaricus",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBPqtvE9n_h5iDWag07G7RfWPjuwmQeMjHYuLEgY6UYvR0ZlXPeVhLOpZycarN4J5FTYIeXcpOG5fWNcqNPUMZjZWwpQnGG28hVUVFakq6vwAOp5NiGnS05MTK-W569ajVzDcWHIU3WUmr3KOP91ICDoukw5&q=Agaricus&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQs9oBKAJ6BAhIEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Agaricus&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBPqtvE9n_h5iDWag07G7RfWPjuwmQeMjHYuLEgY6UYvR0ZlXPeVhLOpZycarN4J5FTYIeXcpOG5fWNcqNPUMZjZWwpQnGG28hVUVFakq6vwAOp5NiGnS05MTK-W569ajVzDcWHIU3WUmr3KOP91ICDoukw5",
+                "image": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/2634fbf2aff66fd5d2020a56f4ee7eb7c716a87db34e17fdb515f295447c83fa422e95611c48288bfa8387462070b760.jpeg"
+            },
+            {
+                "name": "Edible mushroom",
+                "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgKK_MTp7Zod2l8vKwfQPxvbxc7B7n3qn6wisCvpMXejZYmtPmp6nguXMtuA322M_cXrUmQJ2OYZUg9H2nyvjXaOywHqiWUE6pPjQVY4zHH7LQtl_N5Rayd8al1Qqz277ptbqFF6W-TgBTSARMHUGgAAZl2xAKIz0Hq9PeBQ7xxakXPLp3g%3D%3D&q=Edible+mushroom&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQs9oBKAN6BAhIEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Edible+mushroom&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgKK_MTp7Zod2l8vKwfQPxvbxc7B7n3qn6wisCvpMXejZYmtPmp6nguXMtuA322M_cXrUmQJ2OYZUg9H2nyvjXaOywHqiWUE6pPjQVY4zHH7LQtl_N5Rayd8al1Qqz277ptbqFF6W-TgBTSARMHUGgAAZl2xAKIz0Hq9PeBQ7xxakXPLp3g%3D%3D",
+                "image": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/2634fbf2aff66fd5d2020a56f4ee7eb7c716a87db34e17fdb515f295447c83fa3fc8b403bdef0bea163b3cb8e4c38686.jpeg"
+            }
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Fungus&stick=H4sIAAAAAAAAAONgFuLQz9U3MDY0NVGCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWJlcyvNSy8tvsUmyWD6sZXpubi7vGLDefOZWzq6yjNVVP6vPB0CAGLaMS5nAAAA&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ4qYDegQISBAG",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MDY0NVGCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWJlcyvNSy8tvsUmyWD6sZXpubi7vGLDefOZWzq6yjNVVP6vPB0CAGLaMS5nAAAA",
+        "list": {
+            "total_fat": [
+                "0.1 g",
+                "0%"
+            ],
+            "cholesterol": [
+                "0 mg",
+                "0%"
+            ],
+            "sodium": [
+                "1 mg",
+                "0%"
+            ],
+            "potassium": [
+                "57 mg",
+                "1%"
+            ],
+            "total_carbohydrate": [
+                "0.6 g",
+                "0%"
+            ],
+            "protein": [
+                "0.6 g",
+                "1%"
+            ]
+        }
+    },
+    "top_stories": [
+        {
+            "title": "Get out and go fungal: Why it's a bumper time to spot our native fungi",
+            "link": "https://phys.org/news/2022-06-fungal-bumper-native-fungi.html",
+            "source": "Phys.org",
+            "date": "3 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/ae9e787b0d8f1668796c9fa1c87189e992fef429b4d18e0a.jpeg"
+        },
+        {
+            "title": "Fungus linked to deadly bat disease found inside eastern Idaho cave",
+            "link": "https://www.eastidahonews.com/2022/06/fungus-linked-to-deadly-bat-disease-found-inside-eastern-idaho-cave/",
+            "source": "East Idaho News",
+            "date": "45 mins ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/ae9e787b0d8f1668c25241a69cc772b821a8e057136c25cd.jpeg"
+        },
+        {
+            "title": "Molecules found in mucus can thwart fungal infection",
+            "link": "https://phys.org/news/2022-06-molecules-mucus-thwart-fungal-infection.html",
+            "source": "Phys.org",
+            "date": "2 hours ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/ae9e787b0d8f1668686c290c25fe145d56e12b550b71f6ea.jpeg"
+        },
+        {
+            "title": "Beyond flora and fauna: Why it's time to include fungi in global conservation goals",
+            "link": "https://theconversation.com/beyond-flora-and-fauna-why-its-time-to-include-fungi-in-global-conservation-goals-181226",
+            "source": "The Conversation",
+            "date": "3 weeks ago",
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/ae9e787b0d8f16686f59a8f2f5af0658970f3b78c0be26b6.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Fungus&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQt8YBegQIMRAC",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&tbm=nws",
+    "related_questions": [
+        {
+            "question": "What is fungus in human body?",
+            "snippet": "A fungal infection, also called mycosis, is a skin disease caused by a fungus. There are millions of species of fungi. They live in the dirt, on plants, on household surfaces, and on your skin. Sometimes, they can lead to skin problems like rashes or bumps.Jan 26, 2022",
+            "title": "Fungal Infections of the Skin - WebMD",
+            "link": "https://www.webmd.com/skin-problems-and-treatments/guide/fungal-infections-skin",
+            "displayed_link": "https://www.webmd.com › ... › Guide"
+        },
+        {
+            "question": "How do humans get fungus?",
+            "snippet": "Anyone can get a fungal infection, even people who are otherwise healthy. Fungi are common in the environment, and people breathe in or come in contact with fungal spores every day without getting sick. However, in people with weakened immune systems, these fungi are more likely to cause an infection.",
+            "title": "Who Gets Fungal Infections? - Centers for Disease Control ...",
+            "link": "https://www.cdc.gov/fungal/infections/index.html",
+            "displayed_link": "https://www.cdc.gov › fungal › infections"
+        },
+        {
+            "question": "What are 5 examples of fungus?",
+            "snippet": "The most common types of fungi are yeasts, mushroom, moulds, rusts and smuts. Also Check: What type of cell is fungi?",
+            "title": "What are 5 examples of fungi? Get the Answer at BYJU'S NEET",
+            "link": "https://byjus.com/neet-questions/what-are-5-examples-of-fungi/",
+            "displayed_link": "https://byjus.com › neet-questions › what-are-5-examples-..."
+        },
+        {
+            "question": "What kills a fungus?",
+            "snippet": "Antifungal medications Most of the time, you'll need to see a doctor for a prescription antifungal medication, such as terbinafine or itraconazole. These will often involve taking a pill that helps to kill the fungus.Apr 1, 2021",
+            "title": "10 Home Remedies for Toenail Fungus - Healthline",
+            "link": "https://www.healthline.com/health/home-remedies-for-toenail-fungus",
+            "displayed_link": "https://www.healthline.com › health › home-remedies-for-..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Fungus - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Fungus",
+            "displayed_link": "https://en.wikipedia.org › wiki › Fungus",
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac6100ac51be645c22ce14a00bb0734ef5bc8e.jpeg",
+            "snippet": "A fungus (plural: fungi or funguses) is any member of the group of eukaryotic organisms that includes microorganisms such as yeasts and molds, ...",
+            "snippet_highlighted_words": [
+                "fungus",
+                "fungi"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Pathogenic fungus",
+                        "link": "https://en.wikipedia.org/wiki/Pathogenic_fungus"
+                    },
+                    {
+                        "title": "Rust (fungus)",
+                        "link": "https://en.wikipedia.org/wiki/Rust_(fungus)"
+                    },
+                    {
+                        "title": "Mushroom",
+                        "link": "https://en.wikipedia.org/wiki/Mushroom"
+                    },
+                    {
+                        "title": "Chromista",
+                        "link": "https://en.wikipedia.org/wiki/Chromista"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac61009b9845362d5ae42a60e07e24dc42d26fbb63d5ee3ba74248ce3451cccc50fc4d.png"
+                },
+                "keywords": [
+                    "fungus"
+                ],
+                "related_keywords": [
+                    "fungi"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Fungus&tbm=ilp&ilps=ADNMCi1qYlUwh7f02jT_XS9ear0DFi3Dpg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:juYD--kLGj0J:https://en.wikipedia.org/wiki/Fungus+&cd=2&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=related:https://en.wikipedia.org/wiki/Fungus+Fungus"
+        },
+        {
+            "position": 2,
+            "title": "fungus | Definition, Characteristics, Types, & Facts",
+            "link": "https://www.britannica.com/science/fungus",
+            "displayed_link": "https://www.britannica.com › science › fungus",
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac6100a854935ffb6947a965bf3fe13c8818cc.jpeg",
+            "snippet": "fungus, plural fungi, any of about 144,000 known species of organisms of the kingdom Fungi, which includes the yeasts, rusts, smuts, mildews, molds, ...",
+            "snippet_highlighted_words": [
+                "fungus",
+                "fungi",
+                "Fungi"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac6100105f132a1b59918eae3e6a5eb8d7a3556a316fc4854514f048a4ab9256244642.png"
+                },
+                "keywords": [
+                    "fungus"
+                ],
+                "related_keywords": [
+                    "fungi"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/fungus&tbm=ilp&ilps=ADNMCi1eZ3cXZ7eohgrCnG06qvSeQWBVgQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zIvrOrVLNQIJ:https://www.britannica.com/science/fungus+&cd=11&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=related:https://www.britannica.com/science/fungus+Fungus"
+        },
+        {
+            "position": 3,
+            "title": "fungus - Importance of fungi - Encyclopedia Britannica",
+            "link": "https://www.britannica.com/science/fungus/Importance-of-fungi",
+            "displayed_link": "https://www.britannica.com › science › Importance-of-f...",
+            "thumbnail": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac6100567220ac726fce98530e90d1e2cee86a.jpeg",
+            "snippet": "A typical fungus consists of a mass of branched, tubular filaments enclosed by a rigid cell wall. The filaments, called hyphae (singular hypha), branch ...",
+            "snippet_highlighted_words": [
+                "fungus"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac6100b739f3a0753018b44868a20161f871b4d8e52135a4c44f2c99a80338e9bf4a70.png"
+                },
+                "keywords": [
+                    "fungus"
+                ],
+                "related_keywords": [
+                    "fungi"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/fungus/Importance-of-fungi&tbm=ilp&ilps=ADNMCi02QA1q0JCL_7ZL2EOuw5yHn3OPEQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PMUXXkRVspQJ:https://www.britannica.com/science/fungus/Importance-of-fungi+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Fungal Infections | Fungi | Fungus - MedlinePlus",
+            "link": "https://medlineplus.gov/fungalinfections.html",
+            "displayed_link": "https://medlineplus.gov › Health Topics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-1sgO7miQ3jO8UX-2KEGIOjHB26aDs4m6UAd7WFvdFtIoO2y3-AQ&usqp=CAE&s",
+            "date": "Jul 10, 2019",
+            "snippet": "If you have ever had athlete's foot or a yeast infection, you can blame a fungus. A fungus is a primitive organism.",
+            "snippet_highlighted_words": [
+                "fungus",
+                "fungus"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "MedlinePlus is an online information service produced by the United States National Library of Medicine. The service provides curated consumer health information in English and Spanish with select content in additional languages.",
+                    "icon": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac610068f2247f025df72a4152123b9439cdf95ee68e7e1e5f1fb9bc54fef683b9bc09.png"
+                },
+                "keywords": [
+                    "fungus"
+                ],
+                "related_keywords": [
+                    "fungal",
+                    "fungi"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://medlineplus.gov/fungalinfections.html&tbm=ilp&ilps=ADNMCi17xUfhEq8nbmll83lfM9cLg27BvA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yxiRQ_zyTDAJ:https://medlineplus.gov/fungalinfections.html+&cd=27&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=related:https://medlineplus.gov/fungalinfections.html+Fungus"
+        },
+        {
+            "position": 5,
+            "title": "Facts About the Fungus Among Us | Live Science",
+            "link": "https://www.livescience.com/53618-fungus.html",
+            "displayed_link": "https://www.livescience.com › 53618-fungus",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQcNtREJnLeu_9MVKVoXMamh3h2IMsHbgzu4xADa5Y0l48sM5H0YH&usqp=CAE&s",
+            "date": "Feb 4, 2016",
+            "snippet": "Tens of thousands of organisms, from mushrooms to mold to yeast, fall under the umbrella of fungi. Once thought simply to be plants, ...",
+            "snippet_highlighted_words": [
+                "fungi"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Live Science is a science news website run by Future via Purch, which it purchased from Imaginova in 2009. Stories and editorial commentary are typically syndicated to major news outlets, such as Yahoo!, MSNBC, AOL, and Fox News.",
+                    "icon": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac61004202d8a98db54d0d22bedd9919a9925fed9cd90530812fef2ed68da890c5689c.png"
+                },
+                "keywords": [
+                    "fungus"
+                ],
+                "related_keywords": [
+                    "fungi"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.livescience.com/53618-fungus.html&tbm=ilp&ilps=ADNMCi0ryF0szEz5FdW5GsDHy6-xHEs_rw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BH-EOextWnsJ:https://www.livescience.com/53618-fungus.html+&cd=28&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Fungi | What is microbiology?",
+            "link": "https://microbiologysociety.org/why-microbiology-matters/what-is-microbiology/fungi.html",
+            "displayed_link": "https://microbiologysociety.org › fungi",
+            "date": "Jun 8, 2010",
+            "snippet": "Fungi can be single celled or very complex multicellular organisms. They are found in just about any habitat but most live on the land, mainly in soil or on ...",
+            "snippet_highlighted_words": [
+                "Fungi"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Microbiology Society is a learned society based in the United Kingdom with a worldwide membership based in universities, industry, hospitals, research institutes and schools. It is the largest learned microbiological society in Europe.",
+                    "icon": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac61004dfc86bcfe0309f9eed407e0b6ee2a83eac7632a47a97efbdaea4b78f12a6e9c.png"
+                },
+                "keywords": [
+                    "fungus"
+                ],
+                "related_keywords": [
+                    "fungi"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://microbiologysociety.org/why-microbiology-matters/what-is-microbiology/fungi.html&tbm=ilp&ilps=ADNMCi1T1wu6_QnWtl2NdKZt3blgZNeveA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0GO5xpDCnLIJ:https://microbiologysociety.org/why-microbiology-matters/what-is-microbiology/fungi.html+&cd=29&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Fungal Infections of the Skin - WebMD",
+            "link": "https://www.webmd.com/skin-problems-and-treatments/guide/fungal-infections-skin",
+            "displayed_link": "https://www.webmd.com › ... › Guide",
+            "date": "Jan 26, 2022",
+            "snippet": "A fungal infection, also called mycosis, is a skin disease caused by a fungus. There are millions of species of fungi. They live in the dirt ...",
+            "snippet_highlighted_words": [
+                "fungal",
+                "fungus",
+                "fungi"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "WebMD is an American corporation known primarily as an online publisher of news and information pertaining to human health and well-being. The site includes information pertaining to drugs. It is one of the top healthcare websites.\nIt was founded in 1998 by internet entrepreneur Jeff Arnold.",
+                    "icon": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac6100b517398e1334d0c509653dcb31391ec6aed8932dba3155d825066fbdbfab8069.png"
+                },
+                "keywords": [
+                    "fungus"
+                ],
+                "related_keywords": [
+                    "fungal",
+                    "fungi"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.webmd.com/skin-problems-and-treatments/guide/fungal-infections-skin&tbm=ilp&ilps=ADNMCi1qu-QPVFCCicP7ZW9usaLUS_fqYA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:g1vWLxqIBbAJ:https://www.webmd.com/skin-problems-and-treatments/guide/fungal-infections-skin+&cd=30&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "Types of Fungal Diseases",
+            "link": "https://www.cdc.gov/fungal/diseases/index.html",
+            "displayed_link": "https://www.cdc.gov › fungal › diseases",
+            "snippet": "Fungal diseases are often caused by fungi that are common in the environment. Fungi live outdoors in soil and on plants and trees as well as on many indoor ...",
+            "snippet_highlighted_words": [
+                "Fungal",
+                "fungi",
+                "Fungi"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Centers for Disease Control and Prevention is the national public health agency of the United States. It is a United States federal agency, under the Department of Health and Human Services, and is headquartered in Atlanta, Georgia.",
+                    "icon": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac61000a2b7cbab10637872166ae6d0402404ae7ff615b590dc8b7dacb980a9b166f06.png"
+                },
+                "keywords": [
+                    "fungus"
+                ],
+                "related_keywords": [
+                    "fungal",
+                    "fungi"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cdc.gov/fungal/diseases/index.html&tbm=ilp&ilps=ADNMCi3x1ki_DHDPoybC-GHUWX773-1Jow",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7TwsLeMIAVYJ:https://www.cdc.gov/fungal/diseases/index.html+&cd=31&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "Who Gets Fungal Infections? - Centers for Disease Control ...",
+            "link": "https://www.cdc.gov/fungal/infections/index.html",
+            "displayed_link": "https://www.cdc.gov › fungal › infections",
+            "snippet": "Anyone can get a fungal infection, even people who are otherwise healthy. Fungi are common in the environment, and people breathe in or come in contact with ...",
+            "snippet_highlighted_words": [
+                "fungal",
+                "Fungi"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Centers for Disease Control and Prevention is the national public health agency of the United States. It is a United States federal agency, under the Department of Health and Human Services, and is headquartered in Atlanta, Georgia.",
+                    "icon": "https://serpapi.com/searches/629e3d1b8b7ed20acb37aeb5/images/044f4efefd8f0eba30d6781715ac610011ce0c211e16422cdca68e150addaa74d4494dc4a5a60fc54bd850047dc4ce43.png"
+                },
+                "keywords": [
+                    "fungus"
+                ],
+                "related_keywords": [
+                    "fungal",
+                    "fungi"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cdc.gov/fungal/infections/index.html&tbm=ilp&ilps=ADNMCi2nl4v76uN7xk95RmHdtSvYuGkBLA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:bhluKsQSKpgJ:https://www.cdc.gov/fungal/infections/index.html+&cd=32&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "fungus on skin",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Fungus+on+skin&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ1QJ6BAhnEAE"
+        },
+        {
+            "query": "fungi characteristics",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Fungi+characteristics&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ1QJ6BAhmEAE"
+        },
+        {
+            "query": "fungus definition medical",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Fungus+definition+medical&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ1QJ6BAhlEAE"
+        },
+        {
+            "query": "how to pronounce fungus",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=How+to+pronounce+fungus&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ1QJ6BAhkEAE"
+        },
+        {
+            "query": "10 examples of fungi",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=10+examples+of+fungi&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ1QJ6BAhqEAE"
+        },
+        {
+            "query": "importance of fungi",
+            "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Importance+of+fungi&sa=X&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ1QJ6BAhpEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Fungus&ucbcb=1&gl=us&hl=en&ei=HD2eYuiWNoiQ4dUPuvq3wA8&start=10&sa=N&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ8NMDegQIAhBL",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Fungus&ucbcb=1&gl=us&hl=en&ei=HD2eYuiWNoiQ4dUPuvq3wA8&start=10&sa=N&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ8tMDegQIAhA5",
+            "3": "https://www.google.com/search?q=Fungus&ucbcb=1&gl=us&hl=en&ei=HD2eYuiWNoiQ4dUPuvq3wA8&start=20&sa=N&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ8tMDegQIAhA7",
+            "4": "https://www.google.com/search?q=Fungus&ucbcb=1&gl=us&hl=en&ei=HD2eYuiWNoiQ4dUPuvq3wA8&start=30&sa=N&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ8tMDegQIAhA9",
+            "5": "https://www.google.com/search?q=Fungus&ucbcb=1&gl=us&hl=en&ei=HD2eYuiWNoiQ4dUPuvq3wA8&start=40&sa=N&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ8tMDegQIAhA_",
+            "6": "https://www.google.com/search?q=Fungus&ucbcb=1&gl=us&hl=en&ei=HD2eYuiWNoiQ4dUPuvq3wA8&start=50&sa=N&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ8tMDegQIAhBB",
+            "7": "https://www.google.com/search?q=Fungus&ucbcb=1&gl=us&hl=en&ei=HD2eYuiWNoiQ4dUPuvq3wA8&start=60&sa=N&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ8tMDegQIAhBD",
+            "8": "https://www.google.com/search?q=Fungus&ucbcb=1&gl=us&hl=en&ei=HD2eYuiWNoiQ4dUPuvq3wA8&start=70&sa=N&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ8tMDegQIAhBF",
+            "9": "https://www.google.com/search?q=Fungus&ucbcb=1&gl=us&hl=en&ei=HD2eYuiWNoiQ4dUPuvq3wA8&start=80&sa=N&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ8tMDegQIAhBH",
+            "10": "https://www.google.com/search?q=Fungus&ucbcb=1&gl=us&hl=en&ei=HD2eYuiWNoiQ4dUPuvq3wA8&start=90&sa=N&ved=2ahUKEwjolIjAsJn4AhUISLgEHTr9DfgQ8tMDegQIAhBJ"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fungus&start=90"
+        }
+    }
+}

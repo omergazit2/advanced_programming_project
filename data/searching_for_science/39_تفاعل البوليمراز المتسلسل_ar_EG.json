@@ -1,0 +1,281 @@
+{
+    "search_metadata": {
+        "id": "629e3d969c449d42f9cb0415",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/42e09dc9485e69c5/629e3d969c449d42f9cb0415.json",
+        "created_at": "2022-06-06 17:47:02 UTC",
+        "processed_at": "2022-06-06 17:47:02 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&oq=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/42e09dc9485e69c5/629e3d969c449d42f9cb0415.html",
+        "total_time_taken": 3.8
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "تفاعل البوليمراز المتسلسل",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "تفاعل البوليمراز المتسلسل",
+        "total_results": 330000,
+        "time_taken_displayed": 0.38
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "تفاعل البلمرة المتسلسل PCR",
+            "link": "https://www.youtube.com/watch?v=yhkHj7FQDJw",
+            "thumbnail": "https://serpapi.com/searches/629e3d969c449d42f9cb0415/images/b59b71f8ded26343d852185e7ced165eb97aed905d1a43678b7d6d19b3d6205e.jpeg",
+            "channel": "Khalid Youssef",
+            "duration": "2:06",
+            "platform": "YouTube",
+            "date": "03‏/05‏/2017"
+        },
+        {
+            "position": 2,
+            "title": "تفاعل البولیمیراز المتسلسل (PCR | (الأحیاء | التكنولوجیا ...",
+            "link": "https://www.youtube.com/watch?v=E79Hawt_M0k",
+            "thumbnail": "https://serpapi.com/searches/629e3d969c449d42f9cb0415/images/b59b71f8ded263437fb0d5f844a70adcf8f9408196f936259c2a851db7f4e551.jpeg",
+            "channel": "Madrasa",
+            "duration": "5:38",
+            "platform": "YouTube",
+            "date": "23‏/02‏/2019"
+        },
+        {
+            "position": 3,
+            "title": "PCR (تفاعل البلمرة المتسلسل)",
+            "link": "https://www.youtube.com/watch?v=XHHP5D8A5Qk",
+            "thumbnail": "https://serpapi.com/searches/629e3d969c449d42f9cb0415/images/b59b71f8ded263436872e5935768b6254026740c7a86e24e26e48bf2e94c96fe.jpeg",
+            "channel": "bio teacher",
+            "duration": "9:36",
+            "platform": "YouTube",
+            "date": "03‏/06‏/2020"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ما هو تفاعل البوليمر المتسلسل؟",
+            "snippet": "تفاعل البوليمراز المتسلسل (اختصارًا PCR)، هي طريقةٌ مُستعملةٌ بشكلٍ واسعٍ في علم الأحياء الجزيئي، حيثُ تعمل على إنتاجٍ سريعٍ لمليارات النُسخ من عينةٍ خاصةٍ للحمض النووي الريبوزي منقوص الأكسجين (دنا)، مما يُمكن العلماء من أخذ عينةٍ صغيرةٍ جدًا من الدنا وتضخيمها إلى كميةٍ كبيرةٍ تكفي لدراستها بالتفصيل.",
+            "title": "تفاعل البوليمراز المتسلسل - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%A7%D8%B9%D9%84_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2_%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تفاعل_البوليمراز_الم..."
+        },
+        {
+            "question": "ما هى خطوات PCR؟",
+            "snippet": "يعتمد تفاعل البوليميراز المتسلسل (PCR) على ثلاث خطوات بسيطة مطلوبة لأي تفاعل لتخليق الحمض النووي: (1) تمسخ القالب إلى شرائط مفردة. (2) تلدين البادئات. (3) تمديد خيوط DNA الجديدة من البادئات.10‏/05‏/2021",
+            "title": "تفاعل البوليميراز المتسلسل:التعريف،الأساس العلمي،الأنواع",
+            "link": "https://arblog.praxilabs.com/polymerase-chain-reaction-ar/",
+            "displayed_link": "https://arblog.praxilabs.com › المعامل الأفتراضية"
+        },
+        {
+            "question": "ما هو انزيم تاك بوليميريز؟",
+            "snippet": "– إنزيم البوليميراز (Polymerase enzyme)، ونظرًا لوصول التفاعل إلى درجات حرارة مرتفعة للغاية قد تصل إلى 95 درجة مئوية، تطلب منّا الأمر اِستخدام نوع معين من هذا الإنزيم، والذي يتحلى بالقدرة الفائقة على تحمل درجات الحرارة المرتفعة؛ لذلك وجد العلماء أن الـ(Taq polymerase) هو الأكثر ثباتًا في هذه الظروف نظرًا لوجوده بالأساس ...03‏/09‏/2017",
+            "title": "تفاعل البوليميراز المتسلسل (Polymerase Chain Reaction ...",
+            "link": "https://egyresmag.com/%D8%AA%D9%81%D8%A7%D8%B9%D9%84-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D9%8A%D8%B1%D8%A7%D8%B2-%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84-polymerase-chain-reaction-pcr/",
+            "displayed_link": "https://egyresmag.com › تفاعل-البوليميراز-المتسلسل-..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "تفاعل البوليمراز المتسلسل - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%A7%D8%B9%D9%84_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2_%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تفاعل_البوليمراز_الم...",
+            "snippet": "تفاعل البوليمراز المتسلسل (اختصارًا PCR)، هي طريقةٌ مُستعملةٌ بشكلٍ واسعٍ في علم الأحياء الجزيئي، حيثُ تعمل على إنتاجٍ سريعٍ لمليارات النُسخ من عينةٍ خاصةٍ ...",
+            "snippet_highlighted_words": [
+                "تفاعل البوليمراز المتسلسل"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "تفاعل البوليمراز المتسلسل بالزمن الحقيقي - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%A7%D8%B9%D9%84_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2_%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84_%D8%A8%D8%A7%D9%84%D8%B2%D9%85%D9%86_%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تفاعل_البوليمراز_الم...",
+            "snippet": "تفاعل البوليميراز المتسلسل بالزمن الحقيقي أو تفاعل البوليميراز المتسلسل اللحظي (بالإنجليزية: real-time polymerase chain reaction)‏ ويسمى أيضا تفاعل ...",
+            "snippet_highlighted_words": [
+                "تفاعل البوليميراز المتسلسل",
+                "تفاعل البوليميراز المتسلسل",
+                "تفاعل"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "تفاعل البوليميراز المتسلسل: إجراء الفحص وتحليل النتائج",
+            "link": "https://www.webteb.com/hematology/%D8%AA%D9%81%D8%A7%D8%B9%D9%84-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D9%8A%D8%B1%D8%A7%D8%B2",
+            "displayed_link": "https://www.webteb.com › hematology › تفاعل-سلسل...",
+            "snippet": "السبب في التسمية هذا الفحص باسم تفاعل البوليميراز المتسلسل (PCR - polymerase chain reaction) أنه يتم استعمال الإنزيم الطبيعي المسمى بالبوليميراز الذي يقوم بنسخ ...",
+            "snippet_highlighted_words": [
+                "تفاعل البوليميراز المتسلسل",
+                "بالبوليميراز"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "يطور فريق البحث الجامعي تقنية النانو PCR (تفاعل ...",
+            "link": "https://www.un.org/ar/170565",
+            "displayed_link": "https://www.un.org › ...",
+            "snippet": "وبالنسبة لمسألة التشخيص ، كان هناك نوعان من الأساليب في تصاعد، وكان RT PCR (تفاعل البوليميراز المتسلسل للنسخ العكسي) هو الخيار المفضل وهو طريقة اختبار فيروس ...",
+            "snippet_highlighted_words": [
+                "تفاعل البوليميراز المتسلسل"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "تفاعل البوليميراز المتسلسل:التعريف،الأساس العلمي،الأنواع",
+            "link": "https://arblog.praxilabs.com/polymerase-chain-reaction-ar/",
+            "displayed_link": "https://arblog.praxilabs.com › المعامل الأفتراضية",
+            "snippet": "عادةً ما يتكون تفاعل البوليميراز المتسلسل من سلسلة من 20-40 تغيرًا متكررًا في درجات الحرارة، تسمى ...",
+            "snippet_highlighted_words": [
+                "تفاعل البوليميراز المتسلسل"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "الأساس العلمي لتفاعل...",
+                        "link": "https://arblog.praxilabs.com/polymerase-chain-reaction-ar/#_%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3_%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A_%D9%84%D8%AA%D9%81%D8%A7%D8%B9%D9%84_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D9%8A%D8%B1%D8%A7%D8%B2_%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84_PCR"
+                    },
+                    {
+                        "title": "الخطوات الأساسية الثلاث...",
+                        "link": "https://arblog.praxilabs.com/polymerase-chain-reaction-ar/#%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB_%D9%84%D8%AA%D9%81%D8%A7%D8%B9%D9%84_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D9%8A%D8%B1%D8%A7%D8%B2_%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84"
+                    },
+                    {
+                        "title": "تطبيقات تفاعل البوليميراز...",
+                        "link": "https://arblog.praxilabs.com/polymerase-chain-reaction-ar/#%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA_%D8%AA%D9%81%D8%A7%D8%B9%D9%84_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D9%8A%D8%B1%D8%A7%D8%B2_%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84_PCR"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "الخطوات الأساسية الثلاث لتفاعل البوليميراز المتسلسل —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "شرح مُبسَّط لتقنية الــPCR خطوة بخطوة - الباحثون السوريون",
+            "link": "https://www.syr-res.com/article/21661.html",
+            "displayed_link": "https://www.syr-res.com › article",
+            "snippet": "حدث تطوير Kary Mullis لتقنية (polymerase chain reaction (PCR (تفاعل البوليمراز المتسلسل)عام 1983 ثورةً في مجال البيولوجيا الجزيئية؛ ممَّا ...",
+            "snippet_highlighted_words": [
+                "تفاعل البوليمراز المتسلسل"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٣٠‏/٠٨‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "تفاعل البلمرة المتسلسل - Polymerase chain reaction - المعرفة",
+            "link": "https://www.marefa.org/%D8%AA%D9%81%D8%A7%D8%B9%D9%84_%D8%A7%D9%84%D9%BE%D9%88%D9%84%D9%8A%D9%85%D8%B1%D9%8A%D8%B2_%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84/simplified",
+            "displayed_link": "https://www.marefa.org › simplified",
+            "snippet": "تفاعل البوليميراز المتسلسل ( PCR ) هو طريقة تستخدم على نطاق واسع لجعل الملايين إلى مليارات النسخ من عينة معينة من الدنا بسرعة ، مما يسمح للعلماء بأخذ عينة صغيرة ...",
+            "snippet_highlighted_words": [
+                "تفاعل البوليميراز المتسلسل"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "تفاعل البوليميراز المتسلسل | بوبيولار ساينس - العلوم للعموم",
+            "link": "https://popsciarabia.com/%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%87%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9/%D8%AA%D9%81%D8%A7%D8%B9%D9%84-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D9%8A%D8%B1%D8%A7%D8%B2-%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84/",
+            "displayed_link": "https://popsciarabia.com › المفاهيم-العلمية › تفاعل-ال...",
+            "snippet": "تفاعل البوليميراز المتسلسل (PCR)، هو تفاعل كيميائي يستخدمه علماء الأحياء الجزيئية لتضخيم أجزاء من الدنا (DNA). يسمح هذا التفاعل بنسخ واحدة ...",
+            "snippet_highlighted_words": [
+                "تفاعل البوليميراز المتسلسل",
+                "تفاعل",
+                "التفاعل"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٤‏/٠٣‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "شرح معنى \" اختبار تفاعل البوليميراز المتسلسل \" - إم آي تي ...",
+            "link": "https://technologyreview.ae/technodad/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%AA%D9%81%D8%A7%D8%B9%D9%84-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D9%8A%D8%B1%D8%A7%D8%B2-%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84/",
+            "displayed_link": "https://technologyreview.ae › المفاهيم العلمية",
+            "snippet": "يعتبر تفاعل البوليميراز المتسلسل (PCR) تقنية حيوية تستخدم لصنع نسخ متعددة من شريحة معينة من الحمض النووي بسرعة وبدقة.",
+            "snippet_highlighted_words": [
+                "تفاعل",
+                "المتسلسل"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "مكونات جهاز PCR",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA+%D8%AC%D9%87%D8%A7%D8%B2+PCR&sa=X&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "RT-PCR",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=RT-PCR&sa=X&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ1QJ6BAguEAE"
+        },
+        {
+            "query": "جهاز PCR ويكيبيديا",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AC%D9%87%D8%A7%D8%B2+PCR+%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7&sa=X&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "أنواع PCR",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+PCR&sa=X&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "خطوات PCR",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AE%D8%B7%D9%88%D8%A7%D8%AA+PCR&sa=X&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "تفاعل البلمرة المتسلسل ppt",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%84%D9%85%D8%B1%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84+ppt&sa=X&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "تفاعل البلمرة المتسلسل PDF",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%84%D9%85%D8%B1%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84+PDF&sa=X&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ1QJ6BAglEAE"
+        },
+        {
+            "query": "طريقة عمل جهاز Real-time PCR",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D8%B1%D9%8A%D9%82%D8%A9+%D8%B9%D9%85%D9%84+%D8%AC%D9%87%D8%A7%D8%B2+Real-time+PCR&sa=X&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ1QJ6BAgjEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&ei=mT2eYvrtF5HI1QHr4Lq4Bg&start=10&sa=N&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ8NMDegQIARBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&ei=mT2eYvrtF5HI1QHr4Lq4Bg&start=10&sa=N&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&ei=mT2eYvrtF5HI1QHr4Lq4Bg&start=20&sa=N&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&ei=mT2eYvrtF5HI1QHr4Lq4Bg&start=30&sa=N&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&ei=mT2eYvrtF5HI1QHr4Lq4Bg&start=40&sa=N&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&ei=mT2eYvrtF5HI1QHr4Lq4Bg&start=50&sa=N&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&ei=mT2eYvrtF5HI1QHr4Lq4Bg&start=60&sa=N&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&ei=mT2eYvrtF5HI1QHr4Lq4Bg&start=70&sa=N&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ8tMDegQIARBJ",
+            "9": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&ei=mT2eYvrtF5HI1QHr4Lq4Bg&start=80&sa=N&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ8tMDegQIARBL",
+            "10": "https://www.google.com/search?q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&hl=ar&gl=eg&ei=mT2eYvrtF5HI1QHr4Lq4Bg&start=90&sa=N&ved=2ahUKEwi6nrf7sJn4AhURZDUKHWuwDmcQ8tMDegQIARBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%A7%D8%B9%D9%84+%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%B1%D8%A7%D8%B2+%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%84%D8%B3%D9%84&start=90"
+        }
+    }
+}

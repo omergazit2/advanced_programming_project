@@ -1,0 +1,571 @@
+{
+    "search_metadata": {
+        "id": "627cfeb72ff421d0610e878f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a7ead2ec10592a63/627cfeb72ff421d0610e878f.json",
+        "created_at": "2022-05-12 12:33:59 UTC",
+        "processed_at": "2022-05-12 12:33:59 UTC",
+        "google_url": "https://www.google.com/search?q=Malnutrition&oq=Malnutrition&uule=w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz&hl=en&gl=US&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/a7ead2ec10592a63/627cfeb72ff421d0610e878f.html",
+        "total_time_taken": 0.7
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Malnutrition",
+        "uule": "w+CAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "US",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Malnutrition",
+        "total_results": 227000000,
+        "time_taken_displayed": 0.49
+    },
+    "knowledge_graph": {
+        "title": "Malnutrition"
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=yhpri-kPYEEp3M%252C3GQmW41c8RWHdM%252C_%253BtYV2ZSs1_-QWMM%252CQa7cqmKt3aIjCM%252C_%253BKGSCWmtXpOtkgM%252CdX7LRHX5To-ETM%252C_%253BgfJcDWG0HBihUM%252Cu_QzpThhnkEvcM%252C_%253BHAwaohleT1tRqM%252CrHf3qq0wx-kwBM%252C_%253BqZ54QQumxM4ftM%252CSMkiQUEU1G3-8M%252C_%253Bu6RRy9vTqjSaiM%252Cc5gWXWIkwOvGCM%252C_%253BkXAs4sVZCOdxLM%252C3bAECDydK8TP4M%252C_%253B9GwwUnk8-jVGNM%252CnDUtcOCE94ynTM%252C_%253BZ-uB3m9Vm6QTxM%252CbKXTVurgCKFcsM%252C_&usg=AI4_-kR6y8m-DW_GJUv8dVyt7o575mcXpw&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ9QF6BAgnEAE#imgrc=yhpri-kPYEEp3M",
+            "source": "https://en.wikipedia.org/wiki/Malnutrition",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTecTHDWMmglK_Ln1YzBoOaPw-VeIQasUP1vg44yUZ1vg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=yhpri-kPYEEp3M%252C3GQmW41c8RWHdM%252C_%253BtYV2ZSs1_-QWMM%252CQa7cqmKt3aIjCM%252C_%253BKGSCWmtXpOtkgM%252CdX7LRHX5To-ETM%252C_%253BgfJcDWG0HBihUM%252Cu_QzpThhnkEvcM%252C_%253BHAwaohleT1tRqM%252CrHf3qq0wx-kwBM%252C_%253BqZ54QQumxM4ftM%252CSMkiQUEU1G3-8M%252C_%253Bu6RRy9vTqjSaiM%252Cc5gWXWIkwOvGCM%252C_%253BkXAs4sVZCOdxLM%252C3bAECDydK8TP4M%252C_%253B9GwwUnk8-jVGNM%252CnDUtcOCE94ynTM%252C_%253BZ-uB3m9Vm6QTxM%252CbKXTVurgCKFcsM%252C_&usg=AI4_-kR6y8m-DW_GJUv8dVyt7o575mcXpw&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ9QF6BAhWEAE#imgrc=tYV2ZSs1_-QWMM",
+            "source": "https://directorsblog.nih.gov/2013/02/05/who-knew-gut-bacteria-contribute-to-malnutrition/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFSC3zP_EkdSjt84G7-5ghQk5ADRoXyUxlG8SORFMw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=yhpri-kPYEEp3M%252C3GQmW41c8RWHdM%252C_%253BtYV2ZSs1_-QWMM%252CQa7cqmKt3aIjCM%252C_%253BKGSCWmtXpOtkgM%252CdX7LRHX5To-ETM%252C_%253BgfJcDWG0HBihUM%252Cu_QzpThhnkEvcM%252C_%253BHAwaohleT1tRqM%252CrHf3qq0wx-kwBM%252C_%253BqZ54QQumxM4ftM%252CSMkiQUEU1G3-8M%252C_%253Bu6RRy9vTqjSaiM%252Cc5gWXWIkwOvGCM%252C_%253BkXAs4sVZCOdxLM%252C3bAECDydK8TP4M%252C_%253B9GwwUnk8-jVGNM%252CnDUtcOCE94ynTM%252C_%253BZ-uB3m9Vm6QTxM%252CbKXTVurgCKFcsM%252C_&usg=AI4_-kR6y8m-DW_GJUv8dVyt7o575mcXpw&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ9QF6BAhVEAE#imgrc=KGSCWmtXpOtkgM",
+            "source": "https://www.asianage.com/india/all-india/250919/malnutrition-free-india-by-2022-is-it-a-realisable-goal.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWY1NHV2wvmtqzYO4F-S6blTp0qSdtHqUV_PekEmn2kg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=yhpri-kPYEEp3M%252C3GQmW41c8RWHdM%252C_%253BtYV2ZSs1_-QWMM%252CQa7cqmKt3aIjCM%252C_%253BKGSCWmtXpOtkgM%252CdX7LRHX5To-ETM%252C_%253BgfJcDWG0HBihUM%252Cu_QzpThhnkEvcM%252C_%253BHAwaohleT1tRqM%252CrHf3qq0wx-kwBM%252C_%253BqZ54QQumxM4ftM%252CSMkiQUEU1G3-8M%252C_%253Bu6RRy9vTqjSaiM%252Cc5gWXWIkwOvGCM%252C_%253BkXAs4sVZCOdxLM%252C3bAECDydK8TP4M%252C_%253B9GwwUnk8-jVGNM%252CnDUtcOCE94ynTM%252C_%253BZ-uB3m9Vm6QTxM%252CbKXTVurgCKFcsM%252C_&usg=AI4_-kR6y8m-DW_GJUv8dVyt7o575mcXpw&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ9QF6BAg3EAE#imgrc=gfJcDWG0HBihUM",
+            "source": "https://www.unicef.org/nutrition/child-wasting",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCktxNOko6jZLbFG0COLMBwoYB8LjR6WyByRy3V9b3uw&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=yhpri-kPYEEp3M%252C3GQmW41c8RWHdM%252C_%253BtYV2ZSs1_-QWMM%252CQa7cqmKt3aIjCM%252C_%253BKGSCWmtXpOtkgM%252CdX7LRHX5To-ETM%252C_%253BgfJcDWG0HBihUM%252Cu_QzpThhnkEvcM%252C_%253BHAwaohleT1tRqM%252CrHf3qq0wx-kwBM%252C_%253BqZ54QQumxM4ftM%252CSMkiQUEU1G3-8M%252C_%253Bu6RRy9vTqjSaiM%252Cc5gWXWIkwOvGCM%252C_%253BkXAs4sVZCOdxLM%252C3bAECDydK8TP4M%252C_%253B9GwwUnk8-jVGNM%252CnDUtcOCE94ynTM%252C_%253BZ-uB3m9Vm6QTxM%252CbKXTVurgCKFcsM%252C_&usg=AI4_-kR6y8m-DW_GJUv8dVyt7o575mcXpw&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ9QF6BAg7EAE#imgrc=HAwaohleT1tRqM",
+            "source": "https://eduindex.org/2021/05/31/malnutrition/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC64aVCvf8aBMLeohM1rYQnQNB7eBxBNo0RNV5QANKrA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=yhpri-kPYEEp3M%252C3GQmW41c8RWHdM%252C_%253BtYV2ZSs1_-QWMM%252CQa7cqmKt3aIjCM%252C_%253BKGSCWmtXpOtkgM%252CdX7LRHX5To-ETM%252C_%253BgfJcDWG0HBihUM%252Cu_QzpThhnkEvcM%252C_%253BHAwaohleT1tRqM%252CrHf3qq0wx-kwBM%252C_%253BqZ54QQumxM4ftM%252CSMkiQUEU1G3-8M%252C_%253Bu6RRy9vTqjSaiM%252Cc5gWXWIkwOvGCM%252C_%253BkXAs4sVZCOdxLM%252C3bAECDydK8TP4M%252C_%253B9GwwUnk8-jVGNM%252CnDUtcOCE94ynTM%252C_%253BZ-uB3m9Vm6QTxM%252CbKXTVurgCKFcsM%252C_&usg=AI4_-kR6y8m-DW_GJUv8dVyt7o575mcXpw&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ9QF6BAhBEAE#imgrc=qZ54QQumxM4ftM",
+            "source": "https://www.nature.com/articles/d41586-022-01076-5",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVSEg1a6_Mr7_BaKtD_ld_sp0g6btVqhN0aNI4UA5fGA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=yhpri-kPYEEp3M%252C3GQmW41c8RWHdM%252C_%253BtYV2ZSs1_-QWMM%252CQa7cqmKt3aIjCM%252C_%253BKGSCWmtXpOtkgM%252CdX7LRHX5To-ETM%252C_%253BgfJcDWG0HBihUM%252Cu_QzpThhnkEvcM%252C_%253BHAwaohleT1tRqM%252CrHf3qq0wx-kwBM%252C_%253BqZ54QQumxM4ftM%252CSMkiQUEU1G3-8M%252C_%253Bu6RRy9vTqjSaiM%252Cc5gWXWIkwOvGCM%252C_%253BkXAs4sVZCOdxLM%252C3bAECDydK8TP4M%252C_%253B9GwwUnk8-jVGNM%252CnDUtcOCE94ynTM%252C_%253BZ-uB3m9Vm6QTxM%252CbKXTVurgCKFcsM%252C_&usg=AI4_-kR6y8m-DW_GJUv8dVyt7o575mcXpw&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ9QF6BAhTEAE#imgrc=u6RRy9vTqjSaiM",
+            "source": "https://www.verywellhealth.com/malnutrition-criteria-quiz-5207004",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbR5qyu_ktH09slg7mEWNwsZmafFHeaIz404k_yy6zKg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=yhpri-kPYEEp3M%252C3GQmW41c8RWHdM%252C_%253BtYV2ZSs1_-QWMM%252CQa7cqmKt3aIjCM%252C_%253BKGSCWmtXpOtkgM%252CdX7LRHX5To-ETM%252C_%253BgfJcDWG0HBihUM%252Cu_QzpThhnkEvcM%252C_%253BHAwaohleT1tRqM%252CrHf3qq0wx-kwBM%252C_%253BqZ54QQumxM4ftM%252CSMkiQUEU1G3-8M%252C_%253Bu6RRy9vTqjSaiM%252Cc5gWXWIkwOvGCM%252C_%253BkXAs4sVZCOdxLM%252C3bAECDydK8TP4M%252C_%253B9GwwUnk8-jVGNM%252CnDUtcOCE94ynTM%252C_%253BZ-uB3m9Vm6QTxM%252CbKXTVurgCKFcsM%252C_&usg=AI4_-kR6y8m-DW_GJUv8dVyt7o575mcXpw&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ9QF6BAhUEAE#imgrc=kXAs4sVZCOdxLM",
+            "source": "https://www.slideshare.net/LamiaaGamal/malnutrition-47406428",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pbrlEBTyJ4QeRv5Whfs5PA715II6GzObH9Ajm3Kdqg&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=yhpri-kPYEEp3M%252C3GQmW41c8RWHdM%252C_%253BtYV2ZSs1_-QWMM%252CQa7cqmKt3aIjCM%252C_%253BKGSCWmtXpOtkgM%252CdX7LRHX5To-ETM%252C_%253BgfJcDWG0HBihUM%252Cu_QzpThhnkEvcM%252C_%253BHAwaohleT1tRqM%252CrHf3qq0wx-kwBM%252C_%253BqZ54QQumxM4ftM%252CSMkiQUEU1G3-8M%252C_%253Bu6RRy9vTqjSaiM%252Cc5gWXWIkwOvGCM%252C_%253BkXAs4sVZCOdxLM%252C3bAECDydK8TP4M%252C_%253B9GwwUnk8-jVGNM%252CnDUtcOCE94ynTM%252C_%253BZ-uB3m9Vm6QTxM%252CbKXTVurgCKFcsM%252C_&usg=AI4_-kR6y8m-DW_GJUv8dVyt7o575mcXpw&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ9QF6BAhSEAE#imgrc=9GwwUnk8-jVGNM",
+            "source": "https://www.thenewhumanitarian.org/report/89970/food-political-will-can-solve-malnutrition",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9mJ9Mfy8BekCmUa5VAhxmlPDcgOcbIchmq1IM9Lj&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=yhpri-kPYEEp3M%252C3GQmW41c8RWHdM%252C_%253BtYV2ZSs1_-QWMM%252CQa7cqmKt3aIjCM%252C_%253BKGSCWmtXpOtkgM%252CdX7LRHX5To-ETM%252C_%253BgfJcDWG0HBihUM%252Cu_QzpThhnkEvcM%252C_%253BHAwaohleT1tRqM%252CrHf3qq0wx-kwBM%252C_%253BqZ54QQumxM4ftM%252CSMkiQUEU1G3-8M%252C_%253Bu6RRy9vTqjSaiM%252Cc5gWXWIkwOvGCM%252C_%253BkXAs4sVZCOdxLM%252C3bAECDydK8TP4M%252C_%253B9GwwUnk8-jVGNM%252CnDUtcOCE94ynTM%252C_%253BZ-uB3m9Vm6QTxM%252CbKXTVurgCKFcsM%252C_&usg=AI4_-kR6y8m-DW_GJUv8dVyt7o575mcXpw&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ9QF6BAhFEAE#imgrc=Z-uB3m9Vm6QTxM",
+            "source": "https://borgenproject.org/malnutrition-bhutan/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXfMn2zhiUxiqV-X-2SG9o_4WJ_OS5VmnZ7iHNo-p0g&s"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What are the 4 types of malnutrition?",
+            "snippet": "There are 4 broad sub-forms of undernutrition: wasting, stunting, underweight, and deficiencies in vitamins and minerals.Jun 9, 2021",
+            "title": "Fact sheets - Malnutrition - WHO | World Health Organization",
+            "link": "https://www.who.int/news-room/fact-sheets/detail/malnutrition",
+            "displayed_link": "https://www.who.int › Newsroom › Fact sheets › Detail"
+        },
+        {
+            "question": "What are the symptoms of being malnutrition?",
+            "title": "Other symptoms of malnutrition include:",
+            "link": "https://www.nhs.uk/conditions/malnutrition/symptoms/",
+            "list": [
+                "reduced appetite.",
+                "lack of interest in food and drink.",
+                "feeling tired all the time.",
+                "feeling weaker.",
+                "getting ill often and taking a long time to recover.",
+                "wounds taking a long time to heal.",
+                "poor concentration.",
+                "feeling cold most of the time."
+            ],
+            "displayed_link": "https://www.nhs.uk › Health A to Z › Malnutrition"
+        },
+        {
+            "question": "What happens to your body when you are malnourished?",
+            "snippet": "Malnutrition can result in unplanned weight loss, a low body mass index (BMI) and vitamin and mineral deficiencies. This can leave you feeling tired, weak and affect your ability to recover from an illness.May 17, 2021",
+            "title": "Malnutrition | NHS inform",
+            "link": "https://www.nhsinform.scot/illnesses-and-conditions/nutritional/malnutrition",
+            "displayed_link": "https://www.nhsinform.scot › nutritional › malnutrition"
+        },
+        {
+            "question": "What causes malnutrition?",
+            "snippet": "Malnutrition (undernutrition) is caused by a lack of nutrients, either as a result of a poor diet or problems absorbing nutrients from food. Certain things can increase your risk of becoming malnourished.",
+            "title": "Malnutrition – Causes - NHS",
+            "link": "https://www.nhs.uk/conditions/malnutrition/causes/",
+            "displayed_link": "https://www.nhs.uk › conditions › malnutrition › causes"
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "mal·nu·tri·tion",
+        "word_type": "noun",
+        "definitions": [
+            "lack of proper nutrition, caused by not having enough to eat, not eating enough of the right things, or being unable to use the food that one does eat."
+        ],
+        "extras": [
+            "malnourishment",
+            "undernutrition",
+            "inanition",
+            "starvation",
+            "hunger",
+            "famine",
+            "anorexia"
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Fact sheets - Malnutrition - WHO | World Health Organization",
+            "link": "https://www.who.int/news-room/fact-sheets/detail/malnutrition",
+            "displayed_link": "https://www.who.int › Newsroom › Fact sheets › Detail",
+            "date": "Jun 9, 2021",
+            "snippet": "Malnutrition refers to deficiencies, excesses, or imbalances in a person's intake of energy and/or nutrients. The term malnutrition ...",
+            "snippet_highlighted_words": [
+                "Malnutrition",
+                "malnutrition"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Key Facts",
+                        "link": "https://www.who.int/news-room/fact-sheets/detail/malnutrition#:~:text=Key%20facts"
+                    },
+                    {
+                        "title": "Undernutrition",
+                        "link": "https://www.who.int/news-room/fact-sheets/detail/malnutrition#:~:text=Undernutrition,-There%20are%204%20broad%20sub"
+                    },
+                    {
+                        "title": "Micronutrient-Related...",
+                        "link": "https://www.who.int/news-room/fact-sheets/detail/malnutrition#:~:text=Micronutrient%2Drelated%20malnutrition,-Inadequacies%20in%20intake%20of%20vitamins"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The World Health Organization is a specialized agency of the United Nations responsible for international public health. The WHO Constitution states its main objective as \"the attainment by all peoples of the highest possible level of health\".",
+                    "source_info_link": "https://en.wikipedia.org/wiki/World_Health_Organization",
+                    "icon": "https://serpapi.com/searches/627cfeb72ff421d0610e878f/images/80f83d4d8ab856f180ad7583d7a173213c25c02d3d2b3977bc08257c45a813ae053ed88cb75af3d58b504622284b3edb.png"
+                },
+                "keywords": [
+                    "malnutrition"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.who.int/news-room/fact-sheets/detail/malnutrition&tbm=ilp&ilps=ADNMCi0k-Z1JyUV12vqwW685Mv8qXxmNkQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BCsyBTg9Y0cJ:https://www.who.int/news-room/fact-sheets/detail/malnutrition+&cd=10&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Malnutrition | Johns Hopkins Medicine",
+            "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/malnutrition",
+            "displayed_link": "https://www.hopkinsmedicine.org › health › malnutrition",
+            "snippet": "Malnutrition is the condition that develops when the body is deprived of vitamins, minerals and other nutrients it needs to maintain healthy tissues and ...",
+            "snippet_highlighted_words": [
+                "Malnutrition"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "What Is Malnutrition?",
+                        "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/malnutrition#:~:text=What%20is%20malnutrition%3F"
+                    },
+                    {
+                        "title": "Symptoms",
+                        "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/malnutrition#:~:text=Symptoms,-Malnourished%20children%20may%20be%20short"
+                    },
+                    {
+                        "title": "Treatment",
+                        "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/malnutrition#:~:text=Treatment,-Patients%20who%20cannot%20or%20will"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "hopkinsmedicine.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfeb72ff421d0610e878f/images/80f83d4d8ab856f180ad7583d7a173215802c14b5a69e7220bba94ee5ac0cb5d1bb1861bce1bbccd8db364cafe3e7e00.png"
+                },
+                "keywords": [
+                    "malnutrition"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.hopkinsmedicine.org/health/conditions-and-diseases/malnutrition&tbm=ilp&ilps=ADNMCi2wzxaxwVcHnS5GOZ0_liz_3MX9fA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fHJZBFwTvIIJ:https://www.hopkinsmedicine.org/health/conditions-and-diseases/malnutrition+&cd=11&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Malnutrition: Symptoms, causes, diagnosis, and treatment",
+            "link": "https://www.medicalnewstoday.com/articles/179316",
+            "displayed_link": "https://www.medicalnewstoday.com › articles",
+            "snippet": "Malnutrition is an imbalance in dietary intake. It occurs when a person has too much or too little food or essential nutrients. A person with malnutrition ...",
+            "snippet_highlighted_words": [
+                "Malnutrition",
+                "malnutrition"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Anorexia nervosa",
+                        "link": "https://www.medicalnewstoday.com/articles/267432"
+                    },
+                    {
+                        "title": "Kwashiorkor",
+                        "link": "https://www.medicalnewstoday.com/articles/322453"
+                    },
+                    {
+                        "title": "Marasmus",
+                        "link": "https://www.medicalnewstoday.com/articles/313185"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Medical News Today is a web-based outlet for medical information and news, targeted at both the general public and physicians. All posted content is available online, and the earliest available article dates from May 2003.\nThe website has been owned by Healthline Media since 2016.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Medical_News_Today",
+                    "icon": "https://serpapi.com/searches/627cfeb72ff421d0610e878f/images/80f83d4d8ab856f180ad7583d7a17321ab96c2ef598c5af221691f23937818b9a40b80a9bbf1d74a87a19af215c01177.png"
+                },
+                "keywords": [
+                    "malnutrition"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.medicalnewstoday.com/articles/179316&tbm=ilp&ilps=ADNMCi0x-wDTLuuZGwZTH8v38Vf4w0cYTg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3a7TpAiU8MwJ:https://www.medicalnewstoday.com/articles/179316+&cd=12&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Malnutrition - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Malnutrition",
+            "displayed_link": "https://en.wikipedia.org › wiki › Malnutrition",
+            "snippet": "Malnutrition occurs when an individual gets too few or too many nutrients, resulting in health problems. ... Specifically, it is \"a deficiency, excess, or ...",
+            "snippet_highlighted_words": [
+                "Malnutrition"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Classifying malnutrition",
+                        "link": "https://en.wikipedia.org/wiki/Malnutrition#Classifying_malnutrition"
+                    },
+                    {
+                        "title": "Causes & risk factors",
+                        "link": "https://en.wikipedia.org/wiki/Malnutrition#Causes_&_risk_factors"
+                    },
+                    {
+                        "title": "Prevention",
+                        "link": "https://en.wikipedia.org/wiki/Malnutrition#Prevention"
+                    },
+                    {
+                        "title": "Treatment",
+                        "link": "https://en.wikipedia.org/wiki/Malnutrition#Treatment"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "icon": "https://serpapi.com/searches/627cfeb72ff421d0610e878f/images/80f83d4d8ab856f180ad7583d7a17321728c1335820282bfeba8384d63930bdb2311ddf83271c5929efeecf2110453ce.png"
+                },
+                "keywords": [
+                    "malnutrition"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Malnutrition&tbm=ilp&ilps=ADNMCi1-YM5rsJdORrlGcSqdtbN70xqAaA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3GQmW41c8RUJ:https://en.wikipedia.org/wiki/Malnutrition+&cd=13&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://en.wikipedia.org/wiki/Malnutrition+Malnutrition"
+        },
+        {
+            "position": 5,
+            "title": "Malnutrition - NHS",
+            "link": "https://www.nhs.uk/conditions/malnutrition/",
+            "displayed_link": "https://www.nhs.uk › conditions › malnutrition",
+            "snippet": "Malnutrition is a serious condition that happens when your diet does not contain the right amount of nutrients. It means \"poor nutrition\" and can refer to:.",
+            "snippet_highlighted_words": [
+                "Malnutrition"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "www.nhs.uk was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/627cfeb72ff421d0610e878f/images/80f83d4d8ab856f180ad7583d7a1732134ad1241ec26e0dc3a414801857cb9091a19f16cbaa6095a9f14a38a48c6afd2.png"
+                },
+                "keywords": [
+                    "malnutrition"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nhs.uk/conditions/malnutrition/&tbm=ilp&ilps=ADNMCi26Bnt3c4QmKVt7HF_dB8Fe4Sd4Kw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9uyudDkkqCAJ:https://www.nhs.uk/conditions/malnutrition/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Malnutrition - MedlinePlus",
+            "link": "https://medlineplus.gov/malnutrition.html",
+            "displayed_link": "https://medlineplus.gov › Health Topics",
+            "date": "Feb 20, 2021",
+            "snippet": "Food provides the energy and nutrients you need to be healthy. If you don't get enough nutrients -- including proteins, carbohydrates, fats, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "MedlinePlus is an online information service produced by the United States National Library of Medicine. The service provides curated consumer health information in English and Spanish with select content in additional languages.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/MedlinePlus",
+                    "icon": "https://serpapi.com/searches/627cfeb72ff421d0610e878f/images/80f83d4d8ab856f180ad7583d7a173217ff52e1588fe2887cdda753223ff9ab44c0b8483c1b213897f3d34a302dcf456.png"
+                },
+                "keywords": [
+                    "malnutrition"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://medlineplus.gov/malnutrition.html&tbm=ilp&ilps=ADNMCi2vN69AjEsWX_YJiFws2HKW5AoWdw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lkhnv9CypzIJ:https://medlineplus.gov/malnutrition.html+&cd=15&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://medlineplus.gov/malnutrition.html+Malnutrition"
+        },
+        {
+            "position": 7,
+            "title": "Malnutrition: causes and consequences - PMC - NCBI",
+            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4951875/",
+            "displayed_link": "https://www.ncbi.nlm.nih.gov › articles › PMC4951875",
+            "snippet": "The term 'malnutrition' has no universally accepted definition. It has been used to describe a deficiency, excess or imbalance of a wide range of nutrients, ...",
+            "snippet_highlighted_words": [
+                "malnutrition"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Causes Of Malnutrition",
+                        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4951875/#:~:text=Causes%20of%20malnutrition,-Malnutrition%20in%20developed%20countries%20is"
+                    },
+                    {
+                        "title": "Consequences Of Malnutrition",
+                        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4951875/#:~:text=Consequences%20of%20malnutrition,-Malnutrition%20affects%20the%20function%20and"
+                    },
+                    {
+                        "title": "Assessment Of Nutritional...",
+                        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4951875/#:~:text=Assessment%20of%20nutritional%20status,-Identification%20of%20patients%20at%20risk"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "by J Saunders",
+                        "2010",
+                        "Cited by 293 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2010,
+                        "cited_by": 293
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The National Center for Biotechnology Information is part of the United States National Library of Medicine, a branch of the National Institutes of Health. It is approved and funded by the government of the United States.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/National_Center_for_Biotechnology_Information",
+                    "icon": "https://serpapi.com/searches/627cfeb72ff421d0610e878f/images/80f83d4d8ab856f180ad7583d7a17321052f9e86433dac68c59c9fe7dabeae95ce1f46f7a4b3b53e6cbc9071685216a9.png"
+                },
+                "keywords": [
+                    "malnutrition"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4951875/&tbm=ilp&ilps=ADNMCi2rjdaqy21AdLrgpLRsKFCS5JXDOg"
+        },
+        {
+            "position": 8,
+            "title": "Malnutrition: Definition, Symptoms and Treatment - Healthline",
+            "link": "https://www.healthline.com/nutrition/malnutrition",
+            "displayed_link": "https://www.healthline.com › nutrition › malnutrition",
+            "date": "Oct 10, 2018",
+            "snippet": "What Is Malnutrition? ... Malnutrition is a condition that results from nutrient deficiency or overconsumption. Types of malnutrition include (1, ...",
+            "snippet_highlighted_words": [
+                "Malnutrition",
+                "Malnutrition",
+                "malnutrition"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Healthline Media, Inc. is an American website and provider of health information headquartered in San Francisco, California. It was founded in its current form 2006 and established as a standalone entity in January 2016.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Healthline",
+                    "icon": "https://serpapi.com/searches/627cfeb72ff421d0610e878f/images/80f83d4d8ab856f180ad7583d7a1732131592105c672fb073f8cba019994317e2e2b0664882bb95a71c8f6d025b07bb4.png"
+                },
+                "keywords": [
+                    "malnutrition"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.healthline.com/nutrition/malnutrition&tbm=ilp&ilps=ADNMCi2voVBddF9Jv8WM-OoJOyVr6t3pIg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:c4nyOK1dFCoJ:https://www.healthline.com/nutrition/malnutrition+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "Malnutrition in Children - UNICEF DATA",
+            "link": "https://data.unicef.org/topic/nutrition/malnutrition/",
+            "displayed_link": "https://data.unicef.org › Nutrition",
+            "snippet": "Nearly half of all deaths in children under 5 are attributable to undernutrition; undernutrition puts children at greater risk of dying from common ...",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Resources",
+                        "link": "https://data.unicef.org/topic/nutrition/malnutrition/#:~:text=Resources,-book%20Publications"
+                    },
+                    {
+                        "title": "Notes On The Data",
+                        "link": "https://data.unicef.org/topic/nutrition/malnutrition/#:~:text=Notes%20on%20the%20data,-Indicators"
+                    },
+                    {
+                        "title": "Indicators",
+                        "link": "https://data.unicef.org/topic/nutrition/malnutrition/#:~:text=Indicators,-Indicator%20name"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "UNICEF, in full originally called the United Nations International Children's Emergency Fund, now officially United Nations Children's Fund, is an agency of the United Nations responsible for providing humanitarian and developmental aid to children worldwide.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/UNICEF",
+                    "icon": "https://serpapi.com/searches/627cfeb72ff421d0610e878f/images/80f83d4d8ab856f180ad7583d7a1732187dd5982d7dc4f1a23e55af69366b7add9fe2aa6728b56dc4fa7ab58222d97cb.png"
+                },
+                "keywords": [
+                    "malnutrition"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://data.unicef.org/topic/nutrition/malnutrition/&tbm=ilp&ilps=ADNMCi10-boi9lXjBj_BiyQh04Tz33yWpA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RIZ-rrJoRDcJ:https://data.unicef.org/topic/nutrition/malnutrition/+&cd=18&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?gl=US&hl=en&q=related:https://data.unicef.org/topic/nutrition/malnutrition/+Malnutrition"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "types of malnutrition",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Types+of+malnutrition&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "malnutrition in adults",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Malnutrition+in+adults&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ1QJ6BAglEAE"
+        },
+        {
+            "query": "malnutrition ppt",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Malnutrition+ppt&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "malnutrition diseases",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Malnutrition+diseases&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "malnutrition in children",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Malnutrition+in+children&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ1QJ6BAghEAE"
+        },
+        {
+            "query": "5 effects of malnutrition",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=5+effects+of+malnutrition&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ1QJ6BAggEAE"
+        },
+        {
+            "query": "malnutrition causes",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Malnutrition+causes&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "malnutrition examples",
+            "link": "https://www.google.com/search?gl=US&hl=en&q=Malnutrition+examples&sa=X&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ1QJ6BAgaEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&ei=t_58YrD2Neexggff46vQDg&start=10&sa=N&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&ei=t_58YrD2Neexggff46vQDg&start=10&sa=N&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&ei=t_58YrD2Neexggff46vQDg&start=20&sa=N&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&ei=t_58YrD2Neexggff46vQDg&start=30&sa=N&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&ei=t_58YrD2Neexggff46vQDg&start=40&sa=N&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&ei=t_58YrD2Neexggff46vQDg&start=50&sa=N&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&ei=t_58YrD2Neexggff46vQDg&start=60&sa=N&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&ei=t_58YrD2Neexggff46vQDg&start=70&sa=N&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&ei=t_58YrD2Neexggff46vQDg&start=80&sa=N&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Malnutrition&gl=US&hl=en&ei=t_58YrD2Neexggff46vQDg&start=90&sa=N&ved=2ahUKEwjwrcWt_Nn3AhXnmOAKHd_xCuoQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=10&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=20&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=30&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=40&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=50&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=60&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=70&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=80&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=US&google_domain=google.com&hl=en&q=Malnutrition&start=90&uule=w%2BCAIQICItV2FzaGluZ3RvbixEaXN0cmljdCBvZiBDb2x1bWJpYSxVbml0ZWQgU3RhdGVz"
+        }
+    }
+}

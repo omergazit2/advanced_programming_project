@@ -1,0 +1,333 @@
+{
+    "search_metadata": {
+        "id": "629e3dca8cd8781729b5c1c7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/da827d77156d6dc6/629e3dca8cd8781729b5c1c7.json",
+        "created_at": "2022-06-06 17:47:54 UTC",
+        "processed_at": "2022-06-06 17:47:54 UTC",
+        "google_url": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&oq=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/da827d77156d6dc6/629e3dca8cd8781729b5c1c7.html",
+        "total_time_taken": 3.19
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "وزن",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "وزن",
+        "total_results": 2490000000,
+        "time_taken_displayed": 0.58
+    },
+    "knowledge_graph": {
+        "title": "وزن",
+        "header_images": [
+            {
+                "source": "https://mawdoo3.com/%D9%83%D9%8A%D9%81_%D8%A3%D8%AE%D8%B3%D8%B1_%D9%88%D8%B2%D9%86_%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D8%A7%D9%81"
+            },
+            {
+                "source": "https://www.arrajol.com/content/172146/%D8%B5%D8%AD%D8%A9/%D8%A7%D9%84%D9%88%D8%B2%D9%86-%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B1%D8%AC%D9%84-%D9%88%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D9%87"
+            },
+            {
+                "source": "https://www.alwakeelnews.com/Section_38/%D8%B5%D8%AD%D8%A9/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%83%D9%88%D9%86-%D9%88%D8%B2%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86-%D8%A3%D9%82%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD_460884"
+            },
+            {
+                "source": "https://www.almasryalyoum.com/news/details/1149842"
+            },
+            {
+                "source": "https://sotor.com/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%88%D8%B2%D9%86-%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A/"
+            },
+            {
+                "source": "https://www.sayidy.net/article/147481/%D9%84%D9%8A%D8%A7%D9%82%D8%A9/%D9%83%D9%8A%D9%81-%D9%86%D8%AD%D8%B3%D8%A8-%D8%A7%D9%84%D9%88%D8%B2%D9%86-%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A-%D9%84%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D8%B1-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9%D8%9F"
+            },
+            {
+                "source": "https://tools.electronicbub.com/%D9%88%D8%B2%D9%86-%D8%A7%D9%84%D8%AC%D8%B3%D9%85/"
+            }
+        ],
+        "description": "الوزن هو قوة جذب الأرض للجسم. وهي طريقة لتحديد كمية مادة ما، تختلف وحدات أو معيارية الأوزان من مادة ما إلى أخرى عند قياسها فبعضها مخصص للأوزان القليلة أو الخفيفة أو الثمينة ومنها ما هو للتحديد التقريبي للمادة.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%88%D8%B2%D9%86"
+        },
+        "محافظة": "لا",
+        "محافظة_links": [
+            {
+                "text": "محافظة ؟",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%88%D8%B2%D9%86+%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9+%D8%9F&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ6BMoAHoECFQQAg"
+            }
+        ],
+        "نظام_الوحدات_الدولي": "نيوتن (N)",
+        "نظام_الوحدات_الدولي_links": [
+            {
+                "text": "نظام الوحدات الدولي",
+                "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%88%D8%B2%D9%86+%D9%86%D8%B8%D8%A7%D9%85+%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA+%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ6BMoAHoECFMQAg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "كيفيه حساب الوزن المثالي لكل طول ؟ بحسبه بسيطه جدا |مؤشر ...",
+            "link": "https://www.youtube.com/watch?v=uD8Br-Ufmg4",
+            "thumbnail": "https://serpapi.com/searches/629e3dca8cd8781729b5c1c7/images/c4ce1eefa0b3fb0b00bfd116aa5e562c26d53f2a3702865c77b553b9c00c6e5e.jpeg",
+            "channel": "super health",
+            "duration": "4:57",
+            "platform": "YouTube",
+            "date": "22‏/02‏/2022"
+        },
+        {
+            "position": 2,
+            "title": "ما هو الوزن المثالي لكل طول؟ تخلص من حيرتك واكتشف الإجابة",
+            "link": "https://www.youtube.com/watch?v=jOOEMP4XUVs",
+            "thumbnail": "https://serpapi.com/searches/629e3dca8cd8781729b5c1c7/images/c4ce1eefa0b3fb0b4f2f86f4a2978f4890ba0d2f4b14e6c704fd7b0eee21654a.jpeg",
+            "channel": "TeN TV",
+            "duration": "2:33",
+            "platform": "YouTube",
+            "date": "16‏/10‏/2018"
+        },
+        {
+            "position": 3,
+            "title": "أغرب 5 أشخاص لديهم وزن زائد لا يصدق موجودين بالفعل !!",
+            "link": "https://www.youtube.com/watch?v=ftXY2-w34Yk",
+            "thumbnail": "https://serpapi.com/searches/629e3dca8cd8781729b5c1c7/images/c4ce1eefa0b3fb0bf57490724366329dda0860a02038247a62a4cfbdb46d5397.jpeg",
+            "channel": "لمحة",
+            "duration": "3:46",
+            "platform": "YouTube",
+            "date": "28‏/02‏/2019"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "رجيـم سريعٌ الفعاليـة أنقص وزن غادة عبد الرازق 14 كيـلو خلال أسبوعين فقط...لـن تصدقوا ماهو.! !",
+            "link": "https://aljazeerh-alarabiya.com/news139759.html",
+            "source": "خليج الجزيرة",
+            "date": "قبل يوم واحد",
+            "thumbnail": "https://serpapi.com/searches/629e3dca8cd8781729b5c1c7/images/8d4329ea0f4ec677372d639dcbb24321a1136ed201524269.jpeg"
+        },
+        {
+            "title": "طريقة عمل سندوتشات للرجيم وإزالة الوزن الزائد في الجسم بسرعة",
+            "link": "https://www.thaqfny.com/2238097/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B9%D9%85%D9%84-%D8%B3%D9%86%D8%AF%D9%88%D8%AA%D8%B4%D8%A7%D8%AA-%D9%84%D9%84%D8%B1%D8%AC%D9%8A%D9%85-%D9%88%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B2/",
+            "source": "ثقفني",
+            "date": "قبل 23 ساعة",
+            "thumbnail": "https://serpapi.com/searches/629e3dca8cd8781729b5c1c7/images/8d4329ea0f4ec677ee35579ab97c68f3550ca27039040581.jpeg"
+        },
+        {
+            "title": "للراغبين فى التخلص من الوزن الزائد.. فواكه هتساعدك لتحقيق حلمك",
+            "link": "https://www.youm7.com/story/2022/6/3/%D9%84%D9%84%D8%B1%D8%A7%D8%BA%D8%A8%D9%8A%D9%86-%D9%81%D9%89-%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D8%B5-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B2%D9%86-%D8%A7%D9%84%D8%B2%D8%A7%D8%A6%D8%AF-%D9%81%D9%88%D8%A7%D9%83%D9%87-%D9%87%D8%AA%D8%B3%D8%A7%D8%B9%D8%AF%D9%83-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%AD%D9%84%D9%85%D9%83/5786090",
+            "source": "اليوم السابع",
+            "date": "قبل يومين (2)",
+            "thumbnail": "https://serpapi.com/searches/629e3dca8cd8781729b5c1c7/images/8d4329ea0f4ec6770967a67f34afac9c84e6f6a97ff431d3.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%88%D8%B2%D9%86&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQt8YBegQIMhAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&tbm=nws",
+    "related_questions": [
+        {
+            "question": "ما المقصود ب الوزن؟",
+            "snippet": "قرر العلماء التعبير عن الوزن f=m×g حيث يعتبرون أن الوزن قوة. \"m\" رمز الكتلة وتُقاس بوحدة الكيلو جرام. \"g\" رمز تسارع الجاذبية ويُرمز لها مترا لكل ثانية مربعة أو m/s2. إذا كنت تستخدم الأمتار فإن معامل تسارع الجاذبية سوف يساوي 9.8 m/s2، وهذه وحدة قياس عالمية يجب الأخذ بها.",
+            "title": "كيفية حساب الوزن من خلال معرفة الكتلة - wikiHow",
+            "link": "https://ar.wikihow.com/%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D9%88%D8%B2%D9%86-%D9%85%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D9%85%D8%B9%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D9%83%D8%AA%D9%84%D8%A9",
+            "displayed_link": "https://ar.wikihow.com › حساب-الوزن-من-خلال-معرفة-الكتلة"
+        },
+        {
+            "question": "كم وزن الجسم؟",
+            "snippet": "مؤشر كتلة الجسم أقل من 18.5: وزنك أقل من الطبيعي. مؤشر كتلة الجسم بين 18.5- 24.9: وزنك مثالي. مؤشر كتلة الجسم بين 25-29.9: أنت تعاني من زيادة في الوزن. مؤشر كتلة الجسم فوق 30: أنت تعاني من السمنة.01‏/07‏/2020",
+            "title": "الوزن المناسب للطول ما هو؟ - ويب طب",
+            "link": "https://www.webteb.com/articles/%D8%A7%D9%84%D9%88%D8%B2%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D9%84%D9%84%D8%B7%D9%88%D9%84-%D9%85%D8%A7-%D9%87%D9%88_23424",
+            "displayed_link": "https://www.webteb.com › articles › الوزن-المناسب-للطول..."
+        },
+        {
+            "question": "كيف نحسب وزن الجسم؟",
+            "snippet": "يمكن حساب الوزن المثالي عن طريق المعادلة الشهيرة.. وهي مؤشر كتلة الجسم مؤشر كتلة الجسم= الوزن بالكيلو جرام يقسم على (الطول بالمتر*الطول بالمتر).",
+            "title": "كيف أحسب وزني المثالي؟ إليك 3 طرق مختلفة - Edarabia",
+            "link": "https://www.edarabia.com/ar/%D9%83%D9%8A%D9%81-%D8%A7%D8%AD%D8%B3%D8%A8-%D9%88%D8%B2%D9%86%D9%8A-%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%8A%D9%83-3-%D8%B7%D8%B1%D9%82-%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9/",
+            "displayed_link": "https://www.edarabia.com › كيف-احسب-وزني-المثالي-الي..."
+        },
+        {
+            "question": "كيف اعرف اذا وزني يناسب طولي؟",
+            "snippet": "يعتمد الوزن الطبيعي للإنسان على الطول ولذلك يسمى ايضاً بانه الوزن المثالي للطول لوجود تلك الرابطة الوثيقة بين الوزن والطول، فكلما زاد طول الإنسان زاد معدل الوزن الطبيعي المرتبط به وكلما قل طول الإنسان قل معدل الوزن الطبيعي ولذلك فان العلاقة طردية بين الطول والوزن المثالي الطبيعي للإنسان، ولذلك فان أي شخص ليعرف مدى ...",
+            "title": "حساب الوزن المثالي - حساب كتلة الجسم - BMI - مملكة الويب",
+            "link": "https://www.un-web.com/tools/bmi/",
+            "displayed_link": "https://www.un-web.com › tools › bmi"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "وزن - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%88%D8%B2%D9%86",
+            "displayed_link": "https://ar.wikipedia.org › wiki › وزن",
+            "snippet": "الوزن هو قوة جذب الأرض للجسم. وهي طريقة لتحديد كمية مادة ما، تختلف وحدات أو معيارية الأوزان من مادة ما إلى أخرى عند قياسها فبعضها مخصص للأوزان القليلة أو ...",
+            "snippet_highlighted_words": [
+                "الوزن",
+                "الأوزان",
+                "للأوزان"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "حاسبة مؤشر كتلة الجسم (BMI) - ويب طب",
+            "link": "https://www.webteb.com/diet/%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D9%85%D8%A4%D8%B4%D8%B1-%D9%83%D8%AA%D9%84%D8%A9-%D8%A7%D9%84%D8%AC%D8%B3%D9%85-bmi",
+            "displayed_link": "https://www.webteb.com › ... › الريجيم وتخفيف الوزن",
+            "snippet": "حاسبة مؤشر كتلة الجسم ( BMI - Body Mass Index) هي أداة لتقييم الوزن الطبيعي أو زيادة الوزن. ويتم تقييم الوزن من خلال استخدام مؤشر كتلة الجسم الذي يفحص العلاقة ...",
+            "snippet_highlighted_words": [
+                "الوزن",
+                "الوزن",
+                "الوزن"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "حساب الوزن المثالي - حساب كتلة الجسم - BMI - مملكة الويب",
+            "link": "https://www.un-web.com/tools/bmi/",
+            "displayed_link": "https://www.un-web.com › tools › bmi",
+            "thumbnail": "https://serpapi.com/searches/629e3dca8cd8781729b5c1c7/images/9a65d6d37e3317fa35ee0bd98c508633193c97f5187dc28d9aafd25383ab41dd.jpeg",
+            "snippet": "تقوم حاسبة الوزن المثالي بحساب الوزن المثالي حسب الطول والعمر أو كما يعرف الوزن المثالي للطول أو الوزن المناسب للطول أو حساب الوزن الصحي ومن أجل القيام بهذه ...",
+            "snippet_highlighted_words": [
+                "الوزن",
+                "الوزن",
+                "الوزن",
+                "الوزن",
+                "الوزن"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "ما هو قانون الوزن - موضوع",
+            "link": "https://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%88_%D9%82%D8%A7%D9%86%D9%88%D9%86_%D8%A7%D9%84%D9%88%D8%B2%D9%86",
+            "displayed_link": "https://mawdoo3.com › ... › تعريفات وقوانين علمية",
+            "snippet": "قانون حساب الوزن · (ق) أو (و): هي قوة الجسم أو وزنه، ووحدة قياسها نيوتن. · ك: كتلة الجسم، ووحدة قياسها الغرام. · ت: تسارع الجسم بسبب الجاذبية ...",
+            "snippet_highlighted_words": [
+                "الوزن"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٥‏/٠٩‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "حاسبة مؤشر كتلة الجسم (BMI) | الكونسلتو",
+            "link": "https://www.elconsolto.com/calculator/bmi",
+            "displayed_link": "https://www.elconsolto.com › calculator › bmi",
+            "snippet": "حاسبة مؤشر كتلة الجسم (BMI) هى أداة لتقييم الوزن الطبيعى أو زيادة الوزن، ويتم تقييم الوزن من خلال إستخدام مؤشر كتلة الجسم الذى يفحص العلاقة بين طول ووزن ...",
+            "snippet_highlighted_words": [
+                "الوزن",
+                "الوزن",
+                "الوزن",
+                "ووزن"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "مؤشر كتلة الجسم - وزارة الصحة",
+            "link": "https://www.moh.gov.bh/HealthInfo/BMI",
+            "displayed_link": "https://www.moh.gov.bh › HealthInfo › BMI",
+            "snippet": "تعرف على وزنك الصحي من خلال مؤشر كتلة الجسم. مؤشر كتلة الجسم ( (BMI) هو صيغة رياضية للتعرف على الوزن الطبيعي للشخص، وهي عبارة عن ناتج قسمة الوزن على مربع ...",
+            "snippet_highlighted_words": [
+                "وزنك",
+                "الوزن",
+                "الوزن"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "الأدوات الصحية - حساب الوزن المثالي - وزارة الصحة",
+            "link": "https://www.moh.gov.sa/HealthAwareness/MedicalTools/Pages/IdealBodyWeight.aspx",
+            "displayed_link": "https://www.moh.gov.sa › Pages › IdealBodyWeight",
+            "snippet": "هو عملية حسابية تقوم بحساب الوزن (كجم) المثالي للشخص بمعلومية الطول (سنتيمتر) . الطول (سم) *",
+            "snippet_highlighted_words": [
+                "الوزن"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٨‏/٠٦‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "وزن الجسم المثالي - PHCC",
+            "link": "https://www.phcc.gov.qa/ar-QA/Patients-And-Clients/Health-Tools/Ideal-Body-Weight",
+            "displayed_link": "https://www.phcc.gov.qa › ar-QA › Ideal-Body-Weight",
+            "snippet": "بالمتاحسب وزنك المثالي (بالكجم) حسب الجنس (ذكر / أنثى) والطول (بالمتر.سنتميتر). تعتمد هذه المعادلة على الجنس لأن معدل الدهون والعظام في الجسم مرتبط ببعض ...",
+            "snippet_highlighted_words": [
+                "وزنك"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "الوزن المثالي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D9%88%D8%B2%D9%86+%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ1QJ6BAhGEAE"
+        },
+        {
+            "query": "الوزن المثالي للنساء",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D9%88%D8%B2%D9%86+%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A+%D9%84%D9%84%D9%86%D8%B3%D8%A7%D8%A1&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ1QJ6BAhEEAE"
+        },
+        {
+            "query": "حساب الوزن المثالي حسب العمر",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AD%D8%B3%D8%A7%D8%A8+%D8%A7%D9%84%D9%88%D8%B2%D9%86+%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A+%D8%AD%D8%B3%D8%A8+%D8%A7%D9%84%D8%B9%D9%85%D8%B1&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "حساب الوزن",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%AD%D8%B3%D8%A7%D8%A8+%D8%A7%D9%84%D9%88%D8%B2%D9%86&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "وزن الثقل",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%88%D8%B2%D9%86+%D8%A7%D9%84%D8%AB%D9%82%D9%84&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "وزن جسم كتلته 80kg يساوي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%88%D8%B2%D9%86+%D8%AC%D8%B3%D9%85+%D9%83%D8%AA%D9%84%D8%AA%D9%87+80kg+%D9%8A%D8%B3%D8%A7%D9%88%D9%8A&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "الوزن المثالي للرجل",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D9%88%D8%B2%D9%86+%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A+%D9%84%D9%84%D8%B1%D8%AC%D9%84&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "وزن نيوتن",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%88%D8%B2%D9%86+%D9%86%D9%8A%D9%88%D8%AA%D9%86&sa=X&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ1QJ6BAgxEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&ei=zD2eYvvAF42IggfPgb7YAg&start=10&sa=N&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&ei=zD2eYvvAF42IggfPgb7YAg&start=10&sa=N&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&ei=zD2eYvvAF42IggfPgb7YAg&start=20&sa=N&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&ei=zD2eYvvAF42IggfPgb7YAg&start=30&sa=N&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&ei=zD2eYvvAF42IggfPgb7YAg&start=40&sa=N&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&ei=zD2eYvvAF42IggfPgb7YAg&start=50&sa=N&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&ei=zD2eYvvAF42IggfPgb7YAg&start=60&sa=N&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&ei=zD2eYvvAF42IggfPgb7YAg&start=70&sa=N&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&ei=zD2eYvvAF42IggfPgb7YAg&start=80&sa=N&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D9%88%D8%B2%D9%86&hl=ar&gl=eg&ei=zD2eYvvAF42IggfPgb7YAg&start=90&sa=N&ved=2ahUKEwj71t-TsZn4AhUNhOAKHc-ADysQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%B2%D9%86&start=90"
+        }
+    }
+}

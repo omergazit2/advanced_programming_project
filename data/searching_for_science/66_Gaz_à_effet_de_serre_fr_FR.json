@@ -1,0 +1,294 @@
+{
+    "search_metadata": {
+        "id": "627cfff9aa6c95b57f9992ac",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2a432136c3fff3a2/627cfff9aa6c95b57f9992ac.json",
+        "created_at": "2022-05-12 12:39:21 UTC",
+        "processed_at": "2022-05-12 12:39:21 UTC",
+        "google_url": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&oq=Gaz+%C3%A0+effet+de+serre&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=&hl=fr&gl=FR&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/2a432136c3fff3a2/627cfff9aa6c95b57f9992ac.html",
+        "total_time_taken": 0.61
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Gaz à effet de serre",
+        "uule": "w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U=",
+        "google_domain": "google.com",
+        "hl": "fr",
+        "gl": "FR",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Gaz à effet de serre",
+        "total_results": 22500000,
+        "time_taken_displayed": 0.43
+    },
+    "knowledge_graph": {
+        "title": "Gaz à effet de serre",
+        "header_images": [
+            {
+                "source": "https://fr.wikipedia.org/wiki/Gaz_%C3%A0_effet_de_serre"
+            },
+            {
+                "source": "https://atlasclimatique.ca/gaz-effet-de-serre"
+            },
+            {
+                "source": "https://www.futura-sciences.com/planete/questions-reponses/rechauffement-climatique-reduire-gaz-effet-serre-stopper-rechauffement-1084/"
+            },
+            {
+                "source": "https://www.lexpress.fr/actualite/societe/environnement/emissions-de-gaz-a-effet-de-serre-la-france-encore-loin-de-ses-objectifs_2098333.html"
+            },
+            {
+                "source": "https://www.save4planet.com/ecologie/68/ges-gaz-effet-serre"
+            }
+        ],
+        "description": "Les gaz à effet de serre sont des composants gazeux qui absorbent le rayonnement infrarouge émis par la surface terrestre et contribuent ainsi à l'effet de serre. L'augmentation de leur concentration dans l'atmosphère terrestre est l'un des facteurs à l'origine du réchauffement climatique.",
+        "source": {
+            "name": "Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/Gaz_%C3%A0_effet_de_serre"
+        }
+    },
+    "top_stories": [
+        {
+            "title": "Le secteur agricole et forestier : émetteur et capteur de gaz à effet de serre",
+            "link": "https://agriculture.gouv.fr/le-secteur-agricole-et-forestier-emetteur-et-capteur-de-gaz-effet-de-serre",
+            "source": "Ministère de l'Agriculture",
+            "date": "Il y a 2 jours",
+            "thumbnail": "https://serpapi.com/searches/627cfff9aa6c95b57f9992ac/images/6a8dca69c78b00f6aff656a5e51cd87511c472d1a88cc4e0.jpeg"
+        },
+        {
+            "title": "Le bâtiment et les transports, plus gros émetteurs de gaz à effet de serre - Polynésie la 1ère",
+            "link": "https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/le-batiment-et-les-transports-gros-emetteurs-de-gaz-a-effet-de-serre-1282340.html",
+            "source": "Outre-mer la 1ère",
+            "date": "Il y a 1 jour",
+            "thumbnail": "https://serpapi.com/searches/627cfff9aa6c95b57f9992ac/images/6a8dca69c78b00f6aea76edf1291bccf4647421b9a58eae3.jpeg"
+        },
+        {
+            "title": "Vodacom s'engage à réduire de 50% ses émissions de gaz à effet de serre, d'ici 2025",
+            "link": "https://www.agenceecofin.com/transition-energetique/1005-97468-vodacom-sengage-a-reduire-de-50-ses-emissions-de-gaz-a-effet-de-serre-dici-2025",
+            "source": "Agence Ecofin",
+            "date": "Il y a 1 jour"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=fr&gl=FR&q=Gaz+%C3%A0+effet+de+serre&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQt8YBegQIAxAD",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&tbm=nws&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+    "related_questions": [
+        {
+            "question": "Quel sont les principaux gaz à effet de serre ?",
+            "snippet": "Origine des gaz à effet de serre (GES) Le dioxyde de carbone (CO2) : bien moins présent dans l'atmosphère que la vapeur d'eau, le CO2 participe à 25% de l'effet de serre car sa capacité à retenir la chaleur est très élevée. Le méthane (CH4) Le protoxyde d'azote ou oxyde nitreux (N2O) L'ozone (O3)8 oct. 2019",
+            "title": "Les GES (gaz à effet de serre) - Agence Parisienne du Climat",
+            "link": "https://www.apc-paris.com/gaz-serre",
+            "displayed_link": "https://www.apc-paris.com › gaz-serre"
+        },
+        {
+            "question": "Qu'est-ce qu'un gaz à effet de serre définition simple ?",
+            "snippet": "Gaz d'origine naturelle (vapeur d'eau) ou anthropique (liée aux activités humaines) absorbant et réémettant une partie des rayons solaires (rayonnement infrarouge), phénomènes à l'origine de l'effet de serre.15 janv. 2021",
+            "title": "Gaz à effet de serre (émissions) - Définitions - Insee",
+            "link": "https://www.insee.fr/fr/metadonnees/definition/c1855",
+            "displayed_link": "https://www.insee.fr › metadonnees › definition"
+        },
+        {
+            "question": "Quel est le pire gaz à effet de serre ?",
+            "snippet": "méthane",
+            "title": "méthane",
+            "link": "https://www.futura-sciences.com/planete/questions-reponses/rechauffement-climatique-gaz-effet-serre-co2-methane-pire-565/",
+            "displayed_link": "https://www.futura-sciences.com › questions-reponses › re..."
+        },
+        {
+            "question": "Est-ce que le gaz à effet de serre ?",
+            "snippet": "Gaz à effet de serre définition Les gaz à effet de serre, ou GES, sont des gaz qui absorbent une partie des rayons solaires en les redistribuant sous la forme de radiations au sein de l'atmosphère terrestre, phénomène appelé effet de serre.5 juin 2019",
+            "title": "Gaz à Effet de Serre (GES) - Définition - Actu Environnement",
+            "link": "https://www.actu-environnement.com/ae/dictionnaire_environnement/definition/gaz_a_effet_de_serre_ges.php4",
+            "displayed_link": "https://www.actu-environnement.com › definition › gaz..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Gaz à effet de serre - Wikipédia",
+            "link": "https://fr.wikipedia.org/wiki/Gaz_%C3%A0_effet_de_serre",
+            "displayed_link": "https://fr.wikipedia.org › wiki › Gaz_à_effet_de_serre",
+            "snippet": "Les gaz à effet de serre (GES) sont des composants gazeux qui absorbent le rayonnement infrarouge émis par la surface terrestre et contribuent ainsi à ...",
+            "snippet_highlighted_words": [
+                "gaz à effet de serre",
+                "GES"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Catégorie:Gaz à effet de serre",
+                        "link": "https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Gaz_%C3%A0_effet_de_serre"
+                    },
+                    {
+                        "title": "Infrarouge",
+                        "link": "https://fr.wikipedia.org/wiki/Infrarouge"
+                    },
+                    {
+                        "title": "Atténuation du changement...",
+                        "link": "https://fr.wikipedia.org/wiki/Att%C3%A9nuation_du_changement_climatique"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Qu'est-ce qu'un gaz à effet de serre ? Comprendre le ...",
+            "link": "https://notre-environnement.gouv.fr/rapport-sur-l-etat-de-l-environnement/themes-ree/defis-environnementaux/changement-climatique/comprendre-le-changement-climatique/article/qu-est-ce-qu-un-gaz-a-effet-de-serre",
+            "displayed_link": "https://notre-environnement.gouv.fr › themes-ree › article",
+            "snippet": "Par gaz à effet de serre, on entend un gaz présent dans l'atmosphère qui retient une partie de la chaleur reçue par le solaire dans l'atmosphère.",
+            "snippet_highlighted_words": [
+                "gaz à effet de serre"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Quels sont les gaz à effet de serre - Jean-Marc Jancovici",
+            "link": "https://jancovici.com/changement-climatique/gaz-a-effet-de-serre-et-cycle-du-carbone/quels-sont-les-gaz-a-effet-de-serre-quels-sont-leurs-contribution-a-leffet-de-serre/",
+            "displayed_link": "https://jancovici.com › changement-climatique › quels-s...",
+            "date": "1 août 2007",
+            "snippet": "Protoxyde d'azote, N2O, 298 ; Perfluorocarbures, CnF2n+2, 7400 à 12200 ; Hydrofluorocarbures, CnHmFp, 120 à 14800 ; Hexafluorure de soufre, SF6 ..."
+        },
+        {
+            "position": 4,
+            "title": "Les différents gaz à effet de serre - Climat.be",
+            "link": "https://climat.be/changements-climatiques/causes/gaz-a-effet-de-serre",
+            "displayed_link": "https://climat.be › changements-climatiques › causes › g...",
+            "snippet": "Gaz à effet de serre naturels · 1. La vapeur d'eau (H2O) · 2. Le dioxyde de carbone (CO2) · 3. Le méthane (CH4).",
+            "snippet_highlighted_words": [
+                "Gaz à effet de serre"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Gaz à Effet de Serre (GES) - Définition - Actu Environnement",
+            "link": "https://www.actu-environnement.com/ae/dictionnaire_environnement/definition/gaz_a_effet_de_serre_ges.php4",
+            "displayed_link": "https://www.actu-environnement.com › definition › gaz...",
+            "date": "5 juin 2019",
+            "snippet": "Les gaz à effet de serre, ou GES, sont des gaz qui absorbent une partie des rayons solaires en les redistribuant sous la forme de radiations au ...",
+            "snippet_highlighted_words": [
+                "gaz à effet de serre",
+                "GES"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Gaz à effet de serre",
+            "link": "https://www.novethic.fr/lexique/detail/gaz-a-effet-de-serre.html",
+            "displayed_link": "https://www.novethic.fr › lexique › detail › gaz-a-effet-...",
+            "snippet": "Les Gaz à Effet de Serre (GES) sont des gaz naturels présents dans l'atmosphère terrestre et qui emprisonnent les rayons du soleil, stabilisant la ...",
+            "snippet_highlighted_words": [
+                "Gaz à Effet de Serre",
+                "GES"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Définition | Gaz à effet de serre - GES | Futura Planète",
+            "link": "https://www.futura-sciences.com/planete/definitions/climatologie-gaz-effet-serre-5381/",
+            "displayed_link": "https://www.futura-sciences.com › Planète › Définitions",
+            "snippet": "Les gaz à effet de serre (GES) sont les gaz qui participent à l'effet de serre. L'augmentation de leur concentration dans l'atmosphère terrestre est à l'origine ...",
+            "snippet_highlighted_words": [
+                "gaz à effet de serre",
+                "GES"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Les GES (gaz à effet de serre) - Agence Parisienne du Climat",
+            "link": "https://www.apc-paris.com/gaz-serre",
+            "displayed_link": "https://www.apc-paris.com › gaz-serre",
+            "date": "8 oct. 2019",
+            "snippet": "Principaux gaz à effet de serre émis par l'homme · Les hydrofluorocarbures (HFC) · Les hydrocarbures perfluorés (PFC) · L'hexafluorure de soufre ( ...",
+            "snippet_highlighted_words": [
+                "gaz à effet de serre"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "Gaz à effet de serre (GES) - ce qu'il faut retenir - Orano",
+            "link": "https://www.orano.group/fr/decodage/tout-savoir-sur-les-gaz-effet-de-serre",
+            "displayed_link": "https://www.orano.group › decodage › tout-savoir-sur-l...",
+            "snippet": "Les gaz à effet de serre sont au cœur des enjeux de lutte contre le réchauffement climatique. D'origine naturelle, c'est leur surabondance ...",
+            "snippet_highlighted_words": [
+                "gaz à effet de serre"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "nov": 2
+                    },
+                    "extensions": [
+                        "2 nov. 2021",
+                        "Ajouté par climatecentral"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "gaz à effet de serre : définition",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=gaz+%C3%A0+effet+de+serre+:+d%C3%A9finition&sa=X&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ1QJ6BAhAEAE"
+        },
+        {
+            "query": "quels sont les 4 principaux gaz à effet de serre",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Quels+sont+les+4+principaux+gaz+%C3%A0+effet+de+serre&sa=X&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ1QJ6BAg9EAE"
+        },
+        {
+            "query": "gaz à effet de serre conséquences",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Gaz+%C3%A0+effet+de+serre+cons%C3%A9quences&sa=X&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "gaz à effet de serre causes",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Gaz+%C3%A0+effet+de+serre+causes&sa=X&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "gaz à effet de serre co2",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Gaz+%C3%A0+effet+de+serre+CO2&sa=X&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "impact des gaz à effet de serre sur l'environnement",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=impact+des+gaz+%C3%A0+effet+de+serre+sur+l%27environnement&sa=X&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "les gaz à effet de serre et le réchauffement climatique",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=Les+gaz+%C3%A0+effet+de+serre+et+le+r%C3%A9chauffement+climatique&sa=X&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "vapeur d'eau gaz à effet de serre",
+            "link": "https://www.google.com/search?hl=fr&gl=FR&q=vapeur+d%27eau+gaz+%C3%A0+effet+de+serre&sa=X&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ1QJ6BAgvEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&hl=fr&gl=FR&ei=-f98YrLEK4mOgge6wISoDw&start=10&sa=N&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&hl=fr&gl=FR&ei=-f98YrLEK4mOgge6wISoDw&start=10&sa=N&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&hl=fr&gl=FR&ei=-f98YrLEK4mOgge6wISoDw&start=20&sa=N&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&hl=fr&gl=FR&ei=-f98YrLEK4mOgge6wISoDw&start=30&sa=N&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&hl=fr&gl=FR&ei=-f98YrLEK4mOgge6wISoDw&start=40&sa=N&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&hl=fr&gl=FR&ei=-f98YrLEK4mOgge6wISoDw&start=50&sa=N&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&hl=fr&gl=FR&ei=-f98YrLEK4mOgge6wISoDw&start=60&sa=N&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&hl=fr&gl=FR&ei=-f98YrLEK4mOgge6wISoDw&start=70&sa=N&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&hl=fr&gl=FR&ei=-f98YrLEK4mOgge6wISoDw&start=80&sa=N&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=Gaz+%C3%A0+effet+de+serre&hl=fr&gl=FR&ei=-f98YrLEK4mOgge6wISoDw&start=90&sa=N&ved=2ahUKEwjypIDH_dn3AhUJh-AKHTogAfUQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=10&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=20&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=30&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=40&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=50&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=60&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=70&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=80&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=FR&google_domain=google.com&hl=fr&q=Gaz+%C3%A0+effet+de+serre&start=90&uule=w%2BCAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U%3D"
+        }
+    }
+}

@@ -1,0 +1,299 @@
+{
+    "search_metadata": {
+        "id": "629e3d67dc02f19db86c8a6a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/dbc7a5081c68538c/629e3d67dc02f19db86c8a6a.json",
+        "created_at": "2022-06-06 17:46:15 UTC",
+        "processed_at": "2022-06-06 17:46:15 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&oq=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/dbc7a5081c68538c/629e3d67dc02f19db86c8a6a.html",
+        "total_time_taken": 2.5
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "طفرة",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "طفرة",
+        "total_results": 4900000,
+        "time_taken_displayed": 0.47
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=hASN_hOA5Av_cM%252CKWZ0dpCYpZtpEM%252C_%253BEfE_OnndftgozM%252CKWZ0dpCYpZtpEM%252C_%253BMj0wpsR4_Dc71M%252C941Em9RN8kSUHM%252C_%253BNhmFm64Sb8JzUM%252CllmWvVqBUGcLAM%252C_%253B5Moo54R8jbbE5M%252CGTba0fvenp2npM%252C_%253BKiEEv2WkkofYvM%252C7AJLfHhwX-6B4M%252C_%253BJ6-i2-zsxz2vpM%252C4jFoxQtg85dzAM%252C_%253BCfN2Ss8A5VBU6M%252CojY6HkPlKp_wUM%252C_%253Buc_-Aj3Zyc6y2M%252Cir8SJzuLPGCecM%252C_%253BCsUZyj9bJUYIEM%252CH2DYOks8j7YC0M%252C_&usg=AI4_-kQh_Un_YlR9Zj64S_CDCfWYaD2_IA&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ9QF6BAg9EAE#imgrc=hASN_hOA5Av_cM",
+            "source": "https://ar.wikipedia.org/wiki/%D8%B7%D9%81%D8%B1%D8%A9_(%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1)",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTzb8zmM5-YnEVA1XOaTqxOS5UDiI7FSZOr8a7reDlA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=hASN_hOA5Av_cM%252CKWZ0dpCYpZtpEM%252C_%253BEfE_OnndftgozM%252CKWZ0dpCYpZtpEM%252C_%253BMj0wpsR4_Dc71M%252C941Em9RN8kSUHM%252C_%253BNhmFm64Sb8JzUM%252CllmWvVqBUGcLAM%252C_%253B5Moo54R8jbbE5M%252CGTba0fvenp2npM%252C_%253BKiEEv2WkkofYvM%252C7AJLfHhwX-6B4M%252C_%253BJ6-i2-zsxz2vpM%252C4jFoxQtg85dzAM%252C_%253BCfN2Ss8A5VBU6M%252CojY6HkPlKp_wUM%252C_%253Buc_-Aj3Zyc6y2M%252Cir8SJzuLPGCecM%252C_%253BCsUZyj9bJUYIEM%252CH2DYOks8j7YC0M%252C_&usg=AI4_-kQh_Un_YlR9Zj64S_CDCfWYaD2_IA&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ9QF6BAhPEAE#imgrc=EfE_OnndftgozM",
+            "source": "https://ar.wikipedia.org/wiki/%D8%B7%D9%81%D8%B1%D8%A9_(%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1)",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql0v7AQpckMDbLJcJUDYrygDPQ9VkepINOoKKdKGz&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=hASN_hOA5Av_cM%252CKWZ0dpCYpZtpEM%252C_%253BEfE_OnndftgozM%252CKWZ0dpCYpZtpEM%252C_%253BMj0wpsR4_Dc71M%252C941Em9RN8kSUHM%252C_%253BNhmFm64Sb8JzUM%252CllmWvVqBUGcLAM%252C_%253B5Moo54R8jbbE5M%252CGTba0fvenp2npM%252C_%253BKiEEv2WkkofYvM%252C7AJLfHhwX-6B4M%252C_%253BJ6-i2-zsxz2vpM%252C4jFoxQtg85dzAM%252C_%253BCfN2Ss8A5VBU6M%252CojY6HkPlKp_wUM%252C_%253Buc_-Aj3Zyc6y2M%252Cir8SJzuLPGCecM%252C_%253BCsUZyj9bJUYIEM%252CH2DYOks8j7YC0M%252C_&usg=AI4_-kQh_Un_YlR9Zj64S_CDCfWYaD2_IA&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ9QF6BAhVEAE#imgrc=Mj0wpsR4_Dc71M",
+            "source": "https://altibbi.com/%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%A9/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D8%AB%D8%A9/%D8%B7%D9%81%D8%B1%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWmWAfCeIFKr-392H2bAUT2PojponGsnafrNV7wibPA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=hASN_hOA5Av_cM%252CKWZ0dpCYpZtpEM%252C_%253BEfE_OnndftgozM%252CKWZ0dpCYpZtpEM%252C_%253BMj0wpsR4_Dc71M%252C941Em9RN8kSUHM%252C_%253BNhmFm64Sb8JzUM%252CllmWvVqBUGcLAM%252C_%253B5Moo54R8jbbE5M%252CGTba0fvenp2npM%252C_%253BKiEEv2WkkofYvM%252C7AJLfHhwX-6B4M%252C_%253BJ6-i2-zsxz2vpM%252C4jFoxQtg85dzAM%252C_%253BCfN2Ss8A5VBU6M%252CojY6HkPlKp_wUM%252C_%253Buc_-Aj3Zyc6y2M%252Cir8SJzuLPGCecM%252C_%253BCsUZyj9bJUYIEM%252CH2DYOks8j7YC0M%252C_&usg=AI4_-kQh_Un_YlR9Zj64S_CDCfWYaD2_IA&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ9QF6BAhaEAE#imgrc=NhmFm64Sb8JzUM",
+            "source": "https://www.goodreads.com/book/show/44169966",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7FaiwqZtvNcxC--nhlg9OOfdKLXyNBANMMt6kEpm&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=hASN_hOA5Av_cM%252CKWZ0dpCYpZtpEM%252C_%253BEfE_OnndftgozM%252CKWZ0dpCYpZtpEM%252C_%253BMj0wpsR4_Dc71M%252C941Em9RN8kSUHM%252C_%253BNhmFm64Sb8JzUM%252CllmWvVqBUGcLAM%252C_%253B5Moo54R8jbbE5M%252CGTba0fvenp2npM%252C_%253BKiEEv2WkkofYvM%252C7AJLfHhwX-6B4M%252C_%253BJ6-i2-zsxz2vpM%252C4jFoxQtg85dzAM%252C_%253BCfN2Ss8A5VBU6M%252CojY6HkPlKp_wUM%252C_%253Buc_-Aj3Zyc6y2M%252Cir8SJzuLPGCecM%252C_%253BCsUZyj9bJUYIEM%252CH2DYOks8j7YC0M%252C_&usg=AI4_-kQh_Un_YlR9Zj64S_CDCfWYaD2_IA&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ9QF6BAhbEAE#imgrc=5Moo54R8jbbE5M",
+            "source": "https://www.arageek.com/l/%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%84%D8%B7%D9%81%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%8A%D8%A9",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB1Y-U4fuxsFsVu7O5XIFQJHYbcIES1ckbzc7ZIFNuA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=hASN_hOA5Av_cM%252CKWZ0dpCYpZtpEM%252C_%253BEfE_OnndftgozM%252CKWZ0dpCYpZtpEM%252C_%253BMj0wpsR4_Dc71M%252C941Em9RN8kSUHM%252C_%253BNhmFm64Sb8JzUM%252CllmWvVqBUGcLAM%252C_%253B5Moo54R8jbbE5M%252CGTba0fvenp2npM%252C_%253BKiEEv2WkkofYvM%252C7AJLfHhwX-6B4M%252C_%253BJ6-i2-zsxz2vpM%252C4jFoxQtg85dzAM%252C_%253BCfN2Ss8A5VBU6M%252CojY6HkPlKp_wUM%252C_%253Buc_-Aj3Zyc6y2M%252Cir8SJzuLPGCecM%252C_%253BCsUZyj9bJUYIEM%252CH2DYOks8j7YC0M%252C_&usg=AI4_-kQh_Un_YlR9Zj64S_CDCfWYaD2_IA&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ9QF6BAhHEAE#imgrc=KiEEv2WkkofYvM",
+            "source": "https://www.kutubpdfbook.com/book/%D8%B1%D9%88%D8%A7%D9%8A%D8%A9-%D8%B7%D9%81%D8%B1%D8%A9-%D8%B4%D9%8A%D8%B1%D9%8A%D9%87%D8%A7%D9%86-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D9%8A%D9%86.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYUBwdQubCWW1s5ITzSkqk2S635bQR4fFmW4FBby1F&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=hASN_hOA5Av_cM%252CKWZ0dpCYpZtpEM%252C_%253BEfE_OnndftgozM%252CKWZ0dpCYpZtpEM%252C_%253BMj0wpsR4_Dc71M%252C941Em9RN8kSUHM%252C_%253BNhmFm64Sb8JzUM%252CllmWvVqBUGcLAM%252C_%253B5Moo54R8jbbE5M%252CGTba0fvenp2npM%252C_%253BKiEEv2WkkofYvM%252C7AJLfHhwX-6B4M%252C_%253BJ6-i2-zsxz2vpM%252C4jFoxQtg85dzAM%252C_%253BCfN2Ss8A5VBU6M%252CojY6HkPlKp_wUM%252C_%253Buc_-Aj3Zyc6y2M%252Cir8SJzuLPGCecM%252C_%253BCsUZyj9bJUYIEM%252CH2DYOks8j7YC0M%252C_&usg=AI4_-kQh_Un_YlR9Zj64S_CDCfWYaD2_IA&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ9QF6BAhZEAE#imgrc=J6-i2-zsxz2vpM",
+            "source": "https://alwafd.news/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/3232896--",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2gVi9hI7cm1x8WsBcnUl3GNSBvmLIMfaPchGWdK5vQA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=hASN_hOA5Av_cM%252CKWZ0dpCYpZtpEM%252C_%253BEfE_OnndftgozM%252CKWZ0dpCYpZtpEM%252C_%253BMj0wpsR4_Dc71M%252C941Em9RN8kSUHM%252C_%253BNhmFm64Sb8JzUM%252CllmWvVqBUGcLAM%252C_%253B5Moo54R8jbbE5M%252CGTba0fvenp2npM%252C_%253BKiEEv2WkkofYvM%252C7AJLfHhwX-6B4M%252C_%253BJ6-i2-zsxz2vpM%252C4jFoxQtg85dzAM%252C_%253BCfN2Ss8A5VBU6M%252CojY6HkPlKp_wUM%252C_%253Buc_-Aj3Zyc6y2M%252Cir8SJzuLPGCecM%252C_%253BCsUZyj9bJUYIEM%252CH2DYOks8j7YC0M%252C_&usg=AI4_-kQh_Un_YlR9Zj64S_CDCfWYaD2_IA&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ9QF6BAhUEAE#imgrc=CfN2Ss8A5VBU6M",
+            "source": "https://www.ibelieveinsci.com/%D8%A7%D9%84%D8%B7%D9%81%D8%B1%D8%A7%D8%AA-%D9%88%D8%AF%D9%88%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73dPSB7tSMksWcHG-8Rn9UEoR4P5QxrVEeWRW-fwowQ&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=hASN_hOA5Av_cM%252CKWZ0dpCYpZtpEM%252C_%253BEfE_OnndftgozM%252CKWZ0dpCYpZtpEM%252C_%253BMj0wpsR4_Dc71M%252C941Em9RN8kSUHM%252C_%253BNhmFm64Sb8JzUM%252CllmWvVqBUGcLAM%252C_%253B5Moo54R8jbbE5M%252CGTba0fvenp2npM%252C_%253BKiEEv2WkkofYvM%252C7AJLfHhwX-6B4M%252C_%253BJ6-i2-zsxz2vpM%252C4jFoxQtg85dzAM%252C_%253BCfN2Ss8A5VBU6M%252CojY6HkPlKp_wUM%252C_%253Buc_-Aj3Zyc6y2M%252Cir8SJzuLPGCecM%252C_%253BCsUZyj9bJUYIEM%252CH2DYOks8j7YC0M%252C_&usg=AI4_-kQh_Un_YlR9Zj64S_CDCfWYaD2_IA&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ9QF6BAhOEAE#imgrc=uc_-Aj3Zyc6y2M",
+            "source": "https://www.sasapost.com/first-mutation/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQweLv47EGNlPVDaanq_YMK4SWVlqR1azYGDH6oKw3NhA&s"
+        },
+        {
+            "link": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&tbm=isch&source=iu&ictx=1&vet=1&fir=hASN_hOA5Av_cM%252CKWZ0dpCYpZtpEM%252C_%253BEfE_OnndftgozM%252CKWZ0dpCYpZtpEM%252C_%253BMj0wpsR4_Dc71M%252C941Em9RN8kSUHM%252C_%253BNhmFm64Sb8JzUM%252CllmWvVqBUGcLAM%252C_%253B5Moo54R8jbbE5M%252CGTba0fvenp2npM%252C_%253BKiEEv2WkkofYvM%252C7AJLfHhwX-6B4M%252C_%253BJ6-i2-zsxz2vpM%252C4jFoxQtg85dzAM%252C_%253BCfN2Ss8A5VBU6M%252CojY6HkPlKp_wUM%252C_%253Buc_-Aj3Zyc6y2M%252Cir8SJzuLPGCecM%252C_%253BCsUZyj9bJUYIEM%252CH2DYOks8j7YC0M%252C_&usg=AI4_-kQh_Un_YlR9Zj64S_CDCfWYaD2_IA&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ9QF6BAhIEAE#imgrc=CsUZyj9bJUYIEM",
+            "source": "https://www.facebook.com/tafra.net/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTbn1vEB8KuKwoeiZQof9GpnC9IU_jWrKNafnKeR4GQ&s"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "الطفرة..!! ما هي الطفرات ؟ و ما العوامل المسببة لها ؟ و هل الطفرات ...",
+            "link": "https://www.youtube.com/watch?v=DYDdsEFr4GU",
+            "thumbnail": "https://serpapi.com/searches/629e3d67dc02f19db86c8a6a/images/359ea5741a61c1f8849f3b957de63fe5180838914d54f4753d8a0553619e0ad5.jpeg",
+            "channel": "المعرفة قوة",
+            "duration": "14:25",
+            "platform": "YouTube",
+            "date": "17‏/02‏/2018"
+        },
+        {
+            "position": 2,
+            "title": "الطفرات الجينية Genetic mutations",
+            "link": "https://www.youtube.com/watch?v=aUm23UEFqAs",
+            "thumbnail": "https://serpapi.com/searches/629e3d67dc02f19db86c8a6a/images/359ea5741a61c1f8f1a2f2cd042f453e2f3600d1ddb934615137edf3874200f8.jpeg",
+            "channel": "Khalid Youssef",
+            "duration": "3:42",
+            "platform": "YouTube",
+            "date": "24‏/07‏/2020"
+        },
+        {
+            "position": 3,
+            "title": "كلام خفيف | لقاء مع شريهان عصام الدين مؤلفة كتاب طفرة",
+            "link": "https://www.youtube.com/watch?v=aQwssal9yqI",
+            "thumbnail": "https://serpapi.com/searches/629e3d67dc02f19db86c8a6a/images/359ea5741a61c1f8a474740935db60d913331de89a8e0767d12780b02e56d837.jpeg",
+            "channel": "NogoumFM - نجوم إف إم",
+            "duration": "22:42",
+            "platform": "YouTube",
+            "date": "02‏/11‏/2020"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ماذا يعني طفرة؟",
+            "snippet": "الطفرة في علم الأحياء هي أي تغير يحدث في المعلومات الجينية - المعلومات الوراثية الحيوية المشفرة في تسلسلات حمض نووي ريبوزي منقوص الأكسجين، والكروموسومات التي يحويها الدنا، أو في تسلسلات حمض نووي ريبوزي في حال بعض الفيروسات.",
+            "title": "طفرة (أحياء) - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B7%D9%81%D8%B1%D8%A9_(%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1)",
+            "displayed_link": "https://ar.wikipedia.org › wiki › طفرة_(أحياء)"
+        },
+        {
+            "question": "ما ضد طفرة؟",
+            "snippet": "أضداد طَفْرَة (اسم): سَيْرٌ , مِشْيَة",
+            "title": "مرادفات و أضداد طفرة في قاموس المعاني - almaany.com",
+            "link": "https://www.almaany.com/ar/thes/ar-ar/%D8%B7%D9%81%D8%B1%D8%A9/",
+            "displayed_link": "https://www.almaany.com › thes › ar-ar › طفرة"
+        },
+        {
+            "question": "ما هي الطفرات النقطية؟",
+            "snippet": "الطفرة النقطية (بالإنجليزية: Point mutation)‏، هو نوع من الطفرات تنتج غالباً عن كيميائيات أو أخطاء تحدث أثناء تضاعف الدنا. وهي عبارة عن تبديل نوكليوتيد أحادي بواحد آخر. وهو بمثابة تبديل «حرف» كيميائي بآخر في «الجملة»، مثل تبديل A ب-G.",
+            "title": "طفرة نقطية - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B7%D9%81%D8%B1%D8%A9_%D9%86%D9%82%D8%B7%D9%8A%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › طفرة_نقطية"
+        },
+        {
+            "question": "ما هو الفرق بين الطفرة الجينية والكروموسومية؟",
+            "snippet": "الفرق الرئيسي بين طفرة الجين وطفرة الكروموسومات هو أن طفرة الجين هي تغيير في تسلسل النيوكليوتيدات في الجين ، في حين أن طفرة الكروموسومات هي تغيير في هيكل أو عدد الكروموسومات. تحدث الطفرات بسبب أخطاء في تكرار الحمض النووي ، أو فصل كروموسوم متماثل أو طفرات مثل الأشعة فوق البنفسجية والمواد الكيميائية.",
+            "title": "الفرق بين طفرة الجين و طفرة الكروموسومات - 2022 - أخبار - ...",
+            "link": "https://ar.weblogographic.com/difference-between-gene-mutation",
+            "displayed_link": "https://ar.weblogographic.com › difference-between-gene..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "طفرة (أحياء) - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B7%D9%81%D8%B1%D8%A9_(%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1)",
+            "displayed_link": "https://ar.wikipedia.org › wiki › طفرة_(أحياء)",
+            "snippet": "الطفرة في علم الأحياء هي أي تغير يحدث في المعلومات الجينية - المعلومات الوراثية الحيوية المشفرة في تسلسلات حمض نووي ريبوزي منقوص الأكسجين، والكروموسومات ...",
+            "snippet_highlighted_words": [
+                "الطفرة"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "طفرة (Mutation) | الطبي",
+            "link": "https://altibbi.com/%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%A9/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D8%AB%D8%A9/%D8%B7%D9%81%D8%B1%D8%A9",
+            "displayed_link": "https://altibbi.com › مصطلحات طبية › علم الوراثة",
+            "snippet": "ما هو الطفرة · الطفرات (بالإنجليزية: Mutations) هي تغييرات دائمة في المعلومات الوراثية الموجودة في تسلسل الحمض النووي الريبوزي منقوص الأكسجين لدى الإنسان · تعد ...",
+            "snippet_highlighted_words": [
+                "الطفرة"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "تعريف و معنى طفرة في معجم المعاني الجامع - معجم عربي عربي",
+            "link": "https://www.almaany.com/ar/dict/ar-ar/%D8%B7%D9%81%D8%B1%D8%A9/",
+            "displayed_link": "https://www.almaany.com › dict › ar-ar › طفرة",
+            "snippet": "تعريف و معنى طفرة في قاموس الكل. قاموس عربي عربي · 1. :-حَقَّقَ طَفْرَةً فِي عَمَلِهِ :- : وَثْبَةً، أَيْ مَزِيداً مِنَ التَّقَدُّمِ. · 2. :-حَدَثَ هَذَا طَفْرَةً ...",
+            "snippet_highlighted_words": [
+                "طفرة"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "طفرة - الترجمة إلى الإنجليزية - أمثلة العربية | Reverso Context",
+            "link": "https://context.reverso.net/%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%85%D8%A9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9/%D8%B7%D9%81%D8%B1%D8%A9",
+            "displayed_link": "https://context.reverso.net › الترجمة › طفرة",
+            "snippet": "ولكن أنتم على وشك طفرة واحدة كي تكتسبون هذه القدرة. But you are one mutation away from acquiring that ability. هذا هو طفرة نقطة محددة للغاية لأصل البلقان.",
+            "snippet_highlighted_words": [
+                "طفرة",
+                "mutation",
+                "طفرة"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "معنى الطفرة في قواميس ومعاجم اللغة العربية - Arabdict",
+            "link": "https://www.arabdict.com/ar/%D8%B9%D8%B1%D8%A8%D9%8A-%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%B7%D9%81%D8%B1%D8%A9",
+            "displayed_link": "https://www.arabdict.com › عربي-عربي › الطفرة",
+            "snippet": "2-الفرس النهر: جعله يثب من أحد شطيه إلى الشط الآخر. المعجم الوسيط 2. طفر. اللَّبن طفرا صَارَت لَهُ طفرة وَفُلَان طفرا وطفورا ...",
+            "snippet_highlighted_words": [
+                "طفرة"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "كيف تؤثر طفرة جينية على السلوك الاجتماعي للمصابين ...",
+            "link": "https://www.scientificamerican.com/arabic/articles/news/how-genetic-mutation-affect-social-behavior-of-people-with-autism/",
+            "displayed_link": "https://www.scientificamerican.com › articles › news",
+            "snippet": "تحديد طفرة جينية تؤثر على الاستجابات العصبية لدى الفئران تبشر بنهج جديد لعلاج متلازمة طيف التوحد.",
+            "snippet_highlighted_words": [
+                "طفرة"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٦‏/٠٩‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "شارح الدرس: الطفرات | نجوى - Nagwa",
+            "link": "https://www.nagwa.com/ar/explainers/753167845390/",
+            "displayed_link": "https://www.nagwa.com › explainers",
+            "snippet": "الطفرة هي تغيُّر في تتابع قواعد الحمض النووي DNA للكائن الحي. على سبيل المثال، قد يحتوي أحد المواضع في تتابع جزيء DNA على قاعدة أدينين (A). وبعد ذلك، تحدث طفرة ...",
+            "snippet_highlighted_words": [
+                "الطفرة",
+                "طفرة"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "شارح الدرس: الطفرات الجينية والكروموسومية | نجوى - Nagwa",
+            "link": "https://www.nagwa.com/ar/explainers/804197616949/",
+            "displayed_link": "https://www.nagwa.com › explainers",
+            "snippet": "في طفرة الاستبدال، تُستبدل قاعدة DNA بقاعدة DNA أخرى في موقع محدَّد بالجينوم (الموقع الكروموسومي). ويوضِّح الشكل 4 طفرة الاستبدال. إذا حدثت طفرة استبدال في ...",
+            "snippet_highlighted_words": [
+                "طفرة",
+                "طفرة",
+                "طفرة"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "معنى طفرة",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D8%B9%D9%86%D9%89+%D8%B7%D9%81%D8%B1%D8%A9&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "طفرة جينية",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D9%81%D8%B1%D8%A9+%D8%AC%D9%8A%D9%86%D9%8A%D8%A9&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "طفرة اقتصادية",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D9%81%D8%B1%D8%A9+%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "أمثلة على الطفرات الوراثية",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A3%D9%85%D8%AB%D9%84%D8%A9+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D8%B7%D9%81%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "طفرة جينية بالانجليزي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D9%81%D8%B1%D8%A9+%D8%AC%D9%8A%D9%86%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "الفرق بين الطفرة الجينية والكروموسومية",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%A7%D9%84%D9%81%D8%B1%D9%82+%D8%A8%D9%8A%D9%86+%D8%A7%D9%84%D8%B7%D9%81%D8%B1%D8%A9+%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%8A%D8%A9+%D9%88%D8%A7%D9%84%D9%83%D8%B1%D9%88%D9%85%D9%88%D8%B3%D9%88%D9%85%D9%8A%D8%A9&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "معنى طفرة الفيروس",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D9%85%D8%B9%D9%86%D9%89+%D8%B7%D9%81%D8%B1%D8%A9+%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "طفرة بالانجليزي",
+            "link": "https://www.google.com/search?hl=ar&gl=eg&q=%D8%B7%D9%81%D8%B1%D8%A9+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ1QJ6BAguEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&ei=aT2eYujiKsmhqtsPmf-zkAk&start=10&sa=N&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&ei=aT2eYujiKsmhqtsPmf-zkAk&start=10&sa=N&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&ei=aT2eYujiKsmhqtsPmf-zkAk&start=20&sa=N&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&ei=aT2eYujiKsmhqtsPmf-zkAk&start=30&sa=N&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&ei=aT2eYujiKsmhqtsPmf-zkAk&start=40&sa=N&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&ei=aT2eYujiKsmhqtsPmf-zkAk&start=50&sa=N&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&ei=aT2eYujiKsmhqtsPmf-zkAk&start=60&sa=N&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&ei=aT2eYujiKsmhqtsPmf-zkAk&start=70&sa=N&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&ei=aT2eYujiKsmhqtsPmf-zkAk&start=80&sa=N&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%B7%D9%81%D8%B1%D8%A9&hl=ar&gl=eg&ei=aT2eYujiKsmhqtsPmf-zkAk&start=90&sa=N&ved=2ahUKEwiou9jksJn4AhXJkGoFHZn_DJIQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D9%81%D8%B1%D8%A9&start=90"
+        }
+    }
+}

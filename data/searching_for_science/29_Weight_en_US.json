@@ -1,0 +1,712 @@
+{
+    "search_metadata": {
+        "id": "629e37c987a0eed0e9f7b879",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3c9005e620105d17/629e37c987a0eed0e9f7b879.json",
+        "created_at": "2022-06-06 17:22:17 UTC",
+        "processed_at": "2022-06-06 17:22:17 UTC",
+        "google_url": "https://www.google.com/search?q=Weight&oq=Weight&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3c9005e620105d17/629e37c987a0eed0e9f7b879.html",
+        "total_time_taken": 1.15
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Weight",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Weight",
+        "total_results": 5970000000,
+        "time_taken_displayed": 0.68
+    },
+    "ads": [
+        {
+            "position": 1,
+            "block_position": "bottom",
+            "title": "Weoght at Amazon® - Amazon Official Site",
+            "link": "https://www.amazon.com/weight/s?k=weight",
+            "displayed_link": "https://www.amazon.com/",
+            "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABABGgJqZg&ae=2&sig=AOD64_2Yb-lET4G49JLXCsWli21ciduHyw&q&adurl",
+            "rating": 4.5,
+            "extensions": [
+                "Rating for amazon.com: 4.5 - 4,168 reviews - Return policy: Most items 30+ days"
+            ],
+            "description": "Buy Weoght at Amazon. Fast Free Delivery on Qualified Orders.",
+            "sitelinks": [
+                {
+                    "title": "Meet the Fire TV Family",
+                    "link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAEGgJqZg&ae=2&sig=AOD64_3tMoBYZytO_kWUplzer7S_JODXbg&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoAHoECAQQBw&adurl="
+                },
+                {
+                    "title": "Shop with Points",
+                    "link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAHGgJqZg&ae=2&sig=AOD64_3CeiSKMcIovASf5vOxEoUJEWdr7g&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoAXoECAQQCA&adurl="
+                },
+                {
+                    "title": "Shop Echo & Alexa Devices",
+                    "link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAKGgJqZg&ae=2&sig=AOD64_3eEfpegexrW0hmykTa359Aq8DZBA&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoAnoECAQQCQ&adurl="
+                },
+                {
+                    "title": "Amazon Gift Cards",
+                    "link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABANGgJqZg&ae=2&sig=AOD64_1ew9CZO5W51gksNjmikyFJPH-4pA&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoA3oECAQQCg&adurl="
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "block_position": "bottom",
+            "title": "Free Shipping - Free Shipping for Weights",
+            "link": "https://hspowerfitness.com/",
+            "displayed_link": "https://www.hspowerfitness.com/",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABACGgJqZg&ae=2&sig=AOD64_2QlynAYPhSEpqaEvUankaOEEeUsw&q&adurl",
+            "extensions": [
+                "‎Business Inquiry · ‎Collars Archives · ‎Apparels Archives · ‎Special Offers · ‎Buy Barbells"
+            ],
+            "description": "HS Power Fitness offers a wide range of gym equipment that is built to the highest quality. We offer a variety of gym equipment that will allow you to succeed in your goals.",
+            "sitelinks": [
+                {
+                    "title": "Business Inquiry",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAFGgJqZg&ae=2&sig=AOD64_19mma4i8pXQXNo9qDGNcTDyNAhSQ&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoAHoECAMQBQ&adurl="
+                },
+                {
+                    "title": "Collars Archives",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAIGgJqZg&ae=2&sig=AOD64_1beZ5A6e_K9a9c4z1FRwLJnLXdGw&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoAXoECAMQBg&adurl="
+                },
+                {
+                    "title": "Apparels Archives",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABALGgJqZg&ae=2&sig=AOD64_2FEaMIm_QKRgvVK1EnVGpxk_TTJQ&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoAnoECAMQBw&adurl="
+                },
+                {
+                    "title": "Special Offers",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAPGgJqZg&ae=2&sig=AOD64_2p108fCOH7fKS9YDnpIYPn6geEkg&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoA3oECAMQCA&adurl="
+                },
+                {
+                    "title": "Buy Barbells",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABARGgJqZg&ae=2&sig=AOD64_0tyu01rA1bHafbLRPV3WepH-178g&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoBHoECAMQCQ&adurl="
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "block_position": "bottom",
+            "title": "Rogue Fitness Equipment - Durable Bumper Plates",
+            "link": "https://www.roguefitness.com/weightlifting-bars-plates",
+            "displayed_link": "https://www.roguefitness.com/weightlifting/plates",
+            "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAAGgJqZg&ae=2&sig=AOD64_0Bl6BW0wZ6-fVO_Q9qnS0v-iRtWg&q&adurl",
+            "rating": 4.7,
+            "extensions": [
+                "Rating for roguefitness.com: 4.7 - 92 reviews - Order accuracy: 95–100%"
+            ],
+            "description": "Shop the Widest Selection of Weight Training Plates at Rogue Fitness. Get Yours Today! Track Your Shipment From the Moment You Order to Delivery With the Rogue Shipping System! Weightlifting Shoes. Powerlifting Bars. Fast Shipping. Specialty Bars. Olympic Bars.",
+            "products": [
+                {
+                    "title": "13mm Powerlifting Belt",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAQGgJqZg&ae=2&sig=AOD64_1YSJmVD4YlCkYn0bhcvSLAz1HE9g&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQhacBegQIBRAN&adurl=",
+                    "extensions": [
+                        "$123.55",
+                        "3 Ships Free Item"
+                    ]
+                },
+                {
+                    "title": "Lever Powerlifting Belt",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABASGgJqZg&ae=2&sig=AOD64_2KBXuwxxINcMC8NvEDZDqBqwLRzw&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQhacBegQIBRAQ&adurl=",
+                    "extensions": [
+                        "$145.00",
+                        "3 Ships Free Item"
+                    ]
+                },
+                {
+                    "title": "Rogue Ohio Lifting Belt",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAUGgJqZg&ae=2&sig=AOD64_37mMMGf6iijS3AmvtNuMHKAEezhQ&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQhacBegQIBRAR&adurl=",
+                    "extensions": [
+                        "$110.00",
+                        "3 Ships Free Item"
+                    ]
+                },
+                {
+                    "title": "Rogue Knee Sleeves",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAWGgJqZg&ae=2&sig=AOD64_0WH6cKzcK9iHdwTfytK7_6ZXuO4Q&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQhacBegQIBRAS&adurl=",
+                    "extensions": [
+                        "$35.00",
+                        "3 Ships Free Item"
+                    ]
+                },
+                {
+                    "title": "Bumper Plates",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAYGgJqZg&ae=2&sig=AOD64_1ZGfFV46SeKOiEvsugtK1bbbdbxQ&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQhacBegQIBRAT&adurl=",
+                    "extensions": [
+                        "$205.00",
+                        "Free Shipping"
+                    ]
+                },
+                {
+                    "title": "USA Nylon Lifting Belt",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABATGgJqZg&ae=2&sig=AOD64_0QsXqyR4HazDx1FSRoH1bNm7EKmg&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQhacBegQIBRAU&adurl=",
+                    "extensions": [
+                        "$45.00",
+                        "Made in the USA"
+                    ]
+                },
+                {
+                    "title": "5\" Nylon Lifting Belt",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAVGgJqZg&ae=2&sig=AOD64_2dfl-wsPYISSos7QR0UVPm6N1Gxw&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQhacBegQIBRAV&adurl=",
+                    "extensions": [
+                        "$21.00",
+                        "3 Ships Free Item"
+                    ]
+                },
+                {
+                    "title": "Rogue Wrist Wraps",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAXGgJqZg&ae=2&sig=AOD64_1HDQBCBV79PJ8cBkGNmA81NkvaDw&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQhacBegQIBRAW&adurl=",
+                    "extensions": [
+                        "$12.75",
+                        "3 Ships Free Item"
+                    ]
+                }
+            ],
+            "sitelinks": [
+                {
+                    "title": "Affirm Financing",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABADGgJqZg&ae=2&sig=AOD64_2do4kmTT2BIKlUDtV1WxSaPDFOLg&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoAHoECAUQBw&adurl="
+                },
+                {
+                    "title": "Rogue Gift Cards",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAGGgJqZg&ae=2&sig=AOD64_2R7hXhJpkJ6dtCQyBhMcD-WeFCFQ&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoAXoECAUQCA&adurl="
+                },
+                {
+                    "title": "Matte Black November",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAJGgJqZg&ae=2&sig=AOD64_173NxmO0WQMzP7sm_SRE9wFTnqGQ&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoAnoECAUQCQ&adurl="
+                },
+                {
+                    "title": "Powerlifting Belts",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAMGgJqZg&ae=2&sig=AOD64_1RqhzIF2eMZlCMaCHNxT0v5QxnMQ&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoA3oECAUQCg&adurl="
+                },
+                {
+                    "title": "Barbells",
+                    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjH4Ju2q5n4AhWOfG8EHSllDRQYABAOGgJqZg&ae=2&sig=AOD64_1lNsM_2qPhYDUaPNZSptBAt__dBg&q=&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQpigoBHoECAUQCw&adurl="
+                }
+            ]
+        }
+    ],
+    "knowledge_graph": {
+        "title": "Weight",
+        "cite_name": "Personalized Weight Loss Like Never Before—No Two Plans ...",
+        "cite_link": "https://www.weightwatchers.com/us/",
+        "header_images": [
+            {
+                "source": "https://www.self.com/story/this-is-how-your-weight-can-affect-your-fertility"
+            },
+            {
+                "source": "https://www.eurekalert.org/news-releases/798814"
+            },
+            {
+                "source": "https://www.healthline.com/health/food-nutrition/weight-loss-in-a-month"
+            },
+            {
+                "source": "https://greatist.com/fitness/weight-lifting-for-weight-loss-female"
+            },
+            {
+                "source": "https://www.weightwatchers.com/us/shop/ww-digital-weight-scale"
+            },
+            {
+                "source": "https://www.sciencenewsforstudents.org/article/explainer-how-do-mass-and-weight-differ"
+            }
+        ],
+        "description": "In science and engineering, the weight of an object is the force acting on the object due to gravity. Some standard textbooks define weight as a vector quantity, the gravitational force acting on the object. Others define weight as a scalar quantity, the magnitude of the gravitational force.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Weight"
+        },
+        "si_unit": "newton (N)",
+        "other_units": "pound-force (lbf)",
+        "see_results_about": [
+            {
+                "name": "Human body weight",
+                "extensions": [
+                    "Human body weight is a person's mass or weight. Strictly ..."
+                ],
+                "image": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/96e9e1e355d5fe5b78a3585d7a3c75b2bb0dc8ce7689c91edf5af184085d66c2d4b25f03946381be81333e789ce6fcd9.png"
+            }
+        ]
+    },
+    "top_stories": [
+        {
+            "title": "Weight-loss app Noom is a diet, which might be why its pandemic glow is fading",
+            "link": "https://www.nbcnews.com/think/opinion/weight-loss-app-noom-diet-pandemic-glow-fading-rcna31837",
+            "source": "NBC News",
+            "date": "41 mins ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7gK13luHkGZDdWmhPsO18RPSuzQVUsbrjoUqo4ngJtiyAASiubAxiS8&usqp=CAI&s"
+        },
+        {
+            "title": "Al Roker shares how low-carb diet, walking have helped with weight loss",
+            "link": "https://www.today.com/health/health/al-roker-shares-low-carb-diet-walking-helped-weight-loss-rcna32107",
+            "source": "TODAY",
+            "date": "2 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIuN5elWWyCMDMff053oiGB_wGgBJxYpMp1s0tJ83I0d0xbSUN2-Okkg&usqp=CAI&s"
+        },
+        {
+            "title": "Diabetes drug leads to notable weight loss in people with obesity – study",
+            "link": "https://www.theguardian.com/science/2022/jun/05/diabetes-drug-tirzepatide-leads-to-notable-weight-loss-in-people-with-obesity-study",
+            "source": "The Guardian",
+            "date": "20 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEFd92dT0S0OFAZf0nb3yN0Lxeoztcc20nlgyFo4sr5R5yEWDA8SC4Fdl&usqp=CAI&s"
+        },
+        {
+            "title": "Weight Loss Tied to a Dramatic Drop in Cancer Risk, New Study Shows",
+            "link": "https://www.nytimes.com/2022/06/03/well/weight-loss-cancer.html",
+            "source": "The New York Times",
+            "date": "2 days ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqYeh8SImF0XOOf0CMowF0QVYMI2KfrPwcWXddXGDiZUp1SsH66o0AaLA&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?q=Weight&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQt8YBegUIiQEQAg",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&tbm=nws",
+    "related_questions": [
+        {
+            "question": "What do you mean of weight?",
+            "snippet": "noun. the amount or quantity of heaviness or mass; amount a thing weighs. Physics. the force that gravitation exerts upon a body, equal to the mass of the body times the local acceleration of gravity: commonly taken, in a region of constant gravitational acceleration, as a measure of mass.",
+            "title": "Weight Definition & Meaning | Dictionary.com",
+            "link": "https://www.dictionary.com/browse/weight",
+            "displayed_link": "https://www.dictionary.com › browse › weight"
+        },
+        {
+            "question": "What is meant by weight in physics?",
+            "snippet": "weight, gravitational force of attraction on an object, caused by the presence of a massive second object, such as the Earth or Moon.",
+            "title": "weight | physics - Encyclopedia Britannica",
+            "link": "https://www.britannica.com/science/weight",
+            "displayed_link": "https://www.britannica.com › Science › Astronomy"
+        },
+        {
+            "question": "Which is correct weigh or weight?",
+            "snippet": "For the most part, we can keep weigh and weight straight by using weigh as a verb and weight as a noun, with a smattering of exceptions for statistics and grades and blankets. Our advice: take comfort where you can.",
+            "title": "The Verbing Adventures of 'Weigh' and 'Weight' - Merriam-Webster",
+            "link": "https://www.merriam-webster.com/words-at-play/when-to-use-weigh-and-weight-as-a-verb",
+            "displayed_link": "https://www.merriam-webster.com › words-at-play › whe..."
+        },
+        {
+            "question": "How do we measure weight?",
+            "snippet": "In common usage, human body mass is often referred to as weight. In fact, weight is the force exerted on an object due to gravity (SI unit = newton, N). A measure of weight in N allows estimation of human body mass in kg using the formula W = m*g and standard gravity.",
+            "title": "Simple measures - weight - DAPA Measurement Toolkit",
+            "link": "https://dapa-toolkit.mrc.ac.uk/anthropometry/objective-methods/simple-measures-weight",
+            "displayed_link": "https://dapa-toolkit.mrc.ac.uk › objective-methods › simpl..."
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "weight",
+        "word_type": "noun",
+        "definitions": [
+            "a body's relative mass or the quantity of matter contained by it, giving rise to a downward force; the heaviness of a person or thing.",
+            "a piece of metal known to weigh a definite amount and used on scales to determine how heavy an object or quantity of a substance is.",
+            "hold (something) down by placing a heavy object on top of it.",
+            "attach importance or value to."
+        ],
+        "extras": [
+            "heaviness",
+            "mass",
+            "load",
+            "burden",
+            "pressure",
+            "force",
+            "poundage",
+            "tonnage",
+            "avoirdupois"
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Personalized Weight Loss Like Never Before—No Two Plans ...",
+            "link": "https://www.weightwatchers.com/us/",
+            "displayed_link": "https://www.weightwatchers.com › ...",
+            "snippet": "Your own individualized weight-loss plan proven to help you eat well, move more, and get the results you crave. 24/7 Coach chat, weekly progress reports, food ...",
+            "snippet_highlighted_words": [
+                "weight"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "WW International, Inc., formerly Weight Watchers International, Inc., is a global company headquartered in the U.S. that offers weight loss and maintenance, fitness, and mindset services such as the Weight Watchers comprehensive diet program.",
+                    "icon": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/c0d8953fa227081d6f9f0e7988c06b26de07363f91026bc0070f64b17dc73ac96dfd384bfdd934c814df0a55becbfdba.png"
+                },
+                "keywords": [
+                    "weight"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.weightwatchers.com/us/&tbm=ilp&ilps=ADNMCi0FrgJd5SdEEPvtpvLQN7-p1A8JFg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:D5n4iUx2bikJ:https://www.weightwatchers.com/us/+&cd=15&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.weightwatchers.com/us/+Weight",
+            "related_questions": [
+                {
+                    "question": "Do I have to go to in-person Workshops?",
+                    "snippet": "Have to? Of course not. It's totally your choice. Workshops are available to attend in-person or virtually, so you can do what's right for you. Speaking of right for you , we have four memberships that deliver support in different ways—whether you want expert-led wellness sessions, one-on-one Coaching, or a one-stop app for weight loss."
+                },
+                {
+                    "question": "Who are WW Coaches?",
+                    "snippet": "WW Coaches are experts on our program and behavior change. They provide the support you need, exactly when you need it. Whether in a live Workshop or through Coaching in the WW app, their advice (and encouragement!) will help you reach your goals."
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Weight Definition & Meaning - Merriam-Webster",
+            "link": "https://www.merriam-webster.com/dictionary/weight",
+            "displayed_link": "https://www.merriam-webster.com › dictionary › weight",
+            "snippet": "1 : the amount that something weighs Her weight is 115 pounds. · 2 : the force with which a body is pulled toward the earth · 3 : a unit (as a pound) for ...",
+            "snippet_highlighted_words": [
+                "weight"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Carry weight",
+                        "link": "https://www.merriam-webster.com/dictionary/carry%20weight"
+                    },
+                    {
+                        "title": "Weight-bearing",
+                        "link": "https://www.merriam-webster.com/dictionary/weight-bearing"
+                    },
+                    {
+                        "title": "Molecular weight",
+                        "link": "https://www.merriam-webster.com/dictionary/molecular%20weight"
+                    },
+                    {
+                        "title": "Gain weight",
+                        "link": "https://www.merriam-webster.com/dictionary/gain%20weight"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Merriam-Webster, Inc. is an American company that publishes reference books and is especially known for its dictionaries. It is the oldest dictionary publisher in the United States.\nIn 1831, George and Charles Merriam founded the company as G & C Merriam Co. in Springfield, Massachusetts.",
+                    "icon": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/c0d8953fa227081d6f9f0e7988c06b26e22f8952841d6fd4a1df282ae440936488282d6d46bc6d6a1a096fcec2dd6590.png"
+                },
+                "keywords": [
+                    "weight"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.merriam-webster.com/dictionary/weight&tbm=ilp&ilps=ADNMCi2zd6gF493CkqeeagxOS7ux6QCIoQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:haKwUzQNnwwJ:https://www.merriam-webster.com/dictionary/weight+&cd=16&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.merriam-webster.com/dictionary/weight+Weight"
+        },
+        {
+            "position": 3,
+            "title": "Healthy Weight & Weight Management - WebMD",
+            "link": "https://www.webmd.com/diet/obesity/healthy-weight",
+            "displayed_link": "https://www.webmd.com › ... › Reference",
+            "date": "Jun 12, 2021",
+            "snippet": "Overweight = 25.0 to 29.9; Normal weight = 18.5 to 24.9; Underweight = under 18.5. Recommended.",
+            "snippet_highlighted_words": [
+                "weight"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Body Mass Index (BMI)",
+                        "link": "https://www.webmd.com/diet/obesity/healthy-weight#091e9c5e816856bb-1-2"
+                    },
+                    {
+                        "title": "Measure Your Waist",
+                        "link": "https://www.webmd.com/diet/obesity/healthy-weight#091e9c5e816856bb-2-4"
+                    },
+                    {
+                        "title": "How Do I Get to the Right...",
+                        "link": "https://www.webmd.com/diet/obesity/healthy-weight#091e9c5e816856bb-3-6"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "WebMD is an American corporation known primarily as an online publisher of news and information pertaining to human health and well-being. The site includes information pertaining to drugs. It is one of the top healthcare websites.\nIt was founded in 1998 by internet entrepreneur Jeff Arnold.",
+                    "icon": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/c0d8953fa227081d6f9f0e7988c06b26fd26189e8928c6153a17f9222a4eb490efa7ba8d1f0ce2cd4ae75f8c4d905467.png"
+                },
+                "keywords": [
+                    "weight"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.webmd.com/diet/obesity/healthy-weight&tbm=ilp&ilps=ADNMCi2V4OPcYvvJa-nYHP_FLXhJyqkbLg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:j83VdbENMyIJ:https://www.webmd.com/diet/obesity/healthy-weight+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Weight Definition & Meaning | Dictionary.com",
+            "link": "https://www.dictionary.com/browse/weight",
+            "displayed_link": "https://www.dictionary.com › browse › weight",
+            "snippet": "The force with which an object near the Earth or another celestial body is attracted toward the center of the body by gravity. An object's weight depends on its ...",
+            "snippet_highlighted_words": [
+                "weight"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Dictionary.com is an online dictionary whose domain was first registered on May 14, 1995. The primary content on Dictionary.com is a proprietary dictionary based on Random House Unabridged Dictionary, with editors for the site providing new and updated definitions.",
+                    "icon": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/c0d8953fa227081d6f9f0e7988c06b2603d2390f4598243cc4c1eb271e4219ac4217883a204b5e680ee27c685036bab5.png"
+                },
+                "keywords": [
+                    "weight"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.dictionary.com/browse/weight&tbm=ilp&ilps=ADNMCi0KYm3P4_JdL-JO1lJhmbh9-6zAwg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qWCc2c74EIEJ:https://www.dictionary.com/browse/weight+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "WEIGHT | definition in the Cambridge English Dictionary",
+            "link": "https://dictionary.cambridge.org/us/dictionary/english/weight",
+            "displayed_link": "https://dictionary.cambridge.org › dictionary › weight",
+            "date": "5 days ago",
+            "snippet": "a quality of an object that is a measure of the force by which the earth attracts it, or an object considered as having this quality: [ U ] The ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The Cambridge Advanced Learner's Dictionary was first published in 1995 under the name Cambridge International Dictionary of English, by the Cambridge University Press. The dictionary has over 140,000 words, phrases, and meanings. It is suitable for learners at CEF levels B2-C2.",
+                    "icon": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/c0d8953fa227081d6f9f0e7988c06b26f09dcf140b3cb1893f139f6de9d53983b02f667c3e8bf38bcec9e4c1b59cb89e.png"
+                },
+                "keywords": [
+                    "weight"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://dictionary.cambridge.org/us/dictionary/english/weight&tbm=ilp&ilps=ADNMCi3pyWAzxVaaHHp78xzihgE0qBMImQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eohFhVkIwsMJ:https://dictionary.cambridge.org/us/dictionary/english/weight+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Weight definition and meaning | Collins English Dictionary",
+            "link": "https://www.collinsdictionary.com/us/dictionary/english/weight",
+            "displayed_link": "https://www.collinsdictionary.com › dictionary › weight",
+            "snippet": "weight in British English ; 1. a measure of the heaviness of an object; the amount anything weighs ; 2. physics. the vertical force experienced by a mass as a ...",
+            "snippet_highlighted_words": [
+                "weight"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "dec": null
+                    },
+                    "extensions": [
+                        "Dec 12, 2017",
+                        "Uploaded by Collins A",
+                        "Z"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Collins English Dictionary is a printed and online dictionary of English. It is published by HarperCollins in Glasgow.",
+                    "icon": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/c0d8953fa227081d6f9f0e7988c06b2662cf0b8c86de8f100d38c1752982dfcc8eda67460b7afd017ce0634ec4bffae8.png"
+                },
+                "keywords": [
+                    "weight"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.collinsdictionary.com/us/dictionary/english/weight&tbm=ilp&ilps=ADNMCi1wNqZsADwOJ-FGMVm8vpXViYXMrA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QmHmV5wP7nsJ:https://www.collinsdictionary.com/us/dictionary/english/weight+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "weight - Wiktionary",
+            "link": "https://en.wiktionary.org/wiki/weight",
+            "displayed_link": "https://en.wiktionary.org › wiki › weight",
+            "snippet": "NounEdit · The force on an object due to the gravitational attraction between it and the Earth (or whatever astronomical object it is primarily influenced by).",
+            "about_this_result": {
+                "source": {
+                    "description": "Wiktionary is a multilingual, web-based project to create a free content dictionary of terms in all natural languages and in a number of artificial languages.",
+                    "icon": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/c0d8953fa227081d6f9f0e7988c06b2608e129e8cec8666d2e7ccb3b025a64af726a0503c2e7a5f347d6015c75e0c231.png"
+                },
+                "keywords": [
+                    "weight"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wiktionary.org/wiki/weight&tbm=ilp&ilps=ADNMCi3CyyzMY-xViJP5yD7ei-VOF36nIA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ovsm4L8Tm70J:https://en.wiktionary.org/wiki/weight+&cd=25&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wiktionary.org/wiki/weight+Weight"
+        },
+        {
+            "position": 8,
+            "title": "Weight - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Weight",
+            "displayed_link": "https://en.wikipedia.org › wiki › Weight",
+            "snippet": "The unit of measurement for weight is that of force, which in the International System of Units (SI) is the newton. For example, an object with a mass of one ...",
+            "snippet_highlighted_words": [
+                "weight"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/c0d8953fa227081d6f9f0e7988c06b266d425ffa0ecdfeed838328ceee2bd9b256dd4d40ad44241509d06a538b14862a.png"
+                },
+                "keywords": [
+                    "weight"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Weight&tbm=ilp&ilps=ADNMCi3qLFDjwGoydAUIZnAKhUJl3ftFlw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IoSJULmEMfsJ:https://en.wikipedia.org/wiki/Weight+&cd=26&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Weight+Weight"
+        },
+        {
+            "position": 9,
+            "title": "Losing Weight | Healthy Weight, Nutrition, and Physical Activity",
+            "link": "https://www.cdc.gov/healthyweight/losing_weight/index.html",
+            "displayed_link": "https://www.cdc.gov › healthyweight › losing_weight",
+            "snippet": "People who lose weight gradually and steadily (about 1 to 2 pounds per week) improve their changes of keeping weight off. Learn more…",
+            "snippet_highlighted_words": [
+                "weight",
+                "weight"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Centers for Disease Control and Prevention is the national public health agency of the United States. It is a United States federal agency, under the Department of Health and Human Services, and is headquartered in Atlanta, Georgia.",
+                    "icon": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/c0d8953fa227081d6f9f0e7988c06b26d9674561b52a455973a79d1180263708a22e878591c30c4d4fac636577bcfbb6.png"
+                },
+                "keywords": [
+                    "weight"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cdc.gov/healthyweight/losing_weight/index.html&tbm=ilp&ilps=ADNMCi0P4mDK2xQ3bDJ0HwnmBU4BOFf4Og",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CjSw73fzAQEJ:https://www.cdc.gov/healthyweight/losing_weight/index.html+&cd=27&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 10,
+            "title": "weight | physics - Encyclopedia Britannica",
+            "link": "https://www.britannica.com/science/weight",
+            "displayed_link": "https://www.britannica.com › Science › Astronomy",
+            "snippet": "weight, gravitational force of attraction on an object, caused by the presence of a massive second object, such as the Earth or Moon.",
+            "snippet_highlighted_words": [
+                "weight"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/629e37c987a0eed0e9f7b879/images/c0d8953fa227081d6f9f0e7988c06b26430a504ae7f358a758a80ca0f88954b7c981ddc1c10c44bd8cc7c03228b8e50b.png"
+                },
+                "keywords": [
+                    "weight"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/weight&tbm=ilp&ilps=ADNMCi2ZtThKZ5IQVgTB2tmRQuJ3zfH0UQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CfCUCFLSK2EJ:https://www.britannica.com/science/weight+&cd=28&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.britannica.com/science/weight+Weight"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "normal weight",
+            "link": "https://www.google.com/search?q=Normal+weight&sa=X&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ1QJ6BAhxEAE"
+        },
+        {
+            "query": "weight kg",
+            "link": "https://www.google.com/search?q=Weight+kg&sa=X&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ1QJ6BAhwEAE"
+        },
+        {
+            "query": "weight and height",
+            "link": "https://www.google.com/search?q=Weight+and+height&sa=X&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ1QJ6BAhuEAE"
+        },
+        {
+            "query": "weight unit",
+            "link": "https://www.google.com/search?q=Weight+unit&sa=X&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ1QJ6BAhsEAE"
+        },
+        {
+            "query": "weight formula",
+            "link": "https://www.google.com/search?q=Weight+formula&sa=X&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ1QJ6BAhrEAE"
+        },
+        {
+            "query": "weight loss",
+            "link": "https://www.google.com/search?q=Weight+loss&sa=X&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ1QJ6BAhpEAE"
+        },
+        {
+            "query": "how to pronounce weight",
+            "link": "https://www.google.com/search?q=How+to+pronounce+weight&sa=X&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ1QJ6BAhzEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Weight&ei=yTeeYqvnN57cqtsPl5yJwAY&start=10&sa=N&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ8NMDegQIAhBO",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Weight&ei=yTeeYqvnN57cqtsPl5yJwAY&start=10&sa=N&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ8tMDegQIAhA8",
+            "3": "https://www.google.com/search?q=Weight&ei=yTeeYqvnN57cqtsPl5yJwAY&start=20&sa=N&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ8tMDegQIAhA-",
+            "4": "https://www.google.com/search?q=Weight&ei=yTeeYqvnN57cqtsPl5yJwAY&start=30&sa=N&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ8tMDegQIAhBA",
+            "5": "https://www.google.com/search?q=Weight&ei=yTeeYqvnN57cqtsPl5yJwAY&start=40&sa=N&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ8tMDegQIAhBC",
+            "6": "https://www.google.com/search?q=Weight&ei=yTeeYqvnN57cqtsPl5yJwAY&start=50&sa=N&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ8tMDegQIAhBE",
+            "7": "https://www.google.com/search?q=Weight&ei=yTeeYqvnN57cqtsPl5yJwAY&start=60&sa=N&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ8tMDegQIAhBG",
+            "8": "https://www.google.com/search?q=Weight&ei=yTeeYqvnN57cqtsPl5yJwAY&start=70&sa=N&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ8tMDegQIAhBI",
+            "9": "https://www.google.com/search?q=Weight&ei=yTeeYqvnN57cqtsPl5yJwAY&start=80&sa=N&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ8tMDegQIAhBK",
+            "10": "https://www.google.com/search?q=Weight&ei=yTeeYqvnN57cqtsPl5yJwAY&start=90&sa=N&ved=2ahUKEwjr75K2q5n4AhUermoFHRdOAmgQ8tMDegQIAhBM"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Weight&start=90"
+        }
+    }
+}

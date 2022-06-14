@@ -1,0 +1,342 @@
+{
+    "search_metadata": {
+        "id": "629e3d09c504e92d633797e1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b560f90888c8062c/629e3d09c504e92d633797e1.json",
+        "created_at": "2022-06-06 17:44:41 UTC",
+        "processed_at": "2022-06-06 17:44:41 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&oq=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/b560f90888c8062c/629e3d09c504e92d633797e1.html",
+        "total_time_taken": 1.47
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "الجينوم",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "الجينوم",
+        "total_results": 616000,
+        "time_taken_displayed": 0.44
+    },
+    "knowledge_graph": {
+        "title": "مجموع مورثي",
+        "header_images": [
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9_%D9%85%D9%88%D8%B1%D8%AB%D9%8A"
+            },
+            {
+                "source": "https://www.nagwa.com/ar/explainers/923193083271/"
+            },
+            {
+                "source": "https://technologyreview.ae/%D9%85%D8%A7-%D9%87%D9%88-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A/"
+            },
+            {
+                "source": "https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85-pdf"
+            },
+            {
+                "source": "https://www.nagwa.com/ar/explainers/195184525140/"
+            },
+            {
+                "source": "https://www.ibelieveinsci.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A-%D8%8C-%D8%A7%D8%B9%D8%B8%D9%85-%D8%AE%D8%B7%D9%88%D8%A9-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1/"
+            }
+        ],
+        "description": "صحيفة المحتوى الوراثي أو المجموع المورثي أو المَجِين أو الشريط الوراثي في علم الأحياء هو كامل تسلسل الدنا لأحد الكائنات الحية. تحت المجهر الميكروسكوب يمكن رؤية شريط الدنا في هيئة معرفات للصبغيات الوراثية كروموسومات توجد في نواة الخلية الحية.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9_%D9%85%D9%88%D8%B1%D8%AB%D9%8A"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "علماء ينجحون من فك شفرة الجينوم البشري بأكمله",
+            "link": "https://www.youtube.com/watch?v=vhMxp8FrQ5U",
+            "thumbnail": "https://serpapi.com/searches/629e3d09c504e92d633797e1/images/8e3c4da49cd4682d89813238a42c6bbd1045f505542e3855e5ecf793a2c6e395.jpeg",
+            "channel": "سكاي نيوز عربية",
+            "duration": "2:09",
+            "platform": "YouTube",
+            "date": "01‏/04‏/2022"
+        },
+        {
+            "position": 2,
+            "title": "علماء ينتهون من فك شفرة الجينوم البشري بأكمله | #رادار",
+            "link": "https://www.youtube.com/watch?v=8DLJ0jKi8eg",
+            "thumbnail": "https://serpapi.com/searches/629e3d09c504e92d633797e1/images/8e3c4da49cd4682d548f4d20a486088fbec80dc50c43c3c62e7cc123e2488f7d.jpeg",
+            "channel": "سكاي نيوز عربية",
+            "duration": "8:39",
+            "platform": "YouTube",
+            "date": "01‏/04‏/2022"
+        },
+        {
+            "position": 3,
+            "title": "لماذا يغيب أربعمئة مليون عربي عن خرائط الجينوم العالمية.. شاهد ...",
+            "link": "https://www.youtube.com/watch?v=YoB4XH24CEs",
+            "thumbnail": "https://serpapi.com/searches/629e3d09c504e92d633797e1/images/8e3c4da49cd4682d266de2856d8649723f55eb0041e8a7c16393af004a50c635.jpeg",
+            "channel": "AlJazeera Channel قناة الجزيرة",
+            "duration": "7:26",
+            "platform": "YouTube",
+            "date": "08‏/10‏/2020"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ما هو تعريف الجينوم؟",
+            "snippet": "الجينوم وهو مجموع الجينات كائن الفرد بأكلمها. وبالتالي، فعلم الجينوم هو دراسة الجينات في الخلية، أو النسيج، على مستوى الحمض النووي.",
+            "title": "علم الجينوم - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85",
+            "displayed_link": "https://ar.wikipedia.org › wiki › علم_الجينوم"
+        },
+        {
+            "question": "ما هو الجينوم الوراثي؟",
+            "snippet": "* الجينوم: الجينوم (السرد الوراثى) هو مجمل المادة الوراثية الموجودة بخلايا كل كائن حى: بشراً كان أو نباتاً أو حيواناً. وللتعرف على المادة الوراثية للكائنات عامة علينا التعرف على بعض الحقائق الأساسية فى هذا المجال. 1- بكل خلية حية (عدا القليل منها) نواة واضحة المعالم تتركز بها معظم العمليات الحيوية للكائن الحى.",
+            "title": "الجينوم (السرد الوراثى) - Feedo.net",
+            "link": "https://www.feedo.net/ScienceAndTechnology/Science/ScientificAchievement/Genome.htm",
+            "displayed_link": "https://www.feedo.net › ScientificAchievement › Genome"
+        },
+        {
+            "question": "يحتوي الجينوم البشري على كم جين؟",
+            "snippet": "الجينوم البشري Human genome: هو كامل المادة الوراثية المكونة من (الحمض الريبي النووي منزوع الأكسجين) والذي يعرف اختصارا الدنا DNA. يحتوي الجينوم البشري على ما بين 20-25 ألف جين gene (المورثات) موجودة ومرتبة على هيئة ثلاثة وعشرين زوجاً من الكروموسومات (أو الصبغيات) في نواة الخلية.",
+            "title": "مشروع الجينوم البشري - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%85%D8%B4%D8%B1%D9%88%D8%B9_%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85_%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A",
+            "displayed_link": "https://ar.wikipedia.org › wiki › مشروع_الجينوم_البشري"
+        },
+        {
+            "question": "ما هو طول DNA البشري؟",
+            "snippet": "على سبيل المقارنة، تحتوي كل خلية بشرية بمفردها على نواة يبلغ قطرها تقريبا 0,00001 من المتر، ولكن إذا قمنا بمد الحمض النووي الموجود داخل نواة واحدة، فإن طوله سوف يصل إلى مترين. بعبارة أخرى، إذا قمنا بربط خيوط الحمض النووي لدى شخص ما معًا، فسوف يمتد طولها إلى 100 تريليون متر.30‏/07‏/2019",
+            "title": "الحمض النووي والطفرة القادمة في تكنولوجيا المعلومات - للعِلم - ...",
+            "link": "https://www.scientificamerican.com/arabic/articles/from-the-magazine/could-the-next-big-information-technology-be-dna/",
+            "displayed_link": "https://www.scientificamerican.com › from-the-magazine"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "علم الجينوم - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85",
+            "displayed_link": "https://ar.wikipedia.org › wiki › علم_الجينوم",
+            "snippet": "علم الجينوم هو أحد فروع علم الوراثة المتعلق بدراسة الجينوم، أي كامل المادة الوراثية داخل مختلف الكائنات الحية. يتضمن المجال جهودا مكثفة لتحديد تسلسل الحمض ...",
+            "snippet_highlighted_words": [
+                "الجينوم",
+                "الجينوم"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "علم الجينوم المقارن",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B1%D9%86"
+                    },
+                    {
+                        "title": "علم الجينوم الوظيفي",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85_%D8%A7%D9%84%D9%88%D8%B8%D9%8A%D9%81%D9%8A"
+                    },
+                    {
+                        "title": "قالب:علم الجينوم",
+                        "link": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%84%D8%A8:%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85"
+                    },
+                    {
+                        "title": "علم الجينوم البنيوي",
+                        "link": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85_%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D9%88%D9%8A"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "مجموع مورثي - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9_%D9%85%D9%88%D8%B1%D8%AB%D9%8A",
+            "displayed_link": "https://ar.wikipedia.org › wiki › مجموع_مورثي",
+            "snippet": "صحيفة المحتوى الوراثي أو المجموع المورثي أو المَجِين أو الشريط الوراثي (جينوم) (Genome) في علم الأحياء هو كامل تسلسل الدنا لأحد الكائنات الحية.",
+            "snippet_highlighted_words": [
+                "جينوم",
+                "Genome"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "الجزء الأول : ما هو الجينوم، وما هي أهمية دراسته؟",
+            "link": "https://arsco.org/article-detail-1752-3-0",
+            "displayed_link": "https://arsco.org › article-detail-1752-3-0",
+            "snippet": "الجينوم (المجين) هو كامل المادة الوراثية المكونة من الحمض الريبي النووي منزوع الأكسجين والذي يعرف اختصارا بالـ \"دي إن إيه\" (DNA).",
+            "snippet_highlighted_words": [
+                "الجينوم"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢١‏/١٠‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "بعد 20 عاما من إنتاج المسودة الأولى وفي اختراق كبير.. تحديد ...",
+            "link": "https://arabic.rt.com/technology/1340374-%D8%A8%D8%B9%D8%AF-20-%D8%B9%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D8%B3%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%88%D9%81%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%83%D8%A8%D9%8A%D8%B1-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A-%D8%A8%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84/",
+            "displayed_link": "https://arabic.rt.com › technology › 1340374-بعد-20-عا...",
+            "snippet": "ويأتي الجينوم عبارة عن مجموعة كاملة من المعلومات الجينية في الكائن الحي، مخزنة في جزيئات طويلة من الحمض النووي تسمى الكروموسومات. والحمض النووي، ...",
+            "snippet_highlighted_words": [
+                "الجينوم"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠١‏/٠٤‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "\"مشروع الجينوم المرجعي\".. مصر تبني خريطة للأجداد والأحفاد",
+            "link": "https://www.skynewsarabia.com/technology/1419087-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9%D9%8A-%D9%85%D8%B5%D8%B1-%D8%AA%D8%A8%D9%86%D9%8A-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D9%84%D9%84%D8%A7%D9%94%D8%AC%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A7%D9%94%D8%AD%D9%81%D8%A7%D8%AF",
+            "displayed_link": "https://www.skynewsarabia.com › technology › 141908...",
+            "snippet": "قبل أيّام قليلة أعطى الرئيس المصري، عبد الفتاح السيسي، إشارة البدء لتنفيذ مشروع الجينوم المرجعي للمصريين وقدماء المصريين، وهو المشروع الذي ...",
+            "snippet_highlighted_words": [
+                "الجينوم"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٣‏/٠٣‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "فكّ آخر الشيفرات.. اكتمال أول خريطة للجينوم البشري! | 01.04 ...",
+            "link": "https://www.dw.com/ar/%D9%81%D9%83%D9%91-%D8%A2%D8%AE%D8%B1-%D8%A7%D9%84%D8%B4%D9%8A%D9%81%D8%B1%D8%A7%D8%AA-%D8%A7%D9%83%D8%AA%D9%85%D8%A7%D9%84-%D8%A3%D9%88%D9%84-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D9%84%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A/a-61328379",
+            "displayed_link": "https://www.dw.com › فكّ-آخر-الشيفرات-اكتمال-أول-...",
+            "snippet": "اكتمال أول خريطة للجينوم البشري! نجح علماء في فك باقي شيفرات خريطة الجينوم البشري ونشر أول خريطة كاملة له. هذا الإنجاز العلمي يوفر نظرة شاملة ...",
+            "snippet_highlighted_words": [
+                "للجينوم",
+                "الجينوم"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠١‏/٠٤‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "شارح الدرس: الجينوم البشري | نجوى - Nagwa",
+            "link": "https://www.nagwa.com/ar/explainers/923193083271/",
+            "displayed_link": "https://www.nagwa.com › explainers",
+            "snippet": "باختصار، الإجابة هي الجينوم. هذا الجينوم هو المادة الوراثية الموجودة داخل خلايا الجسم. في الإنسان، تكون المادة الوراثية في صورة حمض نووي (DNA)؛ حيث تلتف ...",
+            "snippet_highlighted_words": [
+                "الجينوم",
+                "الجينوم"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "تخليق جينوم كامل سيُحدِث تحولًا في هندسة الخلايا - Scientific ...",
+            "link": "https://www.scientificamerican.com/arabic/articles/features/whole-genome-synthesis-will-transform-cell-engineering/",
+            "displayed_link": "https://www.scientificamerican.com › articles › features",
+            "snippet": "يهدف «مشروع كتابة الجينوم» Genome Project-write، وهو ائتلاف تأسّس عام 2016، إلى تسهيل بناء شبكة الأمان المنشودة. ويضمّ المشروع مئات العلماء ...",
+            "snippet_highlighted_words": [
+                "الجينوم",
+                "Genome"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٣‏/١٢‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "إطلاق مشروع جينوم للمصريين وقدماء المصريين - SciDev.Net",
+            "link": "https://www.scidev.net/mena/news/egyptian-reference-human-genome/",
+            "displayed_link": "https://www.scidev.net › الرئيسية › علم المجينيات",
+            "snippet": "إطلاق مشروع جينوم للمصريين وقدماء المصريين. Egyptian Genome ... ثمة تبايُن مع الجينوم المرجعي البشري المبني على أفراد من أصول أوروبية ...",
+            "snippet_highlighted_words": [
+                "جينوم",
+                "Genome",
+                "الجينوم"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٠‏/١٠‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "ما هو الجينوم",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%A7+%D9%87%D9%88+%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&sa=X&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "الجينوم pdf",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85+pdf&sa=X&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "الجينوم البشري",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85+%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A&sa=X&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "ما هو الجينوم السعودي",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%A7+%D9%87%D9%88+%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85+%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A&sa=X&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "مرض الجينوم",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%B1%D8%B6+%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&sa=X&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "فوائد الجينوم البشري",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%81%D9%88%D8%A7%D8%A6%D8%AF+%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85+%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A&sa=X&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "الجينوم البشري pdf",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85+%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A+pdf&sa=X&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "الجينوم الفيروسي",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85+%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3%D9%8A&sa=X&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&gl=eg&hl=ar&ei=Cj2eYvfOHf-eqtsP9oSYwAw&start=10&sa=N&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&gl=eg&hl=ar&ei=Cj2eYvfOHf-eqtsP9oSYwAw&start=10&sa=N&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&gl=eg&hl=ar&ei=Cj2eYvfOHf-eqtsP9oSYwAw&start=20&sa=N&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&gl=eg&hl=ar&ei=Cj2eYvfOHf-eqtsP9oSYwAw&start=30&sa=N&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&gl=eg&hl=ar&ei=Cj2eYvfOHf-eqtsP9oSYwAw&start=40&sa=N&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&gl=eg&hl=ar&ei=Cj2eYvfOHf-eqtsP9oSYwAw&start=50&sa=N&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&gl=eg&hl=ar&ei=Cj2eYvfOHf-eqtsP9oSYwAw&start=60&sa=N&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&gl=eg&hl=ar&ei=Cj2eYvfOHf-eqtsP9oSYwAw&start=70&sa=N&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&gl=eg&hl=ar&ei=Cj2eYvfOHf-eqtsP9oSYwAw&start=80&sa=N&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&gl=eg&hl=ar&ei=Cj2eYvfOHf-eqtsP9oSYwAw&start=90&sa=N&ved=2ahUKEwj3-6S3sJn4AhV_j2oFHXYCBsgQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D9%88%D9%85&start=90"
+        }
+    }
+}

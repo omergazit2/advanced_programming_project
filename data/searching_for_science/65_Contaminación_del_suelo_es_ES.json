@@ -1,0 +1,300 @@
+{
+    "search_metadata": {
+        "id": "627cffbc2c68781da48ec597",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e65eb0e05b14f96f/627cffbc2c68781da48ec597.json",
+        "created_at": "2022-05-12 12:38:20 UTC",
+        "processed_at": "2022-05-12 12:38:20 UTC",
+        "google_url": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&oq=Contaminaci%C3%B3n+del+suelo&uule=w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=&hl=es&gl=ES&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/e65eb0e05b14f96f/627cffbc2c68781da48ec597.html",
+        "total_time_taken": 12.7
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Contaminación del suelo",
+        "uule": "w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4=",
+        "google_domain": "google.com",
+        "hl": "es",
+        "gl": "ES",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Contaminación del suelo",
+        "total_results": 67900000,
+        "time_taken_displayed": 0.51
+    },
+    "knowledge_graph": {
+        "title": "Contaminación del suelo",
+        "type": "Tipo de catástrofe",
+        "description": "La contaminación del suelo es una degradación de la calidad del suelo asociada a la presencia de sustancias químicas.​ Se define como el aumento en la concentración de compuestos químicos, que provoca cambios perjudiciales y reduce su empleo potencial, tanto por parte de la actividad humana, como por la naturaleza.​​",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://es.wikipedia.org/wiki/Contaminaci%C3%B3n_del_suelo"
+        }
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "CONTAMINACIÓN DEL SUELO - Causas, consecuencias y ...",
+            "link": "https://www.youtube.com/watch?v=dpqDxUK64cs",
+            "thumbnail": "https://i.ytimg.com/vi/dpqDxUK64cs/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kJfVNQU-KJ1WALbS7YlEXmcielAA",
+            "channel": "EcologíaVerde",
+            "duration": "2:03",
+            "platform": "YouTube",
+            "date": "4 feb 2018"
+        },
+        {
+            "position": 2,
+            "title": "Contaminación del suelo - 14",
+            "link": "https://www.youtube.com/watch?v=szL1IFM1ERg",
+            "thumbnail": "https://i.ytimg.com/vi/szL1IFM1ERg/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mJGb23X-9jvifmEmCAgD0eFM4oHA",
+            "channel": "Ingenia UdeA",
+            "duration": "14:09",
+            "platform": "YouTube",
+            "date": "14 sept 2015"
+        },
+        {
+            "position": 3,
+            "title": "Contaminación del suelo",
+            "link": "https://www.youtube.com/watch?v=DY_cnjtx4Nk",
+            "thumbnail": "https://i.ytimg.com/vi/DY_cnjtx4Nk/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mpTwIehZ4sTODL8SjEfS2CuaphIw",
+            "channel": "Biomundos",
+            "duration": "3:09",
+            "platform": "YouTube",
+            "date": "26 jul 2016"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "¿Cuáles son las principales causas de la contaminación del suelo?",
+            "title": "Causas de la contaminación del suelo",
+            "link": "https://residus.gencat.cat/es/ambits_dactuacio/sols_contaminats/causes_i_efectes_de_la_contaminacio_del_sol/causes_de_la_contaminacio_del_sol/",
+            "list": [
+                "Almacenamiento incorrecto de productos y/o residuos en actividades industriales. ... ",
+                "Vertidos de residuos incontrolados. ... ",
+                "Escombros industriales. ... ",
+                "Bidones enterrados. ... ",
+                "Almacenamiento incorrecto de productos o residuos. ... ",
+                "Accidentes en el transporte de mercancías."
+            ],
+            "displayed_link": "https://residus.gencat.cat › sols_contaminats › causes_de_l..."
+        },
+        {
+            "question": "¿Qué es la contaminación del suelo consecuencias?",
+            "snippet": "La contaminación del suelo provoca una reacción en cadena. Altera la biodiversidad del suelo, reduciendo la materia orgánica que contiene y su capacidad para actuar como filtro. También se contamina el agua almacenada en el suelo y el agua subterránea, provocando un desequilibrio de sus nutrientes.2 may 2018",
+            "title": "La contaminación de los suelos está contaminando nuestro ...",
+            "link": "https://www.fao.org/fao-stories/article/es/c/1126977/",
+            "displayed_link": "https://www.fao.org › fao-stories › article"
+        },
+        {
+            "question": "¿Cuáles son los tipos de contaminantes del suelo?",
+            "snippet": "Entre los principales contaminantes del suelo se cuentan: Metales pesados, microorganismos patógenos, hidrocarburos, plaguicidas, basura, ácidos y aguas de relave, entre otros.",
+            "title": "Los Principales Contaminantes del Suelo - Hidronor",
+            "link": "https://www.hidronor.cl/los-principales-contaminantes-del-suelo/",
+            "displayed_link": "https://www.hidronor.cl › los-principales-contaminantes-d..."
+        },
+        {
+            "question": "¿Qué es la contaminacion del suelo causas y consecuencias?",
+            "snippet": "Los principales causantes de la contaminación del suelo son: los plásticos arrojados sin control, vertidos incontrolados de materia orgánica proveniente de depuradoras o actividades agropecuarias, aplicación de plaguicidas (insecticidas, herbicidas, fungicidas) sin seguir las instrucciones de seguridad o sustancias ...",
+            "title": "Contaminación del suelo - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Contaminaci%C3%B3n_del_suelo",
+            "displayed_link": "https://es.wikipedia.org › wiki › Contaminación_del_su..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Se entiende por contaminación del suelo un proceso de degradación por causas físicas o químicas que provoca la pérdida total o parcial de su productividad, generando efectos nocivos para los organismos vivos o las personas.18 ene 2022",
+        "link": "https://www.ceupe.mx/blog/que-es-la-contaminacion-del-suelo.html",
+        "displayed_link": "https://www.ceupe.mx › que-es-la-contaminacion-del-suelo",
+        "date": "18 ene 2022",
+        "snippet": "Se entiende por contaminación del suelo un proceso de degradación por causas físicas o químicas que provoca la pérdida total o parcial de su productividad, generando efectos nocivos para los organismos vivos o las personas.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "¿Qué es la contaminación del suelo? Causas, efectos ...",
+            "link": "https://www.iberdrola.com/sostenibilidad/contaminacion-del-suelo-causas-efectos-soluciones",
+            "displayed_link": "https://www.iberdrola.com › sostenibilidad › contamina...",
+            "thumbnail": "https://serpapi.com/searches/627cffbc2c68781da48ec597/images/49fdb797fcdc8d4888a97a817e43e0eb3ec528d46357d9aa1880b21e5c2a4b33.jpeg",
+            "snippet": "Entre las causas antropogénicas más habituales de la contaminación del suelo, la FAO destaca la industria, la minería, las actividades militares, la gestión de ...",
+            "snippet_highlighted_words": [
+                "contaminación del suelo"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Contaminación del suelo: causas, consecuencias y soluciones",
+            "link": "https://www.ecologiaverde.com/contaminacion-del-suelo-causas-consecuencias-y-soluciones-285.html",
+            "displayed_link": "https://www.ecologiaverde.com › ... › Contaminación",
+            "snippet": "La contaminación del suelo supone la alteración de la superficie terrestre con sustancias químicas que resultan perjudiciales para la vida ...",
+            "snippet_highlighted_words": [
+                "contaminación del suelo"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "sept": 2
+                    },
+                    "extensions": [
+                        "2 sept 2021",
+                        "Subido por EcologíaVerde"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "Contaminación del suelo - Wikipedia, la enciclopedia libre",
+            "link": "https://es.wikipedia.org/wiki/Contaminaci%C3%B3n_del_suelo",
+            "displayed_link": "https://es.wikipedia.org › wiki › Contaminación_del_su...",
+            "thumbnail": "https://serpapi.com/searches/627cffbc2c68781da48ec597/images/49fdb797fcdc8d4888a97a817e43e0eb85aa2c1709e8273c7aa00708cf4e452a.jpeg",
+            "snippet": "Se habla de contaminación del suelo cuando se introducen sustancias o elementos de tipo sólido, líquido o gaseoso que ocasionan que se afecte la biota edáfica, ...",
+            "snippet_highlighted_words": [
+                "contaminación del suelo"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Consecuencias",
+                        "link": "https://es.wikipedia.org/wiki/Contaminaci%C3%B3n_del_suelo#Consecuencias"
+                    },
+                    {
+                        "title": "Insecticidas",
+                        "link": "https://es.wikipedia.org/wiki/Contaminaci%C3%B3n_del_suelo#Insecticidas"
+                    },
+                    {
+                        "title": "Herbicidas",
+                        "link": "https://es.wikipedia.org/wiki/Contaminaci%C3%B3n_del_suelo#Herbicidas"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 4,
+            "title": "¿Cómo se produce la contaminación del suelo?",
+            "link": "https://recicladoslatrinchera.com/contaminacion-del-suelo/",
+            "displayed_link": "https://recicladoslatrinchera.com › contaminacion-del-s...",
+            "thumbnail": "https://serpapi.com/searches/627cffbc2c68781da48ec597/images/49fdb797fcdc8d4888a97a817e43e0eb1c421a0372ceb03ed833692e338dd092.jpeg",
+            "snippet": "La contaminación del suelo es una alteración del suelo por la presencia de sustancias químicas producidas por el hombre. En otras palabras, es la degradación o ...",
+            "snippet_highlighted_words": [
+                "contaminación del suelo"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Contaminación del suelo: causas y soluciones - Envira ...",
+            "link": "https://envira.es/es/contaminacion-del-suelo-causas-y-soluciones/",
+            "displayed_link": "https://envira.es › contaminacion-del-suelo-causas-y-sol...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPp6U-iglkF-PaZiccggiurnvxQgiEwcck-2_tEpvld6fonFLmN9a&usqp=CAE&s",
+            "date": "21 abr 2021",
+            "snippet": "Un suelo dejará de tener la condición de suelo contaminado cuando se realicen en él actuaciones de descontaminación que, en función de los ...",
+            "snippet_highlighted_words": [
+                "suelo",
+                "suelo"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Cinco datos sobre la contaminación del suelo que ...",
+            "link": "https://blog.oxfamintermon.org/como-prevenir-la-contaminacion-del-suelo/",
+            "displayed_link": "https://blog.oxfamintermon.org › como-prevenir-la-con...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkebRr5JoWTI3bHNzix9k9SfXKiVMXrCXF1cW8ANCGPf-7Ucc2Nl2C&usqp=CAE&s",
+            "snippet": "La contaminación del suelo es un proceso mediante el cual se van acumulando sustancias tóxicas en la tierra que repercuten, directamente, en la vida animal ...",
+            "snippet_highlighted_words": [
+                "contaminación del suelo"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Los riesgos de la contaminación del suelo",
+                    "link": "https://blog.oxfamintermon.org/los-riesgos-de-la-contaminacion-del-suelo/",
+                    "displayed_link": "https://blog.oxfamintermon.org › los-riesgos-de-la-cont...",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCI0S1CirrjOcii-czMZ37CBYn8l4PgNjpqYs7jF6tOo7n1U-P1ty6&usqp=CAE&s",
+                    "snippet": "Empecemos por el comienzo: la contaminación del suelo es una realidad que consiste en la acumulación de sustancias y repercute negativamente en el ...",
+                    "snippet_highlighted_words": [
+                        "contaminación del suelo"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 7,
+            "title": "La contaminación de los suelos está ...",
+            "link": "https://www.fao.org/fao-stories/article/es/c/1126977/",
+            "displayed_link": "https://www.fao.org › fao-stories › article",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXSoizcM1fzgJdv5b5XjeXIH8L65DFpzYgCKDEAiJinpI21UHpy09m&usqp=CAE&s",
+            "date": "2 may 2018",
+            "snippet": "La contaminación del suelo provoca una reacción en cadena. Altera la biodiversidad del suelo, reduciendo la materia orgánica que contiene y ...",
+            "snippet_highlighted_words": [
+                "contaminación del suelo"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "contaminación del suelo: causas",
+            "link": "https://www.google.com/search?ucbcb=1&hl=es&gl=ES&q=contaminaci%C3%B3n+del+suelo:+causas&sa=X&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "contaminación del suelo consecuencias",
+            "link": "https://www.google.com/search?ucbcb=1&hl=es&gl=ES&q=Contaminaci%C3%B3n+del+suelo+consecuencias&sa=X&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "contaminación del suelo soluciones",
+            "link": "https://www.google.com/search?ucbcb=1&hl=es&gl=ES&q=Contaminaci%C3%B3n+del+suelo+soluciones&sa=X&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "tipos de contaminación del suelo",
+            "link": "https://www.google.com/search?ucbcb=1&hl=es&gl=ES&q=Tipos+de+contaminaci%C3%B3n+del+suelo&sa=X&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "contaminación del suelo para niños",
+            "link": "https://www.google.com/search?ucbcb=1&hl=es&gl=ES&q=Contaminaci%C3%B3n+del+suelo+para+ni%C3%B1os&sa=X&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "contaminación del suelo - wikipedia",
+            "link": "https://www.google.com/search?ucbcb=1&hl=es&gl=ES&q=Contaminaci%C3%B3n+del+suelo+-+wikipedia&sa=X&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "contaminación del suelo origen",
+            "link": "https://www.google.com/search?ucbcb=1&hl=es&gl=ES&q=Contaminaci%C3%B3n+del+suelo+origen&sa=X&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "como afecta la contaminación del suelo a las plantas",
+            "link": "https://www.google.com/search?ucbcb=1&hl=es&gl=ES&q=Como+afecta+la+contaminaci%C3%B3n+del+suelo+a+las+plantas&sa=X&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ1QJ6BAgsEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&ucbcb=1&hl=es&gl=ES&ei=yP98YuLIDMCfkPIPxoSGwAk&start=10&sa=N&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ8NMDegQIAhBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&ucbcb=1&hl=es&gl=ES&ei=yP98YuLIDMCfkPIPxoSGwAk&start=10&sa=N&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ8tMDegQIAhA_",
+            "3": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&ucbcb=1&hl=es&gl=ES&ei=yP98YuLIDMCfkPIPxoSGwAk&start=20&sa=N&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ8tMDegQIAhBB",
+            "4": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&ucbcb=1&hl=es&gl=ES&ei=yP98YuLIDMCfkPIPxoSGwAk&start=30&sa=N&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ8tMDegQIAhBD",
+            "5": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&ucbcb=1&hl=es&gl=ES&ei=yP98YuLIDMCfkPIPxoSGwAk&start=40&sa=N&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ8tMDegQIAhBF",
+            "6": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&ucbcb=1&hl=es&gl=ES&ei=yP98YuLIDMCfkPIPxoSGwAk&start=50&sa=N&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ8tMDegQIAhBH",
+            "7": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&ucbcb=1&hl=es&gl=ES&ei=yP98YuLIDMCfkPIPxoSGwAk&start=60&sa=N&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ8tMDegQIAhBJ",
+            "8": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&ucbcb=1&hl=es&gl=ES&ei=yP98YuLIDMCfkPIPxoSGwAk&start=70&sa=N&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ8tMDegQIAhBL",
+            "9": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&ucbcb=1&hl=es&gl=ES&ei=yP98YuLIDMCfkPIPxoSGwAk&start=80&sa=N&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ8tMDegQIAhBN",
+            "10": "https://www.google.com/search?q=Contaminaci%C3%B3n+del+suelo&ucbcb=1&hl=es&gl=ES&ei=yP98YuLIDMCfkPIPxoSGwAk&start=90&sa=N&ved=2ahUKEwjizLKv_dn3AhXAD0QIHUaCAZgQ8tMDegQIAhBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=10&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=20&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=30&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=40&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=50&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=60&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=70&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=80&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ES&google_domain=google.com&hl=es&q=Contaminaci%C3%B3n+del+suelo&start=90&uule=w%2BCAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4%3D"
+        }
+    }
+}
