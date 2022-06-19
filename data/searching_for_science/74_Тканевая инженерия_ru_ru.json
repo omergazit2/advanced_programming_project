@@ -1,0 +1,247 @@
+{
+    "search_metadata": {
+        "id": "62ae5d7ef0adfbfbef859662",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7528781ae23330c4/62ae5d7ef0adfbfbef859662.json",
+        "created_at": "2022-06-18 23:19:26 UTC",
+        "processed_at": "2022-06-18 23:19:26 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&oq=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7528781ae23330c4/62ae5d7ef0adfbfbef859662.html",
+        "total_time_taken": 2.58
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Тканевая инженерия",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Тканевая инженерия",
+        "total_results": 57800,
+        "time_taken_displayed": 0.48
+    },
+    "knowledge_graph": {
+        "title": "Тканевая инженерия",
+        "description": "Тканевая инженерия — подход к созданию имплантируемых тканей и органов, использующий фундаментальные структурно-функциональные взаимодействия в нормальных и патологически измененных тканях при создании биологических заместителей для восстановления или улучшения функционирования тканей.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F"
+        },
+        "Похожие_запросы": [
+            {
+                "name": "Биомеханика",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%91%D0%B8%D0%BE%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUnJPHvD_1GQe_JmkWeR6p4TNYoup0GV3AdO6o7OGG28QhoIBXrA5lBtwbECPTc285eTW0RMzJyb8pCo7O0qcH2lWxnuQZyLPVPzQ-GsTGEBLJIYbULu37k5FkF7KYFwV4KXpXjuDS337JN2GFXBCULWM7DTQrO_3AMvUhcN4H1Z2qAijE_446_5TaB4-TcSeMbVA4pGVIcDuBbKKltTVwj-iur193ciMNXhp96uogli2pHZnGxBYmvVGqLUwfFEiQKQ0nASTziemyBVvEZuxCOlHd2f&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQxA16BAhIEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%91%D0%B8%D0%BE%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUnJPHvD_1GQe_JmkWeR6p4TNYoup0GV3AdO6o7OGG28QhoIBXrA5lBtwbECPTc285eTW0RMzJyb8pCo7O0qcH2lWxnuQZyLPVPzQ-GsTGEBLJIYbULu37k5FkF7KYFwV4KXpXjuDS337JN2GFXBCULWM7DTQrO_3AMvUhcN4H1Z2qAijE_446_5TaB4-TcSeMbVA4pGVIcDuBbKKltTVwj-iur193ciMNXhp96uogli2pHZnGxBYmvVGqLUwfFEiQKQ0nASTziemyBVvEZuxCOlHd2f",
+                "image": "https://serpapi.com/searches/62ae5d7ef0adfbfbef859662/images/b4b43a237cb2e095f814bd159f39b95390d31be192065fa82e43a80c7c9611f17265edfa8d26258834bc5d82c92745ecb2897039ee6e3db8.jpeg"
+            },
+            {
+                "name": "Биомедицинская инженерия",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%91%D0%B8%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXsfQIGS-N65f0k-HTKEy_r8GAXYYjxWz_Z9I5WuBLtg2u0gyAVk2iZmR8FlCEAIhYyk-s-dMFRUh-gw2Fi_OhgilhtggeEsuHdVhKmkKFo3xaLqC7xiB98EhM_Hi0Ge2mg0NABSYh5Rxhcu2g9FmRCm0ui3t27W8952-_k_AxhxfBlBERXMsSMpRj6101yEVDTM1FhfCh7x9ZMSfKbJJtOeNsP-XFB2ASqnb7lim5Okwk0WMvuL_NVvUhFjvV7vrzUSRy3BavZ57raUU4hNNkA-KmHkhlXdewL9kzJaESL5tg2xxQ%3D%3D&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQxA16BAhIEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%91%D0%B8%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXsfQIGS-N65f0k-HTKEy_r8GAXYYjxWz_Z9I5WuBLtg2u0gyAVk2iZmR8FlCEAIhYyk-s-dMFRUh-gw2Fi_OhgilhtggeEsuHdVhKmkKFo3xaLqC7xiB98EhM_Hi0Ge2mg0NABSYh5Rxhcu2g9FmRCm0ui3t27W8952-_k_AxhxfBlBERXMsSMpRj6101yEVDTM1FhfCh7x9ZMSfKbJJtOeNsP-XFB2ASqnb7lim5Okwk0WMvuL_NVvUhFjvV7vrzUSRy3BavZ57raUU4hNNkA-KmHkhlXdewL9kzJaESL5tg2xxQ%3D%3D",
+                "image": "https://serpapi.com/searches/62ae5d7ef0adfbfbef859662/images/b4b43a237cb2e095f814bd159f39b95390d31be192065fa82e43a80c7c9611f17265edfa8d26258822ddd1738450f065666da3e99a037e3c.jpeg"
+            },
+            {
+                "name": "Инженерное дело",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D0%BE%D0%B5+%D0%B4%D0%B5%D0%BB%D0%BE&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcblkhF4LJA-Q2zzvjQvCg7PhR0sCIfdQ2WZJI7xfLh74JFb_lMUMhiWq-4QNwn4iihYJTlQ0IjyBMbKxkmBWzKMwG6Q22E7-fz2t8u23NteqEFs9PkGBlAvhOSdMNSx3v2NjqLJlrT2Sygq-3fgUff1ZBKwMm-WlnNONS2gtPq6yF9we6zCnNyZIh7YSJ4KI3oZXEns_iE6zhQGcpWrEiI3fwMIj0zf8XzJvXYwoiRwgkpZHyxXBz92nw59UhnLGyMxvtOugAdIfC2y9nHnIYFYoys3l7&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQxA16BAhIEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D0%BE%D0%B5+%D0%B4%D0%B5%D0%BB%D0%BE&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcblkhF4LJA-Q2zzvjQvCg7PhR0sCIfdQ2WZJI7xfLh74JFb_lMUMhiWq-4QNwn4iihYJTlQ0IjyBMbKxkmBWzKMwG6Q22E7-fz2t8u23NteqEFs9PkGBlAvhOSdMNSx3v2NjqLJlrT2Sygq-3fgUff1ZBKwMm-WlnNONS2gtPq6yF9we6zCnNyZIh7YSJ4KI3oZXEns_iE6zhQGcpWrEiI3fwMIj0zf8XzJvXYwoiRwgkpZHyxXBz92nw59UhnLGyMxvtOugAdIfC2y9nHnIYFYoys3l7",
+                "image": "https://serpapi.com/searches/62ae5d7ef0adfbfbef859662/images/b4b43a237cb2e095f814bd159f39b95390d31be192065fa82e43a80c7c9611f17265edfa8d26258883b4c28b87470be4b9dca5c04283e43c.jpeg"
+            },
+            {
+                "name": "Регенеративная медицина",
+                "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A0%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcboSM37_ftgdK2yvsNFl9PgI4PSt6DfiB6SFBpIc8BfbUMYgbxPC-fp02Fcypyk1976sZsaI7Q5MN1O28Q-So3hBFY1TiraS_03DBvmRdHGL1hLwLEaQC9CvLosiDZ1AmzJhyHqXHqRMniCx6RaGYkY_UieKrWVAXVbC1QSXaR3mSHSnPHDVPrqsHqvOWYLHhryMm5SyFfaCJxbJ4GtCZxOqMEy0TrK1xz227n9KTPamYx6egTY8LlKP2PClhTQPUjIgRbfDItPbgdmiWHwDlRwqgsEmyVgMGpBA4PBvXAyEWEZJtSA%3D%3D&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQxA16BAhIEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A0%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcboSM37_ftgdK2yvsNFl9PgI4PSt6DfiB6SFBpIc8BfbUMYgbxPC-fp02Fcypyk1976sZsaI7Q5MN1O28Q-So3hBFY1TiraS_03DBvmRdHGL1hLwLEaQC9CvLosiDZ1AmzJhyHqXHqRMniCx6RaGYkY_UieKrWVAXVbC1QSXaR3mSHSnPHDVPrqsHqvOWYLHhryMm5SyFfaCJxbJ4GtCZxOqMEy0TrK1xz227n9KTPamYx6egTY8LlKP2PClhTQPUjIgRbfDItPbgdmiWHwDlRwqgsEmyVgMGpBA4PBvXAyEWEZJtSA%3D%3D",
+                "image": "https://serpapi.com/searches/62ae5d7ef0adfbfbef859662/images/b4b43a237cb2e095f814bd159f39b95390d31be192065fa82e43a80c7c9611f17265edfa8d2625884da1ea24752040acf3516191acc16366.jpeg"
+            }
+        ],
+        "Похожие_запросы_link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hWQjC1BIMzU1LLEyuL_VIrSoJLUguKF7EqX1h0YdeFDRf2Xth6YdOFDRf7FS7sAHK2AblAoYsNF3Zc7N_ByggAr0A9kFQAAAA&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQMSgAegQISBAB",
+        "Похожие_запросы_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hWQjC1BIMzU1LLEyuL_VIrSoJLUguKF7EqX1h0YdeFDRf2Xth6YdOFDRf7FS7sAHK2AblAoYsNF3Zc7N_ByggAr0A9kFQAAAA"
+    },
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Тканевая инженерия (англ. tissue engineering) — подход к созданию имплантируемых тканей и органов, использующий фундаментальные структурно-функциональные взаимодействия в нормальных и патологически измененных тканях при создании биологических заместителей для восстановления или улучшения функционирования тканей.",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F",
+        "displayed_link": "https://ru.wikipedia.org › wiki › Тканевая_инженерия",
+        "snippet": "Тканевая инженерия (англ. tissue engineering) — подход к созданию имплантируемых тканей и органов, использующий фундаментальные структурно-функциональные взаимодействия в нормальных и патологически измененных тканях при создании биологических заместителей для восстановления или улучшения функционирования тканей.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "тканевая инженерия",
+            "link": "https://thesaurus.rusnano.com/wiki/article1799",
+            "displayed_link": "https://thesaurus.rusnano.com › wiki › article1799",
+            "snippet": "тканевая инженерия (англ. tissue engineering) — создание новых тканей и органов для терапевтической реконструкции поврежденного органа посредством доставки ...",
+            "snippet_highlighted_words": [
+                "тканевая инженерия"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Тканевая инженерия — окно в современную медицину",
+            "link": "https://biomolecula.ru/articles/tkanevaia-inzheneriia-okno-v-sovremennuiu-meditsinu",
+            "displayed_link": "https://biomolecula.ru › articles › tkanevaia-inzheneriia-...",
+            "date": "19 окт. 2011 г.",
+            "snippet": "Тканевая инженерия — современная инновационная технология · способность к самовосстановлению; · способность поддерживать кровоснабжение; ...",
+            "snippet_highlighted_words": [
+                "Тканевая инженерия"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Тканевая инженерия...",
+                        "link": "https://biomolecula.ru/articles/tkanevaia-inzheneriia-okno-v-sovremennuiu-meditsinu#tkanevaia-inzheneriia-sovremennaia-innovatsionnaia-tekhnologiia"
+                    },
+                    {
+                        "title": "Клетки и матриксы — основа...",
+                        "link": "https://biomolecula.ru/articles/tkanevaia-inzheneriia-okno-v-sovremennuiu-meditsinu#kletki-i-matriksy-osnova-osnov-dlia-tkanevoi-inzhenerii"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "Тканевая инженерия | bioimplantat.ru",
+            "link": "https://bioimplantat.ru/articles/travmatologiya/tkanevaya-inzheneriya/",
+            "displayed_link": "https://bioimplantat.ru › ... › Статьи по травматологии",
+            "snippet": "В настоящее время, тканевая инженерия является одной из наиболее молодых отраслей в медицине, базирующейся на принципах молекулярной биологии и генной инженерии ...",
+            "snippet_highlighted_words": [
+                "тканевая инженерия"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Тканевая инженерия кровеносных сосудов и клапанов ...",
+            "link": "http://www.almazovcentre.ru/?page_id=4505",
+            "displayed_link": "http://www.almazovcentre.ru › ...",
+            "snippet": "Тканевая инженерия, быстро развивающаяся в последнее десятилетие, способна предложить способ создания сосудов, альтернативных использующимся в настоящее время ...",
+            "snippet_highlighted_words": [
+                "Тканевая инженерия"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Для пользы тела. Тканевая инженерия верно служит ...",
+            "link": "https://rscf.ru/news/presidential-program/dlya-polzy-tela-tkanevaya-inzheneriya-verno-sluzhit-meditsine/",
+            "displayed_link": "https://rscf.ru › news › presidential-program › dlya-pol...",
+            "date": "14 сент. 2020 г.",
+            "snippet": "Тканевая инженерия верно служит медицине ... заведующий лабораторией «Полимерные материалы для тканевой инженерии и трансплантологии» ...",
+            "snippet_highlighted_words": [
+                "Тканевая инженерия",
+                "тканевой инженерии"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Тканевая инженерия сердца — все самое интересное на ...",
+            "link": "https://postnauka.ru/video/18192",
+            "displayed_link": "https://postnauka.ru › video",
+            "date": "27 мая 2014 г.",
+            "snippet": "Какова технология тканевой инженерии? Какие направления в этой области активно развивают сегодня? Как происходит выращивание искусственной сердечной ткани?",
+            "snippet_highlighted_words": [
+                "тканевой инженерии"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "FAQ: Тканевая инженерия сердца - ПостНаука",
+                    "link": "https://postnauka.ru/faq/26533",
+                    "displayed_link": "https://postnauka.ru › faq",
+                    "date": "27 мая 2014 г.",
+                    "snippet": "Вообще термин «тканевая», tissue-engineering, возник в последние лет 15, и он отражает факт, что ученые не только стали выделять отдельные ...",
+                    "snippet_highlighted_words": [
+                        "тканевая"
+                    ]
+                }
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Тканевая инженерия зуба - Издательство «Медиа Сфера»",
+            "link": "https://www.mediasphera.ru/issues/stomatologiya/2017/4/1003917352017041072",
+            "displayed_link": "https://www.mediasphera.ru › issues › stomatologiya",
+            "snippet": "Тканевая инженерия зуба: направления развития, достижения и нерешенные проблемы. Стоматология. 2017;96(4):72‑79. Malyshev IYu, Yanushevich OO. Tissue ...",
+            "snippet_highlighted_words": [
+                "Тканевая инженерия"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Тканевая инженерия – будущее медицины - Аккредитация ...",
+            "link": "https://akvobr.ru/tkanevaya_inzheneriya_budushchee_mediciny.html",
+            "displayed_link": "https://akvobr.ru › tkanevaya_inzheneriya_budushchee...",
+            "snippet": "Тканевая инженерия – это будущее медицины, которое наступает уже сейчас. В Лаборатории «Полимерные материалы для тканевой инженерии и трансплантологии» ...",
+            "snippet_highlighted_words": [
+                "Тканевая инженерия",
+                "тканевой инженерии"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "тканевая инженерия в медицине",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F+%D0%B2+%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B5&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "клеточная и тканевая инженерия",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9A%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D0%B8+%D1%82%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "клеточная инженерия",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9A%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "тканевая инженерия костной ткани",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F+%D0%BA%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D1%82%D0%BA%D0%B0%D0%BD%D0%B8&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ1QJ6BAguEAE"
+        },
+        {
+            "query": "tissue engineering",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=Tissue+engineering&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "методы тканевой инженерии",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B+%D1%82%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%BE%D0%B9+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D0%B8&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ1QJ6BAglEAE"
+        },
+        {
+            "query": "перспективы тканевой инженерии",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9F%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B+%D1%82%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%BE%D0%B9+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D0%B8&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "молекулярная медицина",
+            "link": "https://www.google.com/search?hl=ru&gl=ru&q=%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0&sa=X&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ1QJ6BAgiEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&ei=f12uYrHcFY24qtsPhMiMkAE&start=10&sa=N&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ8NMDegQIAhBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&ei=f12uYrHcFY24qtsPhMiMkAE&start=10&sa=N&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ8tMDegQIAhA_",
+            "3": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&ei=f12uYrHcFY24qtsPhMiMkAE&start=20&sa=N&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ8tMDegQIAhBB",
+            "4": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&ei=f12uYrHcFY24qtsPhMiMkAE&start=30&sa=N&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ8tMDegQIAhBD",
+            "5": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&ei=f12uYrHcFY24qtsPhMiMkAE&start=40&sa=N&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ8tMDegQIAhBF",
+            "6": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&ei=f12uYrHcFY24qtsPhMiMkAE&start=50&sa=N&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ8tMDegQIAhBH",
+            "7": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&ei=f12uYrHcFY24qtsPhMiMkAE&start=60&sa=N&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ8tMDegQIAhBJ",
+            "8": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&ei=f12uYrHcFY24qtsPhMiMkAE&start=70&sa=N&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ8tMDegQIAhBL",
+            "9": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&ei=f12uYrHcFY24qtsPhMiMkAE&start=80&sa=N&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ8tMDegQIAhBN",
+            "10": "https://www.google.com/search?q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&hl=ru&gl=ru&ei=f12uYrHcFY24qtsPhMiMkAE&start=90&sa=N&ved=2ahUKEwjxl6LRkbj4AhUNnGoFHQQkAxIQ8tMDegQIAhBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D0%BA%D0%B0%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F&start=90"
+        }
+    }
+}

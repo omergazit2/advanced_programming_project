@@ -1,0 +1,250 @@
+{
+    "search_metadata": {
+        "id": "62ae5d824d443d6cef3dae01",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bde1eeac493216d3/62ae5d824d443d6cef3dae01.json",
+        "created_at": "2022-06-18 23:19:30 UTC",
+        "processed_at": "2022-06-18 23:19:30 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&oq=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/bde1eeac493216d3/62ae5d824d443d6cef3dae01.html",
+        "total_time_taken": 2.71
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "הנדסת רקמות",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "הנדסת רקמות",
+        "total_results": 49300,
+        "time_taken_displayed": 0.37
+    },
+    "knowledge_graph": {
+        "title": "הנדסת רקמות",
+        "header_images": [
+            {
+                "source": "https://www.sheba.co.il/%D7%94%D7%A0%D7%93%D7%A1%D7%AA_%D7%A8%D7%A7%D7%9E%D7%95%D7%AA_%D7%9C%D7%98%D7%99%D7%A4%D7%95%D7%9C_%D7%91%D7%9E%D7%97%D7%9C%D7%AA_%D7%94%D7%A1%D7%95%D7%9B%D7%A8%D7%AA"
+            },
+            {
+                "source": "https://he.weblogographic.com/difference-between-tissue-engineering-and-regenerative-medicine-11447"
+            },
+            {
+                "source": "https://innovationisrael.org.il/magazine/5103"
+            },
+            {
+                "source": "https://innovationisrael.org.il/magazine/5103"
+            }
+        ],
+        "description": "הנדסת רקמות מוגדרת כשילוב טכניקות בין תאים חיים, הנדסה וחומרים על מנת לשפר או להחליף פונקציות ביולוגיות. הנדסת רקמות מאפשרת יצירת רקמת תאים חיה מחוץ לגוף מתרביות תאים, שתאפשר כנראה בעתיד החלפת איברים חולים או פצועים באיברים בריאים ללא צורך בתרומת איברים.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%94%D7%A0%D7%93%D7%A1%D7%AA_%D7%A8%D7%A7%D7%9E%D7%95%D7%AA"
+        },
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "ביומכניקה",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%99%D7%95%D7%9E%D7%9B%D7%A0%D7%99%D7%A7%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSzq7jZqKUPxQZ006_aHkqyUGoKt_FBgGEeMwqQp33gnuqTMqUrlny39bQfqQGuG4WT-rQEZVOsWxJwzTJ-quQGUkyWi3GRFs06zjIYKd2ZvS-3zOUiw4IVgOcnOD8SOsGwfsoS7SsWbLtBOMjDuTHVvH1rqONpROLNMLoNk42CpyoJeW37x_GSoG7IobEW_nNmI2mhogi4Uih8dF0LRFpY3l2d36nrotPhHCPJK5RcLCk5HN7nanCNpK68fS_4Jntz2sas%3D&sa=X&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQxA16BAhIEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%99%D7%95%D7%9E%D7%9B%D7%A0%D7%99%D7%A7%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdSzq7jZqKUPxQZ006_aHkqyUGoKt_FBgGEeMwqQp33gnuqTMqUrlny39bQfqQGuG4WT-rQEZVOsWxJwzTJ-quQGUkyWi3GRFs06zjIYKd2ZvS-3zOUiw4IVgOcnOD8SOsGwfsoS7SsWbLtBOMjDuTHVvH1rqONpROLNMLoNk42CpyoJeW37x_GSoG7IobEW_nNmI2mhogi4Uih8dF0LRFpY3l2d36nrotPhHCPJK5RcLCk5HN7nanCNpK68fS_4Jntz2sas%3D",
+                "image": "https://serpapi.com/searches/62ae5d824d443d6cef3dae01/images/c2209e5cb0feee70f0241ec5b240e1a5ed6c4207b200a54d822f1c80e5b6dfee515b95af0cce00f5c0366a43734bc2e02305487a3280c1b8.jpeg"
+            },
+            {
+                "name": "הנדסה ביו‑רפואית",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%94+%D7%91%D7%99%D7%95-%D7%A8%D7%A4%D7%95%D7%90%D7%99%D7%AA&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeBRGy6Vj_MwbXct4D4WlEDiuoEUAXWKAgAz_2Qmv0KtW1Db6MfaL1c4Vb902-1bcoFiJI47X38bOMijkYdptPT22gnbBl0_2dt6HwM2QxhDdFZnfZjNn8tUmRiue5K3-kLtNYSHFQqXGOtrIlhk7dsAnn1Ti5cRqIBwFAHfCuxN38vfMS3ucYXJvlCdkS7qUMX41ZeWTEml0bisy2ry7EwmmdMbv44cfB6hcz3ll_GRza9WQIpqfQO3hCDTKjM8DH6ico0c6Q2Deg_YhWwJ7aVgBn9A&sa=X&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQxA16BAhIEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%94+%D7%91%D7%99%D7%95-%D7%A8%D7%A4%D7%95%D7%90%D7%99%D7%AA&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdeBRGy6Vj_MwbXct4D4WlEDiuoEUAXWKAgAz_2Qmv0KtW1Db6MfaL1c4Vb902-1bcoFiJI47X38bOMijkYdptPT22gnbBl0_2dt6HwM2QxhDdFZnfZjNn8tUmRiue5K3-kLtNYSHFQqXGOtrIlhk7dsAnn1Ti5cRqIBwFAHfCuxN38vfMS3ucYXJvlCdkS7qUMX41ZeWTEml0bisy2ry7EwmmdMbv44cfB6hcz3ll_GRza9WQIpqfQO3hCDTKjM8DH6ico0c6Q2Deg_YhWwJ7aVgBn9A",
+                "image": "https://serpapi.com/searches/62ae5d824d443d6cef3dae01/images/c2209e5cb0feee70f0241ec5b240e1a5ed6c4207b200a54d822f1c80e5b6dfee515b95af0cce00f525664a56b134f5d10a5806ffda17c9a7.jpeg"
+            },
+            {
+                "name": "הנדסה",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%94&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbso_mqP78_n7TpMSbMflgVLwDFIyz6r1fEkp9l_NrbraMgiaoKJb24QrUkxjbL29NBBvdbUXmELkiuTSUvupKeJsvAOtu-U9GGjX8JXqPE0CrCd-yvBFpf4LkxyDyZpgXW_QlDpc_IrdWH6xwB51hgzjz4aj09guSjdYYivgqBMBPdDSmwZ9hox56yvJaCSS7spg8_5ReIGyGGyjSQ27MB5z3N2dgHJh7QAqrGnLa7GZD4e4dvAcIwyJ6tSDcW0QZXE2i18%3D&sa=X&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQxA16BAhIEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%94&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbso_mqP78_n7TpMSbMflgVLwDFIyz6r1fEkp9l_NrbraMgiaoKJb24QrUkxjbL29NBBvdbUXmELkiuTSUvupKeJsvAOtu-U9GGjX8JXqPE0CrCd-yvBFpf4LkxyDyZpgXW_QlDpc_IrdWH6xwB51hgzjz4aj09guSjdYYivgqBMBPdDSmwZ9hox56yvJaCSS7spg8_5ReIGyGGyjSQ27MB5z3N2dgHJh7QAqrGnLa7GZD4e4dvAcIwyJ6tSDcW0QZXE2i18%3D",
+                "image": "https://serpapi.com/searches/62ae5d824d443d6cef3dae01/images/c2209e5cb0feee70f0241ec5b240e1a5ed6c4207b200a54d822f1c80e5b6dfee515b95af0cce00f5021b85839b783cb14570d6b0a90f3b0b.jpeg"
+            },
+            {
+                "name": "רפואה רגנרטיבית",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A8%D7%A4%D7%95%D7%90%D7%94+%D7%A8%D7%92%D7%A0%D7%A8%D7%98%D7%99%D7%91%D7%99%D7%AA&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbpYNodDILVd9LKDjRqAJJyf-5Pr7Ah9lrhvLECyVX95pz3GzAMyd7D5jIc0bu8I7pgOUJ4Wd_RwLGxI8rWR8QbZEACbLFgxGSG22KqhgW3XBmc4mjQ0NCzQ10clb6HS8dsUOZqDMR3Sr7TdBt6srdG0XFn4n8O9PuAJ01geFoNKwz8_A9cG12UBtN3l0CkE6ynvpi5Jbzvf6HxMUoEP30AUhIiiQ47abIRIv9GaPRsNeRdqb14ULbtWNbhC9FOcvmTqLHy-YOKEy4TA9b8MoGPIXdYAa&sa=X&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQxA16BAhIEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A8%D7%A4%D7%95%D7%90%D7%94+%D7%A8%D7%92%D7%A0%D7%A8%D7%98%D7%99%D7%91%D7%99%D7%AA&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbpYNodDILVd9LKDjRqAJJyf-5Pr7Ah9lrhvLECyVX95pz3GzAMyd7D5jIc0bu8I7pgOUJ4Wd_RwLGxI8rWR8QbZEACbLFgxGSG22KqhgW3XBmc4mjQ0NCzQ10clb6HS8dsUOZqDMR3Sr7TdBt6srdG0XFn4n8O9PuAJ01geFoNKwz8_A9cG12UBtN3l0CkE6ynvpi5Jbzvf6HxMUoEP30AUhIiiQ47abIRIv9GaPRsNeRdqb14ULbtWNbhC9FOcvmTqLHy-YOKEy4TA9b8MoGPIXdYAa",
+                "image": "https://serpapi.com/searches/62ae5d824d443d6cef3dae01/images/c2209e5cb0feee70f0241ec5b240e1a5ed6c4207b200a54d822f1c80e5b6dfee515b95af0cce00f55f6d3118f786c2c6b79a764556a312a4.jpeg"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hWQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GKXp9yfcH1ydcXXl-lcH3F9eXX512fen3VDlZGALDOWOhGAAAA&sa=X&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQMSgAegQISBAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hWQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GKXp9yfcH1ydcXXl-lcH3F9eXX512fen3VDlZGALDOWOhGAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "נינה טנדון: האם הנדסת רקמות משמעה רפואה מותאמת-אישית?",
+            "link": "https://www.ted.com/talks/nina_tandon_could_tissue_engineering_mean_personalized_medicine/transcript?language=he",
+            "thumbnail": "https://serpapi.com/searches/62ae5d824d443d6cef3dae01/images/0eaa1119585a9b49ad6f7e32cb66366b3cb33b4c4764af830c01c9d924f27474.jpeg",
+            "duration": "6:02",
+            "platform": "TED",
+            "date": "6 בדצמ׳ 2012"
+        },
+        {
+            "position": 2,
+            "title": "להיות סטודנטית במעבדה לביו-חומרים, הנדסת רקמות ותאי גזע- שירה ...",
+            "link": "https://www.youtube.com/watch?v=UsJ_X95l95w",
+            "thumbnail": "https://serpapi.com/searches/62ae5d824d443d6cef3dae01/images/0eaa1119585a9b49f55bb50dc33c5998eccf3c95fc82b971ac2f643d1a536249.jpeg",
+            "channel": "Biomedical Engineering Faculty Technion",
+            "duration": "1:57",
+            "platform": "YouTube",
+            "date": "1 באפר׳ 2020"
+        },
+        {
+            "position": 3,
+            "title": "שולמית לבנברג טכניון תגלית חשובה בהנדסת רקמות",
+            "link": "https://www.youtube.com/watch?v=wNRVH5AM63o",
+            "thumbnail": "https://serpapi.com/searches/62ae5d824d443d6cef3dae01/images/0eaa1119585a9b495b3e91a6b16d354f10ada6fcdbc8ab3f78537fc166629710.jpeg",
+            "channel": "Technion",
+            "duration": "2:05",
+            "platform": "YouTube",
+            "date": "5 בפבר׳ 2019"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "הנדסת רקמות - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%94%D7%A0%D7%93%D7%A1%D7%AA_%D7%A8%D7%A7%D7%9E%D7%95%D7%AA",
+            "displayed_link": "https://he.wikipedia.org › wiki › הנדסת_רקמות",
+            "snippet": "הנדסת רקמות מוגדרת כשילוב טכניקות בין תאים חיים, הנדסה וחומרים על מנת לשפר או להחליף פונקציות ביולוגיות. תאי אפיתל בתרבית. הנדסת רקמות מאפשרת יצירת רקמת תאים ...",
+            "snippet_highlighted_words": [
+                "הנדסת רקמות",
+                "הנדסת רקמות",
+                "רקמת"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "הנדסת רקמות | Israel Innovation Authority – רשות החדשנות",
+            "link": "https://innovationisrael.org.il/magazine/5103",
+            "displayed_link": "https://innovationisrael.org.il › magazine",
+            "snippet": "\"אם נתמקד רגע בתחום של הנדסת רקמות, הרעיון הוא ליצור רקמות להשתלה לרגנרציה – כלומר, גידול מחדש. אנחנו שואפים ליצור במעבדה חתיכות רקמה תלת ממדיות שאפשר יהיה ...",
+            "snippet_highlighted_words": [
+                "הנדסת רקמות",
+                "רקמות"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "הנדסת רקמות | מכון דוידסון לחינוך מדעי",
+            "link": "https://davidson.weizmann.ac.il/tags/%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%A8%D7%A7%D7%9E%D7%95%D7%AA",
+            "displayed_link": "https://davidson.weizmann.ac.il › tags › הנדסת-רקמות",
+            "snippet": "הנדסת רקמות · מדע במבט על · לא רק קורונה: סיכום 2021 במדע. משבר האקלים, החיסון למלריה, טלסקופ החלל הענק והקורונה עוד איתנו – אירועי המדע החשובים של השנה · חדשות ...",
+            "snippet_highlighted_words": [
+                "הנדסת רקמות"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "הסטארט־אפ הישראלי שמאפשר התחדשות איברים בתהליך טבעי ...",
+            "link": "https://www.themarker.com/labels/exitvalley/1.10322805",
+            "displayed_link": "https://www.themarker.com › labels › exitvalley",
+            "date": "25 באוק׳ 2021",
+            "snippet": "רקמות פגומות או בלויות מאבדות את יכולתן להתחדש ולהשתקם, ובמקרים רבים ... אפליקציות רבות בשווקי המחקר המדעי, הנדסת הרקמות והאסתטיקה הרפואית.",
+            "snippet_highlighted_words": [
+                "רקמות",
+                "הנדסת הרקמות"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "הנדסת רקמות וביו-חומרים - הפקולטה להנדסה ביו-רפואית בטכניון",
+            "link": "https://bme.technion.ac.il/%D7%9E%D7%97%D7%A7%D7%A8/%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%A8%D7%A7%D7%9E%D7%95%D7%AA-%D7%95%D7%91%D7%99%D7%95-%D7%97%D7%95%D7%9E%D7%A8%D7%99%D7%9D/",
+            "displayed_link": "https://bme.technion.ac.il › מחקר",
+            "snippet": "הנדסת רקמות; התמיינות ושימוש בתאי גזע; ביו-ראולוגיה; מכנו-ביולוגיה, אינטרקצית תא-משטח; ביו-חומרים ושתלים ביוקומפטביליים; Lab-on-Chip למחקר ודיאגנוזה קלינית ...",
+            "snippet_highlighted_words": [
+                "הנדסת רקמות"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "רקמות אנושיות מגוף החולה יהונדסו ויושתלו בו בחזרה - אוניברסיטת ...",
+            "link": "https://www.tau.ac.il/research/human-tissue",
+            "displayed_link": "https://www.tau.ac.il › research › human-tissue",
+            "snippet": "חוקרים מאוניברסיטת תל אביב פיתחו טכנולוגיה להנדסת רקמות גוף להשתלה מפיסת שומן ... כיום, טכנולוגיית הנדסת הרקמות עושה שימוש בחומרים סינתטיים או כאלה שמקורם ...",
+            "snippet_highlighted_words": [
+                "רקמות",
+                "הנדסת הרקמות"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "ארכיון הנדסת רקמות - הידען",
+            "link": "https://www.hayadan.org.il/topic/%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%A8%D7%A7%D7%9E%D7%95%D7%AA",
+            "displayed_link": "https://www.hayadan.org.il › topic › הנדסת-רקמות",
+            "snippet": "אמא, הבטחת לנו עוף משובט: חוקרי המעבדה להנדסת רקמות בתל אביב, בדרך לייצור בשר עוף מלאכותי – אתגר שככל הידוע איש עדיין לא עמד בו.",
+            "snippet_highlighted_words": [
+                "רקמות"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "הנדסת רקמות - המכלול",
+            "link": "https://www.hamichlol.org.il/%D7%94%D7%A0%D7%93%D7%A1%D7%AA_%D7%A8%D7%A7%D7%9E%D7%95%D7%AA",
+            "displayed_link": "https://www.hamichlol.org.il › הנדסת_רקמות",
+            "date": "9 בספט׳ 2019",
+            "snippet": "הנדסת רקמות מאפשרת יצירת רקמת תאים חיה מחוץ לגוף מתרביות תאים, שתאפשר כנראה בעתיד החלפת איברים חולים או פצועים באיברים בריאים ללא צורך ...",
+            "snippet_highlighted_words": [
+                "הנדסת רקמות",
+                "רקמת"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "הנדסת רקמות – מכון המחקר במרכז הרפואי לגליל",
+            "link": "https://www.gmcri.org.il/he/laboratory/tissue-engineering/",
+            "displayed_link": "https://www.gmcri.org.il › דף הבית › מעבדות המכון",
+            "snippet": "המעבדה לחקר העצם והנדסת רקמות עוסקת בהנדסה וריפוי רקמות כמו רקמת עצם ורקמה רכה שנפגעו כתוצאה ממחלות כרוניות, סרטן או פגיעה פיזית, ע\"י השימוש בתאי גזע ממקורות ...",
+            "snippet_highlighted_words": [
+                "והנדסת רקמות",
+                "רקמות",
+                "רקמת"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "Tissue engineering",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=Tissue+engineering&sa=X&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ1QJ6BAgYEAE"
+        },
+        {
+            "query": "הנדסת רקמות מכון ויצמן",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA+%D7%9E%D7%9B%D7%95%D7%9F+%D7%95%D7%99%D7%A6%D7%9E%D7%9F&sa=X&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ1QJ6BAgcEAE"
+        },
+        {
+            "query": "רקמות הגוף",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A8%D7%A7%D7%9E%D7%95%D7%AA+%D7%94%D7%92%D7%95%D7%A3&sa=X&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ1QJ6BAgfEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&gl=il&hl=iw&ei=hF2uYofDAt61qtsPhc6P2AI&start=10&sa=N&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ8NMDegQIAxBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&gl=il&hl=iw&ei=hF2uYofDAt61qtsPhc6P2AI&start=10&sa=N&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ8tMDegQIAxA8",
+            "3": "https://www.google.com/search?q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&gl=il&hl=iw&ei=hF2uYofDAt61qtsPhc6P2AI&start=20&sa=N&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ8tMDegQIAxA-",
+            "4": "https://www.google.com/search?q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&gl=il&hl=iw&ei=hF2uYofDAt61qtsPhc6P2AI&start=30&sa=N&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ8tMDegQIAxBA",
+            "5": "https://www.google.com/search?q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&gl=il&hl=iw&ei=hF2uYofDAt61qtsPhc6P2AI&start=40&sa=N&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ8tMDegQIAxBC",
+            "6": "https://www.google.com/search?q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&gl=il&hl=iw&ei=hF2uYofDAt61qtsPhc6P2AI&start=50&sa=N&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ8tMDegQIAxBE",
+            "7": "https://www.google.com/search?q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&gl=il&hl=iw&ei=hF2uYofDAt61qtsPhc6P2AI&start=60&sa=N&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ8tMDegQIAxBG",
+            "8": "https://www.google.com/search?q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&gl=il&hl=iw&ei=hF2uYofDAt61qtsPhc6P2AI&start=70&sa=N&ved=2ahUKEwiHlcDTkbj4AhXemmoFHQXnAysQ8tMDegQIAxBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A0%D7%93%D7%A1%D7%AA+%D7%A8%D7%A7%D7%9E%D7%95%D7%AA&start=70"
+        }
+    }
+}

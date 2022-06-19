@@ -71,10 +71,6 @@ termId,searchTerm,language,country,resultNum,resultTime
 47,беспилотный автомобиль,ru,ru,543000,1.06
 47,מכונית אוטונומית,iw,il,85700,0.81
 47,سيارة ذاتية القيادة,ar,eg,1270000,0.75
-48,protein folding,en,us,75900000,1.11
-48,сворачивание белка,ru,ru,25100,2.81
-48,קיפול חלבונים,iw,il,19900,3.69
-48,تطوي البروتين,ar,eg,118000,1.38
 49,black hole,en,us,2220000000,3.99
 49,черная дыра,ru,ru,3570000,1.21
 49,חור שחור,iw,il,1820000,2.49
@@ -83,75 +79,59 @@ termId,searchTerm,language,country,resultNum,resultTime
 52,Мутация,ru,ru,3410000,2.38
 52,מוטציות,iw,il,184000,1.41
 52,طفرة,ar,eg,4900000,2.5
-53,Malnutrición,es,AR,5330000,2.67
-53,Malnutrición,es,ES,5410000,8.68
-53,Malnutrition,en,NG,128000000,2.54
 53,Malnutrition,en,US,227000000,0.7
-53,Malnutrition,fr,FR,183000000,1.17
 53,недостаточное питание,ru,RU,1750000,1.02
 53,תת תזונה,iw,IL,345000,1.14
 53,سوء التغذية,ar,EG,5430000,0.68
-56,Caloría,es,AR,1490000,1.96
-56,Caloría,es,ES,1560000,7.13
-56,Calorie,en,NG,NA,1.19
 56,Calorie,en,US,3390000000,8.78
-56,Calorie,fr,FR,2470000000,2.97
 56,Калория,ru,RU,1090000,8.87
 56,קלוריה,iw,IL,46300,1.04
 56,سعرة حرارية,ar,EG,4150000,0.62
-58,Energía renovable,es,AR,19400000,0.78
-58,Energía renovable,es,ES,27300000,2.1
-58,Énergie renouvelable,fr,FR,37100000,0.86
-58,Renewable Energy,en,NG,308000000,1.43
 58,Renewable Energy,en,US,3360000000,0.88
 58,Возобновляемая энергия,ru,RU,327000,8.69
 58,אנרגיה מתחדשת,iw,IL,341000,4.18
 58,طاقة متجددة,ar,EG,777000,0.63
-59,Calentamiento global,es,AR,25300000,0.98
-59,Calentamiento global,es,ES,27500000,2.99
-59,Changement climatique,fr,FR,68700000,0.81
-59,Climate change,en,NG,4230000000,1.65
 59,Climate change,en,US,2360000000,6.83
 59,Глобальное потепление,ru,RU,3960000,1.28
 59,שינוי אקלים,iw,IL,480000,6.33
 59,الاحتباس الحراري,ar,EG,1530000,1.43
-65,Contaminación del suelo,es,AR,40200000,0.81
-65,Contaminación del suelo,es,ES,67900000,12.7
-65,Pollution du sol,fr,FR,70000000,3.49
-65,Soil contamination,en,NG,2160000000,8.75
 65,Soil contamination,en,US,2380000000,0.65
 65,Загрязнение почвы,ru,RU,3970000,1.25
 65,זיהום קרקע,iw,IL,697000,13.27
 65,تلوث التربة,ar,EG,1390000,1.19
-66,Gas de efecto invernadero,es,AR,7930000,4.73
-66,Gas de efecto invernadero,es,ES,7330000,1.07
-66,Gaz à effet de serre,fr,FR,22500000,0.61
-66,Greenhouse gas,en,NG,NA,2.51
-66,Greenhouse gas,en,US,NA,2.3
+66,Greenhouse gas,en,US,223000000,2.3
 66,Парниковые газы,ru,RU,276000,2.21
 66,גז חממה,iw,IL,111000,0.64
 66,غازات دفيئة,ar,EG,22500,2.85
-68,Infección,es,AR,1600000000,0.73
-68,Infección,es,ES,1650000000,5.24
-68,Infection,en,NG,4570000000,1.36
 68,Infection,en,US,4560000000,3.58
-68,Infection,fr,FR,5030000000,2.23
 68,Инфекция,ru,RU,21100000,2.3
 68,זיהום רפואה,iw,IL,756000,2.3
 68,عدوى,ar,EG,10200000,3.05
-70,Flood,en,NG,6070000000,4.76
 70,Flood,en,US,6080000000,0.84
-70,Inondation,fr,FR,17200000,0.74
-70,Inundación,es,AR,15900000,12.86
-70,Inundación,es,ES,16700000,5.15
 70,Наводнение,ru,RU,4300000,0.66
 70,שיטפון,iw,IL,334000,0.92
 70,الفيضان,ar,EG,1140000,14.98
-71,Drought,en,NG,2080000000,0.71
 71,Drought,en,US,2250000000,1.04
-71,Sécheresse,fr,FR,118000000,1.64
-71,Sequía,es,AR,31700000,1.87
-71,Sequía,es,ES,32600000,3.86
 71,Засуха,ru,RU,3140000,1.01
 71,בצורת,iw,IL,6940000,0.71
 71,جفاف,ar,EG,17700000,3.62
+72,Covid ,en,us,13170000000,1.47
+72,кови́д,ru,ru,132000000,2
+72,קורונה,iw,il,22700000,1.28
+72,كورونا,ar,eg,227000000,1.43
+73,Cultured meat,en,us,34700000,0.99
+73,Искусственное мясо,ru,ru,681000,3.77
+73,בשר מתורבת,iw,il,19300,2.28
+73,لحم مصنع,ar,eg,8530000,4.28
+74,Tissue engineering,en,us,220000000,1.02
+74,Тканевая инженерия,ru,ru,57800,2.58
+74,הנדסת רקמות,iw,il,49300,2.71
+74,هندسة الأنسجة,ar,eg,638000,1.24
+75,Protein folding,en,us,84000000,0.85
+75,Фолдинг белка,ru,ru,19300,2.85
+75,קיפול חלבונים,iw,il,19500,1.42
+75,تطوي البروتين,ar,eg,120000,0.66
+76,Immunotherapy,en,us,145000000,2
+76,Иммунотерапия,ru,ru,782000,1.12
+76,אימונותרפיה,iw,il,38100,0.85
+76,علاج مناعي,ar,eg,4140000,2.44

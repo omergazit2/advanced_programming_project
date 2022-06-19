@@ -1,0 +1,298 @@
+{
+    "search_metadata": {
+        "id": "62ae5d5f37b24ade14f25338",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d13c25a0fd4d74e6/62ae5d5f37b24ade14f25338.json",
+        "created_at": "2022-06-18 23:18:55 UTC",
+        "processed_at": "2022-06-18 23:18:55 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&oq=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d13c25a0fd4d74e6/62ae5d5f37b24ade14f25338.html",
+        "total_time_taken": 2.0
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "кови́д",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "кови́д",
+        "total_results": 132000000,
+        "time_taken_displayed": 0.66
+    },
+    "knowledge_graph": {
+        "title": "Коронавирусная инфекция (COVID-19)",
+        "cite_name": "Оперативные данные | Коронавирус COVID–19",
+        "cite_link": "https://xn--80aesfpebagmfblc0a.xn--p1ai/information/",
+        "Также_ищут": [
+            {
+                "name": "Вспышка тяжёлого острого респираторного синдрома",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%92%D1%81%D0%BF%D1%8B%D1%88%D0%BA%D0%B0+%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D0%BE%D0%B3%D0%BE+%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE+%D1%80%D0%B5%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE+%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC%D0%B0&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHs_4PcPAAd94zF6PPoP9kCXEmZdAeJovKM82Lnk1ugiC3uulyzC1jq1hcq3qVy4G0kAt-St_rxaSuhAUZ7WKEiKU1-WMG1Z_sfW79VOkbFsh-L5eRLb7_xiLn2bTRMIzLo6Q1CotUKg2sASolUJkOM_dPKrDpgUbzTDfT4M3j-pOYzORGrYa6GPXOfoXFF3eaPc_t1nDEP10YOF04czX_v1Gy73D4yT29ZSNglYSm_Uv1sPXSVfiPFR19s-CSEDKmgucxLLpQHj52_DSyyHQGOIVh4AW&sa=X&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQgOQBegQIQhAE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%92%D1%81%D0%BF%D1%8B%D1%88%D0%BA%D0%B0+%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D0%BE%D0%B3%D0%BE+%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE+%D1%80%D0%B5%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE+%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC%D0%B0&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHs_4PcPAAd94zF6PPoP9kCXEmZdAeJovKM82Lnk1ugiC3uulyzC1jq1hcq3qVy4G0kAt-St_rxaSuhAUZ7WKEiKU1-WMG1Z_sfW79VOkbFsh-L5eRLb7_xiLn2bTRMIzLo6Q1CotUKg2sASolUJkOM_dPKrDpgUbzTDfT4M3j-pOYzORGrYa6GPXOfoXFF3eaPc_t1nDEP10YOF04czX_v1Gy73D4yT29ZSNglYSm_Uv1sPXSVfiPFR19s-CSEDKmgucxLLpQHj52_DSyyHQGOIVh4AW",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX28Chu5sWNSaUTnEKFDgzX0vFKDRSpA_GvGT6irB25Q&s=10"
+            },
+            {
+                "name": "2012 Middle East respiratory syndrome coronavirus outbreak",
+                "extensions": [
+                    "с 2012 г."
+                ],
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=2012+middle+east+respiratory+syndrome+coronavirus+outbreak&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbmL7V73RSLsstJDa_4iAgqauYE5vomgA4biZwAoGy_pzzlxcrxpsKRpAXKe1SkYEDO6-skNyGtb4JFwgM85Yx2PNrMStvlAs-YiX8Xh5bhee2D2AqDfvKwIaZeV9dJK5oWcEh7Q_3uaGAp5kfXdXzvovQ--04JDKIaavX0TBUFjI8b5Wodh5qZzEqygyxkb_MxGy1ZUhUbzZ3i4LA4cBeguRwYkUY6xUt8RfcnRfjjrahw5PdA%3D%3D&sa=X&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQgOQBegQIQhAG",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=2012+middle+east+respiratory+syndrome+coronavirus+outbreak&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbmL7V73RSLsstJDa_4iAgqauYE5vomgA4biZwAoGy_pzzlxcrxpsKRpAXKe1SkYEDO6-skNyGtb4JFwgM85Yx2PNrMStvlAs-YiX8Xh5bhee2D2AqDfvKwIaZeV9dJK5oWcEh7Q_3uaGAp5kfXdXzvovQ--04JDKIaavX0TBUFjI8b5Wodh5qZzEqygyxkb_MxGy1ZUhUbzZ3i4LA4cBeguRwYkUY6xUt8RfcnRfjjrahw5PdA%3D%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRURDvs5f9SUS6iRRwXLZwCnUmGUbGaifgjaoGGbfg&s=0"
+            },
+            {
+                "name": "Эпидемиология ВИЧ-инфекции",
+                "extensions": [
+                    "с 1981 г."
+                ],
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%AD%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F+%D0%92%D0%98%D0%A7-%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%B8&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgB1kyrk-MToTfu0McTdfmi7fivsJodTLULjbwh6IfTX4mvuk0TA0QRK2xAQ2Fal9vwTrLbcYgPVu_pzVSfVW8AxNTHeiLJJR0tMhtS2-_xnj1a7ifhiRU7AYPVxTGbPP_nw8eEahmSTP9uRwv9V2XeHTbsy_drVZNQ1CqTxavx6-PzIkXcJQ8VPV9OnN3UC8V1G7Xup88T88TzrSvRVQ4VKmztEP&sa=X&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQgOQBegQIQhAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F+%D0%92%D0%98%D0%A7-%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%B8&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgB1kyrk-MToTfu0McTdfmi7fivsJodTLULjbwh6IfTX4mvuk0TA0QRK2xAQ2Fal9vwTrLbcYgPVu_pzVSfVW8AxNTHeiLJJR0tMhtS2-_xnj1a7ifhiRU7AYPVxTGbPP_nw8eEahmSTP9uRwv9V2XeHTbsy_drVZNQ1CqTxavx6-PzIkXcJQ8VPV9OnN3UC8V1G7Xup88T88TzrSvRVQ4VKmztEP",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThTJ15sf1xFah_5WqaAstWjO5W_KRDFkQjmThohr_yQA7KMnNEmomJCkxwDwg&s=10"
+            },
+            {
+                "name": "Испанский грипп",
+                "extensions": [
+                    "1918 г. – 1920 г."
+                ],
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%B3%D1%80%D0%B8%D0%BF%D0%BF&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBUEj5LbxcO-aQRv-khQxwrDJHkpgrGSyLyZTwEgW-L4_YhYiGeuDNsXMeePTY6ps_BiIzaQkdrOYsZ3U5DFVQTaKPt9DEn45kKEEvwpAoxenxkIpznlthUxcv9eCtKVFC9PRtSztsVP5JNCkvBN-cu3HIa7Q1uILKS96qO57l5O5ayh3SfDxAXkxee-8O7oB6uIexQ%3D&sa=X&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQgOQBegQIQhAK",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%B3%D1%80%D0%B8%D0%BF%D0%BF&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBUEj5LbxcO-aQRv-khQxwrDJHkpgrGSyLyZTwEgW-L4_YhYiGeuDNsXMeePTY6ps_BiIzaQkdrOYsZ3U5DFVQTaKPt9DEn45kKEEvwpAoxenxkIpznlthUxcv9eCtKVFC9PRtSztsVP5JNCkvBN-cu3HIa7Q1uILKS96qO57l5O5ayh3SfDxAXkxee-8O7oB6uIexQ%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4WCBmoAPA7uOTf7yqGRotZblXWaplXkoHhpiBZRo06RFcpXHizGrRSwKPw&s=10"
+            },
+            {
+                "name": "Эпидемия лихорадки Эбола в Западной Африке",
+                "extensions": [
+                    "2013 г. – 2016 г."
+                ],
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%AD%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F+%D0%BB%D0%B8%D1%85%D0%BE%D1%80%D0%B0%D0%B4%D0%BA%D0%B8+%D0%AD%D0%B1%D0%BE%D0%BB%D0%B0+%D0%B2+%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B9+%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B5&si=AC1wQDC0KliLIoeyh35S2UVSh9d07Pwsb5VutY-ECqLPWJZJUEw4cogZ2wjtxa2CReVQcpFuuKEUgynqEcqkNbzIQo-q773cCmdmiumwkITcm2FFfZ6dkd5GG9xLBon5BAA9uTX-rFkAhHGmWWeJFjWgsTMauFonRGO7NuRXaJhexdK6d2RQf_d1NNcPlOFUdgIUaC7QwL3aM5w0iTK8r57I41QNejY4aXzoqBNdtsF-mDDSwA4WhdkwnNr-HiwYvvAZULYuIoNxsvoAmZIbuT63_sgt0HhNPaF7bw0iITiKgK_yVDrP9Zc%3D&sa=X&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQgOQBegQIQhAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%AD%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F+%D0%BB%D0%B8%D1%85%D0%BE%D1%80%D0%B0%D0%B4%D0%BA%D0%B8+%D0%AD%D0%B1%D0%BE%D0%BB%D0%B0+%D0%B2+%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B9+%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B5&si=AC1wQDC0KliLIoeyh35S2UVSh9d07Pwsb5VutY-ECqLPWJZJUEw4cogZ2wjtxa2CReVQcpFuuKEUgynqEcqkNbzIQo-q773cCmdmiumwkITcm2FFfZ6dkd5GG9xLBon5BAA9uTX-rFkAhHGmWWeJFjWgsTMauFonRGO7NuRXaJhexdK6d2RQf_d1NNcPlOFUdgIUaC7QwL3aM5w0iTK8r57I41QNejY4aXzoqBNdtsF-mDDSwA4WhdkwnNr-HiwYvvAZULYuIoNxsvoAmZIbuT63_sgt0HhNPaF7bw0iITiKgK_yVDrP9Zc%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgclgltezekaFuBEuS8VDjrDYiQTuTWVMikkYwBmEiQX9WXa9jpdDy1gw5Fg&s=10"
+            },
+            {
+                "name": "Пандемия гриппа H1N1",
+                "extensions": [
+                    "2009 г. – 2010 г."
+                ],
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9F%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F+%D0%B3%D1%80%D0%B8%D0%BF%D0%BF%D0%B0+H1N1+%D0%B2+2009+%D0%B3%D0%BE%D0%B4%D1%83&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcblH0VRHBEsgw33KE1d1nssbdQMs0AuCTzzR8toXzqJCcRyAjqiQ_cHEXtDRO8A-fKsGQdxnNH5LFebLhLoJQx-G0ksikZFR0wJrkP4xNordYiB9CTcp7Dg4umz2zSUXu0OvQ4wC7__kvJj3iRvaFZea_k7JLwrKUF2a2dWLUNi_Hny-7IE5LzZhbax4n_X9Gp4o8edKoqrMxGnB5lBWh3yL6NRxv&sa=X&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQgOQBegQIQhAO",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9F%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F+%D0%B3%D1%80%D0%B8%D0%BF%D0%BF%D0%B0+H1N1+%D0%B2+2009+%D0%B3%D0%BE%D0%B4%D1%83&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcblH0VRHBEsgw33KE1d1nssbdQMs0AuCTzzR8toXzqJCcRyAjqiQ_cHEXtDRO8A-fKsGQdxnNH5LFebLhLoJQx-G0ksikZFR0wJrkP4xNordYiB9CTcp7Dg4umz2zSUXu0OvQ4wC7__kvJj3iRvaFZea_k7JLwrKUF2a2dWLUNi_Hny-7IE5LzZhbax4n_X9Gp4o8edKoqrMxGnB5lBWh3yL6NRxv",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEArLKv5O_qRRICGz-lnGW8LeLYsC3Js08wWVFB4TeeIO04Ymilm-mc4gPQ&s=10"
+            }
+        ]
+    },
+    "top_stories": [
+        {
+            "title": "Все меньше: за сутки ковид выявили у 69 саратовцев",
+            "link": "https://www.vzsar.ru/news/2022/06/18/vse-menshe-za-sytki-kovid-vyyavili-y-69-saratovcev.html",
+            "source": "Взгляд-инфо",
+            "date": "17 часов назад",
+            "thumbnail": "https://serpapi.com/searches/62ae5d5f37b24ade14f25338/images/8e59178da37cda2a35fe2674e2b7643c32538fb207ae69b8.jpeg"
+        },
+        {
+            "title": "В саратовских ковид-госпиталях сокращают количество коек - ИА REGNUM",
+            "link": "https://regnum.ru/news/3620664.html",
+            "source": "ИА Regnum",
+            "date": "2 дня назад",
+            "thumbnail": "https://serpapi.com/searches/62ae5d5f37b24ade14f25338/images/8e59178da37cda2a2b2d0e400f8300970a2b5dd84866dfe7.jpeg"
+        },
+        {
+            "title": "Если я сейчас подхватил ковид, всё еще нужно сидеть дома? А тесты вообще делают? 10 вопросов о болезни ...",
+            "link": "https://59.ru/text/health/2022/06/18/71401097/",
+            "source": "59.RU",
+            "date": "19 часов назад",
+            "thumbnail": "https://serpapi.com/searches/62ae5d5f37b24ade14f25338/images/8e59178da37cda2a411200cdd6c4a61df13358c211831f21.jpeg"
+        },
+        {
+            "title": "Минздрав и Госдума обсуждают вопрос включения COVID-вакцинации в нацкалендарь прививок",
+            "link": "https://www.interfax.ru/forumspb/846523",
+            "source": "Интерфакс",
+            "date": "2 дня назад",
+            "thumbnail": "https://serpapi.com/searches/62ae5d5f37b24ade14f25338/images/8e59178da37cda2a0bf7549d82f242efd95ed9fc4bb366ed.png"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQt8YBegQIGxAC",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&tbm=nws",
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Коронавирус COVID–19: Официальная информация о ...",
+            "link": "https://xn--80aesfpebagmfblc0a.xn--p1ai/",
+            "displayed_link": "https://стопкоронавирус.рф",
+            "snippet": "На нашем сайте можно узнать подробную информацию про Коронавирус COVID–19: симптомы Коронавируса, меры профилактики, как пройти анализы на Коронавирус и ...",
+            "snippet_highlighted_words": [
+                "COVID"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Подробные данные",
+                        "link": "https://xn--80aesfpebagmfblc0a.xn--p1ai/information/"
+                    },
+                    {
+                        "title": "Новости",
+                        "link": "https://xn--80aesfpebagmfblc0a.xn--p1ai/news/"
+                    },
+                    {
+                        "title": "Телефоны горячих линий",
+                        "link": "https://xn--80aesfpebagmfblc0a.xn--p1ai/info/hotline/"
+                    },
+                    {
+                        "title": "Все о коронавирусе",
+                        "link": "https://xn--80aesfpebagmfblc0a.xn--p1ai/about-covid/"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Оперативные данные | Коронавирус COVID–19",
+            "link": "https://xn--80aesfpebagmfblc0a.xn--p1ai/information/",
+            "displayed_link": "https://стопкоронавирус.рф › information",
+            "snippet": "Вакцинация от COVID-19. По состоянию на 17 июня · Оперативные данные Ежедневная сводка федерального штаба по заболеваемости, выписке и смертности за предыдущие ...",
+            "snippet_highlighted_words": [
+                "COVID"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "COVID-19 - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/COVID-19",
+            "displayed_link": "https://ru.wikipedia.org › wiki › COVID-19",
+            "snippet": "Представляет собой опасное заболевание, которое может протекать как в форме острой респираторной вирусной инфекции лёгкого течения, так и в тяжёлой форме. К ...",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Пандемия COVID-19",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_COVID-19"
+                    },
+                    {
+                        "title": "Постковидный синдром",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BA%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC"
+                    },
+                    {
+                        "title": "Панголины",
+                        "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%BD%D1%8B"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "мкб_км_u": 10,
+                        "мкб_ra": 11,
+                        "мкб_u_и_u": 10
+                    },
+                    "extensions": [
+                        "МКБ-10-КМ: U07.1",
+                        "МКБ-11: RA01.0",
+                        "МКБ-10: U07.1 и U07.2",
+                        "Синонимы: Коронавирусная инфекция COVI..."
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "Основные сведения о COVID-19 - WHO | World Health ...",
+            "link": "https://www.who.int/ru/news-room/questions-and-answers/item/coronaviruse-disease-covid-19",
+            "displayed_link": "https://www.who.int › ... › Вопросы и ответы",
+            "snippet": "В каких случаях необходимо пройти тестирование на COVID‑19? ... Какой тест необходимо выполнить для подтверждения или исключения COVID-19?",
+            "snippet_highlighted_words": [
+                "COVID",
+                "COVID"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "О коронавирусной инфекции - Роспотребнадзор",
+            "link": "https://rospotrebnadzor.ru/about/info/news_time/news_details.php?ELEMENT_ID=13566",
+            "displayed_link": "https://rospotrebnadzor.ru › news_time › news_details",
+            "snippet": "КАК СНИЗИТЬ РИСКИ ЗАБОЛЕВАНИЯ COVID-19, ЕСЛИ ВАМ БОЛЕЕ 60 ЛЕТ · МЕРЫ ПРОФИЛАКТИКИ ВИРУСНЫХ ИНФЕКЦИЙ · В РОССИИ ОДИН ИЗ САМЫХ НИЗКИХ ПОКАЗАТЕЛЕЙ ...",
+            "snippet_highlighted_words": [
+                "COVID"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Коронавирус COVID-19 - последние новости сегодня",
+            "link": "https://ria.ru/category_-koronavirus-covid-19/",
+            "displayed_link": "https://ria.ru › category_-koronavirus-covid-19",
+            "snippet": "Коронавирус COVID-19. Читайте последние новости на тему в ленте новостей на сайте РИА Новости. Более 1,2 тысячи человек с коронавирусом госпитализированы в ...",
+            "snippet_highlighted_words": [
+                "COVID"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "403",
+            "link": "https://covid19.rosminzdrav.ru/",
+            "displayed_link": "https://covid19.rosminzdrav.ru",
+            "snippet": "Проводятся технические работы. Если ошибка повторяется в течение 15 минут - обратитесь в техническую поддержку: support-frc@rosminzdrav.ru."
+        },
+        {
+            "position": 8,
+            "title": "Коронавирус — официальный портал ООН - the United ...",
+            "link": "https://www.un.org/ru/coronavirus",
+            "displayed_link": "https://www.un.org › coronavirus",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1tynhyi7NnmAp2ijYfjB6bvP5LQW5ImnF5MMbc_5Yt_hxA4dDbUnz&usqp=CAE&s",
+            "snippet": "Наш мир преодолел трагический рубеж: пандемия COVID-19 унесла уже два миллиона жизней. За этим поистине ошеломляющим числом стоят имена и лица: улыбка, ставшая ...",
+            "snippet_highlighted_words": [
+                "COVID"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "Симптомы коронавируса COVID-19 по дням у взрослых ...",
+            "link": "https://www.invitro.ru/library/bolezni/koronavirus/26273/",
+            "displayed_link": "https://www.invitro.ru › ... › Коронавирус COVID-19",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-oGNqI5SNVJqV3VrwEBeCWzPL2eaiP7cqFD6oiR1nqe0KZ_oLhIp3&usqp=CAE&s",
+            "snippet": "Первые симптомы коронавируса COVID-19. Отличие коронавируса COVID-19 от ОРВИ и гриппа. Отличаются ли симптомы у детей и у взрослых?",
+            "snippet_highlighted_words": [
+                "COVID",
+                "COVID"
+            ]
+        },
+        {
+            "position": 10,
+            "title": "Коронавирус: официальная информация - mos.ru",
+            "link": "https://www.mos.ru/city/projects/covid-19/",
+            "displayed_link": "https://www.mos.ru › city › projects › covid-19",
+            "snippet": "Ежедневная статистика по выздоровлению от COVID-19 — в начале страницы. Новости. 24 мая. Сергей Собянин объявил амнистию по ковидным штрафам.",
+            "snippet_highlighted_words": [
+                "COVID"
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&gl=ru&hl=ru&ei=X12uYo-JOIbFqtsP0PiviAg&start=10&sa=N&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQ8NMDegQIAhBS",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&gl=ru&hl=ru&ei=X12uYo-JOIbFqtsP0PiviAg&start=10&sa=N&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQ8tMDegQIAhBA",
+            "3": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&gl=ru&hl=ru&ei=X12uYo-JOIbFqtsP0PiviAg&start=20&sa=N&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQ8tMDegQIAhBC",
+            "4": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&gl=ru&hl=ru&ei=X12uYo-JOIbFqtsP0PiviAg&start=30&sa=N&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQ8tMDegQIAhBE",
+            "5": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&gl=ru&hl=ru&ei=X12uYo-JOIbFqtsP0PiviAg&start=40&sa=N&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQ8tMDegQIAhBG",
+            "6": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&gl=ru&hl=ru&ei=X12uYo-JOIbFqtsP0PiviAg&start=50&sa=N&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQ8tMDegQIAhBI",
+            "7": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&gl=ru&hl=ru&ei=X12uYo-JOIbFqtsP0PiviAg&start=60&sa=N&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQ8tMDegQIAhBK",
+            "8": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&gl=ru&hl=ru&ei=X12uYo-JOIbFqtsP0PiviAg&start=70&sa=N&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQ8tMDegQIAhBM",
+            "9": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&gl=ru&hl=ru&ei=X12uYo-JOIbFqtsP0PiviAg&start=80&sa=N&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQ8tMDegQIAhBO",
+            "10": "https://www.google.com/search?q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&gl=ru&hl=ru&ei=X12uYo-JOIbFqtsP0PiviAg&start=90&sa=N&ved=2ahUKEwjPtKPCkbj4AhWGomoFHVD8C4EQ8tMDegQIAhBQ"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%BA%D0%BE%D0%B2%D0%B8%CC%81%D0%B4&start=90"
+        }
+    }
+}

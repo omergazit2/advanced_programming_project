@@ -1,0 +1,541 @@
+{
+    "search_metadata": {
+        "id": "62ae5d6c0f98660c8c4b3185",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7e1f7caa804014d5/62ae5d6c0f98660c8c4b3185.json",
+        "created_at": "2022-06-18 23:19:08 UTC",
+        "processed_at": "2022-06-18 23:19:08 UTC",
+        "google_url": "https://www.google.com/search?q=Cultured+meat&oq=Cultured+meat&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7e1f7caa804014d5/62ae5d6c0f98660c8c4b3185.html",
+        "total_time_taken": 0.99
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Cultured meat",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Cultured meat",
+        "total_results": 34700000,
+        "time_taken_displayed": 0.49
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "The Truth About Lab-Grown Meat",
+            "link": "https://www.youtube.com/watch?v=DmanbWwMa5w",
+            "thumbnail": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/9b4ecc22ece951c0612837e0b7256900e840b15d1ed6c44d8dc5bd305952d1f9.jpeg",
+            "channel": "Real Science",
+            "duration": "17:30",
+            "platform": "YouTube",
+            "date": "Nov 27, 2021"
+        },
+        {
+            "position": 2,
+            "title": "How Lab-grown meat is made",
+            "link": "https://www.youtube.com/watch?v=29GFYxI4tek",
+            "thumbnail": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/9b4ecc22ece951c0c7e908b8d328f30b693532ae55e5c0d710204710a43e1a2a.jpeg",
+            "channel": "Interesting Engineering",
+            "duration": "5:42",
+            "platform": "YouTube",
+            "date": "Nov 27, 2020"
+        },
+        {
+            "position": 3,
+            "title": "Is cell-cultured meat ready for the mainstream?",
+            "link": "https://www.youtube.com/watch?v=VYXw_-vJFBA",
+            "thumbnail": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/9b4ecc22ece951c04ccc3d5fe45d217e3dac751ad31604fac7bf15f4a898569b.jpeg",
+            "channel": "Quartz",
+            "duration": "8:00",
+            "platform": "YouTube",
+            "date": "Nov 1, 2019"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "Cultured meat stocks",
+            "items": [
+                {
+                    "name": "Beyond Meat",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iaLDvP5gLccnoDkhZa_ryLJZUYGBny71SpP5&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Beyond+Meat&stick=H4sIAAAAAAAAAOOQUeLWz9U3MDQsyykuKTASSS7NKSktSk1RyE1NLFEoLslPzi6O4nVGFj3FiKzlFCOvfrq-oWFWgaF5QUluCoyfbFZkUWxhlHWKkROk2sQ0PsPgFCMXiJ1cYF5savyLUcQZi2UNLIyLWLmdUivz81IUfIHit9gkGUw_tjKx_Pw1c_FKNaEp01TOmtZPEOBrbF4AAGNk4q2_AAAA&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQs9oBKAB6BAgxEAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Beyond+Meat&stick=H4sIAAAAAAAAAOOQUeLWz9U3MDQsyykuKTASSS7NKSktSk1RyE1NLFEoLslPzi6O4nVGFj3FiKzlFCOvfrq-oWFWgaF5QUluCoyfbFZkUWxhlHWKkROk2sQ0PsPgFCMXiJ1cYF5savyLUcQZi2UNLIyLWLmdUivz81IUfIHit9gkGUw_tjKx_Pw1c_FKNaEp01TOmtZPEOBrbF4AAGNk4q2_AAAA"
+                },
+                {
+                    "name": "MEATECH 3D",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6ygxmNxIcdrtwUBOfK0_ni6-sQhgwpwGH97H&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=MEATECH+3D&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwqMDQvKMlNMRJJLs0pKS1KTVHITU0sUSguyU_OLo7idUYWPcXIrZ-rb2BoWJZTXFJwihHVCBg_2azIotjCKOsUIydItYlpfIbBKUYuEDu5wLzY1PgXo4gzFssaWBgXsXL5ujqGuDp7KBi73GKTZDD92MrE8vPXzMUr1YSmTFM5a1o_QYCvsXkBALYs3WHAAAAA&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQs9oBKAF6BAgxEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=MEATECH+3D&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwqMDQvKMlNMRJJLs0pKS1KTVHITU0sUSguyU_OLo7idUYWPcXIrZ-rb2BoWJZTXFJwihHVCBg_2azIotjCKOsUIydItYlpfIbBKUYuEDu5wLzY1PgXo4gzFssaWBgXsXL5ujqGuDp7KBi73GKTZDD92MrE8vPXzMUr1YSmTFM5a1o_QYCvsXkBALYs3WHAAAAA"
+                },
+                {
+                    "name": "Agronomics",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPSpckr7GOw8uqWT7xIiKpJwziZStHfjkbWAm&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Agronomics&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2K7IotjDKMhJJLs0pKS1KTVHITU0sUSguyU_OLo7idUYWPcXIrZ-rb2BoWJZTXFJwihFiRFaBoXlBSW4KjA8z8hQjJ0i1iWl8hsEpRi4QO7nAvNjU-BejiDMWyxpYGBexcjmmF-Xn5edmJhffYpNkMP3YysTy89fMxSvVhKZMUzlrWj9BgK-xeQEAEH64osAAAAA&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQs9oBKAJ6BAgxEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Agronomics&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2K7IotjDKMhJJLs0pKS1KTVHITU0sUSguyU_OLo7idUYWPcXIrZ-rb2BoWJZTXFJwihFiRFaBoXlBSW4KjA8z8hQjJ0i1iWl8hsEpRi4QO7nAvNjU-BejiDMWyxpYGBexcjmmF-Xn5edmJhffYpNkMP3YysTy89fMxSvVhKZMUzlrWj9BgK-xeQEAEH64osAAAAA"
+                },
+                {
+                    "name": "Tyson Foods",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-H-d_zhWh-TVGAnoMcYCBOfx-yYT0IJlYGvWz&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Tyson+Foods&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDGNzzAwEkkuzSkpLUpNUchNTSxRKC7JT84ujuJ1RhY9xcgN0mBoWJZTXFJwipFXP13f0DCrwNC8oCQ3BcZPNiuyKLYwyjrFiDD-FCMXiJ1cYF5savyLUcQZi2UNLIyLWLlDKovz8xTc8vNTim-xSTKYfmxlYvn5a-bilWpCU6apnDWtnyDA19i8AAD88RQcvQAAAA&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQs9oBKAN6BAgxEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tyson+Foods&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDGNzzAwEkkuzSkpLUpNUchNTSxRKC7JT84ujuJ1RhY9xcgN0mBoWJZTXFJwipFXP13f0DCrwNC8oCQ3BcZPNiuyKLYwyjrFiDD-FCMXiJ1cYF5savyLUcQZi2UNLIyLWLlDKovz8xTc8vNTim-xSTKYfmxlYvn5a-bilWpCU6apnDWtnyDA19i8AAD88RQcvQAAAA"
+                },
+                {
+                    "name": "Neto M.E Holdings Ltd",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt8kTNZExozfgq_uh8NWBr6B-86L7lMVoMS8Sf&s=0",
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Neto+M.E+Holdings+Ltd&stick=H4sIAAAAAAAAAOOQUeLSz9U3SC4wLzY1NhJJLs0pKS1KTVHITU0sUSguyU_OLo7idUYWPcXIDdJhaFiWU1xScIqRVz9d39Awq8DQvKAkNwXGTzYrsii2MMo6xcgJUm1iGp9hcIoRya5fjCLOWCxrYGFcxCrql1qSr-Cr56rgkZ-TkpmXXqzgU5Jyi02SwfRjKxPLz18zF69UE5oyTeWsaf0EAb7G5gUAbBhsZcgAAAA&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQs9oBKAR6BAgxEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Neto+M.E+Holdings+Ltd&stick=H4sIAAAAAAAAAOOQUeLSz9U3SC4wLzY1NhJJLs0pKS1KTVHITU0sUSguyU_OLo7idUYWPcXIDdJhaFiWU1xScIqRVz9d39Awq8DQvKAkNwXGTzYrsii2MMo6xcgJUm1iGp9hcIoRya5fjCLOWCxrYGFcxCrql1qSr-Cr56rgkZ-TkpmXXqzgU5Jyi02SwfRjKxPLz18zF69UE5oyTeWsaf0EAb7G5gUAbBhsZcgAAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?hl=en&gl=us&q=Cultured+meat+stocks&stick=H4sIAAAAAAAAAOOQMRJJLs0pKS1KTVHITU0sUSguyU_OLo7idUYWPcXIrZ-rb2BoWJZTXFJwipFXP13f0DCrwNC8oCQ3BcZPNiuyKLYwyjrFyAlSbWIan2FwipELxE4uMC82Nf7FKOKMxbIGFsZFrFhlbrFJMph-bGVi-flr5uKVakJTpqmcNa2fIMDX2LwAAIcE-r27AAAA&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ4qYDegQIMRAH",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat+stocks&stick=H4sIAAAAAAAAAOOQMRJJLs0pKS1KTVHITU0sUSguyU_OLo7idUYWPcXIrZ-rb2BoWJZTXFJwipFXP13f0DCrwNC8oCQ3BcZPNiuyKLYwyjrFyAlSbWIan2FwipELxE4uMC82Nf7FKOKMxbIGFsZFrFhlbrFJMph-bGVi-flr5uKVakJTpqmcNa2fIMDX2LwAAIcE-r27AAAA"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is cultured meat?",
+            "snippet": "Cultivated meat, also known as cultured meat, is genuine animal meat (including seafood and organ meats) that is produced by cultivating animal cells directly. This production method eliminates the need to raise and farm animals for food.",
+            "title": "The science of cultivated meat | GFI - Good Food Institute",
+            "link": "https://gfi.org/science/the-science-of-cultivated-meat/",
+            "displayed_link": "https://gfi.org › science › the-science-of-cultivated-meat"
+        },
+        {
+            "question": "Is cultured meat real meat?",
+            "snippet": "Lab-grown meat isn't artificial meat. It's real animal flesh. It just happens to grow in a lab, not on a factory farm. Scientists are even working to ensure that lab-created muscle tissue mimics the exact texture of traditionally-grown meat.Sep 8, 2021",
+            "title": "What is lab-grown meat, and how is cultured meat made?",
+            "link": "https://thehumaneleague.org/article/lab-grown-meat",
+            "displayed_link": "https://thehumaneleague.org › article › lab-grown-meat"
+        },
+        {
+            "question": "Is cultured meat better for you?",
+            "snippet": "Nutrition aside, cultured meat does come with a major health benefit over conventional meat that should be noted, especially given the pandemic. Because it's grown in controlled conditions and without antibiotics, cultured meat could minimize foodborne illnesses and other diseases transmitted by animals.Sep 27, 2021",
+            "title": "What Is Cultured Meat? Is It Good for You? Experts Weigh In | The Beet",
+            "link": "https://thebeet.com/what-is-cultured-meat-is-it-good-for-you-experts-weigh-in/",
+            "displayed_link": "https://thebeet.com › what-is-cultured-meat-is-it-good-for-..."
+        },
+        {
+            "question": "Is cultured meat available in the US?",
+            "snippet": "Lab-grown meat could make strides in 2022 as start-ups push for U.S. approval. Cultivated meats are real animal products made in a lab. Regulators in Singapore approved cultivated chicken for sale in 2020, while the FDA and USDA are considering it in the U.S.Jan 23, 2022",
+            "title": "Lab-grown meat start-ups hope to make strides in 2022 - CNBC",
+            "link": "https://www.cnbc.com/2022/01/23/lab-grown-meat-start-ups-hope-to-make-strides-in-2022.html",
+            "displayed_link": "https://www.cnbc.com › 2022/01/23 › lab-grown-meat-sta..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Cultured meat - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Cultured_meat",
+            "displayed_link": "https://en.wikipedia.org › wiki › Cultured_meat",
+            "snippet": "Cultured meat (also known by other names, see below) is a meat produced by in vitro cell cultures of animal cells. ... It is a form of cellular agriculture, with ...",
+            "snippet_highlighted_words": [
+                "Cultured meat"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Eat Just",
+                        "link": "https://en.wikipedia.org/wiki/Eat_Just"
+                    },
+                    {
+                        "title": "Cellular agriculture",
+                        "link": "https://en.wikipedia.org/wiki/Cellular_agriculture"
+                    },
+                    {
+                        "title": "Aleph Farms",
+                        "link": "https://en.wikipedia.org/wiki/Aleph_Farms"
+                    },
+                    {
+                        "title": "SuperMeat",
+                        "link": "https://en.wikipedia.org/wiki/SuperMeat"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                    "icon": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/235ca1257e48afce31ffe2846b261a1c7eca8f4d994bce39ec0df78cdfced28ce6dfa3f5c59fccb8129e4ba75efbc645.png"
+                },
+                "keywords": [
+                    "cultured",
+                    "meat"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Cultured_meat&tbm=ilp&ilps=ADNMCi1Euxq0XPhrdkgekFx_qK1FBhZ9hA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tZ_0tAlV35QJ:https://en.wikipedia.org/wiki/Cultured_meat+&cd=1&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://en.wikipedia.org/wiki/Cultured_meat+Cultured+meat"
+        },
+        {
+            "position": 2,
+            "title": "The science of cultivated meat | GFI - Good Food Institute",
+            "link": "https://gfi.org/science/the-science-of-cultivated-meat/",
+            "displayed_link": "https://gfi.org › science › the-science-of-cultivated-meat",
+            "snippet": "Cultivated meat, also known as cultured meat, is genuine animal meat (including seafood and organ meats) that is produced by cultivating animal cells ...",
+            "snippet_highlighted_words": [
+                "Cultivated meat",
+                "cultured meat"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Introduction",
+                        "link": "https://gfi.org/science/the-science-of-cultivated-meat/#Introduction"
+                    },
+                    {
+                        "title": "Cell lines",
+                        "link": "https://gfi.org/science/the-science-of-cultivated-meat/#cell-lines"
+                    },
+                    {
+                        "title": "Cell culture media",
+                        "link": "https://gfi.org/science/the-science-of-cultivated-meat/#Media"
+                    },
+                    {
+                        "title": "Bioprocess design",
+                        "link": "https://gfi.org/science/the-science-of-cultivated-meat/#Bioprocess"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Good Food Institute is a 501 nonprofit organization that promotes plant- and cell-based alternatives to animal products, particularly meat, dairy, and eggs. It was created in 2016 by the nonprofit organization Mercy For Animals with Bruce Friedrich as the chief executive officer.",
+                    "icon": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/235ca1257e48afce31ffe2846b261a1c8e89ad08f697335a0c1d7ab34086b58eda31983054a79b0b7b4190f15b20f5f0.png"
+                },
+                "keywords": [
+                    "cultured",
+                    "meat"
+                ],
+                "related_keywords": [
+                    "cultivated"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://gfi.org/science/the-science-of-cultivated-meat/&tbm=ilp&ilps=ADNMCi3iQb92qHl_BfhALliYCsOJX9PG-w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:s9H20tCdCCsJ:https://gfi.org/science/the-science-of-cultivated-meat/+&cd=10&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Cultured Meat Is Coming Soon: Here's What You Need to Know",
+            "link": "https://www.labiotech.eu/in-depth/cultured-meat-industry/",
+            "displayed_link": "https://www.labiotech.eu › In Depth",
+            "date": "Apr 13, 2022",
+            "snippet": "For example, traditional cultured meat such as Eat Just's approved chicken relies on the use of fetal calf blood serum to grow cells. The medium ...",
+            "snippet_highlighted_words": [
+                "cultured meat"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "labiotech.eu was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/235ca1257e48afce31ffe2846b261a1cf119ff1d1b7a2403385de64c1aab84deaae0762bca4561deac427df15542fcea.png"
+                },
+                "keywords": [
+                    "cultured",
+                    "meat"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.labiotech.eu/in-depth/cultured-meat-industry/&tbm=ilp&ilps=ADNMCi1nzpGBARkqOEy7jurgMRcFE-xZpw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:d9sbd95v42gJ:https://www.labiotech.eu/in-depth/cultured-meat-industry/+&cd=11&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "The Myth of Cultured Meat: A Review | Nutrition - Frontiers",
+            "link": "https://www.frontiersin.org/articles/10.3389/fnut.2020.00007/full",
+            "displayed_link": "https://www.frontiersin.org › fnut.2020.00007 › full",
+            "snippet": "Ethically, cultured meat aims to use considerably fewer animals than conventional livestock farming. However, some animals will still have to be ...",
+            "snippet_highlighted_words": [
+                "cultured meat"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "The Production of Cultured Meat",
+                        "link": "https://www.frontiersin.org/articles/10.3389/fnut.2020.00007/full#h3"
+                    },
+                    {
+                        "title": "Market and Legislation",
+                        "link": "https://www.frontiersin.org/articles/10.3389/fnut.2020.00007/full#h4"
+                    },
+                    {
+                        "title": "Public Perception",
+                        "link": "https://www.frontiersin.org/articles/10.3389/fnut.2020.00007/full#h5"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "by S Chriki",
+                        "2020",
+                        "Cited by 147 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2020,
+                        "cited_by": 147
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Frontiers Media SA is a publisher of peer-reviewed open access scientific journals currently active in science, technology, and medicine. It was founded in 2007 by Henry and Kamila Markram, and later expanded to other academic fields.",
+                    "icon": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/235ca1257e48afce31ffe2846b261a1c0e1e7333a3bca0c68071158fa7a1eb14988c267b2278fc618253398a7e16017c.png"
+                },
+                "keywords": [
+                    "cultured",
+                    "meat"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.frontiersin.org/articles/10.3389/fnut.2020.00007/full&tbm=ilp&ilps=ADNMCi14Edv2TO82c8_PlQJICCPSBhtskw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2Z6N5saQLjMJ:https://www.frontiersin.org/articles/10.3389/fnut.2020.00007/full+&cd=12&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "What Is Cell Cultured Meat and When Can You Try It?",
+            "link": "https://www.discovermagazine.com/planet-earth/what-is-cell-cultured-meat-and-when-can-you-try-it",
+            "displayed_link": "https://www.discovermagazine.com › planet-earth › wh...",
+            "date": "Jul 9, 2021",
+            "snippet": "To create lab meat, more commonly known these days as cell-cultured meat or cultivated meat, the muscle, fat, and connective tissues we tear ...",
+            "snippet_highlighted_words": [
+                "cultured meat",
+                "cultivated meat"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Discover is an American general audience science magazine launched in October 1980 by Time Inc. It has been owned by Kalmbach Publishing since 2010.",
+                    "icon": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/235ca1257e48afce31ffe2846b261a1cc6620334b668c8a53ce09b6eb619322ca63454046fe043a8035d03de6eb6cd60.png"
+                },
+                "keywords": [
+                    "cultured",
+                    "meat"
+                ],
+                "related_keywords": [
+                    "cultivated"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.discovermagazine.com/planet-earth/what-is-cell-cultured-meat-and-when-can-you-try-it&tbm=ilp&ilps=ADNMCi2754VxYCTILOp-3lXy5aHtf6nEaA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:O7FSBx9l46MJ:https://www.discovermagazine.com/planet-earth/what-is-cell-cultured-meat-and-when-can-you-try-it+&cd=13&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "The World's Biggest Cultured Meat Factory Will Soon Be Built ...",
+            "link": "https://singularityhub.com/2022/06/01/the-worlds-biggest-cultured-meat-factory-will-soon-be-built-in-the-us/",
+            "displayed_link": "https://singularityhub.com › 2022/06/01 › the-worlds-b...",
+            "date": "Jun 1, 2022",
+            "snippet": "Cultured meat—not to be confused with plant-based meat—is grown from animal cells and is biologically the same as meat that comes from an animal ...",
+            "snippet_highlighted_words": [
+                "Cultured meat"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "singularityhub.com was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/235ca1257e48afce31ffe2846b261a1c5063fd8ffc441fa1039666e0ab95f6c85a84019f3b3318f51e7d27d9665abb2e.png"
+                },
+                "keywords": [
+                    "cultured",
+                    "meat"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://singularityhub.com/2022/06/01/the-worlds-biggest-cultured-meat-factory-will-soon-be-built-in-the-us/&tbm=ilp&ilps=ADNMCi1RqorA1popNF_EHXvKgRTFQ13GOw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KfXkaEM6H9wJ:https://singularityhub.com/2022/06/01/the-worlds-biggest-cultured-meat-factory-will-soon-be-built-in-the-us/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Lab-grown meat: How it's made, environmental impact and more",
+            "link": "https://www.sciencefocus.com/science/what-is-lab-grown-meat-a-scientist-explains-the-taste-production-and-safety-of-artificial-foods/",
+            "displayed_link": "https://www.sciencefocus.com › Everyday science",
+            "date": "Jun 9, 2022",
+            "snippet": "How is lab-grown meat made? ... Rather than being part of a living, breathing, eating and drinking animal, cultivated meat is grown in anything ...",
+            "snippet_highlighted_words": [
+                "lab-grown meat",
+                "cultivated meat"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "BBC Science Focus is a British monthly magazine about science and technology published in Bristol, UK by Immediate Media Company. Edited by Daniel Bennett, it covers all aspects of science and technology and is written for general readers as well as people with a knowledge of science.",
+                    "icon": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/235ca1257e48afce31ffe2846b261a1c32a230cbf1e1ad7b7928977b1414cda2087266b365c246bbcf036a78e93d9164.png"
+                },
+                "keywords": [
+                    "cultured",
+                    "meat"
+                ],
+                "related_keywords": [
+                    "cultivated",
+                    "lab grown"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.sciencefocus.com/science/what-is-lab-grown-meat-a-scientist-explains-the-taste-production-and-safety-of-artificial-foods/&tbm=ilp&ilps=ADNMCi20juH7Y2GgNMPOoFDEIp6g6TPFAw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:C4KWWkT1exwJ:https://www.sciencefocus.com/science/what-is-lab-grown-meat-a-scientist-explains-the-taste-production-and-safety-of-artificial-foods/+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "How 'lab-grown' meat could help the planet and our health",
+            "link": "https://www.cnn.com/2022/06/06/health/lab-grown-meat-pros-cons-life-itself-wellness-scn/index.html",
+            "displayed_link": "https://www.cnn.com › 2022/06/06 › health › lab-grown-...",
+            "date": "Jun 6, 2022",
+            "snippet": "\"Cultivated meat is real meat grown directly from animal cells,\" Uma Valeti, founder and CEO of Upside Foods, said via email.",
+            "snippet_highlighted_words": [
+                "Cultivated meat"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Cable News Network is a multinational cable news channel headquartered in Atlanta, Georgia, U.S.. It is owned by CNN Global, which is part of Warner Bros. Discovery. It was founded in 1980 by American media proprietor Ted Turner and Reese Schonfeld as a 24-hour cable news channel.",
+                    "icon": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/235ca1257e48afce31ffe2846b261a1cb987c268ccc9bb29b92b7365a42a350ff9afaf19462191d3b6fd82fd9d53033f.png"
+                },
+                "keywords": [
+                    "cultured",
+                    "meat"
+                ],
+                "related_keywords": [
+                    "cultivated",
+                    "lab grown"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cnn.com/2022/06/06/health/lab-grown-meat-pros-cons-life-itself-wellness-scn/index.html&tbm=ilp&ilps=ADNMCi3FL8TY9YnMXmwc46tpJM4htdvh6A"
+        },
+        {
+            "position": 9,
+            "title": "Lab-grown meat is supposed to be inevitable. The science ...",
+            "link": "https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/",
+            "displayed_link": "https://thecounter.org › lab-grown-cultivated-meat-cost-...",
+            "date": "Sep 22, 2021",
+            "snippet": "Cultured animal protein can't really be “meat without slaughter” if it's dependent on an ingredient that's intertwined with the current, grim ...",
+            "snippet_highlighted_words": [
+                "Cultured",
+                "meat"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "thecounter.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/62ae5d6c0f98660c8c4b3185/images/235ca1257e48afce31ffe2846b261a1c1a6c990c9c7ce94dfbdcef89545508f23ad01f8c29b904153cbb5a939f839eee.png"
+                },
+                "keywords": [
+                    "cultured",
+                    "meat"
+                ],
+                "related_keywords": [
+                    "cultivated",
+                    "lab grown"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/&tbm=ilp&ilps=ADNMCi3vpP5sXhehikgpIa0fkP47jx_8aw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B0IXrIrS4VcJ:https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/+&cd=20&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "cultured meat companies",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Cultured+meat+companies&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ1QJ6BAhEEAE"
+        },
+        {
+            "query": "cultured meat price",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Cultured+meat+price&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ1QJ6BAhKEAE"
+        },
+        {
+            "query": "cultured meat pros and cons",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Cultured+meat+pros+and+cons&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ1QJ6BAhIEAE"
+        },
+        {
+            "query": "cultured meat industry",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Cultured+meat+industry&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ1QJ6BAhLEAE"
+        },
+        {
+            "query": "cultured meat media",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Cultured+meat+media&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ1QJ6BAhJEAE"
+        },
+        {
+            "query": "cultured meat vs plant-based meat",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Cultured+meat+vs+plant-based+meat&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ1QJ6BAhGEAE"
+        },
+        {
+            "query": "cultured meat for sale",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Cultured+meat+for+sale&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ1QJ6BAhCEAE"
+        },
+        {
+            "query": "disadvantages of cultured meat",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Disadvantages+of+cultured+meat&sa=X&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ1QJ6BAhAEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Cultured+meat&hl=en&gl=us&ei=bV2uYoiMCtXl5NoP-tO_sAo&start=10&sa=N&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ8NMDegQIARBH",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Cultured+meat&hl=en&gl=us&ei=bV2uYoiMCtXl5NoP-tO_sAo&start=10&sa=N&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=Cultured+meat&hl=en&gl=us&ei=bV2uYoiMCtXl5NoP-tO_sAo&start=20&sa=N&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=Cultured+meat&hl=en&gl=us&ei=bV2uYoiMCtXl5NoP-tO_sAo&start=30&sa=N&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=Cultured+meat&hl=en&gl=us&ei=bV2uYoiMCtXl5NoP-tO_sAo&start=40&sa=N&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=Cultured+meat&hl=en&gl=us&ei=bV2uYoiMCtXl5NoP-tO_sAo&start=50&sa=N&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=Cultured+meat&hl=en&gl=us&ei=bV2uYoiMCtXl5NoP-tO_sAo&start=60&sa=N&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=Cultured+meat&hl=en&gl=us&ei=bV2uYoiMCtXl5NoP-tO_sAo&start=70&sa=N&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=Cultured+meat&hl=en&gl=us&ei=bV2uYoiMCtXl5NoP-tO_sAo&start=80&sa=N&ved=2ahUKEwjI9svIkbj4AhXVMlkFHfrpD6YQ8tMDegQIARBF"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cultured+meat&start=80"
+        }
+    }
+}

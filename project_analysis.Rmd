@@ -1,0 +1,635 @@
+---
+title: "project_analysis"
+output: html_document
+date: '2022-06-15'
+---
+
+```{r setup}
+library(tidyverse)
+library(rvest)
+library(XML)
+library(ggplot2)
+library(ggridges)
+library(dplyr)
+library(broom)
+library(AICcmodavg)
+library(car)
+library(ggpubr)
+```
+
+### Number of google search results in different languges 
+
+```{r}
+search_data <- read_csv("./data/search_data.csv")
+
+language_dict <- c("en" = "english", "ru" = "russian", "iw" = "hebrew", "ar" = "arabic")
+
+term_df <- read_csv("./data/term_classified.csv")
+
+result_num <- search_data %>% 
+  left_join(term_df, by ="termId") %>%
+  select(termId, englishTerm, language, resultNum, Class) %>%
+  set_names(c("termId", "searchTerm", "language", "resultNum", "class")) %>%
+  mutate(language = language_dict[language])%>%
+  pivot_wider(names_from = language, values_from = resultNum) %>%
+  mutate(total_results = english + russian + hebrew + arabic) 
+
+search_data <- search_data %>% left_join(term_df, by ="termId" )
+result_num
+```
+
+#Lets have a look at two unusual results in Hebrew and one in arabic. 
+```{r pressure, echo=FALSE}
+search_data %>%
+  filter(termId == 29) %>%
+  filter(language == "ar")
+search_data %>% 
+  filter(termId %in% c(39, 42)) %>%
+  filter(language == "iw")
+
+mean_hebrew <- result_num %>%
+  filter(termId != 39 & termId != 42)
+
+mean_hebrew_class1<- mean((mean_hebrew %>% filter(class == 1))$hebrew)
+mean_hebrew_class2 <- mean((mean_hebrew %>% filter(class == 2))$hebrew)
+
+result_num <- result_num %>%
+  mutate(hebrew = ifelse(termId == 39, mean_hebrew_class1, hebrew))%>%
+  mutate(hebrew = ifelse(termId == 42, mean_hebrew_class2, hebrew))%>%
+  mutate(total_results = english + russian + hebrew + arabic) 
+
+result_num_2 <- result_num %>% 
+  pivot_longer(cols = c(english, russian, hebrew, arabic), names_to = "language")
+```
+
+#Let's note that the search is done in English because there is no Hebrew word for the term. we will change these lines in order to preserve the integrity of the comparison. in arabit there is no fandimental problem with the serch so we will keep it that way 
+
+
+### Comparison the amount of results between the languages.
+
+```{r pressure, echo=FALSE}
+ggplot(result_num_2 ,mapping = aes(x = factor(language, level = c("english", "arabic", "russian", "hebrew")), y = value, fill = language))+
+  geom_boxplot()+
+  scale_y_continuous(trans = 'log10') +
+  theme_classic()+
+  scale_fill_brewer(palette="Spectral")+
+  labs(x = "language", y = "results number", title = "boxplot of result number for each language", subtitle = "log10 scale")
+```
+
+#test statisticly the different between search results
+```{r pressure, echo=FALSE}
+one_way_anova <- aov(value ~ language, data = result_num_2)
+summary(one_way_anova)
+```
+
+p-value is less then 2e-16, At a 95 percent confidence level we can conclude that there are significant differences between result number in different languages. 
+
+now we will preform t tests without var equal assumption
+
+```{r pressure, echo=FALSE}
+t.test(x = result_num$english, y = result_num$hebrew,
+       alternative = "two.sided",
+      paired = TRUE, var.equal = FALSE,
+       conf.level = 0.95)
+```
+
+```{r pressure, echo=FALSE}
+t.test(x = result_num$english, y = result_num$russian,
+       alternative = "two.sided",
+      paired = TRUE, var.equal = FALSE,
+       conf.level = 0.95)
+```
+
+```{r pressure, echo=FALSE}
+t.test(x = result_num$english, y = result_num$arabic,
+       alternative = "two.sided",
+      paired = TRUE, var.equal = FALSE,
+       conf.level = 0.95)
+```
+```{r pressure, echo=FALSE}
+t.test(x = result_num$arabic, y = result_num$russian,
+       alternative = "two.sided",
+      paired = TRUE, var.equal = FALSE,
+       conf.level = 0.95)
+```
+
+```{r pressure, echo=FALSE}
+t.test(x = result_num$hebrew, y = result_num$arabic,
+       alternative = "two.sided",
+      paired = TRUE, var.equal = FALSE,
+       conf.level = 0.95)
+```
+```{r pressure, echo=FALSE}
+t.test(x = result_num$hebrew, y = result_num$russian,
+       alternative = "two.sided",
+      paired = TRUE, var.equal = FALSE,
+       conf.level = 0.95)
+```
+
+
+
+## Effect of the class on the ratio of results.
+```{r pressure, echo=FALSE}
+result_num_3 <- result_num_2 %>%
+  mutate(language = paste(language, as.character(class)))
+
+ggplot(result_num_3 ,
+       mapping = aes(x = factor(language, level = c("english 1","english 2", "arabic 1", "arabic 2" , "russian 1", "russian 2", "hebrew 1","hebrew 2")),
+                     y = value, fill = language))+
+  geom_boxplot()+
+  scale_y_continuous(trans = 'log10') +
+  theme_classic()+
+  scale_fill_brewer(palette="Spectral")+
+  labs(x = "language and class", y = "results number", title = "boxplot of result number for each language", subtitle = "log10 scale")
+```
+
+# In order to compare whether there is a relative difference in the amount of information, we would like to normalize the data according to the amount of results in English (assuming that this is the language that best reflects the amount of information on the network)
+```{r pressure, echo=FALSE}
+result_num
+result_num_4 <- result_num %>%
+  mutate(russian = russian / english *100,
+         hebrew = hebrew / english *100,
+         arabic = arabic / english *100) %>%
+  select(searchTerm, class, russian, hebrew, arabic) %>%
+  pivot_longer(cols = c(russian, hebrew, arabic), names_to = "language")
+  
+result_num_4_hebrew <- result_num_4 %>% filter(language == "hebrew") %>% mutate(class = as.character(class))
+result_num_4_hebrew
+ggplot(data=result_num_4_hebrew, aes(x=value, fill = class)) +
+  geom_density(alpha = 0.3) + 
+  theme_minimal()
+
+res <- wilcox.test((result_num_4_hebrew %>% filter(class == "1"))$value , (result_num_4_hebrew %>% filter(class == "2"))$value , alternative = "two.sided")
+res
+
+```
+the data is not distribute normally so we used Wilcoxon test in order to determine that there is no significant statistical difference between the classes. 
+
+
+```{r pressure, echo=FALSE}
+result_num_4_ru <- result_num_4 %>% filter(language == "russian") %>% mutate(class = as.character(class))
+result_num_4_ru
+ggplot(data=result_num_4_ru, aes(x=value, fill = class)) +
+  geom_density(alpha = 0.3) +
+  theme_minimal()
+
+res <- wilcox.test((result_num_4_ru %>% filter(class == "1"))$value , (result_num_4_ru %>% filter(class == "2"))$value , alternative = "two.sided")
+res
+```
+the data is not distribute normally so we used Wilcoxon test in order to determine that there is no significant statistical difference between the classes. 
+
+
+
+```{r pressure, echo=FALSE}
+result_num_4_ar <- result_num_4 %>% filter(language == "arabic") %>% mutate(class = as.character(class))
+result_num_4_ar
+ggplot(data=result_num_4_ar, aes(x=value, fill = class)) +
+  geom_density(alpha = 0.3) +
+  theme_minimal()
+res <- wilcox.test((result_num_4_ar %>% filter(class == "1"))$value , (result_num_4_ar %>% filter(class == "2"))$value , alternative = "two.sided")
+res
+```
+the data is not distribute normally so we used Wilcoxon test in order to determine that there is no significant statistical difference between the classes. 
+
+
+## conclution: There is no statistical significance to the difference between the classes in relation to the amount of results in English.
+
+
+
+
+
+
+
+
+
+
+
+
+### Analysis for our manual ranking
+
+```{r pressure, echo=FALSE}
+manual_ranking <- read_csv("./data/top3_edited.csv")
+manual_ranking <- manual_ranking %>%
+  mutate(language = language_dict[language]) %>%
+  set_names(c("termId", "searchTerm", "language", "position", "title", "link", "definition", "information", "visualization", "site_quality", "adds")) %>%
+  mutate(total_rank = definition + information + visualization + site_quality )
+manual_ranking <- manual_ranking %>% 
+  group_by(termId, language) %>%
+  summarise(
+    definition_rank = sum(definition),
+    information_rank = sum(information),
+    visualization_rank = sum(visualization),
+    site_quality_rank = sum(site_quality),
+    search_rank = sum(total_rank)
+            )%>% left_join(term_df, on = "termId") %>%
+  select(termId, englishTerm, Class, language, definition_rank, information_rank, visualization_rank, site_quality_rank, search_rank)
+manual_ranking  
+```
+
+
+```{r pressure, echo=FALSE}
+manual_ranking_mean <- manual_ranking %>%
+  group_by(language) %>%
+  summarise(
+    definition_rank = mean(definition_rank),
+    information_rank = mean(information_rank),
+    visualization_rank = mean(visualization_rank),
+    site_quality_rank = mean(site_quality_rank),
+    search_rank = mean(search_rank),
+            ) %>%
+  pivot_longer(cols = c(definition_rank, information_rank, visualization_rank, site_quality_rank), names_to = "ranking" ) %>% 
+  left_join(manual_ranking %>% 
+  group_by(language) %>%
+  summarise(stdv = sd(search_rank)))
+
+ggplot(data=manual_ranking_mean, aes(x=language, y=value, fill=ranking)) +
+  geom_bar(stat="identity", color = "black")+
+  scale_fill_brewer(palette="Paired")+
+  geom_errorbar(aes(ymin=search_rank-stdv, ymax=search_rank+stdv), width=0.25, position = "identity") +
+  theme_minimal() +
+  scale_fill_manual(values =c("#999999", "#E69F00", "#56B4E9", "#009E73"), labels = c("definition", "information", "visualization", "site quality"))+
+  labs(title = "mean search ranking devided to ranking categorys",
+       y = "mean search ranking")
+```
+
+
+
+##statistical diffrence test
+```{r pressure, echo=FALSE}
+ggplot(data=manual_ranking, aes(x=search_rank, fill = language)) +
+  geom_density(alpha = 0.3) +
+  theme_minimal()
+
+manual_ranking <- manual_ranking %>% arrange(language)
+```
+
+
+#preform one way anova test to examine statistical differences between the average ratings in different languages
+```{r pressure, echo=FALSE}
+one_way_anova <- aov(search_rank ~ language, data = manual_ranking)
+summary(one_way_anova)
+```
+there is at least one of the languages is significantly different from the others
+
+#Tukey multiple pairwise-comparisons
+```{r pressure, echo=FALSE}
+TukeyHSD(one_way_anova)
+```
+we found a significant difference between English and all other languages.
+
+#check the assumptions for test validation 
+```{r pressure, echo=FALSE}
+plot(one_way_anova, 1)
+leveneTest(search_rank ~ language, data = manual_ranking)
+```
+p-value > 0.05, homogeneity of variances meat with the test.
+
+#Check the normality assumption
+```{r pressure, echo=FALSE}
+plot(one_way_anova, 2)
+aov_residuals <- residuals(object = one_way_anova )
+shapiro.test(x = aov_residuals )
+```
+p-value > 0.05, normality assumption meat with the test.
+
+
+
+
+
+### wikipidia analysis 
+```{r pressure, echo=FALSE}
+wikipedia_df <- read_csv("./data/wikipidia_DF.csv") %>% rbind(read_csv("./data/wikipidia_DF2.csv")) %>% select(termID, searchTerm, language, img_num, sections, references, word_count) %>% mutate(language = ifelse(language %in% c("en","ar", "ru", "iw"), language_dict[language], language))
+wikipedia_df
+```
+
+## first, establish statistical diffrent between the languages.
+
+
+## chack a statistical deffrens between relative number of imges in each language
+
+```{r pressure, echo=FALSE}
+#add missing pages
+webPage_56 <- read_html("https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%BE%D1%80%D0%B8%D1%8F")
+webPage_45 <- read_html("https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4")
+text_path <- "p+ ul li , p+ ol li , .tright+ ul li , p, h3+ul li, h2_ul li, p+ ul li, h3+ ul li"
+
+wikipedia_df <- wikipedia_df %>% 
+  add_row(termID = 45, 
+          searchTerm = "Астероид",
+          language = "russian",
+          img_num = length(webPage_45 %>% html_nodes(".thumbimage")),
+          sections = length(webPage_45 %>% html_nodes("h2 .mw-headline"))+1,
+          references = length(webPage_45 %>% html_nodes("#mw-content-text a")),
+          word_count = lengths(gregexpr("\\W+", str_replace_all(tolower(paste(webPage_45 %>% html_nodes(text_path) %>% html_text(), collapse = " ")), "[\r\n]", ""))) + 1
+          ) %>%
+  add_row(termID = 56, 
+          searchTerm = "Калория",
+          language = "russian",
+          img_num = length(webPage_56 %>% html_nodes(".thumbimage")),
+          sections = length(webPage_56 %>% html_nodes("h2 .mw-headline"))+1,
+          references = length(webPage_56 %>% html_nodes("#mw-content-text a")),
+          word_count = lengths(gregexpr("\\W+", str_replace_all(tolower(paste(webPage_56 %>% html_nodes(text_path) %>% html_text(), collapse = " ")), "[\r\n]", ""))) + 1
+  ) 
+
+ggplot(data=wikipedia_df, aes(x=img_num, fill = language)) +
+  geom_density(alpha = 0.3) +
+  theme_minimal()
+```
+```{r pressure, echo=FALSE}
+ggboxplot(wikipedia_df, x = "language", y = "img_num", 
+          color = "language",
+          order = c("english", "arabic", "russian","hebrew"),
+          ylab = "image number", xlab = "language",
+          title = "image number by language plotbox")
+
+ggline(wikipedia_df, x = "language", y = "img_num",
+       add = c("mean_se", "jitter"), 
+       order = c("english", "russian" ,"arabic","hebrew"),
+       ylab = "image number", xlab = "language",
+       title = "image number by language mean standard error")
+```
+
+
+```{r pressure, echo=FALSE}
+one_way_anova <- aov(img_num ~ language, data = wikipedia_df)
+summary(one_way_anova)
+```
+
+p-value is 0.0027, At a 95 percent confidence level we can conclude that there are significant differences between the number of images between languages.
+
+```{r pressure, echo=FALSE}
+TukeyHSD(one_way_anova)
+```
+by preforming multiple pairwise comparisons we have concluded that the statistically significant difference is between English and Hebrew
+
+
+Check the homogeneity of variance assumption: 
+```{r pressure, echo=FALSE}
+leveneTest(img_num ~ language, data = wikipedia_df)
+```
+p-value is not less than the significance level of 0.05. This means that there is no evidence to suggest that the variance across groups is statistically significantly different. Therefore, we can assume the homogeneity of variances in the different treatment groups. 
+
+
+Check the normality assumption
+```{r pressure, echo=FALSE}
+aov_residuals <- residuals(object = one_way_anova)
+# Run Shapiro-Wilk test
+shapiro.test(x = aov_residuals )
+```
+p-value is smaller then 0.05 so the normality assumption is not met. 
+
+we will use kruskal test instead:
+```{r pressure, echo=FALSE}
+kruskal.test(img_num ~ language, data = wikipedia_df)
+
+```
+As the p-value is less than the significance level 0.05, we can conclude that there are significant differences between the treatment groups.
+
+
+```{r pressure}
+pairwise.wilcox.test(wikipedia_df$img_num, wikipedia_df$language,
+                 p.adjust.method = "BH")
+```
+The pairwise comparison shows that there are 2 homogeneous groups.
+1) English.
+2) Arabic, Russian, Hebrew. 
+
+#In summary, the avarage number of images in English results is greater than the other languages.
+
+
+## chack a statistical deffrens between number of references in each language:
+
+```{r pressure, echo=FALSE}
+ggplot(data=wikipedia_df, aes(x=references, fill = language)) +
+  geom_density(alpha = 0.3) +
+  theme_minimal()
+
+ggboxplot(wikipedia_df, x = "language", y = "references", 
+          color = "language",
+          order = c("english", "arabic", "russian","hebrew"),
+          ylab = "number of references", xlab = "language",
+          title = "number of references by language plotbox")
+
+ggline(wikipedia_df, x = "language", y = "references",
+       add = c("mean_se", "jitter"), 
+       order = c("english", "russian" ,"arabic","hebrew"),
+       ylab = "number of references", xlab = "language",
+       title = "number of references by language mean standard error")
+```
+
+```{r pressure, echo=FALSE}
+kruskal.test(references ~ language, data = wikipedia_df)
+
+```
+As the p-value is less than the significance level 0.05, we can conclude that there are significant differences between the treatment groups.
+
+```{r pressure}
+pairwise.wilcox.test(wikipedia_df$references, wikipedia_df$language,
+                 p.adjust.method = "BH")
+```
+The pairwise comparison shows that there are 3 homogeneous groups.
+1) English.
+2) Arabic, Russian.
+3) Hebrew. 
+
+#In summary, the avarage number of references in English results is greater than the other languages, and avarage number of references in Russian and Arabic is grater then hebrew. 
+
+
+
+
+
+## chack a statistical deffrens between number of words in each language:
+```{r pressure, echo=FALSE}
+ggplot(data=wikipedia_df, aes(x=word_count, fill = language)) +
+  geom_density(alpha = 0.3) +
+  theme_minimal()
+
+ggboxplot(wikipedia_df, x = "language", y = "word_count", 
+          color = "language",
+          order = c("english", "arabic", "russian","hebrew"),
+          ylab = "text length", xlab = "language",
+          title = "text length by language plotbox")
+
+ggline(wikipedia_df, x = "language", y = "word_count",
+       add = c("mean_se", "jitter"), 
+       order = c("english", "russian" ,"arabic","hebrew"),
+       ylab = "text length", xlab = "language",
+       title = "text length by language mean and standard error")
+```
+
+```{r pressure, echo=FALSE}
+kruskal.test(word_count ~ language, data = wikipedia_df)
+
+```
+As the p-value is less than the significance level 0.05, we can conclude that there are significant differences between the treatment groups.
+
+
+```{r pressure}
+pairwise.wilcox.test(wikipedia_df$word_count, wikipedia_df$language,
+                 p.adjust.method = "BH")
+```
+The pairwise comparison shows that there are 3 homogeneous groups.
+1) English.
+2) Arabic, Russian.
+3) Hebrew. 
+
+#In summary, the avarage text length in English results is greater than the other languages, and avarage text leangth in Russian and Arabic is grater then hebrew. 
+
+
+
+
+## chack a statistical deffrens between number of sections in each language:
+```{r pressure, echo=FALSE}
+ggplot(data=wikipedia_df, aes(x=sections, fill = language)) +
+  geom_density(alpha = 0.3) +
+  theme_minimal()
+
+ggboxplot(wikipedia_df, x = "language", y = "sections", 
+          color = "language",
+          order = c("english","russian", "arabic", "hebrew"),
+          ylab = "number of sections", xlab = "language",
+          title = "number of sections by language plotbox")
+
+ggline(wikipedia_df, x = "language", y = "sections",
+       add = c("mean_se", "jitter"), 
+       order = c("english", "russian" ,"arabic","hebrew"),
+       ylab = "number of sections", xlab = "language",
+       title = "number of sections by language mean and standard error")
+```
+
+```{r pressure, echo=FALSE}
+kruskal.test(sections ~ language, data = wikipedia_df)
+
+```
+As the p-value is less than the significance level 0.05, we can conclude that there are significant differences between the treatment groups.
+
+
+```{r pressure}
+pairwise.wilcox.test(wikipedia_df$sections, wikipedia_df$language,
+                 p.adjust.method = "BH")
+```
+The pairwise comparison shows that there are 2 homogeneous groups.
+1) English, Russian.
+2) russian, arabic. 
+2) Hebrew, arabic 
+
+
+### In order to compare whether contemporary and non-contemporary terms infacte the ammount of information about them in diffrent language, we would like to normalize the data according to the english paraneters (assuming that this is the language that best reflects the amount of information on the network in all parameters category)
+
+```{r pressure}
+english_wiki_df <- wikipedia_df %>% filter(language == "english") %>% select(termID, img_num, sections, references, word_count)
+english_wiki_df <- setNames(english_wiki_df, c("termID", "e.img_num", "e.sections", "e.references", "e.word_count")) %>% mutate(
+  e.img_num = ifelse(e.img_num == 0, 1, e.img_num),
+  e.sections = ifelse(e.sections == 0, 1, e.sections),
+  e.references= ifelse(e.references == 0, 1, e.references),
+  e.word_count = ifelse(e.word_count == 0, 1, e.word_count)
+)
+
+term_df <- setNames(term_df, c("termID", "englishTerm", "Class"))
+
+wikipedia_df <- wikipedia_df %>% filter(language != "english") %>% left_join(english_wiki_df, on = termID) %>% mutate(
+  img_num = img_num/ e.img_num,
+  sections = sections/ e.sections,
+  references = references/ e.references, 
+  word_count = word_count/e.word_count) %>%
+  left_join(term_df, on = termId) %>%
+  select(termID,englishTerm, Class, language, img_num, sections, references, word_count) %>%
+  mutate(Class = as.character(Class))
+```
+
+
+```{r pressure}
+ggboxplot(wikipedia_df, x = "language", y = "img_num", color = "Class",
+          palette = c("#00AFBB", "#E7B800"))
+ggline(wikipedia_df %>% mutate(Class = ifelse(Class == 1, "contemporary", "non-contemporary")), x = "language", y = "img_num", color = "Class",
+       add = c("mean_se", "dotplot"),
+       palette = c("#00AFBB", "#E7B800")) +
+  labs(title ="scatterplot of wikipedia image number nurmalize by image number in english for\nresult by language and group",
+       y = "img proportion to english")+
+```
+
+```{r pressure}
+wikipedia_df_ru <- wikipedia_df %>% filter(language == "russian")
+wikipedia_df_he <- wikipedia_df %>% filter(language == "hebrew")
+wikipedia_df_ar <- wikipedia_df %>% filter(language == "arabic")
+
+ggplot(wikipedia_df %>% mutate(language = paste(language, as.character(Class))) ,
+       mapping = aes(x = factor(language, level = c("english 1","english 2", "arabic 1", "arabic 2" , "russian 1", "russian 2", "hebrew 1","hebrew 2")),
+                     y = img_num, fill = language))+
+  geom_boxplot()+
+  theme_classic()+
+  scale_fill_brewer(palette="Spectral")+
+  labs(x = "language and class", y = "wikipedia images", title = "boxplot of wikipedia image number nurmalize by image number in english for\neach language")
+
+```
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_ru %>% filter(Class == "1"))$img_num , (wikipedia_df_ru %>% filter(Class == "2"))$img_num , alternative = "two.sided")
+res
+```
+
+
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_ru %>% filter(Class == "1"))$sections , (wikipedia_df_ru %>% filter(Class == "2"))$sections , alternative = "two.sided")
+res
+```
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_ru %>% filter(Class == "1"))$references , (wikipedia_df_ru %>% filter(Class == "2"))$references , alternative = "two.sided")
+res
+```
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_ru %>% filter(Class == "1"))$word_count , (wikipedia_df_ru %>% filter(Class == "2"))$word_count , alternative = "two.sided")
+res
+```
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_he %>% filter(Class == "1"))$img_num , (wikipedia_df_he %>% filter(Class == "2"))$img_num , alternative = "two.sided")
+res
+```
+
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_he %>% filter(Class == "1"))$sections , (wikipedia_df_he %>% filter(Class == "2"))$sections , alternative = "two.sided")
+res
+```
+
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_he %>% filter(Class == "1"))$word_count , (wikipedia_df_he %>% filter(Class == "2"))$word_count , alternative = "two.sided")
+res
+```
+
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_he %>% filter(Class == "1"))$references , (wikipedia_df_he %>% filter(Class == "2"))$references , alternative = "two.sided")
+res
+```
+
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_ar %>% filter(Class == "1"))$img_num , (wikipedia_df_ar %>% filter(Class == "2"))$img_num , alternative = "two.sided")
+res
+```
+
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_ar %>% filter(Class == "1"))$sections , (wikipedia_df_ar %>% filter(Class == "2"))$sections , alternative = "two.sided")
+res
+```
+
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_ar %>% filter(Class == "1"))$word_count , (wikipedia_df_ar %>% filter(Class == "2"))$word_count , alternative = "two.sided")
+res
+```
+
+
+```{r pressure}
+res <- wilcox.test((wikipedia_df_ar %>% filter(Class == "1"))$references , (wikipedia_df_ar %>% filter(Class == "2"))$references , alternative = "two.sided")
+res
+```
+
+

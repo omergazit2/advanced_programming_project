@@ -1,0 +1,568 @@
+{
+    "search_metadata": {
+        "id": "62ae5d0e2236e2e1019359ad",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/fc26ebff0610b7b4/62ae5d0e2236e2e1019359ad.json",
+        "created_at": "2022-06-18 23:17:34 UTC",
+        "processed_at": "2022-06-18 23:17:34 UTC",
+        "google_url": "https://www.google.com/search?q=Covid+&oq=Covid+&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/fc26ebff0610b7b4/62ae5d0e2236e2e1019359ad.html",
+        "total_time_taken": 1.47
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Covid ",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Covid",
+        "total_results": 13170000000,
+        "time_taken_displayed": 0.66
+    },
+    "knowledge_graph": {
+        "title": "Coronavirus disease",
+        "cite_name": "CDC COVID Data Tracker - Centers for Disease Control and ...",
+        "cite_link": "https://covid.cdc.gov/covid-data-tracker/"
+    },
+    "twitter_results": {
+        "title": "HHS.gov@HHSGov",
+        "link": "https://twitter.com/HHSGov?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ84FKwCKwXnE80ISs_Rbb4IF8-rGJVDosJRNa4D5tDyPsmHB17ODDZ&s=10",
+        "tweets": [
+            {
+                "link": "https://twitter.com/HHSGov/status/1538250521949220864?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                "snippet": "Everyone — including children ages 6 months and older — can get a COVID vaccine for protection against the worst outcomes of COVID. Learn more at cdc.gov/coronavirus. #WeCanDoThis",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAm_4Iyz2ToAwe7C99qhFSMMC3q6JcO_m3jGV2Lyx2wv5glFjEOUO7Lw&s=10",
+                "published_date": "3 hours ago"
+            },
+            {
+                "link": "https://twitter.com/CDCDirector/status/1538244130651906050?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                "snippet": "Today marks an important step in our fight against #COVID19 by making safe & effective vaccines available for children ages 6 months-5 years. On today’s #DirectorDebrief, I discuss the recent recommendation by @CDCgov & the importance of getting children under 5 vaccinated. ⬇️",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7RYG484xiRurhwS72OOFujV8P5KuT0WoyUSgjKQ14BPc-KKcU08Iwcg&s=10",
+                "published_date": "4 hours ago"
+            },
+            {
+                "link": "https://twitter.com/CDCgov/status/1538241392471851008?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                "snippet": "CDC accepted the Advisory Committee on Immunization Practices’ (ACIP) recommendation that children ages 6 months and older should be vaccinated against #COVID19. More: bit.ly/3zRIZRn",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQJv0NrFJUVsj5b8mz0OMuIBYEch_o-Av0pRSPGqgj0PPwBGYdzDd6w&s=10",
+                "published_date": "4 hours ago"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Mayo Clinic Q&A podcast: COVID-19 update",
+            "link": "https://www.youtube.com/watch?v=mhltAEVnbnY",
+            "thumbnail": "https://i.ytimg.com/vi/mhltAEVnbnY/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lULG1WNbvlWgg0PGWXqaAlshK1ig",
+            "channel": "Mayo Clinic",
+            "duration": "22:18",
+            "platform": "YouTube",
+            "date": "2 days ago"
+        },
+        {
+            "position": 2,
+            "title": "Covid causing other viruses like the flu to behave in troubling ...",
+            "link": "https://www.youtube.com/watch?v=brHgLUZvGKc",
+            "thumbnail": "https://i.ytimg.com/vi/brHgLUZvGKc/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kSr4_GvCT6hYDtAMtwhK1ljfINUA",
+            "channel": "CNBC Television",
+            "duration": "3:33",
+            "platform": "YouTube",
+            "date": "22 hours ago"
+        },
+        {
+            "position": 3,
+            "title": "WTO agrees to lift COVID vaccine patents for 5 years | Experts ...",
+            "link": "https://www.youtube.com/watch?v=TefUZcbtBNU",
+            "thumbnail": "https://i.ytimg.com/vi/TefUZcbtBNU/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lkGisSafyHegvf7skbjY6LKG6-Bw",
+            "channel": "WION",
+            "duration": "3:26",
+            "platform": "YouTube",
+            "date": "15 hours ago"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "CDC clears the way for vaccinations for children 6 months to 5 years old",
+            "link": "https://www.npr.org/sections/health-shots/2022/06/18/1105929247/vaccinations-for-children-6-months-to-5-years-old-can-begin-after-cdc-clears-the",
+            "source": "NPR",
+            "date": "3 hours ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/8c587d86a8e3e40d5004c2852a2742ca884b9a9e500af50a.jpeg"
+        },
+        {
+            "title": "CDC recommends COVID-19 vaccines for children under 5",
+            "link": "https://www.kcra.com/article/cdc-panel-recommends-covid-19-vaccines-for-kids/40333323",
+            "source": "KCRA",
+            "date": "3 hours ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/8c587d86a8e3e40dab1418b109daf062dbff9854b9cc59b6.jpeg"
+        },
+        {
+            "title": "US opens COVID vaccine to little kids, shots begin next week",
+            "link": "https://news.yahoo.com/cdc-advisers-recommend-covid-19-173330369.html",
+            "source": "Yahoo News",
+            "date": "5 hours ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/8c587d86a8e3e40d793932fad78a8914fdc359a5c09eb521.jpeg"
+        },
+        {
+            "title": "Walensky signs off on Pfizer, Moderna COVID vaccines for children under 5",
+            "link": "https://thehill.com/policy/healthcare/3528750-walensky-signs-off-on-pfizer-moderna-covid-19-vaccines-for-children-under-5/",
+            "source": "The Hill",
+            "date": "5 hours ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/8c587d86a8e3e40da0730ef635590584c581960ccd91bde7.jpeg"
+        },
+        {
+            "title": "CDC recommends COVID-19 vaccines for youngest Americans; shots will become available as soon as Tuesday",
+            "link": "https://www.usatoday.com/story/news/health/2022/06/18/cdc-advisers-recommend-covid-19-vaccines-youngest-americans/7662713001/",
+            "source": "USA Today",
+            "date": "3 hours ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/8c587d86a8e3e40dcaf8e53435eb0308a8c506c771f4f7e4.jpeg"
+        },
+        {
+            "title": "Opinion | By not ordering covid vaccines, Ron DeSantis abandons Florida children",
+            "link": "https://www.washingtonpost.com/opinions/2022/06/18/ron-desantis-florida-refuses-children-covid-vaccines/",
+            "source": "The Washington Post",
+            "date": "9 hours ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/8c587d86a8e3e40dd3a8f0c7b857bb7419a75eb2e34a6deb.jpeg"
+        },
+        {
+            "title": "Suze Orman: The 'government overdid it' on COVID stimulus",
+            "link": "https://finance.yahoo.com/news/suze-orman-the-government-overdid-it-on-covid-stiimulus-181431266.html",
+            "source": "Yahoo Finance",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/8c587d86a8e3e40d79ff478ad449e65bfbee4d07fcdcc569.jpeg"
+        },
+        {
+            "title": "What to know about kids under 5 getting COVID vaccines",
+            "link": "https://www.latimes.com/california/story/2022-06-17/what-to-know-about-kids-under-5-getting-covid-vaccines",
+            "source": "Los Angeles Times",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/8c587d86a8e3e40d913fd2de7f41f7cc8f35a41910f21d58.jpeg"
+        },
+        {
+            "title": "COVID Vaccines For Kids Under 5 Are Coming To CA",
+            "link": "https://patch.com/california/across-ca/covid-vaccines-kids-under-5-are-coming-ca",
+            "source": "Patch",
+            "date": "1 hour ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/8c587d86a8e3e40da21afd7d53e352b6a386e4fe2a88d93e.jpeg"
+        },
+        {
+            "title": "COVID in California: Omicron less likely to cause long COVID than delta",
+            "link": "https://www.sfchronicle.com/health/article/COVID-in-California-Stanford-doctor-warns-of-17244975.php",
+            "source": "San Francisco Chronicle",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/8c587d86a8e3e40df824daa16ede2f683111a61046851cb8.jpeg"
+        },
+        {
+            "title": "More Californians test positive for COVID-19 in latest public health report",
+            "link": "https://www.sacbee.com/news/coronavirus/article262559917.html",
+            "source": "The Sacramento Bee",
+            "date": "1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDeSblTWhL7BgXenjL5enGtpm-jTB8x9noFrrAK9QusyQrmdpDwFYZojTF&usqp=CAI&s"
+        },
+        {
+            "title": "COVID in California: CDC cements approval of vaccines for children under 5",
+            "link": "https://www.sfchronicle.com/health/article/covid-california-live-17247594.php",
+            "source": "San Francisco Chronicle",
+            "date": "1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6uoPlqFvkYyM_eTlxI5CpiE8pIxl-WCgkB2cOdfO2ksWUucI9E4-BP-2&usqp=CAI&s"
+        },
+        {
+            "title": "COVID-19 in California: Find testing, treatment and vaccine info, case and hospitalization rates, top COVID headlines",
+            "link": "https://www.kcra.com/article/covid-19-vaccines-testing-treatment-rates-california-variant-headlines-boosters/40049587",
+            "source": "KCRA",
+            "date": "4 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzANZtClhEGb4CQoqzJxtG_qxqUo3IHyX-qWySDpm4rKNUF4KW6k0xhS7K&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?q=Covid&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Qt8YBegQIKhAC",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&tbm=nws",
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "CDC COVID Data Tracker - Centers for Disease Control and ...",
+            "link": "https://covid.cdc.gov/covid-data-tracker/",
+            "displayed_link": "https://covid.cdc.gov › covid-data-tracker",
+            "date": "2 days ago",
+            "snippet": "CDC's home for COVID-19 data. Visualizations, graphs, and data in one easy-to-use website.",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Covid-19",
+                        "link": "https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html"
+                    },
+                    {
+                        "title": "COVID-19 Case Surveillance...",
+                        "link": "https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4"
+                    },
+                    {
+                        "title": "COVID-19 cases/deaths by state",
+                        "link": "https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Centers for Disease Control and Prevention is the national public health agency of the United States. It is a United States federal agency, under the Department of Health and Human Services, and is headquartered in Atlanta, Georgia.",
+                    "icon": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/a906dc8a39714bd422a83641c0766cecba9fca431881bd298e93949fc67c2caaa9cd4abfcca4f00bccd89858e0fc6627.png"
+                },
+                "keywords": [
+                    "covid"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://covid.cdc.gov/covid-data-tracker/&tbm=ilp&ilps=ADNMCi2beSkVEL1Ugb5D0Ie_ColD3XyM8g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cUZkKBt375AJ:https://covid.cdc.gov/covid-data-tracker/+&cd=52&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "Coronavirus Disease 2019 (COVID-19) | CDC",
+            "link": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+            "displayed_link": "https://www.cdc.gov › coronavirus › 2019-ncov",
+            "snippet": "Find links to guidance and information on all topics related to COVID-19, including the COVID-19 vaccine, symptom self-check, data, and other topics.",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Quarantine & Isolation",
+                        "link": "https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html"
+                    },
+                    {
+                        "title": "Long COVID or Post-COVID...",
+                        "link": "https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html"
+                    },
+                    {
+                        "title": "Post-COVID Conditions",
+                        "link": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/post-covid-science.html"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Centers for Disease Control and Prevention is the national public health agency of the United States. It is a United States federal agency, under the Department of Health and Human Services, and is headquartered in Atlanta, Georgia.",
+                    "icon": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/a906dc8a39714bd422a83641c0766cec889940495cb952d6ef605af4dc5d67bd2263d708f6b9d510195f9ad013933dee.png"
+                },
+                "keywords": [
+                    "covid"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cdc.gov/coronavirus/2019-ncov/index.html&tbm=ilp&ilps=ADNMCi1E7EZEM-e4fF6tMHsNEf-y9DHVmQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B_FPQc5umtEJ:https://www.cdc.gov/coronavirus/2019-ncov/index.html+&cd=57&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Coronavirus disease (COVID-19) - WHO | World Health ...",
+            "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+            "displayed_link": "https://www.who.int › Diseases",
+            "snippet": "Information on COVID-19, the infectious disease caused by the most recently discovered coronavirus.",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Coronavirus",
+                        "link": "https://www.who.int/health-topics/coronavirus"
+                    },
+                    {
+                        "title": "COVID-19 Vaccines",
+                        "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines"
+                    },
+                    {
+                        "title": "Mitigating the COVID-19",
+                        "link": "https://www.who.int/teams/health-care-readiness/covid-19/data-platform/mitigating-the-covid-19-outbreak-through-global-data-sharing"
+                    },
+                    {
+                        "title": "Advice for the public",
+                        "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The World Health Organization is a specialized agency of the United Nations responsible for international public health. The WHO Constitution states its main objective as \"the attainment by all peoples of the highest possible level of health\".",
+                    "icon": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/a906dc8a39714bd422a83641c0766cecdd62b4ae7dbf3b9aaca203db19c2989f1342334d6b5d684ff7e30ace98e56a60.png"
+                },
+                "keywords": [
+                    "covid"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.who.int/emergencies/diseases/novel-coronavirus-2019&tbm=ilp&ilps=ADNMCi0OUTL8wIj16KpvTpCNFhfXpdiKgQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:d_PwDItV9ewJ:https://www.who.int/emergencies/diseases/novel-coronavirus-2019+&cd=58&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "WHO Coronavirus (COVID-19) Dashboard",
+            "link": "https://covid19.who.int/",
+            "displayed_link": "https://covid19.who.int",
+            "snippet": "World Health Organization Coronavirus disease situation dashboard presents official daily counts of COVID-19 cases and deaths worldwide, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The World Health Organization is a specialized agency of the United Nations responsible for international public health. The WHO Constitution states its main objective as \"the attainment by all peoples of the highest possible level of health\".",
+                    "icon": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/a906dc8a39714bd422a83641c0766cec2abd0f24207dccf30f2e32236f96ff3b7cb58b24bf1c64a4b04d019fc01471c1.png"
+                },
+                "keywords": [
+                    "covid"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://covid19.who.int/&tbm=ilp&ilps=ADNMCi3uSRS5_L4T5qEFyzHiO5TkFRl5LA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gNglBOQE1s4J:https://covid19.who.int/+&cd=59&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "COVID Live - Coronavirus Statistics - Worldometer",
+            "link": "https://www.worldometers.info/coronavirus/",
+            "displayed_link": "https://www.worldometers.info › coronavirus",
+            "about_this_result": {
+                "source": {
+                    "description": "Worldometer, formerly Worldometers, is a reference website that provides counters and real-time statistics for diverse topics. It is owned and operated by a data company Dadax which generates revenue through online advertising.",
+                    "icon": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/a906dc8a39714bd422a83641c0766cec503ab72a918a19ca8a318372de2e60afcb30788692a413b4910061350bedf17d.png"
+                },
+                "keywords": [
+                    "covid"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.worldometers.info/coronavirus/&tbm=ilp&ilps=ADNMCi2mVEIBomoebUbRVOhzADOl656dFw",
+            "rich_snippet_table": [
+                {
+                    "country_other": "World",
+                    "total_cases": "543,918,520",
+                    "new_cases": "+298,171",
+                    "total_deaths": "6,339,907",
+                    "new_deaths": "+520",
+                    "total_recovered": "519,016,406",
+                    "ne": "+2..."
+                },
+                {
+                    "country_other": "Europe",
+                    "total_cases": "199,998,307",
+                    "new_cases": "+133,745",
+                    "total_deaths": "1,850,071",
+                    "new_deaths": "+144",
+                    "total_recovered": "191,339,322",
+                    "ne": "+1..."
+                },
+                {
+                    "country_other": "Asia",
+                    "total_cases": "159,659,177",
+                    "new_cases": "+109,961",
+                    "total_deaths": "1,436,410",
+                    "new_deaths": "+251",
+                    "total_recovered": "153,820,452",
+                    "ne": "+1..."
+                }
+            ]
+        },
+        {
+            "position": 6,
+            "title": "COVID-19.ca.gov",
+            "link": "https://covid19.ca.gov/",
+            "displayed_link": "https://covid19.ca.gov",
+            "snippet": "Official website for California's COVID-19 response. Your actions save lives. Find information and services to help you and others.",
+            "about_this_result": {
+                "source": {
+                    "description": "covid19.ca.gov was first indexed by Google in March 2020",
+                    "icon": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/a906dc8a39714bd422a83641c0766cece4649f70def34f72db9734805f064298a86ee276d8c9438e3875272b42b04ba1.png"
+                },
+                "keywords": [
+                    "covid"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://covid19.ca.gov/&tbm=ilp&ilps=ADNMCi112C5RSgew8q-iRM4p6AMzYAU-XQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iI4yMNvtEcQJ:https://covid19.ca.gov/+&cd=61&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Tracking COVID-19 in California",
+            "link": "https://covid19.ca.gov/state-dashboard/",
+            "displayed_link": "https://covid19.ca.gov › state-dashboard",
+            "snippet": "Unvaccinated and vaccinated data. Vaccines prevent serious illness, save lives, and reduce further spread of COVID-19. As more people are vaccinated, the virus ...",
+            "about_this_result": {
+                "source": {
+                    "description": "covid19.ca.gov was first indexed by Google in March 2020",
+                    "icon": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/a906dc8a39714bd422a83641c0766cec3a3bb7531fbb3741de8d2ef4137573d8c444e4fb8e6b47705693fe2e8dae470f.png"
+                },
+                "keywords": [
+                    "covid"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://covid19.ca.gov/state-dashboard/&tbm=ilp&ilps=ADNMCi1LLbOkLQgY-OvRYq84mO-ggLX9QQ"
+        },
+        {
+            "position": 8,
+            "title": "Coronavirus | United Nations",
+            "link": "https://www.un.org/en/coronavirus",
+            "displayed_link": "https://www.un.org › coronavirus",
+            "snippet": "WHO: Coronavirus disease (COVID-19) Pandemic. The World Health Organization (WHO) is working closely with global experts, governments and partners to rapidly ...",
+            "about_this_result": {
+                "source": {
+                    "description": "un.org was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/a906dc8a39714bd422a83641c0766cecd24c327f5294c6dd14b85c82d7b38f937efb832591bc5837b4220d8ef2a16c8d.png"
+                },
+                "keywords": [
+                    "covid"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.un.org/en/coronavirus&tbm=ilp&ilps=ADNMCi1Hk2ZKLI_nK7pKdBXB7mcJ6hovjg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jhoXFfb714EJ:https://www.un.org/en/coronavirus+&cd=63&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "National COVID-19 Preparedness Plan - The White House",
+            "link": "https://www.whitehouse.gov/covidplan/",
+            "displayed_link": "https://www.whitehouse.gov › covidplan",
+            "snippet": "Today, the U.S. government is releasing the National COVID-19 Preparedness Plan – which will enable America to move forward safely, sustaining.",
+            "about_this_result": {
+                "source": {
+                    "description": "The White House is the official residence and workplace of the president of the United States. It is located at 1600 Pennsylvania Avenue NW in Washington, D.C., and has been the residence of every U.S. president since John Adams in 1800.",
+                    "icon": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/a906dc8a39714bd422a83641c0766cecff0e8101ed5691aa5c595bf9fff3ccb60248d4bf1e32ebff71d5cd0bc2c60126.png"
+                },
+                "keywords": [
+                    "covid"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.whitehouse.gov/covidplan/&tbm=ilp&ilps=ADNMCi0acE8BmY3pi5h66Qd6pIDH4CjpAw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:useVasDw6rAJ:https://www.whitehouse.gov/covidplan/+&cd=64&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 10,
+            "title": "COVID-19",
+            "link": "https://covid19.healthdata.org/",
+            "displayed_link": "https://covid19.healthdata.org",
+            "snippet": "As the pandemic continues to recede, IHME will update its COVID-19 models and forecasts at the beginning of each month. In the meantime, our researchers ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The Institute for Health Metrics and Evaluation is a research institute working in the area of global health statistics and impact evaluation at the University of Washington in Seattle.",
+                    "icon": "https://serpapi.com/searches/62ae5d0e2236e2e1019359ad/images/a906dc8a39714bd422a83641c0766cec48829637394652dc6771bc7036f5abc21225280c6fdf7b6de09b2f93c752f5b2.png"
+                },
+                "keywords": [
+                    "covid"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://covid19.healthdata.org/&tbm=ilp&ilps=ADNMCi16cgS8AWEdval8qgfRaWdTT2NKSw"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "covid-19 positivity rate by state",
+            "link": "https://www.google.com/search?q=covid-19+positivity+rate+by+state&sa=X&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q1QJ6BAhjEAE"
+        },
+        {
+            "query": "covid-19 cases by country",
+            "link": "https://www.google.com/search?q=covid-19+cases+by+country&sa=X&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q1QJ6BAhiEAE"
+        },
+        {
+            "query": "cdc covid",
+            "link": "https://www.google.com/search?q=CDC+COVID&sa=X&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q1QJ6BAhhEAE"
+        },
+        {
+            "query": "total covid cases in usa in last 24 hours",
+            "link": "https://www.google.com/search?q=Total+COVID+cases+in+USA+in+last+24+hours&sa=X&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q1QJ6BAhgEAE"
+        },
+        {
+            "query": "what states are in the red zone for covid-19 as of today",
+            "link": "https://www.google.com/search?q=what+states+are+in+the+red+zone+for+covid-19+as+of+today&sa=X&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q1QJ6BAhfEAE"
+        },
+        {
+            "query": "cdc guidelines for covid",
+            "link": "https://www.google.com/search?q=CDC+guidelines+for+COVID&sa=X&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q1QJ6BAhdEAE"
+        },
+        {
+            "query": "cdc covid tracker",
+            "link": "https://www.google.com/search?q=CDC+COVID+Tracker&sa=X&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q1QJ6BAhaEAE"
+        },
+        {
+            "query": "cdc covid map",
+            "link": "https://www.google.com/search?q=CDC+COVID+map&sa=X&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q1QJ6BAhZEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Covid&ei=Dl2uYoqSCaLIkPIPpa2U8A8&start=10&sa=N&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q8NMDegQIAhBN",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Covid&ei=Dl2uYoqSCaLIkPIPpa2U8A8&start=10&sa=N&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q8tMDegQIAhA7",
+            "3": "https://www.google.com/search?q=Covid&ei=Dl2uYoqSCaLIkPIPpa2U8A8&start=20&sa=N&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q8tMDegQIAhA9",
+            "4": "https://www.google.com/search?q=Covid&ei=Dl2uYoqSCaLIkPIPpa2U8A8&start=30&sa=N&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q8tMDegQIAhA_",
+            "5": "https://www.google.com/search?q=Covid&ei=Dl2uYoqSCaLIkPIPpa2U8A8&start=40&sa=N&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q8tMDegQIAhBB",
+            "6": "https://www.google.com/search?q=Covid&ei=Dl2uYoqSCaLIkPIPpa2U8A8&start=50&sa=N&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q8tMDegQIAhBD",
+            "7": "https://www.google.com/search?q=Covid&ei=Dl2uYoqSCaLIkPIPpa2U8A8&start=60&sa=N&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q8tMDegQIAhBF",
+            "8": "https://www.google.com/search?q=Covid&ei=Dl2uYoqSCaLIkPIPpa2U8A8&start=70&sa=N&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q8tMDegQIAhBH",
+            "9": "https://www.google.com/search?q=Covid&ei=Dl2uYoqSCaLIkPIPpa2U8A8&start=80&sa=N&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q8tMDegQIAhBJ",
+            "10": "https://www.google.com/search?q=Covid&ei=Dl2uYoqSCaLIkPIPpa2U8A8&start=90&sa=N&ved=2ahUKEwiK0aSbkbj4AhUiJEQIHaUWBf4Q8tMDegQIAhBL"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Covid&start=90"
+        }
+    }
+}

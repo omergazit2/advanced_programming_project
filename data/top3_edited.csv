@@ -71,9 +71,9 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 16,محلول,ar,1,محلول - ويكيبيديا,https://ar.wikipedia.org/wiki/محلول,3,2,1,3,0
 16,محلول,ar,2,محلول ملحي (طب) - ويكيبيديا,https://ar.wikipedia.org/wiki/محلول_ملحي_(طب),3,2,1,3,0
 16,محلول,ar,3,المحاليل الوريدية - أنواعها واستخداماتها - FADIC,https://fadic.net/المحاليل-الوريدية-أنواعها-واستخداما/,1,2,2,1,1
-20,Atom,en,1,Atom,https://atom.io/,0,0,1,3,0
-20,Atom,en,2,"Movies: Find Showtimes, Buy Movie Tickets & More | Atom ...",https://www.atomtickets.com/,0,0,0,1,0
-20,Atom,en,3,Atom - Wikipedia,https://en.wikipedia.org/wiki/Atom,3,1,3,3,0
+20,Atom,en,1,"atom | Definition, Structure, History, Examples, Diagram,",https://www.britannica.com/science/atom,3,3,3,3,0
+20,Atom,en,2,Atomic physics - Wikipedia,https://en.wikipedia.org/wiki/Atomic_physics,3,3,0,3,0
+20,Atom,en,3,Atom - Wikipedia,https://en.wikipedia.org/wiki/Atom,3,3,3,3,0
 20,Атом,ru,1,Атом - Википедия,https://ru.wikipedia.org/wiki/Атом,3,1,3,3,0
 20,Атом,ru,2,Браузер Atom,https://browser.ru/,1,1,0,2,1
 20,Атом,ru,3,Атом — все статьи и новости - Индикатор - Indicator.Ru,https://indicator.ru/label/atom,3,2,3,3,0
@@ -95,10 +95,10 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 28,طاقة,ar,1,طاقة - ويكيبيديا,https://ar.wikipedia.org/wiki/طاقة,3,3,3,3,0
 28,طاقة,ar,2,الطاقة - أول منصة عربية متخصصة في أخبار الطاقة,https://attaqa.net/,1,2,3,1,1
 28,طاقة,ar,3,Powering a Thriving Future - TAQA,https://www.taqa.com/ar/,0,1,3,3,1
-29,Weight,en,1,Personalized Weight Loss Like Never Before—No Two Plans ...,https://www.weightwatchers.com/us/,0,0,0,2,1
-29,Weight,en,2,Weight Definition & Meaning - Merriam-Webster,https://www.merriam-webster.com/dictionary/weight,2,1,0,3,1
-29,Weight,en,3,Healthy Weight & Weight Management - WebMD,https://www.webmd.com/diet/obesity/healthy-weight,1,1,3,2,1
-29,Вес,ru,1,Вес - Википедия,https://ru.wikipedia.org/wiki/Вес,3,3,2,3,0
+29,Weight,en,1,Personalized Weight Loss Like Never Before—No Two Plans ...,https://www.weightwatchers.com/us/,1,2,2,2,1
+29,Weight,en,2,Weight Definition & Meaning - Merriam-Webster,https://www.merriam-webster.com/dictionary/weight,3,3,0,3,1
+29,Weight,en,3,Healthy Weight & Weight Management - WebMD,https://www.webmd.com/diet/obesity/healthy-weight,3,3,3,2,1
+29,Вес,ru,1,Вес - Википедия,https://ru.wikipedia.org/wiki/Вес,3,3,3,3,0
 29,Вес,ru,2,ИМТ-калькулятор: рассчитайте свой идеальный вес - NIVEA,https://www.nivea.ru/advice/calculator-bmi,0,0,1,2,0
 29,Вес,ru,3,Индекс массы тела (индекс Кетле) - MSD Manuals,https://www.msdmanuals.com/medical-calculators/BodyMassIndex-ru.htm,0,0,0,1,0
 29,משקל,iw,1,משקל (פיזיקה) - ויקיפדיה,https://he.wikipedia.org/wiki/משקל_(פיזיקה),3,2,1,3,0
@@ -215,18 +215,18 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 47,سيارة ذاتية القيادة,ar,1,مركبة ذاتية القيادة - ويكيبيديا,https://ar.wikipedia.org/wiki/مركبة_ذاتية_القيادة,3,2,2,3,0
 47,سيارة ذاتية القيادة,ar,2,السيارات ذاتية القيادة: كيف ستغير عالمنا خلال عشر سنوات؟,https://www.bbc.com/arabic/vert-fut-59455307,1,1,1,1,0
 47,سيارة ذاتية القيادة,ar,3,هل السيارات ذاتية القيادة هي المستقبل؟ - Kia,https://www.kia.com/nmc/ar/discover-kia/ask/are-self-driving-cars-the-future.html,1,1,1,2,1
-48,protein folding,en,1,"Protein Folding: The Good, the Bad, and the Ugly - Science In ...",https://sitn.hms.harvard.edu/flash/2010/issue65/,3,2,1,2,0
-48,protein folding,en,2,It will change everything': DeepMind's AI makes gigantic leap ...,https://www.nature.com/articles/d41586-020-03348-4,2,3,1,2,0
-48,protein folding,en,3,Protein Folding - News-Medical.net,https://www.news-medical.net/life-sciences/Protein-Folding.aspx,3,2,3,1,0
-48,сворачивание белка,ru,1,Фолдинг белка - Википедия,https://ru.wikipedia.org/wiki/Фолдинг_белка,3,2,1,3,0
-48,сворачивание белка,ru,2,Свертывание белков - chem.msu.su,http://www.chem.msu.su/rus/teaching/kolman/80.htm,2,2,2,2,0
-48,сворачивание белка,ru,3,Фолдинг белка — все самое интересное на ПостНауке,https://postnauka.ru/video/32627,3,3,2,2,0
-48,קיפול חלבונים,iw,1,קיפול חלבונים - ויקיפדיה,https://he.wikipedia.org/wiki/קיפול_חלבונים,3,3,1,3,0
-48,קיפול חלבונים,iw,2,האוריגמי המורכב של החלבונים - מכון דוידסון,https://davidson.weizmann.ac.il/online/sciencepanorama/האוריגמי-המורכב-של-החלבונים,3,2,2,2,0
-48,קיפול חלבונים,iw,3,פריצת הדרך שתשנה הכל ברפואה - הידען,https://www.hayadan.org.il/breakthrough_proteins_nanotechnology,1,1,1,1,0
-48,تطوي البروتين,ar,1,تطوي البروتين - ويكيبيديا,https://ar.wikipedia.org/wiki/تطوي_البروتين,3,1,2,3,0
-48,تطوي البروتين,ar,2,Protein folding - البروتين للطي - المعرفة,https://www.marefa.org/طي_الپروتين/simplified,1,1,0,1,0
-48,تطوي البروتين,ar,3,"""طي البروتين"" .. لغز حير العلماء منذ 50 عاما وفك شفرته الذكاء ...",https://enterprise.press/ar/stories/2020/12/01/طي-البروتين-لغز-حير-العلماء-منذ-50-عام/,3,2,1,1,0
+75,protein folding,en,1,"Protein Folding: The Good, the Bad, and the Ugly - Science In ...",https://sitn.hms.harvard.edu/flash/2010/issue65/,3,2,1,2,0
+75,protein folding,en,2,It will change everything': DeepMind's AI makes gigantic leap ...,https://www.nature.com/articles/d41586-020-03348-4,2,3,1,2,0
+75,protein folding,en,3,Protein Folding - News-Medical.net,https://www.news-medical.net/life-sciences/Protein-Folding.aspx,3,2,3,1,0
+75,сворачивание белка,ru,1,Фолдинг белка - Википедия,https://ru.wikipedia.org/wiki/Фолдинг_белка,3,2,1,3,0
+75,сворачивание белка,ru,2,Свертывание белков - chem.msu.su,http://www.chem.msu.su/rus/teaching/kolman/80.htm,2,2,2,2,0
+75,сворачивание белка,ru,3,Фолдинг белка — все самое интересное на ПостНауке,https://postnauka.ru/video/32627,3,3,2,2,0
+75,קיפול חלבונים,iw,1,קיפול חלבונים - ויקיפדיה,https://he.wikipedia.org/wiki/קיפול_חלבונים,3,3,1,3,0
+75,קיפול חלבונים,iw,2,האוריגמי המורכב של החלבונים - מכון דוידסון,https://davidson.weizmann.ac.il/online/sciencepanorama/האוריגמי-המורכב-של-החלבונים,3,2,2,2,0
+75,קיפול חלבונים,iw,3,פריצת הדרך שתשנה הכל ברפואה - הידען,https://www.hayadan.org.il/breakthrough_proteins_nanotechnology,1,1,1,1,0
+75,تطوي البروتين,ar,1,تطوي البروتين - ويكيبيديا,https://ar.wikipedia.org/wiki/تطوي_البروتين,3,1,2,3,0
+75,تطوي البروتين,ar,2,Protein folding - البروتين للطي - المعرفة,https://www.marefa.org/طي_الپروتين/simplified,1,1,0,1,0
+75,تطوي البروتين,ar,3,"""طي البروتين"" .. لغز حير العلماء منذ 50 عاما وفك شفرته الذكاء ...",https://enterprise.press/ar/stories/2020/12/01/طي-البروتين-لغز-حير-العلماء-منذ-50-عام/,3,2,1,1,0
 49,black hole,en,1,Black hole - Wikipedia,https://en.wikipedia.org/wiki/Black_hole,3,3,3,3,0
 49,black hole,en,2,Black Holes | Science Mission Directorate,https://science.nasa.gov/astrophysics/focus-areas/black-holes,3,3,3,3,0
 49,black hole,en,3,Astronomers Reveal First Image of the Black Hole at the Heart ...,https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy,2,3,3,2,0
@@ -251,12 +251,9 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 52,طفرة,ar,1,طفرة (أحياء) - ويكيبيديا,https://ar.wikipedia.org/wiki/طفرة_(أحياء),3,2,1,3,0
 52,طفرة,ar,2,طفرة (Mutation) | الطبي,https://altibbi.com/مصطلحات-طبية/علم-الوراثة/طفرة,2,3,2,2,0
 52,طفرة,ar,3,تعريف و معنى طفرة في معجم المعاني الجامع - معجم عربي عربي,https://www.almaany.com/ar/dict/ar-ar/طفرة/,3,1,1,1,0
-53,Malnutrition,en,1,"Malnutrition: Symptoms, causes, diagnosis, and treatment",https://www.medicalnewstoday.com/articles/179316,1,2,0,2,1
-53,Malnutrition,en,2,Fact sheets - Malnutrition - WHO | World Health Organization,https://www.who.int/news-room/fact-sheets/detail/malnutrition,1,2,0,2,0
-53,Malnutrition,en,3,"Malnutrition: Definition, Symptoms and Treatment - Healthline",https://www.healthline.com/nutrition/malnutrition,1,1,0,1,0
-53,Malnutrition,en,1,Fact sheets - Malnutrition - WHO | World Health Organization,https://www.who.int/news-room/fact-sheets/detail/malnutrition,1,2,0,2,0
-53,Malnutrition,en,2,Malnutrition | Johns Hopkins Medicine,https://www.hopkinsmedicine.org/health/conditions-and-diseases/malnutrition,3,2,0,2,0
-53,Malnutrition,en,3,"Malnutrition: Symptoms, causes, diagnosis, and treatment",https://www.medicalnewstoday.com/articles/179316,1,2,1,2,0
+53,Malnutrition,en,1,Fact sheets - Malnutrition - WHO | World Health Organization,https://www.who.int/news-room/fact-sheets/detail/malnutrition,3,2,1,2,0
+53,Malnutrition,en,2,Malnutrition | Johns Hopkins Medicine,https://www.hopkinsmedicine.org/health/conditions-and-diseases/malnutrition,3,2,2,3,0
+53,Malnutrition,en,3,"Malnutrition: Symptoms, causes, diagnosis, and treatment",https://www.medicalnewstoday.com/articles/179316,3,2,2,3,0
 53,недостаточное питание,ru,1,Неполноценное питание - WHO | World Health Organization,https://www.who.int/ru/news-room/fact-sheets/detail/malnutrition,3,2,0,1,0
 53,недостаточное питание,ru,2,Обзор гипотрофии - Болезни нарушения питания - MSD ...,https://www.msdmanuals.com/ru-ru/профессиональный/болезни-нарушения-питания/гипотрофия/обзор-недоедания-overview-of-undernutrition,3,1,1,2,0
 53,недостаточное питание,ru,3,НЕДОСТАТОЧНОЕ ПИТАНИЕ У ПАЦИЕНТА: диагностика и ...,https://www.lvrach.ru/2003/06/4530436,1,2,1,2,1
@@ -267,11 +264,8 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 53,سوء التغذية,ar,2,سوء التغذية: الأسباب، الأعراض والعلاج - ويب طب,https://www.webteb.com/diet/diseases/سوء-التغذية,2,1,2,1,1
 53,سوء التغذية,ar,3,علامات أمراض سوء التغذية - ويب طب,https://www.webteb.com/articles/علامات-امراض-سوء-التغذية_18127,2,3,2,1,1
 56,Calorie,en,1,"Calories: Requirements, health needs, and function - Medical ...",https://www.medicalnewstoday.com/articles/263028,3,3,2,3,1
-56,Calorie,en,2,Calorie Calculator,https://www.calculator.net/calorie-calculator.html,3,2,0,2,1
-56,Calorie,en,3,Calorie - Wikipedia,https://en.wikipedia.org/wiki/Calorie,3,3,1,3,0
-56,Calorie,en,1,Calorie Calculator,https://www.calculator.net/calorie-calculator.html,3,2,0,2,1
 56,Calorie,en,2,Calorie - Wikipedia,https://en.wikipedia.org/wiki/Calorie,3,3,1,3,0
-56,Calorie,en,3,"Calories: Requirements, health needs, and function - Medical ...",https://www.medicalnewstoday.com/articles/263028,3,2,1,3,0
+56,Calorie,en,3,Calorie - Wikipedia,https://en.wikipedia.org/wiki/Calorie,3,3,1,3,0
 56,Калория,ru,1,Что такое калории и зачем их считать? - Еда.ру,https://eda.ru/media/vopros/chto-takoe-kalorii-i-zachem-ih-schitat,1,1,2,2,1
 56,Калория,ru,2,это... Что такое Калория? - Словари и энциклопедии на ...,https://dic.academic.ru/dic.nsf/ruwiki/24792,1,2,0,2,1
 56,Калория,ru,3,Чем отличаются калории от килокалорий - Men's Health,https://www.mhealth.ru/fitness/weight-and-mass/bazovye-voprosy-chto-takoe-kilokalorii-i-kak-ih-schitat/,2,1,2,2,1
@@ -281,11 +275,8 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 56,سعرة حرارية,ar,1,دليلك لفهم السعرات الحرارية - ويب طب,https://www.webteb.com/articles/دليلك-لفهم-السعرات-الحرارية_15019,2,1,1,1,1
 56,سعرة حرارية,ar,2,سعرة - ويكيبيديا,https://ar.wikipedia.org/wiki/سعرة,3,3,1,3,0
 56,سعرة حرارية,ar,3,حاسبة السعرات الحرارية (BMR) | الكونسلتو,https://www.elconsolto.com/calculator/bmr,1,1,3,1,1
-58,Renewable Energy,en,1,Renewable Energy: The Clean Facts - NRDC,https://www.nrdc.org/stories/renewable-energy-clean-facts,1,2,1,2,1
-58,Renewable Energy,en,2,"What is Renewable Energy? - Definition, Types, Benefits and ...",https://www.twi-global.com/technical-knowledge/faqs/renewable-energy,3,3,0,3,0
-58,Renewable Energy,en,3,Renewable energy explained - EIA,https://www.eia.gov/energyexplained/renewable-sources/,2,2,1,3,0
-58,Renewable Energy,en,1,Renewable Energy: The Clean Facts - NRDC,https://www.nrdc.org/stories/renewable-energy-clean-facts,3,2,1,2,0
-58,Renewable Energy,en,2,Clean Energy,https://www.energy.gov/clean-energy,1,2,2,2,0
+58,Renewable Energy,en,1,"What is Renewable Energy? - Definition, Types, Benefits and ...",https://www.twi-global.com/technical-knowledge/faqs/renewable-energy,3,3,0,3,0
+58,Renewable Energy,en,2,Renewable energy explained - EIA,https://www.eia.gov/energyexplained/renewable-sources/,2,2,1,3,0
 58,Renewable Energy,en,3,Renewable energy explained - EIA,https://www.eia.gov/energyexplained/renewable-sources/,3,2,2,2,0
 58,Возобновляемая энергия,ru,1,Возобновляемая энергия - Википедия,https://ru.wikipedia.org/wiki/Возобновляемая_энергия,3,2,3,3,0
 58,Возобновляемая энергия,ru,2,Что такое Возобновляемые источники энергии (ВИЭ),https://neftegaz.ru/tech-library/energoresursy-toplivo/141763-vozobnovlyaemye-istochniki-energii-vie/,1,3,2,2,0
@@ -326,10 +317,7 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 65,تلوث التربة,ar,1,تلوث التربة - ويكيبيديا,https://ar.wikipedia.org/wiki/تلوث_التربة,3,3,1,3,0
 65,تلوث التربة,ar,2,بحث عن تلوث التربة - موضوع,https://mawdoo3.com/بحث_عن_تلوث_التربة,3,1,1,2,0
 65,تلوث التربة,ar,3,أسباب تلوث التربة - موضوع,https://mawdoo3.com/أسباب_تلوث_التربة,3,1,2,2,0
-66,Greenhouse gas,en,1,"greenhouse gas | Definition, Emissions, & Greenhouse Effect",https://www.britannica.com/science/greenhouse-gas,3,2,1,2,0
-66,Greenhouse gas,en,2,Overview of Greenhouse Gases | US EPA,https://www.epa.gov/ghgemissions/overview-greenhouse-gases,1,2,1,2,0
-66,Greenhouse gas,en,3,Greenhouse gas - Wikipedia,https://en.wikipedia.org/wiki/Greenhouse_gas,3,2,3,3,0
-66,Greenhouse gas,en,1,Overview of Greenhouse Gases | US EPA,https://www.epa.gov/ghgemissions/overview-greenhouse-gases,1,2,1,2,0
+66,Greenhouse gas,en,1,Greenhouse gas - Wikipedia,https://en.wikipedia.org/wiki/Greenhouse_gas,3,2,3,3,0
 66,Greenhouse gas,en,2,Greenhouse gas - Wikipedia,https://en.wikipedia.org/wiki/Greenhouse_gas,3,3,2,3,0
 66,Greenhouse gas,en,3,"greenhouse gas | Definition, Emissions, & Greenhouse Effect",https://www.britannica.com/science/greenhouse-gas,3,2,2,2,0
 66,Парниковые газы,ru,1,Парниковые газы - Википедия,https://ru.wikipedia.org/wiki/Парниковые_газы,3,2,3,3,0
@@ -344,9 +332,6 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 68,Infection,en,1,"Infection: Types, causes, and differences - Medical News Today",https://www.medicalnewstoday.com/articles/196271,2,3,3,3,0
 68,Infection,en,2,Infection - Wikipedia,https://en.wikipedia.org/wiki/Infection,3,3,1,2,0
 68,Infection,en,3,How Infections Spread | Infection Control | CDC,https://www.cdc.gov/infectioncontrol/spread/index.html,2,2,1,2,0
-68,Infection,en,1,"Infection: Types, causes, and differences - Medical News Today",https://www.medicalnewstoday.com/articles/196271,2,3,3,3,0
-68,Infection,en,2,Infection - Wikipedia,https://en.wikipedia.org/wiki/Infection,3,2,1,3,0
-68,Infection,en,3,How Infections Spread | Infection Control | CDC,https://www.cdc.gov/infectioncontrol/spread/index.html,1,2,0,1,0
 68,Инфекция,ru,1,Инфекционные заболевания - Википедия,https://ru.wikipedia.org/wiki/Инфекционные_заболевания,3,2,1,3,0
 68,Инфекция,ru,2,это... Что такое Инфекция? - Словари и энциклопедии на ...,https://dic.academic.ru/dic.nsf/ruwiki/38750,3,3,1,3,0
 68,Инфекция,ru,3,"Инфекционные болезни - СПб ГБУЗ ""Городская ...",http://poliklinika74spb.ru/people/инфекционные-заболевания/,2,2,2,2,1
@@ -356,12 +341,9 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 68,عدوى,ar,1,عدوى - ويكيبيديا,https://ar.wikipedia.org/wiki/عدوى,3,2,2,3,0
 68,عدوى,ar,2,عدوى (فيلم) - ويكيبيديا,https://ar.wikipedia.org/wiki/عدوى_(فيلم),0,0,0,3,0
 68,عدوى,ar,3,حدوثُ العدوى - حالات العَدوى - دليل MSD الإرشادي إصدار المُستخدِم,https://www.msdmanuals.com/ar/home/حالات-العَدوى/بَيُولوجيا-الأمراض-المُعْدِيَة/حدوثُ-العدوى,1,2,1,2,0
-70,Flood,en,1,What is a Flood? | What Causes a Flood? - Earth Networks,https://www.earthnetworks.com/flooding/,3,1,1,2,0
-70,Flood,en,2,Flood Basics - Severe Weather 101,https://www.nssl.noaa.gov/education/svrwx101/floods/,3,2,2,2,0
-70,Flood,en,3,flood - Longman Dictionary,https://www.ldoceonline.com/dictionary/flood,3,0,0,1,0
-70,Flood,en,1,Flood - Wikipedia,https://en.wikipedia.org/wiki/Flood,3,3,1,3,0
-70,Flood,en,2,Flood Basics - Severe Weather 101,https://www.nssl.noaa.gov/education/svrwx101/floods/,3,2,3,2,0
-70,Flood,en,3,Flood Insurance | FEMA.gov,https://www.fema.gov/flood-insurance,1,1,1,3,0
+70,Flood,en,1,Flood Basics - Severe Weather 101,https://www.nssl.noaa.gov/education/svrwx101/floods/,3,2,2,2,0
+70,Flood,en,2,Flood - Wikipedia,https://en.wikipedia.org/wiki/Flood,3,3,1,3,0
+70,Flood,en,3,Flood Basics - Severe Weather 101,https://www.nssl.noaa.gov/education/svrwx101/floods/,3,2,3,2,0
 70,Наводнение,ru,1,Наводнение - Википедия,https://ru.wikipedia.org/wiki/Наводнение,3,2,2,1,0
 70,Наводнение,ru,2,Наводнения и весенние паводки - ЧС природного характера,https://www.mchs.gov.ru/deyatelnost/bezopasnost-grazhdan/navodneniya-i-vesennie-pavodki_7,2,2,0,2,0
 70,Наводнение,ru,3,Наводнение - последние новости сегодня,https://ria.ru/tag_thematic_category_Navodnenie/,0,0,0,2,1
@@ -371,9 +353,6 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 70,الفيضان,ar,1,فيضان - ويكيبيديا,https://ar.wikipedia.org/wiki/فيضان,3,3,3,3,0
 70,الفيضان,ar,2,فيضان - المعرفة,https://www.marefa.org/فيضان/simplified,3,2,1,3,0
 70,الفيضان,ar,3,كيف تحدث الفيضانات - موضوع,https://mawdoo3.com/كيف_تحدث_الفيضانات,2,2,1,2,0
-71,Drought,en,1,Drought - Wikipedia,https://en.wikipedia.org/wiki/Drought,3,3,1,3,0
-71,Drought,en,2,What causes drought? | U.S. Geological Survey,https://www.usgs.gov/faqs/what-causes-drought,1,2,2,2,0
-71,Drought,en,3,Drought | National Geographic Society,https://www.nationalgeographic.org/encyclopedia/drought/,1,2,2,2,0
 71,Drought,en,1,US Drought Monitor: Current Map,https://droughtmonitor.unl.edu/,3,2,3,2,0
 71,Drought,en,2,Understand Drought and Know How to Respond - National ...,https://www.weather.gov/safety/drought,3,3,1,1,0
 71,Drought,en,3,Drought.gov: Home,https://www.drought.gov/,1,1,3,2,1
@@ -386,3 +365,51 @@ termId,searchTerm,language,position,title,link,definition,information,visualizat
 71,جفاف,ar,1,الجفاف - الأعراض والأسباب - Mayo Clinic (مايو كلينك),https://www.mayoclinic.org/ar/diseases-conditions/dehydration/symptoms-causes/syc-20354086,1,2,0,1,0
 71,جفاف,ar,2,الجفاف - التشخيص والعلاج - Mayo Clinic (مايو كلينك),https://www.mayoclinic.org/ar/diseases-conditions/dehydration/diagnosis-treatment/drc-20354092,1,2,0,2,1
 71,جفاف,ar,3,أعراض جفاف الجسم الشديد - ويب طب,https://www.webteb.com/articles/اعراض-جفاف-الجسم-الشديد_28866,1,2,0,2,1
+72,Covid,en,1,CDC COVID Data Tracker - Centers for Disease Control and ...,https://covid.cdc.gov/covid-data-tracker/,1,1,2,1,0
+72,Covid,en,2,Coronavirus Disease 2019 (COVID-19) | CDC,https://www.cdc.gov/coronavirus/2019-ncov/index.html,2,1,1,2,1
+72,Covid,en,3,Coronavirus disease (COVID-19) - WHO | World Health ...,https://www.who.int/emergencies/diseases/novel-coronavirus-2019,1,1,2,1,0
+72,кови́д,ru,1,Коронавирус COVID–19: Официальная информация о ...,https://xn--80aesfpebagmfblc0a.xn--p1ai/,1,1,1,1,1
+72,кови́д,ru,2,Оперативные данные | Коронавирус COVID–19,https://xn--80aesfpebagmfblc0a.xn--p1ai/information/,1,1,1,1,1
+72,кови́д,ru,3,COVID-19 - Википедия,https://ru.wikipedia.org/wiki/COVID-19,3,2,1,3,0
+72,קורונה,iw,1,נגיף הקורונה - משרד הבריאות,https://govextra.gov.il/ministry-of-health/corona/corona-virus/,1,2,1,2,0
+72,קורונה,iw,2,בידוד למאומתים לקורונה,https://corona.health.gov.il/isolation-lobby/isolation-confirmed-corona/,1,1,1,1,0
+72,קורונה,iw,3,קורונה - משרד הבריאות,https://datadashboard.health.gov.il/COVID-19/,2,2,1,2,0
+72,كورونا,ar,1,مرض فيروس كورونا (كوفيد-19): أسئلة وأجوبة - WHO | World ...,https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses,1,2,1,2,0
+72,كورونا,ar,2,منظمة الصحة العالمية | فيروس كورونا | COVID-19 | المواضيع ...,http://www.emro.who.int/ar/health-topics/corona-virus/index.html,1,1,1,1,0
+72,كورونا,ar,3,مرض فيروس كورونا المستجد 2019 (كوفيد-19) - الأعراض ...,https://www.mayoclinic.org/ar/diseases-conditions/coronavirus/symptoms-causes/syc-20479963,2,2,1,2,0
+73,Cultured meat,en,1,Cultured meat - Wikipedia,https://en.wikipedia.org/wiki/Cultured_meat,3,2,1,3,0
+73,Cultured meat,en,2,The science of cultivated meat | GFI - Good Food Institute,https://gfi.org/science/the-science-of-cultivated-meat/,2,1,1,2,1
+73,Cultured meat,en,3,Cultured Meat Is Coming Soon: Here's What You Need to Know,https://www.labiotech.eu/in-depth/cultured-meat-industry/,2,2,2,2,0
+73,Искусственное мясо,ru,1,Искусственное мясо - Википедия,https://ru.wikipedia.org/wiki/Искусственное_мясо,3,2,1,3,0
+73,Искусственное мясо,ru,2,Искусственное мясо захватывает мир. Почему Россия ...,https://lenta.ru/articles/2021/07/23/myaso/,3,2,2,2,0
+73,Искусственное мясо,ru,3,Мясо из пробирки: от странной еды не для всех к ... - BBC,https://www.bbc.com/russian/features-59958379,2,1,1,2,0
+73,בשר מתורבת,iw,1,בשר מתורבת - ויקיפדיה,https://he.wikipedia.org/wiki/בשר_מתורבת,2,3,3,3,0
+73,בשר מתורבת,iw,2,בשר מתורבת - גלובס,https://www.globes.co.il/news/בשר_מתורבת.tag,3,3,1,2,0
+73,בשר מתורבת,iw,3,המנגל הלאומי: בשר מתורבת יוביל את ישראל לעצמאות תזונתית - ...,https://www.globes.co.il/news/article.aspx?did=1001411117,2,2,1,2,0
+73,لحم مصنع,ar,1,لحم مصنع - ويكيبيديا,https://ar.wikipedia.org/wiki/لحم_مصنع,3,2,1,3,0
+73,لحم مصنع,ar,2,"اللحوم الصناعية... ثورة أم ""مهلكة"" غذائية؟ | اندبندنت عربية",https://www.independentarabia.com/node/179316,3,3,1,3,0
+73,لحم مصنع,ar,3,تعرف على حقيقة اللحوم المصنعة - ويب طب,https://www.webteb.com/articles/اللحوم-المصنعة_16249,2,2,2,2,0
+74,Tissue engineering,en,1,Tissue Engineering and Regenerative Medicine - National ...,https://www.nibib.nih.gov/science-education/science-topics/tissue-engineering-and-regenerative-medicine,1,3,2,2,0
+74,Tissue engineering,en,2,"Tissue Engineering, Parts A, B, & C - Mary Ann Liebert, Inc.",https://home.liebertpub.com/tea,1,0,1,1,1
+74,Tissue engineering,en,3,Tissue Engineering Approaches in the Design of Healthy and ...,https://www.frontiersin.org/articles/10.3389/fbioe.2017.00040/full,2,1,1,1,0
+74,Тканевая инженерия,ru,1,тканевая инженерия,https://thesaurus.rusnano.com/wiki/article1799,3,2,1,2,0
+74,Тканевая инженерия,ru,2,Тканевая инженерия — окно в современную медицину,https://biomolecula.ru/articles/tkanevaia-inzheneriia-okno-v-sovremennuiu-meditsinu,2,2,2,1,0
+74,Тканевая инженерия,ru,3,Тканевая инженерия | bioimplantat.ru,https://bioimplantat.ru/articles/travmatologiya/tkanevaya-inzheneriya/,3,1,1,2,0
+74,הנדסת רקמות,iw,1,הנדסת רקמות - ויקיפדיה,https://he.wikipedia.org/wiki/הנדסת_רקמות,3,2,2,3,0
+74,הנדסת רקמות,iw,2,הנדסת רקמות | Israel Innovation Authority – רשות החדשנות,https://innovationisrael.org.il/magazine/5103,3,2,2,2,0
+74,הנדסת רקמות,iw,3,הנדסת רקמות | מכון דוידסון לחינוך מדעי,https://davidson.weizmann.ac.il/tags/הנדסת-רקמות,2,2,2,1,0
+74,هندسة الأنسجة,ar,1,هندسة الأنسجة - ويكيبيديا,https://ar.wikipedia.org/wiki/هندسة_الأنسجة,3,2,1,3,0
+74,هندسة الأنسجة,ar,2,هندسة الأنسجة - أنا أصدق العلم,https://www.ibelieveinsci.com/هندسة-الأنسجة/,3,1,1,2,0
+74,هندسة الأنسجة,ar,3,هندسة الانسجة - المعرفة,https://www.marefa.org/هندسة_الأنسجة/simplified,3,2,2,2,0
+76,Immunotherapy,en,1,How Immunotherapy Is Used to Treat Cancer,https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy/what-is-immunotherapy.html,3,2,2,2,0
+76,Immunotherapy,en,2,Immunotherapy for Cancer - NCI,https://www.cancer.gov/about-cancer/treatment/types/immunotherapy,3,3,1,3,0
+76,Immunotherapy,en,3,What Is Immunotherapy? - Cancer.Net,https://www.cancer.net/navigating-cancer-care/how-cancer-treated/immunotherapy-and-vaccines/what-immunotherapy,3,2,2,3,1
+76,Иммунотерапия,ru,1,Иммунотерапия - Клиническая больница РАН,https://spbkbran.ru/ru/immunotherapy/,3,2,0,2,0
+76,Иммунотерапия,ru,2,Иммунотерапия - Онкологічна клініка ІННОВАЦІЯ,https://innovacia.com.ua/rus/service/chemotherapy/imunotherapy/,3,1,1,1,1
+76,Иммунотерапия,ru,3,Иммунотерапия - Википедия,https://ru.wikipedia.org/wiki/Иммунотерапия,3,2,2,3,0
+76,אימונותרפיה,iw,1,אימונותרפיה - האגודה למלחמה בסרטן,https://www.cancer.org.il/template/default.aspx?PageId=12342,3,2,1,2,0
+76,אימונותרפיה,iw,2,אימונותרפיה - ויקיפדיה,https://he.wikipedia.org/wiki/אימונותרפיה,3,2,1,1,0
+76,אימונותרפיה,iw,3,אימונותרפיה - טיפולים למלחמה בסרטן | מכון אלה שיבא תל השומר,https://ella.sheba.co.il/אימונותרפיה,2,2,1,1,0
+76,علاج مناعي,ar,1,العلاج المناعي | كليفلاند كلينك أبوظبي - Cleveland Clinic ...,https://www.clevelandclinicabudhabi.ae/ar/health-hub/health-library/pages/immunotherapy.aspx,3,1,1,1,0
+76,علاج مناعي,ar,2,العلاج المناعي للسرطان: علاج واعد للسرطانات العنيدة - ويب طب,https://www.webteb.com/articles/العلاج-المناعي-للسرطان_26826,3,2,1,2,0
+76,علاج مناعي,ar,3,علاج مناعي أكثر أمانًا للسرطان - للعِلم - Scientific American,https://www.scientificamerican.com/arabic/articles/news/masked-cytokine-for-safer-cancer-immunotherapy/,2,2,1,1,0

@@ -1,0 +1,303 @@
+{
+    "search_metadata": {
+        "id": "62ae5d685c56065f3982d45e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c6ea9ebe12d56964/62ae5d685c56065f3982d45e.json",
+        "created_at": "2022-06-18 23:19:04 UTC",
+        "processed_at": "2022-06-18 23:19:04 UTC",
+        "google_url": "https://www.google.com/search?q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&oq=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c6ea9ebe12d56964/62ae5d685c56065f3982d45e.html",
+        "total_time_taken": 1.43
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "كورونا",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "كورونا",
+        "total_results": 227000000,
+        "time_taken_displayed": 0.67
+    },
+    "knowledge_graph": {
+        "title": "مرض فيروس كورونا (كوفيد-19)",
+        "cite_name": "مرض فيروس كورونا (كوفيد-19): أسئلة وأجوبة‏ - WHO | World ...",
+        "cite_link": "https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "تفشي السارس 2002-2004",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D9%81%D8%B4%D9%8A+%D8%A7%D9%84%D8%B3%D8%A7%D8%B1%D8%B3+2002-2004&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHooS2mv4UwqEYPiBh02K1N_L21RKOxxyp18pn8C_D_ZBohuV_PXaPVbwWLdHYxuH8E_TcQ2jGRP_ED_cJ-8jJXEnCut7bjP1QVgjUlEo5ciQwFvbDut11X0lS7H3rrZoCm5loxZq7IQQrR6KT5Ay7aYNwOT0EAV7FZ7Z93Jd1FI6PSAbo4ZJjdnQBZjG99OYd2429k4%3D&sa=X&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQgOQBegQIVRAE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%B4%D9%8A+%D8%A7%D9%84%D8%B3%D8%A7%D8%B1%D8%B3+2002-2004&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHooS2mv4UwqEYPiBh02K1N_L21RKOxxyp18pn8C_D_ZBohuV_PXaPVbwWLdHYxuH8E_TcQ2jGRP_ED_cJ-8jJXEnCut7bjP1QVgjUlEo5ciQwFvbDut11X0lS7H3rrZoCm5loxZq7IQQrR6KT5Ay7aYNwOT0EAV7FZ7Z93Jd1FI6PSAbo4ZJjdnQBZjG99OYd2429k4%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mOt0yb0WOn1WrtT1-FrdybrbGq5TDPw8QLO3WdvIJ9qiohx0tuyLggU&s=0"
+            },
+            {
+                "name": "تفشي فيروس كورونا المرتبط بمتلازمة الشرق الأوسط التنفسية",
+                "extensions": [
+                    "منذ 2012"
+                ],
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D9%81%D8%B4%D9%8A+%D9%81%D9%8A%D8%B1%D9%88%D8%B3+%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7+%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%B7+%D8%A8%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9+%D8%A7%D9%84%D8%B4%D8%B1%D9%82+%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7+%D8%A7%D9%84%D8%AA%D9%86%D9%81%D8%B3%D9%8A%D8%A9+%D9%84%D8%B9%D8%A7%D9%85+2012&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbkVMUa_drGLMy1ShMpaX2FLL2acl2DWkrB_8BAUDu-VC0AT7ziYAYMJIv_W6ZfB6qwkhtg6bIIjVg7lM7uoC8HdzbhLq8V8sq6sG1cTtx-geQjR5AeLTJSIgXcxTBMzcDAkwCryjdaXhqRkt4GmSPgcfGIWttDEwZnwYAxlN2VcXk7o_xrj1k8Y_0X--4kkOloxIT99rBu9djW6tukBn3UQnPTDRdu_cBrnKVc4pEPhijBU7eF7fwY7OrwcOqTBJbtVtCyiy8xGEFMC9TQK0T7ba3Aqtu8dKZxhqQbDjAQ9a4i4wXuvuTDIftqR2giyauTMj57w%3D&sa=X&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQgOQBegQIVRAG",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D9%81%D8%B4%D9%8A+%D9%81%D9%8A%D8%B1%D9%88%D8%B3+%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7+%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%B7+%D8%A8%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9+%D8%A7%D9%84%D8%B4%D8%B1%D9%82+%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7+%D8%A7%D9%84%D8%AA%D9%86%D9%81%D8%B3%D9%8A%D8%A9+%D9%84%D8%B9%D8%A7%D9%85+2012&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbkVMUa_drGLMy1ShMpaX2FLL2acl2DWkrB_8BAUDu-VC0AT7ziYAYMJIv_W6ZfB6qwkhtg6bIIjVg7lM7uoC8HdzbhLq8V8sq6sG1cTtx-geQjR5AeLTJSIgXcxTBMzcDAkwCryjdaXhqRkt4GmSPgcfGIWttDEwZnwYAxlN2VcXk7o_xrj1k8Y_0X--4kkOloxIT99rBu9djW6tukBn3UQnPTDRdu_cBrnKVc4pEPhijBU7eF7fwY7OrwcOqTBJbtVtCyiy8xGEFMC9TQK0T7ba3Aqtu8dKZxhqQbDjAQ9a4i4wXuvuTDIftqR2giyauTMj57w%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiw7djxLgYzER1N6kxf_iHATAx29OZsAF6N30hbxzgwPMzSF60LVjdIn1M5A&s=10"
+            },
+            {
+                "name": "إحصائيات مرض نقص المناعة البشرية/الإيدز",
+                "extensions": [
+                    "منذ 1981"
+                ],
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA+%D9%85%D8%B1%D8%B6+%D9%86%D9%82%D8%B5+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D8%A9+%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9/%D8%A7%D9%84%D8%A5%D9%8A%D8%AF%D8%B2&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgHhWlHCxSvHbpEpz2haEVBbqOKy0CZHnD1QHWgKJRjuIbkvRyxXzRMPOHaFM5x7I9AD6x4DiVrvJ7m2O7ZFbzWrQA6Oqc42ltSmr2xq9CIhDNHGaVBgk0QEYeWc8vWKwl_Ydm2UqH11MWJXZlrzXxcs-sEzApT5Af5amKLdTdEQ4Mzt2buVWB5v-qxcmcGZmMsQb5yoOr8VBgNgjGB3rUzPe_GOL3GCCrlhIPPxzmudavwIbMj9vfEHnCjsyfE7eYQ2-TYs%3D&sa=X&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQgOQBegQIVRAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA+%D9%85%D8%B1%D8%B6+%D9%86%D9%82%D8%B5+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D8%A9+%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9%2F%D8%A7%D9%84%D8%A5%D9%8A%D8%AF%D8%B2&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgHhWlHCxSvHbpEpz2haEVBbqOKy0CZHnD1QHWgKJRjuIbkvRyxXzRMPOHaFM5x7I9AD6x4DiVrvJ7m2O7ZFbzWrQA6Oqc42ltSmr2xq9CIhDNHGaVBgk0QEYeWc8vWKwl_Ydm2UqH11MWJXZlrzXxcs-sEzApT5Af5amKLdTdEQ4Mzt2buVWB5v-qxcmcGZmMsQb5yoOr8VBgNgjGB3rUzPe_GOL3GCCrlhIPPxzmudavwIbMj9vfEHnCjsyfE7eYQ2-TYs%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltC8_HkAXA2B0UwGfUb0uS0HUbRFd6GZ9R4H1NmbJiGv-z3jNcrxh0c_cL3M&s=10"
+            },
+            {
+                "name": "الإنفلونزا الإسبانية",
+                "extensions": [
+                    "1918 – 1920"
+                ],
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7+%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBCYUEqrC_XSqQtQo5nRQGw8dPSB7-gEzkQ0RBd9VVe7oHkfDhCTc7rhFc9EH-5mT__f6Rbp8KzAu02bf15KIa3TVkw_2HmyTLdHzuDmRwuSGEw-KTpoYCUc_U1I0gGQrRXrlpChay9qkYq7KSOMwOWuMvfXZe6GkYR0hGTKd7Rtgjr_JHfXUKQ6LCdD7DThaFswdbM%3D&sa=X&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQgOQBegQIVRAK",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D9%84%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7+%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgBCYUEqrC_XSqQtQo5nRQGw8dPSB7-gEzkQ0RBd9VVe7oHkfDhCTc7rhFc9EH-5mT__f6Rbp8KzAu02bf15KIa3TVkw_2HmyTLdHzuDmRwuSGEw-KTpoYCUc_U1I0gGQrRXrlpChay9qkYq7KSOMwOWuMvfXZe6GkYR0hGTKd7Rtgjr_JHfXUKQ6LCdD7DThaFswdbM%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-dl3Vir5QNKEEmRaTqBMUGRhHoNsihvFyQyDbHPSefTz6kqAe_HLZEb9E_Q&s=10"
+            },
+            {
+                "name": "انتشار وباء إيبولا في غينيا 2014",
+                "extensions": [
+                    "2013 – 2016"
+                ],
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%88%D8%A8%D8%A7%D8%A1+%D8%A7%D9%8A%D8%A8%D9%88%D9%84%D8%A7+%D9%81%D9%89+%D8%BA%D8%B1%D8%A8+%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7&si=AC1wQDC0KliLIoeyh35S2UVSh9d07Pwsb5VutY-ECqLPWJZJUMmQ8AWz6SGASlHQLndV2A-_PF1SoPh7Sj6hQ4GQJgyDbMsAoq_TUM6epZ4LC4JS3pEc5BcR1EuFnq0Xdmoowifk8scWbx-FSBUexcz0SdVG2VlAGO4ptqKHNQZXYAfPCZXQe0fuLQcmEtnnOymMbSn_i20W4aNwLDhd9cw6lcSTlC6PI0k5qsV-WWyjgm_J9YfO7ZNeivA7ReqiRMRHoRpKos6s&sa=X&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQgOQBegQIVRAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%88%D8%A8%D8%A7%D8%A1+%D8%A7%D9%8A%D8%A8%D9%88%D9%84%D8%A7+%D9%81%D9%89+%D8%BA%D8%B1%D8%A8+%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7&si=AC1wQDC0KliLIoeyh35S2UVSh9d07Pwsb5VutY-ECqLPWJZJUMmQ8AWz6SGASlHQLndV2A-_PF1SoPh7Sj6hQ4GQJgyDbMsAoq_TUM6epZ4LC4JS3pEc5BcR1EuFnq0Xdmoowifk8scWbx-FSBUexcz0SdVG2VlAGO4ptqKHNQZXYAfPCZXQe0fuLQcmEtnnOymMbSn_i20W4aNwLDhd9cw6lcSTlC6PI0k5qsV-WWyjgm_J9YfO7ZNeivA7ReqiRMRHoRpKos6s",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVA3RvyDcGSlMM6fEapmFmgWP7JzWNX5JeQOztdNT107S_Nkd7lSL4LU2mw&s=10"
+            },
+            {
+                "name": "جائحة إنفلونزا الخنازير",
+                "extensions": [
+                    "2009 – 2010"
+                ],
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9+%D8%A7%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7+%D8%A7%D9%84%D8%AE%D9%86%D8%A7%D8%B2%D9%8A%D8%B1+2009&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbj4xeXCpQiWf11nqAmCO8xj7V_PVoTw1BYsqw1_Vm9jA3wwysvIGoQ-ZaHte18lKux3A1mo4fpv06wvcQj58sEpfyEXpAxUrxcgrWb3BmxLI3UM-9ahAQWawMeG1cr1pLUUnZ6E8G82S3FdTqw3ZrIrinXk98xBygz76SpuZLj6YnpsFgLuQL6M0jaZQGcM_TM6G5CY38k2m0YtU32IlflryoUqY&sa=X&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQgOQBegQIVRAO",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9+%D8%A7%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7+%D8%A7%D9%84%D8%AE%D9%86%D8%A7%D8%B2%D9%8A%D8%B1+2009&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbj4xeXCpQiWf11nqAmCO8xj7V_PVoTw1BYsqw1_Vm9jA3wwysvIGoQ-ZaHte18lKux3A1mo4fpv06wvcQj58sEpfyEXpAxUrxcgrWb3BmxLI3UM-9ahAQWawMeG1cr1pLUUnZ6E8G82S3FdTqw3ZrIrinXk98xBygz76SpuZLj6YnpsFgLuQL6M0jaZQGcM_TM6G5CY38k2m0YtU32IlflryoUqY",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjqfjibHeU2CwcN2hUk4RcZ1bJUNzv3GtdYj8cslMW6BN2vLll8Zm82xPWvg&s=10"
+            }
+        ]
+    },
+    "top_stories": [
+        {
+            "title": "الصحة: اقتربنا من الوصول لـ\"صفر وفيات\" بفيروس كورونا",
+            "link": "https://www.youm7.com/story/2022/6/18/%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%82%D8%AA%D8%B1%D8%A8%D9%86%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D9%84%D9%80-%D8%B5%D9%81%D8%B1-%D9%88%D9%81%D9%8A%D8%A7%D8%AA-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7/5806909",
+            "source": "اليوم السابع",
+            "date": "قبل 4 ساعات",
+            "thumbnail": "https://serpapi.com/searches/62ae5d685c56065f3982d45e/images/590fcb179be968cfb9a7df333e3557840b88a9f0e6a5772e.jpeg"
+        },
+        {
+            "title": "الصحة ترفع قيود فيروس كورونا للقادمين إلى مصر.. اعرف التفاصيل",
+            "link": "https://www.youm7.com/story/2022/6/18/%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D9%82%D9%8A%D9%88%D8%AF-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%84%D9%84%D9%82%D8%A7%D8%AF%D9%85%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D9%85%D8%B5%D8%B1-%D8%A7%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/5806974",
+            "source": "اليوم السابع",
+            "date": "قبل ساعتين (2)",
+            "thumbnail": "https://serpapi.com/searches/62ae5d685c56065f3982d45e/images/590fcb179be968cf1819390199b11d69e2e6bf330a72eaeb.jpeg"
+        },
+        {
+            "title": "«الصحة» تكشف موقف تطعيم الأطفال الرضع بلقاح كورونا",
+            "link": "https://www.almasryalyoum.com/news/details/2624804",
+            "source": "المصري اليوم",
+            "date": "قبل 4 ساعات",
+            "thumbnail": "https://serpapi.com/searches/62ae5d685c56065f3982d45e/images/590fcb179be968cf4fdef0991b90d4459af61a6c70fda78c.jpeg"
+        },
+        {
+            "title": "متحدث \"الصحة\": الحصول على لقاح كورونا إلزامى رغم رفع قيود السفر.. فيديو",
+            "link": "https://www.youm7.com/story/2022/6/18/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%84%D9%82%D8%A7%D8%AD-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A5%D9%84%D8%B2%D8%A7%D9%85%D9%89-%D8%B1%D8%BA%D9%85-%D8%B1%D9%81%D8%B9-%D9%82%D9%8A%D9%88%D8%AF/5806104",
+            "source": "اليوم السابع",
+            "date": "قبل 15 ساعة",
+            "thumbnail": "https://serpapi.com/searches/62ae5d685c56065f3982d45e/images/590fcb179be968cff2de332461169fb255ffcd696c054a79.jpeg"
+        },
+        {
+            "title": "«الصحة»: رفع القيود والاشتراطات الخاصة بـ \"فيروس كورونا\" للقادمين إلى مصر",
+            "link": "https://gate.ahram.org.eg/News/3554707.aspx",
+            "source": "بوابة الأهرام",
+            "date": "قبل ساعتين (2)",
+            "thumbnail": "https://serpapi.com/searches/62ae5d685c56065f3982d45e/images/590fcb179be968cf061ad2d1a8341c63e9313fe0e260f591.jpeg"
+        },
+        {
+            "title": "«الدواء الأمريكية» توافق على تطعيم الأطفال دون الخامسة ضد «كورونا»",
+            "link": "https://www.almasryalyoum.com/news/details/2624332",
+            "source": "المصري اليوم",
+            "date": "قبل 15 ساعة",
+            "thumbnail": "https://serpapi.com/searches/62ae5d685c56065f3982d45e/images/590fcb179be968cf7b864a2a92f2798fa4efee1647abb9b9.jpeg"
+        },
+        {
+            "title": "الصين تسجل 11 إصابة جديدة بفيروس كورونا",
+            "link": "https://www.masrawy.com/news/news_publicaffairs/details/2022/6/18/2244419/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%B3%D8%AC%D9%84-11-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "source": "Masrawy",
+            "date": "قبل 16 ساعة",
+            "thumbnail": "https://serpapi.com/searches/62ae5d685c56065f3982d45e/images/590fcb179be968cfe18d190ddd779740a51216bb43e7ef43.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQt8YBegQIFhAC",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&tbm=nws",
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "مرض فيروس كورونا (كوفيد-19): أسئلة وأجوبة‏ - WHO | World ...",
+            "link": "https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+            "displayed_link": "https://www.who.int › diseases › q-a-coronaviruses",
+            "snippet": "الصفحة الرئيسية/; الأمراض/; فيروس كورونا المستجد (2019-nCoV)/; فيروس كورونا المستجد (‏‎2019-nCoV‏) نصائح للجمهور‏/; مرض فيروس كورونا (كوفيد-19): أسئلة ...",
+            "snippet_highlighted_words": [
+                "كورونا",
+                "كورونا",
+                "كورونا"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "منظمة الصحة العالمية | فيروس كورونا | COVID-19 | المواضيع ...",
+            "link": "http://www.emro.who.int/ar/health-topics/corona-virus/index.html",
+            "displayed_link": "http://www.emro.who.int › health-topics › corona-virus",
+            "snippet": "فيروس كورونا · آخر مستجدات كوفيد-19 · موارد المعلومات · أسئلة وأجوبة · التقارير · عن مرض كوفيد-19 ‏ · خريطة الموقع · مساعدة وخدمات · مكاتب منظمة الصحة العالمية.",
+            "snippet_highlighted_words": [
+                "كورونا"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "عن مرض كوفيد-19",
+                        "link": "http://www.emro.who.int/ar/health-topics/corona-virus/about-covid-19.html"
+                    },
+                    {
+                        "title": "أسئلة وأجوبة",
+                        "link": "http://www.emro.who.int/ar/health-topics/corona-virus/questions-and-answers.html"
+                    },
+                    {
+                        "title": "كيف تحمي نفسك",
+                        "link": "http://www.emro.who.int/ar/health-topics/corona-virus/protect-yourself-and-others.html"
+                    },
+                    {
+                        "title": "موارد المعلومات",
+                        "link": "http://www.emro.who.int/ar/health-topics/corona-virus/information-resources.html"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "مرض فيروس كورونا المستجد 2019 (كوفيد-19) - الأعراض ...",
+            "link": "https://www.mayoclinic.org/ar/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+            "displayed_link": "https://www.mayoclinic.org › syc-20479963",
+            "snippet": "فيروس كورونا. فيروس كورونا هو مجموعة من الفيروسات التي يمكن أن تسبب أمراض الجهاز التنفسي، مثل الزكام والالتهاب التنفسي الحاد الوخيم (سارز) ومتلازمة الشرق الأوسط ...",
+            "snippet_highlighted_words": [
+                "كورونا",
+                "كورونا"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "فيروس كورونا: ما هو وكيف يمكنني وقاية نفسي منه؟ - Mayo Clinic",
+            "link": "https://www.mayoclinic.org/ar/diseases-conditions/coronavirus/expert-answers/novel-coronavirus/faq-20478727",
+            "displayed_link": "https://www.mayoclinic.org › faq-20478727",
+            "snippet": "ينجم مرض فيروس كورونا 2019 (كوفيد 19) عن فيروس ينتشر بين الناس. تعرف على كيفية حماية نفسك والمقربين منك.",
+            "snippet_highlighted_words": [
+                "كورونا"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "فيروس كورونا - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "displayed_link": "https://ar.wikipedia.org › wiki › فيروس_كورونا",
+            "snippet": "فيروسات كورونا أو الكورونافيرينات المستقيمة (الاسم العلمي: Orthocoronavirinae) هي عائلة فرعية من فيروسات الرنا مفردة السلسلة موجبة الدلالة المغلفة التي تصيب ...",
+            "snippet_highlighted_words": [
+                "كورونا"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "الفصيلة: فيروسات تاجية",
+                        "المملكة: أرثوورنافيرات"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "مرض فيروس كورونا (19-COVID) - UNICEF",
+            "link": "https://www.unicef.org/mena/ar/coronavirus",
+            "displayed_link": "https://www.unicef.org › mena › coronavirus",
+            "snippet": "ينتقل الفيروس عبر الاتصال المباشر بالرذاذ التنفسي الصادر عن شخص مصاب (والذي ينشأ عن السعال أو العطس)، وملامسة الأسطح الملوثة بالفيروس. ويمكن لفيروس 'كوفيد-1' أن ..."
+        },
+        {
+            "position": 7,
+            "title": "فيروس كورونا (كوفيد-19) | UNICEF مصر",
+            "link": "https://www.unicef.org/egypt/ar/coronavirus-disease-covid-19",
+            "displayed_link": "https://www.unicef.org › coronavirus-disease-covid-19",
+            "snippet": "يتحدث الجميع عن مرض فيروس كورونا 2019 (كوفيد-19)، وأينما تنظر تجد معلومات حول الفيروس وكيفية حماية نفسك منه. معرفة الحقائق ضرورية جداً لتكون مستعداً على نحو ...",
+            "snippet_highlighted_words": [
+                "كورونا"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "مرض فيروس كورونا | الأمم المتحدة - the United Nations",
+            "link": "https://www.un.org/ar/coronavirus/info-for-un-staff",
+            "displayed_link": "https://www.un.org › coronavirus › info-for-un-staff",
+            "snippet": "فيروسات كورونا هي عائلة كبيرة من فيروسات الجهاز التنفسي، ويسبب بعضها أمراضًا أقل من غيرها، مثل نزلات البرد، وأمراض أخرى أشد مثل متلازمة الشرق الأوسط التنفسية ...",
+            "snippet_highlighted_words": [
+                "كورونا"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "الأسئلة الشائعة حول مرض فيروس كورونا (كوفيد -19) | الأمم ...",
+            "link": "https://www.un.org/ar/coronavirus/covid-19-faqs",
+            "displayed_link": "https://www.un.org › coronavirus › covid-19-faqs",
+            "snippet": "كيف ينتشر مرض فيروس كورونا؟ يمكن أن ينتشر فيروس SARS-CoV-2 ، وهو الفيروس المسبب لفيروسكوفيد-19 ، من شخص لآخر من خلال الرذاذ الناتج أثناء السعال أو التنفس ...",
+            "snippet_highlighted_words": [
+                "كورونا"
+            ]
+        },
+        {
+            "position": 10,
+            "title": "Egypt Cares",
+            "link": "https://www.care.gov.eg/",
+            "displayed_link": "https://www.care.gov.eg",
+            "snippet": "أبرز إحصائيات الوضع الحالي لمكافحة فيروس كورونا المستجد في مصر مقارنة بالعالم. إحتلت مصر المركز. 10. في نسبة الوفيات من إجمالي عدد المصابين.",
+            "snippet_highlighted_words": [
+                "كورونا"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٨‏/٠٥‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&gl=eg&hl=ar&ei=aF2uYqraIrGrqtsPnoe1mAI&start=10&sa=N&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQ8NMDegQIAxBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&gl=eg&hl=ar&ei=aF2uYqraIrGrqtsPnoe1mAI&start=10&sa=N&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQ8tMDegQIAxA_",
+            "3": "https://www.google.com/search?q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&gl=eg&hl=ar&ei=aF2uYqraIrGrqtsPnoe1mAI&start=20&sa=N&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQ8tMDegQIAxBB",
+            "4": "https://www.google.com/search?q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&gl=eg&hl=ar&ei=aF2uYqraIrGrqtsPnoe1mAI&start=30&sa=N&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQ8tMDegQIAxBD",
+            "5": "https://www.google.com/search?q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&gl=eg&hl=ar&ei=aF2uYqraIrGrqtsPnoe1mAI&start=40&sa=N&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQ8tMDegQIAxBF",
+            "6": "https://www.google.com/search?q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&gl=eg&hl=ar&ei=aF2uYqraIrGrqtsPnoe1mAI&start=50&sa=N&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQ8tMDegQIAxBH",
+            "7": "https://www.google.com/search?q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&gl=eg&hl=ar&ei=aF2uYqraIrGrqtsPnoe1mAI&start=60&sa=N&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQ8tMDegQIAxBJ",
+            "8": "https://www.google.com/search?q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&gl=eg&hl=ar&ei=aF2uYqraIrGrqtsPnoe1mAI&start=70&sa=N&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQ8tMDegQIAxBL",
+            "9": "https://www.google.com/search?q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&gl=eg&hl=ar&ei=aF2uYqraIrGrqtsPnoe1mAI&start=80&sa=N&ved=2ahUKEwiqrrPGkbj4AhWxlWoFHZ5DDSMQ8tMDegQIAxBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7&start=80"
+        }
+    }
+}

@@ -4,35 +4,32 @@ Team O - Omer Gazit and Ido Bouhnik
 
 This Markdown file describes the data folder structure and organization ...
 
-data_change.csv - contain the search result sites and manual ranking of the google search results.
-fields:
-  topic - the Google search term (English) 
-	language - the search language 
-	url - the result website url 
-	title - the search result url name 
-# ranking system
-	definition - how easy was to find the term definition on the site : 
-		0 - not found at all
-        	1 - definithion to related subject
-		2 - found but not immediately
-		3 - found very easily 
-	information - how mach information was found about the topic on the site :
-		0 - not relevant information 
-		1 - not academic articles site 
-        	2 - related information and References
-		3 - a lot of information and References about the subject
-	visualization - is there a visualization related to the term :
-		0 - no visualization at all
-		1 - 1 or 2  visualizations
-		2 - 3-5 visualizations
-        	3 - 6 or more 
-	site quality - How much is invested in the site :
-		1 - amateur site 
-		2 - medium 
-		3 - professional website
-	adds - is the site advertising something? (1 - Yes or 0 - No filed) 
 
-html_classifire.csv - csv file that hold paths to local html files of google search.
+searching_for_science diractory - contain all the json and html file from google serches
+
+search_data.csv - contain the number of result and result time for each google search 
+
+term_classified.csv - contain for each termID its english name and classification 
+	class 1 - contemporary term 
+	class 2 - non-contemporary term
+
+result_data.csv - contain the position and the link for every google serch
 
 Result_num_changed.csv - hold the number of result for every Google search 
 
+top3_edited.csv - contain quality ranking for each 3 firs google search result by the next ranking system: 
+
+| rank  | definition | information | visualization  | site quality  | adds - Boolean |
+| :------------ |:---------------:| -----:|:------------ |:---------------:| -----:|
+| 0 | no definition at all | no relevant information |no visualization at all      | no illustrations | No |
+| 1 | Partial definition or requires search |   Contains advertising information on a related topic |1 or 2  ilustrations      |   amateur website       |   Yes |
+| 2 | found but not immediately  |   Subject information without link to relevent reading |3-5 ilustrations | medium quality website     |    -- |
+| 3 | well define and easy to find |    Subject information with link to relevent reading |6 or more ilustrations or vidio | professional website        |    -- |
+
+wikipidia_DF.csv - contain the scraping metadata from wikipedia serch
+	img-num: number of images on page 
+	sections: number of sub-titles on page 
+	references: number of links to other subjects
+	word_count: leangth of the text
+	term_appirance: number of appirance of the search word in the text
+	text: the scraped wikipedia text

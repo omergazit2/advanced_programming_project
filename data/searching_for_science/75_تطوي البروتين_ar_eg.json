@@ -1,0 +1,303 @@
+{
+    "search_metadata": {
+        "id": "62ae5d8f5b54ef751830e819",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4c540daa5c34e69a/62ae5d8f5b54ef751830e819.json",
+        "created_at": "2022-06-18 23:19:43 UTC",
+        "processed_at": "2022-06-18 23:19:43 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&oq=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/4c540daa5c34e69a/62ae5d8f5b54ef751830e819.html",
+        "total_time_taken": 0.66
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "تطوي البروتين",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "تطوي البروتين",
+        "total_results": 120000,
+        "time_taken_displayed": 0.39
+    },
+    "knowledge_graph": {
+        "title": "تطوي البروتين",
+        "header_images": [
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86"
+            },
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86"
+            },
+            {
+                "source": "https://gkmscience.com/%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%87%D9%85%D9%8A%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A9%D8%B7%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86/"
+            },
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86"
+            },
+            {
+                "source": "https://gkmscience.com/%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%87%D9%85%D9%8A%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A9%D8%B7%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86/"
+            }
+        ],
+        "description": "تطوي البروتين هو عملية فيزيائية يتخذ فيها البروتين بنية ثلاثية الأبعاد طبيعية تمكنه من القيام بوظيفة بيولوجية محددة.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86"
+        },
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "ترجمة",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%B1%D8%AC%D9%85%D8%A9+(%D9%88%D8%B1%D8%A7%D8%AB%D8%A9)&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgL9DktMU1RSgmbD0MqRVKIWhv0xXuOnWKRhh_sEP_smvo13zDszYPA0m-SiETt4OQnSsf0OGgFF3IRcXWe3ik6kbFrV_asAl93ry9F9bdHhk3KBVhEeMMUkR5qGqwJYcnzxjXOrT3zscJqkqNRLXl75n4QJToA09qrEM1qWX5N0yVMTSdq5RDdEbn0p3-XvIPuiWwpZoAUVQ7xczOaC3uHhSOtOO1IFPvlIAefbAuPz-qOYc-0A5_Ep8FHHXwEMo69x4sD9GybDTEtDhgdEJcLmOEZq9&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4QxA16BAhJEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B1%D8%AC%D9%85%D8%A9+%28%D9%88%D8%B1%D8%A7%D8%AB%D8%A9%29&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgL9DktMU1RSgmbD0MqRVKIWhv0xXuOnWKRhh_sEP_smvo13zDszYPA0m-SiETt4OQnSsf0OGgFF3IRcXWe3ik6kbFrV_asAl93ry9F9bdHhk3KBVhEeMMUkR5qGqwJYcnzxjXOrT3zscJqkqNRLXl75n4QJToA09qrEM1qWX5N0yVMTSdq5RDdEbn0p3-XvIPuiWwpZoAUVQ7xczOaC3uHhSOtOO1IFPvlIAefbAuPz-qOYc-0A5_Ep8FHHXwEMo69x4sD9GybDTEtDhgdEJcLmOEZq9",
+                "image": "https://serpapi.com/searches/62ae5d8f5b54ef751830e819/images/240ebfa40c2cb6f7b4ab03326b26bc78cb9febd41c01e57c3889c21a5b613a124ca0eae4a563f5486b72a607ff4317e87e10fc4ad6d1dd8f9f753c71067dd806.jpeg"
+            },
+            {
+                "name": "إفساد",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A5%D9%81%D8%B3%D8%A7%D8%AF&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZEy7Lz0lQfkZ6LkEArAjoyPf2-qq2r-TudHITHO7RSJJXkIYE22sUTaRnYwa63jDJMjb6z5w7Ehd6xDP1A7r_2X9U9h-JBHelc_R688duJC61P5EmCXTYEaeBVb67h4tFKyE668juAKNES_gNnh7WxfPJsKTZP-3hxU5v2PNLUbL9PbvrGMKV3Ir360geSAa9fKXRddacqauvt21MilxfdU4OFHfkfbGwq9Vq2Q7fa8NKb32ArEYEXWNFA4rrpqkm7Qpq8%3D&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4QxA16BAhJEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A5%D9%81%D8%B3%D8%A7%D8%AF&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdZEy7Lz0lQfkZ6LkEArAjoyPf2-qq2r-TudHITHO7RSJJXkIYE22sUTaRnYwa63jDJMjb6z5w7Ehd6xDP1A7r_2X9U9h-JBHelc_R688duJC61P5EmCXTYEaeBVb67h4tFKyE668juAKNES_gNnh7WxfPJsKTZP-3hxU5v2PNLUbL9PbvrGMKV3Ir360geSAa9fKXRddacqauvt21MilxfdU4OFHfkfbGwq9Vq2Q7fa8NKb32ArEYEXWNFA4rrpqkm7Qpq8%3D",
+                "image": "https://serpapi.com/searches/62ae5d8f5b54ef751830e819/images/240ebfa40c2cb6f7b4ab03326b26bc78cb9febd41c01e57c3889c21a5b613a124ca0eae4a563f5486b72a607ff4317e87e10fc4ad6d1dd8f28c2d2224df2614a.jpeg"
+            },
+            {
+                "name": "استماتة",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D8%B3%D8%AA%D9%85%D8%A7%D8%AA%D8%A9&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGZIHWkZkE0aOULzjwhHXVDO7g9F6woIzeuIKXDwdDL8zklrKrcSnnLzAH1eZikOy0kxzgQXfzSmY3Vik7CpxqclLGgN-qCHxrDEHdsVmJZ2XShp0K381MSkytAciLvlLoH1AcOvVbT8OabLp4Eb2OiSTg2B1ODD1gciuotDHdZ0mygELqCqb-ttsNmB3FHTWLCFcHfWw6HpJf4jkEFd9wMaIMpTT0ANVKkyGRLjep5iQDrnkmlAIE4ohFDQWyM_0fVzByMU%3D&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4QxA16BAhJEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A7%D8%B3%D8%AA%D9%85%D8%A7%D8%AA%D8%A9&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGZIHWkZkE0aOULzjwhHXVDO7g9F6woIzeuIKXDwdDL8zklrKrcSnnLzAH1eZikOy0kxzgQXfzSmY3Vik7CpxqclLGgN-qCHxrDEHdsVmJZ2XShp0K381MSkytAciLvlLoH1AcOvVbT8OabLp4Eb2OiSTg2B1ODD1gciuotDHdZ0mygELqCqb-ttsNmB3FHTWLCFcHfWw6HpJf4jkEFd9wMaIMpTT0ANVKkyGRLjep5iQDrnkmlAIE4ohFDQWyM_0fVzByMU%3D",
+                "image": "https://serpapi.com/searches/62ae5d8f5b54ef751830e819/images/240ebfa40c2cb6f7b4ab03326b26bc78cb9febd41c01e57c3889c21a5b613a124ca0eae4a563f5486b72a607ff4317e87e10fc4ad6d1dd8f1b228d90d8a93809.jpeg"
+            },
+            {
+                "name": "أيض",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D9%8A%D8%B6&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRcxGNir7KDRzRIivmgLxGxs8V99I_uoUNSMGphP5epLuuJ6ciLTgA4oPwQ30f0A10qVLIRRQV6NdcpbD94SvOjN7ZFxvl6kOS7V3RCKbJyXRwX3ugqQ7lny7RO1qLl0lrKL3tWX5c_hWIxGstxkTMmX--V-LN0V-Rr9nm0OPMmt3A1FLX7rRUrSj2GsYOuGiyJxjKs37GjujOPiHOGDirO2QeXOO0FBICKfwL7-dA87eKRYFg%3D%3D&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4QxA16BAhJEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A3%D9%8A%D8%B6&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRcxGNir7KDRzRIivmgLxGxs8V99I_uoUNSMGphP5epLuuJ6ciLTgA4oPwQ30f0A10qVLIRRQV6NdcpbD94SvOjN7ZFxvl6kOS7V3RCKbJyXRwX3ugqQ7lny7RO1qLl0lrKL3tWX5c_hWIxGstxkTMmX--V-LN0V-Rr9nm0OPMmt3A1FLX7rRUrSj2GsYOuGiyJxjKs37GjujOPiHOGDirO2QeXOO0FBICKfwL7-dA87eKRYFg%3D%3D",
+                "image": "https://serpapi.com/searches/62ae5d8f5b54ef751830e819/images/240ebfa40c2cb6f7b4ab03326b26bc78cb9febd41c01e57c3889c21a5b613a124ca0eae4a563f5486b72a607ff4317e87e10fc4ad6d1dd8f42120a30a8b91840.jpeg"
+            }
+        ],
+        "يبحث_الأشخاص_أيضًا_عن_link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFaCs7QEgzNTUssTK4v9UitKgktSC4oXsUreWHVj-82Om10KN5bfbLmx4sbGmx03Vt3sutm2g5URAJcNUbVIAAAA&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4QMSgAegQISRAB",
+        "يبحث_الأشخاص_أيضًا_عن_stick": "H4sIAAAAAAAAAONgFuLQz9U3SCmoNFaCs7QEgzNTUssTK4v9UitKgktSC4oXsUreWHVj-82Om10KN5bfbLmx4sbGmx03Vt3sutm2g5URAJcNUbVIAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Protien Folding Revolution ثورة طي البروتينات",
+            "link": "https://www.youtube.com/watch?v=16_iruq5w40",
+            "thumbnail": "https://serpapi.com/searches/62ae5d8f5b54ef751830e819/images/1962ef5da1c42378a0f09da3f1818a8da7be21ba3984a843ec048a8785b1bdb4.jpeg",
+            "channel": "Biophysics Science الفيزياء الحيوية",
+            "duration": "3:48",
+            "platform": "YouTube",
+            "date": "16‏/07‏/2019"
+        },
+        {
+            "position": 2,
+            "title": "فيديو الدرس: تركيب البروتينات | نجوى",
+            "link": "https://www.nagwa.com/ar/videos/303173010384/",
+            "thumbnail": "https://serpapi.com/searches/62ae5d8f5b54ef751830e819/images/1962ef5da1c423783ba6bdf97ee7b150b197dfe5d1a8a0004a17de4d0bdc346b.png",
+            "platform": "Nagwa",
+            "date": "03‏/08‏/2021"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "تطوي البروتين - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86",
+            "displayed_link": "https://ar.wikipedia.org › wiki › تطوي_البروتين",
+            "snippet": "تطوي البروتين هو عملية فيزيائية يتخذ فيها · يمكن أن يبدأ تطوي العديد من البروتينات قبل انتهاء ترجمة سلسلة عديد الببتيد، حيث تتآثر الأحماض الأمينية فيما بينها ...",
+            "snippet_highlighted_words": [
+                "تطوي البروتين",
+                "تطوي",
+                "البروتينات"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "تطوي البروتين - موسوعة عريق",
+            "link": "https://areq.net/m/%D8%B7%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86.html",
+            "displayed_link": "https://areq.net › طي_البروتين",
+            "snippet": "ولكن علماء البيولوجيا يمارسون هذه (اللعبة)، ويطلقون عليها (لغز طي البروتين). ولكل بروتين تسلسل للأحماض الأمينية خاص به فقط، وينتهي بطريقة ما، بالطيّة المميزة له ...",
+            "snippet_highlighted_words": [
+                "طي البروتين",
+                "بروتين"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "الزمامات البيولوجية المنزلقة",
+                        "link": "https://areq.net/m/%D8%B7%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86.html#%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84%D9%82%D8%A9"
+                    },
+                    {
+                        "title": "تصميم البروتينات",
+                        "link": "https://areq.net/m/%D8%B7%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86.html#%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA"
+                    },
+                    {
+                        "title": "الرقصة البيولوجية",
+                        "link": "https://areq.net/m/%D8%B7%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86.html#%D8%A7%D9%84%D8%B1%D9%82%D8%B5%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 3,
+            "title": "\"طي البروتين\" .. لغز حير العلماء منذ 50 عاما وفك شفرته الذكاء ...",
+            "link": "https://enterprise.press/ar/stories/2020/12/01/%D8%B7%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-%D9%84%D8%BA%D8%B2-%D8%AD%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D9%85%D9%86%D8%B0-50-%D8%B9%D8%A7%D9%85/",
+            "displayed_link": "https://enterprise.press › stories › 2020/12/01 › طي-الب...",
+            "snippet": "الذكاء الاصطناعي يحل لغز “طي البروتين“: تمكنت شركة ديب مايند المتخصصة في الذكاء الاصطناعي من حل لغز تطوي البروتين وتحوله إلى أشكال ثلاثية ...",
+            "snippet_highlighted_words": [
+                "طي البروتين",
+                "تطوي البروتين"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠١‏/١٢‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "تطوّي البروتين - Protein Folding: Hydrogen Bonds, Van ...",
+            "link": "https://www.jove.com/science-education/10679/protein-folding?language=Arabic",
+            "displayed_link": "https://www.jove.com › science-education › protein-fol...",
+            "snippet": "يتم تصنيع البولي ببتيد كسلسلة خطية تطوي بسرعة على نفسها لتشكيل بنية ثلاثية الأبعاد. يستخدم مصطلح البولي ببتيد والبروتين أحياناً بالتبادل ، ولكن الأكثر شيوعاً ، ...",
+            "snippet_highlighted_words": [
+                "تطوي",
+                "والبروتين"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "طي البروتينات السر الذي حير العلماء",
+            "link": "https://quran-m.com/%D8%B7%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B1-%D8%A7%D9%84%D8%B0%D9%8A-%D8%AD%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1/",
+            "displayed_link": "https://quran-m.com › ... › آيات الله في خلق الحيوان",
+            "snippet": "أما المشكلة الثانية فهي ما أطلق عليه العلماء “مشكلة طي البروتين” وهي تتعلق بالطريقة التي يتبعها البروتين للالتفاف على نفسه بشكل واحد فقط من بين ملايين ...",
+            "snippet_highlighted_words": [
+                "طي البروتين",
+                "البروتين"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "اهمية عملية طي (تطوي) البروتين | GKM Science | Protein ...",
+            "link": "https://gkmscience.com/%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%87%D9%85%D9%8A%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A9%D8%B7%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86/",
+            "displayed_link": "https://gkmscience.com › Articles",
+            "snippet": "طي البروتين Protein folding :- هي عملية طي سلسلة من البولي ببتيد لكي يصبح بروتين نشطًا بيولوجيًا في هيكلها ثلاثي الأبعاد المستقر.",
+            "snippet_highlighted_words": [
+                "طي البروتين Protein",
+                "طي",
+                "بروتين"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "كيف يحدث طي البروتينات؟ - مركز براهين للأبحاث والدراسات",
+            "link": "https://www.braheen.com/articles/evolution-design/%D9%83%D9%8A%D9%81-%D9%8A%D8%AD%D8%AF%D8%AB-%D8%B7%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA%D8%9F",
+            "displayed_link": "https://www.braheen.com › articles › evolution-design",
+            "snippet": "هناك عامل آخر يساهم أيضًا في تطوي البروتين، ففي جميع البروتينات المنطوية تكون بعض السلاسل القطبية مطمورةً لا مفر؛ فإذا ما كانت الذرات القطبية ...",
+            "snippet_highlighted_words": [
+                "تطوي البروتين",
+                "البروتينات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١١‏/١٠‏/٢٠١٨ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "كيف يفسر طي البروتين بطريقة خاطئة بداية الحياة والتطور ...",
+            "link": "https://www.syr-res.com/article/13301.html",
+            "displayed_link": "https://www.syr-res.com › article",
+            "snippet": "والجدير بالذكر أنَّ الوظيفة تتغير مع تغير نَمَط الطَّي للبروتين وقد يسبب الطَّيُ الخاطئُ لبعض البروتينات حدوثَ أمراضٍ عدة. من المحتمل أن يقودنا ...",
+            "snippet_highlighted_words": [
+                "للبروتين",
+                "البروتينات"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٨‏/٠٥‏/٢٠١٧ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "طي البروتين.. الذكاء الاصطناعي يحل مشكلة مستعصية منذ 50 عاماً",
+            "link": "https://taqadom.aspdkw.com/%D8%B7%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AD%D9%84-%D9%85%D8%B4%D9%83%D9%84/",
+            "displayed_link": "https://taqadom.aspdkw.com › طي-البروتين-الذكاء-الا...",
+            "snippet": "ومُعظم البروتينات (التي تكون مُخلَّقة على هيئة سلاسل خَطية من بقايا الأحماض الأمينية) تُطوى تلقائيًّا لتشكل بِنْية واحدة، أو عَددًا صغيرًا من ...",
+            "snippet_highlighted_words": [
+                "البروتينات",
+                "تُطوى"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٢‏/١٠‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "بناء البروتين",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A8%D9%86%D8%A7%D8%A1+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q1QJ6BAgjEAE"
+        },
+        {
+            "query": "طرق فصل البروتينات pdf",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B7%D8%B1%D9%82+%D9%81%D8%B5%D9%84+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA+pdf&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q1QJ6BAgiEAE"
+        },
+        {
+            "query": "طريقة استخراج البروتين",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B7%D8%B1%D9%8A%D9%82%D8%A9+%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q1QJ6BAghEAE"
+        },
+        {
+            "query": "تعريف تركيب البروتين",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%B9%D8%B1%D9%8A%D9%81+%D8%AA%D8%B1%D9%83%D9%8A%D8%A8+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q1QJ6BAggEAE"
+        },
+        {
+            "query": "تفريد البروتين",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D9%81%D8%B1%D9%8A%D8%AF+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q1QJ6BAgfEAE"
+        },
+        {
+            "query": "مستويات البروتينات",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q1QJ6BAgdEAE"
+        },
+        {
+            "query": "تطور بنية البروتين",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%B7%D9%88%D8%B1+%D8%A8%D9%86%D9%8A%D8%A9+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q1QJ6BAgYEAE"
+        },
+        {
+            "query": "تغير طبيعة البروتين",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%BA%D9%8A%D8%B1+%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&sa=X&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q1QJ6BAgTEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&gl=eg&hl=ar&ei=j12uYqrqH_DdqtsP_LO28Ak&start=10&sa=N&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q8NMDegQIAhBH",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&gl=eg&hl=ar&ei=j12uYqrqH_DdqtsP_LO28Ak&start=10&sa=N&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&gl=eg&hl=ar&ei=j12uYqrqH_DdqtsP_LO28Ak&start=20&sa=N&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&gl=eg&hl=ar&ei=j12uYqrqH_DdqtsP_LO28Ak&start=30&sa=N&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&gl=eg&hl=ar&ei=j12uYqrqH_DdqtsP_LO28Ak&start=40&sa=N&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&gl=eg&hl=ar&ei=j12uYqrqH_DdqtsP_LO28Ak&start=50&sa=N&ved=2ahUKEwjq7fzYkbj4AhXwrmoFHfyZDZ4Q8tMDegQIAhBF"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%AA%D8%B7%D9%88%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86&start=50"
+        }
+    }
+}
