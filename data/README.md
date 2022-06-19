@@ -24,7 +24,7 @@ top3_edited.csv - contain quality ranking for each 3 firs google search result b
 | 0 | no definition at all | no relevant information |no visualization at all      | no illustrations | No |
 | 1 | Partial definition or requires search |   Contains advertising information on a related topic |1 or 2  ilustrations      |   amateur website       |   Yes |
 | 2 | found but not immediately  |   Subject information without link to relevent reading |3-5 ilustrations | medium quality website     |    -- |
-| 3 | well define and easy to find |    Subject information with link to relevent reading |6 or more ilustrations or vidio | professional website        |    -- |
+| 3 | well define and easy to find |    Subject information with link to relevent reading |6 or more ilustrations or video | professional website        |    -- |
 
 wikipidia_DF.csv - contain the scraping metadata from wikipedia serch
 	img-num: number of images on page 
