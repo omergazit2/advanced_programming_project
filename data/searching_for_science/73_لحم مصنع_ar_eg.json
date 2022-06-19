@@ -1,0 +1,331 @@
+{
+    "search_metadata": {
+        "id": "62ae5d76ada54b592b892d33",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f211590021217647/62ae5d76ada54b592b892d33.json",
+        "created_at": "2022-06-18 23:19:18 UTC",
+        "processed_at": "2022-06-18 23:19:18 UTC",
+        "google_url": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&oq=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f211590021217647/62ae5d76ada54b592b892d33.html",
+        "total_time_taken": 4.28
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "لحم مصنع",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "لحم مصنع",
+        "total_results": 8530000,
+        "time_taken_displayed": 0.39
+    },
+    "knowledge_graph": {
+        "title": "لحم مصنع",
+        "header_images": [
+            {
+                "source": "https://www.independentarabia.com/node/179316"
+            },
+            {
+                "source": "https://www.webteb.com/articles/%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9%D8%A9_16249"
+            },
+            {
+                "source": "https://www.youtube.com/watch?v=i5ZF12Zqp8w"
+            },
+            {
+                "source": "https://3lomangy.blogspot.com/2018/07/Lab-Grown-Meat.html"
+            },
+            {
+                "source": "https://alqabas.com/article/355948"
+            }
+        ],
+        "description": "لحم مزروع، والذي يطلق عليه أيضًا اللحم النظيف أواللحم المصنع أو اللحم في المختبر، وهو اللحم الذي ينتج من زراعة الخلايا الحيوانية في المختبر بدلاً من الحيوانات المذبوحة.وهو شكل من أشكال الزراعة الخلوية. يتم إنتاج اللحم المصنع باستخدام العديد من نفس تقنيات هندسة الأنسجة المستخدمة تقليديا في الطب التجديدي.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%84%D8%AD%D9%85_%D9%85%D8%B5%D9%86%D8%B9"
+        },
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "بدائل اللحوم",
+                "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%A8%D8%AF%D8%A7%D8%A6%D9%84+%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgE7hjvAf-QZz9BlJnoMlIRM2A6jJ7Z1K6IzVb2jC8mlNN5bWnd9zgb07KDWOh66lRYgiHrANkPrvAJvGVJVtRCgCwAJAx73GHi7DXNLP7JsBCz5L1HSse5vd73-681imx13dH28nli6Pw_hO9MCtnm-ntJqbm3FgLgTUTOrIEJSeca5y_0JjQWWitEOYuPG2MlDGJsdk4e6pkSdKAx8S7tGTP-JnwkaZfDVqYjuQYNCC9J2jcI8HBDq5bdiE5ivxbbJ6CKaVaGo1roIfjU5hBAElC457&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQxA16BAhZEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%A8%D8%AF%D8%A7%D8%A6%D9%84+%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgE7hjvAf-QZz9BlJnoMlIRM2A6jJ7Z1K6IzVb2jC8mlNN5bWnd9zgb07KDWOh66lRYgiHrANkPrvAJvGVJVtRCgCwAJAx73GHi7DXNLP7JsBCz5L1HSse5vd73-681imx13dH28nli6Pw_hO9MCtnm-ntJqbm3FgLgTUTOrIEJSeca5y_0JjQWWitEOYuPG2MlDGJsdk4e6pkSdKAx8S7tGTP-JnwkaZfDVqYjuQYNCC9J2jcI8HBDq5bdiE5ivxbbJ6CKaVaGo1roIfjU5hBAElC457",
+                "image": "https://serpapi.com/searches/62ae5d76ada54b592b892d33/images/3e2c90b01eacbafedb77a1c241805448b7d26c66047daee511ec37b727637bb0aa2665c7b15ac9e779a837a40e5f0dfc8f003ac2970913d5826c10d66cf2e4f1.jpeg"
+            },
+            {
+                "name": "Plant‑based meat",
+                "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9+plant-based+meat&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHjE9Xbt2PIaDpHd3E04AvpdGPR4XvdJGTahB0nwyAeM-qlzKXTRmTU4wadBUK9n3AvJ0EIOy46N5-askuBjiaoMrrZC7Cs52lEZUI0I65TojvrDaoagnz2IamgTESp7VWeuYWp9ae3sFvBuBD-PqvbE7ThCZQ9PlTbpiY08R1P36lj1Vd4BewS6BYQ41azcrLjshvcTold8dea0cl--W7pf4m524RAAABloWr8AAXlsjdTFkbV3k-8_sZGd47RBbsbt2M1HklGkMU4xfadmmcA2CQreAgYqk5jVa4W8BrJQJDjJsUA%3D%3D&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQxA16BAhZEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9+plant-based+meat&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHjE9Xbt2PIaDpHd3E04AvpdGPR4XvdJGTahB0nwyAeM-qlzKXTRmTU4wadBUK9n3AvJ0EIOy46N5-askuBjiaoMrrZC7Cs52lEZUI0I65TojvrDaoagnz2IamgTESp7VWeuYWp9ae3sFvBuBD-PqvbE7ThCZQ9PlTbpiY08R1P36lj1Vd4BewS6BYQ41azcrLjshvcTold8dea0cl--W7pf4m524RAAABloWr8AAXlsjdTFkbV3k-8_sZGd47RBbsbt2M1HklGkMU4xfadmmcA2CQreAgYqk5jVa4W8BrJQJDjJsUA%3D%3D",
+                "image": "https://serpapi.com/searches/62ae5d76ada54b592b892d33/images/3e2c90b01eacbafedb77a1c241805448b7d26c66047daee511ec37b727637bb0aa2665c7b15ac9e779a837a40e5f0dfc8f003ac2970913d5388a3f5ef9d61cd8.jpeg"
+            },
+            {
+                "name": "لحم",
+                "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D9%84%D8%AD%D9%85&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXGjwEgahjnaHSqS8-jUspYNLMIRcznXCaZVjc9NHHsWYR1XOYOHGwbxTwyGzDKkPUZf5u1NW2KA9RkP_Wbh-rV-lk6FiOa2hel-m2vCRD_X1b9TnAAPctfpqoz8jJF-JSOkIYPDhgb9RjgvwknGuYEPcz8Sub3r7Fmzwc5UQ3_cjBsy68WcWOyS_ao0_fMa4GfVHlEFeGxWDUliN8LWsPDKNrG_FpeSdeDUKo02LrERNRphqA-3VdJM-UI-_VSmGIIchJ0%3D&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQxA16BAhZEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdXGjwEgahjnaHSqS8-jUspYNLMIRcznXCaZVjc9NHHsWYR1XOYOHGwbxTwyGzDKkPUZf5u1NW2KA9RkP_Wbh-rV-lk6FiOa2hel-m2vCRD_X1b9TnAAPctfpqoz8jJF-JSOkIYPDhgb9RjgvwknGuYEPcz8Sub3r7Fmzwc5UQ3_cjBsy68WcWOyS_ao0_fMa4GfVHlEFeGxWDUliN8LWsPDKNrG_FpeSdeDUKo02LrERNRphqA-3VdJM-UI-_VSmGIIchJ0%3D",
+                "image": "https://serpapi.com/searches/62ae5d76ada54b592b892d33/images/3e2c90b01eacbafedb77a1c241805448b7d26c66047daee511ec37b727637bb0aa2665c7b15ac9e779a837a40e5f0dfc8f003ac2970913d5818d02ca1d517b54.jpeg"
+            },
+            {
+                "name": "Sustainable meat",
+                "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9+sustainable+meat&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHjmjh84t4TThe_9dgNnk_ukqrWtnZYTKd0kCQ1jC3MO8HxKS5D8KOXiTp7gKE07ODIoFkNl8kBN4tuYmBbdzEKaym2dhXRln9e7vz2Xzor3U9D2cClNuZ3uAx0h_6kNyNqc3jy_ddVOrkEjoHLXAxN1fwqQY9sSHbpu6PS4Og-PPQ1cgNsHRL4qFLDnAiFuvCGXQT3tywsNbCVVGWsYcFScRUHM_nmlXCx0CANAYHj-nl1P26asSZjNG4CRiIH16v5sUFD2xY5WgPTc3EMX4wLKCeAEnA3FSZnJ8vJnlecHe-vYK0w%3D%3D&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQxA16BAhZEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9+sustainable+meat&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHjmjh84t4TThe_9dgNnk_ukqrWtnZYTKd0kCQ1jC3MO8HxKS5D8KOXiTp7gKE07ODIoFkNl8kBN4tuYmBbdzEKaym2dhXRln9e7vz2Xzor3U9D2cClNuZ3uAx0h_6kNyNqc3jy_ddVOrkEjoHLXAxN1fwqQY9sSHbpu6PS4Og-PPQ1cgNsHRL4qFLDnAiFuvCGXQT3tywsNbCVVGWsYcFScRUHM_nmlXCx0CANAYHj-nl1P26asSZjNG4CRiIH16v5sUFD2xY5WgPTc3EMX4wLKCeAEnA3FSZnJ8vJnlecHe-vYK0w%3D%3D",
+                "image": "https://serpapi.com/searches/62ae5d76ada54b592b892d33/images/3e2c90b01eacbafedb77a1c241805448b7d26c66047daee511ec37b727637bb0aa2665c7b15ac9e779a837a40e5f0dfc8f003ac2970913d589621a96282772da.jpeg"
+            }
+        ],
+        "يبحث_الأشخاص_أيضًا_عن_link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&stick=H4sIAAAAAAAAAONgFuLWT9c3NDLITco1SlZC5mgJBmempJYnVhb7pVaUBJekFhQvYuW_2XJj7c1WhZutN7bebLuxcwcrIwC_wG3NRAAAAA&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQMSgAegQIWRAB",
+        "يبحث_الأشخاص_أيضًا_عن_stick": "H4sIAAAAAAAAAONgFuLWT9c3NDLITco1SlZC5mgJBmempJYnVhb7pVaUBJekFhQvYuW_2XJj7c1WhZutN7bebLuxcwcrIwC_wG3NRAAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "جولة في أضخم مصانع معالجة لحوم البقر.. مهارات قطع لحوم مذهلة",
+            "link": "https://www.youtube.com/watch?v=gQifjisZFLA",
+            "thumbnail": "https://serpapi.com/searches/62ae5d76ada54b592b892d33/images/c6eb632238d3812007de1fdee0b8e927f6b95ba0efc3e46f224aa178f59fe26d.jpeg",
+            "channel": "هل تعلم؟ علوم وتكنولوجيا",
+            "duration": "12:52",
+            "platform": "YouTube",
+            "date": "09‏/11‏/2020"
+        },
+        {
+            "position": 2,
+            "title": "مستقبل الغذاء: اللحم المصنع مخبريًا قريبًا سيتواجد في الأسواق",
+            "link": "https://www.youtube.com/watch?v=i5ZF12Zqp8w",
+            "thumbnail": "https://i.ytimg.com/vi/i5ZF12Zqp8w/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3n7fZhtipmKBYJFo5ZTlStHQLLCPQ",
+            "channel": "مرصد المستقبل",
+            "duration": "2:45",
+            "platform": "YouTube",
+            "date": "31‏/07‏/2018"
+        },
+        {
+            "position": 3,
+            "title": "اللحوم المصنعة مخبرياً ثورة تاريخية غذائية",
+            "link": "https://www.youtube.com/watch?v=Py1j07GTNgw",
+            "thumbnail": "https://serpapi.com/searches/62ae5d76ada54b592b892d33/images/c6eb632238d381206e821d65bf58de3849656b61fded9ea3ca96ce0e4476a043.jpeg",
+            "channel": "التغيير بلس - TgrPlus",
+            "duration": "2:44",
+            "platform": "YouTube",
+            "date": "22‏/12‏/2020"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "ماذا يقصد باللحوم المصنعه؟",
+            "snippet": "أولاً / اللحوم الحمراء المصنعة – وهي لحوم مصنعة يكون مصدرها (الضأن - الماعز – الأبقار – الجاموس – الجمال). عالي الدهن (يجب ألا يزيد محتوى الدهن عن 40%). ثانياً/ لحوم الطيور الداجنة وهي منتجات طيور أليفة – وهي لحوم مصنعة يكون مصدرها (الديك الرومي - البط – ألاوز – الدجاج – السمان – الحمام – الأرانب).10‏/11‏/2021",
+            "title": "منتجات اللحوم المصنعة | الهيئة العامة للغذاء والدواء",
+            "link": "http://www.sfda.gov.sa/ar/awarenessarticle/85870",
+            "displayed_link": "http://www.sfda.gov.sa › awarenessarticle"
+        },
+        {
+            "question": "ما حكم اللحم المصنع؟",
+            "snippet": "وعن الحكم الشرعي للحوم المصنعة اكد د. الشطي أن اللحم المصنع حلال شرعا إذا أخذت الخلايا الجذعية من حيوان يحل ذبحه مع عدم استخدام الدم أو مصل الدم في عملية تصنيعه، والله أعلم.05‏/10‏/2021",
+            "title": "دعاة لـ «الأنباء» حول اللحوم الاصطناعية»: حلال ولكن بشروط",
+            "link": "https://www.alanba.com.kw/1074847",
+            "displayed_link": "https://www.alanba.com.kw › ..."
+        },
+        {
+            "question": "ما هي اللحوم المعالجة؟",
+            "snippet": "ما هي انواع اللحوم المعالجة؟ المصطلح لحوم معالجة يشمل كل اللحوم التي مرت بتغيير في عمليات تمليح, معالجة (حفظ), تدخين, تخمير, او عمليات اخرى من اجل تحسين الطعم او الملمس ومن اجل حفظها لفترة زمنية طويلة. المقصود هنا ليس فقط لحوم البقر او الخنزير بل كذلك لحم الخروف, الدجاج, او الحبش.",
+            "title": "اللحوم المعالجة والعلاقة بالسرطان, وزارة الصحه",
+            "link": "https://www.health.gov.il/Arabic/Subjects/FoodAndNutrition/Nutrition/diseases/Pages/MeatAndCancer.aspx",
+            "displayed_link": "https://www.health.gov.il › Pages › MeatAndCancer"
+        },
+        {
+            "question": "ما هي اللحوم المخلقة؟",
+            "snippet": "ما هي أنواع اللحوم المصنعة؟ قطع اللحم المقدد (Cured meat cuts). منتجات اللحوم النيئة -المطبوخة (Raw-cooked meat products). مجموعة اللحوم ما قبل الطبخ والمطبوخة (Precooked-cooked meat products). النقانق النيئة المخمرة (Raw-fermented sausages).01‏/09‏/2015",
+            "title": "تعرف على حقيقة اللحوم المصنعة - ويب طب",
+            "link": "https://www.webteb.com/articles/%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9%D8%A9_16249",
+            "displayed_link": "https://www.webteb.com › articles › اللحوم-المصنعة_16..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "لحم مصنع - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%84%D8%AD%D9%85_%D9%85%D8%B5%D9%86%D8%B9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › لحم_مصنع",
+            "thumbnail": "https://serpapi.com/searches/62ae5d76ada54b592b892d33/images/f450646d7f7d52fbd59acdc1fe9e65eed6f3956d895ee991700688bba3e7ec1f.jpeg",
+            "snippet": "لحم مزروع، والذي يطلق عليه أيضًا اللحم النظيف أواللحم المصنع أو اللحم في المختبر، وهو اللحم الذي ينتج من زراعة الخلايا الحيوانية في المختبر بدلاً من ...",
+            "snippet_highlighted_words": [
+                "لحم",
+                "اللحم",
+                "المصنع",
+                "اللحم",
+                "اللحم"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "اللحوم الصناعية... ثورة أم \"مهلكة\" غذائية؟ | اندبندنت عربية",
+            "link": "https://www.independentarabia.com/node/179316",
+            "displayed_link": "https://www.independentarabia.com › node",
+            "thumbnail": "https://serpapi.com/searches/62ae5d76ada54b592b892d33/images/f450646d7f7d52fbd59acdc1fe9e65ee99c04dc2fe8c5158fc528f1c5da30fdf.jpeg",
+            "snippet": "وتقول الدكتورة أليس رئيسة الفريق البحثي بجامعة باث البريطانية، إن الفائدة الأكبر من تناول اللحم المصنع مخبرياً تكمن في معالجة الحاجة ...",
+            "snippet_highlighted_words": [
+                "اللحم المصنع"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٤‏/١٢‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "تعرف على حقيقة اللحوم المصنعة - ويب طب",
+            "link": "https://www.webteb.com/articles/%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9%D8%A9_16249",
+            "displayed_link": "https://www.webteb.com › articles › اللحوم-المصنعة_16...",
+            "thumbnail": "https://serpapi.com/searches/62ae5d76ada54b592b892d33/images/f450646d7f7d52fbd59acdc1fe9e65eed9267853bb64e747b7d8c0230b25e575.jpeg",
+            "snippet": "بحسب تعريف المعهد الأمريكي لأبحاث السرطان (American Institute for Cancer Research) فاللحوم المصنعة هي اللحوم التي تم حفظها بالتدخين، أو بالتمليح ...",
+            "snippet_highlighted_words": [
+                "فاللحوم",
+                "اللحوم"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠١‏/٠٩‏/٢٠١٥ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "لماذا لا نتحوّل إلى لحوم المختبرات طالما أنها أكثر صحة ونظافة؟",
+            "link": "https://www.asharqbusiness.com/article/22239",
+            "displayed_link": "https://www.asharqbusiness.com › article",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwy4y6Bu2VfH99XB2CKKQdstp2tbClsiKvVTtR7l1YyWjobfaEje_U&usqp=CAE&s",
+            "snippet": "كذلك، فإن اللحم المصنع مخبرياً أكثر نظافة على صعيد صحة البشر أيضاً. فهو يخلو من التلوث البكتيري مثل بكتيريا \"إي كولاي\"، ومن بقايا البراز التي ...",
+            "snippet_highlighted_words": [
+                "اللحم المصنع"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٠‏/٠٨‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "شركة أمريكية تنوي إنتاج لحوم صناعية في قطر - RT Arabic",
+            "link": "https://arabic.rt.com/business/1268435-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D9%86%D9%88%D9%8A-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%84%D8%AD%D9%88%D9%85-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D9%82%D8%B7%D8%B1/",
+            "displayed_link": "https://arabic.rt.com › business › 1268435-شركة-أمريك...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsomV-EMl2OopNnO_Yo3BmRuTd-tfix2RbWMUQ3_kuTMEriHC24n7f&usqp=CAE&s",
+            "snippet": "إسرائيل.. مطعم يحدث \"ثورة غذائية\" بأطباق دجاج مصنع مخبريا. وخاضت عدة شركات ناشئة غمار هذا المجال لإنتاج اللحوم من بروتينات حيوانية بآثار أقل ...",
+            "snippet_highlighted_words": [
+                "مصنع",
+                "اللحوم"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠١‏/٠٩‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "ما هي اللحوم المصنّعة وهل جميعها مصدر خطورة؟",
+            "link": "https://24.ae/article/500128/",
+            "displayed_link": "https://24.ae › article",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4FGQL5sGifKuYiboOQ3n5X_V0BTyHLlvgJ0Qorlghl8XFHI773BVx&usqp=CAE&s",
+            "snippet": "وتعتبر اللحوم الحمراء أكثر الأنواع التي يتم تحويلها إلى لحوم مصنّعة، لكن تدخل بعض منتجات لحم الدجاج والديك الرومي ضمن هذا التصنيف أيضاً. اللحوم ...",
+            "snippet_highlighted_words": [
+                "اللحوم",
+                "لحوم",
+                "لحم",
+                "اللحوم"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٩‏/٠٤‏/٢٠١٩ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "دراسة جدوى مشروع مصنع اللحوم المجمدة | شركة استثمار - دراسات ...",
+            "link": "http://estssmar.com/FeasibilityStudies/Details/7",
+            "displayed_link": "http://estssmar.com › FeasibilityStudies › Details",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGL7j5BnySiZxYV0pDTFUGiRpDa3R8nQfPnIdgTIaANUP6ABurtk8&usqp=CAE&s",
+            "snippet": "المشروع يقوم على تقديم أفضل المنتجات مثل السجق واللحم المفروم واللحوم الباردة والكباب وما إلى ذلك من المنتجات التي تخضع للرقابة الصحية ورقابة الجودة داخل المصنع ...",
+            "snippet_highlighted_words": [
+                "واللحم",
+                "واللحوم",
+                "المصنع"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "اسوء أنواع اللحوم",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%A7%D8%B3%D9%88%D8%A1+%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "اللحوم المصنعة pdf",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85+%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9%D8%A9+pdf&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "زراعة اللحوم",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9+%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ1QJ6BAguEAE"
+        },
+        {
+            "query": "اللحوم المصنعة بالانجليزي",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85+%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9%D8%A9+%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "اللحوم المزروعة مخبرياً",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85+%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9+%D9%85%D8%AE%D8%A8%D8%B1%D9%8A%D8%A7%D9%8B&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "تكنولوجيا صناعة اللحوم",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7+%D8%B5%D9%86%D8%A7%D8%B9%D8%A9+%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "فوائد اللحوم المصنعة",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D9%81%D9%88%D8%A7%D8%A6%D8%AF+%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85+%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9%D8%A9&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ1QJ6BAglEAE"
+        },
+        {
+            "query": "حكم اللحوم المصنعة",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%AD%D9%83%D9%85+%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85+%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9%D8%A9&sa=X&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ1QJ6BAgkEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&ucbcb=1&gl=eg&hl=ar&ei=eV2uYpOSKoPp4-EPmbScmAo&start=10&sa=N&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ8NMDegQIAhBN",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&ucbcb=1&gl=eg&hl=ar&ei=eV2uYpOSKoPp4-EPmbScmAo&start=10&sa=N&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ8tMDegQIAhA7",
+            "3": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&ucbcb=1&gl=eg&hl=ar&ei=eV2uYpOSKoPp4-EPmbScmAo&start=20&sa=N&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ8tMDegQIAhA9",
+            "4": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&ucbcb=1&gl=eg&hl=ar&ei=eV2uYpOSKoPp4-EPmbScmAo&start=30&sa=N&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ8tMDegQIAhA_",
+            "5": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&ucbcb=1&gl=eg&hl=ar&ei=eV2uYpOSKoPp4-EPmbScmAo&start=40&sa=N&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ8tMDegQIAhBB",
+            "6": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&ucbcb=1&gl=eg&hl=ar&ei=eV2uYpOSKoPp4-EPmbScmAo&start=50&sa=N&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ8tMDegQIAhBD",
+            "7": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&ucbcb=1&gl=eg&hl=ar&ei=eV2uYpOSKoPp4-EPmbScmAo&start=60&sa=N&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ8tMDegQIAhBF",
+            "8": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&ucbcb=1&gl=eg&hl=ar&ei=eV2uYpOSKoPp4-EPmbScmAo&start=70&sa=N&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ8tMDegQIAhBH",
+            "9": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&ucbcb=1&gl=eg&hl=ar&ei=eV2uYpOSKoPp4-EPmbScmAo&start=80&sa=N&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ8tMDegQIAhBJ",
+            "10": "https://www.google.com/search?q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&ucbcb=1&gl=eg&hl=ar&ei=eV2uYpOSKoPp4-EPmbScmAo&start=90&sa=N&ved=2ahUKEwjTssjOkbj4AhWD9DgGHRkaB6MQ8tMDegQIAhBL"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%84%D8%AD%D9%85+%D9%85%D8%B5%D9%86%D8%B9&start=90"
+        }
+    }
+}

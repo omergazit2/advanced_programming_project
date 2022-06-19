@@ -1,0 +1,265 @@
+{
+    "search_metadata": {
+        "id": "62ae5d979c449d0ce8ba05cf",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b3ec002ceb37c51f/62ae5d979c449d0ce8ba05cf.json",
+        "created_at": "2022-06-18 23:19:51 UTC",
+        "processed_at": "2022-06-18 23:19:51 UTC",
+        "google_url": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&oq=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/b3ec002ceb37c51f/62ae5d979c449d0ce8ba05cf.html",
+        "total_time_taken": 2.44
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "علاج مناعي",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "علاج مناعي",
+        "total_results": 4140000,
+        "time_taken_displayed": 0.35
+    },
+    "related_questions": [
+        {
+            "question": "كيف يتم العلاج المناعي؟",
+            "snippet": "العلاج المناعي الأكثر شيوعًا: من خلال منع الرسائل بين PD-1 و PD-L1 التي يتم التعبير عنها على الخلايا السرطانية ، تعمل هذه الأجسام المضادة على منع إشارة مثبط الخلايا السرطانية الموجهة نحو الخلايا الليمفاوية التائية (الخلايا القاتلة CD8 +). هذا يسمح بإعادة تنشيط الخلايا القاتلة ضد الخلايا السرطانية.",
+            "title": "كيف يعمل العلاج المناعي؟ - مركز الطاقة العالية",
+            "link": "https://che-nice.com/ar/treatment-methods/immunotherapy/",
+            "displayed_link": "https://che-nice.com › immunotherapy"
+        },
+        {
+            "question": "هل العلاج المناعي يقضي ع السرطان؟",
+            "snippet": "ويساعد العلاج المناعي جهاز المناعة على العمل بشكل أفضل ضد السرطان، أحد أنواع العلاج المناعي للسرطان هو \"العلاج بالسيتوكينات\"، ويعمل على تنشيط استجابة الخلايا المناعية داخل الأورام، ولكن عادةً ما تكون هناك آثار جانبية غير مرغوب فيها، مثل السمية الشديدة.18‏/02‏/2022",
+            "title": "علاج مناعي أكثر أمانًا للسرطان - للعِلم - Scientific American",
+            "link": "https://www.scientificamerican.com/arabic/articles/news/masked-cytokine-for-safer-cancer-immunotherapy/",
+            "displayed_link": "https://www.scientificamerican.com › articles › news"
+        },
+        {
+            "question": "ما هو العلاج الكيماوي المناعي؟",
+            "snippet": "يُسمى العلاج المناعي أيضًا بالمعالجة البيولوجية، وهو أحد الأساليب العلاجية التي تستخدم جهاز المناعة في الجسم للقضاء على السرطان، ويرتكز العلاج أساسًا على تحفيز جهاز المناعة وبالتالي تمكينه من انجاز وظائفه بشكلٍ أكثر فاعليّة.",
+            "title": "العلاج المناعي | كليفلاند كلينك أبوظبي - Cleveland Clinic ...",
+            "link": "https://www.clevelandclinicabudhabi.ae/ar/health-hub/health-library/pages/immunotherapy.aspx",
+            "displayed_link": "https://www.clevelandclinicabudhabi.ae › immunotherapy"
+        },
+        {
+            "question": "ما الفرق بين العلاج الكيماوي والعلاج المناعي؟",
+            "snippet": "فالعلاج الكيماوي التقليدي يستهدف الخلايا السرطانية للقضاء عليها وإبطاء تكاثرها، فيما يعتمد العلاج المناعي على تنشيط الجهاز المناعي في الجسم لتعزيز قدرته على استهداف الخلايا السرطانية والقضاء عليها. ورغم أنه لا يناسب جميع أنواع السرطان، لكنه فعال في علاج بعضها\".13‏/07‏/2020",
+            "title": "العلاج المناعي لمحاربة السرطان - Cleveland Clinic Abu Dhabi",
+            "link": "https://www.clevelandclinicabudhabi.ae/ar/health-byte/pages/immunotherapy-for-cancer-treatment.aspx",
+            "displayed_link": "https://www.clevelandclinicabudhabi.ae › pages › immun..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "العلاج المناعي | كليفلاند كلينك أبوظبي - Cleveland Clinic ...",
+            "link": "https://www.clevelandclinicabudhabi.ae/ar/health-hub/health-library/pages/immunotherapy.aspx",
+            "displayed_link": "https://www.clevelandclinicabudhabi.ae › immunotherapy",
+            "snippet": "يُسمى العلاج المناعي أيضًا بالمعالجة البيولوجية، وهو أحد الأساليب العلاجية التي تستخدم جهاز المناعة في الجسم للقضاء على السرطان، ويرتكز العلاج أساسًا على ...",
+            "snippet_highlighted_words": [
+                "العلاج المناعي",
+                "العلاج"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "العلاج المناعي للسرطان: علاج واعد للسرطانات العنيدة - ويب طب",
+            "link": "https://www.webteb.com/articles/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A-%D9%84%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86_26826",
+            "displayed_link": "https://www.webteb.com › articles › العلاج-المناعي-للس...",
+            "snippet": "يعد العلاج المناعي أحد أنواع العلاجات البيولوجية، والعلاجات البيولوجية هي تقنيات علاجية تعتمد على استخدام مواد مأخوذة من كائنات حية أو نسخ مصنعة ...",
+            "snippet_highlighted_words": [
+                "العلاج المناعي"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠١‏/١٢‏/٢٠٢٠ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "علاج مناعي أكثر أمانًا للسرطان - للعِلم - Scientific American",
+            "link": "https://www.scientificamerican.com/arabic/articles/news/masked-cytokine-for-safer-cancer-immunotherapy/",
+            "displayed_link": "https://www.scientificamerican.com › articles › news",
+            "snippet": "ويساعد العلاج المناعي جهاز المناعة على العمل بشكل أفضل ضد السرطان، أحد أنواع العلاج المناعي للسرطان هو \"العلاج بالسيتوكينات\"، ويعمل على تنشيط ...",
+            "snippet_highlighted_words": [
+                "العلاج المناعي",
+                "العلاج المناعي",
+                "العلاج"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "١٨‏/٠٢‏/٢٠٢٢ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "كيف يعمل العلاج المناعي؟ - مركز الطاقة العالية",
+            "link": "https://che-nice.com/ar/treatment-methods/immunotherapy/",
+            "displayed_link": "https://che-nice.com › immunotherapy",
+            "snippet": "العلاج المناعي الأكثر شيوعًا: Pembrolizumab أو Nivolumab هي أجسام مضادة وحيدة النسيلة موجهة ضد بروتين PD1 المعبر عنه في الخلايا اللمفاوية التائية. من خلال منع ...",
+            "snippet_highlighted_words": [
+                "العلاج المناعي"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "العلاج المناعي - دليل MSD الإرشادي إصدار المُستخدِم",
+            "link": "https://www.msdmanuals.com/ar/home/%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A%D9%91%D9%8E%D8%A9/%D8%A8%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A",
+            "displayed_link": "https://www.msdmanuals.com › بيولوجيا-الجهاز-المناعي",
+            "snippet": "العلاج المناعي immunotherapy هو استخدام الأدوية التي تحاكي أو تعدل مكونات الجهاز المناعي (مثل: مستضدات الورم المستضدات الورمية بعد أن تصبح الخلية سرطانية، ...",
+            "snippet_highlighted_words": [
+                "العلاج المناعي",
+                "المناعي"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "المُعالَجة المناعيَّة للسَّرطان - دليل MSD الإرشادي إصدار المُستخدِم",
+            "link": "https://www.msdmanuals.com/ar/home/%D8%AD%D9%82%D8%A7%D8%A6%D9%82-%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86/%D8%A7%D9%84%D9%88%D9%82%D8%A7%D9%8A%D9%8E%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86%D9%90-%D9%88%D9%85%D9%8F%D8%B9%D8%A7%D9%84%D8%AC%D8%AA%D9%8F%D9%87/%D8%A7%D9%84%D9%85%D9%8F%D8%B9%D8%A7%D9%84%D9%8E%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A%D9%91%D9%8E%D8%A9-%D9%84%D9%84%D8%B3%D9%91%D9%8E%D8%B1%D8%B7%D8%A7%D9%86",
+            "displayed_link": "https://www.msdmanuals.com › حقائق-سريعة-السرطان",
+            "snippet": "المُعالَجة المناعية هِيَ علاج للسَّرَطان يستخدم جهاز المناعة لمحة عامة عن الجهاز المناعي الجهاز المناعي هو جهاز متخصص في الدفاع عن الجسم ضد العَوامِل ...",
+            "snippet_highlighted_words": [
+                "علاج",
+                "المناعي",
+                "المناعي"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "العلاج المناعي للسرطان.. دراسة تكشف عن تفاصيل جديدة - ...",
+            "link": "https://www.skynewsarabia.com/technology/1448718-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A-%D9%84%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
+            "displayed_link": "https://www.skynewsarabia.com › technology › 144871...",
+            "snippet": "أحدث العلاج المناعي خلال السنوات الأخيرة ثورة في مجال علاج السرطان، لكن على الدوام كان التفاعل مع الأنسجة السليمة يمثل خطورة، ينتج عنها آثار ...",
+            "snippet_highlighted_words": [
+                "العلاج المناعي",
+                "علاج"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٠٣‏/٠٧‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "علم مناعة الاورام السرطانية - Primo Medico",
+            "link": "https://www.primomedico.com/ar/eilaj/alelaj-almnaey-llsrtan/",
+            "displayed_link": "https://www.primomedico.com › alelaj-almnaey-llsrtan",
+            "snippet": "العلاج المناعي هو العلاج الذي يؤثر على الجهاز المناعي للإنسان. هناك أربع طرائق مختلفة: ... تشمل العلاجات المحفزة التطعيمات وإعطاء المنشطات المناعية العامة. هنا ، ...",
+            "snippet_highlighted_words": [
+                "العلاج المناعي",
+                "العلاج",
+                "المناعي"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "العلاج المناعي لسرطان الأطفال - كلنا معاً - St. Jude Together",
+            "link": "https://together.stjude.org/ar-sa/diagnosis-treatment/treatment/immunotherapy.html",
+            "displayed_link": "https://together.stjude.org › treatment › immunotherapy",
+            "snippet": "العلاج المناعي عبارة عن نوع من علاج السرطان يستخدم الجهاز المناعي لمكافحة السرطان. يمثل الجهاز المناعي دفاع الجسم ضد العدوى والمرض.",
+            "snippet_highlighted_words": [
+                "العلاج المناعي",
+                "علاج",
+                "المناعي",
+                "المناعي"
+            ]
+        },
+        {
+            "position": 10,
+            "title": "العلاج الكيماوي والمناعي في تركيا - علاجك الطبية",
+            "link": "https://www.ilajak.com/chemotherapy-and-immunotherapy",
+            "displayed_link": "https://www.ilajak.com › علاج الأورام في تركيا",
+            "snippet": "ما هو العلاج المناعي للسرطان ؟ ويسمى بالعلاج البيولوجي، هو نوع من الأدوية التي تُستخدم في علاج السرطان، وتعمل من خلال تقوية ...",
+            "snippet_highlighted_words": [
+                "العلاج المناعي",
+                "بالعلاج",
+                "علاج"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "كيف يعمل العلاج المناعي ؟ —"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "أنواع العلاج المناعي",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A&sa=X&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ1QJ6BAhFEAE"
+        },
+        {
+            "query": "متى تظهر نتائج العلاج المناعي",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D9%85%D8%AA%D9%89+%D8%AA%D8%B8%D9%87%D8%B1+%D9%86%D8%AA%D8%A7%D8%A6%D8%AC+%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A&sa=X&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ1QJ6BAhGEAE"
+        },
+        {
+            "query": "أنواع العلاج المناعي للسرطان",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%A3%D9%86%D9%88%D8%A7%D8%B9+%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A+%D9%84%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86&sa=X&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ1QJ6BAhHEAE"
+        },
+        {
+            "query": "أضرار العلاج المناعي",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1+%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A&sa=X&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ1QJ6BAhCEAE"
+        },
+        {
+            "query": "تجربتي مع العلاج المناعي",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%AA%D8%AC%D8%B1%D8%A8%D8%AA%D9%8A+%D9%85%D8%B9+%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A&sa=X&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "نسبة نجاح العلاج المناعي",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D9%86%D8%B3%D8%A8%D8%A9+%D9%86%D8%AC%D8%A7%D8%AD+%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A&sa=X&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "تكلفة العلاج المناعي للسرطان",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D8%AA%D9%83%D9%84%D9%81%D8%A9+%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A+%D9%84%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86&sa=X&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "كم مدة العلاج المناعي للسرطان",
+            "link": "https://www.google.com/search?ucbcb=1&gl=eg&hl=ar&q=%D9%83%D9%85+%D9%85%D8%AF%D8%A9+%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D9%8A+%D9%84%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86&sa=X&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ1QJ6BAgxEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&ucbcb=1&gl=eg&hl=ar&ei=mF2uYuOVO42_4-EP3cinuA0&start=10&sa=N&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ8NMDegQIARBN",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&ucbcb=1&gl=eg&hl=ar&ei=mF2uYuOVO42_4-EP3cinuA0&start=10&sa=N&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ8tMDegQIARA7",
+            "3": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&ucbcb=1&gl=eg&hl=ar&ei=mF2uYuOVO42_4-EP3cinuA0&start=20&sa=N&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ8tMDegQIARA9",
+            "4": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&ucbcb=1&gl=eg&hl=ar&ei=mF2uYuOVO42_4-EP3cinuA0&start=30&sa=N&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ8tMDegQIARA_",
+            "5": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&ucbcb=1&gl=eg&hl=ar&ei=mF2uYuOVO42_4-EP3cinuA0&start=40&sa=N&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ8tMDegQIARBB",
+            "6": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&ucbcb=1&gl=eg&hl=ar&ei=mF2uYuOVO42_4-EP3cinuA0&start=50&sa=N&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ8tMDegQIARBD",
+            "7": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&ucbcb=1&gl=eg&hl=ar&ei=mF2uYuOVO42_4-EP3cinuA0&start=60&sa=N&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ8tMDegQIARBF",
+            "8": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&ucbcb=1&gl=eg&hl=ar&ei=mF2uYuOVO42_4-EP3cinuA0&start=70&sa=N&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ8tMDegQIARBH",
+            "9": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&ucbcb=1&gl=eg&hl=ar&ei=mF2uYuOVO42_4-EP3cinuA0&start=80&sa=N&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ8tMDegQIARBJ",
+            "10": "https://www.google.com/search?q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&ucbcb=1&gl=eg&hl=ar&ei=mF2uYuOVO42_4-EP3cinuA0&start=90&sa=N&ved=2ahUKEwjjwb3dkbj4AhWN3zgGHV3kCdcQ8tMDegQIARBL"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B9%D9%84%D8%A7%D8%AC+%D9%85%D9%86%D8%A7%D8%B9%D9%8A&start=90"
+        }
+    }
+}

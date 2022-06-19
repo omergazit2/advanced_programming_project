@@ -1,0 +1,274 @@
+{
+    "search_metadata": {
+        "id": "62ae5d8dc504e949597af0dd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f68e9443fbeb214c/62ae5d8dc504e949597af0dd.json",
+        "created_at": "2022-06-18 23:19:41 UTC",
+        "processed_at": "2022-06-18 23:19:41 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&oq=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f68e9443fbeb214c/62ae5d8dc504e949597af0dd.html",
+        "total_time_taken": 1.42
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "קיפול חלבונים",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "קיפול חלבונים",
+        "total_results": 19500,
+        "time_taken_displayed": 0.56
+    },
+    "knowledge_graph": {
+        "title": "קיפול חלבונים",
+        "header_images": [
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A4%D7%95%D7%9C_%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D"
+            },
+            {
+                "source": "https://www.geektime.co.il/google-deep-mind-alphafold-makes-a-giant-leap-in-protein-folding/"
+            },
+            {
+                "source": "https://www.hayadan.org.il/breakthrough_proteins_nanotechnology"
+            },
+            {
+                "source": "https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A4%D7%95%D7%9C_%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D"
+            },
+            {
+                "source": "https://telem.openu.ac.il/courses/c20214/fold-s.htm"
+            },
+            {
+                "source": "https://www.lbscience.org/2021/01/05/%D7%9C%D7%9C%D7%9E%D7%95%D7%93-%D7%9C%D7%A7%D7%A4%D7%9C/"
+            },
+            {
+                "source": "https://www.geektime.co.il/google-deep-mind-alphafold-makes-a-giant-leap-in-protein-folding/"
+            }
+        ],
+        "description": "קיפול חלבונים הוא תהליך שבו נוצר מבנה תלת-ממדי בחלבון, לאחר תהליך התרגום. כאשר חלבון מסונתז בתא על ידי הריבוזום, הוא נמצא במבנהו הראשוני, כלומר כשרשרת ארוכה של חומצות אמינו ללא מבנה מוגדר. במצב זה החלבון אינו פעיל וכדי למלא את ייעודו עליו להתקפל, כלומר ליצור מבנה תלת-ממדי.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A4%D7%95%D7%9C_%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D"
+        },
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "תרגום",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%AA%D7%A8%D7%92%D7%95%D7%9D+(%D7%91%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94)&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLgY8_ad3IMY2YTaGtu9y4E46fOON6WQ3Xc3L5q-OA-nu-hyzLGppZ9prQeDletLlWjWrKGJCJiMnOsOC0bCjEuvkwYAeQOM2yjK7EmZFJW-caCuUyOgUUooCpIEyL6uwFnDe91XWVz7NqUNBhrQHcWxtLRHBTVtmseZFhZ_yIh2zykIkMnCJjq704sGTqEsYJed4RJvBLzXUJgnjoUlOHHI2dLj5N8GYBXLpCq4f2VN8y9ENHU9lT0plNjYoJeEsl4qma5UEmS--nrGb93G2Dg1GNit&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40QxA16BAhJEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%A8%D7%92%D7%95%D7%9D+%28%D7%91%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94%29&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLgY8_ad3IMY2YTaGtu9y4E46fOON6WQ3Xc3L5q-OA-nu-hyzLGppZ9prQeDletLlWjWrKGJCJiMnOsOC0bCjEuvkwYAeQOM2yjK7EmZFJW-caCuUyOgUUooCpIEyL6uwFnDe91XWVz7NqUNBhrQHcWxtLRHBTVtmseZFhZ_yIh2zykIkMnCJjq704sGTqEsYJed4RJvBLzXUJgnjoUlOHHI2dLj5N8GYBXLpCq4f2VN8y9ENHU9lT0plNjYoJeEsl4qma5UEmS--nrGb93G2Dg1GNit",
+                "image": "https://serpapi.com/searches/62ae5d8dc504e949597af0dd/images/66ee387467502dd475692a22d67528af39bfd57055a5a11149f85bf4e4591c20734d5668e484488a9e435684b8eb71e9f03b45a2922b7278.png"
+            },
+            {
+                "name": "דנטורציה",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%93%D7%A0%D7%98%D7%95%D7%A8%D7%A6%D7%99%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfT0Ac9078NtPicMZOdwqEQhKx0it_JMYOh_LAzXr5C7KxipWHmpNhDrACfEOYcHEjvVwD877eTC3WmEtOsHSG1HozvjRB__VuQ-1WBZpgcGjQ41-UZ18U3exJtnC3eSKBOgX2yCZRD3fLacSrFcGMzTr9qlBTM5VDRYye8DGsVMKdx9d0OK0TFRNGQ4mk_o-t2T6RMfdvcpPVu7AXub8MvZJ2CheTrh5e5KVKi1TC0Tlg5pWwbhSJUcWZA3L48I6oU2iW4%3D&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40QxA16BAhJEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%93%D7%A0%D7%98%D7%95%D7%A8%D7%A6%D7%99%D7%94&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdfT0Ac9078NtPicMZOdwqEQhKx0it_JMYOh_LAzXr5C7KxipWHmpNhDrACfEOYcHEjvVwD877eTC3WmEtOsHSG1HozvjRB__VuQ-1WBZpgcGjQ41-UZ18U3exJtnC3eSKBOgX2yCZRD3fLacSrFcGMzTr9qlBTM5VDRYye8DGsVMKdx9d0OK0TFRNGQ4mk_o-t2T6RMfdvcpPVu7AXub8MvZJ2CheTrh5e5KVKi1TC0Tlg5pWwbhSJUcWZA3L48I6oU2iW4%3D",
+                "image": "https://serpapi.com/searches/62ae5d8dc504e949597af0dd/images/66ee387467502dd475692a22d67528af39bfd57055a5a11149f85bf4e4591c20734d5668e484488afd6a34f578f03211c206673db91aa5a0.jpeg"
+            },
+            {
+                "name": "אפופטוזה",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%90%D7%A4%D7%95%D7%A4%D7%98%D7%95%D7%96%D7%94&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGal304yvZluI3Oyzce4buX0cup-pdGVR54qonvpk-6f1Twvf9zVSp7vsn1penbTNYwzYoMTjiCv8arBluP7ikBFvp23Kugfi8WxoIR9RbdEO-xIZMELcswSThOxuPo28cT0OeOLKxzuG1Au-04kD5H51y5AbOyI-Gkfq53NlFBIGy6nkzCy3KccIvhD1tlggi-2eZzD6Qiut278siQczCWFSIXYCrTJ43aDNyWq17b3N__OjCKX6Um8QDosm4IYFogeAYEE%3D&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40QxA16BAhJEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%A4%D7%95%D7%A4%D7%98%D7%95%D7%96%D7%94&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGal304yvZluI3Oyzce4buX0cup-pdGVR54qonvpk-6f1Twvf9zVSp7vsn1penbTNYwzYoMTjiCv8arBluP7ikBFvp23Kugfi8WxoIR9RbdEO-xIZMELcswSThOxuPo28cT0OeOLKxzuG1Au-04kD5H51y5AbOyI-Gkfq53NlFBIGy6nkzCy3KccIvhD1tlggi-2eZzD6Qiut278siQczCWFSIXYCrTJ43aDNyWq17b3N__OjCKX6Um8QDosm4IYFogeAYEE%3D",
+                "image": "https://serpapi.com/searches/62ae5d8dc504e949597af0dd/images/66ee387467502dd475692a22d67528af39bfd57055a5a11149f85bf4e4591c20734d5668e484488afa2d969f9264adc6f1f1ab374a272d5e.jpeg"
+            },
+            {
+                "name": "מטבוליזם",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%98%D7%91%D7%95%D7%9C%D7%99%D7%96%D7%9D&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWt1r3hDoMVqJ4S0hmsdeFTf1Ln_iQnzY4USmD640Y-ThsIqQ2IWnSj8b1DOuzkqHSLD6ylG9wYOzwwr7IXmgeMBMVhTPOHguDhpn7_n-AOrvK4TBmRV2JdfAkmBTtFNGsAiGQZX8AI4YAsqnO_iZBaX8lCW_-ModGfYpu-snOh4_g17ghfr4Be24MxY8UTMHwQwDuYrp-mnyh5qSnyIwrtdpN4TnhZusIKSYaltuEqBaaMk0fPy2HQMuznr-UXq8LO4ui0%3D&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40QxA16BAhJEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%98%D7%91%D7%95%D7%9C%D7%99%D7%96%D7%9D&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdWt1r3hDoMVqJ4S0hmsdeFTf1Ln_iQnzY4USmD640Y-ThsIqQ2IWnSj8b1DOuzkqHSLD6ylG9wYOzwwr7IXmgeMBMVhTPOHguDhpn7_n-AOrvK4TBmRV2JdfAkmBTtFNGsAiGQZX8AI4YAsqnO_iZBaX8lCW_-ModGfYpu-snOh4_g17ghfr4Be24MxY8UTMHwQwDuYrp-mnyh5qSnyIwrtdpN4TnhZusIKSYaltuEqBaaMk0fPy2HQMuznr-UXq8LO4ui0%3D",
+                "image": "https://serpapi.com/searches/62ae5d8dc504e949597af0dd/images/66ee387467502dd475692a22d67528af39bfd57055a5a11149f85bf4e4591c20734d5668e484488abea16bb39e59c8c67e8ed32dd9b1fa8b.png"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFaCs7QEgzNTUssTK4v9UitKgktSC4oXsUpeX3595vUl16den6Nwffr1OdcnApkLgEJzd7AyAgAJZf99SAAAAA&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40QMSgAegQISRAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFuLQz9U3SCmoNFaCs7QEgzNTUssTK4v9UitKgktSC4oXsUpeX3595vUl16den6Nwffr1OdcnApkLgEJzd7AyAgAJZf99SAAAAA"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "קיפול חלבונים - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A4%D7%95%D7%9C_%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D",
+            "displayed_link": "https://he.wikipedia.org › wiki › קיפול_חלבונים",
+            "snippet": "קיפול חלבונים (באנגלית: Protein Folding) הוא תהליך שבו נוצר מבנה תלת-ממדי בחלבון, לאחר תהליך התרגום. כאשר חלבון מסונתז בתא על ידי הריבוזום, הוא נמצא במבנהו ...",
+            "snippet_highlighted_words": [
+                "קיפול חלבונים",
+                "Protein",
+                "חלבון",
+                "חלבון"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "האוריגמי המורכב של החלבונים - מכון דוידסון",
+            "link": "https://davidson.weizmann.ac.il/online/sciencepanorama/%D7%94%D7%90%D7%95%D7%A8%D7%99%D7%92%D7%9E%D7%99-%D7%94%D7%9E%D7%95%D7%A8%D7%9B%D7%91-%D7%A9%D7%9C-%D7%94%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D",
+            "displayed_link": "https://davidson.weizmann.ac.il › sciencepanorama › הא...",
+            "date": "2 בנוב׳ 2017",
+            "snippet": "אולם, מהי הבעיה הגדולה בקיפול חלבונים ולמה חשוב לחלבונים להתקפל? כיצד החלבון יודע להתקפל ואיך הוא עושה את זה כל כך מהר? מהם חלבונים. חלבונים הם ...",
+            "snippet_highlighted_words": [
+                "בקיפול חלבונים",
+                "לחלבונים",
+                "חלבונים",
+                "חלבונים"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "קיפול חלבונים שגוי ומחלות",
+            "link": "https://telem.openu.ac.il/courses/c20214/fold-s.htm",
+            "displayed_link": "https://telem.openu.ac.il › courses › fold-s",
+            "snippet": "קיפול חלבונים שגוי ומחלות ... כשניסו לייצר חלבונים בשיטות של הנדסה גנטית, כמו אינסולין והורמון הגדילה, בחיידקים, נוכחו שלקבל חלבון מקופל בצורה הנכונה היא ...",
+            "snippet_highlighted_words": [
+                "קיפול חלבונים",
+                "חלבונים",
+                "חלבון"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "פריצת הדרך שתשנה הכל ברפואה - הידען",
+            "link": "https://www.hayadan.org.il/breakthrough_proteins_nanotechnology",
+            "displayed_link": "https://www.hayadan.org.il › breakthrough_proteins_na...",
+            "date": "5 בדצמ׳ 2020",
+            "snippet": "קיפול חלבונים. ... בפשטות: חוקרים הצליחו לפתח בינה מלאכותית שיכולה להבין איך חלבונים מתקפלים. ... החלבונים הם המכונות החשובות ביותר בתאים.",
+            "snippet_highlighted_words": [
+                "קיפול חלבונים",
+                "חלבונים",
+                "החלבונים"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "קיפול חלבונים - המכלול",
+            "link": "https://www.hamichlol.org.il/%D7%A7%D7%99%D7%A4%D7%95%D7%9C_%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D",
+            "displayed_link": "https://www.hamichlol.org.il › קיפול_חלבונים",
+            "date": "2 בספט׳ 2019",
+            "snippet": "קיפול חלבונים (באנגלית: Protein Folding) הוא תהליך שבו נוצר מבנה תלת-ממדי בחלבון. כאשר חלבון מסונתז בתא על ידי הריבוזום, הוא נמצא במבנהו ...",
+            "snippet_highlighted_words": [
+                "קיפול חלבונים",
+                "Protein",
+                "חלבון",
+                "חלבון"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "''הישג שישנה את חוקי המשחק'': ה-AI של גוגל הגיע ל''גביע הקדוש'' ...",
+            "link": "https://www.geektime.co.il/google-deep-mind-alphafold-makes-a-giant-leap-in-protein-folding/",
+            "displayed_link": "https://www.geektime.co.il › google-deep-mind-alphafo...",
+            "date": "2 בדצמ׳ 2020",
+            "snippet": "קיפול חלבונים? WTF? זה אולי נשמע כמו משהו מתוך ספר של קרין גורן, אבל יש שמגדירים את קיפול החלבונים כ\"גביע הקדוש\" של עולם הביולוגיה.",
+            "snippet_highlighted_words": [
+                "קיפול חלבונים",
+                "קיפול החלבונים"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "ללמוד לקפל - מדע גדול, בקטנה",
+            "link": "https://www.lbscience.org/2021/01/05/%D7%9C%D7%9C%D7%9E%D7%95%D7%93-%D7%9C%D7%A7%D7%A4%D7%9C/",
+            "displayed_link": "https://www.lbscience.org › בלוג",
+            "date": "5 בינו׳ 2021",
+            "snippet": "מדוע קיפול חלבונים הוא נושא חשוב וכיצד חוזים את צורתם התלת-ממדית של חלבונים? לחלבונים תפקיד חשוב ביותר בביולוגיה: הם מעין מכונות זעירות המבצעות ...",
+            "snippet_highlighted_words": [
+                "קיפול חלבונים",
+                "חלבונים",
+                "לחלבונים"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "קיפול חלבונים",
+            "link": "https://wblog.wiki/he/Protein_folding",
+            "displayed_link": "https://wblog.wiki › Protein_folding",
+            "snippet": "קיפול חלבונים הוא התהליך הפיזי שבאמצעותו מתורגמת שרשרת חלבונים למבנה התלת-ממדי המקורי שלה , בדרך כלל קונפורמציה \"מקופלת\" שבאמצעותה החלבון הופך לתפקוד ...",
+            "snippet_highlighted_words": [
+                "קיפול חלבונים",
+                "חלבונים"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "לאחר יותר מ-50 שנות מאמץ - גוגל פתרה את \"בעיית קיפול החלבונים\" -",
+            "link": "https://www.pc.co.il/news/327271/",
+            "displayed_link": "https://www.pc.co.il › news",
+            "date": "6 בדצמ׳ 2020",
+            "snippet": "האינסולין אחראי להכנסת סוכר לתא. חלבונים הם אנזימים, נוגדנים בגוף האדם. החלבון נוצר בתא לפי מתכון גנטי, ויש כמה שלבים ביצירת החלבון, כי חומצות ...",
+            "snippet_highlighted_words": [
+                "חלבונים"
+            ]
+        },
+        {
+            "position": 10,
+            "title": "מה זה קיפול חלבונים - מילון עברי עברי - מילוג",
+            "link": "https://milog.co.il/%D7%A7%D7%99%D7%A4%D7%95%D7%9C_%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D",
+            "displayed_link": "https://milog.co.il › קיפול_חלבונים",
+            "snippet": "קיפול חלבונים הוא תהליך שבו נוצר מבנה תלת⁻ממדי בחלבון, לאחר תהליך התרגום. כאשר חלבון מסונתז בתא על ידי הריבוזום, הוא נמצא במבנהו הראשוני, כלומר כשרשרת ארוכה ...",
+            "snippet_highlighted_words": [
+                "קיפול חלבונים",
+                "חלבון"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "מה זה חלבונים",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%94+%D7%96%D7%94+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q1QJ6BAg9EAE"
+        },
+        {
+            "query": "מבנה שלישוני של חלבון",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%9E%D7%91%D7%A0%D7%94+%D7%A9%D7%9C%D7%99%D7%A9%D7%95%D7%A0%D7%99+%D7%A9%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%9F&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q1QJ6BAg7EAE"
+        },
+        {
+            "query": "חלבוני מבנה וחלבוני פעולה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99+%D7%9E%D7%91%D7%A0%D7%94+%D7%95%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99+%D7%A4%D7%A2%D7%95%D7%9C%D7%94&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q1QJ6BAg5EAE"
+        },
+        {
+            "query": "דנטורציה מכון דוידסון",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%93%D7%A0%D7%98%D7%95%D7%A8%D7%A6%D7%99%D7%94+%D7%9E%D7%9B%D7%95%D7%9F+%D7%93%D7%95%D7%99%D7%93%D7%A1%D7%95%D7%9F&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q1QJ6BAg3EAE"
+        },
+        {
+            "query": "דוגמאות לדנטורציה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%93%D7%95%D7%92%D7%9E%D7%90%D7%95%D7%AA+%D7%9C%D7%93%D7%A0%D7%98%D7%95%D7%A8%D7%A6%D7%99%D7%94&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q1QJ6BAgxEAE"
+        },
+        {
+            "query": "חלבונים כימיה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D+%D7%9B%D7%99%D7%9E%D7%99%D7%94&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q1QJ6BAgsEAE"
+        },
+        {
+            "query": "דנטורציה של אנזימים",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%93%D7%A0%D7%98%D7%95%D7%A8%D7%A6%D7%99%D7%94+%D7%A9%D7%9C+%D7%90%D7%A0%D7%96%D7%99%D7%9E%D7%99%D7%9D&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q1QJ6BAgrEAE"
+        },
+        {
+            "query": "פירוק חלבונים בגוף",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%A4%D7%99%D7%A8%D7%95%D7%A7+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D+%D7%91%D7%92%D7%95%D7%A3&sa=X&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&gl=il&hl=iw&ei=jV2uYvzANd6JptQPoK2N6Ag&start=10&sa=N&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q8NMDegQIARBM",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&gl=il&hl=iw&ei=jV2uYvzANd6JptQPoK2N6Ag&start=10&sa=N&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q8tMDegQIARA8",
+            "3": "https://www.google.com/search?q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&gl=il&hl=iw&ei=jV2uYvzANd6JptQPoK2N6Ag&start=20&sa=N&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q8tMDegQIARA-",
+            "4": "https://www.google.com/search?q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&gl=il&hl=iw&ei=jV2uYvzANd6JptQPoK2N6Ag&start=30&sa=N&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q8tMDegQIARBA",
+            "5": "https://www.google.com/search?q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&gl=il&hl=iw&ei=jV2uYvzANd6JptQPoK2N6Ag&start=40&sa=N&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q8tMDegQIARBC",
+            "6": "https://www.google.com/search?q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&gl=il&hl=iw&ei=jV2uYvzANd6JptQPoK2N6Ag&start=50&sa=N&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q8tMDegQIARBE",
+            "7": "https://www.google.com/search?q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&gl=il&hl=iw&ei=jV2uYvzANd6JptQPoK2N6Ag&start=60&sa=N&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q8tMDegQIARBG",
+            "8": "https://www.google.com/search?q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&gl=il&hl=iw&ei=jV2uYvzANd6JptQPoK2N6Ag&start=70&sa=N&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q8tMDegQIARBI",
+            "9": "https://www.google.com/search?q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&gl=il&hl=iw&ei=jV2uYvzANd6JptQPoK2N6Ag&start=80&sa=N&ved=2ahUKEwi8u5jYkbj4AhXehIkEHaBWA40Q8tMDegQIARBK"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%99%D7%A4%D7%95%D7%9C+%D7%97%D7%9C%D7%91%D7%95%D7%A0%D7%99%D7%9D&start=80"
+        }
+    }
+}

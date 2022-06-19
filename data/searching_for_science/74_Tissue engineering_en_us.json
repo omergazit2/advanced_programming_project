@@ -1,0 +1,513 @@
+{
+    "search_metadata": {
+        "id": "62ae5d7c477c0eb7a1511214",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/136314888902e80f/62ae5d7c477c0eb7a1511214.json",
+        "created_at": "2022-06-18 23:19:24 UTC",
+        "processed_at": "2022-06-18 23:19:24 UTC",
+        "google_url": "https://www.google.com/search?q=Tissue+engineering&oq=Tissue+engineering&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/136314888902e80f/62ae5d7c477c0eb7a1511214.html",
+        "total_time_taken": 1.02
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Tissue engineering",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Tissue engineering",
+        "total_results": 220000000,
+        "time_taken_displayed": 0.45
+    },
+    "knowledge_graph": {
+        "title": "Tissue engineering",
+        "description": "Tissue engineering is a biomedical engineering discipline that uses a combination of cells, engineering, materials methods, and suitable biochemical and physicochemical factors to restore, maintain, improve, or replace different types of biological tissues.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Tissue_engineering"
+        },
+        "tissue_engineering_journals": [
+            {
+                "name": "Biomaterial",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Biomaterial&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4gYzDZNyjSoqtUSyk630k_Nzc_PzrFLyy_PKE4tSilcxcnjllxblJeYUL2LldsrMz00sSS3KTMzZwcoIAAnVdiRMAAAA&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQxA16BAhdEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Biomaterial&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4gYzDZNyjSoqtUSyk630k_Nzc_PzrFLyy_PKE4tSilcxcnjllxblJeYUL2LldsrMz00sSS3KTMzZwcoIAAnVdiRMAAAA",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a401deb92bd12047142f21803c27263a981eb4612a1908a337a883cba18b6b05f5d398c25ff5ffb5f9e.jpeg"
+            },
+            {
+                "name": "Regenerative medicine",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Regenerative+medicine&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4gIxTdOSLZMLtESyk630k_Nzc_PzrFLyy_PKE4tSilcxcnjllxblJeYUL2IVDUpNT81LLUosySxLVchNTclMzsxL3cHKCAD0SQ6oVQAAAA&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQxA16BAhdEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Regenerative+medicine&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4gIxTdOSLZMLtESyk630k_Nzc_PzrFLyy_PKE4tSilcxcnjllxblJeYUL2IVDUpNT81LLUosySxLVchNTclMzsxL3cHKCAD0SQ6oVQAAAA",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a401deb92bd12047142f21803c27263a981eb4612a1908a337afd23364d6eb76a34a797badbd0e21876.png"
+            },
+            {
+                "name": "Biological engineering",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Biological+engineering&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hWgjBz0srLtESyk630k_Nzc_PzrFLyy_PKE4tSilcxcnjllxblJeYUL2IVc8rMz8lPz0xOzFFIzUvPzEtNLcrMS9_ByggA4ConUVUAAAA&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQxA16BAhdEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Biological+engineering&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hWgjBz0srLtESyk630k_Nzc_PzrFLyy_PKE4tSilcxcnjllxblJeYUL2IVc8rMz8lPz0xOzFFIzUvPzEtNLcrMS9_ByggA4ConUVUAAAA",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a401deb92bd12047142f21803c27263a981eb4612a1908a337aee40d3a1b746609b6acf77f99fb634bc.jpeg"
+            }
+        ],
+        "tissue_engineering_books": [
+            {
+                "name": "Principles of Tissue Engineering",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Principles+of+Tissue+Engineering&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4tFP1zc0Sso1iTc0KdISyU620k_Oz83Nz7NKyS_PK08sSilexcjqlJ-fXbyIVSGgKDMvObMgJ7VYIT9NISSzuLg0VcE1Lz0zLzUVKJW-g5URAK64RC1fAAAA&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQxA16BAhcEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Principles+of+Tissue+Engineering&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4tFP1zc0Sso1iTc0KdISyU620k_Oz83Nz7NKyS_PK08sSilexcjqlJ-fXbyIVSGgKDMvObMgJ7VYIT9NISSzuLg0VcE1Lz0zLzUVKJW-g5URAK64RC1fAAAA",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a401deb92bd12047142f21803c27263a9815835c12350843ba1b3c93ebeee11022e87b9d7be22533daa.jpeg"
+            },
+            {
+                "name": "Tissue Engineering",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Tissue+Engineering+Clemens+van+Blitterswijk&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4tVP1zc0TMsqriyrMjPXEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iFU7JLO4uDRVwTUvPTMvNbUoMy9dwTknNTc1r1ihLDFPwSkns6Qktai4PDMrewcrIwCXZRSvawAAAA&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQxA16BAhcEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+Engineering+Clemens+van+Blitterswijk&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4tVP1zc0TMsqriyrMjPXEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iFU7JLO4uDRVwTUvPTMvNbUoMy9dwTknNTc1r1ihLDFPwSkns6Qktai4PDMrewcrIwCXZRSvawAAAA",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a401deb92bd12047142f21803c27263a9815835c12350843ba17ec18206a79ce7343308efacc749edf9.jpeg"
+            },
+            {
+                "name": "Encyclopedia of Tissue Enginee...",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Encyclopedia+of+Tissue+Engineering+and+Regenerative+Medicine&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4tVP1zc0TK_Isyi2MDTTEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iNXGNS-5MjknvyA1JTNRIT9NISSzuLg0VcE1Lz0zLzW1KDMvXSExL0UhKDU9NS-1KLEksyxVwReoOBkovYOVEQDujB1ffAAAAA&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQxA16BAhcEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Encyclopedia+of+Tissue+Engineering+and+Regenerative+Medicine&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4tVP1zc0TK_Isyi2MDTTEslOttJPzs_Nzc-zSskvzytPLEopXsXI6pSfn128iNXGNS-5MjknvyA1JTNRIT9NISSzuLg0VcE1Lz0zLzW1KDMvXSExL0UhKDU9NS-1KLEksyxVwReoOBkovYOVEQDujB1ffAAAAA",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a401deb92bd12047142f21803c27263a9815835c12350843ba15cf317b7d16b1e9de1c3a28d8c19747c.jpeg"
+            },
+            {
+                "name": "Stem Cell and Tissue E...",
+                "link": "https://www.google.com/search?hl=en&gl=us&q=Stem+Cell+and+Tissue+Engineering&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4tFP1zc0SsrNMDMwztISyU620k_Oz83Nz7NKyS_PK08sSilexcjqlJ-fXbyIVSG4JDVXwTk1J0chMS9FISSzuLg0VcE1Lz0zLzW1KDMvfQcrIwDt3U38XwAAAA&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQxA16BAhcEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stem+Cell+and+Tissue+Engineering&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hW4tFP1zc0SsrNMDMwztISyU620k_Oz83Nz7NKyS_PK08sSilexcjqlJ-fXbyIVSG4JDVXwTk1J0chMS9FISSzuLg0VcE1Lz0zLzW1KDMvfQcrIwDt3U38XwAAAA",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a401deb92bd12047142f21803c27263a9815835c12350843ba1fedb25a6c1a6052b752e5c62b668f769.jpeg"
+            }
+        ],
+        "people_also_search_for": [
+            {
+                "name": "Biomechanics",
+                "link": "https://www.google.com/search?hl=en&gl=us&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdROGjenFlN7RGmBoabAodO-TDdpYQxrZoAQe5OFLr8fxUmimV1vX3bzE7Qz-nl906gw0_TkF69rwccAzeidfBlCW1sB6hHvCOj6QCyxxoEJ4hEE8YF9b3GRM85kcte-kPRzrxboCLeTZwPHOjVlDxtgOrS2bXAtFeGLA83sGqCACih3I3cTlrJAGt97QJKqH8T7koFPbHTTMy613xH-TOkW3CkAyzoMQVUNbjssagaAUyuwRGZpv15lj_JQGL8eCO4w_bU8%3D&q=Biomechanics&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQs9oBKAB6BAhbEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Biomechanics&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdROGjenFlN7RGmBoabAodO-TDdpYQxrZoAQe5OFLr8fxUmimV1vX3bzE7Qz-nl906gw0_TkF69rwccAzeidfBlCW1sB6hHvCOj6QCyxxoEJ4hEE8YF9b3GRM85kcte-kPRzrxboCLeTZwPHOjVlDxtgOrS2bXAtFeGLA83sGqCACih3I3cTlrJAGt97QJKqH8T7koFPbHTTMy613xH-TOkW3CkAyzoMQVUNbjssagaAUyuwRGZpv15lj_JQGL8eCO4w_bU8%3D",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a40e27ff2b90f022feea4b63074a25385b2b9be8916b5a17a170c977d5735ab0de9.jpeg"
+            },
+            {
+                "name": "Biomedical engineering",
+                "link": "https://www.google.com/search?hl=en&gl=us&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQwhbADe51PjQCzZqHr_PUtSs4bcPM4JH57iajwF1OHTuWvwtGuC0uelqOhK7VVY5_CSQP9U1hJ-7Qebyu_Un7CkMNrqONk_oOjUjr9mGX88jXfDEM-jmnNzRaZ9kps29bcV-d7CMXj41zRJvTCzi0yeK-l7KcuvqZVNFFE31RYOhpODnpBExrZtHja2cisvkEITupVoivQxOUKCAYkqn23C_kXDiEVCaK3-GKrzC3-L7HQdNNBl072EtFxK0jw87IUpyGyMVTHldg3X9H6B7Kb1dZDk&q=Biomedical+engineering&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQs9oBKAF6BAhbEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Biomedical+engineering&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdQwhbADe51PjQCzZqHr_PUtSs4bcPM4JH57iajwF1OHTuWvwtGuC0uelqOhK7VVY5_CSQP9U1hJ-7Qebyu_Un7CkMNrqONk_oOjUjr9mGX88jXfDEM-jmnNzRaZ9kps29bcV-d7CMXj41zRJvTCzi0yeK-l7KcuvqZVNFFE31RYOhpODnpBExrZtHja2cisvkEITupVoivQxOUKCAYkqn23C_kXDiEVCaK3-GKrzC3-L7HQdNNBl072EtFxK0jw87IUpyGyMVTHldg3X9H6B7Kb1dZDk",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a40e27ff2b90f022feea4b63074a25385b2e0d58721856af439b4fa1b8607500cdf.jpeg"
+            },
+            {
+                "name": "Engineering",
+                "link": "https://www.google.com/search?hl=en&gl=us&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbmfpGJerRRwjOfs7Z8d_Ih-Vj34O4Hs_W0H4minYF2meCj6Zgvf2e7fPA1-bTVOe6ZiYklj5Pj9jZUijkA-knH7dnWQ8_cZHBVrxlYT310trQWsT0-744yadC97jwllpGrr8bTIiqrCz9unC5fXOuRMdwOL96dYxCdkQQLHXSrLwXsfdPr_gIOWidf1vcMr6YZVuBEj4pFRtnhk-ap-TnPX0BNfzWd5mvaefGTwLZzFtnlDCZPqBEchRi82FQNt5v425w-0%3D&q=Engineering&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQs9oBKAJ6BAhbEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Engineering&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbmfpGJerRRwjOfs7Z8d_Ih-Vj34O4Hs_W0H4minYF2meCj6Zgvf2e7fPA1-bTVOe6ZiYklj5Pj9jZUijkA-knH7dnWQ8_cZHBVrxlYT310trQWsT0-744yadC97jwllpGrr8bTIiqrCz9unC5fXOuRMdwOL96dYxCdkQQLHXSrLwXsfdPr_gIOWidf1vcMr6YZVuBEj4pFRtnhk-ap-TnPX0BNfzWd5mvaefGTwLZzFtnlDCZPqBEchRi82FQNt5v425w-0%3D",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a40e27ff2b90f022feea4b63074a25385b20ccabe550f7360709e6593258a6d0314.jpeg"
+            },
+            {
+                "name": "Regenerative medicine",
+                "link": "https://www.google.com/search?hl=en&gl=us&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbn7aKpouuCwNNvZdpCZGenpugPpRAslM3n0-yrArod3KuqddLjjqILPw-eJIH52YHcVVdvYA8uCEKSQA1MVbhCqBAqlXuvpPyg6KmFaujfAACHpFVqPCfT8-xJD7bByXOfqTAV8T8uutY5NLTI_oPult04x8uPUCUQ7_i27WoGbbupo4tfnntRf8jYjqHpp48r2-Ui5v8M2ZwAjHdB9iFK1QblPWLXwS4ozZFTuxDt3Na8QjK4y1z1z7w4rq3sbm_I_7LUsinPJ09rwgZ7Njex42eOQz&q=Regenerative+medicine&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQs9oBKAN6BAhbEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Regenerative+medicine&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbn7aKpouuCwNNvZdpCZGenpugPpRAslM3n0-yrArod3KuqddLjjqILPw-eJIH52YHcVVdvYA8uCEKSQA1MVbhCqBAqlXuvpPyg6KmFaujfAACHpFVqPCfT8-xJD7bByXOfqTAV8T8uutY5NLTI_oPult04x8uPUCUQ7_i27WoGbbupo4tfnntRf8jYjqHpp48r2-Ui5v8M2ZwAjHdB9iFK1QblPWLXwS4ozZFTuxDt3Na8QjK4y1z1z7w4rq3sbm_I_7LUsinPJ09rwgZ7Njex42eOQz",
+                "image": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/48f850dac457893b3a725a3af54b6a40e27ff2b90f022feea4b63074a25385b2a0d3c988548e431719cc98013ff7e372.png"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "What is Tissue Engineering?",
+            "link": "https://www.youtube.com/watch?v=7Q3S6q97FiU",
+            "thumbnail": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/d365e4175bff3a00b67daa93cf2f0d71cd900d05320e77f8419c3ff37e05080d.jpeg",
+            "channel": "NIBIB gov",
+            "duration": "2:00",
+            "platform": "YouTube",
+            "date": "Jan 21, 2016"
+        },
+        {
+            "position": 2,
+            "title": "Tissue engineering | Technique | Procedure | Bio science",
+            "link": "https://www.youtube.com/watch?v=Mktxmj41cR8",
+            "thumbnail": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/d365e4175bff3a00556fbb98b73057812cf506d069ed0218f716ea958ba811c6.jpeg",
+            "channel": "Bio science",
+            "duration": "10:22",
+            "platform": "YouTube",
+            "date": "Mar 18, 2020"
+        },
+        {
+            "position": 3,
+            "title": "A Brief Introduction to Tissue Engineering",
+            "link": "https://www.youtube.com/watch?v=lTHt7r35mfc",
+            "thumbnail": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/d365e4175bff3a00c3496717fede6c95a3198d6588d0f79b7cd06749e596967c.jpeg",
+            "channel": "Bryn",
+            "duration": "4:02",
+            "platform": "YouTube",
+            "date": "Dec 14, 2015"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What are the three main components of tissue engineering?",
+            "snippet": "Three general components are involved in tissue engineering: (1) reparative cells that can form a functional matrix; (2) an appropriate scaffold for transplantation and support; and (3) bioreactive molecules, such as cytokines and growth factors that will support and choreograph formation of the desired tissue.",
+            "title": "Introduction to tissue engineering and application for cartilage ... - PubMed",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20930320/",
+            "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ..."
+        },
+        {
+            "question": "What is tissue engineering in biology?",
+            "snippet": "Tissue engineering (TE) is a rapidly evolving discipline that seeks to repair, replace or regenerate tissues or organs by translating fundamental knowledge in physics, chemistry and biology into practical and effective materials, or devices and clinical strategies.37,38.",
+            "title": "Tissue Engineering - an overview | ScienceDirect Topics",
+            "link": "https://www.sciencedirect.com/topics/engineering/tissue-engineering",
+            "displayed_link": "https://www.sciencedirect.com › topics › tissue-engineering"
+        },
+        {
+            "question": "What is tissue engineering and its application?",
+            "snippet": "Tissue Engineering is the application of science to improve, restore and maintain the damaged tissues or the whole organ. It makes tissues functional by combining scaffolds, cells and biologically active molecules. Although it was considered to be a subfield of biomaterials, it has emerged widely on its own.Nov 14, 2021",
+            "title": "Tissue Engineering: Introduction, Market, Applications and Scopes in ...",
+            "link": "https://www.google.com/interstitial?url=https://www.stoodnt.com/blog/tissue-engineering-applications-scopes/",
+            "displayed_link": "https://www.stoodnt.com › blog › tissue-engineering-appli..."
+        },
+        {
+            "question": "What degree do you need for tissue engineering?",
+            "snippet": "Tissue engineers work with synthetic and biological tissues to recreate tissues needed by medical patients. A bachelor's degree in chemistry or biology or a related subject is good enough for tissue engineers to start work, but a graduate degree will provide more opportunities for advanced positions.Oct 20, 2021",
+            "title": "Salary and Career Information for Tissue Engineering Professionals",
+            "link": "https://bestaccreditedcolleges.org/articles/salary-and-career-information-for-tissue-engineering-professionals.html",
+            "displayed_link": "https://bestaccreditedcolleges.org › articles › salary-and-ca..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Tissue engineering is a biomedical engineering discipline that uses a combination of cells, engineering, materials methods, and suitable biochemical and physicochemical factors to restore, maintain, improve, or replace different types of biological tissues.",
+        "link": "https://en.wikipedia.org/wiki/Tissue_engineering#:~:text=Tissue%20engineering%20is%20a%20biomedical,different%20types%20of%20biological%20tissues.",
+        "displayed_link": "https://en.wikipedia.org › wiki › Tissue_engineering",
+        "snippet": "Tissue engineering is a biomedical engineering discipline that uses a combination of cells, engineering, materials methods, and suitable biochemical and physicochemical factors to restore, maintain, improve, or replace different types of biological tissues.",
+        "people_also_search_for": [],
+        "about_this_result": {
+            "source": {
+                "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+                "icon": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/49d209d86cc8f76a3290aa5e9e097e25ea8ee69507b1bbc5c3583d49096f4764902f531bc0a33a8e286b463284a0d134.png"
+            },
+            "keywords": [
+                "tissue",
+                "engineering"
+            ],
+            "languages": [
+                "English"
+            ],
+            "regions": [
+                "the United States"
+            ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Tissue_engineering&tbm=ilp&ilps=ADNMCi0hyiiKJzYbg6-QRlEzsvvNg8k8jQ"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Tissue Engineering and Regenerative Medicine - National ...",
+            "link": "https://www.nibib.nih.gov/science-education/science-topics/tissue-engineering-and-regenerative-medicine",
+            "displayed_link": "https://www.nibib.nih.gov › science-topics › tissue-engi...",
+            "snippet": "The goal of tissue engineering is to assemble functional constructs that restore, maintain, or improve damaged tissues or whole organs. Artificial skin and ...",
+            "snippet_highlighted_words": [
+                "tissue engineering"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The National Institute of Biomedical Imaging and Bioengineering, founded at the National Institutes of Health in 2000, is located in Bethesda, Maryland. It is one of 27 institutes and centers that are part of NIH, an agency of the U.S. Department of Health and Human Services.",
+                    "icon": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/15a1947cd4a35122c7a13d8592d471043211eaabf62cc371f3917b1a6df77bf7731219c9a06205435a484f280f52ad63.png"
+                },
+                "keywords": [
+                    "tissue",
+                    "engineering"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nibib.nih.gov/science-education/science-topics/tissue-engineering-and-regenerative-medicine&tbm=ilp&ilps=ADNMCi1ER8Y-Q2ul_5cIexlL1sTStfkIsQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Sh38Ox6CLbcJ:https://www.nibib.nih.gov/science-education/science-topics/tissue-engineering-and-regenerative-medicine+&cd=14&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.nibib.nih.gov/science-education/science-topics/tissue-engineering-and-regenerative-medicine+Tissue+engineering"
+        },
+        {
+            "position": 2,
+            "title": "Tissue Engineering, Parts A, B, & C - Mary Ann Liebert, Inc.",
+            "link": "https://home.liebertpub.com/tea",
+            "displayed_link": "https://home.liebertpub.com › tea",
+            "date": "May 5, 2022",
+            "snippet": "Tissue Engineering, Part C: Methods: 5.8 ... The premier peer-reviewed journal for groundbreaking research, reviews, and methods on all aspects of ...",
+            "snippet_highlighted_words": [
+                "Tissue Engineering"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Mary Ann Liebert, Inc. is a privately held independent publishing company founded by its president, Mary Ann Liebert, in 1980.",
+                    "icon": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/15a1947cd4a35122c7a13d8592d4710427bcf56f928502c5ab838f26339dc39c21e04dd30bb7f78ea558bd8e02968ef4.png"
+                },
+                "keywords": [
+                    "tissue",
+                    "engineering"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://home.liebertpub.com/tea&tbm=ilp&ilps=ADNMCi0j4bWXRdyRbY2bO5Sy7z8dheQULg",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Tissue Engineering, Parts A, B, & C | Mary Ann Liebert, Inc ...",
+                    "link": "https://home.liebertpub.com/publications/tissue-engineering-parts-a-b-and-c/595/overview",
+                    "displayed_link": "https://home.liebertpub.com › publications › overview",
+                    "date": "May 5, 2022",
+                    "snippet": "Tissue Engineering is the authoritative peer-reviewed journal that jointly applies the principles of engineering and life sciences. The Journal ...",
+                    "snippet_highlighted_words": [
+                        "Tissue Engineering"
+                    ],
+                    "about_this_result": {
+                        "source": {
+                            "description": "Mary Ann Liebert, Inc. is a privately held independent publishing company founded by its president, Mary Ann Liebert, in 1980.",
+                            "icon": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/15a1947cd4a35122c7a13d8592d47104525fa6ec4ec3f523e730891c08e2bff767ecfb54df35be320d09a9d1bcc0847a9720018f3dab1be10badba0af5ce117fe9c7c57ffd989696.png"
+                        },
+                        "keywords": [
+                            "tissue",
+                            "engineering"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://home.liebertpub.com/publications/tissue-engineering-parts-a-b-and-c/595/overview&tbm=ilp&ilps=ADNMCi1EbNdNKsIvrsObwloZADPym9x4NQ"
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Tissue Engineering Approaches in the Design of Healthy and ...",
+            "link": "https://www.frontiersin.org/articles/10.3389/fbioe.2017.00040/full",
+            "displayed_link": "https://www.frontiersin.org › fbioe.2017.00040 › full",
+            "snippet": "Tissue engineering (TE) was defined by Langer and Vacanti in early 90s as “an interdisciplinary field which applies the principles of ...",
+            "snippet_highlighted_words": [
+                "Tissue engineering"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "by S Caddeo",
+                        "2017",
+                        "Cited by 153 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2017,
+                        "cited_by": 153
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Frontiers Media SA is a publisher of peer-reviewed open access scientific journals currently active in science, technology, and medicine. It was founded in 2007 by Henry and Kamila Markram, and later expanded to other academic fields.",
+                    "icon": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/15a1947cd4a35122c7a13d8592d471049c8c0591ade40d4b7937f4130088d8c889763ff86cdaad8f723d3153af618df5.png"
+                },
+                "keywords": [
+                    "tissue",
+                    "engineering"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.frontiersin.org/articles/10.3389/fbioe.2017.00040/full&tbm=ilp&ilps=ADNMCi3N6EuWhEh-Q51QNatK7nfmgeU-gw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:my_1gKrjmYAJ:https://www.frontiersin.org/articles/10.3389/fbioe.2017.00040/full+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Tissue Engineering - Science",
+            "link": "https://www.science.org/doi/10.1126/science.8493529",
+            "displayed_link": "https://www.science.org › doi › science.8493529",
+            "snippet": "A new field, tissue engineering, applies the principles of biology and engineering to the development of functional substitutes for damaged tissue.",
+            "snippet_highlighted_words": [
+                "tissue engineering"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Science, also widely referred to as Science Magazine, is the peer-reviewed academic journal of the American Association for the Advancement of Science and one of the world's top academic journals. It was first published in 1880, is currently circulated weekly and has a subscriber base of around 130,000.",
+                    "icon": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/15a1947cd4a35122c7a13d8592d47104eafaa7ace5823fa6c3c16d95be094bc43668aa4a72905ac1eaf2e32423b5c922.png"
+                },
+                "keywords": [
+                    "tissue",
+                    "engineering"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.science.org/doi/10.1126/science.8493529&tbm=ilp&ilps=ADNMCi3QpWDOyqfBCeFp7V6CkfqURsNbQA"
+        },
+        {
+            "position": 5,
+            "title": "A decade of progress in tissue engineering | Nature Protocols",
+            "link": "https://www.nature.com/articles/nprot.2016.123",
+            "displayed_link": "https://www.nature.com › nature protocols › perspectives",
+            "snippet": "The aim of tissue engineering is to develop tissue and organ substitutes for maintaining, restoring or augmenting functions of their injured or ...",
+            "snippet_highlighted_words": [
+                "tissue engineering"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "by A Khademhosseini",
+                        "2016",
+                        "Cited by 492 —"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2016,
+                        "cited_by": 492
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Nature is a British weekly scientific journal founded and based in London, England. As a multidisciplinary publication, Nature features peer-reviewed research from a variety of academic disciplines, mainly in science and technology.",
+                    "icon": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/15a1947cd4a35122c7a13d8592d47104f76ddbbb43dd5b13c86a095cc1c98c69590ad4da22fb061f4eeeec09d83dc242.png"
+                },
+                "keywords": [
+                    "tissue",
+                    "engineering"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nature.com/articles/nprot.2016.123&tbm=ilp&ilps=ADNMCi0yCcHv0G1NVRvhG9dLPvRqjnw_mg"
+        },
+        {
+            "position": 6,
+            "title": "Tissue Engineering - an overview | ScienceDirect Topics",
+            "link": "https://www.sciencedirect.com/topics/engineering/tissue-engineering",
+            "displayed_link": "https://www.sciencedirect.com › topics › tissue-engineering",
+            "snippet": "Tissue engineering is a biomedical engineering discipline that integrates biology with engineering to create tissues or cellular products outside the body or to ...",
+            "snippet_highlighted_words": [
+                "Tissue engineering",
+                "biomedical engineering"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "ScienceDirect is a website which provides access to a large bibliographic database of scientific and medical publications of the Dutch publisher Elsevier. It hosts over 18 million pieces of content from more than 4,000 academic journals and 30,000 e-books of this publisher.",
+                    "icon": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/15a1947cd4a35122c7a13d8592d47104e4c33ceab3aa312a8e4ab6d01362fd42fec23297b19e9c00e24041bf6efb2191.png"
+                },
+                "keywords": [
+                    "tissue",
+                    "engineering"
+                ],
+                "related_keywords": [
+                    "biomedical"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.sciencedirect.com/topics/engineering/tissue-engineering&tbm=ilp&ilps=ADNMCi3WwSWGmgFvBX7RRz6NWkChMjzBDw"
+        },
+        {
+            "position": 7,
+            "title": "Journal of Tissue Engineering - SAGE Journals",
+            "link": "https://journals.sagepub.com/home/tej",
+            "displayed_link": "https://journals.sagepub.com › home › tej",
+            "snippet": "This open access journal focusses on scientific research in the field of tissue engineering and its clinical application. The journal has broad ranging ...",
+            "snippet_highlighted_words": [
+                "tissue engineering"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "journals.sagepub.com was first indexed by Google in November 2016",
+                    "icon": "https://serpapi.com/searches/62ae5d7c477c0eb7a1511214/images/15a1947cd4a35122c7a13d8592d47104fb7d40116c462580ae8bdc07e8823c35351cf5c18e8c44493ba103d24da37aaf.png"
+                },
+                "keywords": [
+                    "tissue",
+                    "engineering"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://journals.sagepub.com/home/tej&tbm=ilp&ilps=ADNMCi04orUuafZ5s5HNp2-i4Y9B1jCi5g"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "tissue engineering pdf",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Tissue+engineering+PDF&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ1QJ6BAhGEAE"
+        },
+        {
+            "query": "tissue engineering journal",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Tissue+Engineering+journal&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ1QJ6BAhJEAE"
+        },
+        {
+            "query": "tissue engineering and regenerative medicine",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Tissue+engineering+and+regenerative+medicine&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ1QJ6BAhHEAE"
+        },
+        {
+            "query": "types of tissue engineering",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Types+of+tissue+engineering&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ1QJ6BAhLEAE"
+        },
+        {
+            "query": "tissue engineering ppt",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Tissue+engineering+ppt&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ1QJ6BAhKEAE"
+        },
+        {
+            "query": "tissue engineering review",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Tissue+engineering+review&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ1QJ6BAhIEAE"
+        },
+        {
+            "query": "tissue engineering process",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Tissue+engineering+process&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ1QJ6BAhEEAE"
+        },
+        {
+            "query": "tissue engineering scaffold",
+            "link": "https://www.google.com/search?hl=en&gl=us&q=Tissue+engineering+scaffold&sa=X&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ1QJ6BAhDEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Tissue+engineering&hl=en&gl=us&ei=fF2uYp-kM43JptQPmZ6JoAg&start=10&sa=N&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ8NMDegQIAhBM",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Tissue+engineering&hl=en&gl=us&ei=fF2uYp-kM43JptQPmZ6JoAg&start=10&sa=N&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ8tMDegQIAhA6",
+            "3": "https://www.google.com/search?q=Tissue+engineering&hl=en&gl=us&ei=fF2uYp-kM43JptQPmZ6JoAg&start=20&sa=N&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ8tMDegQIAhA8",
+            "4": "https://www.google.com/search?q=Tissue+engineering&hl=en&gl=us&ei=fF2uYp-kM43JptQPmZ6JoAg&start=30&sa=N&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ8tMDegQIAhA-",
+            "5": "https://www.google.com/search?q=Tissue+engineering&hl=en&gl=us&ei=fF2uYp-kM43JptQPmZ6JoAg&start=40&sa=N&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ8tMDegQIAhBA",
+            "6": "https://www.google.com/search?q=Tissue+engineering&hl=en&gl=us&ei=fF2uYp-kM43JptQPmZ6JoAg&start=50&sa=N&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ8tMDegQIAhBC",
+            "7": "https://www.google.com/search?q=Tissue+engineering&hl=en&gl=us&ei=fF2uYp-kM43JptQPmZ6JoAg&start=60&sa=N&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ8tMDegQIAhBE",
+            "8": "https://www.google.com/search?q=Tissue+engineering&hl=en&gl=us&ei=fF2uYp-kM43JptQPmZ6JoAg&start=70&sa=N&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ8tMDegQIAhBG",
+            "9": "https://www.google.com/search?q=Tissue+engineering&hl=en&gl=us&ei=fF2uYp-kM43JptQPmZ6JoAg&start=80&sa=N&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ8tMDegQIAhBI",
+            "10": "https://www.google.com/search?q=Tissue+engineering&hl=en&gl=us&ei=fF2uYp-kM43JptQPmZ6JoAg&start=90&sa=N&ved=2ahUKEwif0ojQkbj4AhWNpIkEHRlPAoQQ8tMDegQIAhBK"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tissue+engineering&start=90"
+        }
+    }
+}

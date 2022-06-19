@@ -1,0 +1,300 @@
+{
+    "search_metadata": {
+        "id": "62ae5d89c999038e6c8ef040",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5501826469504dd1/62ae5d89c999038e6c8ef040.json",
+        "created_at": "2022-06-18 23:19:37 UTC",
+        "processed_at": "2022-06-18 23:19:37 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&oq=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/5501826469504dd1/62ae5d89c999038e6c8ef040.html",
+        "total_time_taken": 2.85
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Фолдинг белка",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Фолдинг белка",
+        "total_results": 19300,
+        "time_taken_displayed": 0.5
+    },
+    "knowledge_graph": {
+        "title": "Фолдинг белка",
+        "description": "В биохимии и молекулярной биологии фо́лдингом белка называют процесс спонтанного сворачивания полипептидной цепи в уникальную нативную пространственную структуру. Каждая молекула белка начинает формироваться как полипептид, транслируемый из последовательности мРНК в виде линейной цепочки аминокислот.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3_%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0"
+        },
+        "Похожие_запросы": [
+            {
+                "name": "Трансляция",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%86%D0%B8%D1%8F&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgJvMTfKU3CK02x0UTiOeru0CoFrFLGbHtKc9LT-q4KmOJ7s-4gH4mkfkxGl_hfwC4GFzubCUVYlB-3IOY4YqJGniy_3KeyYmmj3dQ4s9xmDA19u1JEWtC2ZG-0scOp87GlcKQYiB8PTUF0UtBnEa0BYz1WiclEsJCnGqawnXHMPNppTbBNk8khJFGyj8dqSd2V84QUoVEkmrB4OnSEGFwUSaQQMGgNhXFs5wWnth6RRymW1PaihJm8qMPz6NdNNQ38-pKQg%3D&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQxA16BAhWEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%86%D0%B8%D1%8F&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgJvMTfKU3CK02x0UTiOeru0CoFrFLGbHtKc9LT-q4KmOJ7s-4gH4mkfkxGl_hfwC4GFzubCUVYlB-3IOY4YqJGniy_3KeyYmmj3dQ4s9xmDA19u1JEWtC2ZG-0scOp87GlcKQYiB8PTUF0UtBnEa0BYz1WiclEsJCnGqawnXHMPNppTbBNk8khJFGyj8dqSd2V84QUoVEkmrB4OnSEGFwUSaQQMGgNhXFs5wWnth6RRymW1PaihJm8qMPz6NdNNQ38-pKQg%3D",
+                "image": "https://serpapi.com/searches/62ae5d89c999038e6c8ef040/images/337c8c89e702dc34401e0742300837bcea863696d96bfa86ec3eb96f9efbb52d6ab1d6e9bf134ed5e666c73c4995fd37c346e36528bc1163.jpeg"
+            },
+            {
+                "name": "Денатурация белков",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%94%D0%B5%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F+%D0%B1%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVOFdw4sFpjNQbdbXR-WfTbht8LBZgcDV5rR7iIz1cxQl7l1CpNNiolD5cIIEMknvOteB0VEh9EUJI2lcQ9SJwP6-ABbcXdbM3sLN_ZPaO2Qxy_uWkGsoRM0jaZJYaxkWW8eszbHubNJuuTYG2KWhtAquZFl5kM0DMnPhz8iysyUxx2zzK1YLO8udDhcC3GO_T6SMKaLFPeAyEqMnYgHm9htl5kPG7prSmVZVN-LqrQYMy7tkpGcbg_u9Oz-263PRYkcSQHJt7pWy8UPcp0F5FqoHQS0&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQxA16BAhWEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%94%D0%B5%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F+%D0%B1%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdVOFdw4sFpjNQbdbXR-WfTbht8LBZgcDV5rR7iIz1cxQl7l1CpNNiolD5cIIEMknvOteB0VEh9EUJI2lcQ9SJwP6-ABbcXdbM3sLN_ZPaO2Qxy_uWkGsoRM0jaZJYaxkWW8eszbHubNJuuTYG2KWhtAquZFl5kM0DMnPhz8iysyUxx2zzK1YLO8udDhcC3GO_T6SMKaLFPeAyEqMnYgHm9htl5kPG7prSmVZVN-LqrQYMy7tkpGcbg_u9Oz-263PRYkcSQHJt7pWy8UPcp0F5FqoHQS0",
+                "image": "https://serpapi.com/searches/62ae5d89c999038e6c8ef040/images/337c8c89e702dc34401e0742300837bcea863696d96bfa86ec3eb96f9efbb52d6ab1d6e9bf134ed53f6032b78159ebeafa0cef8e43cdc0d5.jpeg"
+            },
+            {
+                "name": "Апоптоз",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%90%D0%BF%D0%BE%D0%BF%D1%82%D0%BE%D0%B7&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGbtVhINjYuinqAOCxjlF736PodZi-aAtfze0Hu3b_83ZSz-DrJDNCte2tyIBkezjnvYSEh3BzHzC4sfBgaDMRzaFwcrPacw7xWJNJFIywiLhkjgWCIWoFyQR-4mea1eJO3m_RIVazwQkc_CWQG9qfLn7bFjghTCX_uCeGAD4w69svZFSx7lxv4hPVcF_J7_GCTlZb61ayVJbAjR3bpEyaXqtSqy031OoyDjB6GRIKYFHwmi6gN6ghFUdTvyyXR8n7irIWUQ%3D&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQxA16BAhWEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%90%D0%BF%D0%BE%D0%BF%D1%82%D0%BE%D0%B7&si=AC1wQDBNHkCHCypTS2e2dFTw3AD_UFFtsj6ncJO412kMEgkLGbtVhINjYuinqAOCxjlF736PodZi-aAtfze0Hu3b_83ZSz-DrJDNCte2tyIBkezjnvYSEh3BzHzC4sfBgaDMRzaFwcrPacw7xWJNJFIywiLhkjgWCIWoFyQR-4mea1eJO3m_RIVazwQkc_CWQG9qfLn7bFjghTCX_uCeGAD4w69svZFSx7lxv4hPVcF_J7_GCTlZb61ayVJbAjR3bpEyaXqtSqy031OoyDjB6GRIKYFHwmi6gN6ghFUdTvyyXR8n7irIWUQ%3D",
+                "image": "https://serpapi.com/searches/62ae5d89c999038e6c8ef040/images/337c8c89e702dc34401e0742300837bcea863696d96bfa86ec3eb96f9efbb52d6ab1d6e9bf134ed5915b04451e99b081e8db2c1d78f10b17.jpeg"
+            },
+            {
+                "name": "Обмен веществ",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9E%D0%B1%D0%BC%D0%B5%D0%BD+%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdR2S40Qv6AMdEr1ka4eSiq3Wm4wtCbfPHcOG7GU3AVs7imaR7J6bW37tD-4c9oj5CykFWTPl15n2_A9sZFbs0FPvwhDibkZ4blfBLiyatm1JPGUzxUWM3gNX4kAuxFeCvGz5sE6_8IjVVT2zW3HhKs73bxjPE67FjqQY3r2IeqBiaNB142VB53nSoux3OKuZRXgB5GiUVWw3HwFlWrFyAg8-Ta-OOCNcSwxVUIODEp3phEwdHiINcuNtam827pFT_G9oBXkdgxaH5-Or_n0lhX11Bt5D&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQxA16BAhWEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9E%D0%B1%D0%BC%D0%B5%D0%BD+%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdR2S40Qv6AMdEr1ka4eSiq3Wm4wtCbfPHcOG7GU3AVs7imaR7J6bW37tD-4c9oj5CykFWTPl15n2_A9sZFbs0FPvwhDibkZ4blfBLiyatm1JPGUzxUWM3gNX4kAuxFeCvGz5sE6_8IjVVT2zW3HhKs73bxjPE67FjqQY3r2IeqBiaNB142VB53nSoux3OKuZRXgB5GiUVWw3HwFlWrFyAg8-Ta-OOCNcSwxVUIODEp3phEwdHiINcuNtam827pFT_G9oBXkdgxaH5-Or_n0lhX11Bt5D",
+                "image": "https://serpapi.com/searches/62ae5d89c999038e6c8ef040/images/337c8c89e702dc34401e0742300837bcea863696d96bfa86ec3eb96f9efbb52d6ab1d6e9bf134ed552f6d6a30af6d864619c379fd7e30277.png"
+            }
+        ],
+        "Похожие_запросы_link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&stick=H4sIAAAAAAAAAONgFuLQz9U3SCmoNFaCs7QEgzNTUssTK4v9UitKgktSC4oXsUpeWHJh34XdF7Zc2HFh74XNChc2XtgK5O66sGEHKyMAU9r6tEgAAAA&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQMSgAegQIVhAB",
+        "Похожие_запросы_stick": "H4sIAAAAAAAAAONgFuLQz9U3SCmoNFaCs7QEgzNTUssTK4v9UitKgktSC4oXsUpeWHJh34XdF7Zc2HFh74XNChc2XtgK5O66sGEHKyMAU9r6tEgAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Фолдинг белка - Константин Северинов",
+            "link": "https://www.youtube.com/watch?v=lwxKVA-DqH0",
+            "thumbnail": "https://i.ytimg.com/vi/lwxKVA-DqH0/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nP7Lq8hDSQSPM9opxdKeYWOcHFcg",
+            "channel": "ПостНаука",
+            "duration": "16:06",
+            "platform": "YouTube",
+            "date": "20 сент. 2014 г."
+        },
+        {
+            "position": 2,
+            "title": "Трансляция. Часть 6. \"Фолдинг белков\"",
+            "link": "https://www.youtube.com/watch?v=9zTf53JruAM",
+            "thumbnail": "https://i.ytimg.com/vi/9zTf53JruAM/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3nbK_DMBhYGIDR4jMjiSJKJK7_ogw",
+            "channel": "Leonid Klimov",
+            "duration": "3:34",
+            "platform": "YouTube",
+            "date": "20 нояб. 2016 г."
+        },
+        {
+            "position": 3,
+            "title": "Научные прорывы: фолдинг белка",
+            "link": "https://www.youtube.com/watch?v=QSfntmjVtpQ",
+            "thumbnail": "https://i.ytimg.com/vi/QSfntmjVtpQ/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mzd28jCLKG_MeG-UOKkqDcnPfpYg",
+            "channel": "Prometheus Studio",
+            "duration": "4:10",
+            "platform": "YouTube",
+            "date": "2 мая 2017 г."
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Как происходит фолдинг белков?",
+            "snippet": "Когда белок синтезируется в клетке, он появляется в виде длинной и тонкой молекулярной цепочки, а затем сворачивается в свою естественную (нативную) форму. Этот процесс называется фолдинг, т. е. укладка белка.",
+            "title": "Фолдинг белков: 1. Физическая основа жизни - Элементы ...",
+            "link": "https://elementy.ru/time/biophysics/biophysics-folding-1.html",
+            "displayed_link": "https://elementy.ru › biophysics › biophysics-folding-1"
+        },
+        {
+            "question": "Где происходит фолдинг белков?",
+            "snippet": "folding) называют процесс спонтанного сворачивания полипептидной цепи в уникальную нативную пространственную структуру (так называемая третичная структура). Переход первичной структуры полипептида (слева) в третичную структуру (справа).",
+            "title": "это... Что такое Фолдинг белка? - Словари и энциклопедии ...",
+            "link": "https://dic.academic.ru/dic.nsf/ruwiki/327402",
+            "displayed_link": "https://dic.academic.ru › dic.nsf › ruwiki"
+        },
+        {
+            "question": "Что значит сворачивание белка?",
+            "snippet": "Денатурация белков (от лат. de- — приставка, означающая отделение, удаление и лат. nature — природа) — термин биологической химии, означающий потерю белковыми веществами их естественных свойств (растворимости, гидрофильности и др.) вследствие нарушения пространственной структуры их молекул.",
+            "title": "это... Что такое Сворачивание белка? - Словари и энциклопедии на ...",
+            "link": "https://dic.academic.ru/dic.nsf/ruwiki/1140971",
+            "displayed_link": "https://dic.academic.ru › dic.nsf › ruwiki"
+        },
+        {
+            "question": "Что такое денатурация белка?",
+            "snippet": "Ренатурация белка - это обратный переход молекулы белка из денатурированного (неактивного) состояния в нативное (активное). Друими словами, это процесс, обратный процессу денатурации.16 нояб. 2018 г.",
+            "title": "«Что такое ренатурация белка?» — Яндекс Кью",
+            "link": "https://yandex.ru/q/question/chto_takoe_renaturatsiia_belka_12c7105e/",
+            "displayed_link": "https://yandex.ru › question › chto_takoe_renaturatsiia_be..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "В биохимии и молекулярной биологии фо́лдингом белка (укладкой белка, от англ. folding) называют процесс спонтанного сворачивания полипептидной цепи в уникальную нативную (естественную, от англ. native) пространственную структуру (так называемая третичная структуратретичная структураТретичной структурой белка называется способ укладки полипептидной цепи в пространстве. По форме третичной структуры белки делятся в основном на глобулярные и фибриллярные. Глобулярные белки чаще всего имеют эллипсовидную форму, а фибриллярные (нитевидные) белки — вытянутую (форма палочки, веретена).https://ru.wikipedia.org › wiki › Третичная_структураТретичная структура - Википедия).",
+        "link": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0",
+        "displayed_link": "https://ru.wikipedia.org › wiki › Третичная_структура",
+        "snippet": "В биохимии и молекулярной биологии фо́лдингом белка (укладкой белка, от англ. folding) называют процесс спонтанного сворачивания полипептидной цепи в уникальную нативную (естественную, от англ. native) пространственную структуру (так называемая третичная структуратретичная структураТретичной структурой белка называется способ укладки полипептидной цепи в пространстве. По форме третичной структуры белки делятся в основном на глобулярные и фибриллярные. Глобулярные белки чаще всего имеют эллипсовидную форму, а фибриллярные (нитевидные) белки — вытянутую (форма палочки, веретена).https://ru.wikipedia.org › wiki › Третичная_структураТретичная структура - Википедия).",
+        "hover_info": [
+            {
+                "text": "третичная структура",
+                "info": "Третичной структурой белка называется способ укладки полипептидной цепи в пространстве. По форме третичной структуры белки делятся в основном на глобулярные и фибриллярные. Глобулярные белки чаще всего имеют эллипсовидную форму, а фибриллярные (нитевидные) белки — вытянутую (форма палочки, веретена).",
+                "title": "Третичная структура - Википедия",
+                "link": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0",
+                "displayed_link": "https://ru.wikipedia.org › wiki › Третичная_структура"
+            }
+        ],
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Проблема фолдинга белка - «Биомолекула»",
+            "link": "https://biomolecula.ru/articles/problema-foldinga-belka",
+            "displayed_link": "https://biomolecula.ru › problema-foldinga-belka",
+            "thumbnail": "https://serpapi.com/searches/62ae5d89c999038e6c8ef040/images/3d31f227dd4d22c19c8a2d41bb71ba1aedce1f75f9d63fa2d06a2f9e208fe745.jpeg",
+            "date": "16 окт. 2016 г.",
+            "snippet": "Процесс сворачивания белка и называется фолдингом (от англ. folding — сворачивание, укладка; отметим, что термин «фолдинг» применим не только к ...",
+            "snippet_highlighted_words": [
+                "белка",
+                "folding",
+                "фолдинг"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Что делается для решения...",
+                        "link": "https://biomolecula.ru/articles/problema-foldinga-belka#chto-delaetsia-dlia-resheniia-problemy"
+                    },
+                    {
+                        "title": "Некоторые закономерности...",
+                        "link": "https://biomolecula.ru/articles/problema-foldinga-belka#nekotorye-zakonomernosti-foldinga-belka"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 2,
+            "title": "Фолдинг белков: 1. Физическая основа жизни - Элементы ...",
+            "link": "https://elementy.ru/time/biophysics/biophysics-folding-1.html",
+            "displayed_link": "https://elementy.ru › biophysics › biophysics-folding-1",
+            "snippet": "Когда белок синтезируется в клетке, он появляется в виде длинной и тонкой молекулярной цепочки, а затем сворачивается в свою естественную (нативную) форму. Этот ...",
+            "snippet_highlighted_words": [
+                "белок"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Фолдинг белка — все самое интересное на ПостНауке",
+            "link": "https://postnauka.ru/video/32627",
+            "displayed_link": "https://postnauka.ru › video",
+            "snippet": "Это специальные машины в клетке, вся функция которых состоит в том, чтобы неправильно свернутые белки сворачивать обратно. Некоторые из них работают ...",
+            "snippet_highlighted_words": [
+                "белки"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Так что же это всё-таки такое, «фолдинг белков»?",
+            "link": "https://habr.com/ru/post/501236/",
+            "displayed_link": "https://habr.com › post",
+            "date": "12 мая 2020 г.",
+            "snippet": "Какая тут работает биохимия, зачем вообще белкам нужно укладываться? Вот краткий обзор фолдинга белков: что это, как он происходит и в чём его ...",
+            "snippet_highlighted_words": [
+                "фолдинга белков"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "это... Что такое Фолдинг белка? - Словари и энциклопедии ...",
+            "link": "https://dic.academic.ru/dic.nsf/ruwiki/327402",
+            "displayed_link": "https://dic.academic.ru › dic.nsf › ruwiki",
+            "snippet": "В биохимии и молекулярной биологии фо́лдингом белка (укладкой белка, от англ. folding) называют процесс спонтанного сворачивания полипептидной цепи в ...",
+            "snippet_highlighted_words": [
+                "белка",
+                "белка",
+                "folding"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "41. Фолдинг белков. Ферменты. Роль шаперонов в ...",
+            "link": "https://studfile.net/preview/5135123/page:34/",
+            "displayed_link": "https://studfile.net › preview › page:34",
+            "date": "9 февр. 2016 г.",
+            "snippet": "Работа по теме: Биохимия (Восстановлен)- экзамен. Глава: 41. Фолдинг белков. Ферменты. Роль шаперонов в фолдинге белка.",
+            "snippet_highlighted_words": [
+                "Фолдинг белков",
+                "фолдинге белка"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Презентация на тему: \"ФОЛДИНГ БЕЛКА ... - MyShared.ru",
+            "link": "http://www.myshared.ru/slide/482257/",
+            "displayed_link": "http://www.myshared.ru › slide",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsAwNrNNduGg4MtA-FbmsmfEOs5yxYeSHnDqEkRGWXFToexa7O8lk&usqp=CAE&s",
+            "snippet": "ФОЛДИНГ БЕЛКА.. Фолдингом белка (укладкой белка, от англ. folding) называют процесс спонтанного сворачивания полипептидной цепи в уникальную нативную.",
+            "snippet_highlighted_words": [
+                "ФОЛДИНГ БЕЛКА"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "фолдинг белка этапы",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D1%8D%D1%82%D0%B0%D0%BF%D1%8B&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ1QJ6BAhDEAE"
+        },
+        {
+            "query": "фолдинг белка шапероны",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D1%88%D0%B0%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D1%8B&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ1QJ6BAhBEAE"
+        },
+        {
+            "query": "роль шаперонов в фолдинге белков",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A0%D0%BE%D0%BB%D1%8C+%D1%88%D0%B0%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D0%BE%D0%B2+%D0%B2+%D1%84%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3%D0%B5+%D0%B1%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ1QJ6BAg9EAE"
+        },
+        {
+            "query": "фолдинг белка кратко",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "фолдинг белка биохимия",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D0%B1%D0%B8%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%8F&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "фолдинг белка происходит с участием",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82+%D1%81+%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5%D0%BC&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "фолдинг белка презентация",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0+%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ1QJ6BAguEAE"
+        },
+        {
+            "query": "фолдинг биология",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F&sa=X&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ1QJ6BAgtEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&gl=ru&hl=ru&ei=i12uYo6JKL-ykvQPipODmAM&start=10&sa=N&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ8NMDegQIAhBR",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&gl=ru&hl=ru&ei=i12uYo6JKL-ykvQPipODmAM&start=10&sa=N&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ8tMDegQIAhA_",
+            "3": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&gl=ru&hl=ru&ei=i12uYo6JKL-ykvQPipODmAM&start=20&sa=N&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ8tMDegQIAhBB",
+            "4": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&gl=ru&hl=ru&ei=i12uYo6JKL-ykvQPipODmAM&start=30&sa=N&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ8tMDegQIAhBD",
+            "5": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&gl=ru&hl=ru&ei=i12uYo6JKL-ykvQPipODmAM&start=40&sa=N&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ8tMDegQIAhBF",
+            "6": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&gl=ru&hl=ru&ei=i12uYo6JKL-ykvQPipODmAM&start=50&sa=N&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ8tMDegQIAhBH",
+            "7": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&gl=ru&hl=ru&ei=i12uYo6JKL-ykvQPipODmAM&start=60&sa=N&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ8tMDegQIAhBJ",
+            "8": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&gl=ru&hl=ru&ei=i12uYo6JKL-ykvQPipODmAM&start=70&sa=N&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ8tMDegQIAhBL",
+            "9": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&gl=ru&hl=ru&ei=i12uYo6JKL-ykvQPipODmAM&start=80&sa=N&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ8tMDegQIAhBN",
+            "10": "https://www.google.com/search?q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&gl=ru&hl=ru&ei=i12uYo6JKL-ykvQPipODmAM&start=90&sa=N&ved=2ahUKEwjO-pDXkbj4AhU_mYQIHYrJADMQ8tMDegQIAhBP"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%A4%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0&start=90"
+        }
+    }
+}

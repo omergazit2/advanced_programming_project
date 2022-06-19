@@ -1,0 +1,194 @@
+{
+    "search_metadata": {
+        "id": "62ae5d96e0ded4d8e2470d0f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6f84602266fbc185/62ae5d96e0ded4d8e2470d0f.json",
+        "created_at": "2022-06-18 23:19:50 UTC",
+        "processed_at": "2022-06-18 23:19:50 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&oq=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/6f84602266fbc185/62ae5d96e0ded4d8e2470d0f.html",
+        "total_time_taken": 0.85
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "אימונותרפיה",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "אימונותרפיה",
+        "total_results": 38100,
+        "time_taken_displayed": 0.34
+    },
+    "answer_box": {
+        "type": "organic_result",
+        "title": "אימונותרפיה היא שיטת טיפול נגד מחלת הסרטן, אשר מסייעת למערכת החיסון של הגוף לזהות ולתקוף תאים סרטניים. טיפול אימונותרפי הוא חלק מקבוצת טיפולים הנקראים 'טיפול מכוון לסרטן', או 'טיפול ממוקד מטרה', או 'טיפול ביולוגי' אשר עושה שימוש במערכת החיסון של המטופל/ת לצורך תקיפת תאי הגידול בצורה יעילה וטובה יותר.",
+        "link": "https://www.cancerinfo-davidoff.co.il/document/50,6714,25666.aspx",
+        "displayed_link": "https://www.cancerinfo-davidoff.co.il › document",
+        "snippet": "אימונותרפיה היא שיטת טיפול נגד מחלת הסרטן, אשר מסייעת למערכת החיסון של הגוף לזהות ולתקוף תאים סרטניים. טיפול אימונותרפי הוא חלק מקבוצת טיפולים הנקראים 'טיפול מכוון לסרטן', או 'טיפול ממוקד מטרה', או 'טיפול ביולוגי' אשר עושה שימוש במערכת החיסון של המטופל/ת לצורך תקיפת תאי הגידול בצורה יעילה וטובה יותר.",
+        "people_also_search_for": []
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "אימונותרפיה - האגודה למלחמה בסרטן",
+            "link": "https://www.cancer.org.il/template/default.aspx?PageId=12342",
+            "displayed_link": "https://www.cancer.org.il › template",
+            "snippet": "אימונותרפיה היא שיטת טיפול נגד מחלת הסרטן, אשר מסייעת למערכת החיסון של הגוף לזהות ולתקוף תאים סרטניים. טיפול אימונותרפי הוא חלק מקבוצת טיפולים הנקראים ...",
+            "snippet_highlighted_words": [
+                "אימונותרפיה",
+                "אימונותרפי"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "אימונותרפיה - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94",
+            "displayed_link": "https://he.wikipedia.org › wiki › אימונותרפיה",
+            "snippet": "אימונותרפיה (באנגלית: Immunotherapy) היא טיפול במחלה על ידי השראה, הגברה או דיכוי של תגובה חיסונית. הטיפול משמש בין היתר בקרב חולי סרטן, ובפרט מלנומה (כגון ...",
+            "snippet_highlighted_words": [
+                "אימונותרפיה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "אימונותרפיה - טיפולים למלחמה בסרטן | מכון אלה שיבא תל השומר",
+            "link": "https://ella.sheba.co.il/%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94",
+            "displayed_link": "https://ella.sheba.co.il › אימונותרפיה",
+            "snippet": "הרעיון המרכזי של אימונותרפיה הוא לאפשר למערכת החיסון, על ידי מתן התנאים הנכונים, להילחם בסרטן ולהשמיד את תאי הגידול. הטיפול האימונותרפי עוזר ומעודד את מערכת ...",
+            "snippet_highlighted_words": [
+                "אימונותרפיה"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "האם ניתן לנבא מי מבין החולים בסרטן יגיב לטיפול אימונותרפי? - ...",
+            "link": "https://www.tasmc.org.il/Research/NL/Pages/research-jan-2021.aspx",
+            "displayed_link": "https://www.tasmc.org.il › Pages › research-jan-2021",
+            "snippet": "אימונותרפיה רותמת את תאי מערכת החיסון למלחמה בתאי הסרטן וכך שינתה מהיסוד את הטיפול בסרטן. בשונה משיטות טיפול אחרות המתמקדות בהרג של תאי הגידול, אימונותרפיה ...",
+            "snippet_highlighted_words": [
+                "אימונותרפיה",
+                "אימונותרפיה"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "אימונותרפיה (קיטרודה, אופדיבו ויירבוי) - לא תרופת פלא? - Cancer ...",
+            "link": "https://www.anticancer.co.il/news/immunotherapy-not-wonder-drug/",
+            "displayed_link": "https://www.anticancer.co.il › news › immunotherapy-n...",
+            "snippet": "אימונותרפיה זו משפחה חדשה של תרופות אונקולוגיות שמטרתה היא לכווץ את הגידול הסרטני ע\"י הרג של התא הסרטני, אבל בשונה מכימותרפיה, תרופות אימונותרפיות הן מוכוונות ...",
+            "snippet_highlighted_words": [
+                "אימונותרפיה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "קיטרודה ואימונותרפיה - פריצת דרך בטיפול בסרטן - Cancer Hope",
+            "link": "https://www.anticancer.co.il/keytruda-immunotherapy-cancer-treatment/",
+            "displayed_link": "https://www.anticancer.co.il › keytruda-immunotherapy...",
+            "snippet": "קיטרודה ואימונותרפיה. מה זה אימונותרפיה? אימונותרפיה היא דור חדש ומבטיח של תרופות, המאפשרות למערכת החיסון לזהות ולהשמיד ...",
+            "snippet_highlighted_words": [
+                "ואימונותרפיה",
+                "אימונותרפיה",
+                "אימונותרפיה"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "מהפכת האימונותרפיה: איך זה עובד? | כמוני",
+            "link": "https://www.camoni.co.il/%D7%9E%D7%94%D7%A4%D7%9B%D7%AA-%D7%94%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94--%D7%90%D7%99%D7%9A-%D7%96%D7%94-%D7%A2%D7%95%D7%91%D7%93-",
+            "displayed_link": "https://www.camoni.co.il › מהפכת-האימונותרפיה--איך-זה-עובד-",
+            "snippet": "המחקר הענף בנושא, שכולל גם פיתוח תרופות המבוססות על אימונותרפיה, החל באמצע שנות ... הזרוע התאית שמהווה את היעד העיקרי של טיפולים באימונותרפיה לחולי סרטן, ...",
+            "snippet_highlighted_words": [
+                "אימונותרפיה",
+                "באימונותרפיה"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "אימונותרפיה לטיפול בסרטן: תוצאות מרשימות - Doctors",
+            "link": "https://www.doctors.co.il/medical-articles/266635/",
+            "displayed_link": "https://www.doctors.co.il › ... › אונקולוגיה",
+            "date": "18 בנוב׳ 2019",
+            "snippet": "אימונותרפיה לטיפול בסרטן: תוצאות מרשימות. (1). לדרג. תוכן מקודם. מגוון טיפולים אימונותרפיים, שנכנסו לשימוש ...",
+            "snippet_highlighted_words": [
+                "אימונותרפיה"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "אימונותרפיה: טיפול פורץ דרך למחלות הסרטן - מדיקו",
+            "link": "https://www.medico.co.il/%D7%90%D7%95%D7%A0%D7%A7%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94/%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94/",
+            "displayed_link": "https://www.medico.co.il › אונקולוגיה",
+            "date": "12 במרץ 2019",
+            "snippet": "אימונותרפיה פתחה עידן חדש בטיפול במחלות הסרטן השונות. בשנים אחרונות מחקרים רבים ותרופות רבות נוסו על מטופלים ושיפרו באופן משמעותי את חייהם.",
+            "snippet_highlighted_words": [
+                "אימונותרפיה"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "סוגי אימונותרפיה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A1%D7%95%D7%92%D7%99+%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&sa=X&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "תופעות לוואי טיפול אימונותרפיה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%AA%D7%95%D7%A4%D7%A2%D7%95%D7%AA+%D7%9C%D7%95%D7%95%D7%90%D7%99+%D7%98%D7%99%D7%A4%D7%95%D7%9C+%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&sa=X&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "אימונותרפיה מחיר",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94+%D7%9E%D7%97%D7%99%D7%A8&sa=X&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "טיפול אימונותרפי מה זה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%98%D7%99%D7%A4%D7%95%D7%9C+%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99+%D7%9E%D7%94+%D7%96%D7%94&sa=X&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "תרופות אימונותרפיות",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%AA%D7%A8%D7%95%D7%A4%D7%95%D7%AA+%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%95%D7%AA&sa=X&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "אימונותרפיה סרטן הלבלב",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94+%D7%A1%D7%A8%D7%98%D7%9F+%D7%94%D7%9C%D7%91%D7%9C%D7%91&sa=X&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ1QJ6BAglEAE"
+        },
+        {
+            "query": "אימונותרפיה לוקמיה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94+%D7%9C%D7%95%D7%A7%D7%9E%D7%99%D7%94&sa=X&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "אימונותרפיה אלרגיה",
+            "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94+%D7%90%D7%9C%D7%A8%D7%92%D7%99%D7%94&sa=X&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ1QJ6BAghEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&hl=iw&gl=il&ei=ll2uYuObI_Wr5NoPitabyA8&start=10&sa=N&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ8NMDegQIARBL",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&hl=iw&gl=il&ei=ll2uYuObI_Wr5NoPitabyA8&start=10&sa=N&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ8tMDegQIARA9",
+            "3": "https://www.google.com/search?q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&hl=iw&gl=il&ei=ll2uYuObI_Wr5NoPitabyA8&start=20&sa=N&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ8tMDegQIARA_",
+            "4": "https://www.google.com/search?q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&hl=iw&gl=il&ei=ll2uYuObI_Wr5NoPitabyA8&start=30&sa=N&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ8tMDegQIARBB",
+            "5": "https://www.google.com/search?q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&hl=iw&gl=il&ei=ll2uYuObI_Wr5NoPitabyA8&start=40&sa=N&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ8tMDegQIARBD",
+            "6": "https://www.google.com/search?q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&hl=iw&gl=il&ei=ll2uYuObI_Wr5NoPitabyA8&start=50&sa=N&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ8tMDegQIARBF",
+            "7": "https://www.google.com/search?q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&hl=iw&gl=il&ei=ll2uYuObI_Wr5NoPitabyA8&start=60&sa=N&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ8tMDegQIARBH",
+            "8": "https://www.google.com/search?q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&hl=iw&gl=il&ei=ll2uYuObI_Wr5NoPitabyA8&start=70&sa=N&ved=2ahUKEwjjvqvckbj4AhX1FVkFHQrrBvkQ8tMDegQIARBJ"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94&start=70"
+        }
+    }
+}

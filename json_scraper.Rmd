@@ -58,8 +58,9 @@ json_scraper <- function(path, termId) {
 ## scrape all json files in searching_for_science diractory 
 
 ```{r pressure, echo=FALSE}
-path <- "~/Desktop/proj/data/searching_for_science"
+path <- "./data/searching_for_science"
 files <- dir(path, pattern = "*.json")
+files
 df <- tibble(
       searchTerm = character(),
       language = character(),
@@ -71,20 +72,28 @@ df <- tibble(
       link = character()
     )
 for (file in files){
-  search_df <- json_scraper(paste("~/Desktop/proj/data/searching_for_science/", file, sep = ""), as.integer(str_split(file,"_")[[1]][1])) 
+  search_df <- json_scraper(paste("./data/searching_for_science/", file, sep = ""), as.integer(str_split(file,"_")[[1]][1])) 
   df <- rbind(df, search_df)
 }
 df <- df %>% 
   arrange(termId) %>% 
-  mutate_at(c("link"), URLdecode)
+  mutate_at(c("link"), URLdecode) %>%
+  filter(tolower(country) %in% c("ru", "us", "il", "eg")) %>%
+  filter(termId != 48)
 ```
+
+```{r pressure, echo=FALSE}
+df
+```
+
+
 
 ```{r pressure, echo=FALSE}
 search_df <- df %>% 
   select(1:6) %>%
-  distinct()
+  distinct() 
 write_csv(search_df, "./data/search_data.csv")
 results_df <- df %>%
-  select(1,2,3,7,8,9)
+  select(1,2,3,4,7,8,9)
 write_csv(results_df, "./data/results_data.csv")
 ```

@@ -1,0 +1,294 @@
+{
+    "search_metadata": {
+        "id": "62ae5d64dc02f17edbc28b86",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7a2f1053aa5d6d63/62ae5d64dc02f17edbc28b86.json",
+        "created_at": "2022-06-18 23:19:00 UTC",
+        "processed_at": "2022-06-18 23:19:00 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&oq=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7a2f1053aa5d6d63/62ae5d64dc02f17edbc28b86.html",
+        "total_time_taken": 1.28
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "קורונה",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "קורונה",
+        "total_results": 22700000,
+        "time_taken_displayed": 0.49
+    },
+    "knowledge_graph": {
+        "title": "מחלת נגיף קורונה (COVID-19)",
+        "cite_name": "נגיף הקורונה - משרד הבריאות",
+        "cite_link": "https://govextra.gov.il/ministry-of-health/corona/corona-virus/",
+        "מה_עוד_אנשים_מחפשים": [
+            {
+                "name": "התפרצות SARS",
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%94%D7%AA%D7%A4%D7%A8%D7%A6%D7%95%D7%AA+SARS&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHgcIZbDZFlkTHVAB_6EyFrU66Tja8D7lNSdUAaYWYnh29NUNs59iR5E_koJjGEYUvj6DuVbzSjZt5PzyFyq_40AJv_pasJS7qbJYKJsolGrjumbsbA8ZOOuIiA3BuMUcJPHLw7l80GM021HzzHUC5VznWyXNg8yyDTMuh2yk09y-KZPyCA%3D%3D&sa=X&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0QgOQBegQIQhAE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%AA%D7%A4%D7%A8%D7%A6%D7%95%D7%AA+SARS&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHgcIZbDZFlkTHVAB_6EyFrU66Tja8D7lNSdUAaYWYnh29NUNs59iR5E_koJjGEYUvj6DuVbzSjZt5PzyFyq_40AJv_pasJS7qbJYKJsolGrjumbsbA8ZOOuIiA3BuMUcJPHLw7l80GM021HzzHUC5VznWyXNg8yyDTMuh2yk09y-KZPyCA%3D%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mOt0yb0WOn1WrtT1-FrdybrbGq5TDPw8QLO3WdvIJ9qiohx0tuyLggU&s=0"
+            },
+            {
+                "name": "התפרצות MERS-CoV",
+                "extensions": [
+                    "מאז 2012"
+                ],
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%94%D7%AA%D7%A4%D7%A8%D7%A6%D7%95%D7%AA+MERS-CoV&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcblwTOiKUhgHvav4r-FqtXsqWIWUaLWtJMJFtlBLFEjck12JTn4v0flIpO9U1TvL1tOkX2MRjC5zS1mCXclFbkN7-ft8qMnmP0ea2DaJ2VHDmZUIVM-M_Z9vFvFAy3EX0fgMsI7PUPGWPXMaMgUjhMPaSEgpBYQxEn2FTAm9DnT4YuLrVaoDvxHhcMbvGHGkwOzjBocg%3D&sa=X&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0QgOQBegQIQhAG",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%AA%D7%A4%D7%A8%D7%A6%D7%95%D7%AA+MERS-CoV&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcblwTOiKUhgHvav4r-FqtXsqWIWUaLWtJMJFtlBLFEjck12JTn4v0flIpO9U1TvL1tOkX2MRjC5zS1mCXclFbkN7-ft8qMnmP0ea2DaJ2VHDmZUIVM-M_Z9vFvFAy3EX0fgMsI7PUPGWPXMaMgUjhMPaSEgpBYQxEn2FTAm9DnT4YuLrVaoDvxHhcMbvGHGkwOzjBocg%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRURDvs5f9SUS6iRRwXLZwCnUmGUbGaifgjaoGGbfg&s=0"
+            },
+            {
+                "name": "Epidemiology of HIV/AIDS",
+                "extensions": [
+                    "מאז 1981"
+                ],
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=coronavirus+disease+2019+epidemiology+of+hiv/aids&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgCYFGTK-hmLl9UIe6XI-FdaKV4m1pa1__Q2pTdCmlik1Cs8FvHZTziRJa9vZ_S6v7rM_T8XsYZWNTTHVSSqX8Rjvz3IT9btqBfdFzCmLfk9610zRq1NvKFWVUWZKoxm1X4nml-WjLvUTTFG1Q4TLnFGcdBxDo4wwoLAk31RDlaXgZ0Oq15ZOpUff7WFhU-yR6AzBSxgWeu5ZTkcmQnNu0NfCtDqa&sa=X&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0QgOQBegQIQhAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=coronavirus+disease+2019+epidemiology+of+hiv%2Faids&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgCYFGTK-hmLl9UIe6XI-FdaKV4m1pa1__Q2pTdCmlik1Cs8FvHZTziRJa9vZ_S6v7rM_T8XsYZWNTTHVSSqX8Rjvz3IT9btqBfdFzCmLfk9610zRq1NvKFWVUWZKoxm1X4nml-WjLvUTTFG1Q4TLnFGcdBxDo4wwoLAk31RDlaXgZ0Oq15ZOpUff7WFhU-yR6AzBSxgWeu5ZTkcmQnNu0NfCtDqa",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0sTiBnW8I1u31ERo9CArl3_IuTEdhM0br5onev5zL8jfSxBnAW2Tiukdn8Q&s=10"
+            },
+            {
+                "name": "השפעת הספרדית",
+                "extensions": [
+                    "1918 – 1920"
+                ],
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%94%D7%A9%D7%A4%D7%A2%D7%AA+%D7%94%D7%A1%D7%A4%D7%A8%D7%93%D7%99%D7%AA&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgESNL5OYQ_CKzfcT8WikCNxH18-E1b2Hg9UZArlaClkkBR2Mh6c7vIzXADrGd1Zw-uDKlwKypHWFqabKsRMu93V4hlIrNsCUvD0bpUwxxWDtB8wqKzfDaXD1xVOiig10ubPwJdgvSCPgiqvJPi1AhsTBA89WsGB_NY7SGsVjjR7a1dE21PSyYNP44ikhqWivG8vWXwQ%3D&sa=X&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0QgOQBegQIQhAK",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%A9%D7%A4%D7%A2%D7%AA+%D7%94%D7%A1%D7%A4%D7%A8%D7%93%D7%99%D7%AA&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgESNL5OYQ_CKzfcT8WikCNxH18-E1b2Hg9UZArlaClkkBR2Mh6c7vIzXADrGd1Zw-uDKlwKypHWFqabKsRMu93V4hlIrNsCUvD0bpUwxxWDtB8wqKzfDaXD1xVOiig10ubPwJdgvSCPgiqvJPi1AhsTBA89WsGB_NY7SGsVjjR7a1dE21PSyYNP44ikhqWivG8vWXwQ%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYwXU_OMkCpqfaywJZ2PuUDKidK5XKuSeD-9x5MNb6VZnH53_LrEaNXsLSg&s=10"
+            },
+            {
+                "name": "התפרצות האבולה במערב אפריקה",
+                "extensions": [
+                    "2013 – 2016"
+                ],
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%94%D7%AA%D7%A4%D7%A8%D7%A6%D7%95%D7%AA+%D7%94%D7%90%D7%91%D7%95%D7%9C%D7%94+%D7%91%D7%9E%D7%A2%D7%A8%D7%91+%D7%90%D7%A4%D7%A8%D7%99%D7%A7%D7%94&si=AC1wQDC0KliLIoeyh35S2UVSh9d07Pwsb5VutY-ECqLPWJZJUJQyQRd9bOERRpG6Qj0aJdgsoXbyvB8SOAM8iuIp0RbCJRyIRP8h6eRUbjjG7XE4PsiR0NmX-sEY87M8sHJCVMUgEWIKIS7A1mwHOtRXPgpVq4mJfDNqwqfMUmUREOIfPDMNOnio7jP6HXu386VfRMh4neMXJKqxdQbgoNN47VCzx5tWTQWHybO0g0Qicq-XPDYwfz-_Y_3NPHj2WIhMAdw2WIjc&sa=X&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0QgOQBegQIQhAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%94%D7%AA%D7%A4%D7%A8%D7%A6%D7%95%D7%AA+%D7%94%D7%90%D7%91%D7%95%D7%9C%D7%94+%D7%91%D7%9E%D7%A2%D7%A8%D7%91+%D7%90%D7%A4%D7%A8%D7%99%D7%A7%D7%94&si=AC1wQDC0KliLIoeyh35S2UVSh9d07Pwsb5VutY-ECqLPWJZJUJQyQRd9bOERRpG6Qj0aJdgsoXbyvB8SOAM8iuIp0RbCJRyIRP8h6eRUbjjG7XE4PsiR0NmX-sEY87M8sHJCVMUgEWIKIS7A1mwHOtRXPgpVq4mJfDNqwqfMUmUREOIfPDMNOnio7jP6HXu386VfRMh4neMXJKqxdQbgoNN47VCzx5tWTQWHybO0g0Qicq-XPDYwfz-_Y_3NPHj2WIhMAdw2WIjc",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80kgkr2aF8bsuzVCDu30aAMSD8Pd9hgB8tfnxC_OZmD2NS2J1HYZnSdB4wxY&s=10"
+            },
+            {
+                "name": "מגפת שפעת החזירים",
+                "extensions": [
+                    "2009 – 2010"
+                ],
+                "link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%9E%D7%92%D7%A4%D7%AA+%D7%A9%D7%A4%D7%A2%D7%AA+%D7%94%D7%97%D7%96%D7%99%D7%A8%D7%99%D7%9D&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbgTkHnxL-_Rox51V-EYusSLtmsVz9SrohaQHtQxpkkoQ29Y8HEgau2RyA3yaK-0xkksrokxAT1FHQmKvWEKmfmbVTiDlOIylXudtF5otu6mTKxxCxsqbZiWBuL7r6RVcvWKeyxKxcqseLCs5gMZ0iY5CXf9WQION5TfRLieMweduJkELiP6amF_QKC6qg9QwCwrE3yA%3D&sa=X&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0QgOQBegQIQhAO",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%9E%D7%92%D7%A4%D7%AA+%D7%A9%D7%A4%D7%A2%D7%AA+%D7%94%D7%97%D7%96%D7%99%D7%A8%D7%99%D7%9D&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbgTkHnxL-_Rox51V-EYusSLtmsVz9SrohaQHtQxpkkoQ29Y8HEgau2RyA3yaK-0xkksrokxAT1FHQmKvWEKmfmbVTiDlOIylXudtF5otu6mTKxxCxsqbZiWBuL7r6RVcvWKeyxKxcqseLCs5gMZ0iY5CXf9WQION5TfRLieMweduJkELiP6amF_QKC6qg9QwCwrE3yA%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP0eAlMcIlsACyiMr2MQtf2gjXc0K_A51ayzOr-mzf-g&s=10"
+            }
+        ]
+    },
+    "top_stories": [
+        {
+            "title": "המרכז לבקרת מחלות ומניעתן בארה\"ב המליץ לאשר חיסוני קורונה לבני חצי שנה ויותר",
+            "link": "https://www.haaretz.co.il/news/world/america/2022-06-18/ty-article/00000181-7830-d541-a9ad-fb34aa320000",
+            "source": "הארץ",
+            "date": "לפני 3 שעות",
+            "thumbnail": "https://serpapi.com/searches/62ae5d64dc02f17edbc28b86/images/d2a539199f11ab4c884b9f151880c08261336ca07ed96917.jpeg"
+        },
+        {
+            "title": "תוך שבוע - זינוק של כ-70% בחולים קשה: \"מצב הקורונה לא צפוי ולא יציב\"",
+            "link": "https://www.ynet.co.il/news/article/rjbnhyctc",
+            "source": "Ynet",
+            "date": "לפני יום אחד",
+            "thumbnail": "https://serpapi.com/searches/62ae5d64dc02f17edbc28b86/images/d2a539199f11ab4ca9cbe7b262ba2bed420339d37538b707.jpeg"
+        },
+        {
+            "title": "התחנה הסופית: נחתם האישור שירחיב את חיסון הקורונה לקבוצת הגיל האחרונה",
+            "link": "https://www.israelhayom.co.il/news/world-news/article/11713353",
+            "source": "ישראל היום",
+            "date": "לפני 3 שעות",
+            "thumbnail": "https://serpapi.com/searches/62ae5d64dc02f17edbc28b86/images/d2a539199f11ab4cb9db10ce0192eb564eb9f9fb039550ce.jpeg"
+        },
+        {
+            "title": "הגל השישי מתגבר: זינוק במספר החולים הקשים, מעל 7,000 מאומתים",
+            "link": "https://www.maariv.co.il/corona/corona-israel/Article-925632",
+            "source": "מעריב",
+            "date": "לפני יום אחד",
+            "thumbnail": "https://serpapi.com/searches/62ae5d64dc02f17edbc28b86/images/d2a539199f11ab4cc731f5c79d04470f964abdcd0ec71607.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?hl=iw&gl=il&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0Qt8YBegQIFxAC",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&tbm=nws",
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "נגיף הקורונה - משרד הבריאות",
+            "link": "https://govextra.gov.il/ministry-of-health/corona/corona-virus/",
+            "displayed_link": "https://govextra.gov.il › corona › corona-virus",
+            "snippet": "נגיף הקורונה - משרד הבריאות. מידע נגיש לאנשים עם מוגבלות על נגיף קורונה. Previous Next. כל המידע וההנחיות העדכניות בנושא קורונה עבר לאתר המידע הרשמי החדש.",
+            "snippet_highlighted_words": [
+                "הקורונה",
+                "קורונה",
+                "קורונה"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "בידוד למאומתים לקורונה",
+            "link": "https://corona.health.gov.il/isolation-lobby/isolation-confirmed-corona/",
+            "displayed_link": "https://corona.health.gov.il › isolation-confirmed-corona",
+            "snippet": "מי שקיבלו תוצאה חיובית בבדיקת קורונה – בדיקת PCR או בדיקת אנטיגן מוסדית – צריכים להיכנס לבידוד, כולל מחוסנים ומחלימים. עוד מידע למאומתים לקורונה > ...",
+            "snippet_highlighted_words": [
+                "קורונה",
+                "לקורונה"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "קורונה - משרד הבריאות",
+            "link": "https://datadashboard.health.gov.il/COVID-19/",
+            "displayed_link": "https://datadashboard.health.gov.il › COVID-19",
+            "snippet": "נגיף הקורונה בישראל - תמונת מצב כללית. עדכון אחרון: 17 ביוני 2022 | 07:10. שינוי לתצוגה כהה.",
+            "snippet_highlighted_words": [
+                "הקורונה"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "קורונה | משרד הבריאות - Gov",
+            "link": "https://www.gov.il/he/departments/topics/corona-main-sub/govil-landing-page",
+            "displayed_link": "https://www.gov.il › topics › govil-landing-page",
+            "snippet": "מרכז המידע לקורונה. מידע עדכני והנחיות על חיסונים, תו ירוק ותעודת קורונה, בידוד, בדיקות, נסיעות לחו\"ל ועוד · חיסונים לבני 5 עד 11. 16/11/21חדשות ...",
+            "snippet_highlighted_words": [
+                "לקורונה",
+                "קורונה"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "פייק ניוז קורונה",
+                        "link": "https://www.gov.il/he/departments/topics/corona-fake-news-sub/govil-landing-page"
+                    },
+                    {
+                        "title": "שגרה לצד קורונה",
+                        "link": "https://www.gov.il/he/departments/general/routine-during-covid-pandemic"
+                    },
+                    {
+                        "title": "חיסוני קורונה לילדים",
+                        "link": "https://www.gov.il/he/departments/topics/pediatric-covid-19-vaccine/govil-landing-page"
+                    },
+                    {
+                        "title": "דיווח עצמי על כניסה לבידוד",
+                        "link": "https://www.gov.il/he/service/quarantine-self-report"
+                    }
+                ]
+            }
+        },
+        {
+            "position": 5,
+            "title": "תוך שבוע - זינוק של כ-70% בחולים קשה: \"מצב הקורונה לא צפוי ולא ...",
+            "link": "https://www.ynet.co.il/news/article/rjbnhyctc",
+            "displayed_link": "https://www.ynet.co.il › ... › חדשות בארץ › חינוך ובריאות",
+            "snippet": "מספר חולי הקורונה שמצבם קשה הגיע היום (שישי) ל-140 - זינוק של כמעט 70% ממספרם ... באופן חמור וקשה יותר - והאם בקיץ נצטרך להיערך לפתיחת מחלקות קורונה מחדש\".",
+            "snippet_highlighted_words": [
+                "הקורונה",
+                "קורונה"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "קורונה - Ynet",
+            "link": "https://www.ynet.co.il/topics/%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94",
+            "displayed_link": "https://www.ynet.co.il › תגיות › טופיקס",
+            "snippet": "כנסו וקראו על כל הנושאים שהכי מעניינים אתכם. חדשות חמות , עידכונים ומבזקים. ynet קורונה – מגוון כתבות אודות קורונה באתר.",
+            "snippet_highlighted_words": [
+                "קורונה",
+                "קורונה"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "קורונה – מידע על החיסון, הבדיקות, הבידוד ושירותי רפואה מרחוק - ...",
+            "link": "https://www.maccabi4u.co.il/new/corona/",
+            "displayed_link": "https://www.maccabi4u.co.il › new › corona",
+            "snippet": "זכאות לחיסון קורונה · בדיקות קורונה במכבי · שירותי רפואה מרחוק · נחשפתם לחולה מאומת? · מידע לחולים בקורונה · מידע למחלימים · טיפול פסיכולוגי טלפוני · שאלות ותשובות על ...",
+            "snippet_highlighted_words": [
+                "קורונה",
+                "קורונה",
+                "בקורונה"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "נגיף הקורונה - נתונים ומספרים על מצב התחלואה בישראל ובעולם | N12",
+            "link": "https://corona.mako.co.il/",
+            "displayed_link": "https://corona.mako.co.il",
+            "snippet": "תמונת מצב קורונה: 18.6, 20:11 · מספר נדבקים ביום בישראל · מספר החולים קשה בישראל · חולים קשה בישראל בחלוקה למצב התחסנות (מחוסנים, לא מחוסנים, מחוסנים ללא תוקף).",
+            "snippet_highlighted_words": [
+                "קורונה"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "קורונה בישראל: תמונת מצב | שירותי בריאות כללית",
+            "link": "https://www.clalit.co.il/he/your_health/family/Pages/corona_in_israel.aspx",
+            "displayed_link": "https://www.clalit.co.il › Pages › corona_in_israel",
+            "snippet": "קורונה בישראל: תמונת מצב. מספר הנדבקים בחמישי: 7,313 (שיעור הנדבקים: 29.38%). מספר המתים מקורונה: 10,882. מספר מאושפזי הקורונה: 457 ובהם 140 במצב קשה.",
+            "snippet_highlighted_words": [
+                "קורונה",
+                "מקורונה",
+                "הקורונה"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "מאושפזים_בבתי_חולים​": 455,
+                        "מספר_הנדבקים_מתחילת_המגפה": 4220532,
+                        "​חולים_פעילים": 45085,
+                        "מונשמים_מתוך_החולים_קשה​": 32
+                    },
+                    "extensions": [
+                        "מאושפזים בבתי חולים​: 455",
+                        "מספר הנדבקים: 4,220,532; (מתחילת; המגפה)",
+                        "​חולים פעילים: 45,085",
+                        "מונשמים (מתוך החולים קשה​): 32"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 10,
+            "title": "אובחנתם כחולי קורונה? זה מה שצריך לעשות - מאוחדת",
+            "link": "https://www.meuhedet.co.il/%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94/%D7%90%D7%9D-%D7%90%D7%95%D7%91%D7%97%D7%A0%D7%AA-%D7%9B%D7%97%D7%95%D7%9C%D7%94-%D7%91%D7%A0%D7%92%D7%99%D7%A3-%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94/",
+            "displayed_link": "https://www.meuhedet.co.il › אם-אובחנת-כחולה-בנגיף-קורונה",
+            "snippet": "אם אובחנתם כחולי קורונה יש מספר שלבים שאתם צריכים לעבור בידוד, לקיחת תרופות ומעקב. היכנסו ללמוד מה אתם צריכים לעשות מכניסה לבידוד קורונה ועד לטופס שחרור ...",
+            "snippet_highlighted_words": [
+                "קורונה",
+                "קורונה"
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&hl=iw&gl=il&ei=ZF2uYu7AM5qvqtsPmrKZ6AI&start=10&sa=N&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0Q8NMDegQIAhBQ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&hl=iw&gl=il&ei=ZF2uYu7AM5qvqtsPmrKZ6AI&start=10&sa=N&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0Q8tMDegQIAhBA",
+            "3": "https://www.google.com/search?q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&hl=iw&gl=il&ei=ZF2uYu7AM5qvqtsPmrKZ6AI&start=20&sa=N&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0Q8tMDegQIAhBC",
+            "4": "https://www.google.com/search?q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&hl=iw&gl=il&ei=ZF2uYu7AM5qvqtsPmrKZ6AI&start=30&sa=N&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0Q8tMDegQIAhBE",
+            "5": "https://www.google.com/search?q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&hl=iw&gl=il&ei=ZF2uYu7AM5qvqtsPmrKZ6AI&start=40&sa=N&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0Q8tMDegQIAhBG",
+            "6": "https://www.google.com/search?q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&hl=iw&gl=il&ei=ZF2uYu7AM5qvqtsPmrKZ6AI&start=50&sa=N&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0Q8tMDegQIAhBI",
+            "7": "https://www.google.com/search?q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&hl=iw&gl=il&ei=ZF2uYu7AM5qvqtsPmrKZ6AI&start=60&sa=N&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0Q8tMDegQIAhBK",
+            "8": "https://www.google.com/search?q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&hl=iw&gl=il&ei=ZF2uYu7AM5qvqtsPmrKZ6AI&start=70&sa=N&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0Q8tMDegQIAhBM",
+            "9": "https://www.google.com/search?q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&hl=iw&gl=il&ei=ZF2uYu7AM5qvqtsPmrKZ6AI&start=80&sa=N&ved=2ahUKEwjugtDEkbj4AhWal2oFHRpZBi0Q8tMDegQIAhBO"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94&start=80"
+        }
+    }
+}

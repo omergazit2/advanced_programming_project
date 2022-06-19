@@ -1,0 +1,467 @@
+{
+    "search_metadata": {
+        "id": "62ae5d915fc493df159c67a0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/10899bbb78b954e7/62ae5d915fc493df159c67a0.json",
+        "created_at": "2022-06-18 23:19:45 UTC",
+        "processed_at": "2022-06-18 23:19:45 UTC",
+        "google_url": "https://www.google.com/search?q=Immunotherapy&oq=Immunotherapy&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/10899bbb78b954e7/62ae5d915fc493df159c67a0.html",
+        "total_time_taken": 2.0
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Immunotherapy",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Immunotherapy",
+        "total_results": 145000000,
+        "time_taken_displayed": 0.64
+    },
+    "knowledge_graph": {
+        "title": "Cancer immunotherapy",
+        "description": "Cancer immunotherapy is the stimulation of the immune system to treat cancer, improving on the immune system's natural ability to fight the disease. It is an application of the fundamental research of cancer immunology and a growing subspeciality of oncology.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Cancer_immunotherapy"
+        },
+        "see_results_about": [
+            {
+                "name": "Immunotherapy",
+                "extensions": [
+                    "Drug class"
+                ]
+            }
+        ]
+    },
+    "top_stories": [
+        {
+            "title": "Experimental immunotherapy drug has 100% cure rate for rectal cancer",
+            "link": "https://www.palmbeachpost.com/story/lifestyle/2022/06/16/experimental-immunotherapy-drug-cured-rectal-cancer-clinical-trial/7603860001/",
+            "source": "Palm Beach Post",
+            "date": "2 days ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/89c86683cd836f6c2e3ce59e634c076bc4163c18464fbb7e.jpeg"
+        },
+        {
+            "title": "Rectal Cancer Disappears After Experimental Use of Immunotherapy",
+            "link": "https://www.mskcc.org/news/rectal-cancer-disappears-after-experimental-use-immunotherapy",
+            "source": "Memorial Sloan Kettering Cancer Center",
+            "date": "2 weeks ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/89c86683cd836f6c6d652a28befae3b047cbff11e8dff766.jpeg"
+        },
+        {
+            "title": "Every patient in this experimental cancer drug trial saw their cancer disappear, researchers say",
+            "link": "https://www.cbsnews.com/news/rectal-cancer-drug-trial-immunotherapy-dostarlimab-study/",
+            "source": "CBS News",
+            "date": "1 week ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/89c86683cd836f6c740547177b59b9aebe2b973cebb88d63.jpeg"
+        },
+        {
+            "title": "Designer protein circuits enable safe cancer immunotherapy",
+            "link": "https://www.nature.com/articles/d41586-022-01528-y",
+            "source": "Nature",
+            "date": "2 weeks ago",
+            "thumbnail": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/89c86683cd836f6ce0c2f1ee64fac383e6ecf20ae5e1819c.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?q=Immunotherapy&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQt8YBegQIAxAF",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&tbm=nws",
+    "related_questions": [
+        {
+            "question": "Can cancer be cured with immunotherapy?",
+            "snippet": "Cancer immunotherapy can work on many different types of cancer. Immunotherapy enables the immune system to recognize and target cancer cells, making it a universal answer to cancer. The list of cancers that are currently treated using immunotherapy is extensive.",
+            "title": "Why Cancer Immunotherapy? - Cancer Research Institute (CRI)",
+            "link": "https://www.cancerresearch.org/en-us/immunotherapy/why-immunotherapy",
+            "displayed_link": "https://www.cancerresearch.org › ... › Immunotherapy"
+        },
+        {
+            "question": "What is life expectancy with immunotherapy?",
+            "snippet": "Among those who received immunotherapy, the estimated survival rate was 69.2 percent at 12 months. In contrast, the placebo group had an estimated 12-month survival rate of 49.4 percent. Immunotherapy is already changing the treatment landscape for people with lung cancer.",
+            "title": "Immunotherapy for Lung Cancer: Side Effects and More - Healthline",
+            "link": "https://www.healthline.com/health/lung-cancer/immunotherapy",
+            "displayed_link": "https://www.healthline.com › health › immunotherapy"
+        },
+        {
+            "question": "What kind of cancer does immunotherapy treat?",
+            "snippet": "Immunotherapy is a promising treatment option for advanced lung cancer, alone or in combination with conventional treatments like chemotherapy or surgery. Several FDA-approved immunotherapies offer treatment options to children and adults with Hodgkin and non-Hodgkin lymphoma.",
+            "title": "Immunotherapy by Cancer Type - Cancer Research Institute",
+            "link": "https://www.cancerresearch.org/en-us/immunotherapy/cancer-types",
+            "displayed_link": "https://www.cancerresearch.org › en-us › cancer-types"
+        },
+        {
+            "question": "What is the success rate of immunotherapy?",
+            "snippet": "15-20% 15-20% of patients achieve durable results with immunotherapy.",
+            "title": "Immunotherapy: Precision Medicine in Action",
+            "link": "https://www.hopkinsmedicine.org/inhealth/about-us/immunotherapy-precision-medicine-action-policy-brief.html",
+            "displayed_link": "https://www.hopkinsmedicine.org › inhealth › about-us"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Immunotherapy is treatment that uses a person's own immune system to fight cancer. Immunotherapy can boost or change how the immune system works so it can find and attack cancer cells.",
+        "link": "https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy.html#:~:text=Immunotherapy%20is%20treatment%20that%20uses,find%20and%20attack%20cancer%20cells.",
+        "displayed_link": "https://www.cancer.org › treatment › treatment-types › im...",
+        "snippet": "Immunotherapy is treatment that uses a person's own immune system to fight cancer. Immunotherapy can boost or change how the immune system works so it can find and attack cancer cells.",
+        "people_also_search_for": [],
+        "about_this_result": {
+            "source": {
+                "description": "The American Cancer Society is a nationwide voluntary health organization dedicated to eliminating cancer. Established in 1913, the society is organized into six geographical regions of both medical and lay volunteers operating in more than 250 Regional offices throughout the United States.",
+                "icon": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/f71063ce2f881d5d24957cc7a6b92d92568b1c7b8f67a29bf6349c6ba5572b214324c9a743105ae2346efe39266b1cae.png"
+            },
+            "keywords": [
+                "immunotherapy"
+            ],
+            "languages": [
+                "English"
+            ],
+            "regions": [
+                "the United States"
+            ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy.html&tbm=ilp&ilps=ADNMCi2z7UaXme-z-ObHLdYvYcZoFwzfmQ"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "How Immunotherapy Is Used to Treat Cancer",
+            "link": "https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy/what-is-immunotherapy.html",
+            "displayed_link": "https://www.cancer.org › treatment › treatment-types",
+            "date": "Dec 27, 2019",
+            "snippet": "Immunotherapy is treatment that uses certain parts of a person's immune system to fight diseases such as cancer.",
+            "snippet_highlighted_words": [
+                "Immunotherapy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The American Cancer Society is a nationwide voluntary health organization dedicated to eliminating cancer. Established in 1913, the society is organized into six geographical regions of both medical and lay volunteers operating in more than 250 Regional offices throughout the United States.",
+                    "icon": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/49392c4d95e1e851e94bba369455815a80198ece30864bb8729a257e5bac2fa471e1b85acd26760f5e1be0a72c8b7c92.png"
+                },
+                "keywords": [
+                    "immunotherapy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy/what-is-immunotherapy.html&tbm=ilp&ilps=ADNMCi2nIwGhmiD63vwpuJF_XkTZQfNNDA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OvJPy_0vHtsJ:https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy/what-is-immunotherapy.html+&cd=11&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy/what-is-immunotherapy.html+Immunotherapy"
+        },
+        {
+            "position": 2,
+            "title": "Immunotherapy for Cancer - NCI",
+            "link": "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy",
+            "displayed_link": "https://www.cancer.gov › treatment › types › immunoth...",
+            "date": "Sep 24, 2019",
+            "snippet": "Immunotherapy is a type of cancer treatment that helps your immune system fight cancer. The immune system helps your body fight infections ...",
+            "snippet_highlighted_words": [
+                "Immunotherapy"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "How does immunotherapy...",
+                        "link": "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy#how-does-immunotherapy-work-against-cancer"
+                    },
+                    {
+                        "title": "What are the types of...",
+                        "link": "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy#what-are-the-types-of-immunotherapy"
+                    },
+                    {
+                        "title": "How often do you receive...",
+                        "link": "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy#how-often-do-you-receive-immunotherapy"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "cancer.gov was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/49392c4d95e1e851e94bba369455815a1d6c104131248437eaebe46b9b2a34c966f29eed5238ef53c3bc01a4650e4621.png"
+                },
+                "keywords": [
+                    "immunotherapy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cancer.gov/about-cancer/treatment/types/immunotherapy&tbm=ilp&ilps=ADNMCi2-spjrAMAYXcAzu_h6M39IhVazyA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Zrvqjs_moZIJ:https://www.cancer.gov/about-cancer/treatment/types/immunotherapy+&cd=16&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.cancer.gov/about-cancer/treatment/types/immunotherapy+Immunotherapy"
+        },
+        {
+            "position": 3,
+            "title": "What Is Immunotherapy? - Cancer.Net",
+            "link": "https://www.cancer.net/navigating-cancer-care/how-cancer-treated/immunotherapy-and-vaccines/what-immunotherapy",
+            "displayed_link": "https://www.cancer.net › immunotherapy-and-vaccines",
+            "snippet": "Immunotherapy is a type of cancer treatment. It uses substances made by the body or in a laboratory to boost the immune system and help the body find and ...",
+            "snippet_highlighted_words": [
+                "Immunotherapy"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "What Are Non-Specific...",
+                        "link": "https://www.cancer.net/navigating-cancer-care/how-cancer-treated/immunotherapy-and-vaccines/what-immunotherapy#:~:text=What%20are%20non%2Dspecific%20immunotherapies%3F"
+                    },
+                    {
+                        "title": "What Is Oncolytic Virus...",
+                        "link": "https://www.cancer.net/navigating-cancer-care/how-cancer-treated/immunotherapy-and-vaccines/what-immunotherapy#:~:text=What%20is%20oncolytic%20virus%20therapy%3F"
+                    },
+                    {
+                        "title": "Questions To Ask Your Health...",
+                        "link": "https://www.cancer.net/navigating-cancer-care/how-cancer-treated/immunotherapy-and-vaccines/what-immunotherapy#:~:text=Questions%20to%20ask%20your%20health%20care%20team"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "cancer.net was first indexed by Google more than 10 years ago",
+                    "icon": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/49392c4d95e1e851e94bba369455815aef067fc4e8be40f87bd8cd1cf3a19fbc615ed9f0ef720494d6116612a4259ea8.png"
+                },
+                "keywords": [
+                    "immunotherapy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cancer.net/navigating-cancer-care/how-cancer-treated/immunotherapy-and-vaccines/what-immunotherapy&tbm=ilp&ilps=ADNMCi1vgBkimXKIDY1tRiuzqHT8PpD7_Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RFG77rlpK6gJ:https://www.cancer.net/navigating-cancer-care/how-cancer-treated/immunotherapy-and-vaccines/what-immunotherapy+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "What is Immunotherapy - Cancer Research Institute (CRI)",
+            "link": "https://www.cancerresearch.org/en-us/immunotherapy/what-is-immunotherapy",
+            "displayed_link": "https://www.cancerresearch.org › ... › Immunotherapy",
+            "snippet": "Immunotherapies are a form of biotherapy (also called biologic therapy or biological response modifier (BRM) therapy) because they use materials from living ...",
+            "snippet_highlighted_words": [
+                "Immunotherapies"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Cancer Research Institute is a US non-profit organization funding cancer research and based in New York City.",
+                    "icon": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/49392c4d95e1e851e94bba369455815ac751629c3504f534c0df51596f144e72663056048300dd16d1c108afb84702ba.png"
+                },
+                "keywords": [
+                    "immunotherapy"
+                ],
+                "related_keywords": [
+                    "immunotherapies"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cancerresearch.org/en-us/immunotherapy/what-is-immunotherapy&tbm=ilp&ilps=ADNMCi1cffjh90QHEinWuDXsI8LEm_pTnA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mYOVF33Doq0J:https://www.cancerresearch.org/en-us/immunotherapy/what-is-immunotherapy+&cd=18&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Why Cancer Immunotherapy? - Cancer Research Institute (CRI)",
+                    "link": "https://www.cancerresearch.org/en-us/immunotherapy/why-immunotherapy",
+                    "displayed_link": "https://www.cancerresearch.org › ... › Immunotherapy",
+                    "snippet": "Immunotherapy enables the immune system to recognize and target cancer cells, making it a universal answer to cancer. · The list of cancers that are currently ...",
+                    "snippet_highlighted_words": [
+                        "Immunotherapy"
+                    ],
+                    "about_this_result": {
+                        "source": {
+                            "description": "The Cancer Research Institute is a US non-profit organization funding cancer research and based in New York City.",
+                            "icon": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/49392c4d95e1e851e94bba369455815ad7f9b2c7c775e7e35c31eabf7eaffae0d53ae9d29397e79ecaa7b9f57074f17db9fa840f5100e1a9bf92eb3b4c02177362f20631090cb21f.png"
+                        },
+                        "keywords": [
+                            "immunotherapy"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.cancerresearch.org/en-us/immunotherapy/why-immunotherapy&tbm=ilp&ilps=ADNMCi0x1SsCgGtteXhl0IyoE2FN4XgEIw",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RjjTzyd5fk0J:https://www.cancerresearch.org/en-us/immunotherapy/why-immunotherapy+&cd=19&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Immunotherapy Treatment - MD Anderson",
+            "link": "https://www.mdanderson.org/treatment-options/immunotherapy.html",
+            "displayed_link": "https://www.mdanderson.org › treatment-options › imm...",
+            "snippet": "The immune system finds and defends the body from infection and disease. Cancer is a complex disease that can evade and outsmart the immune system.",
+            "about_this_result": {
+                "source": {
+                    "description": "The University of Texas MD Anderson Cancer Center is a comprehensive cancer center in Houston, Texas. It is the largest cancer center in the U.S. and one of the original three comprehensive cancer centers in the country.",
+                    "icon": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/49392c4d95e1e851e94bba369455815ab6ac5f95c1ea7ca4ff3df79f299c4b24fb06cef054f8aa2340ff84a50a5900b6.png"
+                },
+                "keywords": [
+                    "immunotherapy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mdanderson.org/treatment-options/immunotherapy.html&tbm=ilp&ilps=ADNMCi3PwcetMH5Aajfzfu0B7_uPjvfNlw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RQ87Qj-SZgoJ:https://www.mdanderson.org/treatment-options/immunotherapy.html+&cd=20&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.mdanderson.org/treatment-options/immunotherapy.html+Immunotherapy"
+        },
+        {
+            "position": 6,
+            "title": "Immunotherapy To Treat Cancer: Options & Side Effects | CTCA",
+            "link": "https://www.cancercenter.com/treatment-options/precision-medicine/immunotherapy",
+            "displayed_link": "https://www.cancercenter.com › ... › Precision medicine",
+            "date": "Mar 2, 2022",
+            "snippet": "Immunotherapy is a broad category of cancer therapies that triggers the body's immune system to fight cancer cells.",
+            "snippet_highlighted_words": [
+                "Immunotherapy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Cancer Treatment Centers of America, headquartered in Boca Raton, Florida, is a national, for-profit network of five comprehensive cancer care and research centers and three out patient care centers that serves cancer patients throughout the United States.\nCTCA was originally headquartered in Schaumburg, Illinois.",
+                    "icon": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/49392c4d95e1e851e94bba369455815a5445d6f503ad1831ff2c021bec7fb2af61f36de0a536ee703f5e625ed64969b0.png"
+                },
+                "keywords": [
+                    "immunotherapy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cancercenter.com/treatment-options/precision-medicine/immunotherapy&tbm=ilp&ilps=ADNMCi1h5L-7f3XzM17c_Ks55QXMXhHV3g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FzkCDksqsn8J:https://www.cancercenter.com/treatment-options/precision-medicine/immunotherapy+&cd=21&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Immunotherapy | Why It Is Effective Against Cancer | LLS",
+            "link": "https://www.lls.org/treatment/types-treatment/immunotherapy",
+            "displayed_link": "https://www.lls.org › treatment › types-treatment › imm...",
+            "snippet": "Immunotherapy, also called biological therapy, utilizes your own immune system to fight cancer. It generally results in fewer short-term side effects than ...",
+            "snippet_highlighted_words": [
+                "Immunotherapy"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Types Of Immunotherapies",
+                        "link": "https://www.lls.org/treatment/types-treatment/immunotherapy#:~:text=Types%20of%20Immunotherapies"
+                    },
+                    {
+                        "title": "Monoclonal Antibody...",
+                        "link": "https://www.lls.org/treatment/types-treatment/immunotherapy#:~:text=Monoclonal%20Antibody%20Treatment"
+                    },
+                    {
+                        "title": "Radioimmunotherapy",
+                        "link": "https://www.lls.org/treatment/types-treatment/immunotherapy#:~:text=Radioimmunotherapy,-Radioimmunotherapy"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Leukemia & Lymphoma Society, a 501 charitable organization founded in 1949, is the largest voluntary health organization dedicated to fighting blood cancer in the world. The LLS's mission is to cure leukemia, lymphoma, Hodgkin's lymphoma and myeloma, and improve the quality of life of patients and their families.",
+                    "icon": "https://serpapi.com/searches/62ae5d915fc493df159c67a0/images/49392c4d95e1e851e94bba369455815a2641c7aed76764663ab526ed1ffb87a8efd0f4386dce0a1944fbde83ada99d9b.png"
+                },
+                "keywords": [
+                    "immunotherapy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.lls.org/treatment/types-treatment/immunotherapy&tbm=ilp&ilps=ADNMCi0xqB5C8elx3BnsYVn-mNC-ULYmIA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:s90CrflW_UMJ:https://www.lls.org/treatment/types-treatment/immunotherapy+&cd=22&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "immunotherapy side effects",
+            "link": "https://www.google.com/search?q=Immunotherapy+side+effects&sa=X&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ1QJ6BAhCEAE"
+        },
+        {
+            "query": "immunotherapy drugs",
+            "link": "https://www.google.com/search?q=Immunotherapy+drugs&sa=X&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ1QJ6BAhBEAE"
+        },
+        {
+            "query": "can immunotherapy cure stage 4 cancer",
+            "link": "https://www.google.com/search?q=Can+immunotherapy+cure+stage+4+cancer&sa=X&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ1QJ6BAhAEAE"
+        },
+        {
+            "query": "immunotherapy cost",
+            "link": "https://www.google.com/search?q=Immunotherapy+cost&sa=X&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ1QJ6BAg_EAE"
+        },
+        {
+            "query": "immunotherapy vs chemotherapy",
+            "link": "https://www.google.com/search?q=Immunotherapy+vs+chemotherapy&sa=X&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ1QJ6BAg8EAE"
+        },
+        {
+            "query": "what is immunotherapy for cancer",
+            "link": "https://www.google.com/search?q=What+is+immunotherapy+for+cancer&sa=X&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "who qualifies for immunotherapy",
+            "link": "https://www.google.com/search?q=Who+qualifies+for+immunotherapy&sa=X&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "how is immunotherapy done",
+            "link": "https://www.google.com/search?q=How+is+immunotherapy+Done&sa=X&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ1QJ6BAgxEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Immunotherapy&ei=kl2uYsblEYbFqtsP57KkyA4&start=10&sa=N&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ8NMDegQIAhBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Immunotherapy&ei=kl2uYsblEYbFqtsP57KkyA4&start=10&sa=N&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ8tMDegQIAhA4",
+            "3": "https://www.google.com/search?q=Immunotherapy&ei=kl2uYsblEYbFqtsP57KkyA4&start=20&sa=N&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ8tMDegQIAhA6",
+            "4": "https://www.google.com/search?q=Immunotherapy&ei=kl2uYsblEYbFqtsP57KkyA4&start=30&sa=N&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ8tMDegQIAhA8",
+            "5": "https://www.google.com/search?q=Immunotherapy&ei=kl2uYsblEYbFqtsP57KkyA4&start=40&sa=N&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ8tMDegQIAhA-",
+            "6": "https://www.google.com/search?q=Immunotherapy&ei=kl2uYsblEYbFqtsP57KkyA4&start=50&sa=N&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ8tMDegQIAhBA",
+            "7": "https://www.google.com/search?q=Immunotherapy&ei=kl2uYsblEYbFqtsP57KkyA4&start=60&sa=N&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ8tMDegQIAhBC",
+            "8": "https://www.google.com/search?q=Immunotherapy&ei=kl2uYsblEYbFqtsP57KkyA4&start=70&sa=N&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ8tMDegQIAhBE",
+            "9": "https://www.google.com/search?q=Immunotherapy&ei=kl2uYsblEYbFqtsP57KkyA4&start=80&sa=N&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ8tMDegQIAhBG",
+            "10": "https://www.google.com/search?q=Immunotherapy&ei=kl2uYsblEYbFqtsP57KkyA4&start=90&sa=N&ved=2ahUKEwjG9qXakbj4AhWGomoFHWcZCekQ8tMDegQIAhBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Immunotherapy&start=90"
+        }
+    }
+}

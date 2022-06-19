@@ -1,0 +1,302 @@
+{
+    "search_metadata": {
+        "id": "62ae5d6ec56d9308640eb216",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d12dfb376947f740/62ae5d6ec56d9308640eb216.json",
+        "created_at": "2022-06-18 23:19:10 UTC",
+        "processed_at": "2022-06-18 23:19:10 UTC",
+        "google_url": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&oq=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&hl=ru&gl=ru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d12dfb376947f740/62ae5d6ec56d9308640eb216.html",
+        "total_time_taken": 3.77
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Искусственное мясо",
+        "google_domain": "google.com",
+        "hl": "ru",
+        "gl": "ru",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Искусственное мясо",
+        "total_results": 681000,
+        "time_taken_displayed": 0.47
+    },
+    "knowledge_graph": {
+        "title": "Искусственное мясо",
+        "header_images": [
+            {
+                "source": "https://www.marieclaire.ru/stil-zjizny/iskusstvennoe-myaso-i-lyudi-syityi-i-ovtsyi-tselyi/"
+            },
+            {
+                "source": "https://foodbay.com/wiki/masnaja-industrija/2017/05/23/iskusstvennoe-myaso/"
+            },
+            {
+                "source": "https://hightech.fm/2020/07/16/beyond-meat-russia-factory"
+            },
+            {
+                "source": "https://aggeek.net/ru-blog/kak-vyraschivayut-i-skolko-stoit-myaso-iz-probirki"
+            }
+        ],
+        "description": "Искусственное мясо, также известное как культивируемое мясо или мясо из пробирки, — мясо, выращиваемое в лабораторных условиях в виде культуры клеток, которое никогда не было частью живущего, полноценного животного.",
+        "source": {
+            "name": "Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D1%8F%D1%81%D0%BE"
+        },
+        "Похожие_запросы": [
+            {
+                "name": "аналог мяса",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%B0%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3+%D0%BC%D1%8F%D1%81%D0%B0&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgDFRAO_5CgFFOU1POqIbb7fFk3M-y6Z49xFjyIBUkVLvSGLi1vSoP1NQiMK07dhlRIu4lDhpPRG7YpNKc-fmhvlymUiZTxHtUr1a7uYqUa715hSxL-KlmEp_HTg-gReyVMFgHZdliIWfADWOKKx2J4S1l2F2Q7ZCmz99uji7CbNj9Vf6iwTd-bQAHEaoc1W_weDLCogRYzEiYuY0VYSR_gieHWuaYgPR1QUSrVg330vqRRCUBuwGKNgY5UYONupM3uT6XWjh7xTvutMNFDlmbBmSJP5v&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4QxA16BAhZEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B0%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3+%D0%BC%D1%8F%D1%81%D0%B0&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgDFRAO_5CgFFOU1POqIbb7fFk3M-y6Z49xFjyIBUkVLvSGLi1vSoP1NQiMK07dhlRIu4lDhpPRG7YpNKc-fmhvlymUiZTxHtUr1a7uYqUa715hSxL-KlmEp_HTg-gReyVMFgHZdliIWfADWOKKx2J4S1l2F2Q7ZCmz99uji7CbNj9Vf6iwTd-bQAHEaoc1W_weDLCogRYzEiYuY0VYSR_gieHWuaYgPR1QUSrVg330vqRRCUBuwGKNgY5UYONupM3uT6XWjh7xTvutMNFDlmbBmSJP5v",
+                "image": "https://serpapi.com/searches/62ae5d6ec56d9308640eb216/images/071da39d3d094d66be3c85025ba2c251d8212722a415277ff052ada269d98319c67822584d281ae5bd5176a581275eac59c400ae069c9f45.jpeg"
+            },
+            {
+                "name": "Plant‑based meat",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+plant-based+meat&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHrkfMsCOA04DbBIvRkcVpBigOqTeVstXWTdjDD5x8u2aJjYatdxbVuQsDa1rGzjIBzXhLSDxWWfziYA-U_lpLwrSJH9Ud0PmwWC1RJ8LnDcIJx7oeBxxQuskuDVNqvHEBdXUEisawMV2akbmPgHwKH7NA7N8S2ERNrP9-gf7mrgtA86r68t4ei39VLXbok9s9U-4w7qqh-_zWYdLrRpa6SAuSL0-lYYHHiI7WMg-519h9LznQrBOELxVFWKfRzWDxvzXF929gqzGk_4sPmuJYZtwJ4A9Vlk3l6DrHz2tbt57jhJg95yZaG5oTfRaqnwrY6EEs5o%3D&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4QxA16BAhZEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+plant-based+meat&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHrkfMsCOA04DbBIvRkcVpBigOqTeVstXWTdjDD5x8u2aJjYatdxbVuQsDa1rGzjIBzXhLSDxWWfziYA-U_lpLwrSJH9Ud0PmwWC1RJ8LnDcIJx7oeBxxQuskuDVNqvHEBdXUEisawMV2akbmPgHwKH7NA7N8S2ERNrP9-gf7mrgtA86r68t4ei39VLXbok9s9U-4w7qqh-_zWYdLrRpa6SAuSL0-lYYHHiI7WMg-519h9LznQrBOELxVFWKfRzWDxvzXF929gqzGk_4sPmuJYZtwJ4A9Vlk3l6DrHz2tbt57jhJg95yZaG5oTfRaqnwrY6EEs5o%3D",
+                "image": "https://serpapi.com/searches/62ae5d6ec56d9308640eb216/images/071da39d3d094d66be3c85025ba2c251d8212722a415277ff052ada269d98319c67822584d281ae533f3b34e092f3c69dc7abbeff831c584.jpeg"
+            },
+            {
+                "name": "Мясо",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9C%D1%8F%D1%81%D0%BE&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRMbG_5r9pxT42KbLjoYv-U7kMGB-dU9JHxcKCRGOHRPmBME7gd8GsZ2aP9RKxvbPl8rV_n8gH20kB9ZoSljRgnM64V0xyOeT-REGnLTOW0Aibuzr29NaP-n-uEmO1mbZFGl46zneMr3kHBieMg0_3ApIr1rfo8B_xn-Ev8hxSbCn0iycwc68pjyFLYv8l0dMivxZK_twUi-qXESsXIF0somVFNm-NhGdvIg781Of_72mYaTLma2io1QcZFaK2K_HmGo47c%3D&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4QxA16BAhZEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%9C%D1%8F%D1%81%D0%BE&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdRMbG_5r9pxT42KbLjoYv-U7kMGB-dU9JHxcKCRGOHRPmBME7gd8GsZ2aP9RKxvbPl8rV_n8gH20kB9ZoSljRgnM64V0xyOeT-REGnLTOW0Aibuzr29NaP-n-uEmO1mbZFGl46zneMr3kHBieMg0_3ApIr1rfo8B_xn-Ev8hxSbCn0iycwc68pjyFLYv8l0dMivxZK_twUi-qXESsXIF0somVFNm-NhGdvIg781Of_72mYaTLma2io1QcZFaK2K_HmGo47c%3D",
+                "image": "https://serpapi.com/searches/62ae5d6ec56d9308640eb216/images/071da39d3d094d66be3c85025ba2c251d8212722a415277ff052ada269d98319c67822584d281ae5569eaecdc7002c2e2724080b8cd4a8ae.jpeg"
+            },
+            {
+                "name": "Sustainable meat",
+                "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+sustainable+meat&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHu259Lw5aJvUn7rH9yqO2yygyy2HZ8WHb49GXmwBRxC2gstv0KlspCEKc0dOJm0Dn_7-cxlyOrSIr5CMEWaxxWC5GEkx61SKgL8fvhK3xWBmY4-WmDXmKvSdNrbTvYhYEgIY9voS5NOn9tAEQFteHYPJNjewRFXmWMC-B8XDokv91-HwSJqmiWPAzYZW57B55m5NIfRBmb4hrQhmPGtjaAz7RFLQV9QNtHT1Vftva50nBJAO9FW0KSn4UHtYKXH3sfpNmSJYUn6DJrSNUhiSbu18h3XqPiFb66ZcNQlmuqH6W-LFxEnTBzLRUGLM0UxRKt4pUa4%3D&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4QxA16BAhZEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+sustainable+meat&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHu259Lw5aJvUn7rH9yqO2yygyy2HZ8WHb49GXmwBRxC2gstv0KlspCEKc0dOJm0Dn_7-cxlyOrSIr5CMEWaxxWC5GEkx61SKgL8fvhK3xWBmY4-WmDXmKvSdNrbTvYhYEgIY9voS5NOn9tAEQFteHYPJNjewRFXmWMC-B8XDokv91-HwSJqmiWPAzYZW57B55m5NIfRBmb4hrQhmPGtjaAz7RFLQV9QNtHT1Vftva50nBJAO9FW0KSn4UHtYKXH3sfpNmSJYUn6DJrSNUhiSbu18h3XqPiFb66ZcNQlmuqH6W-LFxEnTBzLRUGLM0UxRKt4pUa4%3D",
+                "image": "https://serpapi.com/searches/62ae5d6ec56d9308640eb216/images/071da39d3d094d66be3c85025ba2c251d8212722a415277ff052ada269d98319c67822584d281ae5f0f4ed44523b9394f73cad4ccc1a6a83.jpeg"
+            }
+        ],
+        "Похожие_запросы_link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&stick=H4sIAAAAAAAAAONgFuLWT9c3NDLITco1SlZC5mgJBmempJYnVhb7pVaUBJekFhQvYlW-MONi44VdF5svNgJh04VNF7Ze2AuE-y5sVbiw52I_UHLfDlZGAOXWVwFYAAAA&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4QMSgAegQIWRAB",
+        "Похожие_запросы_stick": "H4sIAAAAAAAAAONgFuLWT9c3NDLITco1SlZC5mgJBmempJYnVhb7pVaUBJekFhQvYlW-MONi44VdF5svNgJh04VNF7Ze2AuE-y5sVbiw52I_UHLfDlZGAOXWVwFYAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Искусственное мясо: как его делают в России",
+            "link": "https://www.youtube.com/watch?v=CS0pf-2EqiQ",
+            "thumbnail": "https://serpapi.com/searches/62ae5d6ec56d9308640eb216/images/8c62fd8bad5db6c736d3d893977dd3545e3bbc2cbe29ad67cf0b23d2320737cb.jpeg",
+            "channel": "РБК Тренды",
+            "duration": "23:54",
+            "platform": "YouTube",
+            "date": "12 мар. 2020 г."
+        },
+        {
+            "position": 2,
+            "title": "Пища будущего. Как выращивают искусственное мясо в ...",
+            "link": "https://www.youtube.com/watch?v=QI-a6Dj5_eM",
+            "thumbnail": "https://serpapi.com/searches/62ae5d6ec56d9308640eb216/images/8c62fd8bad5db6c70db6e6552a0a245306f0408f95c8ff1ff8ae664831b771a0.jpeg",
+            "channel": "НЕискусственный ИНТЕЛЛЕКТ",
+            "duration": "6:08",
+            "platform": "YouTube",
+            "date": "28 авг. 2020 г."
+        },
+        {
+            "position": 3,
+            "title": "Искусственное мясо - еда будущего?",
+            "link": "https://www.youtube.com/watch?v=2qxnCEwRSMA",
+            "thumbnail": "https://serpapi.com/searches/62ae5d6ec56d9308640eb216/images/8c62fd8bad5db6c7bfb2b942f6788151e5ddc30d8f26dd39ad7febca6dd4c9fe.jpeg",
+            "channel": "EVFUTURE: Технологии будущего",
+            "duration": "8:49",
+            "platform": "YouTube",
+            "date": "21 июл. 2021 г."
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Сколько стоит искусственное мясо?",
+            "snippet": "Все эти стартапы уже привлекают десятки миллионов долларов инвестиций, хотя пока вкусом их продуктов могут часто наслаждаться разве что сами меценаты-апологеты - такие, как Билл Гейтс. По данным на март 2021 года стейк Meatable стоил 450 долларов за 100 грамм.15 янв. 2022 г.",
+            "title": "Мясо из пробирки: от странной еды не для всех к ... - BBC",
+            "link": "https://www.bbc.com/russian/features-59958379",
+            "displayed_link": "https://www.bbc.com › russian › features-59958379"
+        },
+        {
+            "question": "Как сделать искусственное мясо?",
+            "snippet": "Процесс производства мяса в пробирке включает в себя получение стволовых клеток из мышц животных и применение белка, который позволяет клеткам вырастать в большие куски мяса. Получение исходных клеток от животных требуется только один раз, в дальнейшем они уже не нужны — сродни производству йогуртовых культур.",
+            "title": "Искусственное мясо - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D1%8F%D1%81%D0%BE",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Искусственное_мясо"
+        },
+        {
+            "question": "Сколько стоит мясо из пробирки?",
+            "snippet": "Почему мясо из пробирки стоит так дорого Самые простые стоят от $100 тысяч — свыше 7 млн рублей, более вместительные — $300–400 тысяч, 21–28 млн рублей.22 июл. 2020 г.",
+            "title": "«Килограмм мяса из пробирки — это месяцы работы и тысячи ...",
+            "link": "https://vc.ru/food/143451-kilogramm-myasa-iz-probirki-eto-mesyacy-raboty-i-tysyachi-dollarov-rossiyskiy-startap-o-napechatannom-myase-dlya-kfc",
+            "displayed_link": "https://vc.ru › food › 143451-kilogramm-myasa-iz-probir..."
+        },
+        {
+            "question": "Где купить искусственное мясо?",
+            "snippet": "В России растительное мясо можно попробовать в сетях TGI Friday's, Pizza Hut и «Теремок». Также полуфабрикат можно купить в продуктовых магазинах: «Азбуке вкуса», «Глобусе», «Вкусвилле». Сети ресторанов быстрого питания регулярно вводят искусственное мясо или его альтернативы в список своих блюд.16 июл. 2020 г.",
+            "title": "Искусственное мясо в России: кто и как его делает? - Хайтек",
+            "link": "https://hightech.fm/2020/07/16/beyond-meat-russia-factory",
+            "displayed_link": "https://hightech.fm › beyond-meat-russia-factory"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Искусственное мясо - Википедия",
+            "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D1%8F%D1%81%D0%BE",
+            "displayed_link": "https://ru.wikipedia.org › wiki › Искусственное_мясо",
+            "snippet": "Искусственное мясо, также известное как культивируемое мясо или мясо из пробирки, — мясо, выращиваемое в лабораторных условиях в виде культуры клеток, ...",
+            "snippet_highlighted_words": [
+                "Искусственное мясо"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Искусственное мясо захватывает мир. Почему Россия ...",
+            "link": "https://lenta.ru/articles/2021/07/23/myaso/",
+            "displayed_link": "https://lenta.ru › articles › 2021/07/23 › myaso",
+            "date": "23 июл. 2021 г.",
+            "snippet": "Искусственное мясо появилось в меню мировых сетей фастфуда несколько лет назад. Его основные производители — это Impossible Foods и Beyond Meat.",
+            "snippet_highlighted_words": [
+                "Искусственное мясо"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Мясо из пробирки: от странной еды не для всех к ... - BBC",
+            "link": "https://www.bbc.com/russian/features-59958379",
+            "displayed_link": "https://www.bbc.com › russian › features-59958379",
+            "date": "15 янв. 2022 г.",
+            "snippet": "Мясо из пробирки постепенно захватывает мир: ещё недавно оно казалось ... обеспечения производств искусственного мяса - один из острейших.",
+            "snippet_highlighted_words": [
+                "искусственного мяса"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "«Выращивать искусственное мясо так же сложно, как ...",
+            "link": "https://vc.ru/opinions/279946-vyrashchivat-iskusstvennoe-myaso-tak-zhe-slozhno-kak-otpravit-cheloveka-na-lunu",
+            "displayed_link": "https://vc.ru › opinions › 279946-vyrashchivat-iskusstv...",
+            "date": "11 авг. 2021 г.",
+            "snippet": "А израильский стартап Future Meat планирует поставлять мясо закусочным США в 2022 году. Оба пока что ожидают разрешения властей. Стартапы вряд ...",
+            "snippet_highlighted_words": [
+                "мясо"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Чем израильское мясо из пробирки отличается от ...",
+            "link": "https://www.vedomosti.ru/business/articles/2021/09/29/889002-izrailskoe-myaso",
+            "displayed_link": "https://www.vedomosti.ru › 889002-izrailskoe-myaso",
+            "date": "29 сент. 2021 г.",
+            "snippet": "Либо искусственное мясо на основе растений из местных оранжерей, либо, если хочется настоящего мяса, придется выращивать стейки без коровы, ...",
+            "snippet_highlighted_words": [
+                "искусственное мясо"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Что такое искусственное мясо и с чем его едят - Itmo.News",
+            "link": "https://news.itmo.ru/ru/science/life_science/news/9853/",
+            "displayed_link": "https://news.itmo.ru › science › life_science › news",
+            "date": "29 окт. 2020 г.",
+            "snippet": "Что такое искусственное мясо? ... Мясо, выращенное в пробирке из живой клетки. Пробирка находится в реакторе. Представьте куриное яйцо — это ...",
+            "snippet_highlighted_words": [
+                "искусственное мясо"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "Искусственное мясо в России: кто и как его делает? - Хайтек",
+            "link": "https://hightech.fm/2020/07/16/beyond-meat-russia-factory",
+            "displayed_link": "https://hightech.fm › beyond-meat-russia-factory",
+            "date": "16 июл. 2020 г.",
+            "snippet": "Что такое искусственное мясо? Это продукт, который выращивают в лабораторных условиях в виде культуры клеток. В данный момент таким образом ...",
+            "snippet_highlighted_words": [
+                "искусственное мясо"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Как в России делают искусственное мясо | РБК Тренды",
+            "link": "https://trends.rbc.ru/trends/industry/5f0c48ec9a79475877a0ece5",
+            "displayed_link": "https://trends.rbc.ru › РБК Тренды › Индустрия 4.0",
+            "snippet": "Как делают искусственное мясо? ... Чаще всего растительное мясо делают при помощи экструзии – это способ изготовления пищевых продуктов, когда исходное сырье ...",
+            "snippet_highlighted_words": [
+                "искусственное мясо"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "Искусственное мясо выходит на новый уровень",
+            "link": "https://www.kommersant.ru/doc/4671137",
+            "displayed_link": "https://www.kommersant.ru › \"Коммерсантъ FM\"",
+            "date": "31 янв. 2021 г.",
+            "snippet": "По прогнозу, Farm Animal Investment Risk & Return уже через четыре года рынок искусственного мяса вырастет до $18 млрд. И это может быть вполне ...",
+            "snippet_highlighted_words": [
+                "искусственного мяса"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "как сделать искусственное мясо",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%9A%D0%B0%D0%BA+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q1QJ6BAhHEAE"
+        },
+        {
+            "query": "искусственное мясо плюсы и минусы",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+%D0%BF%D0%BB%D1%8E%D1%81%D1%8B+%D0%B8+%D0%BC%D0%B8%D0%BD%D1%83%D1%81%D1%8B&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q1QJ6BAhGEAE"
+        },
+        {
+            "query": "искусственное мясо купить",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q1QJ6BAhDEAE"
+        },
+        {
+            "query": "искусственное мясо состав",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q1QJ6BAg7EAE"
+        },
+        {
+            "query": "искусственное мясо beyond meat",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+Beyond+Meat&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q1QJ6BAg0EAE"
+        },
+        {
+            "query": "искусственное мясо в россии",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+%D0%B2+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q1QJ6BAgzEAE"
+        },
+        {
+            "query": "искусственное мясо название",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q1QJ6BAgyEAE"
+        },
+        {
+            "query": "искусственное мясо цена",
+            "link": "https://www.google.com/search?gl=ru&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE+%D1%86%D0%B5%D0%BD%D0%B0&sa=X&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q1QJ6BAgxEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&gl=ru&hl=ru&ei=cV2uYv-WMKejqtsPveC48A0&start=10&sa=N&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&gl=ru&hl=ru&ei=cV2uYv-WMKejqtsPveC48A0&start=10&sa=N&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&gl=ru&hl=ru&ei=cV2uYv-WMKejqtsPveC48A0&start=20&sa=N&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&gl=ru&hl=ru&ei=cV2uYv-WMKejqtsPveC48A0&start=30&sa=N&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&gl=ru&hl=ru&ei=cV2uYv-WMKejqtsPveC48A0&start=40&sa=N&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&gl=ru&hl=ru&ei=cV2uYv-WMKejqtsPveC48A0&start=50&sa=N&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&gl=ru&hl=ru&ei=cV2uYv-WMKejqtsPveC48A0&start=60&sa=N&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&gl=ru&hl=ru&ei=cV2uYv-WMKejqtsPveC48A0&start=70&sa=N&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&gl=ru&hl=ru&ei=cV2uYv-WMKejqtsPveC48A0&start=80&sa=N&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&gl=ru&hl=ru&ei=cV2uYv-WMKejqtsPveC48A0&start=90&sa=N&ved=2ahUKEwi_k-bKkbj4AhWnkWoFHT0wDt4Q8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ru&google_domain=google.com&hl=ru&q=%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D1%8F%D1%81%D0%BE&start=90"
+        }
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "search_metadata": {
+        "id": "62ae5d850ead41ffd155eedb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f3273a46aa1a7a45/62ae5d850ead41ffd155eedb.json",
+        "created_at": "2022-06-18 23:19:33 UTC",
+        "processed_at": "2022-06-18 23:19:33 UTC",
+        "google_url": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&oq=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&hl=ar&gl=eg&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f3273a46aa1a7a45/62ae5d850ead41ffd155eedb.html",
+        "total_time_taken": 1.24
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "هندسة الأنسجة",
+        "google_domain": "google.com",
+        "hl": "ar",
+        "gl": "eg",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "هندسة الأنسجة",
+        "total_results": 638000,
+        "time_taken_displayed": 0.43
+    },
+    "knowledge_graph": {
+        "title": "هندسة الأنسجة",
+        "header_images": [
+            {
+                "source": "https://www.ibelieveinsci.com/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9/"
+            },
+            {
+                "source": "https://stringfixer.com/ar/Tissue_engineering"
+            },
+            {
+                "source": "https://www.hazemsakeek.net/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%86%D8%B3%D8%AC-%D8%A7%D9%84%D8%AD%D9%8A%D8%A9-tissue-engineering/"
+            },
+            {
+                "source": "https://www.ibelieveinsci.com/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9/"
+            },
+            {
+                "source": "https://ar.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9"
+            }
+        ],
+        "description": "هندسة النسج تختص بالاستفادة من علم الخلايا وعلم الهندسة الطبية الحيوية وعلم المواد الحيوية والكيمياء الحيوية يقوم المهندسون الجينيون بإنماء الأنسجة في المخبر بهدف استبدالها بأعضاء وأنسجة متضررة في جسم الإنسان الحيوية للأنسجة الحيوية المختلفة. كما يدرس هذا العلم ما يعرف بجزيئة حيوية وما تتكون منه.",
+        "source": {
+            "name": "ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9"
+        },
+        "يبحث_الأشخاص_أيضًا_عن": [
+            {
+                "name": "ميكانيكا حيوية",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D8%A7+%D8%AD%D9%8A%D9%88%D9%8A%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbq0VVIRJIqQ6xWfdsIJwKH1wUUai3sM43y65nfSCKomUAvknuIpdZsgrLXxMZGIGvcPTZTatT6HfS6eF8Hmj3v695-wei68zYpWQkrLHHSgtXxCFS5U0j5N6l_6wiqMVZfNMbOfkS-r012ngL8lcmRQj1WNeS6CDZVCRZsk1c_j1pb2T1047BXnc_IW2xFdrBudHyR3o-nNbsgV3ykantUZ8xCrh8-bOm_IFAjiOKeQUetLZPAI0q9ttzwNpAhRaBwYi8m1qKBwRzztyI-1t7Bxu2Zm&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQxA16BAhCEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D8%A7+%D8%AD%D9%8A%D9%88%D9%8A%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbq0VVIRJIqQ6xWfdsIJwKH1wUUai3sM43y65nfSCKomUAvknuIpdZsgrLXxMZGIGvcPTZTatT6HfS6eF8Hmj3v695-wei68zYpWQkrLHHSgtXxCFS5U0j5N6l_6wiqMVZfNMbOfkS-r012ngL8lcmRQj1WNeS6CDZVCRZsk1c_j1pb2T1047BXnc_IW2xFdrBudHyR3o-nNbsgV3ykantUZ8xCrh8-bOm_IFAjiOKeQUetLZPAI0q9ttzwNpAhRaBwYi8m1qKBwRzztyI-1t7Bxu2Zm",
+                "image": "https://serpapi.com/searches/62ae5d850ead41ffd155eedb/images/5b42ac8150cd892001bed187fecd68215511f69ef6fc7e245ea7b03d3ff845b3221f064f8ac70bf1d0ae021b386c0d68729efc858b625f8710fd471b5fa1aaa9.jpeg"
+            },
+            {
+                "name": "هندسة طبية حيوية",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%B7%D8%A8%D9%8A%D8%A9+%D8%AD%D9%8A%D9%88%D9%8A%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUR-x44dviPm6XT4JpzGXaqKs-ryjLKF07uLGGq7tBOoHV9pmXwedA8TcwYM5UskDfVJhXMsOBFzqr7HSXmIt3kzVQiQTcb3Nu_I10HV-FJ2coPtIOoXey3t0tkcXXVCjd1101xZmF5IOmlGgNQf6VbsEqVhh88UxEHtmeNmX2vWfcMHEgw2U3Imw5ZkmcWrwbOLWIXvmMTPjLu86ec5rRNi-GiccGIVl51PcovIzf1o8Zy1bt9eFx8bhcAg43TrS2eFpcG63F4DtBRao7dMg14tEw_I&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQxA16BAhCEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%B7%D8%A8%D9%8A%D8%A9+%D8%AD%D9%8A%D9%88%D9%8A%D8%A9&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdUR-x44dviPm6XT4JpzGXaqKs-ryjLKF07uLGGq7tBOoHV9pmXwedA8TcwYM5UskDfVJhXMsOBFzqr7HSXmIt3kzVQiQTcb3Nu_I10HV-FJ2coPtIOoXey3t0tkcXXVCjd1101xZmF5IOmlGgNQf6VbsEqVhh88UxEHtmeNmX2vWfcMHEgw2U3Imw5ZkmcWrwbOLWIXvmMTPjLu86ec5rRNi-GiccGIVl51PcovIzf1o8Zy1bt9eFx8bhcAg43TrS2eFpcG63F4DtBRao7dMg14tEw_I",
+                "image": "https://serpapi.com/searches/62ae5d850ead41ffd155eedb/images/5b42ac8150cd892001bed187fecd68215511f69ef6fc7e245ea7b03d3ff845b3221f064f8ac70bf1d0ae021b386c0d68729efc858b625f87473aaef034690874.jpeg"
+            },
+            {
+                "name": "هندسة",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbsBKtY2dF_W3SKW0ewOdeB1K5L6QcQC8lLiqLbdv7JJyaryCG8czjubBMj762NbJSALycRNiS7ZjrVVl-V4IDoYjuTaTPJEERK7GySmCWecy5rG2xF0FqKQHg_KrtYanjZzPe8holZE5uwkbAAjSNjA6gFRrzP01a5iwLy8aHezW4qSjq3RuJVddfc9S7BkBielN2pOyf6LA6hQkvBiC4yY3C6k1BepMWyZ638WpgaH48FcnbiZpN7bcGQc2YH3jDTnnl8w%3D&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQxA16BAhCEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbsBKtY2dF_W3SKW0ewOdeB1K5L6QcQC8lLiqLbdv7JJyaryCG8czjubBMj762NbJSALycRNiS7ZjrVVl-V4IDoYjuTaTPJEERK7GySmCWecy5rG2xF0FqKQHg_KrtYanjZzPe8holZE5uwkbAAjSNjA6gFRrzP01a5iwLy8aHezW4qSjq3RuJVddfc9S7BkBielN2pOyf6LA6hQkvBiC4yY3C6k1BepMWyZ638WpgaH48FcnbiZpN7bcGQc2YH3jDTnnl8w%3D",
+                "image": "https://serpapi.com/searches/62ae5d850ead41ffd155eedb/images/5b42ac8150cd892001bed187fecd68215511f69ef6fc7e245ea7b03d3ff845b3221f064f8ac70bf1d0ae021b386c0d68729efc858b625f87be46b703536683e7.jpeg"
+            },
+            {
+                "name": "طب التجديد",
+                "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%B7%D8%A8+%D8%A7%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbpDKAvbcVYED__yXG0vZ_FfYNoj-uB_xGfGWN_LahKRLch4a8KZFg8-uYaaxRB8-coqSmhN3HGU9ugjxS3ffdqFwybn5005rbTPBG_rWUNCMJr2yrpZxwYEpTpM4PwauIhfZWQaL6BZ6LY5KU03mt68JkLFeYIvYVv_8lXxu5ghGAgU3Eu3M9X1637x52TaC3x7EI9bcYZhCgrPo2GSHhGrFfLmsQenr_Eeei3VMojIc6FnndKHfijlKG_4xHfAvtglt2lXvVL8oDoEijRCpVIcuTLP-&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQxA16BAhCEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D8%B7%D8%A8+%D8%A7%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbpDKAvbcVYED__yXG0vZ_FfYNoj-uB_xGfGWN_LahKRLch4a8KZFg8-uYaaxRB8-coqSmhN3HGU9ugjxS3ffdqFwybn5005rbTPBG_rWUNCMJr2yrpZxwYEpTpM4PwauIhfZWQaL6BZ6LY5KU03mt68JkLFeYIvYVv_8lXxu5ghGAgU3Eu3M9X1637x52TaC3x7EI9bcYZhCgrPo2GSHhGrFfLmsQenr_Eeei3VMojIc6FnndKHfijlKG_4xHfAvtglt2lXvVL8oDoEijRCpVIcuTLP-",
+                "image": "https://serpapi.com/searches/62ae5d850ead41ffd155eedb/images/5b42ac8150cd892001bed187fecd68215511f69ef6fc7e245ea7b03d3ff845b3221f064f8ac70bf1d0ae021b386c0d68729efc858b625f8709df33b521d4d7f8.jpeg"
+            }
+        ],
+        "يبحث_الأشخاص_أيضًا_عن_link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&stick=H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hWQjC1BIMzU1LLEyuL_VIrSoJLUguKF7FK3my_2XZj_Y3NN1Yq3Fh-s-XGYiB38401N1buYGUEAHo3t8FKAAAA&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQMSgAegQIQhAB",
+        "يبحث_الأشخاص_أيضًا_عن_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCzOK8hWQjC1BIMzU1LLEyuL_VIrSoJLUguKF7FK3my_2XZj_Y3NN1Yq3Fh-s-XGYiB38401N1buYGUEAHo3t8FKAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "هل يمكن لهندسة الأنسجة أن تصبح \"الطب الشخصي المتقدم\"؟",
+            "link": "https://www.ted.com/talks/nina_tandon_could_tissue_engineering_mean_personalized_medicine/transcript?language=ar",
+            "thumbnail": "https://serpapi.com/searches/62ae5d850ead41ffd155eedb/images/9a602f01c50d16becdfd7b4a49af073c6bcbb5a2fb4de2d07cdccece6aae66d5.jpeg",
+            "duration": "6:02",
+            "platform": "TED",
+            "date": "08‏/12‏/2012"
+        },
+        {
+            "position": 2,
+            "title": "هندسة الأنسجة : : إنجازات علمية : : المجد الوثائقية",
+            "link": "https://www.youtube.com/watch?v=GbBQvVN9zmg",
+            "thumbnail": "https://serpapi.com/searches/62ae5d850ead41ffd155eedb/images/9a602f01c50d16bef34643175953bced6942b3c4f9f9527610a56b5047ec882a.jpeg",
+            "channel": "أفلام وثائقية منضبطة شرعياً",
+            "duration": "21:42",
+            "platform": "YouTube",
+            "date": "19‏/02‏/2017"
+        },
+        {
+            "position": 3,
+            "title": "محاضرة د. مزيد فلاح \"هندسة الأنسجة في الطب التجديدي، مستقبل ...",
+            "link": "https://www.youtube.com/watch?v=nJ7gvHYwdVE",
+            "thumbnail": "https://serpapi.com/searches/62ae5d850ead41ffd155eedb/images/9a602f01c50d16be6112046412536dd47cb7d58732cf21eb122cd15c1ffa0a7b.jpeg",
+            "channel": "أكاديمية القاسمي",
+            "duration": "50:42",
+            "platform": "YouTube",
+            "date": "28‏/06‏/2020"
+        },
+        {
+            "position": 4,
+            "title": "هندسة الانسجة - Tissue Engineering - Lec 4 Cell Culture",
+            "link": "https://www.youtube.com/watch?v=HsJUafMaRkk",
+            "thumbnail": "https://serpapi.com/searches/62ae5d850ead41ffd155eedb/images/9a602f01c50d16be34280e943cdb81484c739430821ed87828be854ee44a1c69.jpeg",
+            "channel": "قناة التعليم الألكتروني - الجامعة التكنولوجية",
+            "duration": "26:48",
+            "platform": "YouTube",
+            "date": "18‏/06‏/2020"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "هندسة الأنسجة - ويكيبيديا",
+            "link": "https://ar.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9",
+            "displayed_link": "https://ar.wikipedia.org › wiki › هندسة_الأنسجة",
+            "snippet": "هندسة النسج تختص بالاستفادة من علم الخلايا وعلم الهندسة الطبية الحيوية وعلم المواد الحيوية والكيمياء الحيوية يقوم المهندسون الجينيون بإنماء الأنسجة في ...",
+            "snippet_highlighted_words": [
+                "هندسة",
+                "الهندسة",
+                "الأنسجة"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "هندسة الأنسجة - أنا أصدق العلم",
+            "link": "https://www.ibelieveinsci.com/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9/",
+            "displayed_link": "https://www.ibelieveinsci.com › هندسة-الأنسجة",
+            "snippet": "هندسة الأنسجة هي أحد فروع العلم التي تهتم بتطوير البدائل الحيوية القادرة على حل محل الأنسجة الضامرة أو المريضة في الجسم البشري.",
+            "snippet_highlighted_words": [
+                "هندسة الأنسجة",
+                "الأنسجة"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٩‏/٠٣‏/٢٠١٩ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "هندسة الانسجة - المعرفة",
+            "link": "https://www.marefa.org/%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9/simplified",
+            "displayed_link": "https://www.marefa.org › هندسة_الأنسجة › simplified",
+            "snippet": "هندسة النسج بالإنغليزية: Tissue Engineeringويشمل علم الهندسة الجينية؛ والذي يتضمن تصنيع اللقاحات الجينية، وعلم المعالجة الجينية.ومن التقنيات المثيرة للجدل ...",
+            "snippet_highlighted_words": [
+                "هندسة",
+                "Tissue",
+                "الهندسة"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "هندسة الأنسجة - الدوائر المطبوعة في الأجهزة الطبية",
+            "link": "https://www.arabiomed.com/2021/05/tissue-engineering.html",
+            "displayed_link": "https://www.arabiomed.com › الهندسة الطبية",
+            "snippet": "هو مجال علمي يركز على تطوير بدائل بيولوجية قادرة على أن تحل محل الأنسجة المريضة أو المدمرة في الإنسان. أول مرة ظهر فيها مصطلح هندسة الأنسجة ...",
+            "snippet_highlighted_words": [
+                "الأنسجة",
+                "هندسة الأنسجة"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٣١‏/٠٥‏/٢٠٢١ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "ما هي هندسة الأنسجة - 2022 - أخبار - رئيسي",
+            "link": "https://ar.weblogographic.com/what-is-tissue-engineering",
+            "displayed_link": "https://ar.weblogographic.com › what-is-tissue-engineer...",
+            "snippet": "هندسة الأنسجة هي تصميم وبناء واستخدام الخلايا والمصفوفات بين الخلايا لتنسيق أداء وظائف محددة مميزة للأنسجة.",
+            "snippet_highlighted_words": [
+                "هندسة الأنسجة"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "هندسة النسج الحية Tissue Engineering - شبكة الفيزياء ...",
+            "link": "https://www.hazemsakeek.net/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%86%D8%B3%D8%AC-%D8%A7%D9%84%D8%AD%D9%8A%D8%A9-tissue-engineering/",
+            "displayed_link": "https://www.hazemsakeek.net › ... › مواضيع العدد ٦",
+            "snippet": "هندسة النسج الحية Tissue Engineering. زراعة الأعضاء.. الهندسة الوراثية.. الاستنساخ.. الخلايا الجذعية، مفردات ومصطلحات لا تدأب تطرق آذاننا وتلمحها أنظارنا في ...",
+            "snippet_highlighted_words": [
+                "هندسة",
+                "Tissue Engineering",
+                "الهندسة"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "الطبُ التجديديّ وهندسةُ الأنسجةِ - تطبيقاتٌ طبيةٌ واعدةٌ - ...",
+            "link": "https://www.syr-res.com/article/10646.html",
+            "displayed_link": "https://www.syr-res.com › article",
+            "snippet": "هندسةُ الأنسجةِ هي علمٌ متداخلٌ، ومتعددُ التخصصاتِ، يهدف إلى تطوير بدائل حيوية تهدف إلى استعادة، أو تحسين، أو الحفاظ على وظيفة الأنسجة، ...",
+            "snippet_highlighted_words": [
+                "هندسةُ الأنسجةِ",
+                "الأنسجة"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "٢٣‏/٠٦‏/٢٠١٦ —"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "تعريف هندسة الأنسجة - موضوع",
+            "link": "https://mawdoo3.com/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9",
+            "displayed_link": "https://mawdoo3.com › تعليم › تخصصات جامعية",
+            "snippet": "تعرف هندسة الأنسجة بأنها أحد مجالات الطب التجديدي، وهي تقنية مختصة بتطوير البدائل الحيوية البيولوجية وعوامل وتصميم وبناء الخلايا المكونة للأنسجة، بشكل عام ...",
+            "snippet_highlighted_words": [
+                "هندسة الأنسجة",
+                "للأنسجة"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "مستقبل هندسة الأنسجة",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84+%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "Tissue engineering",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=Tissue+engineering&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "الهندسة العصبية",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%B9%D8%B5%D8%A8%D9%8A%D8%A9&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "أقسام الهندسة الطبية",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A3%D9%82%D8%B3%D8%A7%D9%85+%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "تطبيقات الهندسة الطبية",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ1QJ6BAguEAE"
+        },
+        {
+            "query": "وظائف الهندسة الوراثية",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D9%88%D8%B8%D8%A7%D8%A6%D9%81+%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "الهندسة الوراثية PDF",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9+PDF&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "تاريخ الهندسة الوراثية",
+            "link": "https://www.google.com/search?gl=eg&hl=ar&q=%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE+%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D9%88%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9&sa=X&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ1QJ6BAggEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&gl=eg&hl=ar&ei=hl2uYpCoCqXbwbkPhcy9wAE&start=10&sa=N&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&gl=eg&hl=ar&ei=hl2uYpCoCqXbwbkPhcy9wAE&start=10&sa=N&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&gl=eg&hl=ar&ei=hl2uYpCoCqXbwbkPhcy9wAE&start=20&sa=N&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&gl=eg&hl=ar&ei=hl2uYpCoCqXbwbkPhcy9wAE&start=30&sa=N&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&gl=eg&hl=ar&ei=hl2uYpCoCqXbwbkPhcy9wAE&start=40&sa=N&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&gl=eg&hl=ar&ei=hl2uYpCoCqXbwbkPhcy9wAE&start=50&sa=N&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&gl=eg&hl=ar&ei=hl2uYpCoCqXbwbkPhcy9wAE&start=60&sa=N&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&gl=eg&hl=ar&ei=hl2uYpCoCqXbwbkPhcy9wAE&start=70&sa=N&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&gl=eg&hl=ar&ei=hl2uYpCoCqXbwbkPhcy9wAE&start=80&sa=N&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&gl=eg&hl=ar&ei=hl2uYpCoCqXbwbkPhcy9wAE&start=90&sa=N&ved=2ahUKEwiQg8LUkbj4AhWlbTABHQVmDxgQ8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=eg&google_domain=google.com&hl=ar&q=%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9&start=90"
+        }
+    }
+}

@@ -1,0 +1,161 @@
+---
+title: "sites_scraping"
+output: html_document
+date: '2022-06-06'
+---
+
+```{r setup}
+library(tidyverse)
+library(purrr)
+library(rvest)
+library(robotstxt)
+library(XML)
+library(stringr)
+library(httr)
+library(jsonlite)
+```
+
+
+##get all wikipedia results from google search
+```{r}
+df <- tibble(read_csv("./data/results.csv"))
+wikipedia_df <- df %>% 
+  filter(str_detect(link, ".wikipedia.")) %>%
+  filter(language %in% c("en", "ru", "iw", "ar")) %>%
+  filter(country %in% c("us", "US", "ru", "RU", "il", "IL", "eg", "EG"))
+  
+wikipedia_df <- wikipedia_df %>% select(termId, searchTerm, language, position, title, link)
+wikipedia_df
+write_csv(wikipedia_df, "./data/wikipidia_first.csv")
+
+```
+
+
+
+```{r}
+new_wikipidia_df <- tibble(
+      termID = integer(),
+      searchTerm = character(),
+      language = character(),
+      google_search_position = integer(), 
+      link = character(),
+      img_num = integer(),
+      sections = integer(),
+      references = integer(),
+      word_count = integer(),
+      term_appirance = integer(),
+      text = character()
+    )
+
+```
+
+
+##gather metadata from wikipedia pages
+
+```{r}
+wikipedia_df <- read_csv("./data/wikipidia_first.csv")
+
+for (i in 1:nrow(wikipedia_df)){
+      if(wikipedia_df[i,]$language == "en"){
+        text_path = ".tright+ ul li , p+ ul li , p, h2+ ul li, p+ ol li, h3+ ul li"
+      } else if (wikipedia_df[i,]$language == "ru"){
+        text_path = "p+ ul li , p+ ol li , .tright+ ul li , p, h3+ul li, h2_ul li, p+ ul li, h3+ ul li"
+      } else if (wikipedia_df[i,]$language == "ar"){
+        text_path = "h3+ ul li , p+ ul li , #mw-content-text p , #mw-content-text p font, p+ ol li"
+      } else {
+        text_path = ".tleft~ p , h3+ ul li , p+ ul li , p+ ol li, #mw-content-text p, h3 + ol li"
+      }
+      
+  
+      webPage <- read_html(wikipedia_df[i,]$link)
+      img_num <- length(webPage %>% html_nodes(".thumbimage"))
+      sections <- length(webPage %>% html_nodes("h2 .mw-headline"))+1
+      references <- length(webPage %>% html_nodes("#mw-content-text a"))
+      all_text <- str_replace_all(tolower(paste(webPage %>% html_nodes(text_path) %>% html_text(), collapse = " ")), "[\r\n]", "")
+      term_count <- str_count(all_text, regex(tolower(wikipedia_df[i,]$searchTerm)))
+      
+      new_wikipidia_df <- new_wikipidia_df %>% add_row(
+          termID = wikipedia_df[i,]$termId,
+          searchTerm = wikipedia_df[i,]$searchTerm,
+          language = wikipedia_df[i,]$language,
+          google_search_position = wikipedia_df[i,]$position, 
+          link = wikipedia_df[i,]$link,
+          img_num = img_num,
+          sections = sections,
+          references = references,
+          word_count = lengths(gregexpr("\\W+", all_text)) + 1,
+          term_appirance = term_count,
+          text = all_text
+        )
+    }
+new_wikipidia_df
+
+```
+
+```{r}
+#write_csv(new_wikipidia_df, "./data/wikipidia_DF.csv")
+```
+
+## wikipedia scrape from the new terms we added. 
+```{r}
+
+new_wikipidia_df2 <- tibble(
+      termID = integer(),
+      searchTerm = character(),
+      language = character(),
+      google_search_position = integer(), 
+      link = character(),
+      img_num = integer(),
+      sections = integer(),
+      references = integer(),
+      word_count = integer(),
+      term_appirance = integer(),
+      text = character()
+    )
+```
+
+
+```{r}
+wikipedia_df <- read_csv("./data/more_data.csv")
+
+for (i in 1:nrow(wikipedia_df)){
+      if(wikipedia_df[i,]$language == "en"){
+        text_path = ".tright+ ul li , p+ ul li , p, h2+ ul li, p+ ol li, h3+ ul li"
+      } else if (wikipedia_df[i,]$language == "ru"){
+        text_path = "p+ ul li , p+ ol li , .tright+ ul li , p, h3+ul li, h2_ul li, p+ ul li, h3+ ul li"
+      } else if (wikipedia_df[i,]$language == "ar"){
+        text_path = "h3+ ul li , p+ ul li , #mw-content-text p , #mw-content-text p font, p+ ol li"
+      } else {
+        text_path = ".tleft~ p , h3+ ul li , p+ ul li , p+ ol li, #mw-content-text p, h3 + ol li"
+      }
+      
+      webPage <- read_html(wikipedia_df[i,]$Wikipedia_link)
+      img_num <- length(webPage %>% html_nodes(".thumbimage"))
+      sections <- length(webPage %>% html_nodes("h2 .mw-headline"))+1
+      references <- length(webPage %>% html_nodes("#mw-content-text a"))
+      all_text <- str_replace_all(tolower(paste(webPage %>% html_nodes(text_path) %>% html_text(), collapse = " ")), "[\r\n]", "")
+      term_count <- str_count(all_text, regex(tolower(wikipedia_df[i,]$searchTerm)))
+      
+      new_wikipidia_df2 <- new_wikipidia_df2 %>% add_row(
+          termID = wikipedia_df[i,]$termId,
+          searchTerm = wikipedia_df[i,]$searchTerm,
+          language = wikipedia_df[i,]$language,
+          google_search_position = 0, 
+          link = wikipedia_df[i,]$Wikipedia_link,
+          img_num = img_num,
+          sections = sections,
+          references = references,
+          word_count = lengths(gregexpr("\\W+", all_text)) + 1,
+          term_appirance = term_count,
+          text = all_text
+        )
+    }
+new_wikipidia_df2
+
+```
+```{r}
+write_csv(new_wikipidia_df2, "./data/wikipidia_DF2.csv")
+```
+
+
+

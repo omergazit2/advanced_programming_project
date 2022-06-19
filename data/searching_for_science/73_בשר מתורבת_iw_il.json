@@ -1,0 +1,279 @@
+{
+    "search_metadata": {
+        "id": "62ae5d7329d1778e60d2b55a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/46a6c589a300a745/62ae5d7329d1778e60d2b55a.json",
+        "created_at": "2022-06-18 23:19:15 UTC",
+        "processed_at": "2022-06-18 23:19:15 UTC",
+        "google_url": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&oq=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&hl=iw&gl=il&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/46a6c589a300a745/62ae5d7329d1778e60d2b55a.html",
+        "total_time_taken": 2.28
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "בשר מתורבת",
+        "google_domain": "google.com",
+        "hl": "iw",
+        "gl": "il",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "בשר מתורבת",
+        "total_results": 19300,
+        "time_taken_displayed": 0.38
+    },
+    "knowledge_graph": {
+        "title": "בשר מתורבת",
+        "header_images": [
+            {
+                "source": "https://hi-in.facebook.com/%D7%91%D7%A9%D7%A8-%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-103134634724904/posts/?ref=page_internal"
+            },
+            {
+                "source": "https://www.calcalist.co.il/shopping/article/hk1xxpbs5"
+            },
+            {
+                "source": "https://www.hayadan.org.il/%D7%A1%D7%98%D7%99%D7%99%D7%A7-%D7%91%D7%A6%D7%9C%D7%95%D7%97%D7%99%D7%AA-%D7%9E%D7%93%D7%A2%D7%A0%D7%99-%D7%9E%D7%9B%D7%95%D7%9F-%D7%95%D7%99%D7%A6%D7%9E%D7%9F-%D7%9C%D7%9E%D7%93%D7%A2-%D7%92%D7%99"
+            },
+            {
+                "source": "https://www.kipa.co.il/%D7%99%D7%94%D7%93%D7%95%D7%AA/%D7%94%D7%9C%D7%9B%D7%94/%D7%94%D7%A8%D7%91-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%91%D7%A9%D7%A8-%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA-%D7%90%D7%99%D7%A0%D7%95-%D7%A4%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%9C%D7%90-%D7%91%D7%A9-2/"
+            },
+            {
+                "source": "https://mobile.mako.co.il/news-business/news/Article-af1c2343eb34e71026.htm"
+            }
+        ],
+        "description": "בשר מתורבת או בשר סינתטי הוא בשר המיוצר במעבדה בתרבית תאים במקום בגופם של בעלי חיים. מספר מיזמי מחקר עדכניים מגדלים בשר במעבדה באופן ניסויי, אף על פי שעדיין לא יוצר בשר לצריכה ציבורית. סביר להניח שדור המוצרים הראשון יהיה בשר טחון, והמטרה לטווח ארוך היא לגדל רקמת שריר מפותחת לגמרי.",
+        "source": {
+            "name": "ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%91%D7%A9%D7%A8_%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA"
+        },
+        "אנשים_חיפשו_גם": [
+            {
+                "name": "תחליף בשר",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%AA%D7%97%D7%9C%D7%99%D7%A3+%D7%91%D7%A9%D7%A8&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgKhQKT1BXSUo5f6DrbE0I3txns3mv9_qpO79H4fMvurR9zl_3SEmRv_lWBUu6Jxy2xZiU_87z9g5mUCXXjl_HBzoTLHUT9p95seL0z2_g_6kjk0OwP8QfYZoZJloh8vwNtbRXq5RWrXlx9OWHR4sTh_uvnt78YoM3BrYnAVstIoeI-583rP8jX3Y9g1_UhPUXCEG6CelkY2N7iAKlcpGCLs414b6V_RfF5fUrmK8RKFaU6ku5CgoqrwQEjiPsS6I34eowRlYSiWrugr206FhYwpRc6g0&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24QxA16BAhJEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%AA%D7%97%D7%9C%D7%99%D7%A3+%D7%91%D7%A9%D7%A8&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgKhQKT1BXSUo5f6DrbE0I3txns3mv9_qpO79H4fMvurR9zl_3SEmRv_lWBUu6Jxy2xZiU_87z9g5mUCXXjl_HBzoTLHUT9p95seL0z2_g_6kjk0OwP8QfYZoZJloh8vwNtbRXq5RWrXlx9OWHR4sTh_uvnt78YoM3BrYnAVstIoeI-583rP8jX3Y9g1_UhPUXCEG6CelkY2N7iAKlcpGCLs414b6V_RfF5fUrmK8RKFaU6ku5CgoqrwQEjiPsS6I34eowRlYSiWrugr206FhYwpRc6g0",
+                "image": "https://serpapi.com/searches/62ae5d7329d1778e60d2b55a/images/131afb312824ada01c7d0f02d268ac5c329e029a0e1371a9c083aa2e58b2d333334ae723f7e99b3465e5779c391049a01882464910b330e3.jpeg"
+            },
+            {
+                "name": "Plant‑based meat",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=plant-based+meat+analogue&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHubfcq6C1qW7ghPt2TSNFQ4dGW0D-Qz8kSAPsHeh52uriUymbsiTOT-dTbNWVhG9Pif5a7XBl5Uj_AQKPrUL0GXqkfS8xUvJNz4Wo0K19Gz7tA9w85GdLoGYAfZJK2l2MTGuefg435ya-dD_bdDPOx5a9lKdoIvy-aYM5cUYwcPg3hI5fTuJ7loSYfKjty4GjZsJCoc7VC6RIiTtol3cn6woNcbNzz7Sv_8YwLgESigcmnw7lnNdGqFaklFhZiTNiKtCa2uxUyVwlxKIQWuAPi3Rin2J8ondzR3BAfWlKzSmoyF5lQ%3D%3D&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24QxA16BAhJEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=plant-based+meat+analogue&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHubfcq6C1qW7ghPt2TSNFQ4dGW0D-Qz8kSAPsHeh52uriUymbsiTOT-dTbNWVhG9Pif5a7XBl5Uj_AQKPrUL0GXqkfS8xUvJNz4Wo0K19Gz7tA9w85GdLoGYAfZJK2l2MTGuefg435ya-dD_bdDPOx5a9lKdoIvy-aYM5cUYwcPg3hI5fTuJ7loSYfKjty4GjZsJCoc7VC6RIiTtol3cn6woNcbNzz7Sv_8YwLgESigcmnw7lnNdGqFaklFhZiTNiKtCa2uxUyVwlxKIQWuAPi3Rin2J8ondzR3BAfWlKzSmoyF5lQ%3D%3D",
+                "image": "https://serpapi.com/searches/62ae5d7329d1778e60d2b55a/images/131afb312824ada01c7d0f02d268ac5c329e029a0e1371a9c083aa2e58b2d333334ae723f7e99b343a1de7fbfa7105cc6a9d794ebe79f7be.jpeg"
+            },
+            {
+                "name": "בשר",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%A9%D7%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTU517bs0qm-6cuGQMRZHa3Mn9HKis0_gAfMFB1kGUIrrNjXt375N0OsMNBDg_-PJIB7AS5D5_RIjJ4qqwWwG_3UH9b8Z-4t46ezhGXaztqYuFQs8adw-lQxo8DorVw8sePweO7e-73yIgMskfZZbkACZZ5g5R65h_gHsluvxwO8Av9tY5_CGuIbKluBYq_aPj299SX-03ihKBYeyIxo-2eyojd45U-13QzUbEUZE51RY5AWHLoCyRGxG4GO11yE2nFUopg%3D&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24QxA16BAhJEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdTU517bs0qm-6cuGQMRZHa3Mn9HKis0_gAfMFB1kGUIrrNjXt375N0OsMNBDg_-PJIB7AS5D5_RIjJ4qqwWwG_3UH9b8Z-4t46ezhGXaztqYuFQs8adw-lQxo8DorVw8sePweO7e-73yIgMskfZZbkACZZ5g5R65h_gHsluvxwO8Av9tY5_CGuIbKluBYq_aPj299SX-03ihKBYeyIxo-2eyojd45U-13QzUbEUZE51RY5AWHLoCyRGxG4GO11yE2nFUopg%3D",
+                "image": "https://serpapi.com/searches/62ae5d7329d1778e60d2b55a/images/131afb312824ada01c7d0f02d268ac5c329e029a0e1371a9c083aa2e58b2d333334ae723f7e99b3400a2fe5b3f762964a4c62f7a0c35457f.jpeg"
+            },
+            {
+                "name": "Sustainable meat",
+                "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA+sustainable+meat&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHhnmKDwTf-tyR_iIrDfTyz3aZLj3OfyqOb5n4uwBNqD_VRQRZ3q0qirnUa8Kf7AnSWZFP0_dZmnEjfDy8abPsdWMFbymzXe3yg_e8QsM-2r5KJ50IW2hG45W8h9B8R_3b5sGKDGi2TgZopX5c3WZTTlaROa8Tf2u_r62Err8MdFPjfoJW5aORKlwWrLpOH1Xr7SwoZE638iUXy9E4tFvCTng9Zg4_-__0ERDl6Z4rnzc_bxg2dEEW_HZ7dgp0JAkSv707A5dxhHwtrm-Leq6dWLaEbTQoQYdlEz3CR0ej7ZeiGxkrw%3D%3D&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24QxA16BAhJEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA+sustainable+meat&si=AC1wQDAXKblb4YtxZaDquKpQ5Js55CVph8NS1FIwBhgs6qyyHhnmKDwTf-tyR_iIrDfTyz3aZLj3OfyqOb5n4uwBNqD_VRQRZ3q0qirnUa8Kf7AnSWZFP0_dZmnEjfDy8abPsdWMFbymzXe3yg_e8QsM-2r5KJ50IW2hG45W8h9B8R_3b5sGKDGi2TgZopX5c3WZTTlaROa8Tf2u_r62Err8MdFPjfoJW5aORKlwWrLpOH1Xr7SwoZE638iUXy9E4tFvCTng9Zg4_-__0ERDl6Z4rnzc_bxg2dEEW_HZ7dgp0JAkSv707A5dxhHwtrm-Leq6dWLaEbTQoQYdlEz3CR0ej7ZeiGxkrw%3D%3D",
+                "image": "https://serpapi.com/searches/62ae5d7329d1778e60d2b55a/images/131afb312824ada01c7d0f02d268ac5c329e029a0e1371a9c083aa2e58b2d333334ae723f7e99b34286e6b0cb9ce72a293f83f6f35e13805.jpeg"
+            }
+        ],
+        "אנשים_חיפשו_גם_link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&stick=H4sIAAAAAAAAAONgFuLWT9c3NDLITco1SlZC5mgJBmempJYnVhb7pVaUBJekFhQvYhW-PvH6yusrFK7Pu77q-tTrK4DcVTtYGQEa6EwOSAAAAA&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24QMSgAegQISRAB",
+        "אנשים_חיפשו_גם_stick": "H4sIAAAAAAAAAONgFuLWT9c3NDLITco1SlZC5mgJBmempJYnVhb7pVaUBJekFhQvYhW-PvH6yusrFK7Pu77q-tTrK4DcVTtYGQEa6EwOSAAAAA"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "בשר מתורבת - כשרות הבשר | שיעור מאת מרן הרב אשר וייס שליט\"א",
+            "link": "https://www.youtube.com/watch?v=K2RdW85HKdQ",
+            "thumbnail": "https://serpapi.com/searches/62ae5d7329d1778e60d2b55a/images/8427ff37561043600a2320471c6dd596f931240c26561827be0402c2e65c0365.jpeg",
+            "channel": "Rav Asher Weiss Clips הרב אשר וייס",
+            "duration": "13:35",
+            "platform": "YouTube",
+            "date": "9 בנוב׳ 2020"
+        },
+        {
+            "position": 2,
+            "title": "בין מדע להלכה: האם מותר לאכול בשר מתורבת עם מוצרי חלב?",
+            "link": "https://www.youtube.com/watch?v=XugFSkqRbv4",
+            "thumbnail": "https://serpapi.com/searches/62ae5d7329d1778e60d2b55a/images/8427ff37561043607ca4e6f3b45bbdef4a42233a465f34932f34e04c60b9958e.jpeg",
+            "channel": "עכשיו 14",
+            "duration": "9:54",
+            "platform": "YouTube",
+            "date": "24 במרץ 2022"
+        },
+        {
+            "position": 3,
+            "title": "בענין בשר מתורבת - פנים חדשות במאכלות אסורות | שיעור שבועי מאת ...",
+            "link": "https://www.youtube.com/watch?v=PAoHKZppesQ",
+            "thumbnail": "https://serpapi.com/searches/62ae5d7329d1778e60d2b55a/images/8427ff37561043607a2aaff0f5167093b904f42ac5179d7a85c1dce88f78361f.jpeg",
+            "channel": "Rav Asher Weiss Clips הרב אשר וייס",
+            "duration": "50:25",
+            "platform": "YouTube",
+            "date": "24 בדצמ׳ 2021"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "בשר מתורבת - ויקיפדיה",
+            "link": "https://he.wikipedia.org/wiki/%D7%91%D7%A9%D7%A8_%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA",
+            "displayed_link": "https://he.wikipedia.org › wiki › בשר_מתורבת",
+            "snippet": "בשר מתורבת או בשר סינתטי הוא בשר המיוצר במעבדה בתרבית תאים במקום בגופם של בעלי חיים. מספר מיזמי מחקר עדכניים מגדלים בשר במעבדה באופן ניסויי, אף על פי שעדיין ...",
+            "snippet_highlighted_words": [
+                "בשר מתורבת",
+                "בשר",
+                "בשר",
+                "בשר"
+            ]
+        },
+        {
+            "position": 2,
+            "title": "בשר מתורבת - גלובס",
+            "link": "https://www.globes.co.il/news/%D7%91%D7%A9%D7%A8_%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA.tag",
+            "displayed_link": "https://www.globes.co.il › בשר מתורבת",
+            "snippet": "דעה. המנגל הלאומי: בשר מתורבת יוביל את ישראל לעצמאות תזונתית. 08.05.2022 ידידיה טוביה. חודש קשה לישראליות בוול סטריט; איזו מניה הצליחה להפתיע?",
+            "snippet_highlighted_words": [
+                "בשר מתורבת"
+            ]
+        },
+        {
+            "position": 3,
+            "title": "המנגל הלאומי: בשר מתורבת יוביל את ישראל לעצמאות תזונתית - ...",
+            "link": "https://www.globes.co.il/news/article.aspx?did=1001411117",
+            "displayed_link": "https://www.globes.co.il › הייטק ומדע",
+            "date": "8 במאי 2022",
+            "snippet": "ישראל היא מהמדינות המובילות בפיתוח בשר מתורבת, ולפי גורמים בתעשיה בתוך כחמש שנים חלק ממוצרי הבשר המתורבת צפויים להגיע לשוויון מחירים עם מוצרי ...",
+            "snippet_highlighted_words": [
+                "בשר מתורבת"
+            ]
+        },
+        {
+            "position": 4,
+            "title": "זה המועד שבו נוכל לאכול בשר שיוצר במעבדה - Mako",
+            "link": "https://www.mako.co.il/nexter-xtra_innovation/Article-b827cd1c3a63571027.htm",
+            "displayed_link": "https://www.mako.co.il › nexter-xtra_innovation",
+            "date": "4 בינו׳ 2021",
+            "snippet": "החברות הישראליות והעולמיות שועטות לעבר ייצור מסחרי של בשר מתורבת, המיוצר במעבדה מתאים של בעלי חיים, בלי שיהיה צורך לפגוע בהם.",
+            "snippet_highlighted_words": [
+                "בשר מתורבת"
+            ]
+        },
+        {
+            "position": 5,
+            "title": "ההמבורגר ההיברידי בדרך לצלחת שלכם - Ynet",
+            "link": "https://www.ynet.co.il/digital/technology/article/hjoc00lrv5",
+            "displayed_link": "https://www.ynet.co.il › ... › טכנולוגיה",
+            "date": "14 באפר׳ 2022",
+            "snippet": "האישור הרגולטורי של בשר מתורבת מתקרב, אבל המוצרים שנראה בשנים הראשונות יכללו גם שיעור גבוה של חלבון מהצומח. בענף הפוד-טק מקווים שהקבב והעוף ...",
+            "snippet_highlighted_words": [
+                "בשר מתורבת"
+            ]
+        },
+        {
+            "position": 6,
+            "title": "האם בשר מתורבת הוא הפתרון למשבר האקולוגי-אקלימי? - Ynet",
+            "link": "https://www.ynet.co.il/environment-science/article/syktbujuk",
+            "displayed_link": "https://www.ynet.co.il › ... › סביבה - כתבות וחדשות - ynet",
+            "date": "21 באוק׳ 2021",
+            "snippet": "בשר מתורבת יש הרבה יתרונות והוא עדיף עשרות מונים על בשר מן החי מבחינות רבות, אבל מעבר למשאבים ולפליטות בתהליכים המוצעים כיום, ...",
+            "snippet_highlighted_words": [
+                "בשר מתורבת",
+                "בשר"
+            ]
+        },
+        {
+            "position": 7,
+            "title": "תם עידן הבשר? המהלך המפתיע של תנובה - וואלה! כסף",
+            "link": "https://finance.walla.co.il/item/3481930",
+            "displayed_link": "https://finance.walla.co.il › חדשות",
+            "date": "11 בינו׳ 2022",
+            "snippet": "בשלב הראשון המיזם המשותף יפעל לגידול בשר מתורבת. האם מדובר בעידן חדש בצריכת המזון שלנו? וואלה! כסף. 10/01/2022.",
+            "snippet_highlighted_words": [
+                "בשר מתורבת"
+            ]
+        },
+        {
+            "position": 8,
+            "title": "הדרך לסטייק בלי בשר עוברת בהורדות מחירים | כלכליסט",
+            "link": "https://www.calcalist.co.il/shopping/article/hk1xxpbs5",
+            "displayed_link": "https://www.calcalist.co.il › shopping › article",
+            "date": "24 באפר׳ 2022",
+            "snippet": "36% מההשקעות העולמיות בבשר מתורבת נעשו בחברות ישראליות, אבל הדרך של המוצר שעשוי לחולל מהפכה עולמית עוד רחוקה, בעיקר בשל עלות הייצור הגבוהה.",
+            "snippet_highlighted_words": [
+                "מתורבת"
+            ]
+        },
+        {
+            "position": 9,
+            "title": "המנצח בפודטק 2021: בשר מתורבת, מהר ובזול; מליס - כלכליסט",
+            "link": "https://www.calcalist.co.il/calcalistech/article/s1mvdmjhy",
+            "displayed_link": "https://www.calcalist.co.il › calcalistech › article",
+            "date": "19 באוק׳ 2021",
+            "snippet": "המנצח בפודטק 2021: בשר מתורבת, מהר ובזול; מליס: \"נמכור בחצי מיליארד ש' בתחליפי חלבון עד 2023\". במקום הראשון באירוע גמר תחרות FoodTech 2021 ...",
+            "snippet_highlighted_words": [
+                "בשר מתורבת"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "בשר מתורבת בישראל",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA+%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q1QJ6BAgyEAE"
+        },
+        {
+            "query": "בשר מתורבת למכירה",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA+%D7%9C%D7%9E%D7%9B%D7%99%D7%A8%D7%94&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q1QJ6BAgxEAE"
+        },
+        {
+            "query": "בשר מתורבת מחיר",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA+%D7%9E%D7%97%D7%99%D7%A8&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q1QJ6BAgvEAE"
+        },
+        {
+            "query": "בשר מתורבת באנגלית",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA+%D7%91%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q1QJ6BAguEAE"
+        },
+        {
+            "query": "בשר מתורבת כשרות",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA+%D7%9B%D7%A9%D7%A8%D7%95%D7%AA&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q1QJ6BAgnEAE"
+        },
+        {
+            "query": "האם בשר מתורבת בשרי",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%94%D7%90%D7%9D+%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA+%D7%91%D7%A9%D7%A8%D7%99&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q1QJ6BAgjEAE"
+        },
+        {
+            "query": "בשר מתורבת עם חלב",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA+%D7%A2%D7%9D+%D7%97%D7%9C%D7%91&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q1QJ6BAgiEAE"
+        },
+        {
+            "query": "בשר מתורבת רחובות",
+            "link": "https://www.google.com/search?gl=il&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA+%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA&sa=X&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q1QJ6BAgfEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&gl=il&hl=iw&ei=dF2uYqfyDaS3qtsPs9me8AY&start=10&sa=N&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q8NMDegQIAhBP",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&gl=il&hl=iw&ei=dF2uYqfyDaS3qtsPs9me8AY&start=10&sa=N&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q8tMDegQIAhA9",
+            "3": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&gl=il&hl=iw&ei=dF2uYqfyDaS3qtsPs9me8AY&start=20&sa=N&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q8tMDegQIAhA_",
+            "4": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&gl=il&hl=iw&ei=dF2uYqfyDaS3qtsPs9me8AY&start=30&sa=N&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q8tMDegQIAhBB",
+            "5": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&gl=il&hl=iw&ei=dF2uYqfyDaS3qtsPs9me8AY&start=40&sa=N&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q8tMDegQIAhBD",
+            "6": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&gl=il&hl=iw&ei=dF2uYqfyDaS3qtsPs9me8AY&start=50&sa=N&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q8tMDegQIAhBF",
+            "7": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&gl=il&hl=iw&ei=dF2uYqfyDaS3qtsPs9me8AY&start=60&sa=N&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q8tMDegQIAhBH",
+            "8": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&gl=il&hl=iw&ei=dF2uYqfyDaS3qtsPs9me8AY&start=70&sa=N&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q8tMDegQIAhBJ",
+            "9": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&gl=il&hl=iw&ei=dF2uYqfyDaS3qtsPs9me8AY&start=80&sa=N&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q8tMDegQIAhBL",
+            "10": "https://www.google.com/search?q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&gl=il&hl=iw&ei=dF2uYqfyDaS3qtsPs9me8AY&start=90&sa=N&ved=2ahUKEwin_PrLkbj4AhWkm2oFHbOsB24Q8tMDegQIAhBN"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=il&google_domain=google.com&hl=iw&q=%D7%91%D7%A9%D7%A8+%D7%9E%D7%AA%D7%95%D7%A8%D7%91%D7%AA&start=90"
+        }
+    }
+}
